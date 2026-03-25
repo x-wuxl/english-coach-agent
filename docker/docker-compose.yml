@@ -1,0 +1,15 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: english-coach-postgres
+    environment:
+      POSTGRES_DB: english_coach
+      POSTGRES_USER: coach
+      POSTGRES_PASSWORD: coach
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:
