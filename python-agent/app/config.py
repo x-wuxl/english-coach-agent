@@ -10,10 +10,17 @@ class Settings(BaseSettings):
     # Per-task model overrides (fall back to llm_default_model)
     llm_coach_model: str = ""
     llm_explanation_model: str = ""
+    llm_reflection_model: str = ""
+
+    # Fallback model (used when primary fails)
+    llm_fallback_model: str = ""
 
     # LiteLLM settings
     llm_timeout: int = 30
     llm_max_retries: int = 2
+
+    # Tracing
+    tracing_enabled: bool = True
 
     model_config = {"env_prefix": "", "env_file": ".env", "env_file_encoding": "utf-8"}
 
@@ -24,6 +31,10 @@ class Settings(BaseSettings):
     @property
     def explanation_model(self) -> str:
         return self.llm_explanation_model or self.llm_default_model
+
+    @property
+    def reflection_model(self) -> str:
+        return self.llm_reflection_model or self.llm_default_model
 
 
 settings = Settings()
