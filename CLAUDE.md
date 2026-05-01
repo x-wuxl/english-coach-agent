@@ -71,7 +71,9 @@ tests/              → pytest tests using httpx TestClient
 - `GET /api/mastery` / `GET /api/mastery/due-review` — mastery state queries
 - `POST /api/reviews/weekly:generate` / `GET /api/reviews/weekly` — weekly review aggregation
 
-**Not yet implemented:** Phase 3 (AI/LLM integration), Phase 4 (reflection/correction loops), Phase 5 (Web UI).
+**Phase 3 (AI Enhancement):** Complete — LiteLLM provider abstraction, coach feedback agent, error explanation agent, java-core ↔ python-agent integration.
+
+**Not yet implemented:** Phase 4 (reflection/correction loops), Phase 5 (Web UI).
 
 ## Core Domain
 
