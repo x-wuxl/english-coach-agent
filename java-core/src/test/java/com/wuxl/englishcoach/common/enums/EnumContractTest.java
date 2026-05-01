@@ -24,7 +24,7 @@ class EnumContractTest {
         assertThat(Arrays.stream(AttemptResult.values()).map(Enum::name))
                 .containsExactly("CORRECT", "WRONG", "PARTIAL", "SKIPPED");
         assertThat(Arrays.stream(PlanType.values()).map(Enum::name))
-                .containsExactly("LIGHT", "NORMAL", "BOOST");
+                .containsExactly("NORMAL", "LIGHT_REVIEW");
     }
 
     @Test
