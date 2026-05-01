@@ -23,6 +23,7 @@ mvn spring-boot:run                                          # start on :8080
 
 # python-agent
 cd python-agent
+pip install -e ".[dev]"                                      # install deps
 python -m pytest -v                                          # all tests
 python -m pytest tests/test_health.py -v                     # single test file
 python -m pytest tests/test_health.py::test_fn -k "name"     # single test
@@ -55,10 +56,44 @@ Key conventions:
 
 ```
 app/
-  main.py           → FastAPI app, includes routers
-  api/health_routes → Health check endpoint
-tests/              → pytest tests using httpx TestClient
+  main.py               → FastAPI app, registers routers + tracing middleware
+  config.py              → Pydantic settings (env-based LLM config)
+  api/
+    health_routes.py     → GET /health
+    coach_routes.py      → POST /api/coach/feedback
+    explanation_routes.py→ POST /api/explain/error
+    reflection_routes.py → POST /api/reflect/session
+    harness_routes.py    → GET /api/harness/recordings
+    reminder_routes.py   → POST/GET /api/reminders
+    ui_routes.py         → GET / (static HTML)
+    dto.py               → Request/response Pydantic models
+  agents/
+    coach_agent.py       → Coach feedback generation
+    explanation_agent.py → Error explanation generation
+    reflection_agent.py  → Session reflection generation
+  services/
+    llm_service.py       → LiteLLM wrapper with fallback + tracing
+    correction_service.py→ LLM output validation + retry
+    reminder_service.py  → In-memory reminder store
+  middleware/
+    tracing.py           → Request tracing (trace_id + timing)
+  harness/
+    recorder.py          → Record interactions to JSON
+    replayer.py          → Load/replay recordings
+  static/
+    index.html           → Web UI (dashboard/study/mastery/review)
+tests/                   → pytest tests (22 tests)
 ```
+
+API endpoints (python-agent):
+- `POST /api/coach/feedback` — coach feedback per attempt
+- `POST /api/explain/error` — structured error explanation
+- `POST /api/reflect/session` — session reflection
+- `GET /api/harness/recordings` — list recorded interactions
+- `GET /api/reminders` — query reminders
+- `GET /` — Web UI
+
+Config via `.env`: `LLM_DEFAULT_MODEL`, `LLM_API_KEY`, `LLM_FALLBACK_MODEL`, `TRACING_ENABLED`.
 
 ## Implementation Status
 
@@ -73,7 +108,9 @@ tests/              → pytest tests using httpx TestClient
 
 **Phase 3 (AI Enhancement):** Complete — LiteLLM provider abstraction, coach feedback agent, error explanation agent, java-core ↔ python-agent integration.
 
-**Not yet implemented:** Phase 4 (reflection/correction loops), Phase 5 (Web UI).
+**Phase 4 (Reliability):** Complete — session reflection agent, correction loop, model fallback chain, request tracing, harness replay.
+
+**Phase 5 (Experience):** Complete — Web UI (dashboard/study/mastery/review pages), reminder adapter.
 
 ## Core Domain
 
