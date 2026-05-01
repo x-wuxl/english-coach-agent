@@ -60,11 +60,28 @@ app/
 tests/              → pytest tests using httpx TestClient
 ```
 
-## Core Domain (from design docs)
+## Implementation Status
+
+**Phase 1 (Foundation):** Complete — user profile CRUD, content seed data, Flyway migrations, H2 test infra.
+
+**Phase 2 (Core Learning Loop):** Complete — 77 tests, full learning cycle wired:
+- `POST /api/placement/assess` — placement scoring, level assignment
+- `POST /api/plans/daily:generate` / `GET /api/plans/daily` — daily plan with load policy, review priority, new item selection
+- `POST /api/sessions/start` / `POST /api/sessions/{id}/attempts` / `POST /api/sessions/{id}/complete` / `GET /api/sessions/{id}` — study session lifecycle
+- `GET /api/mastery` / `GET /api/mastery/due-review` — mastery state queries
+- `POST /api/reviews/weekly:generate` / `GET /api/reviews/weekly` — weekly review aggregation
+
+**Not yet implemented:** Phase 3 (AI/LLM integration), Phase 4 (reflection/correction loops), Phase 5 (Web UI).
+
+## Core Domain
 
 The learning loop: placement → daily planning → study session → mastery update → weekly review.
 
+Key domain classes: `PlacementScorer`, `DailyLoadPolicy`, `ReviewPriorityCalculator`, `NewItemSelectionPolicy`, `ScoreUpdatePolicy`, `MasteryStateMachine`, `NextReviewPolicy`, `WeeklyReviewAggregator`.
+
 Key enums: `GoalType`, `MasteryStatus`, `PlanStatus`, `SessionStatus`, `AttemptResult`, `LearningItemType`, `ItemRole`, `SessionType`, `PlanType`.
+
+DB migrations: V1 (user_profile) → V2 (learning_item, mastery_state, study_session, attempt_log) → V3 (daily_plan_snapshot, daily_plan_item, weekly_review_snapshot) → V4 (seed learning items).
 
 Detailed specs live in `docs/superpowers/specs/` and plans in `docs/superpowers/plans/`.
 

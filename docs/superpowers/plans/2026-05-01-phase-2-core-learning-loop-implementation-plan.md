@@ -1,6 +1,6 @@
 # Phase 2: Core Learning Loop Implementation Plan
 
-> **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (- [ ]) syntax for tracking.
+> **Status: COMPLETED (2026-05-01)** — All 7 tasks done, 77 tests passing.
 
 **Goal:** Implement the complete learning loop — Placement → Daily Plan → Study Session → Mastery Update → Weekly Review — in java-core, with seed learning content and all supporting domain rules.
 

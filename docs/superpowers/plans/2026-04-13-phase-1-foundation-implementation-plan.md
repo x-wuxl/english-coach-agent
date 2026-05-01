@@ -1,6 +1,6 @@
 # Phase 1 Foundation Implementation Plan
 
-> **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (- [ ]) syntax for tracking.
+> **Status: COMPLETED (2026-04-13)** — All tasks done.
 
 **Goal:** Build the phase-1 foundation slice: PostgreSQL runtime, Flyway-backed user profile persistence in java-core, and a minimal runnable python-agent skeleton.
 
