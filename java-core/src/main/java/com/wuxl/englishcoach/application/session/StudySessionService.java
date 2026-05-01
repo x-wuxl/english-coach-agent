@@ -12,6 +12,9 @@ import com.wuxl.englishcoach.domain.mastery.MasteryStateMachine;
 import com.wuxl.englishcoach.domain.mastery.NextReviewPolicy;
 import com.wuxl.englishcoach.domain.mastery.ScoreUpdatePolicy;
 import com.wuxl.englishcoach.domain.mastery.ScoreUpdatePolicy.ScoreDelta;
+import com.wuxl.englishcoach.infrastructure.llm.PythonAgentClient;
+import com.wuxl.englishcoach.infrastructure.persistence.content.LearningItemDO;
+import com.wuxl.englishcoach.infrastructure.persistence.content.LearningItemMapper;
 import com.wuxl.englishcoach.infrastructure.persistence.mastery.MasteryStateDO;
 import com.wuxl.englishcoach.infrastructure.persistence.mastery.MasteryStateMapper;
 import com.wuxl.englishcoach.infrastructure.persistence.session.AttemptLogDO;
@@ -37,24 +40,30 @@ public class StudySessionService {
     private final StudySessionMapper studySessionMapper;
     private final AttemptLogMapper attemptLogMapper;
     private final MasteryStateMapper masteryStateMapper;
+    private final LearningItemMapper learningItemMapper;
     private final ScoreUpdatePolicy scoreUpdatePolicy;
     private final MasteryStateMachine stateMachine;
     private final NextReviewPolicy nextReviewPolicy;
+    private final PythonAgentClient pythonAgentClient;
 
     public StudySessionService(UserProfileMapper userProfileMapper,
                                StudySessionMapper studySessionMapper,
                                AttemptLogMapper attemptLogMapper,
                                MasteryStateMapper masteryStateMapper,
+                               LearningItemMapper learningItemMapper,
                                ScoreUpdatePolicy scoreUpdatePolicy,
                                MasteryStateMachine stateMachine,
-                               NextReviewPolicy nextReviewPolicy) {
+                               NextReviewPolicy nextReviewPolicy,
+                               PythonAgentClient pythonAgentClient) {
         this.userProfileMapper = userProfileMapper;
         this.studySessionMapper = studySessionMapper;
         this.attemptLogMapper = attemptLogMapper;
         this.masteryStateMapper = masteryStateMapper;
+        this.learningItemMapper = learningItemMapper;
         this.scoreUpdatePolicy = scoreUpdatePolicy;
         this.stateMachine = stateMachine;
         this.nextReviewPolicy = nextReviewPolicy;
+        this.pythonAgentClient = pythonAgentClient;
     }
 
     @Transactional
@@ -105,6 +114,13 @@ public class StudySessionService {
             attempt.setErrorType(attemptReq.errorType());
             attempt.setOccurredAt(LocalDateTime.now());
             attempt.setCreatedAt(LocalDateTime.now());
+
+            // Call python-agent for error explanation on wrong answers
+            if ("WRONG".equals(attemptReq.result())) {
+                String explanation = requestExplanation(attemptReq);
+                attempt.setLlmExplanationSnapshot(explanation);
+            }
+
             attemptLogMapper.insert(attempt);
 
             // Update mastery state
@@ -159,7 +175,7 @@ public class StudySessionService {
         List<AttemptDetailResponse> attemptResponses = attempts.stream()
                 .map(a -> new AttemptDetailResponse(a.getId(), a.getAttemptCode(), a.getLearningItemId(),
                         a.getMode(), a.getResult(), a.getResponseText(), a.getResponseTimeMs(),
-                        a.getHintUsed(), a.getErrorType()))
+                        a.getHintUsed(), a.getErrorType(), a.getLlmExplanationSnapshot()))
                 .toList();
 
         return new StudySessionDetailResponse(
@@ -229,6 +245,18 @@ public class StudySessionService {
         } else {
             masteryStateMapper.updateById(mastery);
         }
+    }
+
+    private String requestExplanation(com.wuxl.englishcoach.api.session.dto.SubmitAttemptRequest attemptReq) {
+        LearningItemDO item = learningItemMapper.selectById(attemptReq.learningItemId());
+        if (item == null) return null;
+
+        return pythonAgentClient.explainError(
+                item.getContent(),
+                item.getMeaningZh(),
+                attemptReq.responseText(),
+                attemptReq.mode(),
+                attemptReq.errorType());
     }
 
     private BigDecimal clamp(BigDecimal value) {

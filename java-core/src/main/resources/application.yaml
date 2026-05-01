@@ -20,3 +20,7 @@ mybatis-plus:
   global-config:
     db-config:
       id-type: ASSIGN_UUID
+
+python-agent:
+  base-url: ${PYTHON_AGENT_URL:http://localhost:8000}
+  enabled: ${PYTHON_AGENT_ENABLED:true}

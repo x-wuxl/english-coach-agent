@@ -9,6 +9,7 @@ public record AttemptDetailResponse(
         String responseText,
         Integer responseTimeMs,
         Boolean hintUsed,
-        String errorType
+        String errorType,
+        String llmExplanation
 ) {
 }
