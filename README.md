@@ -59,3 +59,48 @@ Build the MVP loop first:
 7. reflection / correction
 8. harness replay
 
+## Phase 1 local smoke test
+
+1. Start PostgreSQL with Docker Compose
+2. Start java-core on port 8080
+3. Call GET /api/health
+4. Create a user with POST /api/users
+5. Read the user back with GET /api/users/{userId}
+6. Start python-agent on port 8000
+7. Call GET /health
+
+## Phase 1 run commands
+
+Start PostgreSQL:
+
+```bash
+docker compose -f docker/docker-compose.yml up -d
+```
+
+Run java-core tests:
+
+```bash
+cd java-core
+mvn test "-Dtest=FlywayMigrationTest,HealthCheckControllerTest,UserProfileControllerTest"
+```
+
+Start java-core:
+
+```bash
+cd java-core
+mvn spring-boot:run
+```
+
+Run python-agent tests:
+
+```bash
+cd python-agent
+python -m pytest -v
+```
+
+Start python-agent:
+
+```bash
+cd python-agent
+uvicorn app.main:app --reload --port 8000
+```

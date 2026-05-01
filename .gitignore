@@ -7,10 +7,14 @@ Thumbs.db
 .vscode/
 *.iml
 
-# Java / Gradle
+# Claude Code
+.claude/
+
+# Java / Gradle / Maven
 .gradle/
 build/
 out/
+target/
 *.class
 
 # Python
@@ -20,6 +24,7 @@ __pycache__/
 venv/
 .pytest_cache/
 .mypy_cache/
+*.egg-info/
 
 # Env
 .env
@@ -37,3 +42,5 @@ htmlcov/
 
 # Local data
 .tmp/
+.worktrees/
+tmp_apply_patch_test.txt
