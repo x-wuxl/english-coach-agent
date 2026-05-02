@@ -462,9 +462,50 @@
 
             document.getElementById('study-item-area').classList.add('hidden');
             document.getElementById('study-complete-area').classList.remove('hidden');
-            document.getElementById('study-summary').innerHTML =
-                `<p>Total items: ${studyItems.length}</p>
-                 <p>Session accuracy: ${data.data.accuracy || 0}%</p>`;
+
+            const accuracy = data.data.accuracy || 0;
+            const total = studyItems.length;
+            const attempted = studyResults.correct + studyResults.wrong;
+
+            let summaryHtml = `
+                <div style="display:flex;gap:16px;margin:16px 0">
+                    <div class="stat"><div class="value">${total}</div><div class="label">Total</div></div>
+                    <div class="stat"><div class="value" style="color:#16a34a">${studyResults.correct}</div><div class="label">Correct</div></div>
+                    <div class="stat"><div class="value" style="color:#dc2626">${studyResults.wrong}</div><div class="label">Wrong</div></div>
+                    <div class="stat"><div class="value" style="color:#6b7280">${studyResults.skipped}</div><div class="label">Skipped</div></div>
+                    <div class="stat"><div class="value">${accuracy}%</div><div class="label">Accuracy</div></div>
+                </div>`;
+
+            // Get session reflection from python-agent
+            const uid = document.getElementById('studyUserId').value;
+            const reflectRes = await apiPost(`${PYTHON_BASE}/api/reflect/session`, {
+                user_id: parseInt(uid),
+                session_id: currentSessionId,
+                total_items: total,
+                correct_count: studyResults.correct,
+                wrong_count: studyResults.wrong,
+                skipped_count: studyResults.skipped,
+                accuracy: accuracy
+            });
+
+            if (reflectRes && reflectRes.error_summary) {
+                summaryHtml += `
+                    <div style="margin-top:16px">
+                        <h3 style="font-size:15px;margin-bottom:8px">Session Reflection</h3>
+                        <div class="msg msg-info">
+                            <p><strong>Summary:</strong> ${reflectRes.error_summary}</p>
+                            <p><strong>Pattern:</strong> ${reflectRes.pattern_insight}</p>
+                            <p><strong>Next session:</strong> ${reflectRes.next_session_suggestion}</p>
+                        </div>
+                    </div>`;
+            }
+
+            summaryHtml += `<div style="margin-top:16px">
+                <button class="btn btn-primary" onclick="showPage('dashboard')">Back to Dashboard</button>
+                <button class="btn btn-success" onclick="startSession()" style="margin-left:8px">Study Again</button>
+            </div>`;
+
+            document.getElementById('study-summary').innerHTML = summaryHtml;
             currentSessionId = null;
         }
 
