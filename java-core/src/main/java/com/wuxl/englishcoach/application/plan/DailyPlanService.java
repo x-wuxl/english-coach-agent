@@ -133,7 +133,7 @@ public class DailyPlanService {
             LearningItemDO item = learningItemMapper.selectById(s.learningItemId());
             if (item == null) continue;
             reviewItems.add(new DailyPlanItemResponse(
-                    item.getId(), item.getContent(), "REVIEW", null,
+                    item.getId(), item.getContent(), item.getMeaningZh(), "REVIEW", null,
                     BigDecimal.valueOf(priority), "priority=" + String.format("%.2f", priority)));
             whyReviewThese.add(item.getContent() + " priority=" + String.format("%.2f", priority));
         }
@@ -155,7 +155,7 @@ public class DailyPlanService {
             LearningItemDO item = learningItemMapper.selectById(c.id());
             if (item == null) continue;
             newItems.add(new DailyPlanItemResponse(
-                    item.getId(), item.getContent(), "NEW", null, null, "new selection"));
+                    item.getId(), item.getContent(), item.getMeaningZh(), "NEW", null, null, "new selection"));
         }
 
         // Persist plan
@@ -230,8 +230,9 @@ public class DailyPlanService {
         for (DailyPlanItemDO itemDO : items) {
             LearningItemDO li = learningItemMapper.selectById(itemDO.getLearningItemId());
             String content = li != null ? li.getContent() : "";
+            String meaningZh = li != null ? li.getMeaningZh() : "";
             DailyPlanItemResponse resp = new DailyPlanItemResponse(
-                    itemDO.getLearningItemId(), content, itemDO.getItemRole(),
+                    itemDO.getLearningItemId(), content, meaningZh, itemDO.getItemRole(),
                     itemDO.getRecommendedMode(), itemDO.getPriorityScore(), itemDO.getSelectionReason());
             if ("NEW".equals(itemDO.getItemRole())) {
                 newItems.add(resp);

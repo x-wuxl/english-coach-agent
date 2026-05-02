@@ -5,6 +5,7 @@ import java.math.BigDecimal;
 public record DailyPlanItemResponse(
         Long itemId,
         String content,
+        String meaningZh,
         String itemRole,
         String recommendedMode,
         BigDecimal priorityScore,

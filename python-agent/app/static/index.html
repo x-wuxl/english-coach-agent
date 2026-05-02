@@ -398,14 +398,24 @@
 
             document.getElementById('study-answer').disabled = true;
             const item = studyItems[studyIndex];
+            const mode = item.recommendedMode || 'RECOGNITION';
             const startTime = Date.now();
 
+            // Basic correctness check for RECOGNITION mode
+            let isCorrect = false;
+            if (mode === 'RECOGNITION' && item.meaningZh) {
+                const meanings = item.meaningZh.split(/[；;,/]/).map(s => s.trim());
+                isCorrect = meanings.some(m => answer.includes(m) || m.includes(answer));
+            }
+
+            const result = isCorrect ? 'CORRECT' : 'WRONG';
+
             // Submit attempt to backend
-            const attemptRes = await apiPost(`${JAVA_BASE}/api/sessions/${currentSessionId}/attempts`, {
+            await apiPost(`${JAVA_BASE}/api/sessions/${currentSessionId}/attempts`, {
                 attempts: [{
                     learningItemId: item.itemId,
-                    mode: item.recommendedMode || 'RECOGNITION',
-                    result: 'WRONG', // will be scored by backend
+                    mode: mode,
+                    result: result,
                     responseText: answer,
                     responseTimeMs: Date.now() - startTime,
                     hintUsed: false
@@ -414,19 +424,27 @@
 
             // Get coach feedback from python-agent
             const coachRes = await apiPost(`${PYTHON_BASE}/api/coach/feedback`, {
-                user_response: answer,
-                correct_answer: item.content,
-                item_type: item.itemRole,
-                is_correct: false
+                item_content: item.content,
+                meaning_zh: item.meaningZh || '',
+                user_answer: answer,
+                result: result,
+                mode: mode,
+                hint_used: false
             });
 
             let feedbackHtml = '';
+            if (isCorrect) {
+                feedbackHtml = `<div class="msg msg-success">Correct!</div>`;
+            } else {
+                feedbackHtml = `<div class="msg msg-error">Incorrect. The answer is: ${item.meaningZh || item.content}</div>`;
+            }
             if (coachRes && coachRes.feedback) {
-                feedbackHtml = `<div class="msg msg-info">${coachRes.feedback}</div>`;
+                feedbackHtml += `<div class="msg msg-info">${coachRes.feedback}</div>`;
             }
             document.getElementById('study-feedback').innerHTML = feedbackHtml;
             document.getElementById('study-next-btn').classList.remove('hidden');
-            studyResults.wrong++;
+            if (isCorrect) studyResults.correct++;
+            else studyResults.wrong++;
         }
 
         async function skipStudyItem() {
