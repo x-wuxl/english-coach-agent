@@ -3,9 +3,11 @@ import logging
 import os
 from datetime import datetime
 
+from app.config import settings
+
 logger = logging.getLogger(__name__)
 
-RECORD_DIR = os.environ.get("HARNESS_RECORD_DIR", "harness_records")
+RECORD_DIR = settings.harness_record_dir
 
 
 def record_interaction(trace_id: str, request_type: str, request_data: dict, response_data: dict):

@@ -22,7 +22,10 @@ class Settings(BaseSettings):
     # Tracing
     tracing_enabled: bool = True
 
-    model_config = {"env_prefix": "", "env_file": ".env", "env_file_encoding": "utf-8"}
+    # Harness
+    harness_record_dir: str = "harness_records"
+
+    model_config = {"env_prefix": "", "env_file": ".env", "env_file_encoding": "utf-8", "extra": "ignore"}
 
     @property
     def coach_model(self) -> str:
