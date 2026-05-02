@@ -160,10 +160,11 @@
                         <div id="study-item-hint" style="color:#6b7280;font-size:14px;margin-bottom:12px"></div>
                         <div class="row">
                             <div style="flex:1">
-                                <input type="text" id="study-answer" placeholder="Type your answer in English..." style="width:100%" onkeydown="if(event.key==='Enter')submitStudyAnswer()" />
+                                <input type="text" id="study-answer" placeholder="Type your answer..." style="width:100%" onkeydown="if(event.key==='Enter')submitStudyAnswer()" />
                             </div>
-                            <div>
+                            <div style="display:flex;gap:8px">
                                 <button class="btn btn-success" onclick="submitStudyAnswer()">Submit</button>
+                                <button class="btn" onclick="skipStudyItem()" style="background:#e5e7eb;color:#374151">Skip</button>
                             </div>
                         </div>
                         <div id="study-feedback" style="margin-top:12px"></div>
@@ -426,6 +427,23 @@
             document.getElementById('study-feedback').innerHTML = feedbackHtml;
             document.getElementById('study-next-btn').classList.remove('hidden');
             studyResults.wrong++;
+        }
+
+        async function skipStudyItem() {
+            const item = studyItems[studyIndex];
+            // Submit as skipped
+            await apiPost(`${JAVA_BASE}/api/sessions/${currentSessionId}/attempts`, {
+                attempts: [{
+                    learningItemId: item.itemId,
+                    mode: item.recommendedMode || 'RECOGNITION',
+                    result: 'SKIPPED',
+                    responseText: '',
+                    responseTimeMs: 0,
+                    hintUsed: false
+                }]
+            });
+            studyResults.skipped++;
+            await nextStudyItem();
         }
 
         async function nextStudyItem() {
