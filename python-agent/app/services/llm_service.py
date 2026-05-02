@@ -62,19 +62,27 @@ class LLMService:
 
         return None
 
+    def _build_kwargs(self, model, temperature, max_tokens) -> dict:
+        kwargs = {
+            "model": model,
+            "temperature": temperature,
+            "max_tokens": max_tokens,
+            "timeout": settings.llm_timeout,
+            "num_retries": settings.llm_max_retries,
+        }
+        if settings.llm_api_key:
+            kwargs["api_key"] = settings.llm_api_key
+        if settings.llm_api_base:
+            kwargs["api_base"] = settings.llm_api_base
+        return kwargs
+
     def _call_completion(self, model, messages, temperature, max_tokens, trace_id) -> str | None:
         try:
             if settings.tracing_enabled:
                 logger.info("[%s] LLM call model=%s msgs=%d", trace_id, model, len(messages))
 
-            response = litellm_completion(
-                model=model,
-                messages=messages,
-                temperature=temperature,
-                max_tokens=max_tokens,
-                timeout=settings.llm_timeout,
-                num_retries=settings.llm_max_retries,
-            )
+            kwargs = self._build_kwargs(model, temperature, max_tokens)
+            response = litellm_completion(messages=messages, **kwargs)
             content = response.choices[0].message.content
 
             if settings.tracing_enabled:
@@ -90,15 +98,8 @@ class LLMService:
             if settings.tracing_enabled:
                 logger.info("[%s] LLM structured call model=%s", trace_id, model)
 
-            response = litellm_completion(
-                model=model,
-                messages=messages,
-                response_format=response_format,
-                temperature=temperature,
-                max_tokens=max_tokens,
-                timeout=settings.llm_timeout,
-                num_retries=settings.llm_max_retries,
-            )
+            kwargs = self._build_kwargs(model, temperature, max_tokens)
+            response = litellm_completion(messages=messages, response_format=response_format, **kwargs)
             content = response.choices[0].message.content
 
             if settings.tracing_enabled:
