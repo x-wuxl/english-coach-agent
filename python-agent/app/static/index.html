@@ -16,7 +16,9 @@
         .btn-primary { background: #2563eb; color: white; }
         .btn-primary:hover { background: #1d4ed8; }
         .btn-success { background: #16a34a; color: white; }
+        .btn-success:hover { background: #15803d; }
         .btn-danger { background: #dc2626; color: white; }
+        .btn-sm { padding: 6px 12px; font-size: 12px; }
         input, select { padding: 8px 12px; border: 1px solid #d1d5db; border-radius: 6px; font-size: 14px; width: 100%; margin-bottom: 8px; }
         label { display: block; font-weight: 600; margin-bottom: 4px; font-size: 14px; }
         .row { display: flex; gap: 12px; margin-bottom: 12px; }
@@ -24,13 +26,7 @@
         .stat { text-align: center; }
         .stat .value { font-size: 28px; font-weight: 700; color: #2563eb; }
         .stat .label { font-size: 12px; color: #6b7280; }
-        .item { padding: 12px; border: 1px solid #e5e7eb; border-radius: 6px; margin-bottom: 8px; }
-        .item.correct { border-left: 4px solid #16a34a; }
-        .item.wrong { border-left: 4px solid #dc2626; }
         .hidden { display: none; }
-        .feedback { background: #eff6ff; border: 1px solid #bfdbfe; border-radius: 6px; padding: 12px; margin-top: 8px; }
-        .explanation { background: #fef3c7; border: 1px solid #fde68a; border-radius: 6px; padding: 12px; margin-top: 8px; }
-        #session-area { min-height: 200px; }
         .loading { text-align: center; color: #6b7280; padding: 20px; }
         .nav { display: flex; gap: 8px; margin-bottom: 20px; }
         .nav .btn { flex: 1; text-align: center; }
@@ -38,6 +34,24 @@
         table { width: 100%; border-collapse: collapse; }
         th, td { padding: 8px 12px; text-align: left; border-bottom: 1px solid #e5e7eb; font-size: 14px; }
         th { background: #f9fafb; font-weight: 600; }
+        .badge { display: inline-block; padding: 2px 8px; border-radius: 10px; font-size: 12px; font-weight: 600; }
+        .badge-green { background: #dcfce7; color: #166534; }
+        .badge-blue { background: #dbeafe; color: #1e40af; }
+        .badge-yellow { background: #fef9c3; color: #854d0e; }
+        .badge-red { background: #fee2e2; color: #991b1b; }
+        .badge-gray { background: #f3f4f6; color: #374151; }
+        .msg { padding: 10px 14px; border-radius: 6px; margin-bottom: 12px; font-size: 14px; }
+        .msg-success { background: #dcfce7; border: 1px solid #86efac; color: #166534; }
+        .msg-error { background: #fee2e2; border: 1px solid #fca5a5; color: #991b1b; }
+        .msg-info { background: #dbeafe; border: 1px solid #93c5fd; color: #1e40af; }
+        .question-box { background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 16px; margin-bottom: 12px; }
+        .question-box h3 { font-size: 15px; margin-bottom: 8px; }
+        .options { display: flex; flex-direction: column; gap: 6px; }
+        .option-btn { padding: 10px 14px; border: 1px solid #d1d5db; border-radius: 6px; cursor: pointer; text-align: left; font-size: 14px; background: white; }
+        .option-btn:hover { background: #f3f4f6; }
+        .option-btn.selected { border-color: #2563eb; background: #eff6ff; }
+        .option-btn.correct { border-color: #16a34a; background: #dcfce7; }
+        .option-btn.wrong { border-color: #dc2626; background: #fee2e2; }
     </style>
 </head>
 <body>
@@ -50,6 +64,7 @@
         <div class="nav">
             <button class="btn btn-primary active" onclick="showPage('dashboard')">Dashboard</button>
             <button class="btn btn-primary" onclick="showPage('study')">Study</button>
+            <button class="btn btn-primary" onclick="showPage('placement')">Placement</button>
             <button class="btn btn-primary" onclick="showPage('mastery')">Mastery</button>
             <button class="btn btn-primary" onclick="showPage('review')">Weekly Review</button>
         </div>
@@ -57,7 +72,37 @@
         <!-- Dashboard -->
         <div id="page-dashboard">
             <div class="card">
-                <h2>Quick Start</h2>
+                <h2>Create User</h2>
+                <div id="create-user-msg"></div>
+                <div class="row">
+                    <div>
+                        <label>User Code</label>
+                        <input type="text" id="newUserCode" placeholder="e.g. test_user_1" />
+                    </div>
+                    <div>
+                        <label>Daily Minutes</label>
+                        <input type="number" id="newDailyMinutes" value="20" min="5" max="120" />
+                    </div>
+                </div>
+                <div class="row">
+                    <div>
+                        <label>Goal</label>
+                        <select id="newGoal">
+                            <option value="GENERAL">General</option>
+                            <option value="DAILY_CONVERSATION">Daily Conversation</option>
+                            <option value="WORKPLACE">Workplace</option>
+                            <option value="TRAVEL">Travel</option>
+                            <option value="EXAM">Exam</option>
+                        </select>
+                    </div>
+                    <div style="display:flex;align-items:flex-end">
+                        <button class="btn btn-success" onclick="createUser()">Create User</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <h2>Load User</h2>
                 <div class="row">
                     <div>
                         <label>User ID</label>
@@ -84,6 +129,10 @@
                 <h2>Start Study Session</h2>
                 <div class="row">
                     <div>
+                        <label>User ID</label>
+                        <input type="number" id="studyUserId" value="1" />
+                    </div>
+                    <div>
                         <label>Session Type</label>
                         <select id="sessionType">
                             <option value="DAILY_LEARNING">Daily Learning</option>
@@ -106,11 +155,53 @@
             </div>
         </div>
 
+        <!-- Placement -->
+        <div id="page-placement" class="hidden">
+            <div class="card">
+                <h2>Placement Assessment</h2>
+                <p style="color:#6b7280;margin-bottom:12px">Test your English level by answering questions across 4 sections.</p>
+                <div class="row">
+                    <div>
+                        <label>User ID</label>
+                        <input type="number" id="placementUserId" value="1" />
+                    </div>
+                    <div style="display:flex;align-items:flex-end">
+                        <button class="btn btn-success" onclick="startPlacement()">Start Assessment</button>
+                    </div>
+                </div>
+            </div>
+            <div id="placement-area" class="hidden">
+                <div class="card">
+                    <h2>Question <span id="q-current">1</span> / <span id="q-total">10</span></h2>
+                    <div id="question-container"></div>
+                    <div id="q-feedback" class="hidden" style="margin-top:10px"></div>
+                    <div style="margin-top:12px;display:flex;gap:8px">
+                        <button class="btn btn-primary" id="next-btn" onclick="nextQuestion()" disabled>Next</button>
+                    </div>
+                </div>
+            </div>
+            <div id="placement-result" class="hidden">
+                <div class="card">
+                    <h2>Placement Result</h2>
+                    <div id="result-content"></div>
+                </div>
+            </div>
+        </div>
+
         <!-- Mastery -->
         <div id="page-mastery" class="hidden">
             <div class="card">
                 <h2>Mastery States</h2>
-                <div id="mastery-list" class="loading">Loading...</div>
+                <div class="row" style="margin-bottom:12px">
+                    <div>
+                        <label>User ID</label>
+                        <input type="number" id="masteryUserId" value="1" />
+                    </div>
+                    <div style="display:flex;align-items:flex-end">
+                        <button class="btn btn-primary" onclick="loadMastery()">Refresh</button>
+                    </div>
+                </div>
+                <div id="mastery-list" class="loading">Click Refresh to load</div>
             </div>
         </div>
 
@@ -119,6 +210,10 @@
             <div class="card">
                 <h2>Weekly Review</h2>
                 <div class="row">
+                    <div>
+                        <label>User ID</label>
+                        <input type="number" id="reviewUserId" value="1" />
+                    </div>
                     <div>
                         <label>Week Start</label>
                         <input type="date" id="weekStart" />
@@ -148,18 +243,13 @@
 
     <script>
         const JAVA_BASE = 'http://localhost:8080';
-        const PYTHON_BASE = '';
 
         function showPage(name) {
             document.querySelectorAll('[id^="page-"]').forEach(el => el.classList.add('hidden'));
             document.getElementById('page-' + name).classList.remove('hidden');
             document.querySelectorAll('.nav .btn').forEach(b => b.classList.remove('active'));
             event.target.classList.add('active');
-
-            if (name === 'mastery') loadMastery();
         }
-
-        function getUserId() { return document.getElementById('userId').value; }
 
         async function apiGet(url) {
             const res = await fetch(url);
@@ -171,8 +261,35 @@
             return res.json();
         }
 
+        function showMsg(id, text, type) {
+            const el = document.getElementById(id);
+            el.innerHTML = `<div class="msg msg-${type}">${text}</div>`;
+            setTimeout(() => el.innerHTML = '', 5000);
+        }
+
+        // ========== Create User ==========
+        async function createUser() {
+            const code = document.getElementById('newUserCode').value.trim();
+            const minutes = parseInt(document.getElementById('newDailyMinutes').value);
+            const goal = document.getElementById('newGoal').value;
+            if (!code) { showMsg('create-user-msg', 'Please enter a user code', 'error'); return; }
+
+            const data = await apiPost(`${JAVA_BASE}/api/users`, {
+                userCode: code, goal: goal, dailyMinutes: minutes
+            });
+            if (data.code !== 0) { showMsg('create-user-msg', 'Failed: ' + data.message, 'error'); return; }
+
+            document.getElementById('userId').value = data.data.id;
+            document.getElementById('studyUserId').value = data.data.id;
+            document.getElementById('placementUserId').value = data.data.id;
+            document.getElementById('masteryUserId').value = data.data.id;
+            document.getElementById('reviewUserId').value = data.data.id;
+            showMsg('create-user-msg', `User created! ID = ${data.data.id}`, 'success');
+        }
+
+        // ========== Dashboard ==========
         async function loadDashboard() {
-            const uid = getUserId();
+            const uid = document.getElementById('userId').value;
             const data = await apiGet(`${JAVA_BASE}/api/mastery?userId=${uid}`);
             if (data.code !== 0) { alert('Failed: ' + data.message); return; }
             document.getElementById('dashboard-content').classList.remove('hidden');
@@ -185,31 +302,18 @@
             document.getElementById('stat-due').textContent = due.code === 0 ? (due.data.items || []).length : '-';
         }
 
-        async function loadMastery() {
-            const uid = getUserId();
-            const data = await apiGet(`${JAVA_BASE}/api/mastery?userId=${uid}`);
-            const list = document.getElementById('mastery-list');
-            if (data.code !== 0 || !data.data.items.length) {
-                list.innerHTML = '<p style="color:#6b7280">No mastery data yet. Complete a study session first.</p>';
-                return;
-            }
-            list.innerHTML = '<table><tr><th>Item</th><th>Status</th><th>Score</th><th>Streak</th><th>Next Review</th></tr>' +
-                data.data.items.map(i =>
-                    `<tr><td>${i.content || i.learningItemId}</td><td>${i.status}</td><td>${i.recognitionScore || 0}</td><td>${i.correctStreak || 0}</td><td>${i.nextReviewAt || '-'}</td></tr>`
-                ).join('') + '</table>';
-        }
-
+        // ========== Study ==========
         let currentSessionId = null;
 
         async function startSession() {
-            const uid = getUserId();
+            const uid = document.getElementById('studyUserId').value;
             const type = document.getElementById('sessionType').value;
             const data = await apiPost(`${JAVA_BASE}/api/sessions/start`, { userId: parseInt(uid), sessionType: type });
             if (data.code !== 0) { alert('Failed: ' + data.message); return; }
             currentSessionId = data.data.id;
             document.getElementById('session-code').textContent = data.data.sessionCode;
             document.getElementById('session-area').classList.remove('hidden');
-            document.getElementById('attempt-list').innerHTML = '<p style="color:#6b7280">Session started. Submit attempts via API or add items to study.</p>';
+            document.getElementById('attempt-list').innerHTML = '<p style="color:#6b7280">Session started. Submit attempts via API or do a Placement test first.</p>';
         }
 
         async function completeSession() {
@@ -221,13 +325,138 @@
             document.getElementById('session-area').classList.add('hidden');
         }
 
+        // ========== Placement ==========
+        const placementQuestions = [
+            { section: 'vocab', q: 'What does "appointment" mean?', options: ['预约；约会', '道歉', '评估', '批准'], correct: 0 },
+            { section: 'vocab', q: 'What does "convenient" mean?', options: ['昂贵的', '方便的', '困难的', '复杂的'], correct: 1 },
+            { section: 'vocab', q: 'What does "deadline" mean?', options: ['出生日期', '截止日期', '纪念日', '假期'], correct: 1 },
+            { section: 'grammar', q: '"I ___ lived here for three years." Choose the correct word:', options: ['have', 'has', 'had', 'having'], correct: 0 },
+            { section: 'grammar', q: '"If I had more time, I ___ learn Japanese." Choose:', options: ['will', 'would', 'can', 'shall'], correct: 1 },
+            { section: 'grammar', q: '"She is very ___ at her job." Choose:', options: ['efficiency', 'efficient', 'efficiently', 'efficiencies'], correct: 1 },
+            { section: 'reading', q: '"Could you please send me the report by end of day?" What is being asked?', options: ['To read a report', 'To send a report today', 'To write a new report', 'To review a report'], correct: 1 },
+            { section: 'reading', q: '"The meeting has been rescheduled to next Monday." What happened?', options: ['Meeting cancelled', 'Meeting moved to Monday', 'Meeting starts now', 'Meeting on Friday'], correct: 1 },
+            { section: 'output', q: 'How to say "我想预订晚上7点的两人桌" in English?', options: ['I want to book two tables at 7 PM', 'I would like to book a table for two at 7 PM', 'I need two seats at 7 o\'clock', 'I want dinner at 7 PM for two people'], correct: 1 },
+            { section: 'output', q: '"与同事相处" in English is:', options: ['get along with colleagues', 'go along with colleagues', 'get with colleagues', 'along with colleagues'], correct: 0 },
+        ];
+
+        let pqIndex = 0;
+        let pqAnswers = [];
+
+        function startPlacement() {
+            pqIndex = 0;
+            pqAnswers = [];
+            document.getElementById('placement-area').classList.remove('hidden');
+            document.getElementById('placement-result').classList.add('hidden');
+            renderQuestion();
+        }
+
+        function renderQuestion() {
+            const q = placementQuestions[pqIndex];
+            document.getElementById('q-current').textContent = pqIndex + 1;
+            document.getElementById('q-total').textContent = placementQuestions.length;
+            document.getElementById('q-feedback').classList.add('hidden');
+            document.getElementById('next-btn').disabled = true;
+
+            const container = document.getElementById('question-container');
+            container.innerHTML = `
+                <div class="question-box">
+                    <h3>[${q.section.toUpperCase()}] ${q.q}</h3>
+                    <div class="options">
+                        ${q.options.map((opt, i) => `<button class="option-btn" onclick="selectAnswer(${i})">${String.fromCharCode(65 + i)}. ${opt}</button>`).join('')}
+                    </div>
+                </div>
+            `;
+        }
+
+        function selectAnswer(idx) {
+            const q = placementQuestions[pqIndex];
+            const btns = document.querySelectorAll('#question-container .option-btn');
+            btns.forEach(b => b.style.pointerEvents = 'none');
+
+            const correct = idx === q.correct;
+            btns[idx].classList.add(correct ? 'correct' : 'wrong');
+            btns[q.correct].classList.add('correct');
+
+            pqAnswers.push({
+                section: q.section,
+                questionId: `q_${pqIndex}`,
+                result: correct ? 'CORRECT' : 'WRONG',
+                responseTimeMs: 3000,
+                hintUsed: false
+            });
+
+            const fb = document.getElementById('q-feedback');
+            fb.classList.remove('hidden');
+            fb.innerHTML = correct
+                ? '<div class="msg msg-success">Correct!</div>'
+                : `<div class="msg msg-error">Wrong. The answer is: ${q.options[q.correct]}</div>`;
+
+            document.getElementById('next-btn').disabled = false;
+        }
+
+        async function nextQuestion() {
+            pqIndex++;
+            if (pqIndex >= placementQuestions.length) {
+                await submitPlacement();
+                return;
+            }
+            renderQuestion();
+        }
+
+        async function submitPlacement() {
+            const uid = document.getElementById('placementUserId').value;
+            document.getElementById('placement-area').classList.add('hidden');
+
+            const data = await apiPost(`${JAVA_BASE}/api/placement/assess`, {
+                userId: parseInt(uid),
+                answers: pqAnswers
+            });
+
+            document.getElementById('placement-result').classList.remove('hidden');
+            if (data.code !== 0) {
+                document.getElementById('result-content').innerHTML = `<div class="msg msg-error">Failed: ${data.message}</div>`;
+                return;
+            }
+
+            const r = data.data;
+            const weaknesses = (r.weaknesses || []).map(w => `<span class="badge badge-yellow">${w}</span>`).join(' ') || '<span class="badge badge-green">None</span>';
+            document.getElementById('result-content').innerHTML = `
+                <div class="row" style="margin-top:8px">
+                    <div class="card stat"><div class="value">${r.overallLevel}</div><div class="label">Overall</div></div>
+                    <div class="card stat"><div class="value">${r.vocabLevel}</div><div class="label">Vocab</div></div>
+                    <div class="card stat"><div class="value">${r.grammarLevel}</div><div class="label">Grammar</div></div>
+                    <div class="card stat"><div class="value">${r.readingLevel}</div><div class="label">Reading</div></div>
+                    <div class="card stat"><div class="value">${r.outputLevel}</div><div class="label">Output</div></div>
+                </div>
+                <div style="margin-top:12px"><strong>Weaknesses:</strong> ${weaknesses}</div>
+                <div style="margin-top:8px"><strong>Suggested Daily:</strong> ${r.suggestedDailyRhythm.newItems} new, ${r.suggestedDailyRhythm.reviewItems} review, ${r.suggestedDailyRhythm.outputTasks} output</div>
+            `;
+        }
+
+        // ========== Mastery ==========
+        async function loadMastery() {
+            const uid = document.getElementById('masteryUserId').value;
+            const data = await apiGet(`${JAVA_BASE}/api/mastery?userId=${uid}`);
+            const list = document.getElementById('mastery-list');
+            if (data.code !== 0 || !data.data.items.length) {
+                list.innerHTML = '<p style="color:#6b7280">No mastery data yet. Complete a study session first.</p>';
+                return;
+            }
+            list.innerHTML = '<table><tr><th>Item</th><th>Status</th><th>Score</th><th>Streak</th><th>Next Review</th></tr>' +
+                data.data.items.map(i => {
+                    const badge = i.status === 'MASTERED' ? 'badge-green' : i.status === 'WEAK_OUTPUT' ? 'badge-red' : i.status === 'LEARNING' ? 'badge-blue' : 'badge-gray';
+                    return `<tr><td>${i.content || i.learningItemId}</td><td><span class="badge ${badge}">${i.status}</span></td><td>${i.recognitionScore || 0}</td><td>${i.correctStreak || 0}</td><td>${i.nextReviewAt ? new Date(i.nextReviewAt).toLocaleDateString() : '-'}</td></tr>`;
+                }).join('') + '</table>';
+        }
+
+        // ========== Weekly Review ==========
         async function loadReview() {
-            const uid = getUserId();
+            const uid = document.getElementById('reviewUserId').value;
             const ws = document.getElementById('weekStart').value;
             const we = document.getElementById('weekEnd').value;
             if (!ws || !we) { alert('Please select week dates'); return; }
             const data = await apiGet(`${JAVA_BASE}/api/reviews/weekly?userId=${uid}&weekStartDate=${ws}&weekEndDate=${we}`);
-            if (data.code !== 0) { alert('Not found or error: ' + data.message); return; }
+            if (data.code !== 0) { alert('Not found: ' + data.message); return; }
             document.getElementById('review-content').classList.remove('hidden');
             document.getElementById('review-completion').textContent = (data.data.completionRate * 100).toFixed(0) + '%';
             document.getElementById('review-minutes').textContent = data.data.studyMinutes;
@@ -235,7 +464,7 @@
             document.getElementById('review-suggestion').textContent = data.data.nextWeekSuggestion;
         }
 
-        // Set default week dates
+        // Init
         const today = new Date();
         const monday = new Date(today);
         monday.setDate(today.getDate() - today.getDay() + 1);
