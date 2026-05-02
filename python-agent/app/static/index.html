@@ -368,10 +368,22 @@
 
         function renderStudyItem() {
             const item = studyItems[studyIndex];
+            const mode = item.recommendedMode || 'RECOGNITION';
             document.getElementById('study-progress').textContent = `${studyIndex + 1} / ${studyItems.length}`;
-            document.getElementById('study-item-type').textContent = `[${item.itemRole}] ${item.recommendedMode || 'RECOGNITION'}`;
+            document.getElementById('study-item-type').textContent = `[${item.itemRole}] ${mode}`;
             document.getElementById('study-item-content').textContent = item.content;
-            document.getElementById('study-item-hint').textContent = item.selectionReason || '';
+
+            // Show helpful hint based on mode
+            let hint = '';
+            if (mode === 'RECOGNITION') {
+                hint = '请写出这个的中文意思';
+            } else if (mode === 'OUTPUT') {
+                hint = '请用英文造一个句子';
+            } else {
+                hint = '请写出你的答案';
+            }
+            document.getElementById('study-item-hint').textContent = hint;
+
             document.getElementById('study-answer').value = '';
             document.getElementById('study-feedback').innerHTML = '';
             document.getElementById('study-next-btn').classList.add('hidden');
