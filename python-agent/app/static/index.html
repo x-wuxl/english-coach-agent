@@ -48,6 +48,13 @@
         .question-box h3 { font-size: 15px; margin-bottom: 8px; }
         .options { display: flex; flex-direction: column; gap: 6px; }
         .option-btn { padding: 10px 14px; border: 1px solid #d1d5db; border-radius: 6px; cursor: pointer; text-align: left; font-size: 14px; background: white; }
+        input[type="number"]::-webkit-inner-spin-button,
+        input[type="number"]::-webkit-outer-spin-button { -webkit-appearance: none; margin: 0; }
+        input[type="number"] { -moz-appearance: textfield; }
+        .inline-field { display: flex; align-items: center; gap: 8px; }
+        .inline-field label { margin-bottom: 0; white-space: nowrap; }
+        .inline-field input { margin-bottom: 0; width: 80px; text-align: center; }
+        .inline-field select { margin-bottom: 0; }
         .option-btn:hover { background: #f3f4f6; }
         .option-btn.selected { border-color: #2563eb; background: #eff6ff; }
         .option-btn.correct { border-color: #16a34a; background: #dcfce7; }
@@ -103,14 +110,12 @@
 
             <div class="card">
                 <h2>Load User</h2>
-                <div class="row">
-                    <div>
+                <div style="display:flex;gap:12px;align-items:center">
+                    <div class="inline-field">
                         <label>User ID</label>
                         <input type="number" id="userId" value="1" />
                     </div>
-                    <div style="display:flex;align-items:flex-end">
-                        <button class="btn btn-primary" onclick="loadDashboard()">Load</button>
-                    </div>
+                    <button class="btn btn-primary" onclick="loadDashboard()">Load</button>
                 </div>
             </div>
             <div id="dashboard-content" class="hidden">
@@ -126,30 +131,49 @@
         <!-- Study -->
         <div id="page-study" class="hidden">
             <div class="card">
-                <h2>Start Study Session</h2>
-                <div class="row">
-                    <div>
+                <h2>Study Session</h2>
+                <div style="display:flex;gap:12px;align-items:center">
+                    <div class="inline-field">
                         <label>User ID</label>
                         <input type="number" id="studyUserId" value="1" />
                     </div>
-                    <div>
-                        <label>Session Type</label>
-                        <select id="sessionType">
+                    <div class="inline-field">
+                        <label>Type</label>
+                        <select id="sessionType" style="width:auto">
                             <option value="DAILY_LEARNING">Daily Learning</option>
                             <option value="REVIEW">Review</option>
                         </select>
                     </div>
-                    <div style="display:flex;align-items:flex-end">
-                        <button class="btn btn-success" onclick="startSession()">Start</button>
-                    </div>
+                    <button class="btn btn-success" onclick="startSession()">Start</button>
                 </div>
+                <div id="study-msg"></div>
             </div>
             <div id="session-area" class="hidden">
                 <div class="card">
-                    <h2>Session <span id="session-code"></span></h2>
-                    <div id="attempt-list"></div>
-                    <div style="margin-top:12px">
-                        <button class="btn btn-danger" onclick="completeSession()">Complete Session</button>
+                    <div style="display:flex;justify-content:space-between;align-items:center">
+                        <h2>Session <span id="session-code"></span></h2>
+                        <span id="study-progress" style="color:#6b7280;font-size:14px"></span>
+                    </div>
+                    <div id="study-item-area">
+                        <div id="study-item-type" style="font-size:12px;color:#6b7280;margin-bottom:4px"></div>
+                        <div id="study-item-content" style="font-size:20px;font-weight:600;margin:12px 0"></div>
+                        <div id="study-item-hint" style="color:#6b7280;font-size:14px;margin-bottom:12px"></div>
+                        <div class="row">
+                            <div style="flex:1">
+                                <input type="text" id="study-answer" placeholder="Type your answer in English..." style="width:100%" onkeydown="if(event.key==='Enter')submitStudyAnswer()" />
+                            </div>
+                            <div>
+                                <button class="btn btn-success" onclick="submitStudyAnswer()">Submit</button>
+                            </div>
+                        </div>
+                        <div id="study-feedback" style="margin-top:12px"></div>
+                        <div id="study-next-btn" class="hidden" style="margin-top:12px">
+                            <button class="btn" onclick="nextStudyItem()">Next →</button>
+                        </div>
+                    </div>
+                    <div id="study-complete-area" class="hidden">
+                        <p style="font-size:18px;font-weight:600;color:#059669">Session Complete!</p>
+                        <div id="study-summary"></div>
                     </div>
                 </div>
             </div>
@@ -160,14 +184,12 @@
             <div class="card">
                 <h2>Placement Assessment</h2>
                 <p style="color:#6b7280;margin-bottom:12px">Test your English level by answering questions across 4 sections.</p>
-                <div class="row">
-                    <div>
+                <div style="display:flex;gap:12px;align-items:center">
+                    <div class="inline-field">
                         <label>User ID</label>
                         <input type="number" id="placementUserId" value="1" />
                     </div>
-                    <div style="display:flex;align-items:flex-end">
-                        <button class="btn btn-success" onclick="startPlacement()">Start Assessment</button>
-                    </div>
+                    <button class="btn btn-success" onclick="startPlacement()">Start Assessment</button>
                 </div>
             </div>
             <div id="placement-area" class="hidden">
@@ -192,14 +214,12 @@
         <div id="page-mastery" class="hidden">
             <div class="card">
                 <h2>Mastery States</h2>
-                <div class="row" style="margin-bottom:12px">
-                    <div>
+                <div style="display:flex;gap:12px;align-items:center;margin-bottom:12px">
+                    <div class="inline-field">
                         <label>User ID</label>
                         <input type="number" id="masteryUserId" value="1" />
                     </div>
-                    <div style="display:flex;align-items:flex-end">
-                        <button class="btn btn-primary" onclick="loadMastery()">Refresh</button>
-                    </div>
+                    <button class="btn btn-primary" onclick="loadMastery()">Refresh</button>
                 </div>
                 <div id="mastery-list" class="loading">Click Refresh to load</div>
             </div>
@@ -209,22 +229,20 @@
         <div id="page-review" class="hidden">
             <div class="card">
                 <h2>Weekly Review</h2>
-                <div class="row">
-                    <div>
+                <div style="display:flex;gap:12px;align-items:center">
+                    <div class="inline-field">
                         <label>User ID</label>
                         <input type="number" id="reviewUserId" value="1" />
                     </div>
-                    <div>
-                        <label>Week Start</label>
-                        <input type="date" id="weekStart" />
+                    <div class="inline-field">
+                        <label>Start</label>
+                        <input type="date" id="weekStart" style="width:auto" />
                     </div>
-                    <div>
-                        <label>Week End</label>
-                        <input type="date" id="weekEnd" />
+                    <div class="inline-field">
+                        <label>End</label>
+                        <input type="date" id="weekEnd" style="width:auto" />
                     </div>
-                    <div style="display:flex;align-items:flex-end">
-                        <button class="btn btn-primary" onclick="loadReview()">Load</button>
-                    </div>
+                    <button class="btn btn-primary" onclick="loadReview()">Load</button>
                 </div>
                 <div id="review-content" class="hidden">
                     <div class="row" style="margin-top:12px">
@@ -243,6 +261,7 @@
 
     <script>
         const JAVA_BASE = 'http://localhost:8080';
+        const PYTHON_BASE = '';
 
         function showPage(name) {
             document.querySelectorAll('[id^="page-"]').forEach(el => el.classList.add('hidden'));
@@ -304,25 +323,119 @@
 
         // ========== Study ==========
         let currentSessionId = null;
+        let studyItems = [];
+        let studyIndex = 0;
+        let studyResults = { correct: 0, wrong: 0, partial: 0, skipped: 0 };
 
         async function startSession() {
             const uid = document.getElementById('studyUserId').value;
             const type = document.getElementById('sessionType').value;
-            const data = await apiPost(`${JAVA_BASE}/api/sessions/start`, { userId: parseInt(uid), sessionType: type });
-            if (data.code !== 0) { alert('Failed: ' + data.message); return; }
-            currentSessionId = data.data.id;
-            document.getElementById('session-code').textContent = data.data.sessionCode;
+
+            // Generate daily plan first
+            showMsg('study-msg', 'Generating daily plan...', 'info');
+            const today = new Date().toISOString().slice(0, 10);
+            const planRes = await apiPost(`${JAVA_BASE}/api/plans/daily:generate`, {
+                userId: parseInt(uid), planDate: today, planType: type === 'REVIEW' ? 'REVIEW' : 'DAILY'
+            });
+
+            if (planRes.code !== 0) {
+                showMsg('study-msg', 'Failed to generate plan: ' + planRes.message, 'error');
+                return;
+            }
+
+            // Collect items from plan
+            const plan = planRes.data;
+            studyItems = [...(plan.newItems || []), ...(plan.reviewItems || [])];
+            if (studyItems.length === 0) {
+                showMsg('study-msg', 'No items in today\'s plan. Complete a Placement test first.', 'error');
+                return;
+            }
+
+            // Start session
+            const sessionRes = await apiPost(`${JAVA_BASE}/api/sessions/start`, { userId: parseInt(uid), sessionType: type });
+            if (sessionRes.code !== 0) { showMsg('study-msg', 'Failed: ' + sessionRes.message, 'error'); return; }
+
+            currentSessionId = sessionRes.data.id;
+            document.getElementById('session-code').textContent = sessionRes.data.sessionCode;
             document.getElementById('session-area').classList.remove('hidden');
-            document.getElementById('attempt-list').innerHTML = '<p style="color:#6b7280">Session started. Submit attempts via API or do a Placement test first.</p>';
+            document.getElementById('study-complete-area').classList.add('hidden');
+            document.getElementById('study-item-area').classList.remove('hidden');
+
+            studyIndex = 0;
+            studyResults = { correct: 0, wrong: 0, partial: 0, skipped: 0 };
+            renderStudyItem();
+        }
+
+        function renderStudyItem() {
+            const item = studyItems[studyIndex];
+            document.getElementById('study-progress').textContent = `${studyIndex + 1} / ${studyItems.length}`;
+            document.getElementById('study-item-type').textContent = `[${item.itemRole}] ${item.recommendedMode || 'RECOGNITION'}`;
+            document.getElementById('study-item-content').textContent = item.content;
+            document.getElementById('study-item-hint').textContent = item.selectionReason || '';
+            document.getElementById('study-answer').value = '';
+            document.getElementById('study-feedback').innerHTML = '';
+            document.getElementById('study-next-btn').classList.add('hidden');
+            document.getElementById('study-answer').disabled = false;
+            document.getElementById('study-answer').focus();
+        }
+
+        async function submitStudyAnswer() {
+            const answer = document.getElementById('study-answer').value.trim();
+            if (!answer) return;
+
+            document.getElementById('study-answer').disabled = true;
+            const item = studyItems[studyIndex];
+            const startTime = Date.now();
+
+            // Submit attempt to backend
+            const attemptRes = await apiPost(`${JAVA_BASE}/api/sessions/${currentSessionId}/attempts`, {
+                attempts: [{
+                    learningItemId: item.itemId,
+                    mode: item.recommendedMode || 'RECOGNITION',
+                    result: 'WRONG', // will be scored by backend
+                    responseText: answer,
+                    responseTimeMs: Date.now() - startTime,
+                    hintUsed: false
+                }]
+            });
+
+            // Get coach feedback from python-agent
+            const coachRes = await apiPost(`${PYTHON_BASE}/api/coach/feedback`, {
+                user_response: answer,
+                correct_answer: item.content,
+                item_type: item.itemRole,
+                is_correct: false
+            });
+
+            let feedbackHtml = '';
+            if (coachRes && coachRes.feedback) {
+                feedbackHtml = `<div class="msg msg-info">${coachRes.feedback}</div>`;
+            }
+            document.getElementById('study-feedback').innerHTML = feedbackHtml;
+            document.getElementById('study-next-btn').classList.remove('hidden');
+            studyResults.wrong++;
+        }
+
+        async function nextStudyItem() {
+            studyIndex++;
+            if (studyIndex >= studyItems.length) {
+                await completeSession();
+                return;
+            }
+            renderStudyItem();
         }
 
         async function completeSession() {
             if (!currentSessionId) return;
             const data = await apiPost(`${JAVA_BASE}/api/sessions/${currentSessionId}/complete`, {});
             if (data.code !== 0) { alert('Failed: ' + data.message); return; }
-            alert('Session completed!');
+
+            document.getElementById('study-item-area').classList.add('hidden');
+            document.getElementById('study-complete-area').classList.remove('hidden');
+            document.getElementById('study-summary').innerHTML =
+                `<p>Total items: ${studyItems.length}</p>
+                 <p>Session accuracy: ${data.data.accuracy || 0}%</p>`;
             currentSessionId = null;
-            document.getElementById('session-area').classList.add('hidden');
         }
 
         // ========== Placement ==========
