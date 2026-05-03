@@ -438,10 +438,11 @@
             if (isCorrect) {
                 feedbackHtml = `<div class="msg msg-success">Correct!</div>`;
             } else {
-                feedbackHtml = `<div class="msg msg-error">Incorrect. The answer is: ${item.meaningZh || item.content}</div>`;
+                const correctAnswer = item.meaningZh || '(restart java-core to load meanings)';
+                feedbackHtml = `<div class="msg msg-error">Incorrect. The answer is: ${correctAnswer}</div>`;
             }
-            if (coachRes && coachRes.feedback) {
-                feedbackHtml += `<div class="msg msg-info">${coachRes.feedback}</div>`;
+            if (coachRes && coachRes.feedback && coachRes.feedback.trim()) {
+                feedbackHtml += `<div class="msg msg-info">Coach: ${coachRes.feedback}</div>`;
             }
             document.getElementById('study-feedback').innerHTML = feedbackHtml;
             document.getElementById('study-next-btn').classList.remove('hidden');

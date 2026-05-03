@@ -41,7 +41,7 @@ def generate_feedback(req: CoachFeedbackRequest) -> CoachFeedbackResponse:
         max_tokens=256,
     )
 
-    if result is None:
+    if result is None or result.strip() == "":
         return FALLBACK_CORRECT if req.result == "CORRECT" else FALLBACK_WRONG
 
     # Parse LLM response: first line is CORRECT/WRONG, rest is feedback
@@ -54,6 +54,8 @@ def generate_feedback(req: CoachFeedbackRequest) -> CoachFeedbackResponse:
         feedback_lines = lines[1:]
 
     feedback = feedback_lines[0] if feedback_lines else result
+    if not feedback.strip():
+        feedback = "Answer recorded. Keep practicing!"
     encouragement = feedback_lines[1] if len(feedback_lines) > 1 else ("Keep going!" if is_correct else "You can do it!")
 
     return CoachFeedbackResponse(feedback=feedback, encouragement=encouragement, is_correct=is_correct)
