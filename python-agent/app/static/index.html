@@ -59,6 +59,22 @@
         .option-btn.selected { border-color: #2563eb; background: #eff6ff; }
         .option-btn.correct { border-color: #16a34a; background: #dcfce7; }
         .option-btn.wrong { border-color: #dc2626; background: #fee2e2; }
+        textarea { padding: 10px 12px; border: 1px solid #d1d5db; border-radius: 6px; font-size: 14px; width: 100%; min-height: 72px; resize: vertical; font-family: inherit; }
+        .coach-shell { display: grid; grid-template-columns: minmax(0, 1fr) 280px; gap: 16px; align-items: start; }
+        .coach-brief { grid-column: 1 / -1; display: flex; justify-content: space-between; gap: 16px; align-items: flex-end; }
+        .coach-stream { min-height: 360px; max-height: 560px; overflow: auto; background: #fff; border: 1px solid #e5e7eb; border-radius: 8px; padding: 16px; }
+        .coach-message { margin-bottom: 12px; padding: 10px 12px; border-radius: 8px; max-width: 88%; }
+        .coach-message.user { margin-left: auto; background: #dbeafe; color: #1e3a8a; }
+        .coach-message.coach { background: #f3f4f6; color: #111827; }
+        .memory-panel { background: #fff; border: 1px solid #e5e7eb; border-radius: 8px; padding: 14px; }
+        .memory-item { border-bottom: 1px solid #e5e7eb; padding: 10px 0; }
+        .memory-item:last-child { border-bottom: none; }
+        .coach-input { grid-column: 1 / -1; background: #fff; border: 1px solid #e5e7eb; border-radius: 8px; padding: 14px; }
+        .mode-selector { display: inline-flex; gap: 4px; background: #f3f4f6; padding: 4px; border-radius: 8px; margin-bottom: 10px; }
+        .mode-selector button { border: 0; padding: 7px 12px; border-radius: 6px; cursor: pointer; background: transparent; }
+        .mode-selector button.active { background: #2563eb; color: white; }
+        .legacy-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; }
+        @media (max-width: 760px) { .coach-shell { grid-template-columns: 1fr; } .coach-brief { display: block; } }
     </style>
 </head>
 <body>
@@ -69,15 +85,105 @@
         </div>
 
         <div class="nav">
-            <button class="btn btn-primary active" onclick="showPage('dashboard')">Dashboard</button>
-            <button class="btn btn-primary" onclick="showPage('study')">Study</button>
-            <button class="btn btn-primary" onclick="showPage('placement')">Placement</button>
-            <button class="btn btn-primary" onclick="showPage('mastery')">Mastery</button>
-            <button class="btn btn-primary" onclick="showPage('review')">Weekly Review</button>
+            <button class="btn btn-primary active" onclick="showPage('coach')">Today Coach</button>
+            <button class="btn btn-primary" onclick="showPage('memory')">Memory</button>
+            <button class="btn btn-primary" onclick="showPage('progress')">Progress</button>
+            <button class="btn btn-primary" onclick="showPage('legacy')">Legacy</button>
+        </div>
+
+        <!-- Today Coach -->
+        <div id="page-coach">
+            <section class="coach-shell">
+                <header class="coach-brief card">
+                    <div>
+                        <h2>Today Coach</h2>
+                        <div class="row" style="margin-top:12px;margin-bottom:0">
+                            <div>
+                                <label>User ID</label>
+                                <input type="number" id="coachUserId" value="1" />
+                            </div>
+                            <div>
+                                <label>New User Code</label>
+                                <input type="text" id="coachNewUserCode" placeholder="e.g. coach_user_1" />
+                            </div>
+                            <div style="display:flex;align-items:flex-end;gap:8px">
+                                <button class="btn btn-primary" onclick="loadCoachUser()">Load</button>
+                                <button class="btn btn-success" onclick="createCoachUser()">Create</button>
+                            </div>
+                        </div>
+                        <div id="coach-msg"></div>
+                    </div>
+                    <button class="btn btn-success" onclick="startCoachSession()">Start Coach</button>
+                </header>
+                <main class="coach-stream" id="coach-stream"></main>
+                <aside class="memory-panel" id="priority-memory"></aside>
+                <section class="coach-input" id="first-session-panel">
+                    <h2 style="font-size:16px;margin-bottom:10px">First Coaching Session</h2>
+                    <div class="row">
+                        <div><label>Goal</label><select id="firstGoal"><option value="GENERAL">General</option><option value="WORKPLACE">Workplace</option></select></div>
+                        <div><label>Daily minutes</label><input type="number" id="firstDailyMinutes" value="10" min="5" max="60" /></div>
+                    </div>
+                    <textarea id="firstSamples" placeholder="Write 1-3 English sample sentences..."></textarea>
+                    <div style="margin-top:10px"><button class="btn btn-success" onclick="completeFirstCoachingSession()">Start my coach plan</button></div>
+                </section>
+                <footer class="coach-input">
+                    <div class="mode-selector">
+                        <button id="coach-mode-chat" class="active" onclick="setCoachMode('CHAT')">CHAT</button>
+                        <button id="coach-mode-fix" onclick="setCoachMode('FIX')">FIX</button>
+                        <button id="coach-mode-drill" onclick="setCoachMode('DRILL')">DRILL</button>
+                    </div>
+                    <textarea id="coach-input" placeholder="Say anything in English..." onkeydown="if(event.key==='Enter' && !event.shiftKey){event.preventDefault();submitCoachTurn();}"></textarea>
+                    <div style="display:flex;justify-content:space-between;align-items:center;margin-top:10px">
+                        <span id="coach-session-label" style="color:#6b7280;font-size:13px">No active coach session</span>
+                        <button class="btn btn-primary" onclick="submitCoachTurn()">Send</button>
+                    </div>
+                </footer>
+            </section>
+        </div>
+
+        <!-- Memory -->
+        <div id="page-memory" class="hidden">
+            <div class="card">
+                <h2>Priority Memory</h2>
+                <div style="display:flex;gap:12px;align-items:center">
+                    <div class="inline-field"><label>User ID</label><input type="number" id="memoryUserId" value="1" /></div>
+                    <button class="btn btn-primary" onclick="loadPriorityMemory(document.getElementById('memoryUserId').value)">Refresh</button>
+                </div>
+                <div id="memory-page-list" style="margin-top:12px"></div>
+            </div>
+        </div>
+
+        <!-- Progress -->
+        <div id="page-progress" class="hidden">
+            <div class="card">
+                <h2>Progress</h2>
+                <div style="display:flex;gap:12px;align-items:center;flex-wrap:wrap">
+                    <div class="inline-field"><label>User ID</label><input type="number" id="progressUserId" value="1" /></div>
+                    <div class="inline-field"><label>Start</label><input type="date" id="coachReviewStart" style="width:auto" /></div>
+                    <div class="inline-field"><label>End</label><input type="date" id="coachReviewEnd" style="width:auto" /></div>
+                    <button class="btn btn-primary" onclick="loadCoachReview()">Load Coach Review</button>
+                </div>
+                <div id="coach-review-content" style="margin-top:12px"></div>
+                <div style="margin-top:12px"><button class="btn btn-primary" onclick="showPage('review')">Open Weekly Review</button></div>
+            </div>
+        </div>
+
+        <!-- Legacy -->
+        <div id="page-legacy" class="hidden">
+            <div class="card">
+                <h2>Legacy Modules</h2>
+                <div class="legacy-grid">
+                    <button class="btn btn-primary" onclick="showPage('dashboard')">Dashboard</button>
+                    <button class="btn btn-primary" onclick="showPage('study')">Study</button>
+                    <button class="btn btn-primary" onclick="showPage('placement')">Placement</button>
+                    <button class="btn btn-primary" onclick="showPage('mastery')">Mastery</button>
+                    <button class="btn btn-primary" onclick="showPage('review')">Weekly Review</button>
+                </div>
+            </div>
         </div>
 
         <!-- Dashboard -->
-        <div id="page-dashboard">
+        <div id="page-dashboard" class="hidden">
             <div class="card">
                 <h2>Create User</h2>
                 <div id="create-user-msg"></div>
@@ -263,12 +369,16 @@
     <script>
         const JAVA_BASE = 'http://localhost:8080';
         const PYTHON_BASE = '';
+        let coachSessionId = null;
+        let coachMode = 'CHAT';
+        let coachMessages = [{ role: 'coach', text: 'What would you like to practice today?' }];
+        let priorityMemory = [];
 
         function showPage(name) {
             document.querySelectorAll('[id^="page-"]').forEach(el => el.classList.add('hidden'));
             document.getElementById('page-' + name).classList.remove('hidden');
             document.querySelectorAll('.nav .btn').forEach(b => b.classList.remove('active'));
-            event.target.classList.add('active');
+            if (typeof event !== 'undefined' && event.target && event.target.closest('.nav')) event.target.classList.add('active');
         }
 
         async function apiGet(url) {
@@ -301,10 +411,161 @@
 
             document.getElementById('userId').value = data.data.id;
             document.getElementById('studyUserId').value = data.data.id;
+            document.getElementById('coachUserId').value = data.data.id;
+            document.getElementById('memoryUserId').value = data.data.id;
+            document.getElementById('progressUserId').value = data.data.id;
             document.getElementById('placementUserId').value = data.data.id;
             document.getElementById('masteryUserId').value = data.data.id;
             document.getElementById('reviewUserId').value = data.data.id;
             showMsg('create-user-msg', `User created! ID = ${data.data.id}`, 'success');
+        }
+
+        // ========== Today Coach ==========
+        function setCoachMode(mode) {
+            coachMode = mode;
+            document.querySelectorAll('.mode-selector button').forEach(b => b.classList.remove('active'));
+            document.getElementById('coach-mode-' + mode.toLowerCase()).classList.add('active');
+            const input = document.getElementById('coach-input');
+            input.placeholder = mode === 'CHAT'
+                ? 'Say anything in English...'
+                : mode === 'FIX'
+                    ? 'Paste one English sentence to diagnose...'
+                    : 'Choose a memory item or type what you want to practice...';
+        }
+
+        async function createCoachUser() {
+            const code = document.getElementById('coachNewUserCode').value.trim();
+            if (!code) { showMsg('coach-msg', 'Please enter a user code', 'error'); return; }
+            const data = await apiPost(`${JAVA_BASE}/api/users`, { userCode: code, goal: 'GENERAL', dailyMinutes: 20 });
+            if (data.code !== 0) { showMsg('coach-msg', 'Failed: ' + data.message, 'error'); return; }
+            document.getElementById('coachUserId').value = data.data.id;
+            document.getElementById('memoryUserId').value = data.data.id;
+            document.getElementById('userId').value = data.data.id;
+            showMsg('coach-msg', `User created! ID = ${data.data.id}`, 'success');
+            await loadPriorityMemory(data.data.id);
+        }
+
+        async function loadCoachUser() {
+            const uid = document.getElementById('coachUserId').value;
+            document.getElementById('memoryUserId').value = uid;
+            await loadPriorityMemory(uid);
+            showMsg('coach-msg', `Loaded user ${uid}`, 'success');
+        }
+
+        async function startCoachSession() {
+            const uid = parseInt(document.getElementById('coachUserId').value);
+            const data = await apiPost(`${JAVA_BASE}/api/coach/sessions`, { userId: uid, sessionType: 'TODAY_COACH' });
+            if (data.code !== 0) { showMsg('coach-msg', 'Failed: ' + data.message, 'error'); return; }
+            coachSessionId = data.data.id;
+            document.getElementById('coach-session-label').textContent = `Session ${data.data.sessionCode}`;
+            coachMessages = [{ role: 'coach', text: 'Ready. Tell me what you are working on in English.' }];
+            renderCoachStream();
+            await loadPriorityMemory(uid);
+        }
+
+        async function completeFirstCoachingSession() {
+            const uid = parseInt(document.getElementById('coachUserId').value);
+            const samples = document.getElementById('firstSamples').value.split('\n').map(s => s.trim()).filter(Boolean);
+            const data = await apiPost(`${JAVA_BASE}/api/coach/sessions:first`, {
+                userId: uid,
+                goal: document.getElementById('firstGoal').value,
+                dailyMinutes: parseInt(document.getElementById('firstDailyMinutes').value),
+                samples: samples.length ? samples : ['I want improve my English.']
+            });
+            if (data.code !== 0) { showMsg('coach-msg', 'Failed: ' + data.message, 'error'); return; }
+            document.getElementById('first-session-panel').classList.add('hidden');
+            coachSessionId = data.data.sessionId;
+            document.getElementById('coach-session-label').textContent = `First session ${data.data.sessionCode || ''}`;
+            coachMessages = [{ role: 'coach', text: `Level range: ${data.data.detectedLevelRange}. Let's begin.` }];
+            priorityMemory = (data.data.initialMemory && data.data.initialMemory.items) || [];
+            renderCoachStream();
+            renderPriorityMemory(priorityMemory);
+        }
+
+        async function submitCoachTurn() {
+            const input = document.getElementById('coach-input');
+            const message = input.value.trim();
+            if (!message) return;
+            if (!coachSessionId) await startCoachSession();
+            if (!coachSessionId) return;
+            coachMessages.push({ role: 'user', text: message });
+            input.value = '';
+            renderCoachStream();
+            const data = await apiPost(`${JAVA_BASE}/api/coach/sessions/${coachSessionId}/turns`, { mode: coachMode, message });
+            if (data.code !== 0) { showMsg('coach-msg', 'Failed: ' + data.message, 'error'); return; }
+            coachMessages.push({ role: 'coach', text: data.data.coachReply, savedNotes: data.data.savedNotes || [], drillSuggestion: data.data.drillSuggestion });
+            priorityMemory = (data.data.priorityMemory && data.data.priorityMemory.items) || [];
+            renderCoachStream();
+            renderPriorityMemory(priorityMemory);
+            renderMemoryPage(priorityMemory);
+        }
+
+        async function loadPriorityMemory(userId) {
+            const data = await apiGet(`${JAVA_BASE}/api/memory/priority?userId=${userId}`);
+            priorityMemory = data.code === 0 ? (data.data.items || []) : [];
+            renderPriorityMemory(priorityMemory);
+            renderMemoryPage(priorityMemory);
+        }
+
+        function renderCoachStream() {
+            const stream = document.getElementById('coach-stream');
+            stream.innerHTML = coachMessages.map(m => `
+                <div class="coach-message ${m.role}">
+                    <div>${escapeHtml(m.text)}</div>
+                    ${(m.savedNotes || []).map(renderSavedNote).join('')}
+                    ${m.drillSuggestion ? renderDrillSuggestion(m.drillSuggestion) : ''}
+                </div>`).join('');
+            stream.scrollTop = stream.scrollHeight;
+        }
+
+        function renderPriorityMemory(items) {
+            const panel = document.getElementById('priority-memory');
+            panel.innerHTML = `<h2 style="font-size:16px;margin-bottom:8px">Priority Memory</h2>` + renderMemoryItems(items);
+        }
+
+        function renderMemoryPage(items) {
+            const list = document.getElementById('memory-page-list');
+            if (list) list.innerHTML = renderMemoryItems(items);
+        }
+
+        function renderMemoryItems(items) {
+            if (!items || !items.length) return '<p style="color:#6b7280;font-size:14px">No saved memory yet.</p>';
+            return items.map(item => `
+                <div class="memory-item">
+                    <div><strong>${escapeHtml(item.label || '-')}</strong></div>
+                    <div style="font-size:13px;color:#6b7280">${escapeHtml(item.sourceText || '')}</div>
+                    <span class="badge ${item.recommendedAction === 'START_DRILL' ? 'badge-yellow' : 'badge-gray'}">${item.recommendedAction}</span>
+                </div>`).join('');
+        }
+
+        function renderSavedNote(note) {
+            return `<div class="msg msg-info" style="margin-top:8px">Saved: ${escapeHtml(note.label || note.key || '')}</div>`;
+        }
+
+        function renderDrillSuggestion(suggestion) {
+            return `<div class="msg msg-success" style="margin-top:8px">${escapeHtml(suggestion.prompt || 'Practice this memory')}<div style="margin-top:8px"><button class="btn btn-sm btn-primary" onclick="setCoachMode('DRILL')">Start</button> <button class="btn btn-sm" style="background:#e5e7eb">Not now</button></div></div>`;
+        }
+
+        async function loadCoachReview() {
+            const uid = document.getElementById('progressUserId').value;
+            const start = document.getElementById('coachReviewStart').value;
+            const end = document.getElementById('coachReviewEnd').value;
+            const data = await apiGet(`${JAVA_BASE}/api/coach/review?userId=${uid}&startDate=${start}&endDate=${end}`);
+            const el = document.getElementById('coach-review-content');
+            if (data.code !== 0) { el.innerHTML = `<div class="msg msg-error">${escapeHtml(data.message)}</div>`; return; }
+            const r = data.data;
+            el.innerHTML = `
+                <div class="row">
+                    <div class="card stat"><div class="value">${r.conversationTurns}</div><div class="label">Turns</div></div>
+                    <div class="card stat"><div class="value">${r.newMemoryCount}</div><div class="label">New Memory</div></div>
+                </div>
+                <div class="msg msg-info"><strong>Top repeated:</strong> ${(r.topRepeatedProblems || []).join(', ') || '-'}</div>
+                <div class="msg msg-info"><strong>Improved expressions:</strong> ${(r.improvedExpressions || []).join(', ') || '-'}</div>
+                <div class="msg msg-success"><strong>Next week:</strong> ${escapeHtml(r.nextWeekPlan)}</div>`;
+        }
+
+        function escapeHtml(value) {
+            return String(value || '').replace(/[&<>'"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;' }[c]));
         }
 
         // ========== Dashboard ==========
@@ -675,6 +936,10 @@
         monday.setDate(today.getDate() - today.getDay() + 1);
         document.getElementById('weekStart').value = monday.toISOString().split('T')[0];
         document.getElementById('weekEnd').value = new Date(monday.getTime() + 6 * 86400000).toISOString().split('T')[0];
+        document.getElementById('coachReviewStart').value = monday.toISOString().split('T')[0];
+        document.getElementById('coachReviewEnd').value = new Date(monday.getTime() + 6 * 86400000).toISOString().split('T')[0];
+        renderCoachStream();
+        renderPriorityMemory([]);
     </script>
 </body>
 </html>
