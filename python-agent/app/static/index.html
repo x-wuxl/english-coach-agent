@@ -160,7 +160,7 @@
                         <div id="study-item-hint" style="color:#6b7280;font-size:14px;margin-bottom:12px"></div>
                         <div class="row">
                             <div style="flex:1">
-                                <input type="text" id="study-answer" placeholder="Type your answer..." style="width:100%" onkeydown="if(event.key==='Enter')submitStudyAnswer()" />
+                                <input type="text" id="study-answer" placeholder="Type your answer..." style="width:100%" autocomplete="off" onkeydown="if(event.key==='Enter')submitStudyAnswer()" />
                             </div>
                             <div style="display:flex;gap:8px">
                                 <button class="btn btn-success" onclick="submitStudyAnswer()">Submit</button>
