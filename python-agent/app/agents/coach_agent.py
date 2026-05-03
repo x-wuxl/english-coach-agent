@@ -38,7 +38,7 @@ def generate_feedback(req: CoachFeedbackRequest) -> CoachFeedbackResponse:
         ],
         model=settings.coach_model,
         temperature=0.7,
-        max_tokens=1024,
+        max_tokens=32000,
     )
 
     if result is None or result.strip() == "":
