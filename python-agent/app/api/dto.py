@@ -14,6 +14,7 @@ class CoachFeedbackRequest(BaseModel):
 class CoachFeedbackResponse(BaseModel):
     feedback: str
     encouragement: str
+    is_correct: bool = False
 
 
 class ErrorExplanationRequest(BaseModel):

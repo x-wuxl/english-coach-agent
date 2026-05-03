@@ -409,16 +409,20 @@
             const mode = item.recommendedMode || 'RECOGNITION';
             const startTime = Date.now();
 
-            // Basic correctness check for RECOGNITION mode
-            let isCorrect = false;
-            if (mode === 'RECOGNITION' && item.meaningZh) {
-                const meanings = item.meaningZh.split(/[；;,/]/).map(s => s.trim());
-                isCorrect = meanings.some(m => answer.includes(m) || m.includes(answer));
-            }
+            // Get LLM coach feedback (includes correctness judgment)
+            const coachRes = await apiPost(`${PYTHON_BASE}/api/coach/feedback`, {
+                item_content: item.content,
+                meaning_zh: item.meaningZh || '',
+                user_answer: answer,
+                result: 'WRONG', // let LLM judge
+                mode: mode,
+                hint_used: false
+            });
 
+            const isCorrect = coachRes && coachRes.is_correct;
             const result = isCorrect ? 'CORRECT' : 'WRONG';
 
-            // Submit attempt to backend
+            // Submit attempt to backend with LLM's judgment
             await apiPost(`${JAVA_BASE}/api/sessions/${currentSessionId}/attempts`, {
                 attempts: [{
                     learningItemId: item.itemId,
@@ -428,16 +432,6 @@
                     responseTimeMs: Date.now() - startTime,
                     hintUsed: false
                 }]
-            });
-
-            // Get coach feedback from python-agent
-            const coachRes = await apiPost(`${PYTHON_BASE}/api/coach/feedback`, {
-                item_content: item.content,
-                meaning_zh: item.meaningZh || '',
-                user_answer: answer,
-                result: result,
-                mode: mode,
-                hint_used: false
             });
 
             let feedbackHtml = '';
