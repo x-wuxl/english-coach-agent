@@ -332,15 +332,23 @@
             const uid = document.getElementById('studyUserId').value;
             const type = document.getElementById('sessionType').value;
 
-            // Generate daily plan first
-            showMsg('study-msg', 'Generating daily plan...', 'info');
+            // Try to get existing plan, or generate new one
             const today = new Date().toISOString().slice(0, 10);
-            const planRes = await apiPost(`${JAVA_BASE}/api/plans/daily:generate`, {
-                userId: parseInt(uid), planDate: today, planType: type === 'REVIEW' ? 'REVIEW' : 'DAILY'
-            });
+            const planType = type === 'REVIEW' ? 'REVIEW' : 'DAILY';
+            showMsg('study-msg', 'Loading daily plan...', 'info');
+
+            let planRes = await apiGet(`${JAVA_BASE}/api/plans/daily?userId=${uid}&planDate=${today}&planType=${planType}`);
 
             if (planRes.code !== 0) {
-                showMsg('study-msg', 'Failed to generate plan: ' + planRes.message, 'error');
+                // No existing plan, generate one
+                showMsg('study-msg', 'Generating daily plan...', 'info');
+                planRes = await apiPost(`${JAVA_BASE}/api/plans/daily:generate`, {
+                    userId: parseInt(uid), planDate: today, planType: planType
+                });
+            }
+
+            if (planRes.code !== 0) {
+                showMsg('study-msg', 'Failed to load plan: ' + planRes.message, 'error');
                 return;
             }
 
