@@ -32,7 +32,7 @@ This repo is used to practice:
 ## Current docs
 
 - Product requirement: `english-coach-design.md`
-- Technical design: `docs/superpowers/specs/2026-03-25-english-coach-agent-design.md`
+- Technical design: `docs/superpowers/specs/2026-05-03-ai-native-coach-cockpit-design.md`
 - Implementation plan: `docs/superpowers/plans/2026-03-25-english-coach-agent-mvp-implementation-plan.md`
 
 ## Planned structure

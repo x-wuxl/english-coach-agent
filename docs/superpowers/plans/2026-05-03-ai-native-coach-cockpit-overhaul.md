@@ -13,7 +13,7 @@
 ## Reference Documents
 
 - Product spec: `docs/superpowers/specs/2026-05-03-ai-native-coach-cockpit-design.md`
-- Existing architecture spec: `docs/superpowers/specs/2026-03-25-english-coach-agent-design.md`
+- Current product/architecture spec: `docs/superpowers/specs/2026-05-03-ai-native-coach-cockpit-design.md`
 - Current static UI: `python-agent/app/static/index.html`
 - Existing Python coach feedback: `python-agent/app/agents/coach_agent.py`
 - Existing Java LLM client: `java-core/src/main/java/com/wuxl/englishcoach/infrastructure/llm/PythonAgentClient.java`
