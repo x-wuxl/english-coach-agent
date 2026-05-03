@@ -1,8 +1,11 @@
 package com.wuxl.englishcoach.infrastructure.llm;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.wuxl.englishcoach.infrastructure.llm.dto.CoachTurnAnalysisRequest;
+import com.wuxl.englishcoach.infrastructure.llm.dto.CoachTurnAnalysisResponse;
 import java.time.Duration;
 import java.util.Map;
+import org.springframework.http.MediaType;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Value;
@@ -91,6 +94,22 @@ public class PythonAgentClient {
             return response;
         } catch (Exception e) {
             log.warn("Failed to call python-agent for coach feedback: {}", e.getMessage());
+            return null;
+        }
+    }
+
+    public CoachTurnAnalysisResponse analyzeCoachTurn(CoachTurnAnalysisRequest request) {
+        if (!enabled) return null;
+
+        try {
+            return restClient.post()
+                    .uri("/api/coach/turn/analyze")
+                    .contentType(MediaType.APPLICATION_JSON)
+                    .body(request)
+                    .retrieve()
+                    .body(CoachTurnAnalysisResponse.class);
+        } catch (Exception e) {
+            log.warn("Failed to analyze coach turn via python-agent: {}", e.getMessage());
             return null;
         }
     }
