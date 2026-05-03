@@ -77,4 +77,26 @@ class SchemaMigrationTest {
         );
         assertThat(count).isEqualTo(1);
     }
+
+    @Test
+    void coachMemoryTablesShouldExist() {
+        String[] tables = {"error_pattern", "expression_gap", "coach_session", "coach_turn"};
+
+        for (String table : tables) {
+            Integer count = jdbcTemplate.queryForObject(
+                    "select count(*) from information_schema.tables where upper(table_name) = upper(?)",
+                    Integer.class, table
+            );
+            assertThat(count).as("Table %s should exist", table).isEqualTo(1);
+        }
+    }
+
+    @Test
+    void errorPatternShouldHaveUserPatternUniqueConstraint() {
+        Integer count = jdbcTemplate.queryForObject(
+                "select count(*) from information_schema.indexes where upper(table_name) = 'ERROR_PATTERN' and upper(index_name) like '%USER_PATTERN%'",
+                Integer.class
+        );
+        assertThat(count).isEqualTo(1);
+    }
 }
