@@ -29,3 +29,44 @@ class ErrorExplanationResponse(BaseModel):
     explanation: str
     correct_usage: str
     example: str
+
+
+class SavedNote(BaseModel):
+    type: str
+    key: str
+    label: str
+    description_zh: str | None = None
+    user_text: str
+    better_text: str | None = None
+    severity: str = "MEDIUM"
+    confidence: float = 0.0
+
+
+class ExpressionGapNote(BaseModel):
+    key: str
+    zh_intent: str
+    natural_expressions: list[str] = []
+    user_attempt: str | None = None
+    context: str | None = None
+    confidence: float = 0.0
+
+
+class FixResponse(BaseModel):
+    meaning_check: str
+    better_english: str
+    what_changed: list[str] = []
+    memory_update: str | None = None
+    try_again_prompt: str | None = None
+
+
+class CoachTurnAnalyzeRequest(BaseModel):
+    mode: str
+    message: str
+    recent_memory: list[dict] = []
+
+
+class CoachTurnAnalyzeResponse(BaseModel):
+    coach_reply: str
+    saved_notes: list[SavedNote] = []
+    expression_gaps: list[ExpressionGapNote] = []
+    fix_response: FixResponse | None = None

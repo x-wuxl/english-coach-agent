@@ -1,4 +1,4 @@
-from app.api.dto import CoachFeedbackRequest, CoachFeedbackResponse
+from app.api.dto import CoachFeedbackRequest, CoachFeedbackResponse, CoachTurnAnalyzeRequest, CoachTurnAnalyzeResponse
 from app.config import settings
 from app.services.llm_service import llm_service
 
@@ -13,6 +13,17 @@ Rules:
 - If wrong: explain the mistake in Chinese, give the correct answer
 - Be warm and coach-like, not robotic
 - Mix Chinese and English naturally
+"""
+
+TURN_ANALYSIS_SYSTEM_PROMPT = """You are an English coach for a conversational learning cockpit.
+
+Return structured JSON only. Keep memory suggestions lightweight and learner-owned:
+- coach_reply: one concise coaching response in English.
+- saved_notes: grammar or usage issues worth remembering.
+- expression_gaps: Chinese intent the learner could not express naturally.
+- fix_response: only when mode is FIX.
+
+Do not schedule drills or decide long-term memory priority. The Java service owns persistence and scheduling.
 """
 
 FALLBACK_CORRECT = CoachFeedbackResponse(
@@ -61,6 +72,24 @@ def generate_feedback(req: CoachFeedbackRequest) -> CoachFeedbackResponse:
     return CoachFeedbackResponse(feedback=feedback, encouragement=encouragement, is_correct=is_correct)
 
 
+def analyze_turn(req: CoachTurnAnalyzeRequest) -> CoachTurnAnalyzeResponse:
+    result = llm_service.structured(
+        messages=[
+            {"role": "system", "content": TURN_ANALYSIS_SYSTEM_PROMPT},
+            {"role": "user", "content": _build_turn_prompt(req)},
+        ],
+        response_format=CoachTurnAnalyzeResponse,
+        model=settings.coach_model,
+        temperature=0.4,
+        max_tokens=4000,
+    )
+    if result is None:
+        return CoachTurnAnalyzeResponse(coach_reply="Tell me more about that.")
+    if isinstance(result, CoachTurnAnalyzeResponse):
+        return result
+    return CoachTurnAnalyzeResponse(**result)
+
+
 def _build_prompt(req: CoachFeedbackRequest) -> str:
     parts = []
     if req.mode == "RECOGNITION":
@@ -85,4 +114,13 @@ def _build_prompt(req: CoachFeedbackRequest) -> str:
 
     if req.hint_used:
         parts.append("(User used a hint)")
+    return "\n".join(parts)
+
+
+def _build_turn_prompt(req: CoachTurnAnalyzeRequest) -> str:
+    parts = [
+        f"Mode: {req.mode}",
+        f"Learner message: {req.message}",
+        f"Recent memory: {req.recent_memory}",
+    ]
     return "\n".join(parts)
