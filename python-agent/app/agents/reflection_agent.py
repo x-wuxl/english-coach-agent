@@ -56,7 +56,7 @@ def generate_reflection(req: ReflectionRequest) -> ReflectionResponse:
         response_format=_StructuredReflection,
         model=settings.explanation_model,
         temperature=0.4,
-        max_tokens=512,
+        max_tokens=1024,
     )
 
     if result is None:
