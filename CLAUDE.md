@@ -110,7 +110,41 @@ Config via `.env`: `LLM_DEFAULT_MODEL`, `LLM_API_KEY`, `LLM_FALLBACK_MODEL`, `TR
 
 **Phase 4 (Reliability):** Complete — session reflection agent, correction loop, model fallback chain, request tracing, harness replay.
 
-**Phase 5 (Experience):** Complete — Web UI (dashboard/study/mastery/review pages), reminder adapter.
+**Phase 5 (Experience):** In progress — Web UI functional but UX needs improvement:
+- Dashboard: mastery stats overview
+- Placement: 10-question interactive quiz (vocab/grammar/reading/output)
+- Study: interactive session with daily plan items, LLM-based correctness judgment, coach feedback
+- Mastery: mastery state table with status badges
+- Weekly Review: weekly aggregation view
+
+## Web UI
+
+Served by python-agent at `GET /` (static/index.html). Calls java-core (:8080) for domain APIs and python-agent (:8000) for LLM features.
+
+Flow: Create User → Placement Assessment → Study Session → Dashboard/Mastery/Review.
+
+Key integration points:
+- `POST /api/coach/feedback` — LLM judges correctness + gives feedback (requires `LLM_API_KEY`, `LLM_API_BASE`, `LLM_DEFAULT_MODEL` in `.env`)
+- Study items loaded from daily plan, meaning_zh included for frontend display
+- CORS enabled via `WebConfig.java` for cross-origin requests from python-agent to java-core
+
+## LLM Configuration
+
+python-agent uses LiteLLM. Config via `.env`:
+- `LLM_DEFAULT_MODEL` — model ID (e.g. `openai/mimo-v2.5-pro`, `deepseek/deepseek-chat`)
+- `LLM_API_KEY` — API key
+- `LLM_API_BASE` — custom endpoint URL
+- `LLM_FALLBACK_MODEL` — fallback model when primary fails
+- `LLM_COACH_MODEL`, `LLM_EXPLANATION_MODEL`, `LLM_REFLECTION_MODEL` — per-task overrides
+
+For reasoning models (DeepSeek-R1, MiMo, etc.), set `max_tokens` ≥ 1024 to allow space for both reasoning and response content.
+
+## Current Limitations
+
+- **Learning data**: Only 20 seed items (V4). No real curriculum content.
+- **Web UI/UX**: Functional but basic. Needs better visual design, responsive layout, and smoother交互 flow.
+- **No authentication**: All APIs are open.
+- **No real-time progress tracking**: Session items not persisted in plan after completion.
 
 ## Core Domain
 
@@ -133,4 +167,6 @@ Detailed specs live in `docs/superpowers/specs/` and plans in `docs/superpowers/
 
 ## Env Vars
 
-See `.env.example`. Defaults in `application.yaml`: `POSTGRES_HOST=localhost`, `POSTGRES_PORT=5432`, `POSTGRES_DB=english_coach`, `POSTGRES_USER=coach`, `POSTGRES_PASSWORD=coach`.
+java-core: `POSTGRES_HOST`, `POSTGRES_PORT`, `POSTGRES_DB`, `POSTGRES_USER`, `POSTGRES_PASSWORD`, `PYTHON_AGENT_URL`, `PYTHON_AGENT_ENABLED`. Defaults in `application.yaml`.
+
+python-agent: `LLM_DEFAULT_MODEL`, `LLM_API_KEY`, `LLM_API_BASE`, `LLM_FALLBACK_MODEL`, `LLM_TIMEOUT`, `LLM_MAX_RETRIES`, `TRACING_ENABLED`. See `.env.example`.
