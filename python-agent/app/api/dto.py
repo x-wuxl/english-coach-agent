@@ -70,3 +70,15 @@ class CoachTurnAnalyzeResponse(BaseModel):
     saved_notes: list[SavedNote] = []
     expression_gaps: list[ExpressionGapNote] = []
     fix_response: FixResponse | None = None
+
+
+class FirstCoachingAnalyzeRequest(BaseModel):
+    goal: str
+    daily_minutes: int
+    samples: list[str]
+
+
+class FirstCoachingAnalyzeResponse(BaseModel):
+    detected_level_range: str
+    coach_reply: str
+    initial_notes: list[SavedNote] = []

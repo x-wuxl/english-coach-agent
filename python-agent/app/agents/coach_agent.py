@@ -1,4 +1,4 @@
-from app.api.dto import CoachFeedbackRequest, CoachFeedbackResponse, CoachTurnAnalyzeRequest, CoachTurnAnalyzeResponse
+from app.api.dto import CoachFeedbackRequest, CoachFeedbackResponse, CoachTurnAnalyzeRequest, CoachTurnAnalyzeResponse, FirstCoachingAnalyzeRequest, FirstCoachingAnalyzeResponse
 from app.config import settings
 from app.services.llm_service import llm_service
 
@@ -90,6 +90,28 @@ def analyze_turn(req: CoachTurnAnalyzeRequest) -> CoachTurnAnalyzeResponse:
     return CoachTurnAnalyzeResponse(**result)
 
 
+def analyze_first_session(req: FirstCoachingAnalyzeRequest) -> FirstCoachingAnalyzeResponse:
+    result = llm_service.structured(
+        messages=[
+            {"role": "system", "content": TURN_ANALYSIS_SYSTEM_PROMPT},
+            {"role": "user", "content": _build_first_session_prompt(req)},
+        ],
+        response_format=FirstCoachingAnalyzeResponse,
+        model=settings.coach_model,
+        temperature=0.4,
+        max_tokens=4000,
+    )
+    if result is None:
+        return FirstCoachingAnalyzeResponse(
+            detected_level_range="A2-B1",
+            coach_reply="We will start with clear work and daily English, then tighten repeated patterns.",
+            initial_notes=[],
+        )
+    if isinstance(result, FirstCoachingAnalyzeResponse):
+        return result
+    return FirstCoachingAnalyzeResponse(**result)
+
+
 def _build_prompt(req: CoachFeedbackRequest) -> str:
     parts = []
     if req.mode == "RECOGNITION":
@@ -124,3 +146,12 @@ def _build_turn_prompt(req: CoachTurnAnalyzeRequest) -> str:
         f"Recent memory: {req.recent_memory}",
     ]
     return "\n".join(parts)
+
+
+def _build_first_session_prompt(req: FirstCoachingAnalyzeRequest) -> str:
+    return "\n".join([
+        f"Goal: {req.goal}",
+        f"Daily minutes: {req.daily_minutes}",
+        "Samples:",
+        *req.samples,
+    ])
