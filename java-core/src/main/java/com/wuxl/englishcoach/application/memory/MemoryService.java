@@ -15,6 +15,7 @@ import com.wuxl.englishcoach.infrastructure.persistence.memory.ErrorPatternMappe
 import com.wuxl.englishcoach.infrastructure.persistence.memory.ExpressionGapDO;
 import com.wuxl.englishcoach.infrastructure.persistence.memory.ExpressionGapMapper;
 import com.wuxl.englishcoach.infrastructure.persistence.user.UserProfileMapper;
+import com.wuxl.englishcoach.infrastructure.llm.dto.ExpressionGapDto;
 import com.wuxl.englishcoach.infrastructure.llm.dto.SavedNoteDto;
 import java.util.ArrayList;
 import java.util.Comparator;
@@ -105,6 +106,40 @@ public class MemoryService {
         return row;
     }
 
+    public ExpressionGapDO mergeExpressionGap(Long userId, ExpressionGapDto gap) {
+        ExpressionGapDO row = expressionGapMapper.selectOne(new LambdaQueryWrapper<ExpressionGapDO>()
+                .eq(ExpressionGapDO::getUserId, userId)
+                .eq(ExpressionGapDO::getGapKey, gap.key()));
+
+        LocalDateTime now = LocalDateTime.now();
+        if (row == null) {
+            row = new ExpressionGapDO();
+            row.setUserId(userId);
+            row.setGapKey(gap.key());
+            row.setZhIntent(gap.zhIntent());
+            row.setNaturalExpressions(writeJsonList(gap.naturalExpressions() == null ? List.of() : gap.naturalExpressions()));
+            row.setUserAttempts(toJsonList(gap.userAttempt()));
+            row.setContext(gap.context());
+            row.setSeenCount(1);
+            row.setStatus("ACTIVE");
+            row.setLastSeenAt(now);
+            row.setCreatedAt(now);
+            row.setUpdatedAt(now);
+            expressionGapMapper.insert(row);
+            return row;
+        }
+
+        row.setSeenCount((row.getSeenCount() == null ? 0 : row.getSeenCount()) + 1);
+        row.setZhIntent(gap.zhIntent());
+        row.setNaturalExpressions(appendJsonListValues(row.getNaturalExpressions(), gap.naturalExpressions()));
+        row.setUserAttempts(appendJsonListValue(row.getUserAttempts(), gap.userAttempt()));
+        row.setContext(gap.context());
+        row.setLastSeenAt(now);
+        row.setUpdatedAt(now);
+        expressionGapMapper.updateById(row);
+        return row;
+    }
+
     private PriorityMemoryItemResponse toErrorPatternResponse(ErrorPatternDO row) {
         double score = priorityPolicy.score(new MemoryPriorityPolicy.MemorySnapshot(
                 "ERROR_PATTERN", row.getId(), row.getLabel(), row.getSeenCount(), row.getSeverity(), row.getStatus(), row.getNextDrillAt()
@@ -168,6 +203,25 @@ public class MemoryService {
         }
         if (value != null && !value.isBlank() && !values.contains(value)) {
             values.add(value);
+        }
+        return writeJsonList(values);
+    }
+
+    private String appendJsonListValues(String json, List<String> newValues) {
+        List<String> values = new ArrayList<>();
+        if (json != null && !json.isBlank()) {
+            try {
+                values.addAll(objectMapper.readValue(json, new TypeReference<>() {}));
+            } catch (JsonProcessingException ignored) {
+                values.clear();
+            }
+        }
+        if (newValues != null) {
+            for (String value : newValues) {
+                if (value != null && !value.isBlank() && !values.contains(value)) {
+                    values.add(value);
+                }
+            }
         }
         return writeJsonList(values);
     }

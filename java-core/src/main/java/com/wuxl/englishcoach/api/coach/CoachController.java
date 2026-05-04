@@ -10,6 +10,7 @@ import com.wuxl.englishcoach.api.coach.dto.SubmitCoachTurnRequest;
 import com.wuxl.englishcoach.application.coach.CoachReviewService;
 import com.wuxl.englishcoach.application.coach.CoachSessionService;
 import com.wuxl.englishcoach.common.response.BaseResponse;
+import jakarta.validation.Valid;
 import java.time.LocalDate;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -32,18 +33,18 @@ public class CoachController {
     }
 
     @PostMapping("/sessions")
-    public BaseResponse<CoachSessionResponse> startSession(@RequestBody StartCoachSessionRequest request) {
+    public BaseResponse<CoachSessionResponse> startSession(@Valid @RequestBody StartCoachSessionRequest request) {
         return BaseResponse.success(coachSessionService.startSession(request.userId(), request.sessionType()));
     }
 
     @PostMapping("/sessions/{sessionId}/turns")
     public BaseResponse<CoachTurnResponse> submitTurn(@PathVariable Long sessionId,
-                                                       @RequestBody SubmitCoachTurnRequest request) {
+                                                       @Valid @RequestBody SubmitCoachTurnRequest request) {
         return BaseResponse.success(coachSessionService.submitTurn(sessionId, request));
     }
 
     @PostMapping("/sessions:first")
-    public BaseResponse<FirstCoachingSessionResponse> firstSession(@RequestBody FirstCoachingSessionRequest request) {
+    public BaseResponse<FirstCoachingSessionResponse> firstSession(@Valid @RequestBody FirstCoachingSessionRequest request) {
         return BaseResponse.success(coachSessionService.completeFirstSession(request));
     }
 

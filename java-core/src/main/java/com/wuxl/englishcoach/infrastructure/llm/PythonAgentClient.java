@@ -3,8 +3,6 @@ package com.wuxl.englishcoach.infrastructure.llm;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.wuxl.englishcoach.infrastructure.llm.dto.CoachTurnAnalysisRequest;
 import com.wuxl.englishcoach.infrastructure.llm.dto.CoachTurnAnalysisResponse;
-import java.nio.charset.StandardCharsets;
-import java.time.Duration;
 import java.util.Map;
 import org.springframework.http.MediaType;
 import org.slf4j.Logger;
@@ -104,13 +102,11 @@ public class PythonAgentClient {
 
         try {
             String payload = objectMapper.writeValueAsString(request);
-            log.info("Calling python-agent turn analysis payload={}", payload);
-            byte[] payloadBytes = payload.getBytes(StandardCharsets.UTF_8);
+            log.debug("Calling python-agent turn analysis payloadBytes={}", payload.length());
             return restClient.post()
                     .uri("/api/coach/turn/analyze")
                     .contentType(MediaType.APPLICATION_JSON)
-                    .contentLength(payloadBytes.length)
-                    .body(payloadBytes)
+                    .body(payload)
                     .retrieve()
                     .body(CoachTurnAnalysisResponse.class);
         } catch (Exception e) {
@@ -119,6 +115,5 @@ public class PythonAgentClient {
         }
     }
 }
-
 
 

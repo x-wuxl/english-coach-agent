@@ -17,6 +17,7 @@ import com.wuxl.englishcoach.domain.memory.DrillSuggestionPolicy;
 import com.wuxl.englishcoach.infrastructure.llm.PythonAgentClient;
 import com.wuxl.englishcoach.infrastructure.llm.dto.CoachTurnAnalysisRequest;
 import com.wuxl.englishcoach.infrastructure.llm.dto.CoachTurnAnalysisResponse;
+import com.wuxl.englishcoach.infrastructure.llm.dto.ExpressionGapDto;
 import com.wuxl.englishcoach.infrastructure.llm.dto.SavedNoteDto;
 import com.wuxl.englishcoach.infrastructure.persistence.coach.CoachSessionDO;
 import com.wuxl.englishcoach.infrastructure.persistence.coach.CoachSessionMapper;
@@ -96,6 +97,9 @@ public class CoachSessionService {
         List<SavedNoteDto> savedNotes = analysis != null && analysis.savedNotes() != null
                 ? analysis.savedNotes()
                 : Collections.emptyList();
+        List<ExpressionGapDto> expressionGaps = analysis != null && analysis.expressionGaps() != null
+                ? analysis.expressionGaps()
+                : Collections.emptyList();
 
         List<SavedNoteResponse> noteResponses = new ArrayList<>();
         DrillSuggestionResponse drillSuggestion = null;
@@ -107,6 +111,9 @@ public class CoachSessionService {
                     && drillSuggestionPolicy.shouldSuggest("ERROR_PATTERN", merged.getSeenCount(), merged.getStatus())) {
                 drillSuggestion = new DrillSuggestionResponse("ERROR_PATTERN", merged.getId(), "Practice: " + merged.getLabel());
             }
+        }
+        for (ExpressionGapDto gap : expressionGaps) {
+            memoryService.mergeExpressionGap(session.getUserId(), gap);
         }
 
         CoachTurnDO turn = new CoachTurnDO();

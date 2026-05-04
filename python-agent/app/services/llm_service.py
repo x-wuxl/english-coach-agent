@@ -84,9 +84,8 @@ class LLMService:
             kwargs = self._build_kwargs(model, temperature, max_tokens)
             response = litellm_completion(messages=messages, **kwargs)
 
-            # Debug: log full response structure
             if settings.tracing_enabled:
-                logger.info("[%s] LLM raw response: %s", trace_id, response)
+                logger.info("[%s] LLM raw response type=%s", trace_id, type(response).__name__)
 
             # Try multiple ways to extract content
             content = None
@@ -112,7 +111,7 @@ class LLMService:
                 content = response.output_text
 
             if settings.tracing_enabled:
-                logger.info("[%s] LLM response len=%d content=%s", trace_id, len(content) if content else 0, repr(content)[:200])
+                logger.info("[%s] LLM response len=%d", trace_id, len(content) if content else 0)
 
             return content
         except Exception as e:

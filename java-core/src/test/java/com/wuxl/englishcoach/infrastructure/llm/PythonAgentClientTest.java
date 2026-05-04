@@ -46,6 +46,9 @@ class PythonAgentClientTest {
         assertThat(response.savedNotes()).hasSize(1);
         assertThat(response.savedNotes().get(0).key()).isEqualTo("missing_infinitive_to");
         assertThat(response.savedNotes().get(0).descriptionZh()).isEqualTo("need 后面接动词时要加 to。");
+        assertThat(response.expressionGaps()).hasSize(1);
+        assertThat(response.expressionGaps().get(0).key()).isEqualTo("demo_confidence");
+        assertThat(response.expressionGaps().get(0).naturalExpressions()).containsExactly("I want to present the demo confidently.");
     }
 
     private void startServer() throws IOException {
@@ -75,7 +78,14 @@ class PythonAgentClientTest {
                     "severity": "MEDIUM",
                     "confidence": 0.9
                   }],
-                  "expression_gaps": [],
+                  "expression_gaps": [{
+                    "key": "demo_confidence",
+                    "zh_intent": "我想更自信地演示 demo",
+                    "natural_expressions": ["I want to present the demo confidently."],
+                    "user_attempt": "I need prepare the demo.",
+                    "context": "work",
+                    "confidence": 0.8
+                  }],
                   "fix_response": null
                 }
                 """.getBytes(StandardCharsets.UTF_8);
@@ -85,4 +95,3 @@ class PythonAgentClientTest {
         exchange.close();
     }
 }
-

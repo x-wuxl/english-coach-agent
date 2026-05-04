@@ -1,3 +1,5 @@
+from pydantic import ValidationError
+
 from app.api.dto import CoachFeedbackRequest, CoachFeedbackResponse, CoachTurnAnalyzeRequest, CoachTurnAnalyzeResponse, FirstCoachingAnalyzeRequest, FirstCoachingAnalyzeResponse
 from app.config import settings
 from app.services.llm_service import llm_service
@@ -87,7 +89,10 @@ def analyze_turn(req: CoachTurnAnalyzeRequest) -> CoachTurnAnalyzeResponse:
         return CoachTurnAnalyzeResponse(coach_reply="Tell me more about that.")
     if isinstance(result, CoachTurnAnalyzeResponse):
         return result
-    return CoachTurnAnalyzeResponse(**result)
+    try:
+        return CoachTurnAnalyzeResponse(**result)
+    except (TypeError, ValidationError):
+        return CoachTurnAnalyzeResponse(coach_reply="Tell me more about that.")
 
 
 def analyze_first_session(req: FirstCoachingAnalyzeRequest) -> FirstCoachingAnalyzeResponse:
@@ -109,7 +114,14 @@ def analyze_first_session(req: FirstCoachingAnalyzeRequest) -> FirstCoachingAnal
         )
     if isinstance(result, FirstCoachingAnalyzeResponse):
         return result
-    return FirstCoachingAnalyzeResponse(**result)
+    try:
+        return FirstCoachingAnalyzeResponse(**result)
+    except (TypeError, ValidationError):
+        return FirstCoachingAnalyzeResponse(
+            detected_level_range="A2-B1",
+            coach_reply="We will start with clear work and daily English, then tighten repeated patterns.",
+            initial_notes=[],
+        )
 
 
 def _build_prompt(req: CoachFeedbackRequest) -> str:

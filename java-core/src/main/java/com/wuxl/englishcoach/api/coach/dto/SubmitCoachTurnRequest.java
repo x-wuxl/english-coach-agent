@@ -1,4 +1,8 @@
 package com.wuxl.englishcoach.api.coach.dto;
 
-public record SubmitCoachTurnRequest(String mode, String message) {
+import jakarta.validation.constraints.NotBlank;
+
+public record SubmitCoachTurnRequest(
+        @NotBlank String mode,
+        @NotBlank String message) {
 }
