@@ -4,9 +4,12 @@ This document is a handoff for a fresh code review session of `english-coach-age
 
 ## 1. Repository State Summary
 
-Current `main` head at the time of this handoff:
+This handoff is intended for code review on another machine. Pull the latest remote `main` before reviewing.
+
+Current `main` head at the time of this revised handoff:
 
 ```text
+34e5669 update
 e7968c9 update
 979a8bf 词库数据
 6686eaf feat: add coach review progress view
@@ -20,20 +23,19 @@ a86912e feat: add memory priority and drill rules
 4b92d36 feat: add coach memory persistence schema
 ```
 
-The coach cockpit feature was merged into `main` and pushed earlier. After that, additional vocabulary-data commits appear to have been added (`979a8bf`, `e7968c9`). There are also uncommitted diagnostic changes from the HTTP debugging session.
+The coach cockpit feature was merged into `main` and pushed. After that, vocabulary-data commits and HTTP debugging/diagnostic changes were also pushed. In particular, commit `34e5669` includes this handoff document plus diagnostic changes in the Java Python-agent client and Python request logging.
 
-Current uncommitted files observed before writing this handoff:
+Files in `34e5669` that should be treated as **diagnostic/debugging work needing review**, not automatically accepted as final production design:
 
 ```text
- M java-core/src/main/java/com/wuxl/englishcoach/infrastructure/llm/PythonAgentClient.java
- M java-core/src/main/java/com/wuxl/englishcoach/infrastructure/llm/dto/CoachTurnAnalysisRequest.java
- M java-core/src/test/java/com/wuxl/englishcoach/infrastructure/llm/PythonAgentClientTest.java
- M python-agent/app/api/coach_routes.py
- M python-agent/app/main.py
-?? tatoeba/
+java-core/src/main/java/com/wuxl/englishcoach/infrastructure/llm/PythonAgentClient.java
+java-core/src/main/java/com/wuxl/englishcoach/infrastructure/llm/dto/CoachTurnAnalysisRequest.java
+java-core/src/test/java/com/wuxl/englishcoach/infrastructure/llm/PythonAgentClientTest.java
+python-agent/app/api/coach_routes.py
+python-agent/app/main.py
 ```
 
-Treat the Java/Python changes above as **temporary diagnostic/debugging changes**, not necessarily final production fixes. Do not commit them without review.
+A reviewer on another machine should review these files directly from `main`, decide what should remain permanent, and remove or guard any raw request-body logging before production use.
 
 ## 2. Original Feature Scope That Needs Review
 
@@ -149,9 +151,9 @@ This proves FastAPI is seeing no body. Because `content_length` is nonzero while
 
 Even after the byte-array body attempt, Python still logged nonzero content length but `body_len=0`.
 
-### Temporary changed files from this debugging
+### Diagnostic files currently pushed to `main`
 
-These files have debugging changes and should be reviewed/reverted/refined:
+These files currently contain debugging changes on `main` and should be reviewed/reverted/refined:
 
 ```text
 java-core/src/main/java/com/wuxl/englishcoach/infrastructure/llm/PythonAgentClient.java
@@ -406,7 +408,7 @@ mvn test
 # 88 tests, 0 failures on clean worktree before vocabulary migration churn
 ```
 
-After diagnostic Java client changes:
+After pushed diagnostic Java client changes:
 
 ```powershell
 cd java-core
@@ -414,7 +416,7 @@ mvn test -Dtest=PythonAgentClientTest
 # Tests run: 1, Failures: 0, Errors: 0
 ```
 
-After Python logging changes:
+After pushed Python logging changes:
 
 ```powershell
 cd python-agent
@@ -422,7 +424,7 @@ python -m pytest -p no:cacheprovider tests/test_coach_turn_routes.py -q
 # 1 passed
 ```
 
-Caution: Full Java test in the main workspace may be affected by untracked vocabulary migration files and current database migration changes. A clean worktree or controlled migration directory is recommended for reliable review.
+Caution: Full Java tests may be affected by vocabulary migration state and local database history. For reliable review on another machine, use a clean checkout and a controlled test database/migration directory.
 
 ## 7. Suggested Prompt for New Code Review Session
 
@@ -433,12 +435,12 @@ Please perform a rigorous code review of the English Coach Agent project at C:\w
 
 Focus especially on:
 1. Java -> Python agent HTTP integration for /api/coach/turn/analyze. Current symptom: Java logs a non-empty payload, but Python raw ASGI logging reports content_length > 0 and body_len=0, causing FastAPI 422 and Java fallback "Tell me more about that."
-2. The temporary diagnostic changes in PythonAgentClient.java, CoachTurnAnalysisRequest.java, PythonAgentClientTest.java, python-agent/app/main.py, and python-agent/app/api/coach_routes.py. Decide what should become permanent, what should be reverted, and what deeper fix is required.
+2. The diagnostic changes currently pushed in PythonAgentClient.java, CoachTurnAnalysisRequest.java, PythonAgentClientTest.java, python-agent/app/main.py, and python-agent/app/api/coach_routes.py. Decide what should become permanent, what should be reverted, and what deeper fix is required.
 3. Flyway migration strategy after vocabulary seed changes V4-V20, especially meaning_zh varchar(255) overflow and version reuse of V4.
 4. End-to-end correctness of Today Coach, First Coaching Session, Priority Memory, Drill Suggestion, and Progress/Coach Review.
 5. Missing validations, hidden fallbacks, and observability gaps.
 
-Do not modify unrelated untracked files under tatoeba/, tools/, Chinese vocabulary directories, or generated vocabulary migrations unless explicitly needed for the review.
+Do not modify unrelated local/generated files under tatoeba/, tools/, Chinese vocabulary directories, or generated vocabulary migrations unless explicitly needed for the review.
 
 Start with findings ordered by severity, with file/line references and concrete reproduction evidence. Then propose a minimal remediation plan.
 ```
@@ -464,13 +466,15 @@ git diff --stat
 
 ## 9. Immediate Recommendation
 
-Do not push the current diagnostic changes as-is.
+The diagnostic changes have already been pushed so another machine can review the exact state. Treat commit `34e5669` as the review target for the HTTP-body issue, not as an endorsed final fix.
 
-Recommended immediate sequence for the next session:
+Recommended immediate sequence for the next review session:
 
-1. Preserve this handoff.
+1. Pull latest `main` on the review machine and confirm `git rev-parse --short HEAD` is `34e5669` or newer.
 2. Run a minimal standalone Java `HttpClient` call to Python to see if uvicorn receives body bytes.
 3. If standalone Java works, isolate Spring `RestClient` behavior or IntelliJ runtime interaction.
 4. If standalone Java also fails, inspect local proxy/security/HTTP stack/environment.
-5. Revert or guard raw body logging before production commit.
+5. Decide whether to revert, guard, or replace the raw body logging in `python-agent/app/main.py` before any production-facing commit.
 6. Add permanent contract/integration tests once root cause is known.
+7. After review fixes are made, commit and push a cleanup/fix commit on top of the current `main`.
+
