@@ -40,6 +40,8 @@ class PythonAgentClientTest {
 
         assertThat(receivedPath).isEqualTo("/api/coach/turn/analyze");
         assertThat(receivedBody).contains("I need prepare the demo.");
+        assertThat(receivedBody).contains("recent_memory");
+        assertThat(receivedBody).doesNotContain("recentMemory");
         assertThat(response.coachReply()).isEqualTo("Tell me more.");
         assertThat(response.savedNotes()).hasSize(1);
         assertThat(response.savedNotes().get(0).key()).isEqualTo("missing_infinitive_to");
@@ -55,6 +57,11 @@ class PythonAgentClientTest {
     private void handleAnalyzeTurn(HttpExchange exchange) throws IOException {
         receivedPath = exchange.getRequestURI().getPath();
         receivedBody = new String(exchange.getRequestBody().readAllBytes(), StandardCharsets.UTF_8);
+        if (receivedBody.isBlank()) {
+            exchange.sendResponseHeaders(422, -1);
+            exchange.close();
+            return;
+        }
         byte[] response = """
                 {
                   "coach_reply": "Tell me more.",
@@ -78,3 +85,4 @@ class PythonAgentClientTest {
         exchange.close();
     }
 }
+
