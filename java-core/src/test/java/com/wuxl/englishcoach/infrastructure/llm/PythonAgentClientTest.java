@@ -19,6 +19,8 @@ class PythonAgentClientTest {
     private HttpServer server;
     private String receivedPath;
     private String receivedBody;
+    private String receivedContentLength;
+    private String receivedTransferEncoding;
 
     @AfterEach
     void stopServer() {
@@ -42,6 +44,8 @@ class PythonAgentClientTest {
         assertThat(receivedBody).contains("I need prepare the demo.");
         assertThat(receivedBody).contains("recent_memory");
         assertThat(receivedBody).doesNotContain("recentMemory");
+        assertThat(receivedContentLength).isNotBlank();
+        assertThat(receivedTransferEncoding).isNull();
         assertThat(response.coachReply()).isEqualTo("Tell me more.");
         assertThat(response.savedNotes()).hasSize(1);
         assertThat(response.savedNotes().get(0).key()).isEqualTo("missing_infinitive_to");
@@ -59,6 +63,8 @@ class PythonAgentClientTest {
 
     private void handleAnalyzeTurn(HttpExchange exchange) throws IOException {
         receivedPath = exchange.getRequestURI().getPath();
+        receivedContentLength = exchange.getRequestHeaders().getFirst("Content-Length");
+        receivedTransferEncoding = exchange.getRequestHeaders().getFirst("Transfer-Encoding");
         receivedBody = new String(exchange.getRequestBody().readAllBytes(), StandardCharsets.UTF_8);
         if (receivedBody.isBlank()) {
             exchange.sendResponseHeaders(422, -1);

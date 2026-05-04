@@ -3,11 +3,15 @@ package com.wuxl.englishcoach.infrastructure.llm;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.wuxl.englishcoach.infrastructure.llm.dto.CoachTurnAnalysisRequest;
 import com.wuxl.englishcoach.infrastructure.llm.dto.CoachTurnAnalysisResponse;
+import java.time.Duration;
+import java.util.List;
 import java.util.Map;
+import org.springframework.http.HttpHeaders;
 import org.springframework.http.MediaType;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Value;
+import org.springframework.http.client.SimpleClientHttpRequestFactory;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestClient;
 
@@ -23,8 +27,13 @@ public class PythonAgentClient {
     public PythonAgentClient(@Value("${python-agent.base-url:http://localhost:8000}") String baseUrl,
                               @Value("${python-agent.enabled:true}") boolean enabled,
                               ObjectMapper objectMapper) {
+        SimpleClientHttpRequestFactory requestFactory = new SimpleClientHttpRequestFactory();
+        requestFactory.setConnectTimeout(Duration.ofSeconds(5));
+        requestFactory.setReadTimeout(Duration.ofSeconds(30));
+
         this.restClient = RestClient.builder()
                 .baseUrl(baseUrl)
+                .requestFactory(requestFactory)
                 .build();
         this.objectMapper = objectMapper;
         this.enabled = enabled;
@@ -101,11 +110,16 @@ public class PythonAgentClient {
         if (!enabled) return null;
 
         try {
-            String payload = objectMapper.writeValueAsString(request);
-            log.debug("Calling python-agent turn analysis payloadBytes={}", payload.length());
+            byte[] payload = objectMapper.writeValueAsBytes(request);
+            log.debug("Calling python-agent turn analysis payloadBytes={}", payload.length);
             return restClient.post()
                     .uri("/api/coach/turn/analyze")
-                    .contentType(MediaType.APPLICATION_JSON)
+                    .headers(headers -> {
+                        headers.setContentType(MediaType.APPLICATION_JSON);
+                        headers.setAccept(List.of(MediaType.APPLICATION_JSON));
+                        headers.setContentLength(payload.length);
+                        headers.set(HttpHeaders.CONNECTION, "close");
+                    })
                     .body(payload)
                     .retrieve()
                     .body(CoachTurnAnalysisResponse.class);
