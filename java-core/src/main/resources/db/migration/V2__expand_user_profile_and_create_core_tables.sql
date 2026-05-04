@@ -15,7 +15,7 @@ create table learning_item (
     item_code varchar(64) not null,
     type varchar(32) not null,
     content varchar(255) not null,
-    meaning_zh varchar(255) not null,
+    meaning_zh text not null,
     difficulty int not null,
     theme varchar(64) not null,
     tags varchar(2048) not null default '[]',
