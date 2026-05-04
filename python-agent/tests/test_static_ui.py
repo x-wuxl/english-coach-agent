@@ -57,18 +57,27 @@ def test_today_study_runner_submits_real_attempts() -> None:
     assert 'sentence_building' in html
 
 
-def test_guided_practice_advances_locally_before_coach_fix() -> None:
+def test_guided_practice_uses_today_learning_item_before_coach_fix() -> None:
     html = STATIC_INDEX.read_text(encoding="utf-8")
 
-    assert "function checkNeedToPattern(sentence, verb)" in html
-    assert "step: 1" in html
-    assert "baseSentence: ''" in html
-    assert "expandedSentence: ''" in html
-    assert "ownSentence: ''" in html
+    assert "sourceItem: null" in html
+    assert "expression: ''" in html
+    assert "function findGuidedPracticeItem()" in html
+    assert "function buildGuidedPracticeFromItem(item)" in html
+    assert "function checkGuidedPattern(sentence)" in html
+    assert "function checkNeedToPattern" not in html
+    assert "pattern: 'I need to ...'" not in html
+    assert "I need to ${verb} the demo" not in html
+    assert "Use today's item" in html
     assert "Add time, person, or reason" in html
     assert "Send to coach" in html
 
+    start_body = html.split('async function startGuidedPractice()', 1)[1].split('function resetGuidedPractice', 1)[0]
+    assert "await ensureDailyPlan()" in start_body
+    assert "buildGuidedPracticeFromItem" in start_body
+
     submit_body = html.split('async function submitGuidedSentence()', 1)[1].split('async function sendGuidedSentenceToCoach', 1)[0]
+    assert "checkGuidedPattern(sentence)" in submit_body
     assert "setCoachMode('FIX')" not in submit_body
     assert 'await submitCoachTurn()' not in submit_body
 

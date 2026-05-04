@@ -466,9 +466,11 @@
         ];
 
         const guidedPractice = {
-            pattern: 'I need to ...',
-            verbs: ['prepare', 'join', 'explain'],
-            selectedVerb: null,
+            sourceItem: null,
+            expression: '',
+            meaning: '',
+            pattern: '',
+            examples: [],
             step: 1,
             baseSentence: '',
             expandedSentence: '',
@@ -1251,17 +1253,60 @@ My answer: ${answer}`;
             </div>`;
         }
 
-        function startGuidedPractice() {
+        async function startGuidedPractice() {
             showPage('practice');
             document.getElementById('study-runner-panel')?.classList.add('hidden');
             const panel = document.getElementById('guided-practice-panel');
             panel.classList.remove('hidden');
-            guidedPractice.selectedVerb = null;
+            panel.innerHTML = '<div class="empty-note">Preparing guided practice from today plan...</div>';
+            if (appState.user && (!appState.dailyPlan || !(appState.studyQueue || []).length)) {
+                await ensureDailyPlan();
+            }
+            resetGuidedPractice(buildGuidedPracticeFromItem(findGuidedPracticeItem()));
+            renderGuidedPractice();
+        }
+
+        function resetGuidedPractice(config) {
+            guidedPractice.sourceItem = config.sourceItem;
+            guidedPractice.expression = config.expression;
+            guidedPractice.meaning = config.meaning;
+            guidedPractice.pattern = config.pattern;
+            guidedPractice.examples = config.examples;
             guidedPractice.step = 1;
             guidedPractice.baseSentence = '';
             guidedPractice.expandedSentence = '';
             guidedPractice.ownSentence = '';
-            renderGuidedPractice();
+        }
+
+        function findGuidedPracticeItem() {
+            const queue = appState.studyQueue || [];
+            const active = queue[appState.studyIndex];
+            if (active && active.content) return active;
+            return queue.find(item => item && item.content)
+                || [...((appState.dailyPlan && appState.dailyPlan.newItems) || []), ...((appState.dailyPlan && appState.dailyPlan.reviewItems) || [])]
+                    .find(item => item && item.content)
+                || null;
+        }
+
+        function buildGuidedPracticeFromItem(item) {
+            if (!item) {
+                return {
+                    sourceItem: null,
+                    expression: 'practice',
+                    meaning: "Use today's item in a complete sentence.",
+                    pattern: "Use today's item",
+                    examples: []
+                };
+            }
+            const expression = item.content || item.itemCode || "today's item";
+            const examples = Array.isArray(item.examples) ? item.examples.filter(example => example && example.en) : [];
+            return {
+                sourceItem: item,
+                expression,
+                meaning: item.meaningZh || 'No Chinese meaning yet',
+                pattern: `Use today's item: ${expression}`,
+                examples
+            };
         }
 
         function renderGuidedPractice(feedback = '') {
@@ -1272,59 +1317,54 @@ My answer: ${answer}`;
                     ? guidedPractice.expandedSentence
                     : guidedPractice.ownSentence;
             const prompt = guidedPractice.step === 1
-                ? 'Write a base sentence with the verb you chose.'
+                ? "Use today's item in one complete sentence."
                 : guidedPractice.step === 2
                     ? 'Add time, person, or reason to make the sentence more useful.'
-                    : 'Write your own sentence with the same pattern.';
+                    : 'Write a new sentence with the same item.';
             const actionLabel = guidedPractice.step === 1
-                ? 'Check base sentence'
+                ? 'Check sentence'
                 : guidedPractice.step === 2
                     ? 'Check expanded sentence'
                     : 'Finish practice';
+            const example = guidedPractice.examples.length ? guidedPractice.examples[0] : null;
             panel.innerHTML = `
                 <p class="eyebrow">Guided Practice</p>
-                <h2>${guidedPractice.pattern}</h2>
+                <h2>${escapeHtml(guidedPractice.pattern || "Use today's item")}</h2>
                 <div class="step-block">
-                    <h3>Step 1: Choose a verb</h3>
-                    <div class="choice-row">
-                        ${guidedPractice.verbs.map(verb => `<button class="choice-btn" data-guided-verb="${verb}" onclick="selectGuidedVerb('${verb}')">${verb}</button>`).join('')}
-                    </div>
+                    <h3>Learning item</h3>
+                    <p class="muted">${escapeHtml(guidedPractice.meaning || 'No Chinese meaning yet')}</p>
+                    ${example ? `<p>${escapeHtml(example.en)}</p>` : ''}
                 </div>
                 <div class="step-block">
                     <h3>Step ${escapeHtml(guidedPractice.step)}: ${escapeHtml(prompt)}</h3>
                     <label class="sr-only" for="guidedSentence">Guided sentence</label>
-                    <textarea id="guidedSentence" placeholder="I need to prepare the demo.">${escapeHtml(currentSentence)}</textarea>
+                    <textarea id="guidedSentence" placeholder="${escapeHtml(buildGuidedPlaceholder())}">${escapeHtml(currentSentence)}</textarea>
                     <div class="study-actions"><button class="btn btn-primary" onclick="submitGuidedSentence()">${escapeHtml(actionLabel)}</button></div>
                 </div>
                 <div id="guided-feedback" aria-live="polite">${feedback}</div>`;
-            if (guidedPractice.selectedVerb) {
-                document.querySelectorAll('[data-guided-verb]').forEach(button => {
-                    button.classList.toggle('selected', button.dataset.guidedVerb === guidedPractice.selectedVerb);
-                });
-            }
         }
 
-        function selectGuidedVerb(verb) {
-            guidedPractice.selectedVerb = verb;
-            if (guidedPractice.step === 1 && !guidedPractice.baseSentence) {
-                guidedPractice.baseSentence = `I need to ${verb} the demo.`;
+        function buildGuidedPlaceholder() {
+            const expression = guidedPractice.expression || "today's item";
+            if (expression.startsWith("'d ")) {
+                return `I'd ${expression.slice(3)} ...`;
             }
-            renderGuidedPractice();
-            document.getElementById('guidedSentence').focus();
+            if (expression.startsWith("'")) {
+                return `Use ${expression} in a full sentence.`;
+            }
+            return `Write one sentence using ${expression}.`;
         }
 
-        function checkNeedToPattern(sentence, verb) {
-            const normalized = sentence.trim().replace(/\s+/g, ' ').toLowerCase();
-            return normalized.startsWith(`i need to ${verb} `) && normalized.length > `i need to ${verb} `.length;
+        function checkGuidedPattern(sentence) {
+            const normalized = normalizeStudyAnswer(sentence);
+            const expression = normalizeStudyAnswer(guidedPractice.expression || '');
+            if (!normalized || normalized.split(' ').length < 3) return false;
+            if (!expression || expression === 'practice') return true;
+            return normalized.includes(expression);
         }
 
         async function submitGuidedSentence() {
             const sentence = document.getElementById('guidedSentence').value.trim();
-            const verb = guidedPractice.selectedVerb;
-            if (!verb) {
-                renderGuidedPractice('<div class="msg msg-error">Choose a verb first.</div>');
-                return;
-            }
             if (!sentence) {
                 renderGuidedPractice('<div class="msg msg-error">Write a sentence first.</div>');
                 return;
@@ -1332,8 +1372,8 @@ My answer: ${answer}`;
 
             if (guidedPractice.step === 1) {
                 guidedPractice.baseSentence = sentence;
-                if (!checkNeedToPattern(sentence, verb)) {
-                    renderGuidedPractice(`<div class="msg msg-error">Use this pattern: I need to ${escapeHtml(verb)} + object.</div>`);
+                if (!checkGuidedPattern(sentence)) {
+                    renderGuidedPractice(`<div class="msg msg-error">Use today's item: ${escapeHtml(guidedPractice.expression)}.</div>`);
                     return;
                 }
                 guidedPractice.step = 2;
@@ -1344,8 +1384,8 @@ My answer: ${answer}`;
 
             if (guidedPractice.step === 2) {
                 guidedPractice.expandedSentence = sentence;
-                if (!checkNeedToPattern(sentence, verb)) {
-                    renderGuidedPractice(`<div class="msg msg-error">Keep the sentence starting with: I need to ${escapeHtml(verb)}.</div>`);
+                if (!checkGuidedPattern(sentence)) {
+                    renderGuidedPractice(`<div class="msg msg-error">Keep using today's item: ${escapeHtml(guidedPractice.expression)}.</div>`);
                     return;
                 }
                 if (normalizeStudyAnswer(sentence) === normalizeStudyAnswer(guidedPractice.baseSentence)) {
@@ -1354,7 +1394,7 @@ My answer: ${answer}`;
                 }
                 guidedPractice.step = 3;
                 guidedPractice.ownSentence = '';
-                renderGuidedPractice('<div class="msg msg-success">Now write your own sentence with the same pattern.</div>');
+                renderGuidedPractice('<div class="msg msg-success">Now write a new sentence with the same item.</div>');
                 return;
             }
 

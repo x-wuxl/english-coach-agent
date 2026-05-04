@@ -4,6 +4,10 @@ import static org.springframework.test.web.servlet.request.MockMvcRequestBuilder
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.post;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.jsonPath;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
+import static org.hamcrest.Matchers.everyItem;
+import static org.hamcrest.Matchers.isEmptyOrNullString;
+import static org.hamcrest.Matchers.not;
+import static org.hamcrest.Matchers.startsWith;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -130,6 +134,8 @@ class DailyPlanControllerTest {
                 .andExpect(jsonPath("$.data.newItems[0].itemCode").isNotEmpty())
                 .andExpect(jsonPath("$.data.newItems[0].type").isNotEmpty())
                 .andExpect(jsonPath("$.data.newItems[0].content").isNotEmpty())
+                .andExpect(jsonPath("$.data.newItems[*].content", everyItem(not(startsWith("'")))))
+                .andExpect(jsonPath("$.data.newItems[*].meaningZh", everyItem(not(isEmptyOrNullString()))))
                 .andExpect(jsonPath("$.data.newItems[0].meaningZh").exists())
                 .andExpect(jsonPath("$.data.newItems[0].difficulty").isNumber())
                 .andExpect(jsonPath("$.data.newItems[0].theme").isNotEmpty())

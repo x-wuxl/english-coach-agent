@@ -93,7 +93,11 @@ public class DailyPlanService {
 
         DailyPlanSnapshotDO existing = findPlanSnapshot(request.userId(), planDate, planType);
         if (existing != null) {
-            return toResponse(existing, request.planDate());
+            DailyPlanResponse response = toResponse(existing, request.planDate());
+            if (hasVisiblePlanItems(response)) {
+                return response;
+            }
+            deletePlanSnapshot(existing.getId());
         }
 
         return createPlan(request, user, planDate, planType);
@@ -257,6 +261,9 @@ public class DailyPlanService {
 
         for (DailyPlanItemDO itemDO : items) {
             LearningItemDO li = learningItemMapper.selectById(itemDO.getLearningItemId());
+            if (li != null && !isPresentableLearningItem(li)) {
+                continue;
+            }
             DailyPlanItemResponse resp = li != null
                     ? toItemResponse(li, itemDO.getItemRole(), itemDO.getRecommendedMode(),
                             itemDO.getPriorityScore(), itemDO.getSelectionReason())
@@ -279,23 +286,51 @@ public class DailyPlanService {
     }
 
     private List<LearningItemDO> selectBoundedActiveCandidates(List<String> preferredThemes) {
+        List<LearningItemDO> candidates = selectActiveCandidateWindow(preferredThemes, 500);
+        if (candidates.isEmpty() && preferredThemes != null && !preferredThemes.isEmpty()) {
+            candidates = selectActiveCandidateWindow(Collections.emptyList(), 500);
+        }
+        return candidates;
+    }
+
+    private List<LearningItemDO> selectActiveCandidateWindow(List<String> preferredThemes, int limit) {
         LambdaQueryWrapper<LearningItemDO> wrapper = new LambdaQueryWrapper<>();
         wrapper.eq(LearningItemDO::getStatus, "ACTIVE");
         if (preferredThemes != null && !preferredThemes.isEmpty()) {
             wrapper.in(LearningItemDO::getTheme, preferredThemes);
         }
         wrapper.orderByAsc(LearningItemDO::getDifficulty, LearningItemDO::getId)
-                .last("limit 200");
+                .last("limit " + limit);
 
-        List<LearningItemDO> candidates = learningItemMapper.selectList(wrapper);
-        if ((candidates == null || candidates.isEmpty()) && preferredThemes != null && !preferredThemes.isEmpty()) {
-            LambdaQueryWrapper<LearningItemDO> fallback = new LambdaQueryWrapper<>();
-            fallback.eq(LearningItemDO::getStatus, "ACTIVE")
-                    .orderByAsc(LearningItemDO::getDifficulty, LearningItemDO::getId)
-                    .last("limit 200");
-            return learningItemMapper.selectList(fallback);
+        List<LearningItemDO> raw = learningItemMapper.selectList(wrapper);
+        if (raw == null || raw.isEmpty()) {
+            return Collections.emptyList();
         }
-        return candidates;
+        return raw.stream()
+                .filter(this::isPresentableLearningItem)
+                .toList();
+    }
+
+    private boolean isPresentableLearningItem(LearningItemDO item) {
+        if (item == null) return false;
+        String content = item.getContent();
+        String meaning = item.getMeaningZh();
+        if (content == null || content.isBlank()) return false;
+        if (meaning == null || meaning.isBlank()) return false;
+        String trimmed = content.trim();
+        if (trimmed.startsWith("'")) return false;
+        return trimmed.chars().anyMatch(Character::isLetter);
+    }
+
+    private boolean hasVisiblePlanItems(DailyPlanResponse response) {
+        return response != null
+                && ((!response.newItems().isEmpty()) || (!response.reviewItems().isEmpty()));
+    }
+
+    private void deletePlanSnapshot(Long snapshotId) {
+        planItemMapper.delete(new LambdaQueryWrapper<DailyPlanItemDO>()
+                .eq(DailyPlanItemDO::getDailyPlanSnapshotId, snapshotId));
+        planSnapshotMapper.deleteById(snapshotId);
     }
 
     private DailyPlanItemResponse toItemResponse(LearningItemDO item, String itemRole,
