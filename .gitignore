@@ -44,4 +44,5 @@ htmlcov/
 # Local data
 .tmp/
 .worktrees/
+tatoeba/
 tmp_apply_patch_test.txt
