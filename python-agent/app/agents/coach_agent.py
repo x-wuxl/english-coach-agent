@@ -113,6 +113,17 @@ def _fallback_turn_response(req: CoachTurnAnalyzeRequest) -> CoachTurnAnalyzeRes
 
 def _fallback_fix_response(message: str) -> CoachTurnAnalyzeResponse:
     better = _basic_fix_sentence(message)
+    if _same_sentence(message, better):
+        next_step = _extend_natural_sentence(message)
+        return CoachTurnAnalyzeResponse(
+            coach_reply="This sentence is already natural. Try adding one useful detail next.",
+            fix_response=FixResponse(
+                meaning_check="This sentence is already natural and clear.",
+                better_english=next_step,
+                what_changed=["No grammar correction needed; this is an expansion for more useful output."],
+                try_again_prompt="Next, add time, reason, or a person to make it more specific.",
+            ),
+        )
     return CoachTurnAnalyzeResponse(
         coach_reply=f"Try this: {better}",
         fix_response=FixResponse(
@@ -141,6 +152,17 @@ def _basic_fix_sentence(message: str) -> str:
             text = text.replace(old, new)
     return text[0].upper() + text[1:]
 
+
+
+def _same_sentence(left: str, right: str) -> bool:
+    return " ".join((left or "").strip().lower().split()) == " ".join((right or "").strip().lower().split())
+
+
+def _extend_natural_sentence(message: str) -> str:
+    base = (message or "").strip().rstrip(".!?")
+    if not base:
+        return "Please write one complete English sentence."
+    return f"{base} before Friday."
 
 def analyze_first_session(req: FirstCoachingAnalyzeRequest) -> FirstCoachingAnalyzeResponse:
     result = llm_service.structured(
@@ -202,7 +224,9 @@ def _build_turn_prompt(req: CoachTurnAnalyzeRequest) -> str:
     parts = [
         f"Mode: {req.mode}",
         f"Learner message: {req.message}",
+        f"Recent messages: {req.recent_messages}",
         f"Recent memory: {req.recent_memory}",
+        f"Learner context: {req.learner_context}",
     ]
     return "\n".join(parts)
 

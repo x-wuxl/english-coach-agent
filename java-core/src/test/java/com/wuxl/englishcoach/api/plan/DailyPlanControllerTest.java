@@ -13,6 +13,7 @@ import org.springframework.http.MediaType;
 import org.springframework.test.context.DynamicPropertyRegistry;
 import org.springframework.test.context.DynamicPropertySource;
 import org.springframework.test.web.servlet.MockMvc;
+import org.springframework.test.web.servlet.MvcResult;
 
 @SpringBootTest
 @AutoConfigureMockMvc
@@ -104,6 +105,66 @@ class DailyPlanControllerTest {
                                 """.formatted(userId)))
                 .andExpect(status().isOk())
                 .andExpect(jsonPath("$.code").value(4092));
+    }
+
+    @Test
+    void shouldEnsureDailyPlanByCreatingWhenMissing() throws Exception {
+        Long userId = createTestUser();
+
+        mockMvc.perform(post("/api/plans/daily:ensure")
+                        .contentType(MediaType.APPLICATION_JSON)
+                        .content("""
+                                {
+                                  "userId": %d,
+                                  "planDate": "2026-05-04",
+                                  "planType": "NORMAL"
+                                }
+                                """.formatted(userId)))
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$.code").value(0))
+                .andExpect(jsonPath("$.data.planCode").isNotEmpty())
+                .andExpect(jsonPath("$.data.planDate").value("2026-05-04"))
+                .andExpect(jsonPath("$.data.planType").value("NORMAL"))
+                .andExpect(jsonPath("$.data.status").value("ACTIVE"))
+                .andExpect(jsonPath("$.data.newItems[0].itemId").isNumber())
+                .andExpect(jsonPath("$.data.newItems[0].itemCode").isNotEmpty())
+                .andExpect(jsonPath("$.data.newItems[0].type").isNotEmpty())
+                .andExpect(jsonPath("$.data.newItems[0].content").isNotEmpty())
+                .andExpect(jsonPath("$.data.newItems[0].meaningZh").exists())
+                .andExpect(jsonPath("$.data.newItems[0].difficulty").isNumber())
+                .andExpect(jsonPath("$.data.newItems[0].theme").isNotEmpty())
+                .andExpect(jsonPath("$.data.newItems[0].examples").isArray())
+                .andExpect(jsonPath("$.data.newItems[0].itemRole").value("NEW"));
+    }
+
+    @Test
+    void shouldEnsureDailyPlanIdempotently() throws Exception {
+        Long userId = createTestUser();
+        String request = """
+                {
+                  "userId": %d,
+                  "planDate": "2026-05-05",
+                  "planType": "NORMAL"
+                }
+                """.formatted(userId);
+
+        MvcResult first = mockMvc.perform(post("/api/plans/daily:ensure")
+                        .contentType(MediaType.APPLICATION_JSON)
+                        .content(request))
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$.code").value(0))
+                .andReturn();
+
+        String firstPlanCode = first.getResponse().getContentAsString()
+                .replaceFirst("(?s).*\\\"planCode\\\":\\\"([^\\\"]+)\\\".*", "$1");
+
+        mockMvc.perform(post("/api/plans/daily:ensure")
+                        .contentType(MediaType.APPLICATION_JSON)
+                        .content(request))
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$.code").value(0))
+                .andExpect(jsonPath("$.data.planCode").value(firstPlanCode))
+                .andExpect(jsonPath("$.data.newItems[0].itemId").isNumber());
     }
 
     @Test

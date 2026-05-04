@@ -8,6 +8,8 @@ import java.util.Map;
 public record CoachTurnAnalysisRequest(
         String mode,
         String message,
-        @JsonProperty("recent_memory")
-        List<Map<String, Object>> recentMemory) {
+        @JsonProperty("recent_messages")
+        List<String> recentMessages,
+        @JsonProperty("learner_context")
+        Map<String, Object> learnerContext) {
 }

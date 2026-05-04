@@ -82,6 +82,24 @@ public class DailyPlanService {
     }
 
     @Transactional
+    public DailyPlanResponse ensure(GenerateDailyPlanRequest request) {
+        UserProfileDO user = userProfileMapper.selectById(request.userId());
+        if (user == null) {
+            throw new BusinessException(ErrorCodeEnum.USER_NOT_FOUND);
+        }
+
+        LocalDate planDate = LocalDate.parse(request.planDate(), DateTimeFormatter.ISO_LOCAL_DATE);
+        String planType = request.planType() != null ? request.planType() : PlanType.NORMAL.name();
+
+        DailyPlanSnapshotDO existing = findPlanSnapshot(request.userId(), planDate, planType);
+        if (existing != null) {
+            return toResponse(existing, request.planDate());
+        }
+
+        return createPlan(request, user, planDate, planType);
+    }
+
+    @Transactional
     public DailyPlanResponse generate(GenerateDailyPlanRequest request) {
         // Validate user
         UserProfileDO user = userProfileMapper.selectById(request.userId());
@@ -101,6 +119,11 @@ public class DailyPlanService {
             throw new BusinessException(ErrorCodeEnum.DUPLICATE_DAILY_PLAN);
         }
 
+        return createPlan(request, user, planDate, planType);
+    }
+
+    private DailyPlanResponse createPlan(GenerateDailyPlanRequest request, UserProfileDO user,
+                                         LocalDate planDate, String planType) {
         // Calculate load
         double completionRate = calcRecentCompletionRate(request.userId());
         double accuracy = calcRecentAccuracy(request.userId());
@@ -132,21 +155,19 @@ public class DailyPlanService {
             double priority = priorityCalculator.calculatePriority(s);
             LearningItemDO item = learningItemMapper.selectById(s.learningItemId());
             if (item == null) continue;
-            reviewItems.add(new DailyPlanItemResponse(
-                    item.getId(), item.getContent(), item.getMeaningZh(), "REVIEW", null,
+            reviewItems.add(toItemResponse(item, "REVIEW", null,
                     BigDecimal.valueOf(priority), "priority=" + String.format("%.2f", priority)));
             whyReviewThese.add(item.getContent() + " priority=" + String.format("%.2f", priority));
         }
 
         // Select new items
-        List<LearningItemDO> allActive = learningItemMapper.selectList(
-                new LambdaQueryWrapper<LearningItemDO>().eq(LearningItemDO::getStatus, "ACTIVE"));
+        List<String> preferredThemes = fromJsonList(user.getSubGoals());
+        List<LearningItemDO> candidateItems = selectBoundedActiveCandidates(preferredThemes);
 
-        List<ItemCandidate> candidates = allActive.stream()
+        List<ItemCandidate> candidates = candidateItems.stream()
                 .map(li -> new ItemCandidate(li.getId(), li.getType(), li.getTheme(), li.getDifficulty()))
                 .toList();
 
-        List<String> preferredThemes = fromJsonList(user.getSubGoals());
         List<ItemCandidate> selected = selectionPolicy.select(
                 candidates, masteredItemIds, preferredThemes, load.newCount());
 
@@ -154,8 +175,7 @@ public class DailyPlanService {
         for (ItemCandidate c : selected) {
             LearningItemDO item = learningItemMapper.selectById(c.id());
             if (item == null) continue;
-            newItems.add(new DailyPlanItemResponse(
-                    item.getId(), item.getContent(), item.getMeaningZh(), "NEW", null, null, "new selection"));
+            newItems.add(toItemResponse(item, "NEW", null, null, "new selection"));
         }
 
         // Persist plan
@@ -210,15 +230,23 @@ public class DailyPlanService {
         LocalDate date = LocalDate.parse(planDate, DateTimeFormatter.ISO_LOCAL_DATE);
         String type = planType != null ? planType : PlanType.NORMAL.name();
 
-        LambdaQueryWrapper<DailyPlanSnapshotDO> wrapper = new LambdaQueryWrapper<>();
-        wrapper.eq(DailyPlanSnapshotDO::getUserId, userId)
-                .eq(DailyPlanSnapshotDO::getPlanDate, date)
-                .eq(DailyPlanSnapshotDO::getPlanType, type);
-        DailyPlanSnapshotDO snapshot = planSnapshotMapper.selectOne(wrapper);
+        DailyPlanSnapshotDO snapshot = findPlanSnapshot(userId, date, type);
         if (snapshot == null) {
             throw new BusinessException(ErrorCodeEnum.DAILY_PLAN_NOT_FOUND);
         }
 
+        return toResponse(snapshot, planDate);
+    }
+
+    private DailyPlanSnapshotDO findPlanSnapshot(Long userId, LocalDate planDate, String planType) {
+        LambdaQueryWrapper<DailyPlanSnapshotDO> wrapper = new LambdaQueryWrapper<>();
+        wrapper.eq(DailyPlanSnapshotDO::getUserId, userId)
+                .eq(DailyPlanSnapshotDO::getPlanDate, planDate)
+                .eq(DailyPlanSnapshotDO::getPlanType, planType);
+        return planSnapshotMapper.selectOne(wrapper);
+    }
+
+    private DailyPlanResponse toResponse(DailyPlanSnapshotDO snapshot, String planDate) {
         List<DailyPlanItemDO> items = planItemMapper.selectList(
                 new LambdaQueryWrapper<DailyPlanItemDO>()
                         .eq(DailyPlanItemDO::getDailyPlanSnapshotId, snapshot.getId())
@@ -229,11 +257,12 @@ public class DailyPlanService {
 
         for (DailyPlanItemDO itemDO : items) {
             LearningItemDO li = learningItemMapper.selectById(itemDO.getLearningItemId());
-            String content = li != null ? li.getContent() : "";
-            String meaningZh = li != null ? li.getMeaningZh() : "";
-            DailyPlanItemResponse resp = new DailyPlanItemResponse(
-                    itemDO.getLearningItemId(), content, meaningZh, itemDO.getItemRole(),
-                    itemDO.getRecommendedMode(), itemDO.getPriorityScore(), itemDO.getSelectionReason());
+            DailyPlanItemResponse resp = li != null
+                    ? toItemResponse(li, itemDO.getItemRole(), itemDO.getRecommendedMode(),
+                            itemDO.getPriorityScore(), itemDO.getSelectionReason())
+                    : new DailyPlanItemResponse(itemDO.getLearningItemId(), null, null,
+                            "", "", null, null, Collections.emptyList(), itemDO.getItemRole(),
+                            itemDO.getRecommendedMode(), itemDO.getPriorityScore(), itemDO.getSelectionReason());
             if ("NEW".equals(itemDO.getItemRole())) {
                 newItems.add(resp);
             } else {
@@ -247,6 +276,35 @@ public class DailyPlanService {
         return new DailyPlanResponse(
                 snapshot.getPlanCode(), planDate, snapshot.getPlanType(), snapshot.getStatus(),
                 newItems, reviewItems, rationale);
+    }
+
+    private List<LearningItemDO> selectBoundedActiveCandidates(List<String> preferredThemes) {
+        LambdaQueryWrapper<LearningItemDO> wrapper = new LambdaQueryWrapper<>();
+        wrapper.eq(LearningItemDO::getStatus, "ACTIVE");
+        if (preferredThemes != null && !preferredThemes.isEmpty()) {
+            wrapper.in(LearningItemDO::getTheme, preferredThemes);
+        }
+        wrapper.orderByAsc(LearningItemDO::getDifficulty, LearningItemDO::getId)
+                .last("limit 200");
+
+        List<LearningItemDO> candidates = learningItemMapper.selectList(wrapper);
+        if ((candidates == null || candidates.isEmpty()) && preferredThemes != null && !preferredThemes.isEmpty()) {
+            LambdaQueryWrapper<LearningItemDO> fallback = new LambdaQueryWrapper<>();
+            fallback.eq(LearningItemDO::getStatus, "ACTIVE")
+                    .orderByAsc(LearningItemDO::getDifficulty, LearningItemDO::getId)
+                    .last("limit 200");
+            return learningItemMapper.selectList(fallback);
+        }
+        return candidates;
+    }
+
+    private DailyPlanItemResponse toItemResponse(LearningItemDO item, String itemRole,
+                                                 String recommendedMode, BigDecimal priorityScore,
+                                                 String selectionReason) {
+        return new DailyPlanItemResponse(
+                item.getId(), item.getItemCode(), item.getType(), item.getContent(), item.getMeaningZh(),
+                item.getDifficulty(), item.getTheme(), fromJsonMapList(item.getExamples()), itemRole,
+                recommendedMode, priorityScore, selectionReason);
     }
 
     private MasterySnapshot toMasterySnapshot(MasteryStateDO ms) {
@@ -281,6 +339,15 @@ public class DailyPlanService {
     }
 
     private List<String> fromJsonList(String json) {
+        if (json == null || json.isBlank()) return Collections.emptyList();
+        try {
+            return objectMapper.readValue(json, new TypeReference<>() {});
+        } catch (JsonProcessingException e) {
+            return Collections.emptyList();
+        }
+    }
+
+    private List<Map<String, String>> fromJsonMapList(String json) {
         if (json == null || json.isBlank()) return Collections.emptyList();
         try {
             return objectMapper.readValue(json, new TypeReference<>() {});

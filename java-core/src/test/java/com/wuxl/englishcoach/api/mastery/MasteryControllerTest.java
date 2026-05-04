@@ -88,7 +88,11 @@ class MasteryControllerTest {
                 .andExpect(status().isOk())
                 .andExpect(jsonPath("$.code").value(0))
                 .andExpect(jsonPath("$.data.items").isArray())
-                .andExpect(jsonPath("$.data.total").value(2));
+                .andExpect(jsonPath("$.data.total").value(2))
+                .andExpect(jsonPath("$.data.items[?(@.learningItemId == 1)].correctCount").value(1))
+                .andExpect(jsonPath("$.data.items[?(@.learningItemId == 1)].wrongCount").value(0))
+                .andExpect(jsonPath("$.data.items[?(@.learningItemId == 2)].correctCount").value(0))
+                .andExpect(jsonPath("$.data.items[?(@.learningItemId == 2)].wrongCount").value(1));
     }
 
     @Test

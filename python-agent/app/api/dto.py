@@ -63,6 +63,8 @@ class CoachTurnAnalyzeRequest(BaseModel):
     mode: str
     message: str
     recent_memory: list[dict] = []
+    recent_messages: list[str] = []
+    learner_context: dict = {}
 
 
 class CoachTurnAnalyzeResponse(BaseModel):

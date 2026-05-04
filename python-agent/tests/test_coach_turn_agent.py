@@ -64,3 +64,36 @@ def test_analyze_turn_fix_mode_returns_fix_response_when_structured_result_is_in
     assert resp.fix_response is not None
     assert resp.fix_response.better_english
     assert resp.fix_response.try_again_prompt
+
+
+def test_turn_prompt_includes_learner_context() -> None:
+    req = CoachTurnAnalyzeRequest(
+        mode="DRILL",
+        message="Practice with me.",
+        recent_messages=["I need to prepare the demo."],
+        learner_context={
+            "goal": "GENERAL",
+            "todayPlanItems": [{"content": "prepare", "meaningZh": "准备"}],
+            "priorityMemory": [{"label": "need to + verb"}],
+        },
+    )
+
+    from app.agents.coach_agent import _build_turn_prompt
+
+    prompt = _build_turn_prompt(req)
+
+    assert "Learner context" in prompt
+    assert "prepare" in prompt
+    assert "need to + verb" in prompt
+
+
+def test_fix_fallback_does_not_repeat_natural_sentence() -> None:
+    resp = analyze_turn(CoachTurnAnalyzeRequest(
+        mode="FIX",
+        message="I need to prepare the demo.",
+        recent_memory=[],
+    ))
+
+    assert resp.fix_response is not None
+    assert resp.fix_response.better_english != "I need to prepare the demo."
+    assert "already" in resp.fix_response.meaning_check.lower() or "next" in resp.fix_response.try_again_prompt.lower()

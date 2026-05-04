@@ -37,13 +37,16 @@ class PythonAgentClientTest {
         var response = client.analyzeCoachTurn(new CoachTurnAnalysisRequest(
                 "CHAT",
                 "I need prepare the demo.",
-                List.of(Map.of("label", "need to + verb"))
+                List.of("Learner: I need prepare the demo."),
+                Map.of("priorityMemory", List.of(Map.of("label", "need to + verb")))
         ));
 
         assertThat(receivedPath).isEqualTo("/api/coach/turn/analyze");
         assertThat(receivedBody).contains("I need prepare the demo.");
-        assertThat(receivedBody).contains("recent_memory");
-        assertThat(receivedBody).doesNotContain("recentMemory");
+        assertThat(receivedBody).contains("recent_messages");
+        assertThat(receivedBody).contains("learner_context");
+        assertThat(receivedBody).doesNotContain("recentMessages");
+        assertThat(receivedBody).doesNotContain("learnerContext");
         assertThat(receivedContentLength).isNotBlank();
         assertThat(receivedTransferEncoding).isNull();
         assertThat(response.coachReply()).isEqualTo("Tell me more.");

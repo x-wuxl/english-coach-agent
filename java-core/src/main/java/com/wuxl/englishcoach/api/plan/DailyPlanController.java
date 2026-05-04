@@ -27,6 +27,11 @@ public class DailyPlanController {
         return BaseResponse.success(dailyPlanService.generate(request));
     }
 
+    @PostMapping("/daily:ensure")
+    public BaseResponse<DailyPlanResponse> ensure(@Valid @RequestBody GenerateDailyPlanRequest request) {
+        return BaseResponse.success(dailyPlanService.ensure(request));
+    }
+
     @GetMapping("/daily")
     public BaseResponse<DailyPlanResponse> getPlan(@RequestParam Long userId,
                                                     @RequestParam String planDate,

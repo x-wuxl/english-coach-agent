@@ -5,12 +5,14 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
 import com.wuxl.englishcoach.infrastructure.llm.PythonAgentClient;
+import com.wuxl.englishcoach.infrastructure.llm.dto.CoachTurnAnalysisRequest;
 import com.wuxl.englishcoach.infrastructure.llm.dto.CoachTurnAnalysisResponse;
 import com.wuxl.englishcoach.infrastructure.llm.dto.ExpressionGapDto;
 import java.util.Collections;
 import java.util.List;
 import java.util.Map;
 import org.junit.jupiter.api.Test;
+import org.mockito.ArgumentCaptor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.servlet.AutoConfigureMockMvc;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -22,6 +24,7 @@ import org.springframework.test.context.DynamicPropertySource;
 import org.springframework.test.web.servlet.MockMvc;
 
 import static org.mockito.ArgumentMatchers.any;
+import static org.mockito.Mockito.verify;
 import static org.mockito.Mockito.when;
 
 @SpringBootTest
@@ -107,6 +110,46 @@ class CoachControllerTest {
     }
 
     @Test
+    void shouldSendLearnerContextToPythonAnalysis() throws Exception {
+        Long userId = createTestUser("coach_user_context_001");
+        Long sessionId = startCoachSession(userId);
+        Long planId = jdbcTemplate.queryForObject("""
+                select id from daily_plan_snapshot
+                where user_id = ? and status = 'ACTIVE'
+                order by id desc limit 1
+                """, Long.class, userId);
+        jdbcTemplate.update("""
+                insert into daily_plan_item (daily_plan_snapshot_id, learning_item_id, item_role, sequence_no, recommended_mode)
+                values (?, 1, 'NEW', 1, 'recognition_quiz')
+                """, planId);
+        when(pythonAgentClient.analyzeCoachTurn(any())).thenReturn(new CoachTurnAnalysisResponse(
+                "Use today's plan item.",
+                Collections.emptyList(),
+                Collections.emptyList(),
+                null
+        ));
+
+        mockMvc.perform(post("/api/coach/sessions/" + sessionId + "/turns")
+                        .contentType(MediaType.APPLICATION_JSON)
+                        .content("""
+                                {"mode": "DRILL", "message": "Practice with me."}
+                                """))
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$.data.coachReply").value("Use today's plan item."));
+
+        ArgumentCaptor<CoachTurnAnalysisRequest> captor = ArgumentCaptor.forClass(CoachTurnAnalysisRequest.class);
+        verify(pythonAgentClient).analyzeCoachTurn(captor.capture());
+        CoachTurnAnalysisRequest sent = captor.getValue();
+        Map<String, Object> context = sent.learnerContext();
+        assert context != null;
+        assert context.get("goal").equals("GENERAL");
+        assert context.containsKey("todayPlanItems");
+        assert context.containsKey("priorityMemory");
+        assert !((List<?>) context.get("todayPlanItems")).isEmpty();
+        assert sent.recentMessages() != null;
+    }
+
+    @Test
     void shouldReturnFixResponseFromPythonAnalysis() throws Exception {
         Long userId = createTestUser("coach_user_fix_001");
         Long sessionId = startCoachSession(userId);
@@ -150,11 +193,17 @@ class CoachControllerTest {
 
     private Long createTestUser(String userCode) {
         jdbcTemplate.update("""
-                        insert into user_profile (user_code, goal, daily_minutes, status)
-                        values (?, ?, ?, ?)
+                        insert into user_profile (user_code, goal, daily_minutes, overall_level, status)
+                        values (?, ?, ?, ?, ?)
                         """,
-                userCode, "GENERAL", 20, "ACTIVE");
-        return jdbcTemplate.queryForObject("select id from user_profile where user_code = ?", Long.class, userCode);
+                userCode, "GENERAL", 20, "A1", "ACTIVE");
+        Long userId = jdbcTemplate.queryForObject("select id from user_profile where user_code = ?", Long.class, userCode);
+        jdbcTemplate.update("""
+                        insert into daily_plan_snapshot (plan_code, user_id, plan_date, plan_type, status, total_new_count, total_review_count, total_output_count)
+                        values (?, ?, current_date, 'NORMAL', 'ACTIVE', 1, 0, 0)
+                        """,
+                "plan_" + userCode, userId);
+        return userId;
     }
 
     private Long startCoachSession(Long userId) throws Exception {

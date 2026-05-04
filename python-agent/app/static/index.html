@@ -160,6 +160,16 @@
         .today-header p:not(.eyebrow), .page-heading p:not(.eyebrow) { margin: 6px 0 0; color: var(--muted); }
         .today-meta { display: flex; gap: 8px; flex-wrap: wrap; justify-content: flex-end; }
         .today-grid { display: grid; grid-template-columns: minmax(0, 1fr) 320px; gap: 18px; align-items: start; }
+        .today-plan { margin-bottom: 18px; padding: 16px; }
+        .today-plan-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 14px; margin-bottom: 14px; }
+        .today-plan-header h2 { margin: 0; font-size: 1.1rem; }
+        .today-plan-meta { display: flex; gap: 8px; flex-wrap: wrap; justify-content: flex-end; }
+        .plan-item-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+        .plan-item-card { padding: 12px; border: 1px solid var(--border); border-radius: 8px; background: var(--surface); }
+        .plan-item-card h3 { margin: 0 0 6px; font-size: 1rem; }
+        .plan-item-card p { margin: 4px 0; color: var(--muted); font-size: 0.9rem; }
+        .plan-item-tags { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 8px; }
+        .today-plan-actions { display: flex; justify-content: flex-end; margin-top: 14px; }
         .conversation-panel { overflow: hidden; }
         .coach-stream {
             min-height: 420px;
@@ -198,6 +208,11 @@
         .practice-tool h2, .guided-panel h2 { margin: 0 0 8px; font-size: 1.15rem; }
         .practice-tool p { margin: 0 0 18px; color: var(--muted); }
         .guided-panel { padding: 18px; }
+        .study-runner { padding: 18px; margin-bottom: 18px; }
+        .study-runner h2 { margin: 0 0 8px; font-size: 1.15rem; }
+        .study-card { border-top: 1px solid var(--border); margin-top: 14px; padding-top: 14px; }
+        .study-card h3 { margin: 0 0 6px; font-size: 1.1rem; }
+        .study-actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
         .step-block { border-top: 1px solid var(--border); margin-top: 16px; padding-top: 16px; }
         .step-block h3 { margin: 0 0 10px; font-size: 1rem; }
         .choice-row { display: flex; flex-wrap: wrap; gap: 8px; }
@@ -252,6 +267,7 @@
             .main-nav { justify-content: flex-start; overflow-x: auto; padding-bottom: 2px; }
             .user-menu { justify-content: space-between; }
             .today-grid, .practice-grid { grid-template-columns: 1fr; }
+            .plan-item-grid { grid-template-columns: 1fr; }
             .review-controls { align-items: stretch; flex-direction: column; }
             .review-controls > div { width: 100%; }
         }
@@ -293,6 +309,14 @@
         </div>
     </section>
 
+    <section id="placement-panel" class="welcome-panel hidden">
+        <div class="welcome-card">
+            <p class="eyebrow">Placement</p>
+            <h1>Find your starting level</h1>
+            <div id="placement-content" aria-live="polite"></div>
+        </div>
+    </section>
+
     <div id="app-shell" class="app-shell hidden">
         <header class="topbar">
             <div class="brand-block">
@@ -324,6 +348,7 @@
                         <span id="today-level-pill" class="pill">Level pending</span>
                     </div>
                 </div>
+                <section id="today-plan" class="today-plan panel" aria-live="polite"></section>
                 <div class="today-grid">
                     <section class="conversation-panel panel" aria-label="Coach conversation">
                         <div id="coach-stream" class="coach-stream" aria-live="polite"></div>
@@ -368,6 +393,7 @@
                         <button class="btn" onclick="startMemoryDrill()">Choose memory</button>
                     </article>
                 </div>
+                <section id="study-runner-panel" class="study-runner panel hidden" aria-live="polite"></section>
                 <section id="guided-practice-panel" class="guided-panel panel hidden"></section>
             </section>
 
@@ -376,6 +402,7 @@
                     <p class="eyebrow">Memory</p>
                     <h1>Your learning notebook</h1>
                 </div>
+                <section id="memory-drill-panel" class="guided-panel panel hidden" aria-live="polite"></section>
                 <div id="memory-page-list" class="memory-list"></div>
             </section>
 
@@ -384,6 +411,7 @@
                     <p class="eyebrow">Progress</p>
                     <h1>Your learning review</h1>
                 </div>
+                <div id="progress-summary" class="review-content" aria-live="polite"></div>
                 <div class="review-controls panel">
                     <div>
                         <label for="coachReviewStart">Start</label>
@@ -406,7 +434,8 @@
             userId: 'englishCoach.currentUserId',
             userCode: 'englishCoach.currentUserCode',
             goal: 'englishCoach.currentUserGoal',
-            dailyMinutes: 'englishCoach.currentDailyMinutes'
+            dailyMinutes: 'englishCoach.currentDailyMinutes',
+            overallLevel: 'englishCoach.currentOverallLevel'
         };
 
         const appState = {
@@ -415,13 +444,35 @@
             coachMode: 'CHAT',
             coachMessages: [],
             priorityMemory: [],
-            sending: false
+            sending: false,
+            dailyPlan: null,
+            studySession: null,
+            studyQueue: [],
+            studyIndex: 0,
+            studyAttempts: [],
+            todayLoading: false,
+            progressSummary: null,
+            memoryDrill: null,
+            placementAnswers: []
         };
+
+        const placementQuestions = [
+            { section: 'vocab', questionId: 'v1', prompt: 'Choose: prepare means 准备.', answer: 'CORRECT' },
+            { section: 'vocab', questionId: 'v2', prompt: 'Choose: join means 加入.', answer: 'CORRECT' },
+            { section: 'grammar', questionId: 'g1', prompt: 'Is this natural? I need to prepare the demo.', answer: 'CORRECT' },
+            { section: 'grammar', questionId: 'g2', prompt: 'Is this natural? I need prepare the demo.', answer: 'WRONG' },
+            { section: 'reading', questionId: 'r1', prompt: 'I have a meeting at 3. The meeting is at 3.', answer: 'CORRECT' },
+            { section: 'output', questionId: 'o1', prompt: 'Write or choose a useful work sentence.', answer: 'CORRECT' }
+        ];
 
         const guidedPractice = {
             pattern: 'I need to ...',
             verbs: ['prepare', 'join', 'explain'],
-            selectedVerb: null
+            selectedVerb: null,
+            step: 1,
+            baseSentence: '',
+            expandedSentence: '',
+            ownSentence: ''
         };
 
         document.addEventListener('DOMContentLoaded', initApp);
@@ -445,7 +496,8 @@
                 id: Number(id),
                 userCode,
                 goal: localStorage.getItem(STORAGE_KEYS.goal) || 'GENERAL',
-                dailyMinutes: Number(localStorage.getItem(STORAGE_KEYS.dailyMinutes) || 10)
+                dailyMinutes: Number(localStorage.getItem(STORAGE_KEYS.dailyMinutes) || 10),
+                overallLevel: localStorage.getItem(STORAGE_KEYS.overallLevel) || null
             };
         }
 
@@ -454,6 +506,7 @@
             localStorage.setItem(STORAGE_KEYS.userCode, user.userCode);
             localStorage.setItem(STORAGE_KEYS.goal, user.goal || 'GENERAL');
             localStorage.setItem(STORAGE_KEYS.dailyMinutes, String(user.dailyMinutes || 10));
+            if (user.overallLevel) localStorage.setItem(STORAGE_KEYS.overallLevel, user.overallLevel);
         }
 
         function clearCurrentUser() {
@@ -496,21 +549,101 @@
                 id: Number(user.id),
                 userCode: user.userCode || fallback.userCode,
                 goal: user.goal || fallback.goal || 'GENERAL',
-                dailyMinutes: Number(user.dailyMinutes || fallback.dailyMinutes || 10)
+                dailyMinutes: Number(user.dailyMinutes || fallback.dailyMinutes || 10),
+                overallLevel: user.overallLevel || null
             };
         }
 
         function showWelcome() {
             document.getElementById('welcome-panel').classList.remove('hidden');
+            document.getElementById('placement-panel').classList.add('hidden');
             document.getElementById('app-shell').classList.add('hidden');
         }
 
         async function enterApp() {
             document.getElementById('welcome-panel').classList.add('hidden');
+            if (needsPlacement(appState.user)) {
+                showPlacement();
+                return;
+            }
+            document.getElementById('placement-panel').classList.add('hidden');
             document.getElementById('app-shell').classList.remove('hidden');
             renderUserSummary();
             showPage('today');
-            await loadPriorityMemory(appState.user.id);
+            await Promise.all([
+                loadPriorityMemory(appState.user.id),
+                ensureDailyPlan(),
+                loadProgressSummary(appState.user.id)
+            ]);
+        }
+
+        function needsPlacement(user) {
+            return !user || !user.overallLevel;
+        }
+
+        function showPlacement() {
+            document.getElementById('welcome-panel').classList.add('hidden');
+            document.getElementById('app-shell').classList.add('hidden');
+            document.getElementById('placement-panel').classList.remove('hidden');
+            appState.placementAnswers = [];
+            renderPlacementFlow();
+        }
+
+        function renderPlacementFlow() {
+            const panel = document.getElementById('placement-content');
+            const answered = appState.placementAnswers.length;
+            const current = placementQuestions[answered];
+            if (!current) {
+                panel.innerHTML = `
+                    <p class="muted">Six answers recorded.</p>
+                    <div class="entry-actions"><button class="btn btn-primary" onclick="submitPlacement()">Start my plan</button></div>`;
+                return;
+            }
+            panel.innerHTML = `
+                <p class="muted">Question ${escapeHtml(answered + 1)} of ${escapeHtml(placementQuestions.length)}</p>
+                <div class="step-block"><h3>${escapeHtml(current.prompt)}</h3></div>
+                <div class="choice-row">
+                    <button class="choice-btn" onclick="answerPlacement('${current.questionId}', 'CORRECT')">Correct</button>
+                    <button class="choice-btn" onclick="answerPlacement('${current.questionId}', 'WRONG')">Not yet</button>
+                </div>`;
+        }
+
+        function answerPlacement(questionId, result) {
+            const question = placementQuestions.find(item => item.questionId === questionId);
+            if (!question) return;
+            appState.placementAnswers.push({
+                section: question.section,
+                questionId,
+                result,
+                responseTimeMs: 3000,
+                hintUsed: false
+            });
+            renderPlacementFlow();
+        }
+
+        async function submitPlacement() {
+            const panel = document.getElementById('placement-content');
+            panel.innerHTML = '<div class="empty-note">Saving placement and preparing today...</div>';
+            try {
+                const data = await apiPost(`${JAVA_BASE}/api/placement/assess`, {
+                    userId: appState.user.id,
+                    answers: appState.placementAnswers
+                });
+                if (data.code !== 0) throw new Error(data.message || 'Could not assess placement');
+                appState.user = { ...appState.user, overallLevel: data.data.overallLevel };
+                storeCurrentUser(appState.user);
+                document.getElementById('placement-panel').classList.add('hidden');
+                document.getElementById('app-shell').classList.remove('hidden');
+                renderUserSummary();
+                showPage('today');
+                await ensureDailyPlan();
+                await Promise.all([
+                    loadPriorityMemory(appState.user.id),
+                    loadProgressSummary(appState.user.id)
+                ]);
+            } catch (error) {
+                panel.innerHTML = `<div class="msg msg-error">${escapeHtml(formatApiError(error))}</div>`;
+            }
         }
 
         function switchUser() {
@@ -604,11 +737,274 @@
             if (!appState.user) return;
             document.getElementById('current-user-label').textContent = appState.user.userCode;
             document.getElementById('today-goal-pill').textContent = formatGoal(appState.user.goal);
+            document.getElementById('today-level-pill').textContent = appState.user.overallLevel || 'Level pending';
             document.getElementById('today-subtitle').textContent = `Practice for ${appState.user.dailyMinutes || 10} minutes with your coach.`;
             if (!appState.coachMessages.length) {
                 appState.coachMessages = [{ id: createId(), role: 'coach', text: 'Write one sentence in English. I will help you improve it.' }];
             }
             renderCoachStream();
+        }
+
+        async function ensureDailyPlan() {
+            if (!appState.user || appState.todayLoading) return appState.dailyPlan;
+            appState.todayLoading = true;
+            renderTodayPlan();
+            try {
+                const data = await apiPost(`${JAVA_BASE}/api/plans/daily:ensure`, {
+                    userId: appState.user.id,
+                    planDate: todayIsoDate(),
+                    planType: 'NORMAL'
+                });
+                if (data.code !== 0) throw new Error(data.message || 'Could not load today plan');
+                appState.dailyPlan = data.data;
+                appState.studyQueue = [
+                    ...(appState.dailyPlan.newItems || []),
+                    ...(appState.dailyPlan.reviewItems || [])
+                ];
+                appState.studyIndex = 0;
+                appState.studyAttempts = [];
+            } catch (error) {
+                appState.dailyPlan = null;
+                appState.studyQueue = [];
+                showInlineError(`Could not load today plan: ${formatApiError(error)}`);
+            } finally {
+                appState.todayLoading = false;
+                renderTodayPlan();
+            }
+            return appState.dailyPlan;
+        }
+
+        function renderTodayPlan() {
+            const panel = document.getElementById('today-plan');
+            if (!panel) return;
+            if (appState.todayLoading) {
+                panel.innerHTML = '<div class="empty-note">Loading today plan...</div>';
+                return;
+            }
+            if (!appState.dailyPlan) {
+                panel.innerHTML = '<div class="empty-note">Today plan will load automatically after you enter.</div>';
+                return;
+            }
+            const plan = appState.dailyPlan;
+            const items = appState.studyQueue || [];
+            panel.innerHTML = `
+                <div class="today-plan-header">
+                    <div>
+                        <p class="eyebrow">Daily Plan</p>
+                        <h2>${escapeHtml(plan.planDate || todayIsoDate())}</h2>
+                        <p class="muted">${escapeHtml(plan.status || 'ACTIVE')} plan from real learning items.</p>
+                    </div>
+                    <div class="today-plan-meta">
+                        <span class="pill">New ${escapeHtml((plan.newItems || []).length)}</span>
+                        <span class="pill">Review ${escapeHtml((plan.reviewItems || []).length)}</span>
+                    </div>
+                </div>
+                <div class="plan-item-grid">
+                    ${items.slice(0, 6).map(renderPlanItemCard).join('')}
+                </div>
+                <div class="today-plan-actions">
+                    <button class="btn btn-primary" onclick="startTodayStudy()" ${items.length ? '' : 'disabled'}>Start today</button>
+                </div>`;
+        }
+
+        function renderPlanItemCard(item) {
+            const example = Array.isArray(item.examples) && item.examples.length ? item.examples[0] : null;
+            return `<article class="plan-item-card">
+                <h3>${escapeHtml(item.content || item.itemCode || '-')}</h3>
+                <p>${escapeHtml(item.meaningZh || 'No Chinese meaning yet')}</p>
+                ${example && example.en ? `<p>${escapeHtml(example.en)}</p>` : ''}
+                <div class="plan-item-tags">
+                    <span class="badge badge-gray">${escapeHtml(item.itemRole || 'ITEM')}</span>
+                    <span class="badge badge-gray">${escapeHtml(item.theme || '-')}</span>
+                    <span class="badge badge-gray">D${escapeHtml(item.difficulty || '-')}</span>
+                </div>
+            </article>`;
+        }
+
+        function todayIsoDate() {
+            return new Date().toISOString().slice(0, 10);
+        }
+
+        async function startTodayStudy() {
+            if (!appState.user) return;
+            clearInlineError();
+            showPage('practice');
+            document.getElementById('guided-practice-panel')?.classList.add('hidden');
+            document.getElementById('study-runner-panel')?.classList.remove('hidden');
+
+            try {
+                if (!appState.dailyPlan || !(appState.studyQueue || []).length) {
+                    await ensureDailyPlan();
+                }
+                const queue = appState.studyQueue || [];
+                appState.studyIndex = 0;
+                appState.studyAttempts = [];
+                appState.studySession = null;
+
+                if (!queue.length) {
+                    renderStudyRunner();
+                    return;
+                }
+
+                renderStudyRunner();
+                const data = await apiPost(`${JAVA_BASE}/api/sessions/start`, {
+                    userId: appState.user.id,
+                    sessionType: 'DAILY_LEARNING',
+                    focusTheme: queue.find(item => item.theme)?.theme || appState.user.goal || 'daily_life'
+                });
+                if (data.code !== 0) throw new Error(data.message || 'Could not start study session');
+                appState.studySession = data.data;
+                renderStudyRunner();
+            } catch (error) {
+                appState.studySession = null;
+                document.getElementById('study-runner-panel').innerHTML = `<div class="msg msg-error">${escapeHtml(formatApiError(error))}</div>`;
+            }
+        }
+
+        function renderStudyRunner() {
+            const panel = document.getElementById('study-runner-panel');
+            if (!panel) return;
+            const queue = appState.studyQueue || [];
+            panel.classList.remove('hidden');
+
+            if (!queue.length) {
+                panel.innerHTML = '<div class="empty-note">No learning items are available for today.</div>';
+                return;
+            }
+
+            if (!appState.studySession) {
+                panel.innerHTML = '<div class="empty-note">Starting your study session...</div>';
+                return;
+            }
+
+            if (appState.studyIndex >= queue.length) {
+                panel.innerHTML = `
+                    <p class="eyebrow">Daily Learning</p>
+                    <h2>All items answered</h2>
+                    <p class="muted">Submitting ${escapeHtml(appState.studyAttempts.length)} attempts and updating mastery.</p>
+                    <div class="study-actions"><button class="btn btn-primary" onclick="finishStudySession()">Finish session</button></div>`;
+                return;
+            }
+
+            const item = queue[appState.studyIndex];
+            panel.innerHTML = `
+                <p class="eyebrow">Daily Learning</p>
+                <h2>Item ${escapeHtml(appState.studyIndex + 1)} of ${escapeHtml(queue.length)}</h2>
+                <p class="muted">Session ${escapeHtml(appState.studySession.sessionCode || appState.studySession.id || '-')}</p>
+                ${renderStudyCard(item)}`;
+        }
+
+        function renderStudyCard(item) {
+            const mode = chooseStudyMode(item);
+            const startedAt = Date.now();
+            const answerId = `studyAnswer-${appState.studyIndex}`;
+            const meaning = item.meaningZh || 'No Chinese meaning yet';
+            const content = item.content || item.itemCode || '';
+            const example = Array.isArray(item.examples) && item.examples.length ? item.examples[0] : null;
+            const meta = `
+                <div class="plan-item-tags">
+                    <span class="badge badge-gray">${escapeHtml(mode)}</span>
+                    <span class="badge badge-gray">${escapeHtml(item.theme || '-')}</span>
+                    <span class="badge badge-gray">D${escapeHtml(item.difficulty || '-')}</span>
+                </div>`;
+
+            if (mode === 'cn_to_en') {
+                return `<article class="study-card">
+                    <h3>${escapeHtml(meaning)}</h3>
+                    <p class="muted">Type the English expression.</p>
+                    ${meta}
+                    <label class="sr-only" for="${answerId}">English answer</label>
+                    <input id="${answerId}" autocomplete="off" placeholder="${escapeHtml(content || 'Write the English here')}">
+                    <div class="study-actions">
+                        <button class="btn btn-primary" onclick="recordStudyAttempt(appState.studyQueue[appState.studyIndex], '${mode}', isStudyAnswerCorrect(document.getElementById('${answerId}').value, appState.studyQueue[appState.studyIndex]) ? 'CORRECT' : 'WRONG', document.getElementById('${answerId}').value, ${startedAt})">Submit</button>
+                        <button class="ghost-btn" onclick="recordStudyAttempt(appState.studyQueue[appState.studyIndex], '${mode}', 'WRONG', document.getElementById('${answerId}').value, ${startedAt})">Skip</button>
+                    </div>
+                </article>`;
+            }
+
+            if (mode === 'sentence_building') {
+                return `<article class="study-card">
+                    <h3>Use: ${escapeHtml(content)}</h3>
+                    <p class="muted">Meaning: ${escapeHtml(meaning)}</p>
+                    ${example && example.en ? `<p>${escapeHtml(example.en)}</p>` : ''}
+                    ${meta}
+                    <label class="sr-only" for="${answerId}">Your sentence</label>
+                    <textarea id="${answerId}" placeholder="Write one sentence using this expression."></textarea>
+                    <div class="study-actions">
+                        <button class="btn btn-primary" onclick="recordStudyAttempt(appState.studyQueue[appState.studyIndex], '${mode}', document.getElementById('${answerId}').value.trim() ? 'CORRECT' : 'WRONG', document.getElementById('${answerId}').value, ${startedAt})">Submit sentence</button>
+                        <button class="ghost-btn" onclick="recordStudyAttempt(appState.studyQueue[appState.studyIndex], '${mode}', 'WRONG', document.getElementById('${answerId}').value, ${startedAt})">Skip</button>
+                    </div>
+                </article>`;
+            }
+
+            return `<article class="study-card">
+                <h3>${escapeHtml(content)}</h3>
+                <p class="muted">${escapeHtml(meaning)}</p>
+                ${example && example.en ? `<p>${escapeHtml(example.en)}</p>` : ''}
+                ${meta}
+                <div class="study-actions">
+                    <button class="btn btn-primary" onclick="recordStudyAttempt(appState.studyQueue[appState.studyIndex], '${mode}', 'CORRECT', appState.studyQueue[appState.studyIndex].content || '', ${startedAt})">I know it</button>
+                    <button class="ghost-btn" onclick="recordStudyAttempt(appState.studyQueue[appState.studyIndex], '${mode}', 'WRONG', '', ${startedAt})">I don't know it</button>
+                </div>
+            </article>`;
+        }
+
+        function chooseStudyMode(item) {
+            const supported = ['recognition_quiz', 'cn_to_en', 'sentence_building'];
+            if (supported.includes(item.recommendedMode)) return item.recommendedMode;
+            return supported[appState.studyIndex % supported.length];
+        }
+
+        function recordStudyAttempt(item, mode, result, responseText, startedAt) {
+            if (!item || !item.itemId) return;
+            appState.studyAttempts.push({
+                learningItemId: Number(item.itemId),
+                mode,
+                result,
+                responseText: responseText || '',
+                responseTimeMs: Math.max(1, Date.now() - startedAt),
+                hintUsed: false
+            });
+            appState.studyIndex += 1;
+            renderStudyRunner();
+            if (appState.studyIndex >= (appState.studyQueue || []).length) {
+                finishStudySession();
+            }
+        }
+
+        async function finishStudySession() {
+            const panel = document.getElementById('study-runner-panel');
+            if (!appState.studySession || !appState.studyAttempts.length) return;
+            panel.innerHTML = '<div class="empty-note">Saving attempts and completing your session...</div>';
+            try {
+                await apiPost(`${JAVA_BASE}/api/sessions/${appState.studySession.id}/attempts`, {
+                    attempts: appState.studyAttempts
+                });
+                const data = await apiPost(`${JAVA_BASE}/api/sessions/${appState.studySession.id}/complete`, {
+                    fatigueFeedback: 'low',
+                    moodFeedback: 'positive'
+                });
+                if (data.code !== 0) throw new Error(data.message || 'Could not complete study session');
+                await Promise.all([
+                    ensureDailyPlan(),
+                    loadPriorityMemory(appState.user.id),
+                    loadProgressSummary(appState.user.id)
+                ]);
+                panel.innerHTML = `
+                    <div class="msg msg-success">Session complete. Mastery and memory have been refreshed.</div>
+                    <div class="study-actions"><button class="btn" onclick="showPage('today')">Back to Today</button></div>`;
+            } catch (error) {
+                panel.innerHTML = `<div class="msg msg-error">${escapeHtml(formatApiError(error))}</div>
+                    <div class="study-actions"><button class="btn" onclick="finishStudySession()">Retry save</button></div>`;
+            }
+        }
+
+        function normalizeStudyAnswer(value) {
+            return String(value || '').trim().toLowerCase().replace(/\s+/g, ' ');
+        }
+
+        function isStudyAnswerCorrect(responseText, item) {
+            return normalizeStudyAnswer(responseText) === normalizeStudyAnswer(item.content || item.itemCode || '');
         }
 
         function setCoachMode(mode) {
@@ -760,11 +1156,80 @@
 
         function practiceMemory(index) {
             const item = appState.priorityMemory[index] || {};
-            const label = item.label || item.sourceText || '';
+            startMemoryDrillFromItem(item);
+        }
+
+        function startMemoryDrillFromItem(item) {
+            appState.memoryDrill = {
+                item,
+                answer: '',
+                revealed: false,
+                completed: false
+            };
+            showPage('memory');
+            renderMemoryDrill();
+            document.getElementById('memoryDrillAnswer')?.focus();
+        }
+
+        function renderMemoryDrill(feedback = '') {
+            const panel = document.getElementById('memory-drill-panel');
+            if (!panel) return;
+            const drill = appState.memoryDrill;
+            if (!drill || !drill.item) {
+                panel.classList.add('hidden');
+                panel.innerHTML = '';
+                return;
+            }
+            const item = drill.item;
+            const isGap = item.memoryType === 'EXPRESSION_GAP';
+            const prompt = isGap
+                ? (item.label || 'Express this idea in English.')
+                : (item.sourceText || item.label || 'Rewrite this sentence naturally.');
+            const better = item.betterText || item.label || 'Ask the coach for a natural version.';
+            panel.classList.remove('hidden');
+            panel.innerHTML = `
+                <p class="eyebrow">Memory Drill</p>
+                <h2>${escapeHtml(isGap ? 'Expression practice' : 'Rewrite practice')}</h2>
+                <div class="step-block">
+                    <h3>${escapeHtml(prompt)}</h3>
+                    <label class="sr-only" for="memoryDrillAnswer">Memory drill answer</label>
+                    <textarea id="memoryDrillAnswer" placeholder="Write your answer here.">${escapeHtml(drill.answer || '')}</textarea>
+                    <div class="study-actions">
+                        <button class="btn btn-primary" onclick="submitMemoryDrillAttempt()">Check attempt</button>
+                        <button class="ghost-btn" onclick="revealMemoryDrillAnswer()">Reveal better example</button>
+                    </div>
+                </div>
+                ${drill.revealed ? `<div class="msg msg-info"><strong>Better:</strong> ${escapeHtml(better)}</div>` : ''}
+                ${feedback}
+                ${drill.completed ? `<div class="study-actions"><button class="btn btn-primary" onclick="sendMemoryDrillToCoach()">Send drill to coach</button></div>` : ''}`;
+        }
+
+        function submitMemoryDrillAttempt() {
+            if (!appState.memoryDrill) return;
+            const answer = document.getElementById('memoryDrillAnswer').value.trim();
+            appState.memoryDrill.answer = answer;
+            appState.memoryDrill.completed = Boolean(answer);
+            renderMemoryDrill(answer
+                ? '<div class="msg msg-success">Attempt saved locally. Compare it with the better example, then ask the coach if useful.</div>'
+                : '<div class="msg msg-error">Write an attempt first.</div>');
+        }
+
+        function revealMemoryDrillAnswer() {
+            if (!appState.memoryDrill) return;
+            appState.memoryDrill.answer = document.getElementById('memoryDrillAnswer')?.value || '';
+            appState.memoryDrill.revealed = true;
+            renderMemoryDrill();
+        }
+
+        async function sendMemoryDrillToCoach() {
+            if (!appState.memoryDrill) return;
+            const item = appState.memoryDrill.item;
+            const answer = appState.memoryDrill.answer || '';
             showPage('today');
             setCoachMode('DRILL');
-            document.getElementById('coach-input').value = label ? `Practice: ${label}` : 'Practice my recent memory.';
-            document.getElementById('coach-input').focus();
+            document.getElementById('coach-input').value = `Memory drill: ${item.label || item.sourceText || ''}
+My answer: ${answer}`;
+            await submitCoachTurn();
         }
 
         function renderSavedNote(note) {
@@ -787,8 +1252,35 @@
         }
 
         function startGuidedPractice() {
+            showPage('practice');
+            document.getElementById('study-runner-panel')?.classList.add('hidden');
             const panel = document.getElementById('guided-practice-panel');
             panel.classList.remove('hidden');
+            guidedPractice.selectedVerb = null;
+            guidedPractice.step = 1;
+            guidedPractice.baseSentence = '';
+            guidedPractice.expandedSentence = '';
+            guidedPractice.ownSentence = '';
+            renderGuidedPractice();
+        }
+
+        function renderGuidedPractice(feedback = '') {
+            const panel = document.getElementById('guided-practice-panel');
+            const currentSentence = guidedPractice.step === 1
+                ? guidedPractice.baseSentence
+                : guidedPractice.step === 2
+                    ? guidedPractice.expandedSentence
+                    : guidedPractice.ownSentence;
+            const prompt = guidedPractice.step === 1
+                ? 'Write a base sentence with the verb you chose.'
+                : guidedPractice.step === 2
+                    ? 'Add time, person, or reason to make the sentence more useful.'
+                    : 'Write your own sentence with the same pattern.';
+            const actionLabel = guidedPractice.step === 1
+                ? 'Check base sentence'
+                : guidedPractice.step === 2
+                    ? 'Check expanded sentence'
+                    : 'Finish practice';
             panel.innerHTML = `
                 <p class="eyebrow">Guided Practice</p>
                 <h2>${guidedPractice.pattern}</h2>
@@ -799,31 +1291,91 @@
                     </div>
                 </div>
                 <div class="step-block">
-                    <h3>Step 2: Complete the sentence</h3>
+                    <h3>Step ${escapeHtml(guidedPractice.step)}: ${escapeHtml(prompt)}</h3>
                     <label class="sr-only" for="guidedSentence">Guided sentence</label>
-                    <textarea id="guidedSentence" placeholder="I need to prepare the demo."></textarea>
-                    <div style="margin-top:10px"><button class="btn btn-primary" onclick="submitGuidedSentence()">Check sentence</button></div>
+                    <textarea id="guidedSentence" placeholder="I need to prepare the demo.">${escapeHtml(currentSentence)}</textarea>
+                    <div class="study-actions"><button class="btn btn-primary" onclick="submitGuidedSentence()">${escapeHtml(actionLabel)}</button></div>
                 </div>
-                <div id="guided-feedback" aria-live="polite"></div>`;
+                <div id="guided-feedback" aria-live="polite">${feedback}</div>`;
+            if (guidedPractice.selectedVerb) {
+                document.querySelectorAll('[data-guided-verb]').forEach(button => {
+                    button.classList.toggle('selected', button.dataset.guidedVerb === guidedPractice.selectedVerb);
+                });
+            }
         }
 
         function selectGuidedVerb(verb) {
             guidedPractice.selectedVerb = verb;
-            document.querySelectorAll('[data-guided-verb]').forEach(button => {
-                button.classList.toggle('selected', button.dataset.guidedVerb === verb);
-            });
-            document.getElementById('guidedSentence').value = `I need to ${verb} the demo.`;
+            if (guidedPractice.step === 1 && !guidedPractice.baseSentence) {
+                guidedPractice.baseSentence = `I need to ${verb} the demo.`;
+            }
+            renderGuidedPractice();
+            document.getElementById('guidedSentence').focus();
+        }
+
+        function checkNeedToPattern(sentence, verb) {
+            const normalized = sentence.trim().replace(/\s+/g, ' ').toLowerCase();
+            return normalized.startsWith(`i need to ${verb} `) && normalized.length > `i need to ${verb} `.length;
         }
 
         async function submitGuidedSentence() {
             const sentence = document.getElementById('guidedSentence').value.trim();
-            if (!sentence) {
-                document.getElementById('guided-feedback').innerHTML = '<div class="msg msg-error">Write a sentence first.</div>';
+            const verb = guidedPractice.selectedVerb;
+            if (!verb) {
+                renderGuidedPractice('<div class="msg msg-error">Choose a verb first.</div>');
                 return;
             }
+            if (!sentence) {
+                renderGuidedPractice('<div class="msg msg-error">Write a sentence first.</div>');
+                return;
+            }
+
+            if (guidedPractice.step === 1) {
+                guidedPractice.baseSentence = sentence;
+                if (!checkNeedToPattern(sentence, verb)) {
+                    renderGuidedPractice(`<div class="msg msg-error">Use this pattern: I need to ${escapeHtml(verb)} + object.</div>`);
+                    return;
+                }
+                guidedPractice.step = 2;
+                guidedPractice.expandedSentence = `${sentence.replace(/[.。!?！？]*$/, '')} before Friday.`;
+                renderGuidedPractice('<div class="msg msg-success">Good base sentence. Add time, person, or reason next.</div>');
+                return;
+            }
+
+            if (guidedPractice.step === 2) {
+                guidedPractice.expandedSentence = sentence;
+                if (!checkNeedToPattern(sentence, verb)) {
+                    renderGuidedPractice(`<div class="msg msg-error">Keep the sentence starting with: I need to ${escapeHtml(verb)}.</div>`);
+                    return;
+                }
+                if (normalizeStudyAnswer(sentence) === normalizeStudyAnswer(guidedPractice.baseSentence)) {
+                    renderGuidedPractice('<div class="msg msg-error">Make it longer by adding time, person, or reason.</div>');
+                    return;
+                }
+                guidedPractice.step = 3;
+                guidedPractice.ownSentence = '';
+                renderGuidedPractice('<div class="msg msg-success">Now write your own sentence with the same pattern.</div>');
+                return;
+            }
+
+            guidedPractice.ownSentence = sentence;
+            const coachPayload = escapeHtml(sentence);
+            renderGuidedPractice(`
+                <div class="msg msg-success">Nice. You can keep practicing here or ask the coach for a deeper review.</div>
+                <div class="study-actions">
+                    <button class="btn btn-primary" onclick="sendGuidedSentenceToCoach('${encodeURIComponent(sentence)}', 'DRILL')">Send to coach</button>
+                    <button class="ghost-btn" onclick="sendGuidedSentenceToCoach('${encodeURIComponent(sentence)}', 'FIX')">Fix this sentence</button>
+                </div>
+                <p class="message-meta">Your sentence: ${coachPayload}</p>`);
+        }
+
+        async function sendGuidedSentenceToCoach(encodedSentence, mode) {
+            const sentence = decodeURIComponent(encodedSentence);
             showPage('today');
-            setCoachMode('FIX');
-            document.getElementById('coach-input').value = sentence;
+            setCoachMode(mode);
+            document.getElementById('coach-input').value = mode === 'DRILL'
+                ? `Practice this pattern with me: ${sentence}`
+                : sentence;
             await submitCoachTurn();
         }
 
@@ -835,6 +1387,44 @@
 
         function startMemoryDrill() {
             showPage('memory');
+            if (!appState.memoryDrill) {
+                document.getElementById('memory-drill-panel')?.classList.add('hidden');
+            }
+        }
+
+
+        async function loadProgressSummary() {
+            const userId = appState.user?.id;
+            const panel = document.getElementById('progress-summary');
+            if (!userId || !panel) return;
+            panel.innerHTML = '<div class="empty-state panel">Loading progress...</div>';
+            try {
+                const data = await apiGet(`${JAVA_BASE}/api/progress/summary?userId=${encodeURIComponent(userId)}`);
+                if (data.code !== 0) throw new Error(data.message || 'Could not load progress');
+                appState.progressSummary = data.data;
+                renderProgressSummary(appState.progressSummary);
+            } catch (error) {
+                appState.progressSummary = null;
+                panel.innerHTML = `<div class="msg msg-error">${escapeHtml(formatApiError(error))}</div>`;
+            }
+        }
+
+        function renderProgressSummary(summary) {
+            const panel = document.getElementById('progress-summary');
+            if (!panel) return;
+            if (!summary) {
+                panel.innerHTML = '<div class="empty-state panel">Progress will load automatically after you enter.</div>';
+                return;
+            }
+            const weakItems = summary.topWeakItems || [];
+            panel.innerHTML = `
+                <div class="stat-grid">
+                    <div class="stat-card"><div class="value">${escapeHtml(summary.totalMasteryItems || 0)}</div><div class="label">Total mastery</div></div>
+                    <div class="stat-card"><div class="value">${escapeHtml(summary.dueReviewCount || 0)}</div><div class="label">Due review</div></div>
+                    <div class="stat-card"><div class="value">${escapeHtml(summary.completedSessionsThisWeek || 0)}</div><div class="label">Sessions this week</div></div>
+                    <div class="stat-card"><div class="value">${escapeHtml(Math.round(Number(summary.recentAccuracy || 0) * 100))}%</div><div class="label">Recent accuracy</div></div>
+                </div>
+                ${weakItems.length ? `<div class="msg msg-info"><strong>Practice next:</strong> ${weakItems.map(item => escapeHtml(item.content || item.learningItemId)).join(', ')}</div>` : '<div class="msg msg-success">No weak items yet. Complete a study session to build progress data.</div>'}`;
         }
 
         async function loadCoachReview() {
