@@ -179,6 +179,10 @@
         .coach-message.user { margin-left: auto; background: var(--primary); color: #ffffff; }
         .coach-message.coach { background: var(--surface-muted); color: var(--text); }
         .message-meta { margin-top: 8px; color: var(--muted); font-size: 0.82rem; }
+        .fix-card { margin-top: 10px; border: 1px solid var(--border); border-radius: 8px; background: #ffffff; padding: 10px 12px; }
+        .fix-card h3 { margin-bottom: 6px; font-size: 0.95rem; color: var(--text); }
+        .fix-card .better { margin: 6px 0; font-weight: 700; color: var(--success); }
+        .fix-card ul { margin: 6px 0 0 18px; color: var(--muted); }
         .composer { border-top: 1px solid var(--border); padding: 14px; background: var(--surface); }
         .mode-selector { display: inline-flex; flex-wrap: wrap; gap: 4px; margin-bottom: 10px; padding: 4px; border-radius: var(--radius); background: var(--surface-muted); }
         .mode-selector button { min-height: 36px; border: 0; border-radius: 6px; padding: 7px 12px; background: transparent; color: var(--muted); font-weight: 700; }
@@ -274,7 +278,7 @@
                     <label for="entryGoal">Goal</label>
                     <select id="entryGoal">
                         <option value="GENERAL">General</option>
-                        <option value="WORKPLACE">Workplace</option>
+                        <option value="WORK">Workplace</option>
                     </select>
                 </div>
                 <div>
@@ -469,16 +473,19 @@
 
             setButtonBusy('entryContinueBtn', true, 'Continuing...');
             try {
-                const data = await apiPost(`${JAVA_BASE}/api/users`, { userCode, goal, dailyMinutes });
+                let data = await apiGet(`${JAVA_BASE}/api/users/by-code/${encodeURIComponent(userCode)}`);
                 if (data.code !== 0) {
-                    showMsg('entry-msg', 'Could not create this user code. Use a new code or switch to a saved local user.', 'error');
+                    data = await apiPost(`${JAVA_BASE}/api/users`, { userCode, goal, dailyMinutes });
+                }
+                if (data.code !== 0) {
+                    showMsg('entry-msg', data.message || 'Could not continue with this user code.', 'error');
                     return;
                 }
                 appState.user = normalizeUser(data.data, { userCode, goal, dailyMinutes });
                 storeCurrentUser(appState.user);
                 await enterApp();
             } catch (error) {
-                showMsg('entry-msg', error.message || 'Could not continue.', 'error');
+                showMsg('entry-msg', formatApiError(error), 'error');
             } finally {
                 setButtonBusy('entryContinueBtn', false, 'Continue');
             }
@@ -526,17 +533,71 @@
         }
 
         async function apiGet(url) {
-            const res = await fetch(url);
-            return res.json();
+            return apiRequest(url, { method: 'GET' });
         }
 
         async function apiPost(url, body) {
-            const res = await fetch(url, {
+            return apiRequest(url, {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify(body)
             });
-            return res.json();
+        }
+
+        async function apiRequest(url, options) {
+            let response;
+            let raw = '';
+            try {
+                response = await fetch(url, options);
+                raw = await response.text();
+            } catch (error) {
+                throw new ApiError('Network request failed', { url, method: options.method || 'GET', cause: error.message || String(error) });
+            }
+
+            let data = null;
+            if (raw) {
+                try {
+                    data = JSON.parse(raw);
+                } catch (error) {
+                    throw new ApiError('Response was not valid JSON', {
+                        url,
+                        method: options.method || 'GET',
+                        status: response.status,
+                        body: raw.slice(0, 500)
+                    });
+                }
+            }
+
+            if (!response.ok) {
+                throw new ApiError(`HTTP ${response.status}`, {
+                    url,
+                    method: options.method || 'GET',
+                    status: response.status,
+                    body: raw.slice(0, 500),
+                    response: data
+                });
+            }
+
+            return data;
+        }
+
+        class ApiError extends Error {
+            constructor(message, details) {
+                super(message);
+                this.name = 'ApiError';
+                this.details = details || {};
+            }
+        }
+
+        function formatApiError(error) {
+            if (!(error instanceof ApiError)) return error.message || String(error);
+            const detail = error.details || {};
+            const responseMessage = detail.response && detail.response.message ? detail.response.message : '';
+            const parts = [error.message];
+            if (responseMessage) parts.push(responseMessage);
+            if (detail.method && detail.url) parts.push(`${detail.method} ${detail.url}`);
+            if (detail.body && !responseMessage) parts.push(detail.body);
+            return parts.join(' | ');
         }
 
         function renderUserSummary() {
@@ -600,7 +661,8 @@
                     waiting: false,
                     text: data.data.coachReply,
                     savedNotes: data.data.savedNotes || [],
-                    drillSuggestion: data.data.drillSuggestion
+                    drillSuggestion: data.data.drillSuggestion,
+                    fixResponse: data.data.fixResponse
                 });
                 appState.priorityMemory = ((data.data.priorityMemory && data.data.priorityMemory.items) || []).map(item => ({ ...item, justUpdated: true }));
                 renderPriorityMemory(appState.priorityMemory);
@@ -610,7 +672,7 @@
                 waitingMessage.failed = true;
                 waitingMessage.text = 'I could not respond. Please try again.';
                 waitingMessage.retryText = message;
-                showInlineError(error.message || 'Request failed');
+                showInlineError(formatApiError(error));
             } finally {
                 appState.sending = false;
                 setButtonBusy('sendCoachBtn', false, 'Send');
@@ -631,6 +693,7 @@
                 return `
                     <div class="coach-message ${message.role} entering">
                         <div>${escapeHtml(message.text)}</div>
+                        ${message.fixResponse ? renderFixResponse(message.fixResponse) : ''}
                         ${(message.savedNotes || []).map(renderSavedNote).join('')}
                         ${message.drillSuggestion ? renderDrillSuggestion(message.drillSuggestion) : ''}
                         ${retry}
@@ -650,6 +713,7 @@
                 appState.priorityMemory = data.code === 0 ? (data.data.items || []) : [];
             } catch (error) {
                 appState.priorityMemory = [];
+                showInlineError(`Could not load memory: ${formatApiError(error)}`);
             }
             renderPriorityMemory(appState.priorityMemory);
             renderMemoryPage(appState.priorityMemory);
@@ -709,6 +773,17 @@
 
         function renderDrillSuggestion(suggestion) {
             return `<div class="msg msg-success">${escapeHtml(suggestion.prompt || 'Practice this memory')}<div style="margin-top:8px"><button class="ghost-btn" onclick="setCoachMode('DRILL')">Start</button></div></div>`;
+        }
+
+        function renderFixResponse(fix) {
+            const changes = (fix.what_changed || []).map(change => `<li>${escapeHtml(change)}</li>`).join('');
+            return `<div class="fix-card">
+                <h3>Fix</h3>
+                ${fix.meaning_check ? `<div>${escapeHtml(fix.meaning_check)}</div>` : ''}
+                ${fix.better_english ? `<div class="better">${escapeHtml(fix.better_english)}</div>` : ''}
+                ${changes ? `<ul>${changes}</ul>` : ''}
+                ${fix.try_again_prompt ? `<div class="message-meta">${escapeHtml(fix.try_again_prompt)}</div>` : ''}
+            </div>`;
         }
 
         function startGuidedPractice() {
@@ -777,7 +852,7 @@
                 const review = data.data || {};
                 renderCoachReview(review);
             } catch (error) {
-                el.innerHTML = `<div class="msg msg-error">${escapeHtml(error.message || 'Could not load review.')}</div>`;
+                el.innerHTML = `<div class="msg msg-error">${escapeHtml(formatApiError(error))}</div>`;
             }
         }
 

@@ -10,6 +10,7 @@ import com.wuxl.englishcoach.common.exception.BusinessException;
 import com.wuxl.englishcoach.domain.user.UserProfile;
 import com.wuxl.englishcoach.infrastructure.persistence.user.UserProfileDO;
 import com.wuxl.englishcoach.infrastructure.persistence.user.UserProfileMapper;
+import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
 import java.util.Collections;
 import java.util.List;
 import org.springframework.dao.DuplicateKeyException;
@@ -50,6 +51,16 @@ public class UserProfileService {
 
     public UserProfileResponse getById(Long userId) {
         UserProfileDO userProfileDO = userProfileMapper.selectById(userId);
+        if (userProfileDO == null) {
+            throw new BusinessException(ErrorCodeEnum.USER_NOT_FOUND);
+        }
+
+        return toResponse(toDomain(userProfileDO));
+    }
+
+    public UserProfileResponse getByUserCode(String userCode) {
+        UserProfileDO userProfileDO = userProfileMapper.selectOne(new LambdaQueryWrapper<UserProfileDO>()
+                .eq(UserProfileDO::getUserCode, userCode));
         if (userProfileDO == null) {
             throw new BusinessException(ErrorCodeEnum.USER_NOT_FOUND);
         }

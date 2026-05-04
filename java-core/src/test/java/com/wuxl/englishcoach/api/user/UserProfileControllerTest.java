@@ -79,6 +79,29 @@ class UserProfileControllerTest {
     }
 
     @Test
+    void shouldGetUserProfileByCode() throws Exception {
+        mockMvc.perform(post("/api/users")
+                        .contentType(MediaType.APPLICATION_JSON)
+                        .content("""
+                                {
+                                  "userCode": "existing_user_001",
+                                  "goal": "WORK",
+                                  "dailyMinutes": 15,
+                                  "studyStartTime": "21:00",
+                                  "reviewTime": "13:00"
+                                }
+                                """))
+                .andExpect(status().isOk());
+
+        mockMvc.perform(get("/api/users/by-code/{userCode}", "existing_user_001"))
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$.code").value(0))
+                .andExpect(jsonPath("$.data.userCode").value("existing_user_001"))
+                .andExpect(jsonPath("$.data.goal").value("WORK"))
+                .andExpect(jsonPath("$.data.dailyMinutes").value(15));
+    }
+
+    @Test
     void shouldRejectInvalidDailyMinutes() throws Exception {
         mockMvc.perform(post("/api/users")
                         .contentType(MediaType.APPLICATION_JSON)

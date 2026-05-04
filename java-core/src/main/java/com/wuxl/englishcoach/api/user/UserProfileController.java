@@ -33,4 +33,9 @@ public class UserProfileController {
     public BaseResponse<UserProfileResponse> getById(@PathVariable Long userId) {
         return BaseResponse.success(userProfileService.getById(userId));
     }
+
+    @GetMapping("/by-code/{userCode}")
+    public BaseResponse<UserProfileResponse> getByUserCode(@PathVariable String userCode) {
+        return BaseResponse.success(userProfileService.getByUserCode(userCode));
+    }
 }

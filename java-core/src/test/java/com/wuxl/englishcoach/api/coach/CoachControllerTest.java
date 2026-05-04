@@ -9,6 +9,7 @@ import com.wuxl.englishcoach.infrastructure.llm.dto.CoachTurnAnalysisResponse;
 import com.wuxl.englishcoach.infrastructure.llm.dto.ExpressionGapDto;
 import java.util.Collections;
 import java.util.List;
+import java.util.Map;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.servlet.AutoConfigureMockMvc;
@@ -103,6 +104,33 @@ class CoachControllerTest {
                 .andExpect(status().isOk())
                 .andExpect(jsonPath("$.data.priorityMemory.items[0].memoryType").value("EXPRESSION_GAP"))
                 .andExpect(jsonPath("$.data.priorityMemory.items[0].label").value("我想更自信地演示 demo"));
+    }
+
+    @Test
+    void shouldReturnFixResponseFromPythonAnalysis() throws Exception {
+        Long userId = createTestUser("coach_user_fix_001");
+        Long sessionId = startCoachSession(userId);
+        when(pythonAgentClient.analyzeCoachTurn(any())).thenReturn(new CoachTurnAnalysisResponse(
+                "Use: I need to prepare the demo.",
+                Collections.emptyList(),
+                Collections.emptyList(),
+                Map.of(
+                        "meaning_check", "You want to say you must prepare the demo.",
+                        "better_english", "I need to prepare the demo.",
+                        "what_changed", List.of("Add to after need."),
+                        "try_again_prompt", "Write one more sentence with need to."
+                )
+        ));
+
+        mockMvc.perform(post("/api/coach/sessions/" + sessionId + "/turns")
+                        .contentType(MediaType.APPLICATION_JSON)
+                        .content("""
+                                {"mode": "FIX", "message": "I need prepare the demo."}
+                                """))
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$.data.coachReply").value("Use: I need to prepare the demo."))
+                .andExpect(jsonPath("$.data.fixResponse.better_english").value("I need to prepare the demo."))
+                .andExpect(jsonPath("$.data.fixResponse.what_changed[0]").value("Add to after need."));
     }
 
     @Test

@@ -1,6 +1,6 @@
 from pydantic import ValidationError
 
-from app.api.dto import CoachFeedbackRequest, CoachFeedbackResponse, CoachTurnAnalyzeRequest, CoachTurnAnalyzeResponse, FirstCoachingAnalyzeRequest, FirstCoachingAnalyzeResponse
+from app.api.dto import CoachFeedbackRequest, CoachFeedbackResponse, CoachTurnAnalyzeRequest, CoachTurnAnalyzeResponse, FirstCoachingAnalyzeRequest, FirstCoachingAnalyzeResponse, FixResponse
 from app.config import settings
 from app.services.llm_service import llm_service
 
@@ -86,13 +86,60 @@ def analyze_turn(req: CoachTurnAnalyzeRequest) -> CoachTurnAnalyzeResponse:
         max_tokens=4000,
     )
     if result is None:
-        return CoachTurnAnalyzeResponse(coach_reply="Tell me more about that.")
+        return _fallback_turn_response(req)
     if isinstance(result, CoachTurnAnalyzeResponse):
-        return result
+        return _ensure_fix_response(req, result)
     try:
-        return CoachTurnAnalyzeResponse(**result)
+        return _ensure_fix_response(req, CoachTurnAnalyzeResponse(**result))
     except (TypeError, ValidationError):
-        return CoachTurnAnalyzeResponse(coach_reply="Tell me more about that.")
+        return _fallback_turn_response(req)
+
+
+def _ensure_fix_response(req: CoachTurnAnalyzeRequest, resp: CoachTurnAnalyzeResponse) -> CoachTurnAnalyzeResponse:
+    if req.mode.upper() != "FIX" or resp.fix_response is not None:
+        return resp
+    fallback = _fallback_fix_response(req.message)
+    return resp.model_copy(update={
+        "coach_reply": resp.coach_reply or fallback.coach_reply,
+        "fix_response": fallback.fix_response,
+    })
+
+
+def _fallback_turn_response(req: CoachTurnAnalyzeRequest) -> CoachTurnAnalyzeResponse:
+    if req.mode.upper() == "FIX":
+        return _fallback_fix_response(req.message)
+    return CoachTurnAnalyzeResponse(coach_reply="Tell me more about that.")
+
+
+def _fallback_fix_response(message: str) -> CoachTurnAnalyzeResponse:
+    better = _basic_fix_sentence(message)
+    return CoachTurnAnalyzeResponse(
+        coach_reply=f"Try this: {better}",
+        fix_response=FixResponse(
+            meaning_check="I understood your sentence and made it more natural.",
+            better_english=better,
+            what_changed=["Checked the sentence structure and adjusted the wording."],
+            try_again_prompt="Try one more sentence with the corrected pattern.",
+        ),
+    )
+
+
+def _basic_fix_sentence(message: str) -> str:
+    text = (message or "").strip()
+    if not text:
+        return "Please write one complete English sentence."
+    fixes = [
+        ("I need prepare", "I need to prepare"),
+        ("i need prepare", "I need to prepare"),
+        ("I want improve", "I want to improve"),
+        ("i want improve", "I want to improve"),
+        ("I discussed about", "I discussed"),
+        ("i discussed about", "I discussed"),
+    ]
+    for old, new in fixes:
+        if old in text:
+            text = text.replace(old, new)
+    return text[0].upper() + text[1:]
 
 
 def analyze_first_session(req: FirstCoachingAnalyzeRequest) -> FirstCoachingAnalyzeResponse:

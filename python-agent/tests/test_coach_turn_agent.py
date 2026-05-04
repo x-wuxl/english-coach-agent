@@ -44,3 +44,23 @@ def test_analyze_turn_falls_back_when_structured_result_is_malformed(mock_llm):
 
     assert resp.coach_reply == "Tell me more about that."
     assert resp.saved_notes == []
+
+
+@patch("app.agents.coach_agent.llm_service")
+def test_analyze_turn_fix_mode_returns_fix_response_when_structured_result_is_incomplete(mock_llm):
+    mock_llm.structured.return_value = {
+        "coach_reply": "Use: I need to prepare the demo.",
+        "saved_notes": [],
+        "expression_gaps": [],
+        "fix_response": None,
+    }
+
+    resp = analyze_turn(CoachTurnAnalyzeRequest(
+        mode="FIX",
+        message="I need prepare the demo.",
+        recent_memory=[],
+    ))
+
+    assert resp.fix_response is not None
+    assert resp.fix_response.better_english
+    assert resp.fix_response.try_again_prompt

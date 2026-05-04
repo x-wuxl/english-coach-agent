@@ -126,7 +126,8 @@ public class CoachSessionService {
         coachTurnMapper.insert(turn);
 
         PriorityMemoryResponse priorityMemory = memoryService.getPriorityMemory(session.getUserId());
-        return new CoachTurnResponse(coachReply, noteResponses, priorityMemory, drillSuggestion);
+        return new CoachTurnResponse(coachReply, noteResponses, priorityMemory, drillSuggestion,
+                analysis != null ? analysis.fixResponse() : null);
     }
 
     @Transactional
