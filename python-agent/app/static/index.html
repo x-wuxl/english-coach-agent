@@ -1,384 +1,528 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>English Coach</title>
     <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #f5f5f5; color: #333; }
-        .container { max-width: 800px; margin: 0 auto; padding: 20px; }
-        .header { background: #2563eb; color: white; padding: 20px; border-radius: 8px; margin-bottom: 20px; }
-        .header h1 { font-size: 24px; }
-        .card { background: white; border-radius: 8px; padding: 20px; margin-bottom: 16px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
-        .card h2 { font-size: 18px; margin-bottom: 12px; color: #2563eb; }
-        .btn { display: inline-block; padding: 10px 20px; border: none; border-radius: 6px; cursor: pointer; font-size: 14px; text-decoration: none; }
-        .btn-primary { background: #2563eb; color: white; }
-        .btn-primary:hover { background: #1d4ed8; }
-        .btn-success { background: #16a34a; color: white; }
-        .btn-success:hover { background: #15803d; }
-        .btn-danger { background: #dc2626; color: white; }
-        .btn-sm { padding: 6px 12px; font-size: 12px; }
-        input, select { padding: 8px 12px; border: 1px solid #d1d5db; border-radius: 6px; font-size: 14px; width: 100%; margin-bottom: 8px; }
-        label { display: block; font-weight: 600; margin-bottom: 4px; font-size: 14px; }
-        .row { display: flex; gap: 12px; margin-bottom: 12px; }
-        .row > * { flex: 1; }
-        .stat { text-align: center; }
-        .stat .value { font-size: 28px; font-weight: 700; color: #2563eb; }
-        .stat .label { font-size: 12px; color: #6b7280; }
-        .hidden { display: none; }
-        .loading { text-align: center; color: #6b7280; padding: 20px; }
-        .nav { display: flex; gap: 8px; margin-bottom: 20px; }
-        .nav .btn { flex: 1; text-align: center; }
-        .nav .btn.active { background: #1d4ed8; }
-        table { width: 100%; border-collapse: collapse; }
-        th, td { padding: 8px 12px; text-align: left; border-bottom: 1px solid #e5e7eb; font-size: 14px; }
-        th { background: #f9fafb; font-weight: 600; }
-        .badge { display: inline-block; padding: 2px 8px; border-radius: 10px; font-size: 12px; font-weight: 600; }
-        .badge-green { background: #dcfce7; color: #166534; }
-        .badge-blue { background: #dbeafe; color: #1e40af; }
-        .badge-yellow { background: #fef9c3; color: #854d0e; }
-        .badge-red { background: #fee2e2; color: #991b1b; }
-        .badge-gray { background: #f3f4f6; color: #374151; }
-        .msg { padding: 10px 14px; border-radius: 6px; margin-bottom: 12px; font-size: 14px; }
-        .msg-success { background: #dcfce7; border: 1px solid #86efac; color: #166534; }
-        .msg-error { background: #fee2e2; border: 1px solid #fca5a5; color: #991b1b; }
-        .msg-info { background: #dbeafe; border: 1px solid #93c5fd; color: #1e40af; }
-        .question-box { background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 16px; margin-bottom: 12px; }
-        .question-box h3 { font-size: 15px; margin-bottom: 8px; }
-        .options { display: flex; flex-direction: column; gap: 6px; }
-        .option-btn { padding: 10px 14px; border: 1px solid #d1d5db; border-radius: 6px; cursor: pointer; text-align: left; font-size: 14px; background: white; }
-        input[type="number"]::-webkit-inner-spin-button,
-        input[type="number"]::-webkit-outer-spin-button { -webkit-appearance: none; margin: 0; }
-        input[type="number"] { -moz-appearance: textfield; }
-        .inline-field { display: flex; align-items: center; gap: 8px; }
-        .inline-field label { margin-bottom: 0; white-space: nowrap; }
-        .inline-field input { margin-bottom: 0; width: 80px; text-align: center; }
-        .inline-field select { margin-bottom: 0; }
-        .option-btn:hover { background: #f3f4f6; }
-        .option-btn.selected { border-color: #2563eb; background: #eff6ff; }
-        .option-btn.correct { border-color: #16a34a; background: #dcfce7; }
-        .option-btn.wrong { border-color: #dc2626; background: #fee2e2; }
-        textarea { padding: 10px 12px; border: 1px solid #d1d5db; border-radius: 6px; font-size: 14px; width: 100%; min-height: 72px; resize: vertical; font-family: inherit; }
-        .coach-shell { display: grid; grid-template-columns: minmax(0, 1fr) 280px; gap: 16px; align-items: start; }
-        .coach-brief { grid-column: 1 / -1; display: flex; justify-content: space-between; gap: 16px; align-items: flex-end; }
-        .coach-stream { min-height: 360px; max-height: 560px; overflow: auto; background: #fff; border: 1px solid #e5e7eb; border-radius: 8px; padding: 16px; }
-        .coach-message { margin-bottom: 12px; padding: 10px 12px; border-radius: 8px; max-width: 88%; }
-        .coach-message.user { margin-left: auto; background: #dbeafe; color: #1e3a8a; }
-        .coach-message.coach { background: #f3f4f6; color: #111827; }
-        .memory-panel { background: #fff; border: 1px solid #e5e7eb; border-radius: 8px; padding: 14px; }
-        .memory-item { border-bottom: 1px solid #e5e7eb; padding: 10px 0; }
-        .memory-item:last-child { border-bottom: none; }
-        .coach-input { grid-column: 1 / -1; background: #fff; border: 1px solid #e5e7eb; border-radius: 8px; padding: 14px; }
-        .mode-selector { display: inline-flex; gap: 4px; background: #f3f4f6; padding: 4px; border-radius: 8px; margin-bottom: 10px; }
-        .mode-selector button { border: 0; padding: 7px 12px; border-radius: 6px; cursor: pointer; background: transparent; }
-        .mode-selector button.active { background: #2563eb; color: white; }
-        .legacy-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; }
-        @media (max-width: 760px) { .coach-shell { grid-template-columns: 1fr; } .coach-brief { display: block; } }
+        :root {
+            --bg: #f6f7f9;
+            --surface: #ffffff;
+            --surface-muted: #f1f5f9;
+            --border: #d9dee7;
+            --border-strong: #b8c1d1;
+            --text: #172033;
+            --muted: #657083;
+            --primary: #2563eb;
+            --primary-hover: #1d4ed8;
+            --primary-soft: #eff6ff;
+            --success: #15803d;
+            --success-soft: #ecfdf5;
+            --warning-bg: #fff7ed;
+            --warning: #9a3412;
+            --error: #b42318;
+            --error-soft: #fef3f2;
+            --radius: 8px;
+            --shadow: 0 1px 2px rgba(15, 23, 42, 0.05);
+        }
+
+        * { box-sizing: border-box; }
+        html { min-height: 100%; }
+        body {
+            min-height: 100%;
+            margin: 0;
+            background: var(--bg);
+            color: var(--text);
+            font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            font-size: 16px;
+            line-height: 1.5;
+        }
+
+        button, input, select, textarea { font: inherit; }
+        button { cursor: pointer; }
+        button:disabled { cursor: not-allowed; opacity: 0.58; }
+        label { display: block; margin-bottom: 6px; color: var(--text); font-size: 0.88rem; font-weight: 650; }
+        input, select, textarea {
+            width: 100%;
+            border: 1px solid var(--border-strong);
+            border-radius: 6px;
+            background: var(--surface);
+            color: var(--text);
+        }
+        input, select { min-height: 44px; padding: 9px 12px; }
+        textarea { min-height: 104px; padding: 11px 12px; resize: vertical; }
+        input:focus, select:focus, textarea:focus, button:focus-visible {
+            outline: 3px solid rgba(37, 99, 235, 0.24);
+            outline-offset: 2px;
+        }
+
+        .hidden { display: none !important; }
+        .sr-only {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            white-space: nowrap;
+            border: 0;
+        }
+        .panel {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+        }
+        .btn, .nav-btn, .ghost-btn, .choice-btn {
+            min-height: 44px;
+            border-radius: 6px;
+            border: 1px solid transparent;
+            padding: 9px 14px;
+            font-weight: 650;
+            transition: background 160ms ease, border-color 160ms ease, color 160ms ease, transform 120ms ease;
+        }
+        .btn:active, .nav-btn:active, .ghost-btn:active, .choice-btn:active { transform: scale(0.98); }
+        .btn { background: var(--surface); border-color: var(--border-strong); color: var(--text); }
+        .btn:hover { border-color: var(--primary); }
+        .btn-primary { background: var(--primary); border-color: var(--primary); color: #ffffff; }
+        .btn-primary:hover { background: var(--primary-hover); border-color: var(--primary-hover); }
+        .ghost-btn { background: transparent; border-color: var(--border); color: var(--text); }
+        .ghost-btn:hover { background: var(--surface-muted); }
+        .nav-btn { background: transparent; color: var(--muted); }
+        .nav-btn.active { background: var(--primary-soft); color: var(--primary); }
+        .eyebrow { margin: 0 0 4px; color: var(--muted); font-size: 0.78rem; font-weight: 750; letter-spacing: 0; text-transform: uppercase; }
+        .muted { color: var(--muted); }
+        .pill, .badge {
+            display: inline-flex;
+            align-items: center;
+            min-height: 28px;
+            border-radius: 999px;
+            padding: 3px 10px;
+            font-size: 0.82rem;
+            font-weight: 700;
+        }
+        .pill { background: var(--surface-muted); color: var(--text); }
+        .badge-gray { background: var(--surface-muted); color: var(--muted); }
+        .badge-yellow { background: var(--warning-bg); color: var(--warning); }
+        .msg { border-radius: 6px; margin-top: 12px; padding: 10px 12px; font-size: 0.92rem; }
+        .msg-error { background: var(--error-soft); border: 1px solid #fecdca; color: var(--error); }
+        .msg-info { background: var(--primary-soft); border: 1px solid #bfdbfe; color: #1e40af; }
+        .msg-success { background: var(--success-soft); border: 1px solid #bbf7d0; color: var(--success); }
+
+        .welcome-panel {
+            min-height: 100dvh;
+            display: grid;
+            place-items: center;
+            padding: 24px;
+        }
+        .welcome-card {
+            width: min(100%, 460px);
+            padding: 28px;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+        }
+        .welcome-card h1 { margin: 0; font-size: 2rem; line-height: 1.15; }
+        .welcome-card p { margin: 8px 0 22px; color: var(--muted); }
+        .entry-grid { display: grid; grid-template-columns: 1fr 150px; gap: 14px; margin-top: 14px; }
+        .entry-actions { margin-top: 18px; display: flex; justify-content: flex-end; }
+
+        .app-shell { min-height: 100dvh; }
+        .topbar {
+            min-height: 64px;
+            display: grid;
+            grid-template-columns: minmax(180px, 1fr) auto minmax(180px, 1fr);
+            align-items: center;
+            gap: 24px;
+            padding: 0 28px;
+            border-bottom: 1px solid var(--border);
+            background: var(--surface);
+        }
+        .brand-title { font-size: 1.05rem; font-weight: 800; }
+        .brand-subtitle { color: var(--muted); font-size: 0.82rem; }
+        .main-nav { display: flex; gap: 6px; justify-content: center; }
+        .user-menu { display: flex; align-items: center; justify-content: flex-end; gap: 10px; }
+        #current-user-label { color: var(--muted); font-weight: 700; }
+        .main-content { max-width: 1180px; margin: 0 auto; padding: 24px; }
+        .page-panel { display: block; }
+
+        .today-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 18px;
+            padding: 20px;
+            margin-bottom: 18px;
+        }
+        .today-header h1, .page-heading h1 { margin: 0; font-size: 1.6rem; line-height: 1.22; }
+        .today-header p:not(.eyebrow), .page-heading p:not(.eyebrow) { margin: 6px 0 0; color: var(--muted); }
+        .today-meta { display: flex; gap: 8px; flex-wrap: wrap; justify-content: flex-end; }
+        .today-grid { display: grid; grid-template-columns: minmax(0, 1fr) 320px; gap: 18px; align-items: start; }
+        .conversation-panel { overflow: hidden; }
+        .coach-stream {
+            min-height: 420px;
+            max-height: 56dvh;
+            overflow: auto;
+            padding: 18px;
+            background: linear-gradient(#ffffff, #fbfcfe);
+        }
+        .coach-message {
+            width: fit-content;
+            max-width: min(88%, 680px);
+            margin-bottom: 12px;
+            padding: 11px 13px;
+            border-radius: var(--radius);
+            overflow-wrap: anywhere;
+        }
+        .coach-message.user { margin-left: auto; background: var(--primary); color: #ffffff; }
+        .coach-message.coach { background: var(--surface-muted); color: var(--text); }
+        .message-meta { margin-top: 8px; color: var(--muted); font-size: 0.82rem; }
+        .composer { border-top: 1px solid var(--border); padding: 14px; background: var(--surface); }
+        .mode-selector { display: inline-flex; flex-wrap: wrap; gap: 4px; margin-bottom: 10px; padding: 4px; border-radius: var(--radius); background: var(--surface-muted); }
+        .mode-selector button { min-height: 36px; border: 0; border-radius: 6px; padding: 7px 12px; background: transparent; color: var(--muted); font-weight: 700; }
+        .mode-selector button.active { background: var(--surface); color: var(--primary); box-shadow: var(--shadow); }
+        .composer-footer { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-top: 10px; }
+        .composer-footer span { color: var(--muted); font-size: 0.88rem; }
+        .memory-side { padding: 16px; }
+        .memory-side h2 { margin: 0 0 12px; font-size: 1rem; }
+
+        .page-heading { margin-bottom: 18px; }
+        .practice-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; margin-bottom: 18px; }
+        .practice-tool { padding: 18px; }
+        .practice-tool h2, .guided-panel h2 { margin: 0 0 8px; font-size: 1.15rem; }
+        .practice-tool p { margin: 0 0 18px; color: var(--muted); }
+        .guided-panel { padding: 18px; }
+        .step-block { border-top: 1px solid var(--border); margin-top: 16px; padding-top: 16px; }
+        .step-block h3 { margin: 0 0 10px; font-size: 1rem; }
+        .choice-row { display: flex; flex-wrap: wrap; gap: 8px; }
+        .choice-btn { background: var(--surface); border-color: var(--border-strong); color: var(--text); }
+        .choice-btn.selected { background: var(--primary-soft); border-color: var(--primary); color: var(--primary); }
+
+        .memory-list { display: grid; gap: 12px; }
+        .memory-card { padding: 16px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow); }
+        .memory-card-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; margin-bottom: 8px; }
+        .memory-card h3 { margin: 0; font-size: 1.05rem; }
+        .memory-source, .memory-better { margin: 6px 0; color: var(--muted); }
+        .memory-card .ghost-btn { margin-top: 10px; }
+        .memory-mini-list { display: grid; gap: 10px; }
+        .memory-mini { border-top: 1px solid var(--border); padding-top: 10px; }
+        .memory-mini:first-child { border-top: 0; padding-top: 0; }
+        .memory-mini h3 { margin: 0 0 4px; font-size: 0.95rem; }
+        .memory-mini p { margin: 0; color: var(--muted); font-size: 0.88rem; }
+        .empty-state { padding: 18px; color: var(--muted); }
+        .empty-note { margin: 0; color: var(--muted); font-size: 0.92rem; }
+        .review-controls { display: flex; align-items: end; gap: 12px; padding: 16px; margin-bottom: 18px; }
+        .review-controls > div { width: 190px; }
+        .review-content { display: grid; gap: 12px; }
+        .stat-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+        .stat-card { padding: 16px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); }
+        .stat-card .value { font-size: 1.8rem; font-weight: 800; color: var(--primary); }
+        .stat-card .label { color: var(--muted); font-size: 0.88rem; }
+
+        .entering { animation: messageIn 160ms ease-out; }
+        @keyframes messageIn {
+            from { opacity: 0; transform: translateY(6px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .typing-dots { display: inline-flex; gap: 4px; align-items: center; min-height: 20px; }
+        .typing-dots span { width: 6px; height: 6px; border-radius: 50%; background: var(--muted); animation: typingDot 1s infinite ease-in-out; }
+        .typing-dots span:nth-child(2) { animation-delay: 120ms; }
+        .typing-dots span:nth-child(3) { animation-delay: 240ms; }
+        @keyframes typingDot {
+            0%, 80%, 100% { opacity: 0.35; transform: translateY(0); }
+            40% { opacity: 1; transform: translateY(-3px); }
+        }
+        .memory-updated { animation: memoryHighlight 1400ms ease-out; }
+        @keyframes memoryHighlight {
+            from { background: #ecfdf5; border-color: #86efac; }
+            to { background: var(--surface); border-color: var(--border); }
+        }
+        @media (prefers-reduced-motion: reduce) {
+            *, *::before, *::after { animation-duration: 1ms !important; transition-duration: 1ms !important; }
+        }
+
+        @media (max-width: 900px) {
+            .topbar { grid-template-columns: 1fr; gap: 10px; padding: 14px 16px; }
+            .main-nav { justify-content: flex-start; overflow-x: auto; padding-bottom: 2px; }
+            .user-menu { justify-content: space-between; }
+            .today-grid, .practice-grid { grid-template-columns: 1fr; }
+            .review-controls { align-items: stretch; flex-direction: column; }
+            .review-controls > div { width: 100%; }
+        }
+        @media (max-width: 760px) {
+            .main-content { padding: 16px 14px; }
+            .today-header { align-items: flex-start; flex-direction: column; }
+            .today-meta { justify-content: flex-start; }
+            .composer-footer { align-items: stretch; flex-direction: column; }
+            .composer-footer .btn { width: 100%; }
+            .entry-grid, .stat-grid { grid-template-columns: 1fr; }
+            .welcome-card { padding: 22px; }
+        }
     </style>
 </head>
 <body>
-    <div class="container">
-        <div class="header">
-            <h1>English Coach</h1>
-            <p style="margin-top:4px;opacity:0.8">AI-powered English learning coach</p>
+    <section id="welcome-panel" class="welcome-panel hidden" aria-labelledby="welcome-title">
+        <div class="welcome-card">
+            <h1 id="welcome-title">English Coach</h1>
+            <p>Start with a lightweight learning profile.</p>
+            <label for="entryUserCode">User code</label>
+            <input id="entryUserCode" type="text" placeholder="e.g. wuxl" autocomplete="off">
+            <div class="entry-grid">
+                <div>
+                    <label for="entryGoal">Goal</label>
+                    <select id="entryGoal">
+                        <option value="GENERAL">General</option>
+                        <option value="WORKPLACE">Workplace</option>
+                    </select>
+                </div>
+                <div>
+                    <label for="entryDailyMinutes">Daily minutes</label>
+                    <input id="entryDailyMinutes" type="number" min="5" max="180" value="10">
+                </div>
+            </div>
+            <div id="entry-msg" aria-live="polite"></div>
+            <div class="entry-actions">
+                <button class="btn btn-primary" id="entryContinueBtn" onclick="continueWithUser()">Continue</button>
+            </div>
         </div>
+    </section>
 
-        <div class="nav">
-            <button class="btn btn-primary active" onclick="showPage('coach')">Today Coach</button>
-            <button class="btn btn-primary" onclick="showPage('memory')">Memory</button>
-            <button class="btn btn-primary" onclick="showPage('progress')">Progress</button>
-            <button class="btn btn-primary" onclick="showPage('legacy')">Legacy</button>
-        </div>
+    <div id="app-shell" class="app-shell hidden">
+        <header class="topbar">
+            <div class="brand-block">
+                <div class="brand-title">English Coach</div>
+                <div class="brand-subtitle">Daily English practice</div>
+            </div>
+            <nav class="main-nav" aria-label="Main navigation">
+                <button class="nav-btn active" data-page="today" onclick="showPage('today')">Today</button>
+                <button class="nav-btn" data-page="practice" onclick="showPage('practice')">Practice</button>
+                <button class="nav-btn" data-page="memory" onclick="showPage('memory')">Memory</button>
+                <button class="nav-btn" data-page="progress" onclick="showPage('progress')">Progress</button>
+            </nav>
+            <div class="user-menu">
+                <span id="current-user-label">-</span>
+                <button class="ghost-btn" onclick="switchUser()">Switch</button>
+            </div>
+        </header>
 
-        <!-- Today Coach -->
-        <div id="page-coach">
-            <section class="coach-shell">
-                <header class="coach-brief card">
+        <main class="main-content">
+            <section data-page-panel="today" id="page-today" class="page-panel">
+                <div class="today-header panel">
                     <div>
-                        <h2>Today Coach</h2>
-                        <div class="row" style="margin-top:12px;margin-bottom:0">
-                            <div>
-                                <label>User ID</label>
-                                <input type="number" id="coachUserId" value="1" />
+                        <p class="eyebrow">Today</p>
+                        <h1 id="today-title">Build useful English sentences</h1>
+                        <p id="today-subtitle">Practice for 10 minutes with your coach.</p>
+                    </div>
+                    <div class="today-meta">
+                        <span id="today-goal-pill" class="pill">General</span>
+                        <span id="today-level-pill" class="pill">Level pending</span>
+                    </div>
+                </div>
+                <div class="today-grid">
+                    <section class="conversation-panel panel" aria-label="Coach conversation">
+                        <div id="coach-stream" class="coach-stream" aria-live="polite"></div>
+                        <div id="coach-error" class="hidden" aria-live="polite"></div>
+                        <div class="composer">
+                            <div class="mode-selector" aria-label="Coach mode">
+                                <button id="coach-mode-chat" class="active" onclick="setCoachMode('CHAT')">Chat</button>
+                                <button id="coach-mode-fix" onclick="setCoachMode('FIX')">Fix sentence</button>
+                                <button id="coach-mode-drill" onclick="setCoachMode('DRILL')">Guided</button>
                             </div>
-                            <div>
-                                <label>New User Code</label>
-                                <input type="text" id="coachNewUserCode" placeholder="e.g. coach_user_1" />
-                            </div>
-                            <div style="display:flex;align-items:flex-end;gap:8px">
-                                <button class="btn btn-primary" onclick="loadCoachUser()">Load</button>
-                                <button class="btn btn-success" onclick="createCoachUser()">Create</button>
+                            <label class="sr-only" for="coach-input">Message</label>
+                            <textarea id="coach-input" placeholder="Write your English here..."></textarea>
+                            <div class="composer-footer">
+                                <span id="composer-hint">Enter sends. Shift+Enter starts a new line.</span>
+                                <button id="sendCoachBtn" class="btn btn-primary" onclick="submitCoachTurn()">Send</button>
                             </div>
                         </div>
-                        <div id="coach-msg"></div>
-                    </div>
-                    <button class="btn btn-success" onclick="startCoachSession()">Start Coach</button>
-                </header>
-                <main class="coach-stream" id="coach-stream"></main>
-                <aside class="memory-panel" id="priority-memory"></aside>
-                <section class="coach-input" id="first-session-panel">
-                    <h2 style="font-size:16px;margin-bottom:10px">First Coaching Session</h2>
-                    <div class="row">
-                        <div><label>Goal</label><select id="firstGoal"><option value="GENERAL">General</option><option value="WORKPLACE">Workplace</option></select></div>
-                        <div><label>Daily minutes</label><input type="number" id="firstDailyMinutes" value="10" min="5" max="60" /></div>
-                    </div>
-                    <textarea id="firstSamples" placeholder="Write 1-3 English sample sentences..."></textarea>
-                    <div style="margin-top:10px"><button class="btn btn-success" onclick="completeFirstCoachingSession()">Start my coach plan</button></div>
-                </section>
-                <footer class="coach-input">
-                    <div class="mode-selector">
-                        <button id="coach-mode-chat" class="active" onclick="setCoachMode('CHAT')">CHAT</button>
-                        <button id="coach-mode-fix" onclick="setCoachMode('FIX')">FIX</button>
-                        <button id="coach-mode-drill" onclick="setCoachMode('DRILL')">DRILL</button>
-                    </div>
-                    <textarea id="coach-input" placeholder="Say anything in English..." onkeydown="if(event.key==='Enter' && !event.shiftKey){event.preventDefault();submitCoachTurn();}"></textarea>
-                    <div style="display:flex;justify-content:space-between;align-items:center;margin-top:10px">
-                        <span id="coach-session-label" style="color:#6b7280;font-size:13px">No active coach session</span>
-                        <button class="btn btn-primary" onclick="submitCoachTurn()">Send</button>
-                    </div>
-                </footer>
+                    </section>
+                    <aside class="memory-side panel" id="priority-memory" aria-live="polite"></aside>
+                </div>
             </section>
-        </div>
 
-        <!-- Memory -->
-        <div id="page-memory" class="hidden">
-            <div class="card">
-                <h2>Priority Memory</h2>
-                <div style="display:flex;gap:12px;align-items:center">
-                    <div class="inline-field"><label>User ID</label><input type="number" id="memoryUserId" value="1" /></div>
-                    <button class="btn btn-primary" onclick="loadPriorityMemory(document.getElementById('memoryUserId').value)">Refresh</button>
+            <section data-page-panel="practice" id="page-practice" class="page-panel hidden">
+                <div class="page-heading">
+                    <p class="eyebrow">Practice</p>
+                    <h1>Choose how you want to practice</h1>
                 </div>
-                <div id="memory-page-list" style="margin-top:12px"></div>
-            </div>
-        </div>
-
-        <!-- Progress -->
-        <div id="page-progress" class="hidden">
-            <div class="card">
-                <h2>Progress</h2>
-                <div style="display:flex;gap:12px;align-items:center;flex-wrap:wrap">
-                    <div class="inline-field"><label>User ID</label><input type="number" id="progressUserId" value="1" /></div>
-                    <div class="inline-field"><label>Start</label><input type="date" id="coachReviewStart" style="width:auto" /></div>
-                    <div class="inline-field"><label>End</label><input type="date" id="coachReviewEnd" style="width:auto" /></div>
-                    <button class="btn btn-primary" onclick="loadCoachReview()">Load Coach Review</button>
+                <div class="practice-grid">
+                    <article class="practice-tool panel">
+                        <h2>Guided Practice</h2>
+                        <p>Build useful sentences step by step.</p>
+                        <button class="btn btn-primary" onclick="startGuidedPractice()">Start guided practice</button>
+                    </article>
+                    <article class="practice-tool panel">
+                        <h2>Fix My Sentence</h2>
+                        <p>Paste one sentence and improve it.</p>
+                        <button class="btn" onclick="startFixPractice()">Fix a sentence</button>
+                    </article>
+                    <article class="practice-tool panel">
+                        <h2>Drill Memory</h2>
+                        <p>Practice your saved weak points.</p>
+                        <button class="btn" onclick="startMemoryDrill()">Choose memory</button>
+                    </article>
                 </div>
-                <div id="coach-review-content" style="margin-top:12px"></div>
-                <div style="margin-top:12px"><button class="btn btn-primary" onclick="showPage('review')">Open Weekly Review</button></div>
-            </div>
-        </div>
+                <section id="guided-practice-panel" class="guided-panel panel hidden"></section>
+            </section>
 
-        <!-- Legacy -->
-        <div id="page-legacy" class="hidden">
-            <div class="card">
-                <h2>Legacy Modules</h2>
-                <div class="legacy-grid">
-                    <button class="btn btn-primary" onclick="showPage('dashboard')">Dashboard</button>
-                    <button class="btn btn-primary" onclick="showPage('study')">Study</button>
-                    <button class="btn btn-primary" onclick="showPage('placement')">Placement</button>
-                    <button class="btn btn-primary" onclick="showPage('mastery')">Mastery</button>
-                    <button class="btn btn-primary" onclick="showPage('review')">Weekly Review</button>
+            <section data-page-panel="memory" id="page-memory" class="page-panel hidden">
+                <div class="page-heading">
+                    <p class="eyebrow">Memory</p>
+                    <h1>Your learning notebook</h1>
                 </div>
-            </div>
-        </div>
+                <div id="memory-page-list" class="memory-list"></div>
+            </section>
 
-        <!-- Dashboard -->
-        <div id="page-dashboard" class="hidden">
-            <div class="card">
-                <h2>Create User</h2>
-                <div id="create-user-msg"></div>
-                <div class="row">
+            <section data-page-panel="progress" id="page-progress" class="page-panel hidden">
+                <div class="page-heading">
+                    <p class="eyebrow">Progress</p>
+                    <h1>Your learning review</h1>
+                </div>
+                <div class="review-controls panel">
                     <div>
-                        <label>User Code</label>
-                        <input type="text" id="newUserCode" placeholder="e.g. test_user_1" />
+                        <label for="coachReviewStart">Start</label>
+                        <input type="date" id="coachReviewStart">
                     </div>
                     <div>
-                        <label>Daily Minutes</label>
-                        <input type="number" id="newDailyMinutes" value="20" min="5" max="120" />
+                        <label for="coachReviewEnd">End</label>
+                        <input type="date" id="coachReviewEnd">
                     </div>
+                    <button class="btn btn-primary" onclick="loadCoachReview()">Load review</button>
                 </div>
-                <div class="row">
-                    <div>
-                        <label>Goal</label>
-                        <select id="newGoal">
-                            <option value="GENERAL">General</option>
-                            <option value="DAILY_CONVERSATION">Daily Conversation</option>
-                            <option value="WORKPLACE">Workplace</option>
-                            <option value="TRAVEL">Travel</option>
-                            <option value="EXAM">Exam</option>
-                        </select>
-                    </div>
-                    <div style="display:flex;align-items:flex-end">
-                        <button class="btn btn-success" onclick="createUser()">Create User</button>
-                    </div>
-                </div>
-            </div>
-
-            <div class="card">
-                <h2>Load User</h2>
-                <div style="display:flex;gap:12px;align-items:center">
-                    <div class="inline-field">
-                        <label>User ID</label>
-                        <input type="number" id="userId" value="1" />
-                    </div>
-                    <button class="btn btn-primary" onclick="loadDashboard()">Load</button>
-                </div>
-            </div>
-            <div id="dashboard-content" class="hidden">
-                <div class="row">
-                    <div class="card stat"><div class="value" id="stat-total">-</div><div class="label">Total Items</div></div>
-                    <div class="card stat"><div class="value" id="stat-mastered">-</div><div class="label">Mastered</div></div>
-                    <div class="card stat"><div class="value" id="stat-learning">-</div><div class="label">Learning</div></div>
-                    <div class="card stat"><div class="value" id="stat-due">-</div><div class="label">Due Review</div></div>
-                </div>
-            </div>
-        </div>
-
-        <!-- Study -->
-        <div id="page-study" class="hidden">
-            <div class="card">
-                <h2>Study Session</h2>
-                <div style="display:flex;gap:12px;align-items:center">
-                    <div class="inline-field">
-                        <label>User ID</label>
-                        <input type="number" id="studyUserId" value="1" />
-                    </div>
-                    <div class="inline-field">
-                        <label>Type</label>
-                        <select id="sessionType" style="width:auto">
-                            <option value="DAILY_LEARNING">Daily Learning</option>
-                            <option value="REVIEW">Review</option>
-                        </select>
-                    </div>
-                    <button class="btn btn-success" onclick="startSession()">Start</button>
-                </div>
-                <div id="study-msg"></div>
-            </div>
-            <div id="session-area" class="hidden">
-                <div class="card">
-                    <div style="display:flex;justify-content:space-between;align-items:center">
-                        <h2>Session <span id="session-code"></span></h2>
-                        <span id="study-progress" style="color:#6b7280;font-size:14px"></span>
-                    </div>
-                    <div id="study-item-area">
-                        <div id="study-item-type" style="font-size:12px;color:#6b7280;margin-bottom:4px"></div>
-                        <div id="study-item-content" style="font-size:20px;font-weight:600;margin:12px 0"></div>
-                        <div id="study-item-hint" style="color:#6b7280;font-size:14px;margin-bottom:12px"></div>
-                        <div class="row">
-                            <div style="flex:1">
-                                <input type="text" id="study-answer" placeholder="Type your answer..." style="width:100%" autocomplete="off" onkeydown="if(event.key==='Enter')submitStudyAnswer()" />
-                            </div>
-                            <div style="display:flex;gap:8px">
-                                <button class="btn btn-success" onclick="submitStudyAnswer()">Submit</button>
-                                <button class="btn" onclick="skipStudyItem()" style="background:#e5e7eb;color:#374151">Skip</button>
-                            </div>
-                        </div>
-                        <div id="study-feedback" style="margin-top:12px"></div>
-                        <div id="study-next-btn" class="hidden" style="margin-top:12px">
-                            <button class="btn" onclick="nextStudyItem()">Next →</button>
-                        </div>
-                    </div>
-                    <div id="study-complete-area" class="hidden">
-                        <p style="font-size:18px;font-weight:600;color:#059669">Session Complete!</p>
-                        <div id="study-summary"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <!-- Placement -->
-        <div id="page-placement" class="hidden">
-            <div class="card">
-                <h2>Placement Assessment</h2>
-                <p style="color:#6b7280;margin-bottom:12px">Test your English level by answering questions across 4 sections.</p>
-                <div style="display:flex;gap:12px;align-items:center">
-                    <div class="inline-field">
-                        <label>User ID</label>
-                        <input type="number" id="placementUserId" value="1" />
-                    </div>
-                    <button class="btn btn-success" onclick="startPlacement()">Start Assessment</button>
-                </div>
-            </div>
-            <div id="placement-area" class="hidden">
-                <div class="card">
-                    <h2>Question <span id="q-current">1</span> / <span id="q-total">10</span></h2>
-                    <div id="question-container"></div>
-                    <div id="q-feedback" class="hidden" style="margin-top:10px"></div>
-                    <div style="margin-top:12px;display:flex;gap:8px">
-                        <button class="btn btn-primary" id="next-btn" onclick="nextQuestion()" disabled>Next</button>
-                    </div>
-                </div>
-            </div>
-            <div id="placement-result" class="hidden">
-                <div class="card">
-                    <h2>Placement Result</h2>
-                    <div id="result-content"></div>
-                </div>
-            </div>
-        </div>
-
-        <!-- Mastery -->
-        <div id="page-mastery" class="hidden">
-            <div class="card">
-                <h2>Mastery States</h2>
-                <div style="display:flex;gap:12px;align-items:center;margin-bottom:12px">
-                    <div class="inline-field">
-                        <label>User ID</label>
-                        <input type="number" id="masteryUserId" value="1" />
-                    </div>
-                    <button class="btn btn-primary" onclick="loadMastery()">Refresh</button>
-                </div>
-                <div id="mastery-list" class="loading">Click Refresh to load</div>
-            </div>
-        </div>
-
-        <!-- Weekly Review -->
-        <div id="page-review" class="hidden">
-            <div class="card">
-                <h2>Weekly Review</h2>
-                <div style="display:flex;gap:12px;align-items:center">
-                    <div class="inline-field">
-                        <label>User ID</label>
-                        <input type="number" id="reviewUserId" value="1" />
-                    </div>
-                    <div class="inline-field">
-                        <label>Start</label>
-                        <input type="date" id="weekStart" style="width:auto" />
-                    </div>
-                    <div class="inline-field">
-                        <label>End</label>
-                        <input type="date" id="weekEnd" style="width:auto" />
-                    </div>
-                    <button class="btn btn-primary" onclick="loadReview()">Load</button>
-                </div>
-                <div id="review-content" class="hidden">
-                    <div class="row" style="margin-top:12px">
-                        <div class="card stat"><div class="value" id="review-completion">-</div><div class="label">Completion</div></div>
-                        <div class="card stat"><div class="value" id="review-minutes">-</div><div class="label">Minutes</div></div>
-                        <div class="card stat"><div class="value" id="review-new">-</div><div class="label">New Items</div></div>
-                    </div>
-                    <div class="card" style="margin-top:12px">
-                        <h3 style="margin-bottom:8px">Suggestion</h3>
-                        <p id="review-suggestion">-</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+                <div id="coach-review-content" class="review-content" aria-live="polite"></div>
+            </section>
+        </main>
     </div>
 
     <script>
         const JAVA_BASE = 'http://localhost:8080';
-        const PYTHON_BASE = '';
-        let coachSessionId = null;
-        let coachMode = 'CHAT';
-        let coachMessages = [{ role: 'coach', text: 'What would you like to practice today?' }];
-        let priorityMemory = [];
+        const STORAGE_KEYS = {
+            userId: 'englishCoach.currentUserId',
+            userCode: 'englishCoach.currentUserCode',
+            goal: 'englishCoach.currentUserGoal',
+            dailyMinutes: 'englishCoach.currentDailyMinutes'
+        };
+
+        const appState = {
+            user: null,
+            coachSessionId: null,
+            coachMode: 'CHAT',
+            coachMessages: [],
+            priorityMemory: [],
+            sending: false
+        };
+
+        const guidedPractice = {
+            pattern: 'I need to ...',
+            verbs: ['prepare', 'join', 'explain'],
+            selectedVerb: null
+        };
+
+        document.addEventListener('DOMContentLoaded', initApp);
+
+        async function initApp() {
+            wireKeyboardShortcuts();
+            setDefaultReviewDates();
+            appState.user = loadStoredUser();
+            if (!appState.user) {
+                showWelcome();
+                return;
+            }
+            await enterApp();
+        }
+
+        function loadStoredUser() {
+            const id = localStorage.getItem(STORAGE_KEYS.userId);
+            const userCode = localStorage.getItem(STORAGE_KEYS.userCode);
+            if (!id || !userCode) return null;
+            return {
+                id: Number(id),
+                userCode,
+                goal: localStorage.getItem(STORAGE_KEYS.goal) || 'GENERAL',
+                dailyMinutes: Number(localStorage.getItem(STORAGE_KEYS.dailyMinutes) || 10)
+            };
+        }
+
+        function storeCurrentUser(user) {
+            localStorage.setItem(STORAGE_KEYS.userId, String(user.id));
+            localStorage.setItem(STORAGE_KEYS.userCode, user.userCode);
+            localStorage.setItem(STORAGE_KEYS.goal, user.goal || 'GENERAL');
+            localStorage.setItem(STORAGE_KEYS.dailyMinutes, String(user.dailyMinutes || 10));
+        }
+
+        function clearCurrentUser() {
+            Object.values(STORAGE_KEYS).forEach(key => localStorage.removeItem(key));
+            appState.user = null;
+            appState.coachSessionId = null;
+        }
+
+        async function continueWithUser() {
+            const userCode = document.getElementById('entryUserCode').value.trim();
+            const goal = document.getElementById('entryGoal').value;
+            const dailyMinutes = Number(document.getElementById('entryDailyMinutes').value || 10);
+            if (!userCode) {
+                showMsg('entry-msg', 'Enter a user code to continue.', 'error');
+                return;
+            }
+
+            setButtonBusy('entryContinueBtn', true, 'Continuing...');
+            try {
+                const data = await apiPost(`${JAVA_BASE}/api/users`, { userCode, goal, dailyMinutes });
+                if (data.code !== 0) {
+                    showMsg('entry-msg', 'Could not create this user code. Use a new code or switch to a saved local user.', 'error');
+                    return;
+                }
+                appState.user = normalizeUser(data.data, { userCode, goal, dailyMinutes });
+                storeCurrentUser(appState.user);
+                await enterApp();
+            } catch (error) {
+                showMsg('entry-msg', error.message || 'Could not continue.', 'error');
+            } finally {
+                setButtonBusy('entryContinueBtn', false, 'Continue');
+            }
+        }
+
+        function normalizeUser(user, fallback) {
+            return {
+                id: Number(user.id),
+                userCode: user.userCode || fallback.userCode,
+                goal: user.goal || fallback.goal || 'GENERAL',
+                dailyMinutes: Number(user.dailyMinutes || fallback.dailyMinutes || 10)
+            };
+        }
+
+        function showWelcome() {
+            document.getElementById('welcome-panel').classList.remove('hidden');
+            document.getElementById('app-shell').classList.add('hidden');
+        }
+
+        async function enterApp() {
+            document.getElementById('welcome-panel').classList.add('hidden');
+            document.getElementById('app-shell').classList.remove('hidden');
+            renderUserSummary();
+            showPage('today');
+            await loadPriorityMemory(appState.user.id);
+        }
+
+        function switchUser() {
+            clearCurrentUser();
+            appState.coachMessages = [];
+            appState.priorityMemory = [];
+            appState.sending = false;
+            renderCoachStream();
+            renderPriorityMemory([]);
+            renderMemoryPage([]);
+            showWelcome();
+        }
 
         function showPage(name) {
-            document.querySelectorAll('[id^="page-"]').forEach(el => el.classList.add('hidden'));
-            document.getElementById('page-' + name).classList.remove('hidden');
-            document.querySelectorAll('.nav .btn').forEach(b => b.classList.remove('active'));
-            if (typeof event !== 'undefined' && event.target && event.target.closest('.nav')) event.target.classList.add('active');
+            document.querySelectorAll('[data-page-panel]').forEach(el => el.classList.add('hidden'));
+            document.querySelector(`[data-page-panel="${name}"]`)?.classList.remove('hidden');
+            document.querySelectorAll('.nav-btn').forEach(btn => {
+                btn.classList.toggle('active', btn.dataset.page === name);
+            });
         }
 
         async function apiGet(url) {
@@ -387,140 +531,134 @@
         }
 
         async function apiPost(url, body) {
-            const res = await fetch(url, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) });
+            const res = await fetch(url, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(body)
+            });
             return res.json();
         }
 
-        function showMsg(id, text, type) {
-            const el = document.getElementById(id);
-            el.innerHTML = `<div class="msg msg-${type}">${text}</div>`;
-            setTimeout(() => el.innerHTML = '', 5000);
+        function renderUserSummary() {
+            if (!appState.user) return;
+            document.getElementById('current-user-label').textContent = appState.user.userCode;
+            document.getElementById('today-goal-pill').textContent = formatGoal(appState.user.goal);
+            document.getElementById('today-subtitle').textContent = `Practice for ${appState.user.dailyMinutes || 10} minutes with your coach.`;
+            if (!appState.coachMessages.length) {
+                appState.coachMessages = [{ id: createId(), role: 'coach', text: 'Write one sentence in English. I will help you improve it.' }];
+            }
+            renderCoachStream();
         }
 
-        // ========== Create User ==========
-        async function createUser() {
-            const code = document.getElementById('newUserCode').value.trim();
-            const minutes = parseInt(document.getElementById('newDailyMinutes').value);
-            const goal = document.getElementById('newGoal').value;
-            if (!code) { showMsg('create-user-msg', 'Please enter a user code', 'error'); return; }
-
-            const data = await apiPost(`${JAVA_BASE}/api/users`, {
-                userCode: code, goal: goal, dailyMinutes: minutes
-            });
-            if (data.code !== 0) { showMsg('create-user-msg', 'Failed: ' + data.message, 'error'); return; }
-
-            document.getElementById('userId').value = data.data.id;
-            document.getElementById('studyUserId').value = data.data.id;
-            document.getElementById('coachUserId').value = data.data.id;
-            document.getElementById('memoryUserId').value = data.data.id;
-            document.getElementById('progressUserId').value = data.data.id;
-            document.getElementById('placementUserId').value = data.data.id;
-            document.getElementById('masteryUserId').value = data.data.id;
-            document.getElementById('reviewUserId').value = data.data.id;
-            showMsg('create-user-msg', `User created! ID = ${data.data.id}`, 'success');
-        }
-
-        // ========== Today Coach ==========
         function setCoachMode(mode) {
-            coachMode = mode;
-            document.querySelectorAll('.mode-selector button').forEach(b => b.classList.remove('active'));
-            document.getElementById('coach-mode-' + mode.toLowerCase()).classList.add('active');
+            appState.coachMode = mode;
+            document.querySelectorAll('.mode-selector button').forEach(button => button.classList.remove('active'));
+            document.getElementById('coach-mode-' + mode.toLowerCase())?.classList.add('active');
             const input = document.getElementById('coach-input');
             input.placeholder = mode === 'CHAT'
-                ? 'Say anything in English...'
+                ? 'Write your English here...'
                 : mode === 'FIX'
-                    ? 'Paste one English sentence to diagnose...'
+                    ? 'Paste one English sentence to improve...'
                     : 'Choose a memory item or type what you want to practice...';
         }
 
-        async function createCoachUser() {
-            const code = document.getElementById('coachNewUserCode').value.trim();
-            if (!code) { showMsg('coach-msg', 'Please enter a user code', 'error'); return; }
-            const data = await apiPost(`${JAVA_BASE}/api/users`, { userCode: code, goal: 'GENERAL', dailyMinutes: 20 });
-            if (data.code !== 0) { showMsg('coach-msg', 'Failed: ' + data.message, 'error'); return; }
-            document.getElementById('coachUserId').value = data.data.id;
-            document.getElementById('memoryUserId').value = data.data.id;
-            document.getElementById('userId').value = data.data.id;
-            showMsg('coach-msg', `User created! ID = ${data.data.id}`, 'success');
-            await loadPriorityMemory(data.data.id);
-        }
-
-        async function loadCoachUser() {
-            const uid = document.getElementById('coachUserId').value;
-            document.getElementById('memoryUserId').value = uid;
-            await loadPriorityMemory(uid);
-            showMsg('coach-msg', `Loaded user ${uid}`, 'success');
-        }
-
-        async function startCoachSession() {
-            const uid = parseInt(document.getElementById('coachUserId').value);
-            const data = await apiPost(`${JAVA_BASE}/api/coach/sessions`, { userId: uid, sessionType: 'TODAY_COACH' });
-            if (data.code !== 0) { showMsg('coach-msg', 'Failed: ' + data.message, 'error'); return; }
-            coachSessionId = data.data.id;
-            document.getElementById('coach-session-label').textContent = `Session ${data.data.sessionCode}`;
-            coachMessages = [{ role: 'coach', text: 'Ready. Tell me what you are working on in English.' }];
-            renderCoachStream();
-            await loadPriorityMemory(uid);
-        }
-
-        async function completeFirstCoachingSession() {
-            const uid = parseInt(document.getElementById('coachUserId').value);
-            const samples = document.getElementById('firstSamples').value.split('\n').map(s => s.trim()).filter(Boolean);
-            const data = await apiPost(`${JAVA_BASE}/api/coach/sessions:first`, {
-                userId: uid,
-                goal: document.getElementById('firstGoal').value,
-                dailyMinutes: parseInt(document.getElementById('firstDailyMinutes').value),
-                samples: samples.length ? samples : ['I want improve my English.']
+        async function ensureCoachSession() {
+            if (appState.coachSessionId) return appState.coachSessionId;
+            const data = await apiPost(`${JAVA_BASE}/api/coach/sessions`, {
+                userId: appState.user.id,
+                sessionType: 'TODAY_COACH'
             });
-            if (data.code !== 0) { showMsg('coach-msg', 'Failed: ' + data.message, 'error'); return; }
-            document.getElementById('first-session-panel').classList.add('hidden');
-            coachSessionId = data.data.sessionId;
-            document.getElementById('coach-session-label').textContent = `First session ${data.data.sessionCode || ''}`;
-            coachMessages = [{ role: 'coach', text: `Level range: ${data.data.detectedLevelRange}. Let's begin.` }];
-            priorityMemory = (data.data.initialMemory && data.data.initialMemory.items) || [];
-            renderCoachStream();
-            renderPriorityMemory(priorityMemory);
+            if (data.code !== 0) throw new Error(data.message || 'Could not start coach session');
+            appState.coachSessionId = data.data.id;
+            return appState.coachSessionId;
         }
 
-        async function submitCoachTurn() {
+        async function submitCoachTurn(retryText) {
+            if (!appState.user || appState.sending) return;
             const input = document.getElementById('coach-input');
-            const message = input.value.trim();
+            const message = retryText || input.value.trim();
             if (!message) return;
-            if (!coachSessionId) await startCoachSession();
-            if (!coachSessionId) return;
-            coachMessages.push({ role: 'user', text: message });
-            input.value = '';
-            renderCoachStream();
-            const data = await apiPost(`${JAVA_BASE}/api/coach/sessions/${coachSessionId}/turns`, { mode: coachMode, message });
-            if (data.code !== 0) { showMsg('coach-msg', 'Failed: ' + data.message, 'error'); return; }
-            coachMessages.push({ role: 'coach', text: data.data.coachReply, savedNotes: data.data.savedNotes || [], drillSuggestion: data.data.drillSuggestion });
-            priorityMemory = (data.data.priorityMemory && data.data.priorityMemory.items) || [];
-            renderCoachStream();
-            renderPriorityMemory(priorityMemory);
-            renderMemoryPage(priorityMemory);
-        }
 
-        async function loadPriorityMemory(userId) {
-            const data = await apiGet(`${JAVA_BASE}/api/memory/priority?userId=${userId}`);
-            priorityMemory = data.code === 0 ? (data.data.items || []) : [];
-            renderPriorityMemory(priorityMemory);
-            renderMemoryPage(priorityMemory);
+            appState.sending = true;
+            setButtonBusy('sendCoachBtn', true, 'Sending...');
+            clearInlineError();
+            if (!retryText) input.value = '';
+
+            const userMessage = { id: createId(), role: 'user', text: message };
+            const waitingMessage = { id: createId(), role: 'coach', text: '', waiting: true };
+            appState.coachMessages.push(userMessage, waitingMessage);
+            renderCoachStream();
+
+            try {
+                const sessionId = await ensureCoachSession();
+                const data = await apiPost(`${JAVA_BASE}/api/coach/sessions/${sessionId}/turns`, {
+                    mode: appState.coachMode,
+                    message
+                });
+                if (data.code !== 0) throw new Error(data.message || 'Coach request failed');
+                Object.assign(waitingMessage, {
+                    waiting: false,
+                    text: data.data.coachReply,
+                    savedNotes: data.data.savedNotes || [],
+                    drillSuggestion: data.data.drillSuggestion
+                });
+                appState.priorityMemory = ((data.data.priorityMemory && data.data.priorityMemory.items) || []).map(item => ({ ...item, justUpdated: true }));
+                renderPriorityMemory(appState.priorityMemory);
+                renderMemoryPage(appState.priorityMemory);
+            } catch (error) {
+                waitingMessage.waiting = false;
+                waitingMessage.failed = true;
+                waitingMessage.text = 'I could not respond. Please try again.';
+                waitingMessage.retryText = message;
+                showInlineError(error.message || 'Request failed');
+            } finally {
+                appState.sending = false;
+                setButtonBusy('sendCoachBtn', false, 'Send');
+                renderCoachStream();
+            }
         }
 
         function renderCoachStream() {
             const stream = document.getElementById('coach-stream');
-            stream.innerHTML = coachMessages.map(m => `
-                <div class="coach-message ${m.role}">
-                    <div>${escapeHtml(m.text)}</div>
-                    ${(m.savedNotes || []).map(renderSavedNote).join('')}
-                    ${m.drillSuggestion ? renderDrillSuggestion(m.drillSuggestion) : ''}
-                </div>`).join('');
+            if (!stream) return;
+            stream.innerHTML = appState.coachMessages.map(message => {
+                if (message.waiting) {
+                    return '<div class="coach-message coach entering"><div class="typing-dots" aria-label="Coach is writing"><span></span><span></span><span></span></div></div>';
+                }
+                const retry = message.failed && message.retryText
+                    ? `<button class="ghost-btn" onclick="retryCoachTurn('${message.id}')">Retry</button>`
+                    : '';
+                return `
+                    <div class="coach-message ${message.role} entering">
+                        <div>${escapeHtml(message.text)}</div>
+                        ${(message.savedNotes || []).map(renderSavedNote).join('')}
+                        ${message.drillSuggestion ? renderDrillSuggestion(message.drillSuggestion) : ''}
+                        ${retry}
+                    </div>`;
+            }).join('');
             stream.scrollTop = stream.scrollHeight;
+        }
+
+        function retryCoachTurn(messageId) {
+            const failed = appState.coachMessages.find(message => message.id === messageId);
+            if (failed && failed.retryText) submitCoachTurn(failed.retryText);
+        }
+
+        async function loadPriorityMemory(userId) {
+            try {
+                const data = await apiGet(`${JAVA_BASE}/api/memory/priority?userId=${encodeURIComponent(userId)}`);
+                appState.priorityMemory = data.code === 0 ? (data.data.items || []) : [];
+            } catch (error) {
+                appState.priorityMemory = [];
+            }
+            renderPriorityMemory(appState.priorityMemory);
+            renderMemoryPage(appState.priorityMemory);
         }
 
         function renderPriorityMemory(items) {
             const panel = document.getElementById('priority-memory');
-            panel.innerHTML = `<h2 style="font-size:16px;margin-bottom:8px">Priority Memory</h2>` + renderMemoryItems(items);
+            if (!panel) return;
+            panel.innerHTML = '<h2>Priority Memory</h2>' + renderCompactMemoryItems(items);
         }
 
         function renderMemoryPage(items) {
@@ -528,418 +666,197 @@
             if (list) list.innerHTML = renderMemoryItems(items);
         }
 
-        function renderMemoryItems(items) {
-            if (!items || !items.length) return '<p style="color:#6b7280;font-size:14px">No saved memory yet.</p>';
-            return items.map(item => `
-                <div class="memory-item">
-                    <div><strong>${escapeHtml(item.label || '-')}</strong></div>
-                    <div style="font-size:13px;color:#6b7280">${escapeHtml(item.sourceText || '')}</div>
-                    <span class="badge ${item.recommendedAction === 'START_DRILL' ? 'badge-yellow' : 'badge-gray'}">${item.recommendedAction}</span>
-                </div>`).join('');
+        function renderMemoryItems(items, options = {}) {
+            if (!items || !items.length) {
+                return '<div class="empty-state panel">No memory yet. Practice a few sentences and your coach will save useful patterns here.</div>';
+            }
+            return items.map((item, index) => `
+                <article class="memory-card ${item.justUpdated ? 'memory-updated' : ''}">
+                    <div class="memory-card-header">
+                        <h3>${escapeHtml(item.label || item.key || '-')}</h3>
+                        <span class="badge ${item.recommendedAction === 'START_DRILL' ? 'badge-yellow' : 'badge-gray'}">${escapeHtml(item.recommendedAction || 'REVIEW')}</span>
+                    </div>
+                    ${item.sourceText ? `<p class="memory-source">You wrote: ${escapeHtml(item.sourceText)}</p>` : ''}
+                    ${item.betterText ? `<p class="memory-better">Better: ${escapeHtml(item.betterText)}</p>` : ''}
+                    ${item.seenCount ? `<p class="message-meta">Seen ${escapeHtml(item.seenCount)} times</p>` : ''}
+                    ${options.compact ? '' : `<button class="ghost-btn" onclick="practiceMemory(${index})">Practice</button>`}
+                </article>`).join('');
+        }
+
+        function renderCompactMemoryItems(items) {
+            if (!items || !items.length) {
+                return '<p class="empty-note">No priority memory yet.</p>';
+            }
+            return `<div class="memory-mini-list">${items.slice(0, 5).map(item => `
+                <div class="memory-mini ${item.justUpdated ? 'memory-updated' : ''}">
+                    <h3>${escapeHtml(item.label || item.key || '-')}</h3>
+                    ${item.sourceText ? `<p>${escapeHtml(item.sourceText)}</p>` : ''}
+                </div>`).join('')}</div>`;
+        }
+
+        function practiceMemory(index) {
+            const item = appState.priorityMemory[index] || {};
+            const label = item.label || item.sourceText || '';
+            showPage('today');
+            setCoachMode('DRILL');
+            document.getElementById('coach-input').value = label ? `Practice: ${label}` : 'Practice my recent memory.';
+            document.getElementById('coach-input').focus();
         }
 
         function renderSavedNote(note) {
-            return `<div class="msg msg-info" style="margin-top:8px">Saved: ${escapeHtml(note.label || note.key || '')}</div>`;
+            return `<div class="msg msg-info">Saved: ${escapeHtml(note.label || note.key || '')}</div>`;
         }
 
         function renderDrillSuggestion(suggestion) {
-            return `<div class="msg msg-success" style="margin-top:8px">${escapeHtml(suggestion.prompt || 'Practice this memory')}<div style="margin-top:8px"><button class="btn btn-sm btn-primary" onclick="setCoachMode('DRILL')">Start</button> <button class="btn btn-sm" style="background:#e5e7eb">Not now</button></div></div>`;
+            return `<div class="msg msg-success">${escapeHtml(suggestion.prompt || 'Practice this memory')}<div style="margin-top:8px"><button class="ghost-btn" onclick="setCoachMode('DRILL')">Start</button></div></div>`;
+        }
+
+        function startGuidedPractice() {
+            const panel = document.getElementById('guided-practice-panel');
+            panel.classList.remove('hidden');
+            panel.innerHTML = `
+                <p class="eyebrow">Guided Practice</p>
+                <h2>${guidedPractice.pattern}</h2>
+                <div class="step-block">
+                    <h3>Step 1: Choose a verb</h3>
+                    <div class="choice-row">
+                        ${guidedPractice.verbs.map(verb => `<button class="choice-btn" data-guided-verb="${verb}" onclick="selectGuidedVerb('${verb}')">${verb}</button>`).join('')}
+                    </div>
+                </div>
+                <div class="step-block">
+                    <h3>Step 2: Complete the sentence</h3>
+                    <label class="sr-only" for="guidedSentence">Guided sentence</label>
+                    <textarea id="guidedSentence" placeholder="I need to prepare the demo."></textarea>
+                    <div style="margin-top:10px"><button class="btn btn-primary" onclick="submitGuidedSentence()">Check sentence</button></div>
+                </div>
+                <div id="guided-feedback" aria-live="polite"></div>`;
+        }
+
+        function selectGuidedVerb(verb) {
+            guidedPractice.selectedVerb = verb;
+            document.querySelectorAll('[data-guided-verb]').forEach(button => {
+                button.classList.toggle('selected', button.dataset.guidedVerb === verb);
+            });
+            document.getElementById('guidedSentence').value = `I need to ${verb} the demo.`;
+        }
+
+        async function submitGuidedSentence() {
+            const sentence = document.getElementById('guidedSentence').value.trim();
+            if (!sentence) {
+                document.getElementById('guided-feedback').innerHTML = '<div class="msg msg-error">Write a sentence first.</div>';
+                return;
+            }
+            showPage('today');
+            setCoachMode('FIX');
+            document.getElementById('coach-input').value = sentence;
+            await submitCoachTurn();
+        }
+
+        function startFixPractice() {
+            showPage('today');
+            setCoachMode('FIX');
+            document.getElementById('coach-input').focus();
+        }
+
+        function startMemoryDrill() {
+            showPage('memory');
         }
 
         async function loadCoachReview() {
-            const uid = document.getElementById('progressUserId').value;
+            const el = document.getElementById('coach-review-content');
+            if (!appState.user) return;
             const start = document.getElementById('coachReviewStart').value;
             const end = document.getElementById('coachReviewEnd').value;
-            const data = await apiGet(`${JAVA_BASE}/api/coach/review?userId=${uid}&startDate=${start}&endDate=${end}`);
-            const el = document.getElementById('coach-review-content');
-            if (data.code !== 0) { el.innerHTML = `<div class="msg msg-error">${escapeHtml(data.message)}</div>`; return; }
-            const r = data.data;
-            el.innerHTML = `
-                <div class="row">
-                    <div class="card stat"><div class="value">${r.conversationTurns}</div><div class="label">Turns</div></div>
-                    <div class="card stat"><div class="value">${r.newMemoryCount}</div><div class="label">New Memory</div></div>
+            el.innerHTML = '<div class="empty-state panel">Loading review...</div>';
+            try {
+                const data = await apiGet(`${JAVA_BASE}/api/coach/review?userId=${encodeURIComponent(appState.user.id)}&startDate=${encodeURIComponent(start)}&endDate=${encodeURIComponent(end)}`);
+                if (data.code !== 0) {
+                    el.innerHTML = `<div class="msg msg-error">${escapeHtml(data.message || 'Could not load review.')}</div>`;
+                    return;
+                }
+                const review = data.data || {};
+                renderCoachReview(review);
+            } catch (error) {
+                el.innerHTML = `<div class="msg msg-error">${escapeHtml(error.message || 'Could not load review.')}</div>`;
+            }
+        }
+
+        function renderCoachReview(review) {
+            document.getElementById('coach-review-content').innerHTML = `
+                <div class="stat-grid">
+                    <div class="stat-card"><div class="value">${escapeHtml(review.conversationTurns || 0)}</div><div class="label">Conversation turns</div></div>
+                    <div class="stat-card"><div class="value">${escapeHtml(review.newMemoryCount || 0)}</div><div class="label">New memory count</div></div>
                 </div>
-                <div class="msg msg-info"><strong>Top repeated:</strong> ${(r.topRepeatedProblems || []).join(', ') || '-'}</div>
-                <div class="msg msg-info"><strong>Improved expressions:</strong> ${(r.improvedExpressions || []).join(', ') || '-'}</div>
-                <div class="msg msg-success"><strong>Next week:</strong> ${escapeHtml(r.nextWeekPlan)}</div>`;
+                <div class="msg msg-info"><strong>Top repeated problems:</strong> ${escapeHtml((review.topRepeatedProblems || []).join(', ') || '-')}</div>
+                <div class="msg msg-info"><strong>Improved expressions:</strong> ${escapeHtml((review.improvedExpressions || []).join(', ') || '-')}</div>
+                <div class="msg msg-success"><strong>Next practice suggestion:</strong> ${escapeHtml(review.nextWeekPlan || review.nextPracticeSuggestion || '-')}</div>`;
+        }
+
+        function setDefaultReviewDates() {
+            const end = new Date();
+            const start = new Date();
+            start.setDate(end.getDate() - 7);
+            const startInput = document.getElementById('coachReviewStart');
+            const endInput = document.getElementById('coachReviewEnd');
+            if (startInput) startInput.value = start.toISOString().slice(0, 10);
+            if (endInput) endInput.value = end.toISOString().slice(0, 10);
+        }
+
+        function wireKeyboardShortcuts() {
+            const input = document.getElementById('coach-input');
+            input.addEventListener('keydown', event => {
+                if (event.key === 'Enter' && !event.shiftKey) {
+                    event.preventDefault();
+                    submitCoachTurn();
+                }
+            });
+        }
+
+        function setButtonBusy(id, busy, label) {
+            const button = document.getElementById(id);
+            if (!button) return;
+            button.disabled = busy;
+            button.textContent = label;
+        }
+
+        function showInlineError(message) {
+            const el = document.getElementById('coach-error');
+            el.className = 'msg msg-error';
+            el.textContent = message;
+        }
+
+        function clearInlineError() {
+            const el = document.getElementById('coach-error');
+            el.className = 'hidden';
+            el.textContent = '';
+        }
+
+        function showMsg(id, text, type) {
+            const el = document.getElementById(id);
+            el.innerHTML = '';
+            const msg = document.createElement('div');
+            msg.className = `msg msg-${type}`;
+            msg.textContent = text;
+            el.appendChild(msg);
+        }
+
+        function formatGoal(goal) {
+            return String(goal || 'GENERAL').toLowerCase().replace(/_/g, ' ').replace(/\b\w/g, char => char.toUpperCase());
+        }
+
+        function createId() {
+            return window.crypto && crypto.randomUUID ? crypto.randomUUID() : `msg-${Date.now()}-${Math.random().toString(16).slice(2)}`;
         }
 
         function escapeHtml(value) {
-            return String(value || '').replace(/[&<>'"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;' }[c]));
+            return String(value || '').replace(/[&<>'"]/g, char => ({
+                '&': '&amp;',
+                '<': '&lt;',
+                '>': '&gt;',
+                "'": '&#39;',
+                '"': '&quot;'
+            }[char]));
         }
-
-        // ========== Dashboard ==========
-        async function loadDashboard() {
-            const uid = document.getElementById('userId').value;
-            const data = await apiGet(`${JAVA_BASE}/api/mastery?userId=${uid}`);
-            if (data.code !== 0) { alert('Failed: ' + data.message); return; }
-            document.getElementById('dashboard-content').classList.remove('hidden');
-            const items = data.data.items || [];
-            document.getElementById('stat-total').textContent = items.length;
-            document.getElementById('stat-mastered').textContent = items.filter(i => i.status === 'MASTERED').length;
-            document.getElementById('stat-learning').textContent = items.filter(i => i.status === 'LEARNING' || i.status === 'REVIEWING').length;
-
-            const due = await apiGet(`${JAVA_BASE}/api/mastery/due-review?userId=${uid}`);
-            document.getElementById('stat-due').textContent = due.code === 0 ? (due.data.items || []).length : '-';
-        }
-
-        // ========== Study ==========
-        let currentSessionId = null;
-        let studyItems = [];
-        let studyIndex = 0;
-        let studyResults = { correct: 0, wrong: 0, partial: 0, skipped: 0 };
-
-        async function startSession() {
-            const uid = document.getElementById('studyUserId').value;
-            const type = document.getElementById('sessionType').value;
-
-            // Try to get existing plan, or generate new one
-            const today = new Date().toISOString().slice(0, 10);
-            const planType = type === 'REVIEW' ? 'REVIEW' : 'DAILY';
-            showMsg('study-msg', 'Loading daily plan...', 'info');
-
-            let planRes = await apiGet(`${JAVA_BASE}/api/plans/daily?userId=${uid}&planDate=${today}&planType=${planType}`);
-
-            if (planRes.code !== 0) {
-                // No existing plan, generate one
-                showMsg('study-msg', 'Generating daily plan...', 'info');
-                planRes = await apiPost(`${JAVA_BASE}/api/plans/daily:generate`, {
-                    userId: parseInt(uid), planDate: today, planType: planType
-                });
-            }
-
-            if (planRes.code !== 0) {
-                showMsg('study-msg', 'Failed to load plan: ' + planRes.message, 'error');
-                return;
-            }
-
-            // Collect items from plan
-            const plan = planRes.data;
-            studyItems = [...(plan.newItems || []), ...(plan.reviewItems || [])];
-            if (studyItems.length === 0) {
-                showMsg('study-msg', 'No items in today\'s plan. Complete a Placement test first.', 'error');
-                return;
-            }
-
-            // Start session
-            const sessionRes = await apiPost(`${JAVA_BASE}/api/sessions/start`, { userId: parseInt(uid), sessionType: type });
-            if (sessionRes.code !== 0) { showMsg('study-msg', 'Failed: ' + sessionRes.message, 'error'); return; }
-
-            currentSessionId = sessionRes.data.id;
-            document.getElementById('session-code').textContent = sessionRes.data.sessionCode;
-            document.getElementById('session-area').classList.remove('hidden');
-            document.getElementById('study-complete-area').classList.add('hidden');
-            document.getElementById('study-item-area').classList.remove('hidden');
-
-            studyIndex = 0;
-            studyResults = { correct: 0, wrong: 0, partial: 0, skipped: 0 };
-            renderStudyItem();
-        }
-
-        function renderStudyItem() {
-            const item = studyItems[studyIndex];
-            const mode = item.recommendedMode || 'RECOGNITION';
-            document.getElementById('study-progress').textContent = `${studyIndex + 1} / ${studyItems.length}`;
-            document.getElementById('study-item-type').textContent = `[${item.itemRole}] ${mode}`;
-            document.getElementById('study-item-content').textContent = item.content;
-
-            // Show helpful hint based on mode
-            let hint = '';
-            if (mode === 'RECOGNITION') {
-                hint = '请写出这个的中文意思';
-            } else if (mode === 'OUTPUT') {
-                hint = '请用英文造一个句子';
-            } else {
-                hint = '请写出你的答案';
-            }
-            document.getElementById('study-item-hint').textContent = hint;
-
-            document.getElementById('study-answer').value = '';
-            document.getElementById('study-feedback').innerHTML = '';
-            document.getElementById('study-next-btn').classList.add('hidden');
-            document.getElementById('study-answer').disabled = false;
-            document.getElementById('study-answer').focus();
-        }
-
-        async function submitStudyAnswer() {
-            const answer = document.getElementById('study-answer').value.trim();
-            if (!answer) return;
-
-            document.getElementById('study-answer').disabled = true;
-            const item = studyItems[studyIndex];
-            const mode = item.recommendedMode || 'RECOGNITION';
-            const startTime = Date.now();
-
-            // Get LLM coach feedback (includes correctness judgment)
-            const coachRes = await apiPost(`${PYTHON_BASE}/api/coach/feedback`, {
-                item_content: item.content,
-                meaning_zh: item.meaningZh || '',
-                user_answer: answer,
-                result: 'WRONG', // let LLM judge
-                mode: mode,
-                hint_used: false
-            });
-
-            const isCorrect = coachRes && coachRes.is_correct;
-            const result = isCorrect ? 'CORRECT' : 'WRONG';
-
-            // Submit attempt to backend with LLM's judgment
-            await apiPost(`${JAVA_BASE}/api/sessions/${currentSessionId}/attempts`, {
-                attempts: [{
-                    learningItemId: item.itemId,
-                    mode: mode,
-                    result: result,
-                    responseText: answer,
-                    responseTimeMs: Date.now() - startTime,
-                    hintUsed: false
-                }]
-            });
-
-            let feedbackHtml = '';
-            if (isCorrect) {
-                feedbackHtml = `<div class="msg msg-success">Correct!</div>`;
-            } else {
-                const correctAnswer = item.meaningZh || '(restart java-core to load meanings)';
-                feedbackHtml = `<div class="msg msg-error">Incorrect. The answer is: ${correctAnswer}</div>`;
-            }
-            if (coachRes && coachRes.feedback && coachRes.feedback.trim()) {
-                feedbackHtml += `<div class="msg msg-info">Coach: ${coachRes.feedback}</div>`;
-            }
-            document.getElementById('study-feedback').innerHTML = feedbackHtml;
-            document.getElementById('study-next-btn').classList.remove('hidden');
-            if (isCorrect) studyResults.correct++;
-            else studyResults.wrong++;
-        }
-
-        async function skipStudyItem() {
-            const item = studyItems[studyIndex];
-            // Submit as skipped
-            await apiPost(`${JAVA_BASE}/api/sessions/${currentSessionId}/attempts`, {
-                attempts: [{
-                    learningItemId: item.itemId,
-                    mode: item.recommendedMode || 'RECOGNITION',
-                    result: 'SKIPPED',
-                    responseText: '',
-                    responseTimeMs: 0,
-                    hintUsed: false
-                }]
-            });
-            studyResults.skipped++;
-            await nextStudyItem();
-        }
-
-        async function nextStudyItem() {
-            studyIndex++;
-            if (studyIndex >= studyItems.length) {
-                await completeSession();
-                return;
-            }
-            renderStudyItem();
-        }
-
-        async function completeSession() {
-            if (!currentSessionId) return;
-            const data = await apiPost(`${JAVA_BASE}/api/sessions/${currentSessionId}/complete`, {});
-            if (data.code !== 0) { alert('Failed: ' + data.message); return; }
-
-            document.getElementById('study-item-area').classList.add('hidden');
-            document.getElementById('study-complete-area').classList.remove('hidden');
-
-            const accuracy = data.data.accuracy || 0;
-            const total = studyItems.length;
-            const attempted = studyResults.correct + studyResults.wrong;
-
-            let summaryHtml = `
-                <div style="display:flex;gap:16px;margin:16px 0">
-                    <div class="stat"><div class="value">${total}</div><div class="label">Total</div></div>
-                    <div class="stat"><div class="value" style="color:#16a34a">${studyResults.correct}</div><div class="label">Correct</div></div>
-                    <div class="stat"><div class="value" style="color:#dc2626">${studyResults.wrong}</div><div class="label">Wrong</div></div>
-                    <div class="stat"><div class="value" style="color:#6b7280">${studyResults.skipped}</div><div class="label">Skipped</div></div>
-                    <div class="stat"><div class="value">${accuracy}%</div><div class="label">Accuracy</div></div>
-                </div>`;
-
-            // Get session reflection from python-agent
-            const uid = document.getElementById('studyUserId').value;
-            const reflectRes = await apiPost(`${PYTHON_BASE}/api/reflect/session`, {
-                user_id: parseInt(uid),
-                session_id: currentSessionId,
-                total_items: total,
-                correct_count: studyResults.correct,
-                wrong_count: studyResults.wrong,
-                skipped_count: studyResults.skipped,
-                accuracy: accuracy
-            });
-
-            if (reflectRes && reflectRes.error_summary) {
-                summaryHtml += `
-                    <div style="margin-top:16px">
-                        <h3 style="font-size:15px;margin-bottom:8px">Session Reflection</h3>
-                        <div class="msg msg-info">
-                            <p><strong>Summary:</strong> ${reflectRes.error_summary}</p>
-                            <p><strong>Pattern:</strong> ${reflectRes.pattern_insight}</p>
-                            <p><strong>Next session:</strong> ${reflectRes.next_session_suggestion}</p>
-                        </div>
-                    </div>`;
-            }
-
-            summaryHtml += `<div style="margin-top:16px">
-                <button class="btn btn-primary" onclick="showPage('dashboard')">Back to Dashboard</button>
-                <button class="btn btn-success" onclick="startSession()" style="margin-left:8px">Study Again</button>
-            </div>`;
-
-            document.getElementById('study-summary').innerHTML = summaryHtml;
-            currentSessionId = null;
-        }
-
-        // ========== Placement ==========
-        const placementQuestions = [
-            { section: 'vocab', q: 'What does "appointment" mean?', options: ['预约；约会', '道歉', '评估', '批准'], correct: 0 },
-            { section: 'vocab', q: 'What does "convenient" mean?', options: ['昂贵的', '方便的', '困难的', '复杂的'], correct: 1 },
-            { section: 'vocab', q: 'What does "deadline" mean?', options: ['出生日期', '截止日期', '纪念日', '假期'], correct: 1 },
-            { section: 'grammar', q: '"I ___ lived here for three years." Choose the correct word:', options: ['have', 'has', 'had', 'having'], correct: 0 },
-            { section: 'grammar', q: '"If I had more time, I ___ learn Japanese." Choose:', options: ['will', 'would', 'can', 'shall'], correct: 1 },
-            { section: 'grammar', q: '"She is very ___ at her job." Choose:', options: ['efficiency', 'efficient', 'efficiently', 'efficiencies'], correct: 1 },
-            { section: 'reading', q: '"Could you please send me the report by end of day?" What is being asked?', options: ['To read a report', 'To send a report today', 'To write a new report', 'To review a report'], correct: 1 },
-            { section: 'reading', q: '"The meeting has been rescheduled to next Monday." What happened?', options: ['Meeting cancelled', 'Meeting moved to Monday', 'Meeting starts now', 'Meeting on Friday'], correct: 1 },
-            { section: 'output', q: 'How to say "我想预订晚上7点的两人桌" in English?', options: ['I want to book two tables at 7 PM', 'I would like to book a table for two at 7 PM', 'I need two seats at 7 o\'clock', 'I want dinner at 7 PM for two people'], correct: 1 },
-            { section: 'output', q: '"与同事相处" in English is:', options: ['get along with colleagues', 'go along with colleagues', 'get with colleagues', 'along with colleagues'], correct: 0 },
-        ];
-
-        let pqIndex = 0;
-        let pqAnswers = [];
-
-        function startPlacement() {
-            pqIndex = 0;
-            pqAnswers = [];
-            document.getElementById('placement-area').classList.remove('hidden');
-            document.getElementById('placement-result').classList.add('hidden');
-            renderQuestion();
-        }
-
-        function renderQuestion() {
-            const q = placementQuestions[pqIndex];
-            document.getElementById('q-current').textContent = pqIndex + 1;
-            document.getElementById('q-total').textContent = placementQuestions.length;
-            document.getElementById('q-feedback').classList.add('hidden');
-            document.getElementById('next-btn').disabled = true;
-
-            const container = document.getElementById('question-container');
-            container.innerHTML = `
-                <div class="question-box">
-                    <h3>[${q.section.toUpperCase()}] ${q.q}</h3>
-                    <div class="options">
-                        ${q.options.map((opt, i) => `<button class="option-btn" onclick="selectAnswer(${i})">${String.fromCharCode(65 + i)}. ${opt}</button>`).join('')}
-                    </div>
-                </div>
-            `;
-        }
-
-        function selectAnswer(idx) {
-            const q = placementQuestions[pqIndex];
-            const btns = document.querySelectorAll('#question-container .option-btn');
-            btns.forEach(b => b.style.pointerEvents = 'none');
-
-            const correct = idx === q.correct;
-            btns[idx].classList.add(correct ? 'correct' : 'wrong');
-            btns[q.correct].classList.add('correct');
-
-            pqAnswers.push({
-                section: q.section,
-                questionId: `q_${pqIndex}`,
-                result: correct ? 'CORRECT' : 'WRONG',
-                responseTimeMs: 3000,
-                hintUsed: false
-            });
-
-            const fb = document.getElementById('q-feedback');
-            fb.classList.remove('hidden');
-            fb.innerHTML = correct
-                ? '<div class="msg msg-success">Correct!</div>'
-                : `<div class="msg msg-error">Wrong. The answer is: ${q.options[q.correct]}</div>`;
-
-            document.getElementById('next-btn').disabled = false;
-        }
-
-        async function nextQuestion() {
-            pqIndex++;
-            if (pqIndex >= placementQuestions.length) {
-                await submitPlacement();
-                return;
-            }
-            renderQuestion();
-        }
-
-        async function submitPlacement() {
-            const uid = document.getElementById('placementUserId').value;
-            document.getElementById('placement-area').classList.add('hidden');
-
-            const data = await apiPost(`${JAVA_BASE}/api/placement/assess`, {
-                userId: parseInt(uid),
-                answers: pqAnswers
-            });
-
-            document.getElementById('placement-result').classList.remove('hidden');
-            if (data.code !== 0) {
-                document.getElementById('result-content').innerHTML = `<div class="msg msg-error">Failed: ${data.message}</div>`;
-                return;
-            }
-
-            const r = data.data;
-            const weaknesses = (r.weaknesses || []).map(w => `<span class="badge badge-yellow">${w}</span>`).join(' ') || '<span class="badge badge-green">None</span>';
-            document.getElementById('result-content').innerHTML = `
-                <div class="row" style="margin-top:8px">
-                    <div class="card stat"><div class="value">${r.overallLevel}</div><div class="label">Overall</div></div>
-                    <div class="card stat"><div class="value">${r.vocabLevel}</div><div class="label">Vocab</div></div>
-                    <div class="card stat"><div class="value">${r.grammarLevel}</div><div class="label">Grammar</div></div>
-                    <div class="card stat"><div class="value">${r.readingLevel}</div><div class="label">Reading</div></div>
-                    <div class="card stat"><div class="value">${r.outputLevel}</div><div class="label">Output</div></div>
-                </div>
-                <div style="margin-top:12px"><strong>Weaknesses:</strong> ${weaknesses}</div>
-                <div style="margin-top:8px"><strong>Suggested Daily:</strong> ${r.suggestedDailyRhythm.newItems} new, ${r.suggestedDailyRhythm.reviewItems} review, ${r.suggestedDailyRhythm.outputTasks} output</div>
-            `;
-        }
-
-        // ========== Mastery ==========
-        async function loadMastery() {
-            const uid = document.getElementById('masteryUserId').value;
-            const data = await apiGet(`${JAVA_BASE}/api/mastery?userId=${uid}`);
-            const list = document.getElementById('mastery-list');
-            if (data.code !== 0 || !data.data.items.length) {
-                list.innerHTML = '<p style="color:#6b7280">No mastery data yet. Complete a study session first.</p>';
-                return;
-            }
-            list.innerHTML = '<table><tr><th>Item</th><th>Status</th><th>Score</th><th>Streak</th><th>Next Review</th></tr>' +
-                data.data.items.map(i => {
-                    const badge = i.status === 'MASTERED' ? 'badge-green' : i.status === 'WEAK_OUTPUT' ? 'badge-red' : i.status === 'LEARNING' ? 'badge-blue' : 'badge-gray';
-                    return `<tr><td>${i.content || i.learningItemId}</td><td><span class="badge ${badge}">${i.status}</span></td><td>${i.recognitionScore || 0}</td><td>${i.correctStreak || 0}</td><td>${i.nextReviewAt ? new Date(i.nextReviewAt).toLocaleDateString() : '-'}</td></tr>`;
-                }).join('') + '</table>';
-        }
-
-        // ========== Weekly Review ==========
-        async function loadReview() {
-            const uid = document.getElementById('reviewUserId').value;
-            const ws = document.getElementById('weekStart').value;
-            const we = document.getElementById('weekEnd').value;
-            if (!ws || !we) { alert('Please select week dates'); return; }
-            const data = await apiGet(`${JAVA_BASE}/api/reviews/weekly?userId=${uid}&weekStartDate=${ws}&weekEndDate=${we}`);
-            if (data.code !== 0) { alert('Not found: ' + data.message); return; }
-            document.getElementById('review-content').classList.remove('hidden');
-            document.getElementById('review-completion').textContent = (data.data.completionRate * 100).toFixed(0) + '%';
-            document.getElementById('review-minutes').textContent = data.data.studyMinutes;
-            document.getElementById('review-new').textContent = data.data.newItemsCount;
-            document.getElementById('review-suggestion').textContent = data.data.nextWeekSuggestion;
-        }
-
-        // Init
-        const today = new Date();
-        const monday = new Date(today);
-        monday.setDate(today.getDate() - today.getDay() + 1);
-        document.getElementById('weekStart').value = monday.toISOString().split('T')[0];
-        document.getElementById('weekEnd').value = new Date(monday.getTime() + 6 * 86400000).toISOString().split('T')[0];
-        document.getElementById('coachReviewStart').value = monday.toISOString().split('T')[0];
-        document.getElementById('coachReviewEnd').value = new Date(monday.getTime() + 6 * 86400000).toISOString().split('T')[0];
-        renderCoachStream();
-        renderPriorityMemory([]);
     </script>
 </body>
 </html>
