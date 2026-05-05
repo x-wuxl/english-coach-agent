@@ -159,6 +159,125 @@
         .studio-main { width: min(100%, 1180px); margin: 0 auto; padding: 28px 24px 44px; }
         .mission-launch, .coach-studio, .signals-view, .mission-debrief { min-height: 420px; }
 
+        .mission-launch {
+            display: grid;
+            grid-template-columns: minmax(0, 1fr) 320px;
+            gap: 18px;
+            align-items: start;
+        }
+
+        .mission-card, .adaptive-signals, .studio-surface, .mission-rail, .context-rail, .debrief-panel, .signals-panel {
+            background: var(--surface);
+            border: 1px solid var(--line);
+            border-radius: var(--radius);
+            box-shadow: var(--shadow-subtle);
+        }
+
+        .mission-card { padding: 30px; }
+        .mission-card h1, .studio-surface h1, .debrief-panel h1 { margin: 0 0 12px; font-size: 34px; line-height: 1.15; }
+        .mission-rationale { margin: 0 0 20px; color: var(--muted); max-width: 68ch; }
+
+        .mission-meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin: 18px 0;
+        }
+
+        .mission-meta span, .badge, .mode-chip {
+            display: inline-flex;
+            align-items: center;
+            min-height: 30px;
+            border: 1px solid var(--line);
+            border-radius: var(--radius);
+            padding: 4px 9px;
+            background: var(--surface-raised);
+            color: var(--muted);
+            font-size: 13px;
+            font-weight: 700;
+        }
+
+        .mission-path {
+            display: grid;
+            grid-template-columns: repeat(6, minmax(92px, 1fr));
+            gap: 8px;
+            margin: 22px 0;
+        }
+
+        .mission-step {
+            min-height: 64px;
+            border: 1px solid var(--line);
+            border-radius: var(--radius);
+            padding: 10px;
+            background: var(--surface-raised);
+        }
+
+        .mission-step strong { display: block; font-size: 13px; }
+        .mission-step span { color: var(--muted); font-size: 12px; }
+        .mission-step.current { border-color: #b9cdfa; background: var(--primary-soft); color: var(--primary-strong); }
+        .mission-step.completed { border-color: #b7e4ce; background: var(--green-soft); color: var(--green); }
+
+        .adaptive-signals, .context-rail, .mission-rail, .signals-panel { padding: 18px; }
+
+        .coach-studio-grid {
+            display: grid;
+            grid-template-columns: 230px minmax(0, 1fr) 300px;
+            gap: 16px;
+            align-items: start;
+        }
+
+        .mission-rail, .context-rail { position: sticky; top: 92px; }
+        .mission-rail h2, .context-rail h2, .signals-panel h2 { margin: 0 0 10px; font-size: 18px; }
+
+        .studio-surface { padding: 24px; }
+        .studio-mode-row { display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0 18px; }
+        .mode-chip { background: var(--surface); }
+        .mode-chip.active { background: var(--primary-soft); border-color: #b9cdfa; color: var(--primary-strong); }
+
+        .pattern-token {
+            border: 1px solid var(--line-strong);
+            border-radius: var(--radius);
+            background: var(--surface-raised);
+            padding: 14px;
+            margin: 14px 0;
+            font-weight: 800;
+        }
+
+        .studio-actions, .debrief-actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 14px; }
+
+        .correction-block {
+            border: 1px solid var(--line);
+            border-radius: var(--radius);
+            background: var(--surface-raised);
+            padding: 16px;
+            display: grid;
+            gap: 12px;
+        }
+
+        .correction-row {
+            border-left: 3px solid var(--line-strong);
+            padding-left: 12px;
+        }
+
+        .correction-row.better { border-left-color: var(--green); }
+        .correction-highlight { background: var(--amber-soft); color: var(--amber); border-radius: 4px; padding: 0 3px; }
+
+        .memory-signal {
+            border: 1px solid #b9cdfa;
+            border-radius: var(--radius);
+            background: var(--primary-soft);
+            padding: 14px;
+            color: var(--primary-strong);
+        }
+
+        .memory-signal h3 { margin: 0 0 8px; font-size: 16px; }
+        .memory-signal p { margin: 7px 0 0; }
+
+        .debrief-panel { padding: 24px; }
+        .debrief-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; margin: 16px 0; }
+        .debrief-card { border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface-raised); padding: 14px; }
+        .debrief-card h2 { margin: 0 0 8px; font-size: 17px; }
+
         .shell-placeholder {
             background: var(--surface);
             border: 1px solid var(--line);
@@ -170,10 +289,24 @@
         .eyebrow { margin: 0 0 8px; color: var(--primary-strong); font-size: 12px; font-weight: 800; text-transform: uppercase; letter-spacing: 0; }
         .muted { color: var(--muted); }
 
+        @media (max-width: 1020px) {
+            .mission-launch { grid-template-columns: 1fr; }
+            .coach-studio-grid { grid-template-columns: minmax(180px, 240px) minmax(0, 1fr); }
+            .context-rail { grid-column: 1 / -1; position: static; }
+            .mission-path { grid-template-columns: repeat(3, minmax(120px, 1fr)); }
+            .debrief-grid { grid-template-columns: 1fr 1fr; }
+        }
+
         @media (max-width: 760px) {
             .studio-header { grid-template-columns: 1fr; gap: 12px; padding: 14px 16px; }
             .studio-nav { overflow-x: auto; justify-content: flex-start; }
             .studio-main { padding: 16px 14px; }
+            .coach-studio-grid { grid-template-columns: 1fr; }
+            .mission-rail, .context-rail { order: initial; position: static; }
+            .mission-path { overflow-x: auto; grid-template-columns: repeat(6, minmax(118px, 1fr)); }
+            .mission-card, .studio-surface, .debrief-panel { padding: 18px; }
+            .mission-card h1, .studio-surface h1, .debrief-panel h1 { font-size: 26px; }
+            .debrief-grid { grid-template-columns: 1fr; }
             .entry-screen { padding: 14px; }
             .entry-card { padding: 20px; }
             .primary-action, .studio-action { width: 100%; }
