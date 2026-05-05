@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_064712",
+    "content": "second-hand home",
+    "meaning_zh": "二手房",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见房产搭配"
+  },
+  {
+    "item_code": "w_064713",
+    "content": "second-hand home transaction",
+    "meaning_zh": "二手房交易",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见房产表达"
+  },
+  {
+    "item_code": "w_064724",
+    "content": "secondary infection case",
+    "meaning_zh": "继发感染病例",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学常用搭配"
+  },
+  {
+    "item_code": "w_064739",
+    "content": "secretary yacht",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "组合异常无法判断"
+  },
+  {
+    "item_code": "w_064746",
+    "content": "secretive modest subside diverge",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个散词拼接"
+  },
+  {
+    "item_code": "w_064754",
+    "content": "sectarianism vanquish",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "散词组合无固定义"
+  },
+  {
+    "item_code": "w_064763",
+    "content": "secular world",
+    "meaning_zh": "世俗世界",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_064768",
+    "content": "secure to",
+    "meaning_zh": "固定到；使固定在",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "动词搭配不完整"
+  },
+  {
+    "item_code": "w_064775",
+    "content": "security counter",
+    "meaning_zh": "安检柜台",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "场景搭配可判断"
+  },
+  {
+    "item_code": "w_064777",
+    "content": "security entrance",
+    "meaning_zh": "安检入口",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见场所表达"
+  },
+  {
+    "item_code": "w_064778",
+    "content": "security expert",
+    "meaning_zh": "安全专家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职业称谓"
+  },
+  {
+    "item_code": "w_064779",
+    "content": "security fist fury",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "组合异常无固定义"
+  },
+  {
+    "item_code": "w_064782",
+    "content": "Security is a priority.",
+    "meaning_zh": "安全是首要事项",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "完整常用句"
+  },
+  {
+    "item_code": "w_064783",
+    "content": "security lighting",
+    "meaning_zh": "安防照明",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见安全设施"
+  },
+  {
+    "item_code": "w_064784",
+    "content": "security lines",
+    "meaning_zh": "安检队伍；安检排队通道",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "旅行场景常见"
+  },
+  {
+    "item_code": "w_064785",
+    "content": "security menace",
+    "meaning_zh": "安全威胁",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解"
+  },
+  {
+    "item_code": "w_064789",
+    "content": "seda",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声或专名"
+  },
+  {
+    "item_code": "w_064790",
+    "content": "sedam",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声或专名"
+  },
+  {
+    "item_code": "w_064794",
+    "content": "sedate quench meat",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个散词拼接"
+  },
+  {
+    "item_code": "w_064795",
+    "content": "sedately",
+    "meaning_zh": "镇静地；安详地；庄重地",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见副词义"
+  }
+]

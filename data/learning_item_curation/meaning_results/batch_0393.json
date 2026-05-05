@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_037500",
+    "content": "in danger of extinction",
+    "meaning_zh": "有灭绝危险；濒临灭绝",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指灭绝危机"
+  },
+  {
+    "item_code": "w_037514",
+    "content": "in discussions with",
+    "meaning_zh": "正在与……讨论；与……磋商中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词短语"
+  },
+  {
+    "item_code": "w_037517",
+    "content": "in disposition",
+    "meaning_zh": "在性情上；在气质方面",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缺少语境但可判断"
+  },
+  {
+    "item_code": "w_037521",
+    "content": "in downturn",
+    "meaning_zh": "处于下行中；处于衰退中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略不完整"
+  },
+  {
+    "item_code": "w_037527",
+    "content": "in embryo",
+    "meaning_zh": "在萌芽阶段；尚未成熟",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_037534",
+    "content": "in excellent health",
+    "meaning_zh": "身体非常健康",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见健康表达"
+  },
+  {
+    "item_code": "w_037544",
+    "content": "in faltering economy",
+    "meaning_zh": "在经济疲软时；在衰退的经济中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缺冠词但含义清楚"
+  },
+  {
+    "item_code": "w_037552",
+    "content": "in fine shape",
+    "meaning_zh": "状态良好；身体健康",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_037553",
+    "content": "in fire-prone districts",
+    "meaning_zh": "在易发生火灾的地区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_037559",
+    "content": "in franchise irritate incorrigible",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声词串"
+  },
+  {
+    "item_code": "w_037560",
+    "content": "in fringe insolvent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声词串"
+  },
+  {
+    "item_code": "w_037569",
+    "content": "in full leaf",
+    "meaning_zh": "叶子长满；枝叶繁茂",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "植物状态表达"
+  },
+  {
+    "item_code": "w_037572",
+    "content": "in full tide",
+    "meaning_zh": "正处于高潮；正盛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "习语含义较书面"
+  },
+  {
+    "item_code": "w_037584",
+    "content": "in good temper",
+    "meaning_zh": "心情好；脾气好",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见情绪表达"
+  },
+  {
+    "item_code": "w_037586",
+    "content": "in gratitude to",
+    "meaning_zh": "为感谢……；出于对……的感激",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定介词短语"
+  },
+  {
+    "item_code": "w_037596",
+    "content": "in high spirit",
+    "meaning_zh": "兴高采烈；情绪高昂",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常用复数形式"
+  },
+  {
+    "item_code": "w_037607",
+    "content": "in huge quantities",
+    "meaning_zh": "大量地；数量巨大地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见数量表达"
+  },
+  {
+    "item_code": "w_037608",
+    "content": "in hunger",
+    "meaning_zh": "在饥饿中；挨饿",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达可理解但少见"
+  },
+  {
+    "item_code": "w_037622",
+    "content": "in letters",
+    "meaning_zh": "以书信形式；用字母表示",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "无语境有多义"
+  },
+  {
+    "item_code": "w_037626",
+    "content": "in limited respects",
+    "meaning_zh": "在有限的几个方面",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  }
+]

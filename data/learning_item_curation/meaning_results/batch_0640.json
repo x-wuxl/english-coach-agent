@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_062891",
+    "content": "rock plates",
+    "meaning_zh": "岩石板块；岩板",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "地质类短语"
+  },
+  {
+    "item_code": "w_062903",
+    "content": "rockes",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_062905",
+    "content": "Rocket Force",
+    "meaning_zh": "火箭军",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "军事专有术语"
+  },
+  {
+    "item_code": "w_062913",
+    "content": "rocking climbing",
+    "meaning_zh": "攀岩",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "疑为rock climbing"
+  },
+  {
+    "item_code": "w_062915",
+    "content": "rocks'fabric",
+    "meaning_zh": "岩石组构",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "地质术语但格式异常"
+  },
+  {
+    "item_code": "w_062944",
+    "content": "roke",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_062946",
+    "content": "role cognition",
+    "meaning_zh": "角色认知",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "心理学常用搭配"
+  },
+  {
+    "item_code": "w_062951",
+    "content": "role-playing board games",
+    "meaning_zh": "角色扮演桌游",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "游戏类别短语"
+  },
+  {
+    "item_code": "w_062952",
+    "content": "Rolex watch",
+    "meaning_zh": "劳力士手表",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "品牌商品名"
+  },
+  {
+    "item_code": "w_062954",
+    "content": "roll a fair die",
+    "meaning_zh": "掷一枚公平骰子",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "概率常用表达"
+  },
+  {
+    "item_code": "w_062966",
+    "content": "roll throw force remove",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌无固定义"
+  },
+  {
+    "item_code": "w_062983",
+    "content": "rolling boards",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义不明确"
+  },
+  {
+    "item_code": "w_062990",
+    "content": "rollover data service",
+    "meaning_zh": "流量结转服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "通信服务术语"
+  },
+  {
+    "item_code": "w_063016",
+    "content": "Ronaldo",
+    "meaning_zh": "罗纳尔多",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指足球运动员"
+  },
+  {
+    "item_code": "w_063017",
+    "content": "rondeville",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_063028",
+    "content": "Rookie of the Month",
+    "meaning_zh": "月度最佳新人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "奖项称号"
+  },
+  {
+    "item_code": "w_063031",
+    "content": "room allocation",
+    "meaning_zh": "房间分配",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "住宿场景搭配"
+  },
+  {
+    "item_code": "w_063032",
+    "content": "room assignment sheet",
+    "meaning_zh": "房间分配表",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "住宿管理表格"
+  },
+  {
+    "item_code": "w_063034",
+    "content": "room decoration",
+    "meaning_zh": "房间装饰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生活场景搭配"
+  },
+  {
+    "item_code": "w_063035",
+    "content": "room escape",
+    "meaning_zh": "密室逃脱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见娱乐项目"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_016743",
+    "content": "contemporary films",
+    "meaning_zh": "当代电影",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_016745",
+    "content": "contemporary poet",
+    "meaning_zh": "当代诗人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_016746",
+    "content": "contemporary recondition",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无法判断"
+  },
+  {
+    "item_code": "w_016747",
+    "content": "contemporary review",
+    "meaning_zh": "当代评论；同期评论",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作名词短语"
+  },
+  {
+    "item_code": "w_016750",
+    "content": "contempt reciprocate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_016769",
+    "content": "contents of one's home",
+    "meaning_zh": "家中物品；家当",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达含义明确"
+  },
+  {
+    "item_code": "w_016774",
+    "content": "context manager",
+    "meaning_zh": "上下文管理器",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_016775",
+    "content": "context obligation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无法判断"
+  },
+  {
+    "item_code": "w_016776",
+    "content": "context variable",
+    "meaning_zh": "上下文变量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_016778",
+    "content": "contextual relevance",
+    "meaning_zh": "语境相关性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术搭配常见"
+  },
+  {
+    "item_code": "w_016782",
+    "content": "contiguous efficacious jovial withhold",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个单词拼接噪声"
+  },
+  {
+    "item_code": "w_016793",
+    "content": "continental outline",
+    "meaning_zh": "大陆轮廓",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "地理短语含义明确"
+  },
+  {
+    "item_code": "w_016794",
+    "content": "continental plates",
+    "meaning_zh": "大陆板块",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地质术语"
+  },
+  {
+    "item_code": "w_016797",
+    "content": "continents pajama testimony",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个单词拼接噪声"
+  },
+  {
+    "item_code": "w_016800",
+    "content": "contingent barley cane",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个单词拼接噪声"
+  },
+  {
+    "item_code": "w_016807",
+    "content": "continue doing do ...",
+    "meaning_zh": "继续做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语法搭配但形式残缺"
+  },
+  {
+    "item_code": "w_016809",
+    "content": "continue react reaction",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个单词拼接噪声"
+  },
+  {
+    "item_code": "w_016811",
+    "content": "continue until",
+    "meaning_zh": "持续到；继续直到",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_016817",
+    "content": "continuous petroleum",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无法判断"
+  },
+  {
+    "item_code": "w_016824",
+    "content": "contort axiomatic",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  }
+]

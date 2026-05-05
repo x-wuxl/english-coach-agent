@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_043576",
+    "content": "literature class",
+    "meaning_zh": "文学课",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见课程搭配"
+  },
+  {
+    "item_code": "w_043584",
+    "content": "lithium-powered",
+    "meaning_zh": "锂电驱动的；由锂电池供电的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见复合形容词"
+  },
+  {
+    "item_code": "w_043596",
+    "content": "litigate veteran",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然难判断"
+  },
+  {
+    "item_code": "w_043612",
+    "content": "little village official",
+    "meaning_zh": "小村官；基层村干部",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按整体短语理解"
+  },
+  {
+    "item_code": "w_043628",
+    "content": "live a cosy life",
+    "meaning_zh": "过舒适惬意的生活",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_043631",
+    "content": "live an active life",
+    "meaning_zh": "过积极活跃的生活",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_043633",
+    "content": "live audience",
+    "meaning_zh": "现场观众",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见媒体搭配"
+  },
+  {
+    "item_code": "w_043637",
+    "content": "live concert",
+    "meaning_zh": "现场音乐会；现场演唱会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见演出搭配"
+  },
+  {
+    "item_code": "w_043641",
+    "content": "live in amity with",
+    "meaning_zh": "与……和睦相处",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_043642",
+    "content": "live in fear of",
+    "meaning_zh": "生活在对……的恐惧中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_043643",
+    "content": "live in separate rooms",
+    "meaning_zh": "分房住；住在不同房间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "含义直接明确"
+  },
+  {
+    "item_code": "w_043644",
+    "content": "live in squalor",
+    "meaning_zh": "生活在肮脏贫困中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_043646",
+    "content": "live life again",
+    "meaning_zh": "重新生活；重活一遍",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可判断"
+  },
+  {
+    "item_code": "w_043650",
+    "content": "live off one's parents",
+    "meaning_zh": "靠父母供养生活",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_043651",
+    "content": "live off one's wits",
+    "meaning_zh": "靠机智谋生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语搭配"
+  },
+  {
+    "item_code": "w_043652",
+    "content": "live off something",
+    "meaning_zh": "靠某物生活；以某物为食",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_043654",
+    "content": "live on campus",
+    "meaning_zh": "住在校园里；住校",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "校园常见表达"
+  },
+  {
+    "item_code": "w_043660",
+    "content": "live performances",
+    "meaning_zh": "现场表演；现场演出",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见演出搭配"
+  },
+  {
+    "item_code": "w_043661",
+    "content": "live poultry trade",
+    "meaning_zh": "活禽交易",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "行业术语搭配"
+  },
+  {
+    "item_code": "w_043663",
+    "content": "live shorter lives",
+    "meaning_zh": "寿命更短；活得更短",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "含义直接明确"
+  }
+]

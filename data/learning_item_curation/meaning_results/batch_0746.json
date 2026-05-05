@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_073574",
+    "content": "the assistant dean",
+    "meaning_zh": "助理院长",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职务称谓短语"
+  },
+  {
+    "item_code": "w_073575",
+    "content": "the astronomy community",
+    "meaning_zh": "天文学界",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术群体表达"
+  },
+  {
+    "item_code": "w_073578",
+    "content": "the attitude to sth.",
+    "meaning_zh": "对某事的态度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_073582",
+    "content": "the Baltic Sea",
+    "meaning_zh": "波罗的海",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地理专名"
+  },
+  {
+    "item_code": "w_073583",
+    "content": "the ban on doing",
+    "meaning_zh": "禁止做某事的禁令",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_073584",
+    "content": "the ban on sth.",
+    "meaning_zh": "对某事的禁令",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_073585",
+    "content": "the Banpo Museum",
+    "meaning_zh": "半坡博物馆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "场馆专名"
+  },
+  {
+    "item_code": "w_073587",
+    "content": "the bar exam",
+    "meaning_zh": "律师资格考试",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律考试术语"
+  },
+  {
+    "item_code": "w_073588",
+    "content": "the barber's",
+    "meaning_zh": "理发店",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句明确"
+  },
+  {
+    "item_code": "w_073589",
+    "content": "the bare minimum",
+    "meaning_zh": "最低限度；最基本要求",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_073590",
+    "content": "the Bay of Islands",
+    "meaning_zh": "岛屿湾",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地理专名"
+  },
+  {
+    "item_code": "w_073592",
+    "content": "the Belt and Road",
+    "meaning_zh": "一带一路",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策专名"
+  },
+  {
+    "item_code": "w_073593",
+    "content": "the Bering Sea",
+    "meaning_zh": "白令海",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地理专名"
+  },
+  {
+    "item_code": "w_073595",
+    "content": "the best-built rocket",
+    "meaning_zh": "建造得最好的火箭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_073599",
+    "content": "the bigger picture",
+    "meaning_zh": "大局；整体情况",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_073600",
+    "content": "The Bilski case",
+    "meaning_zh": "比尔斯基案",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "法律案例专名"
+  },
+  {
+    "item_code": "w_073601",
+    "content": "the Bird's Nest",
+    "meaning_zh": "鸟巢；国家体育场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "建筑专名"
+  },
+  {
+    "item_code": "w_073604",
+    "content": "the bonding hormone",
+    "meaning_zh": "亲密荷尔蒙；催产素",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常指催产素"
+  },
+  {
+    "item_code": "w_073606",
+    "content": "the bottom of",
+    "meaning_zh": "……的底部；内心深处；末位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句覆盖多义"
+  },
+  {
+    "item_code": "w_073607",
+    "content": "the boundaries of routine",
+    "meaning_zh": "常规的界限",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "抽象名词短语"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_078080",
+    "content": "unprincipled nice-guyism",
+    "meaning_zh": "无原则的老好人主义",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "整体短语含义明确"
+  },
+  {
+    "item_code": "w_078083",
+    "content": "unproductive stammer",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_078094",
+    "content": "unqualified expert",
+    "meaning_zh": "不合格的专家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_078095",
+    "content": "unqualified experts",
+    "meaning_zh": "不合格的专家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复数短语含义明确"
+  },
+  {
+    "item_code": "w_078096",
+    "content": "unqualified respect",
+    "meaning_zh": "无条件的尊重",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定义项搭配"
+  },
+  {
+    "item_code": "w_078132",
+    "content": "unregistered citizens",
+    "meaning_zh": "未登记的公民",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_078146",
+    "content": "unrequited obdurate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_078153",
+    "content": "unrestrained joy",
+    "meaning_zh": "尽情的欢乐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_078162",
+    "content": "unruly saturate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_078194",
+    "content": "unselfish assistance",
+    "meaning_zh": "无私的帮助",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_078200",
+    "content": "unsettling dearth of integrity",
+    "meaning_zh": "令人不安的诚信缺失",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可判断"
+  },
+  {
+    "item_code": "w_078203",
+    "content": "unshakable responsibility",
+    "meaning_zh": "不可动摇的责任感",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_078208",
+    "content": "unshift",
+    "meaning_zh": "向数组开头添加元素",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程术语"
+  },
+  {
+    "item_code": "w_078211",
+    "content": "unsigned",
+    "meaning_zh": "无符号的；未签名的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_078246",
+    "content": "unsuitable for",
+    "meaning_zh": "不适合",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_078263",
+    "content": "unsustantiated",
+    "meaning_zh": "未经证实的；无根据的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为拼写错误"
+  },
+  {
+    "item_code": "w_078271",
+    "content": "untamed wilderness",
+    "meaning_zh": "未被驯服的荒野",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见自然主题搭配"
+  },
+  {
+    "item_code": "w_078279",
+    "content": "untenable fretful misconstrue digress",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠噪声"
+  },
+  {
+    "item_code": "w_078295",
+    "content": "untold skirmish",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_078314",
+    "content": "unusual type of livestock",
+    "meaning_zh": "不寻常的牲畜种类",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  }
+]

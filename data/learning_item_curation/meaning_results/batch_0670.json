@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_066010",
+    "content": "shed bactericidal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_066016",
+    "content": "shed some light on",
+    "meaning_zh": "阐明；使更清楚",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_066017",
+    "content": "shed you",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似残缺搭配"
+  },
+  {
+    "item_code": "w_066019",
+    "content": "sheds some light on",
+    "meaning_zh": "阐明；有助于说明",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达变形"
+  },
+  {
+    "item_code": "w_066027",
+    "content": "sheer bachelor",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_066028",
+    "content": "sheer mountains",
+    "meaning_zh": "陡峭的山峰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "形容词搭配可理解"
+  },
+  {
+    "item_code": "w_066037",
+    "content": "shelf throne",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_066039",
+    "content": "shelfish",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_066050",
+    "content": "shelter private abortion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "语义不明"
+  },
+  {
+    "item_code": "w_066054",
+    "content": "shelve a bill",
+    "meaning_zh": "搁置一项法案",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政治用语"
+  },
+  {
+    "item_code": "w_066056",
+    "content": "Shen Nong",
+    "meaning_zh": "神农",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "中国神话人物"
+  },
+  {
+    "item_code": "w_066057",
+    "content": "Sheng",
+    "meaning_zh": "笙；盛姓",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "拼音专名或乐器"
+  },
+  {
+    "item_code": "w_066058",
+    "content": "Shenzhen-Hong Kong Stock Connect",
+    "meaning_zh": "深港通",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融专有名词"
+  },
+  {
+    "item_code": "w_066059",
+    "content": "shepard",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似shepherd误拼"
+  },
+  {
+    "item_code": "w_066079",
+    "content": "shift motley",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_066080",
+    "content": "shift of chemical equilibrium",
+    "meaning_zh": "化学平衡移动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "化学术语"
+  },
+  {
+    "item_code": "w_066082",
+    "content": "shift round the clock",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似残缺搭配"
+  },
+  {
+    "item_code": "w_066091",
+    "content": "shifty dupe",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_066105",
+    "content": "shine a light on",
+    "meaning_zh": "揭示；使人注意到",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_066106",
+    "content": "shine a spotlight on",
+    "meaning_zh": "重点关注；凸显",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_013802",
+    "content": "cholera gonad",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合疑似噪声"
+  },
+  {
+    "item_code": "w_013807",
+    "content": "cholesterol trick pickle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合无明确含义"
+  },
+  {
+    "item_code": "w_013824",
+    "content": "Chongyang Festival",
+    "meaning_zh": "重阳节",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "节日专有名词"
+  },
+  {
+    "item_code": "w_013827",
+    "content": "choose furniture",
+    "meaning_zh": "挑选家具",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_013828",
+    "content": "choose possibility option",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_013847",
+    "content": "chopstick cutlery",
+    "meaning_zh": "筷子餐具",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "非标准搭配学习价值低"
+  },
+  {
+    "item_code": "w_013848",
+    "content": "chopstick outage",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合无明确含义"
+  },
+  {
+    "item_code": "w_013857",
+    "content": "chore allowance",
+    "meaning_zh": "做家务所得的零用钱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_013883",
+    "content": "christian clamor accordance",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合疑似噪声"
+  },
+  {
+    "item_code": "w_013893",
+    "content": "Christmas greeting",
+    "meaning_zh": "圣诞问候；圣诞祝福",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见节日表达"
+  },
+  {
+    "item_code": "w_013895",
+    "content": "Christmas shopping season",
+    "meaning_zh": "圣诞购物季",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商业表达"
+  },
+  {
+    "item_code": "w_013901",
+    "content": "chromatic paroxysm",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配罕见难以判断"
+  },
+  {
+    "item_code": "w_013924",
+    "content": "chronic and degenerative condition",
+    "meaning_zh": "慢性退行性疾病",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学常见表达"
+  },
+  {
+    "item_code": "w_013930",
+    "content": "chronic health problem",
+    "meaning_zh": "慢性健康问题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "健康类常见表达"
+  },
+  {
+    "item_code": "w_013935",
+    "content": "chronic uphold",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配错误疑似噪声"
+  },
+  {
+    "item_code": "w_013939",
+    "content": "chronicle their own doom",
+    "meaning_zh": "记录自己的毁灭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作整体短语理解"
+  },
+  {
+    "item_code": "w_013963",
+    "content": "chunks of",
+    "meaning_zh": "大块的；大量的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见数量表达"
+  },
+  {
+    "item_code": "w_013965",
+    "content": "chunky plastic tiles",
+    "meaning_zh": "厚重的塑料拼块",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解为描述性短语"
+  },
+  {
+    "item_code": "w_013993",
+    "content": "cigar impudent pad ethic",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠疑似噪声"
+  },
+  {
+    "item_code": "w_013997",
+    "content": "cigarette invest",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配错误疑似噪声"
+  }
+]

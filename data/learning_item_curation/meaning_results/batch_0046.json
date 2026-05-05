@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_003214",
+    "content": "an inherent problem",
+    "meaning_zh": "固有问题；内在问题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_003215",
+    "content": "an innate ability",
+    "meaning_zh": "天生能力；先天能力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_003217",
+    "content": "an obviously indulgent system",
+    "meaning_zh": "明显纵容的制度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语整体含义清晰"
+  },
+  {
+    "item_code": "w_003218",
+    "content": "an office location",
+    "meaning_zh": "办公地点；办公位置",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_003220",
+    "content": "an old saying",
+    "meaning_zh": "老话；俗语",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义吻合"
+  },
+  {
+    "item_code": "w_003221",
+    "content": "an open invitation to",
+    "meaning_zh": "容易招致……的因素；对……的公开邀请",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定表达需宾语"
+  },
+  {
+    "item_code": "w_003222",
+    "content": "an ordinary suburban house",
+    "meaning_zh": "普通郊区住宅",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语整体含义清晰"
+  },
+  {
+    "item_code": "w_003223",
+    "content": "an original viewpoint",
+    "meaning_zh": "独到观点；新颖见解",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_003224",
+    "content": "an ounce of",
+    "meaning_zh": "一盎司的；少量的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句体现数量含义"
+  },
+  {
+    "item_code": "w_003225",
+    "content": "an outstanding beauty",
+    "meaning_zh": "出众的美人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "冠词提示指人"
+  },
+  {
+    "item_code": "w_003249",
+    "content": "analgesic politic",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声搭配"
+  },
+  {
+    "item_code": "w_003252",
+    "content": "analog artitis",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_003257",
+    "content": "analogous cower",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声搭配"
+  },
+  {
+    "item_code": "w_003260",
+    "content": "analogue TV",
+    "meaning_zh": "模拟电视",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术术语搭配"
+  },
+  {
+    "item_code": "w_003274",
+    "content": "analyze license",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_003275",
+    "content": "analyze situation",
+    "meaning_zh": "分析形势；分析情况",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_003276",
+    "content": "analyze the data",
+    "meaning_zh": "分析数据",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_003307",
+    "content": "ancestor relation",
+    "meaning_zh": "祖先关系；亲缘关系",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配略生硬但可解"
+  },
+  {
+    "item_code": "w_003308",
+    "content": "ancestor reunion appreciation polyp",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声串词"
+  },
+  {
+    "item_code": "w_003311",
+    "content": "ancestral pit",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义无法可靠判断"
+  }
+]

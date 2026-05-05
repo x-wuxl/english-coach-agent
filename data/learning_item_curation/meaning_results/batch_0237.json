@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_022422",
+    "content": "draw a deep breath",
+    "meaning_zh": "深吸一口气",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用固定搭配"
+  },
+  {
+    "item_code": "w_022427",
+    "content": "draw an income",
+    "meaning_zh": "领取收入；获得收入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "draw表示领取"
+  },
+  {
+    "item_code": "w_022432",
+    "content": "draw cartoons",
+    "meaning_zh": "画漫画；画卡通画",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础绘画搭配"
+  },
+  {
+    "item_code": "w_022434",
+    "content": "draw comfort from sth.",
+    "meaning_zh": "从某事中获得安慰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用抽象搭配"
+  },
+  {
+    "item_code": "w_022435",
+    "content": "draw comfort in sth.",
+    "meaning_zh": "在某事中获得安慰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解但较少见"
+  },
+  {
+    "item_code": "w_022436",
+    "content": "draw dividend",
+    "meaning_zh": "领取股息；获得分红",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "财经搭配"
+  },
+  {
+    "item_code": "w_022437",
+    "content": "draw experience from ...",
+    "meaning_zh": "从……中汲取经验",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用抽象搭配"
+  },
+  {
+    "item_code": "w_022438",
+    "content": "draw experience from sth.",
+    "meaning_zh": "从某事中汲取经验",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用抽象搭配"
+  },
+  {
+    "item_code": "w_022445",
+    "content": "draw nearer",
+    "meaning_zh": "靠近；临近",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用动词短语"
+  },
+  {
+    "item_code": "w_022447",
+    "content": "draw one's attention",
+    "meaning_zh": "引起某人的注意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "高频固定搭配"
+  },
+  {
+    "item_code": "w_022448",
+    "content": "draw one's attention to",
+    "meaning_zh": "使某人注意到",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "高频固定搭配"
+  },
+  {
+    "item_code": "w_022449",
+    "content": "draw one's salary",
+    "meaning_zh": "领取薪水",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "draw表示领取"
+  },
+  {
+    "item_code": "w_022450",
+    "content": "draw oneself up",
+    "meaning_zh": "挺直身子；摆出高傲姿态",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词短语"
+  },
+  {
+    "item_code": "w_022452",
+    "content": "draw out a nail",
+    "meaning_zh": "拔出钉子",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "具体动作搭配"
+  },
+  {
+    "item_code": "w_022453",
+    "content": "draw people's attention",
+    "meaning_zh": "引起人们的注意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "高频固定搭配"
+  },
+  {
+    "item_code": "w_022457",
+    "content": "draw sb.'s attention",
+    "meaning_zh": "引起某人的注意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "高频固定搭配"
+  },
+  {
+    "item_code": "w_022458",
+    "content": "draw sb.'s attention to",
+    "meaning_zh": "使某人注意到",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "高频固定搭配"
+  },
+  {
+    "item_code": "w_022459",
+    "content": "draw scant attention",
+    "meaning_zh": "很少引起注意；几乎无人关注",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "scant表示少量"
+  },
+  {
+    "item_code": "w_022460",
+    "content": "draw someone's attention to",
+    "meaning_zh": "使某人注意到",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "高频固定搭配"
+  },
+  {
+    "item_code": "w_022463",
+    "content": "draw support for",
+    "meaning_zh": "为……争取支持；使……获得支持",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "draw表示吸引获得"
+  }
+]

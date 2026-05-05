@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_081287",
+    "content": "with one's heartfelt sincerity",
+    "meaning_zh": "怀着发自内心的真诚",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定介词短语"
+  },
+  {
+    "item_code": "w_081289",
+    "content": "with one's very eyes",
+    "meaning_zh": "亲眼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_081291",
+    "content": "with parrot",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_081293",
+    "content": "with population increasing rapidly",
+    "meaning_zh": "随着人口快速增长",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "with复合结构"
+  },
+  {
+    "item_code": "w_081299",
+    "content": "with sb.'s permission",
+    "meaning_zh": "经某人许可",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词短语"
+  },
+  {
+    "item_code": "w_081310",
+    "content": "with this method",
+    "meaning_zh": "用这种方法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词短语"
+  },
+  {
+    "item_code": "w_081311",
+    "content": "with this specific goal",
+    "meaning_zh": "带着这个具体目标",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "语义清晰"
+  },
+  {
+    "item_code": "w_081317",
+    "content": "withdraw embrace",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_081321",
+    "content": "withdraw the troop",
+    "meaning_zh": "撤回部队；撤军",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "军事常见搭配"
+  },
+  {
+    "item_code": "w_081328",
+    "content": "wither eminent secrete intuition",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词堆砌噪声"
+  },
+  {
+    "item_code": "w_081334",
+    "content": "within 20 years",
+    "meaning_zh": "在20年内",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "时间短语"
+  },
+  {
+    "item_code": "w_081335",
+    "content": "within a span of",
+    "meaning_zh": "在……期间；在……跨度内",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时间表达"
+  },
+  {
+    "item_code": "w_081338",
+    "content": "within one's means",
+    "meaning_zh": "在经济能力范围内；量入为出",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持"
+  },
+  {
+    "item_code": "w_081340",
+    "content": "within outside inside",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌噪声"
+  },
+  {
+    "item_code": "w_081353",
+    "content": "without any reservation",
+    "meaning_zh": "毫无保留地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_081370",
+    "content": "without restraint",
+    "meaning_zh": "无拘无束地；不受约束地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_081372",
+    "content": "without saying",
+    "meaning_zh": "不用说；没有说",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持多义"
+  },
+  {
+    "item_code": "w_081374",
+    "content": "without the consent of",
+    "meaning_zh": "未经……同意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律常见表达"
+  },
+  {
+    "item_code": "w_081375",
+    "content": "without the slightest question",
+    "meaning_zh": "毫无疑问",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定强调表达"
+  },
+  {
+    "item_code": "w_081377",
+    "content": "withstand challenges",
+    "meaning_zh": "经受挑战；承受考验",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  }
+]

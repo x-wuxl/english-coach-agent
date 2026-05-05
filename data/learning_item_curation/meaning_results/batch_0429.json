@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_040948",
+    "content": "juan",
+    "meaning_zh": "胡安（人名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句为人名"
+  },
+  {
+    "item_code": "w_040949",
+    "content": "Juan Gris",
+    "meaning_zh": "胡安·格里斯（西班牙画家）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词"
+  },
+  {
+    "item_code": "w_040961",
+    "content": "judge decide",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_040963",
+    "content": "judge sth. on its",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "短语残缺"
+  },
+  {
+    "item_code": "w_040971",
+    "content": "judicial explanation",
+    "meaning_zh": "司法解释",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律术语"
+  },
+  {
+    "item_code": "w_040973",
+    "content": "judicial inspection",
+    "meaning_zh": "司法检查；司法检验",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "法律相关搭配"
+  },
+  {
+    "item_code": "w_040976",
+    "content": "judicious rash",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词义矛盾噪声"
+  },
+  {
+    "item_code": "w_040978",
+    "content": "Judith Wainwright",
+    "meaning_zh": "朱迪思·温赖特（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有名词"
+  },
+  {
+    "item_code": "w_040982",
+    "content": "jug peeler",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_040990",
+    "content": "juice bottles",
+    "meaning_zh": "果汁瓶",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_040991",
+    "content": "juice bran",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_040996",
+    "content": "jujun jubilant",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声"
+  },
+  {
+    "item_code": "w_041000",
+    "content": "Julie Thompson",
+    "meaning_zh": "朱莉·汤普森（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词"
+  },
+  {
+    "item_code": "w_041003",
+    "content": "July August",
+    "meaning_zh": "七月和八月",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "月份并列"
+  },
+  {
+    "item_code": "w_041005",
+    "content": "jumble anti virus",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼接噪声"
+  },
+  {
+    "item_code": "w_041006",
+    "content": "jumbled",
+    "meaning_zh": "混乱的；杂乱的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词"
+  },
+  {
+    "item_code": "w_041009",
+    "content": "jump a queue",
+    "meaning_zh": "插队",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_041011",
+    "content": "jump ahead",
+    "meaning_zh": "跳到前面；提前推进",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词"
+  },
+  {
+    "item_code": "w_041014",
+    "content": "jump by",
+    "meaning_zh": "增加了；跃升了",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见数据表达"
+  },
+  {
+    "item_code": "w_041020",
+    "content": "jump on one's bandwagon",
+    "meaning_zh": "赶时髦；加入热门一方",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语表达"
+  }
+]

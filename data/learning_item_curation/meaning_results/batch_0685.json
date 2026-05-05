@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_067464",
+    "content": "smog face",
+    "meaning_zh": "雾霾脸；受雾霾影响的面容",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "雾霾相关新词"
+  },
+  {
+    "item_code": "w_067465",
+    "content": "smog refugee",
+    "meaning_zh": "雾霾难民；因雾霾迁离的人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定环保表达"
+  },
+  {
+    "item_code": "w_067466",
+    "content": "smog subsidy",
+    "meaning_zh": "雾霾补贴",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政策搭配"
+  },
+  {
+    "item_code": "w_067474",
+    "content": "smoke-free \"buffer zone\"",
+    "meaning_zh": "无烟缓冲区；禁烟缓冲区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "禁烟政策术语"
+  },
+  {
+    "item_code": "w_067475",
+    "content": "smoke-free policy",
+    "meaning_zh": "无烟政策；禁烟政策",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见公共政策表达"
+  },
+  {
+    "item_code": "w_067476",
+    "content": "smoke-laden fog",
+    "meaning_zh": "烟雾弥漫的雾",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容词短语搭配"
+  },
+  {
+    "item_code": "w_067481",
+    "content": "smoker cigarette packet",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词序异常疑似噪声"
+  },
+  {
+    "item_code": "w_067482",
+    "content": "smoker non",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似non-smoker残片"
+  },
+  {
+    "item_code": "w_067487",
+    "content": "smoking cessation programme",
+    "meaning_zh": "戒烟计划；戒烟项目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医疗健康常用搭配"
+  },
+  {
+    "item_code": "w_067488",
+    "content": "smoking of bacon",
+    "meaning_zh": "培根的熏制",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "食品加工表达"
+  },
+  {
+    "item_code": "w_067490",
+    "content": "smoking-related disease",
+    "meaning_zh": "吸烟相关疾病",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "公共健康常用表达"
+  },
+  {
+    "item_code": "w_067497",
+    "content": "smooth activity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然缺少语境"
+  },
+  {
+    "item_code": "w_067503",
+    "content": "smooth road",
+    "meaning_zh": "平坦的道路；平顺的道路",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_067504",
+    "content": "smooth verdict factor",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无明确含义"
+  },
+  {
+    "item_code": "w_067511",
+    "content": "smother saddu",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含无法识别残片"
+  },
+  {
+    "item_code": "w_067517",
+    "content": "smuggle ... into",
+    "meaning_zh": "把……走私进；把……偷偷带入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词搭配结构"
+  },
+  {
+    "item_code": "w_067518",
+    "content": "smuggle risk",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然缺少语境"
+  },
+  {
+    "item_code": "w_067527",
+    "content": "snack ambition",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无明确含义"
+  },
+  {
+    "item_code": "w_067529",
+    "content": "snack hesitate dictation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串疑似噪声"
+  },
+  {
+    "item_code": "w_067535",
+    "content": "snag necessitate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无明确含义"
+  }
+]

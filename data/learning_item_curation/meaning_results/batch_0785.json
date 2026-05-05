@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_076752",
+    "content": "turn the tide against",
+    "meaning_zh": "扭转局势使其不利于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_076755",
+    "content": "turn to somebody",
+    "meaning_zh": "向某人求助；转向某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语"
+  },
+  {
+    "item_code": "w_076760",
+    "content": "turn waste into treasure",
+    "meaning_zh": "变废为宝",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_076771",
+    "content": "turnip consonants",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_076772",
+    "content": "turnkey",
+    "meaning_zh": "交钥匙的；可直接使用的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术商务常用词"
+  },
+  {
+    "item_code": "w_076782",
+    "content": "turpid",
+    "meaning_zh": "卑鄙的；可耻的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见形容词"
+  },
+  {
+    "item_code": "w_076783",
+    "content": "turpid dominant rookie",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似随机词串"
+  },
+  {
+    "item_code": "w_076801",
+    "content": "tutorial paper",
+    "meaning_zh": "教程论文；辅导课论文",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "学术场景搭配"
+  },
+  {
+    "item_code": "w_076805",
+    "content": "tutoring center",
+    "meaning_zh": "辅导中心；补习机构",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育常用搭配"
+  },
+  {
+    "item_code": "w_076813",
+    "content": "TV dating",
+    "meaning_zh": "电视相亲",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "媒体娱乐表达"
+  },
+  {
+    "item_code": "w_076814",
+    "content": "TV home shopping",
+    "meaning_zh": "电视居家购物；电视购物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商业表达"
+  },
+  {
+    "item_code": "w_076815",
+    "content": "TV mini-series",
+    "meaning_zh": "电视迷你剧；电视短剧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "影视常用词"
+  },
+  {
+    "item_code": "w_076822",
+    "content": "TV sitcom",
+    "meaning_zh": "电视情景喜剧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "影视常用词"
+  },
+  {
+    "item_code": "w_076859",
+    "content": "twice as many",
+    "meaning_zh": "数量是……的两倍",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句吻合"
+  },
+  {
+    "item_code": "w_076860",
+    "content": "twice as much as",
+    "meaning_zh": "是……的两倍",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句吻合"
+  },
+  {
+    "item_code": "w_076864",
+    "content": "twig goad",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似随机词串"
+  },
+  {
+    "item_code": "w_076866",
+    "content": "twilight bombard",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_076869",
+    "content": "twin adhesive",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不明确"
+  },
+  {
+    "item_code": "w_076876",
+    "content": "twinkle gently",
+    "meaning_zh": "轻轻闪烁",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解动词短语"
+  },
+  {
+    "item_code": "w_076881",
+    "content": "twist one's ankle",
+    "meaning_zh": "扭伤脚踝",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  }
+]

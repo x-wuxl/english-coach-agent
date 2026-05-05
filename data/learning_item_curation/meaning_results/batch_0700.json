@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_068918",
+    "content": "sporty coupe",
+    "meaning_zh": "运动型双门轿跑车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见汽车搭配"
+  },
+  {
+    "item_code": "w_068926",
+    "content": "spotlight tour",
+    "meaning_zh": "重点导览；亮点参观",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "旅游场景搭配"
+  },
+  {
+    "item_code": "w_068929",
+    "content": "spotted ureter yap Prof",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声组合"
+  },
+  {
+    "item_code": "w_068934",
+    "content": "spouse resort",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_068937",
+    "content": "sprain diaphragm",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不可靠"
+  },
+  {
+    "item_code": "w_068938",
+    "content": "sprain starvation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声组合"
+  },
+  {
+    "item_code": "w_068949",
+    "content": "spread fertilizer",
+    "meaning_zh": "撒肥料；施肥",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见农业搭配"
+  },
+  {
+    "item_code": "w_068954",
+    "content": "spread through",
+    "meaning_zh": "传遍；蔓延到",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_068955",
+    "content": "spread up",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不常见"
+  },
+  {
+    "item_code": "w_068956",
+    "content": "spread virus",
+    "meaning_zh": "传播病毒",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_068960",
+    "content": "spread among the natives",
+    "meaning_zh": "在当地人中传播",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_068964",
+    "content": "sprightly integral wary",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词语堆叠"
+  },
+  {
+    "item_code": "w_068973",
+    "content": "Spring Festival travel rush",
+    "meaning_zh": "春运",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定文化表达"
+  },
+  {
+    "item_code": "w_068974",
+    "content": "Spring Festival Vacation",
+    "meaning_zh": "春节假期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见节假日表达"
+  },
+  {
+    "item_code": "w_068983",
+    "content": "spring slatted bed",
+    "meaning_zh": "弹簧板条床",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "家具名词搭配"
+  },
+  {
+    "item_code": "w_068984",
+    "content": "spring staple",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缺少明确语境"
+  },
+  {
+    "item_code": "w_068987",
+    "content": "spring up like mushroom",
+    "meaning_zh": "像雨后春笋般涌现",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语表达"
+  },
+  {
+    "item_code": "w_068995",
+    "content": "sprinkle ... with ...",
+    "meaning_zh": "把……撒在……上；使……点缀着……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配结构"
+  },
+  {
+    "item_code": "w_069003",
+    "content": "sprout out",
+    "meaning_zh": "冒出；发芽长出",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "动词短语可理解"
+  },
+  {
+    "item_code": "w_069004",
+    "content": "sprout prime hail",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词语堆叠"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_033968",
+    "content": "have one's best shot",
+    "meaning_zh": "尽最大努力；做最佳尝试",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定搭配，含义明确"
+  },
+  {
+    "item_code": "w_033969",
+    "content": "have one's dander up",
+    "meaning_zh": "生气；发怒",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语表达愤怒"
+  },
+  {
+    "item_code": "w_033970",
+    "content": "have one's druthers",
+    "meaning_zh": "有选择权；按自己意愿",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语含义稳定"
+  },
+  {
+    "item_code": "w_033973",
+    "content": "have one's eye out",
+    "meaning_zh": "留心寻找；密切注意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "近似常见习语"
+  },
+  {
+    "item_code": "w_033975",
+    "content": "have one's hackles up",
+    "meaning_zh": "发怒；警觉防备",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语含义明确"
+  },
+  {
+    "item_code": "w_033976",
+    "content": "have one's hair cut",
+    "meaning_zh": "理发；让别人给自己剪头发",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "使役结构短语"
+  },
+  {
+    "item_code": "w_033979",
+    "content": "have one's hide",
+    "meaning_zh": "严惩某人；狠狠教训某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "口语威胁用法"
+  },
+  {
+    "item_code": "w_033980",
+    "content": "have one's Irish up",
+    "meaning_zh": "发怒；火气上来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "习语但带刻板色彩"
+  },
+  {
+    "item_code": "w_033982",
+    "content": "have one's roots in",
+    "meaning_zh": "起源于；根植于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见比喻搭配"
+  },
+  {
+    "item_code": "w_033984",
+    "content": "have one's seat",
+    "meaning_zh": "就座；坐下",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语用法可判断"
+  },
+  {
+    "item_code": "w_033985",
+    "content": "have one's second wind",
+    "meaning_zh": "恢复精力；缓过劲来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语含义稳定"
+  },
+  {
+    "item_code": "w_033986",
+    "content": "have one's start",
+    "meaning_zh": "开始起步；获得开端",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配含义较泛"
+  },
+  {
+    "item_code": "w_033988",
+    "content": "have out with sth.",
+    "meaning_zh": "把某事说出来；坦率讲出某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语形式少见"
+  },
+  {
+    "item_code": "w_033990",
+    "content": "have patience and responsibility",
+    "meaning_zh": "有耐心和责任心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通搭配含义明确"
+  },
+  {
+    "item_code": "w_033993",
+    "content": "have pity on sb.",
+    "meaning_zh": "同情某人；怜悯某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_033994",
+    "content": "have pizza",
+    "meaning_zh": "吃比萨；要比萨",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持餐饮用法"
+  },
+  {
+    "item_code": "w_033996",
+    "content": "have pressure",
+    "meaning_zh": "有压力；承受压力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "普通搭配可理解"
+  },
+  {
+    "item_code": "w_033997",
+    "content": "have problems with",
+    "meaning_zh": "在某方面有问题；受某事困扰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义一致"
+  },
+  {
+    "item_code": "w_033998",
+    "content": "have pull with sb.",
+    "meaning_zh": "对某人有影响力；和某人有门路",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "口语习语含义明确"
+  },
+  {
+    "item_code": "w_034000",
+    "content": "have relaxation",
+    "meaning_zh": "放松；休息",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配自然度一般"
+  }
+]

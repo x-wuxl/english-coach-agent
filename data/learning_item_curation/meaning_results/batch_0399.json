@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_038076",
+    "content": "in-flight WiFi services",
+    "meaning_zh": "机上WiFi服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "航空服务常用搭配"
+  },
+  {
+    "item_code": "w_038086",
+    "content": "in-site inspection",
+    "meaning_zh": "现场检查",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为on-site搭配"
+  },
+  {
+    "item_code": "w_038091",
+    "content": "inaccessible to",
+    "meaning_zh": "对……不可及；难以进入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容词固定搭配"
+  },
+  {
+    "item_code": "w_038094",
+    "content": "inaccurate shooting",
+    "meaning_zh": "射击不准；投篮不准",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "无例句需按搭配判断"
+  },
+  {
+    "item_code": "w_038105",
+    "content": "inadequate rainfall",
+    "meaning_zh": "降雨不足",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "气候话题常用搭配"
+  },
+  {
+    "item_code": "w_038124",
+    "content": "inappropriate behaviour",
+    "meaning_zh": "不当行为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见行为评价搭配"
+  },
+  {
+    "item_code": "w_038136",
+    "content": "inaugural issue",
+    "meaning_zh": "创刊号；首期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "出版语境固定搭配"
+  },
+  {
+    "item_code": "w_038143",
+    "content": "inbound tourist",
+    "meaning_zh": "入境游客",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅游领域常用术语"
+  },
+  {
+    "item_code": "w_038144",
+    "content": "inbound travel",
+    "meaning_zh": "入境旅游",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅游领域常用术语"
+  },
+  {
+    "item_code": "w_038145",
+    "content": "inbound trip",
+    "meaning_zh": "入境旅行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅游领域常用搭配"
+  },
+  {
+    "item_code": "w_038162",
+    "content": "incapable of doing sth.",
+    "meaning_zh": "不能做某事；没有能力做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型搭配"
+  },
+  {
+    "item_code": "w_038173",
+    "content": "incase",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似in case误写"
+  },
+  {
+    "item_code": "w_038177",
+    "content": "incendiary quarantine assert dissonance",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无整体含义"
+  },
+  {
+    "item_code": "w_038183",
+    "content": "incentive petition invasion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无整体含义"
+  },
+  {
+    "item_code": "w_038189",
+    "content": "incessant specialty",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常含义不明"
+  },
+  {
+    "item_code": "w_038198",
+    "content": "incidence of asthma",
+    "meaning_zh": "哮喘发病率",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学统计常用搭配"
+  },
+  {
+    "item_code": "w_038199",
+    "content": "incidence of infectious diseases",
+    "meaning_zh": "传染病发病率",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学统计常用搭配"
+  },
+  {
+    "item_code": "w_038200",
+    "content": "incidence of sickness",
+    "meaning_zh": "疾病发生率；患病率",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "健康统计常用搭配"
+  },
+  {
+    "item_code": "w_038207",
+    "content": "incidents",
+    "meaning_zh": "事件；事故",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "incident复数形式"
+  },
+  {
+    "item_code": "w_038208",
+    "content": "incidents rear",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常含义不明"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_033369",
+    "content": "hang dog undergird opaque",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无意义词串"
+  },
+  {
+    "item_code": "w_033374",
+    "content": "hang lift rays",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无意义词串"
+  },
+  {
+    "item_code": "w_033377",
+    "content": "hang on a second",
+    "meaning_zh": "等一下；稍等片刻",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见口语表达"
+  },
+  {
+    "item_code": "w_033385",
+    "content": "hang up your clothes",
+    "meaning_zh": "把你的衣服挂起来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活短语"
+  },
+  {
+    "item_code": "w_033397",
+    "content": "hangnale",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_033400",
+    "content": "Hangzhou National Tea Museum",
+    "meaning_zh": "杭州国家茶叶博物馆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有名词"
+  },
+  {
+    "item_code": "w_033407",
+    "content": "Hans Braun",
+    "meaning_zh": "汉斯·布劳恩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "人名音译"
+  },
+  {
+    "item_code": "w_033410",
+    "content": "hanther",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_033430",
+    "content": "happiness industries",
+    "meaning_zh": "幸福产业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_033431",
+    "content": "happiness-enhancing",
+    "meaning_zh": "提升幸福感的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_033433",
+    "content": "happy atmosphere",
+    "meaning_zh": "愉快的氛围",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_033437",
+    "content": "happy memories",
+    "meaning_zh": "美好的回忆；快乐的记忆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_033443",
+    "content": "harang",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_033445",
+    "content": "haranoid",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_033446",
+    "content": "haranoya",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_033458",
+    "content": "hard bitten genial importune",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无意义词串"
+  },
+  {
+    "item_code": "w_033470",
+    "content": "hard to deal with",
+    "meaning_zh": "难以应付；不好相处",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_033471",
+    "content": "hard to disengage",
+    "meaning_zh": "难以摆脱；难以脱离",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达结构"
+  },
+  {
+    "item_code": "w_033481",
+    "content": "hard-hoofed",
+    "meaning_zh": "硬蹄的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_033490",
+    "content": "hard-wired responses",
+    "meaning_zh": "天生的反应；固有反应",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见心理学搭配"
+  }
+]

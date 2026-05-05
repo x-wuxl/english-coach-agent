@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_017664",
+    "content": "cover the spending",
+    "meaning_zh": "支付开销；承担费用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见费用搭配"
+  },
+  {
+    "item_code": "w_017673",
+    "content": "covert deals",
+    "meaning_zh": "秘密交易；暗中交易",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_017674",
+    "content": "covert longevity volt",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_017691",
+    "content": "cowless",
+    "meaning_zh": "无牛的",
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "低频派生词价值低"
+  },
+  {
+    "item_code": "w_017698",
+    "content": "cowtow",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_017703",
+    "content": "coy elliptical implement mediate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌噪声"
+  },
+  {
+    "item_code": "w_017708",
+    "content": "cozy and romantic",
+    "meaning_zh": "温馨浪漫的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见描述搭配"
+  },
+  {
+    "item_code": "w_017709",
+    "content": "cozy atmosphere",
+    "meaning_zh": "舒适温馨的氛围",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见场景搭配"
+  },
+  {
+    "item_code": "w_017710",
+    "content": "cozy heating",
+    "meaning_zh": "舒适供暖；温暖的采暖",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解"
+  },
+  {
+    "item_code": "w_017711",
+    "content": "cozy strut",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_017716",
+    "content": "CPU cooling fan",
+    "meaning_zh": "CPU散热风扇",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机硬件术语"
+  },
+  {
+    "item_code": "w_017717",
+    "content": "CPython",
+    "meaning_zh": "CPython；用C语言实现的Python解释器",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程专有术语"
+  },
+  {
+    "item_code": "w_017728",
+    "content": "crack length reader",
+    "meaning_zh": "裂纹长度读取器；裂纹长度测量仪",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术名词可判断"
+  },
+  {
+    "item_code": "w_017744",
+    "content": "cradle ammonia",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不明"
+  },
+  {
+    "item_code": "w_017745",
+    "content": "cradle crib feed nursery",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌噪声"
+  },
+  {
+    "item_code": "w_017746",
+    "content": "cradle of civilization",
+    "meaning_zh": "文明的摇篮；文明发源地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_017747",
+    "content": "cradle of culture",
+    "meaning_zh": "文化的摇篮；文化发源地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达变体"
+  },
+  {
+    "item_code": "w_017751",
+    "content": "craftmanship",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_017754",
+    "content": "craftsmanship spirit",
+    "meaning_zh": "工匠精神",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教育表达"
+  },
+  {
+    "item_code": "w_017763",
+    "content": "cram study sessions",
+    "meaning_zh": "临时抱佛脚的学习；考前突击学习",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学习场景搭配"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_031716",
+    "content": "go around the bend",
+    "meaning_zh": "发疯；变得非常恼火",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见习语整体义"
+  },
+  {
+    "item_code": "w_031720",
+    "content": "go away empty-handed",
+    "meaning_zh": "空手而归",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达整体义"
+  },
+  {
+    "item_code": "w_031732",
+    "content": "go bowling",
+    "meaning_zh": "去打保龄球",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持运动搭配"
+  },
+  {
+    "item_code": "w_031734",
+    "content": "go bungee jumping",
+    "meaning_zh": "去蹦极",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见运动搭配"
+  },
+  {
+    "item_code": "w_031739",
+    "content": "go canoeing",
+    "meaning_zh": "去划独木舟",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见户外活动搭配"
+  },
+  {
+    "item_code": "w_031747",
+    "content": "go down fighting",
+    "meaning_zh": "战斗到底；顽强抗争到最后",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见习语整体义"
+  },
+  {
+    "item_code": "w_031755",
+    "content": "go Dutch with sb.",
+    "meaning_zh": "和某人各付各的；AA制",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社交表达"
+  },
+  {
+    "item_code": "w_031759",
+    "content": "go extinct",
+    "meaning_zh": "灭绝",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持物种灭绝"
+  },
+  {
+    "item_code": "w_031761",
+    "content": "go far beyond",
+    "meaning_zh": "远远超出；远不止于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见程度表达"
+  },
+  {
+    "item_code": "w_031764",
+    "content": "go for a dinner",
+    "meaning_zh": "去吃饭；去赴宴",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达可用但不如for dinner常见"
+  },
+  {
+    "item_code": "w_031767",
+    "content": "go for a swim",
+    "meaning_zh": "去游泳",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持活动搭配"
+  },
+  {
+    "item_code": "w_031770",
+    "content": "go for an interview",
+    "meaning_zh": "去参加面试",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见求职表达"
+  },
+  {
+    "item_code": "w_031776",
+    "content": "go for the interview",
+    "meaning_zh": "去参加那场面试",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "特指面试场景"
+  },
+  {
+    "item_code": "w_031779",
+    "content": "go full steam ahead",
+    "meaning_zh": "全速前进；全力推进",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见习语整体义"
+  },
+  {
+    "item_code": "w_031790",
+    "content": "go ice-skating",
+    "meaning_zh": "去滑冰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见活动搭配"
+  },
+  {
+    "item_code": "w_031791",
+    "content": "go in a body",
+    "meaning_zh": "全体一起去；集体行动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "较少见固定表达"
+  },
+  {
+    "item_code": "w_031793",
+    "content": "go in debt",
+    "meaning_zh": "负债；欠债",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "近似go into debt"
+  },
+  {
+    "item_code": "w_031804",
+    "content": "go into government",
+    "meaning_zh": "进入政府任职；从政",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职业表达"
+  },
+  {
+    "item_code": "w_031814",
+    "content": "go mad about",
+    "meaning_zh": "对……着迷；狂热喜欢",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见情感表达"
+  },
+  {
+    "item_code": "w_031816",
+    "content": "go mountain climbing",
+    "meaning_zh": "去登山；去爬山",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见户外活动搭配"
+  }
+]

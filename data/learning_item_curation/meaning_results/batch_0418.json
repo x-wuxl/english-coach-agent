@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_039914",
+    "content": "intimate hillside morality drainage",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配疑似噪声"
+  },
+  {
+    "item_code": "w_039922",
+    "content": "into being",
+    "meaning_zh": "形成；产生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见于come into being"
+  },
+  {
+    "item_code": "w_039924",
+    "content": "into past among",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词序异常疑似噪声"
+  },
+  {
+    "item_code": "w_039933",
+    "content": "intoxicant jigger",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配"
+  },
+  {
+    "item_code": "w_039938",
+    "content": "intra",
+    "meaning_zh": "内部；在内",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见前缀形式"
+  },
+  {
+    "item_code": "w_039939",
+    "content": "intra-corporate transfer",
+    "meaning_zh": "公司内部调动；企业内部转移",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常用术语"
+  },
+  {
+    "item_code": "w_039940",
+    "content": "intra-department",
+    "meaning_zh": "部门内部的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "构词含义明确"
+  },
+  {
+    "item_code": "w_039942",
+    "content": "intra-Party harmony",
+    "meaning_zh": "党内和谐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治语境短语"
+  },
+  {
+    "item_code": "w_039944",
+    "content": "intraalveolar",
+    "meaning_zh": "肺泡内的；牙槽内的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学术语有语境歧义"
+  },
+  {
+    "item_code": "w_039945",
+    "content": "intraaortic",
+    "meaning_zh": "主动脉内的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学术语"
+  },
+  {
+    "item_code": "w_039953",
+    "content": "intracordally",
+    "meaning_zh": "声带内地；脊髓内地",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学副词语境不足"
+  },
+  {
+    "item_code": "w_039962",
+    "content": "intraject",
+    "meaning_zh": "内射；内投",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "心理学术语"
+  },
+  {
+    "item_code": "w_039967",
+    "content": "intramuscular emission",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_039992",
+    "content": "intravenous rifle blade",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词义冲突疑似噪声"
+  },
+  {
+    "item_code": "w_039998",
+    "content": "intrepid withdraw",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_040008",
+    "content": "intrinsic plagiarize placebo",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无可靠含义"
+  },
+  {
+    "item_code": "w_040018",
+    "content": "introduce A into B",
+    "meaning_zh": "将A引入B；把A介绍到B中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_040041",
+    "content": "intrusion of saltwater",
+    "meaning_zh": "海水入侵；咸水侵入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环境地理常用表达"
+  },
+  {
+    "item_code": "w_040046",
+    "content": "intrust",
+    "meaning_zh": "委托；托付",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "entrust的少见变体"
+  },
+  {
+    "item_code": "w_040052",
+    "content": "intuitive drab figment",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定含义疑似噪声"
+  }
+]

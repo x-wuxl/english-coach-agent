@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_016943",
+    "content": "conventional medical drug",
+    "meaning_zh": "常规药物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学常见搭配"
+  },
+  {
+    "item_code": "w_016945",
+    "content": "conventional radiographic technique",
+    "meaning_zh": "常规放射成像技术",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学技术术语"
+  },
+  {
+    "item_code": "w_016946",
+    "content": "conventional sabotage",
+    "meaning_zh": "常规破坏活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解"
+  },
+  {
+    "item_code": "w_016947",
+    "content": "conventional school",
+    "meaning_zh": "传统学校",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育常见表达"
+  },
+  {
+    "item_code": "w_016948",
+    "content": "conventional teaching institution",
+    "meaning_zh": "传统教学机构",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育类搭配"
+  },
+  {
+    "item_code": "w_016956",
+    "content": "converge with",
+    "meaning_zh": "与…汇合；与…趋同",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词固定搭配"
+  },
+  {
+    "item_code": "w_016960",
+    "content": "convergent plate boundaries",
+    "meaning_zh": "汇聚型板块边界",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地质学术语"
+  },
+  {
+    "item_code": "w_016963",
+    "content": "conversation with",
+    "meaning_zh": "与…的谈话；与…交谈",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  },
+  {
+    "item_code": "w_016967",
+    "content": "converse interrupt",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_016976",
+    "content": "convert sb. to",
+    "meaning_zh": "使某人转变为；使某人皈依",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词固定搭配"
+  },
+  {
+    "item_code": "w_016987",
+    "content": "convertible privilege transform",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_016990",
+    "content": "convex hack",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义无法可靠判断"
+  },
+  {
+    "item_code": "w_016995",
+    "content": "convey emotions to",
+    "meaning_zh": "向…传达情感",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词搭配清晰"
+  },
+  {
+    "item_code": "w_016996",
+    "content": "convey reflect",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_016997",
+    "content": "convey smuggling",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_016998",
+    "content": "convey unintelligible liar",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声组合"
+  },
+  {
+    "item_code": "w_017011",
+    "content": "convince install",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_017017",
+    "content": "convincing fool foolish",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠噪声"
+  },
+  {
+    "item_code": "w_017023",
+    "content": "convoke impune",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_017026",
+    "content": "convoluted channel gloat",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声组合"
+  }
+]

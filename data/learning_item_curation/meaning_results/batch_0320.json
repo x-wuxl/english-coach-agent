@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_030327",
+    "content": "gasoline tire breakdown",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词组无明确含义"
+  },
+  {
+    "item_code": "w_030329",
+    "content": "gasp pork",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_030331",
+    "content": "gast",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常用词难可靠判断"
+  },
+  {
+    "item_code": "w_030337",
+    "content": "gastritis maximal radio complaisance",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机术语堆叠"
+  },
+  {
+    "item_code": "w_030360",
+    "content": "gath",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似专名或噪声"
+  },
+  {
+    "item_code": "w_030367",
+    "content": "gather news",
+    "meaning_zh": "收集新闻；采访新闻",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_030371",
+    "content": "gather to do ...",
+    "meaning_zh": "聚集起来做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型搭配"
+  },
+  {
+    "item_code": "w_030381",
+    "content": "gauge loop a",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无明确搭配含义"
+  },
+  {
+    "item_code": "w_030391",
+    "content": "gay lesbian period",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配生硬不完整"
+  },
+  {
+    "item_code": "w_030393",
+    "content": "gaze a rhythmia shilling",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词组无明确含义"
+  },
+  {
+    "item_code": "w_030397",
+    "content": "gaze into",
+    "meaning_zh": "凝视；注视",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词"
+  },
+  {
+    "item_code": "w_030407",
+    "content": "GDP calculation",
+    "meaning_zh": "GDP计算；国内生产总值核算",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济学常见表达"
+  },
+  {
+    "item_code": "w_030409",
+    "content": "GDP supremacy",
+    "meaning_zh": "GDP至上；唯GDP论",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "考研经济社会表达"
+  },
+  {
+    "item_code": "w_030414",
+    "content": "gear ... toward ...",
+    "meaning_zh": "使……适合……；使……面向……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配结构"
+  },
+  {
+    "item_code": "w_030416",
+    "content": "gear approve aid",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机动词名词堆叠"
+  },
+  {
+    "item_code": "w_030419",
+    "content": "gear toward",
+    "meaning_zh": "使适合；使面向",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_030424",
+    "content": "gearless",
+    "meaning_zh": "无齿轮的；不用齿轮传动的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "机械技术形容词"
+  },
+  {
+    "item_code": "w_030425",
+    "content": "gears or facilities",
+    "meaning_zh": "设备或设施",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略不自然但可理解"
+  },
+  {
+    "item_code": "w_030437",
+    "content": "gelatin locust",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_030442",
+    "content": "gem emigrant plaster acne",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词组无明确含义"
+  }
+]

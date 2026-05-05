@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_026187",
+    "content": "explosive news",
+    "meaning_zh": "爆炸性新闻；轰动消息",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见新闻搭配"
+  },
+  {
+    "item_code": "w_026188",
+    "content": "explosive situation",
+    "meaning_zh": "一触即发的局势；危险紧张的形势",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形势搭配"
+  },
+  {
+    "item_code": "w_026194",
+    "content": "exponent unremitting",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常，无法判断"
+  },
+  {
+    "item_code": "w_026199",
+    "content": "export capacity",
+    "meaning_zh": "出口能力；出口产能",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经贸常见搭配"
+  },
+  {
+    "item_code": "w_026201",
+    "content": "export inferior combat",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组噪声，含义不明"
+  },
+  {
+    "item_code": "w_026210",
+    "content": "expos",
+    "meaning_zh": "展览会；博览会",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "expo复数形式"
+  },
+  {
+    "item_code": "w_026229",
+    "content": "exposé",
+    "meaning_zh": "揭露性报道；曝光文章",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "GRE常见词义"
+  },
+  {
+    "item_code": "w_026231",
+    "content": "expound pitch",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常，无法判断"
+  },
+  {
+    "item_code": "w_026233",
+    "content": "express business",
+    "meaning_zh": "快递业务；速递业务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按短语整体理解"
+  },
+  {
+    "item_code": "w_026235",
+    "content": "express emotions",
+    "meaning_zh": "表达情感；流露情绪",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_026237",
+    "content": "express one's condolences",
+    "meaning_zh": "表达哀悼；表示慰问",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_026238",
+    "content": "express one's gratitude",
+    "meaning_zh": "表达感激；表示感谢",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_026240",
+    "content": "express rider service",
+    "meaning_zh": "快递骑手服务；配送骑手服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "服务类短语"
+  },
+  {
+    "item_code": "w_026247",
+    "content": "expression express",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词序异常，含义不明"
+  },
+  {
+    "item_code": "w_026258",
+    "content": "express good wishes",
+    "meaning_zh": "表达美好祝愿；致以良好祝愿",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_026259",
+    "content": "exprogate",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_026268",
+    "content": "exquisite balance",
+    "meaning_zh": "精妙的平衡；微妙的平衡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容词搭配明确"
+  },
+  {
+    "item_code": "w_026270",
+    "content": "exquisite sculpture",
+    "meaning_zh": "精美的雕塑；精致的雕刻品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "艺术类常见搭配"
+  },
+  {
+    "item_code": "w_026284",
+    "content": "extend from ... to",
+    "meaning_zh": "从……延伸到……；从……持续到……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句式"
+  },
+  {
+    "item_code": "w_026285",
+    "content": "extend the deadline",
+    "meaning_zh": "延长期限；推迟截止日期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  }
+]

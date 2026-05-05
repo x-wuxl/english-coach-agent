@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_029786",
+    "content": "fruitor",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见词疑似噪声"
+  },
+  {
+    "item_code": "w_029791",
+    "content": "frustrate addict",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常疑似噪声"
+  },
+  {
+    "item_code": "w_029792",
+    "content": "frustrate shape",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常疑似噪声"
+  },
+  {
+    "item_code": "w_029798",
+    "content": "Fryderyk Chopin",
+    "meaning_zh": "弗里德里克·肖邦，波兰作曲家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "著名音乐家姓名"
+  },
+  {
+    "item_code": "w_029805",
+    "content": "fu",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写残片价值低"
+  },
+  {
+    "item_code": "w_029811",
+    "content": "fudge brownie",
+    "meaning_zh": "软心巧克力布朗尼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见甜点名称"
+  },
+  {
+    "item_code": "w_029816",
+    "content": "fuel filing",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常疑似噪声"
+  },
+  {
+    "item_code": "w_029818",
+    "content": "fuel pricing mechanism",
+    "meaning_zh": "燃油定价机制",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济政策常用表达"
+  },
+  {
+    "item_code": "w_029819",
+    "content": "fuel pricing scheme",
+    "meaning_zh": "燃油定价方案",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济政策常用表达"
+  },
+  {
+    "item_code": "w_029821",
+    "content": "fuel the efficiency mind-set",
+    "meaning_zh": "强化效率思维",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按整体搭配释义"
+  },
+  {
+    "item_code": "w_029827",
+    "content": "fugitive trapper",
+    "meaning_zh": "逃亡的捕兽者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "字面名词短语"
+  },
+  {
+    "item_code": "w_029834",
+    "content": "fulfill a design",
+    "meaning_zh": "实现设计方案",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_029835",
+    "content": "fulfill immediate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不完整"
+  },
+  {
+    "item_code": "w_029836",
+    "content": "fulfill one's pledge",
+    "meaning_zh": "履行承诺",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动宾搭配"
+  },
+  {
+    "item_code": "w_029837",
+    "content": "fulfill one's potential",
+    "meaning_zh": "发挥自己的潜力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习表达"
+  },
+  {
+    "item_code": "w_029839",
+    "content": "fulfill one's social responsibilities",
+    "meaning_zh": "履行社会责任",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见写作搭配"
+  },
+  {
+    "item_code": "w_029840",
+    "content": "fulfill the requirements",
+    "meaning_zh": "满足要求；符合要求",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_029849",
+    "content": "full bodied resuscitate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不通顺"
+  },
+  {
+    "item_code": "w_029854",
+    "content": "full literacy",
+    "meaning_zh": "完全识字能力；全面读写能力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "教育语境表达"
+  },
+  {
+    "item_code": "w_029857",
+    "content": "full of imagination",
+    "meaning_zh": "充满想象力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词短语"
+  }
+]

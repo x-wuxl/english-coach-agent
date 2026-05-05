@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_020635",
+    "content": "differ from ... in",
+    "meaning_zh": "在……方面不同于……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_020640",
+    "content": "different cultures and styles",
+    "meaning_zh": "不同的文化和风格",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_020642",
+    "content": "different habits",
+    "meaning_zh": "不同的习惯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_020644",
+    "content": "different profuse",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常疑似噪声"
+  },
+  {
+    "item_code": "w_020645",
+    "content": "different shape",
+    "meaning_zh": "不同的形状",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_020647",
+    "content": "different-sized",
+    "meaning_zh": "大小不同的；不同尺寸的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_020656",
+    "content": "differentiate with ...",
+    "meaning_zh": "用……区分",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配含义可推断"
+  },
+  {
+    "item_code": "w_020668",
+    "content": "diffident badinage",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配疑似噪声"
+  },
+  {
+    "item_code": "w_020684",
+    "content": "difthong",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "拼写错误疑似噪声"
+  },
+  {
+    "item_code": "w_020686",
+    "content": "dig a trench",
+    "meaning_zh": "挖沟；挖壕沟",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_020698",
+    "content": "digestive duct",
+    "meaning_zh": "消化道",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "生物术语"
+  },
+  {
+    "item_code": "w_020701",
+    "content": "digestive problems",
+    "meaning_zh": "消化问题；消化系统疾病",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见健康表达"
+  },
+  {
+    "item_code": "w_020708",
+    "content": "Digital Advertising Alliance",
+    "meaning_zh": "数字广告联盟",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "组织专有名词"
+  },
+  {
+    "item_code": "w_020718",
+    "content": "digital loudspeaker",
+    "meaning_zh": "数字扬声器",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术名词短语"
+  },
+  {
+    "item_code": "w_020719",
+    "content": "digital ornament",
+    "meaning_zh": "数字装饰物；数字饰品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义依语境略变"
+  },
+  {
+    "item_code": "w_020725",
+    "content": "digital Silk Road",
+    "meaning_zh": "数字丝绸之路",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策术语"
+  },
+  {
+    "item_code": "w_020728",
+    "content": "digital technologies",
+    "meaning_zh": "数字技术",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见科技表达"
+  },
+  {
+    "item_code": "w_020757",
+    "content": "digression vigilance",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配疑似噪声"
+  },
+  {
+    "item_code": "w_020761",
+    "content": "dihydrofolic",
+    "meaning_zh": "二氢叶酸的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "生化术语"
+  },
+  {
+    "item_code": "w_020764",
+    "content": "dihydropyrimidine",
+    "meaning_zh": "二氢嘧啶",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "化学术语"
+  }
+]

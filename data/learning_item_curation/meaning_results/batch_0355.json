@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_033711",
+    "content": "have a get-together",
+    "meaning_zh": "举行聚会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配，整体释义"
+  },
+  {
+    "item_code": "w_033713",
+    "content": "have a glass jaw",
+    "meaning_zh": "不堪一击；抗打击能力差",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语，指脆弱易受挫"
+  },
+  {
+    "item_code": "w_033714",
+    "content": "have a glimpse of",
+    "meaning_zh": "瞥见；看一眼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_033719",
+    "content": "have a good figure",
+    "meaning_zh": "身材好",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见外貌表达"
+  },
+  {
+    "item_code": "w_033720",
+    "content": "have a good foundation",
+    "meaning_zh": "有良好基础",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学习场景常用搭配"
+  },
+  {
+    "item_code": "w_033723",
+    "content": "have a good talk",
+    "meaning_zh": "好好谈一谈",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础口语搭配"
+  },
+  {
+    "item_code": "w_033727",
+    "content": "have a grasp on",
+    "meaning_zh": "掌握；理解",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术场景常用搭配"
+  },
+  {
+    "item_code": "w_033728",
+    "content": "have a great stay",
+    "meaning_zh": "住得愉快",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅行住宿常用表达"
+  },
+  {
+    "item_code": "w_033730",
+    "content": "have a great weekend",
+    "meaning_zh": "周末愉快",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见祝福语"
+  },
+  {
+    "item_code": "w_033734",
+    "content": "have a hard day",
+    "meaning_zh": "度过艰难的一天",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "日常口语表达"
+  },
+  {
+    "item_code": "w_033740",
+    "content": "have a heart-to-heart talk",
+    "meaning_zh": "坦诚交谈；谈心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达，指谈心"
+  },
+  {
+    "item_code": "w_033742",
+    "content": "have a knowledge of",
+    "meaning_zh": "了解；掌握",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "正式搭配，指具备知识"
+  },
+  {
+    "item_code": "w_033745",
+    "content": "have a link with",
+    "meaning_zh": "与……有联系",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见关系表达"
+  },
+  {
+    "item_code": "w_033746",
+    "content": "have a little think",
+    "meaning_zh": "稍微想一想",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "英式口语常用表达"
+  },
+  {
+    "item_code": "w_033748",
+    "content": "have a look around",
+    "meaning_zh": "四处看看；参观一下",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "日常口语搭配"
+  },
+  {
+    "item_code": "w_033750",
+    "content": "have a lot going",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "短语不完整，难判断"
+  },
+  {
+    "item_code": "w_033753",
+    "content": "have a monopoly over",
+    "meaning_zh": "垄断；独占",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济类常见搭配"
+  },
+  {
+    "item_code": "w_033756",
+    "content": "have a narrow margin",
+    "meaning_zh": "差距很小；优势微弱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "比赛选举常用表达"
+  },
+  {
+    "item_code": "w_033757",
+    "content": "have a near miss",
+    "meaning_zh": "差点出事故；侥幸避开",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达，指险情"
+  },
+  {
+    "item_code": "w_033760",
+    "content": "have a pick-me-up",
+    "meaning_zh": "喝提神饮品；用提神物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "口语中指提神物"
+  }
+]

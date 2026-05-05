@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_050123",
+    "content": "nocturnal creature",
+    "meaning_zh": "夜行动物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生物类搭配"
+  },
+  {
+    "item_code": "w_050124",
+    "content": "nocturnal gratuitous disengage",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配"
+  },
+  {
+    "item_code": "w_050125",
+    "content": "nocturnal incline nausea",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_050134",
+    "content": "nodescript",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准词形"
+  },
+  {
+    "item_code": "w_050138",
+    "content": "nodule insoluble banner",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配"
+  },
+  {
+    "item_code": "w_050144",
+    "content": "noise of air-conditioners",
+    "meaning_zh": "空调噪音",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活场景表达"
+  },
+  {
+    "item_code": "w_050151",
+    "content": "noisom",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_050152",
+    "content": "noisom vestige chase",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_050155",
+    "content": "noisy community",
+    "meaning_zh": "嘈杂的社区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见环境描述"
+  },
+  {
+    "item_code": "w_050156",
+    "content": "noisy quiet",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词义矛盾噪声"
+  },
+  {
+    "item_code": "w_050159",
+    "content": "nomad banish",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配"
+  },
+  {
+    "item_code": "w_050161",
+    "content": "nomadic tribe",
+    "meaning_zh": "游牧部落",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见人类学搭配"
+  },
+  {
+    "item_code": "w_050173",
+    "content": "nominate flexibility",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配"
+  },
+  {
+    "item_code": "w_050179",
+    "content": "non alcoholic milkshake cola",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串非固定表达"
+  },
+  {
+    "item_code": "w_050181",
+    "content": "non plus dace",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_050187",
+    "content": "non-alcoholic drink",
+    "meaning_zh": "非酒精饮料",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见饮品表达"
+  },
+  {
+    "item_code": "w_050188",
+    "content": "non-cash payment instruments",
+    "meaning_zh": "非现金支付工具",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融支付术语"
+  },
+  {
+    "item_code": "w_050192",
+    "content": "non-commercial activities",
+    "meaning_zh": "非商业活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常见表达"
+  },
+  {
+    "item_code": "w_050198",
+    "content": "non-damaging earthquake",
+    "meaning_zh": "未造成破坏的地震",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "地震影响描述"
+  },
+  {
+    "item_code": "w_050200",
+    "content": "non-drug treatment",
+    "meaning_zh": "非药物治疗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学常见表达"
+  }
+]

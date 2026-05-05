@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_073302",
+    "content": "term project",
+    "meaning_zh": "学期项目；课程项目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_073303",
+    "content": "term rent",
+    "meaning_zh": "租期租金；定期租金",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "租赁场景搭配"
+  },
+  {
+    "item_code": "w_073316",
+    "content": "terminology intersection",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配生硬无例句"
+  },
+  {
+    "item_code": "w_073328",
+    "content": "Terra Cotta Warrior",
+    "meaning_zh": "兵马俑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有文化名词"
+  },
+  {
+    "item_code": "w_073337",
+    "content": "terraceur",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似外来生僻词"
+  },
+  {
+    "item_code": "w_073346",
+    "content": "terrestrial evolution",
+    "meaning_zh": "陆地生物进化；陆生演化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常见搭配"
+  },
+  {
+    "item_code": "w_073350",
+    "content": "terrestrial mammal",
+    "meaning_zh": "陆生哺乳动物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生物学搭配"
+  },
+  {
+    "item_code": "w_073351",
+    "content": "terrestrial paradise",
+    "meaning_zh": "人间天堂；尘世乐园",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_073353",
+    "content": "terrestrial plants",
+    "meaning_zh": "陆生植物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生物学搭配"
+  },
+  {
+    "item_code": "w_073355",
+    "content": "terrible tasty",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配错误无例句"
+  },
+  {
+    "item_code": "w_073357",
+    "content": "terribly popular",
+    "meaning_zh": "非常受欢迎",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "副词修饰搭配"
+  },
+  {
+    "item_code": "w_073367",
+    "content": "territorial animal",
+    "meaning_zh": "有领地意识的动物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动物行为搭配"
+  },
+  {
+    "item_code": "w_073369",
+    "content": "territorial coordinates",
+    "meaning_zh": "领土坐标；地域坐标",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "地理语境搭配"
+  },
+  {
+    "item_code": "w_073375",
+    "content": "territory humiliate carbonate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌噪声"
+  },
+  {
+    "item_code": "w_073377",
+    "content": "terror disintegrate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_073378",
+    "content": "terror horror panic",
+    "meaning_zh": "恐惧；惊恐；恐慌",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "近义词堆砌"
+  },
+  {
+    "item_code": "w_073385",
+    "content": "Terry Wohlers",
+    "meaning_zh": "特里·沃勒斯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "人名专有名词"
+  },
+  {
+    "item_code": "w_073387",
+    "content": "terse anachronistic",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "形容词堆砌"
+  },
+  {
+    "item_code": "w_073401",
+    "content": "Tess of d'Urbevilles",
+    "meaning_zh": "《德伯家的苔丝》",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文学作品名"
+  },
+  {
+    "item_code": "w_073408",
+    "content": "test screening",
+    "meaning_zh": "测试筛查；试映",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "需语境区分"
+  }
+]

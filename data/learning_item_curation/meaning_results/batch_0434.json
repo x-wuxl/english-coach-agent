@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_041413",
+    "content": "ken lash",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词组"
+  },
+  {
+    "item_code": "w_041433",
+    "content": "kermajin",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_041440",
+    "content": "kertale",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_041450",
+    "content": "kettle set",
+    "meaning_zh": "水壶套装",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活用品搭配"
+  },
+  {
+    "item_code": "w_041456",
+    "content": "key function",
+    "meaning_zh": "键函数；关键函数",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_041463",
+    "content": "key schools",
+    "meaning_zh": "重点学校",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定教育表达"
+  },
+  {
+    "item_code": "w_041469",
+    "content": "key-value pair",
+    "meaning_zh": "键值对",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机基础术语"
+  },
+  {
+    "item_code": "w_041475",
+    "content": "keyed",
+    "meaning_zh": "带键的；用键标识的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "计算机语境判断"
+  },
+  {
+    "item_code": "w_041482",
+    "content": "keyset",
+    "meaning_zh": "键集合",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_041486",
+    "content": "keyword argument",
+    "meaning_zh": "关键字参数",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程常用术语"
+  },
+  {
+    "item_code": "w_041488",
+    "content": "keyword-only",
+    "meaning_zh": "仅限关键字的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程参数术语"
+  },
+  {
+    "item_code": "w_041498",
+    "content": "kick into gear",
+    "meaning_zh": "开始运转；进入状态",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定短语"
+  },
+  {
+    "item_code": "w_041499",
+    "content": "kick off with ...",
+    "meaning_zh": "以……开始",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语搭配"
+  },
+  {
+    "item_code": "w_041500",
+    "content": "kick one's bad habit",
+    "meaning_zh": "戒掉坏习惯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "按整体含义解释"
+  },
+  {
+    "item_code": "w_041503",
+    "content": "kick sth. around",
+    "meaning_zh": "讨论某事；随意考虑某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词"
+  },
+  {
+    "item_code": "w_041519",
+    "content": "kidnap off beat flush",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声组合"
+  },
+  {
+    "item_code": "w_041524",
+    "content": "kidney lobster",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词组"
+  },
+  {
+    "item_code": "w_041530",
+    "content": "Killeen",
+    "meaning_zh": "基林",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有名词地名"
+  },
+  {
+    "item_code": "w_041532",
+    "content": "killer tornado",
+    "meaning_zh": "致命龙卷风",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "自然灾害搭配"
+  },
+  {
+    "item_code": "w_041535",
+    "content": "killing game",
+    "meaning_zh": "杀人游戏；致命游戏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按常见搭配判断"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_051405",
+    "content": "Old Continent",
+    "meaning_zh": "旧大陆（欧洲）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达指欧洲"
+  },
+  {
+    "item_code": "w_051406",
+    "content": "old fashioned",
+    "meaning_zh": "过时的；老派的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词短语"
+  },
+  {
+    "item_code": "w_051407",
+    "content": "old generations",
+    "meaning_zh": "老一辈人；上一代人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解但不典型"
+  },
+  {
+    "item_code": "w_051411",
+    "content": "old people's home",
+    "meaning_zh": "养老院；老人院",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活短语"
+  },
+  {
+    "item_code": "w_051416",
+    "content": "old-for-new policy",
+    "meaning_zh": "以旧换新政策",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策类固定说法"
+  },
+  {
+    "item_code": "w_051437",
+    "content": "olfactory nasal mucosa",
+    "meaning_zh": "嗅觉鼻黏膜",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "解剖学术语"
+  },
+  {
+    "item_code": "w_051442",
+    "content": "oligoasthenoteratospermia",
+    "meaning_zh": "少弱畸形精子症",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学术语"
+  },
+  {
+    "item_code": "w_051462",
+    "content": "Oliver Blackstone",
+    "meaning_zh": "奥利弗·布莱克斯通",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "人名音译"
+  },
+  {
+    "item_code": "w_051471",
+    "content": "Olympic Gold Medal",
+    "meaning_zh": "奥运金牌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "体育常见短语"
+  },
+  {
+    "item_code": "w_051472",
+    "content": "Olympic merchandise",
+    "meaning_zh": "奥运商品；奥运周边",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商业表达"
+  },
+  {
+    "item_code": "w_051473",
+    "content": "olympic penalty",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不可靠"
+  },
+  {
+    "item_code": "w_051478",
+    "content": "Olympic-sized swimming pool",
+    "meaning_zh": "奥运规格游泳池；标准比赛泳池",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "规格类固定搭配"
+  },
+  {
+    "item_code": "w_051479",
+    "content": "Olympic-standard",
+    "meaning_zh": "奥运标准的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见复合形容词"
+  },
+  {
+    "item_code": "w_051485",
+    "content": "omelete",
+    "meaning_zh": "煎蛋卷；欧姆蛋",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为omelette拼写变体"
+  },
+  {
+    "item_code": "w_051493",
+    "content": "ominous proliferate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无明确含义"
+  },
+  {
+    "item_code": "w_051494",
+    "content": "ominous readily",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无明确含义"
+  },
+  {
+    "item_code": "w_051498",
+    "content": "omit doing",
+    "meaning_zh": "省略做某事；未做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词用法搭配"
+  },
+  {
+    "item_code": "w_051499",
+    "content": "omit jealous outlet",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声拼接"
+  },
+  {
+    "item_code": "w_051504",
+    "content": "omni-vator",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断含义"
+  },
+  {
+    "item_code": "w_051516",
+    "content": "on ... grounds",
+    "meaning_zh": "以……为理由；基于……原因",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词短语"
+  }
+]

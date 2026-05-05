@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_031107",
+    "content": "get their pension",
+    "meaning_zh": "领取他们的养老金",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_031113",
+    "content": "get time for ...",
+    "meaning_zh": "抽出时间做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配含义明确"
+  },
+  {
+    "item_code": "w_031114",
+    "content": "get time off",
+    "meaning_zh": "获得休假；请到假",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见休假表达"
+  },
+  {
+    "item_code": "w_031115",
+    "content": "get tired doing sth.",
+    "meaning_zh": "做某事感到累",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "结构含义明确"
+  },
+  {
+    "item_code": "w_031119",
+    "content": "get to ... early",
+    "meaning_zh": "提早到达某地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "到达类短语"
+  },
+  {
+    "item_code": "w_031127",
+    "content": "get to school",
+    "meaning_zh": "到校；去上学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持去学校"
+  },
+  {
+    "item_code": "w_031130",
+    "content": "get total relaxation",
+    "meaning_zh": "得到彻底放松",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动宾搭配清楚"
+  },
+  {
+    "item_code": "w_031137",
+    "content": "get up enough nerve",
+    "meaning_zh": "鼓起足够的勇气",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语搭配"
+  },
+  {
+    "item_code": "w_031138",
+    "content": "get up one's nose",
+    "meaning_zh": "惹恼某人；使某人厌烦",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "英式习语"
+  },
+  {
+    "item_code": "w_031141",
+    "content": "get used to doing",
+    "meaning_zh": "习惯于做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常考固定搭配"
+  },
+  {
+    "item_code": "w_031144",
+    "content": "get what for",
+    "meaning_zh": "挨骂；受严厉责备",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "口语习语较少见"
+  },
+  {
+    "item_code": "w_031162",
+    "content": "ghosh",
+    "meaning_zh": "戈什（姓氏）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "多作人名姓氏"
+  },
+  {
+    "item_code": "w_031164",
+    "content": "ghost drivers",
+    "meaning_zh": "逆向行驶的司机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "交通术语"
+  },
+  {
+    "item_code": "w_031171",
+    "content": "GHz",
+    "meaning_zh": "吉赫；千兆赫兹",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机频率单位"
+  },
+  {
+    "item_code": "w_031174",
+    "content": "giant limestone blocks",
+    "meaning_zh": "巨大的石灰岩块",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "名词短语明确"
+  },
+  {
+    "item_code": "w_031186",
+    "content": "gibe nourish",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_031187",
+    "content": "gibe prerogative",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_031189",
+    "content": "giddy explicit lag bogus",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个散词拼接"
+  },
+  {
+    "item_code": "w_031190",
+    "content": "giddy interpret",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_031209",
+    "content": "GIL",
+    "meaning_zh": "全局解释器锁",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机缩写术语"
+  }
+]

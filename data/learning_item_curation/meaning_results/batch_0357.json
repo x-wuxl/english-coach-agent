@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_033808",
+    "content": "have a vivid understanding",
+    "meaning_zh": "有清晰生动的理解",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语搭配含义明确"
+  },
+  {
+    "item_code": "w_033814",
+    "content": "have a wonderful time",
+    "meaning_zh": "玩得很开心；过得愉快",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_033816",
+    "content": "have abundant energy",
+    "meaning_zh": "精力充沛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配含义明确"
+  },
+  {
+    "item_code": "w_033817",
+    "content": "have access",
+    "meaning_zh": "有使用权；有机会接触",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "高频学习搭配"
+  },
+  {
+    "item_code": "w_033824",
+    "content": "have an active life",
+    "meaning_zh": "过积极活跃的生活",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义直接"
+  },
+  {
+    "item_code": "w_033828",
+    "content": "have an argument",
+    "meaning_zh": "争吵；发生争论",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_033831",
+    "content": "have an encyclopedic knowledge",
+    "meaning_zh": "有广博的知识",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "搭配含义明确"
+  },
+  {
+    "item_code": "w_033841",
+    "content": "have an out",
+    "meaning_zh": "有脱身办法；有借口",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "口语表达需语境"
+  },
+  {
+    "item_code": "w_033842",
+    "content": "have an overdraft",
+    "meaning_zh": "账户透支；有透支额度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融搭配明确"
+  },
+  {
+    "item_code": "w_033843",
+    "content": "have an urge to",
+    "meaning_zh": "有冲动想要；渴望",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_033846",
+    "content": "have any breath left",
+    "meaning_zh": "还有气；还有力气",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "需具体语境"
+  },
+  {
+    "item_code": "w_033847",
+    "content": "have anything on",
+    "meaning_zh": "有事；有安排",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "口语义需语境"
+  },
+  {
+    "item_code": "w_033849",
+    "content": "have attraction for",
+    "meaning_zh": "对……有吸引力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配略不完整"
+  },
+  {
+    "item_code": "w_033852",
+    "content": "have back at sb.",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准搭配疑似错误"
+  },
+  {
+    "item_code": "w_033855",
+    "content": "have changed dramatically",
+    "meaning_zh": "发生了巨大变化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达含义明确"
+  },
+  {
+    "item_code": "w_033867",
+    "content": "have desire to do",
+    "meaning_zh": "有做某事的愿望",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缺冠词但可理解"
+  },
+  {
+    "item_code": "w_033870",
+    "content": "have difficulty doing sth.",
+    "meaning_zh": "做某事有困难",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定句型"
+  },
+  {
+    "item_code": "w_033874",
+    "content": "have dinner out",
+    "meaning_zh": "外出吃晚饭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_033875",
+    "content": "have dinner together",
+    "meaning_zh": "一起吃晚饭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持释义"
+  },
+  {
+    "item_code": "w_033876",
+    "content": "have dinner with sb.",
+    "meaning_zh": "和某人一起吃晚饭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语搭配"
+  }
+]

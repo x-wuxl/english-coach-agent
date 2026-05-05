@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_010755",
+    "content": "broaden one's vision",
+    "meaning_zh": "开阔视野",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_010756",
+    "content": "broaden our eyesight",
+    "meaning_zh": "开阔我们的视野",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配不够自然"
+  },
+  {
+    "item_code": "w_010757",
+    "content": "broaden our minds",
+    "meaning_zh": "开阔我们的思维",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_010758",
+    "content": "broadened street",
+    "meaning_zh": "加宽的街道",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容词短语"
+  },
+  {
+    "item_code": "w_010771",
+    "content": "broché",
+    "meaning_zh": "织锦的；平装的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "法语借词较少见"
+  },
+  {
+    "item_code": "w_010774",
+    "content": "broil steak",
+    "meaning_zh": "烤牛排",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动宾搭配"
+  },
+  {
+    "item_code": "w_010775",
+    "content": "broiled fish",
+    "meaning_zh": "烤鱼；炙烤的鱼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "食物表达"
+  },
+  {
+    "item_code": "w_010780",
+    "content": "broken or corroded wire",
+    "meaning_zh": "断裂或腐蚀的电线",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "描述性短语"
+  },
+  {
+    "item_code": "w_010786",
+    "content": "bromeo",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "罕见俚语难判断"
+  },
+  {
+    "item_code": "w_010814",
+    "content": "bronze drab",
+    "meaning_zh": "暗铜褐色",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "颜色术语"
+  },
+  {
+    "item_code": "w_010816",
+    "content": "bronze or copper",
+    "meaning_zh": "青铜或铜",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "并列名词短语"
+  },
+  {
+    "item_code": "w_010827",
+    "content": "brook accomplish herald",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌无明确义"
+  },
+  {
+    "item_code": "w_010839",
+    "content": "brow beat emaciate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌疑似噪声"
+  },
+  {
+    "item_code": "w_010842",
+    "content": "brown capuchin",
+    "meaning_zh": "棕色卷尾猴",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "物种名称"
+  },
+  {
+    "item_code": "w_010847",
+    "content": "brown-paper envelope",
+    "meaning_zh": "牛皮纸信封",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_010853",
+    "content": "brows",
+    "meaning_zh": "眉毛；额头",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指眉毛"
+  },
+  {
+    "item_code": "w_010856",
+    "content": "Bruce",
+    "meaning_zh": "布鲁斯",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人名或姓氏"
+  },
+  {
+    "item_code": "w_010860",
+    "content": "brugality",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_010876",
+    "content": "brush one's teeth",
+    "meaning_zh": "刷牙",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "日常固定表达"
+  },
+  {
+    "item_code": "w_010879",
+    "content": "brush up lessons",
+    "meaning_zh": "复习功课",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动宾短语"
+  }
+]

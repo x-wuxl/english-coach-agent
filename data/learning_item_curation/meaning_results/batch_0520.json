@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_050533",
+    "content": "not be far behind",
+    "meaning_zh": "不会落后太多；紧随其后",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_050534",
+    "content": "not believe one's eyes",
+    "meaning_zh": "不敢相信自己的眼睛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_050541",
+    "content": "not far behind",
+    "meaning_zh": "落后不多；紧随其后",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语"
+  },
+  {
+    "item_code": "w_050542",
+    "content": "not feel oneself",
+    "meaning_zh": "感觉不舒服；觉得状态不对",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语表达"
+  },
+  {
+    "item_code": "w_050543",
+    "content": "not flowing",
+    "meaning_zh": "不流动的；不顺畅的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "形容词短语"
+  },
+  {
+    "item_code": "w_050545",
+    "content": "not for circulation",
+    "meaning_zh": "不供传阅；不公开发行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文件标注常用语"
+  },
+  {
+    "item_code": "w_050548",
+    "content": "not in all conscience",
+    "meaning_zh": "凭良心实在不能",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "道德判断表达"
+  },
+  {
+    "item_code": "w_050549",
+    "content": "not in good conscience",
+    "meaning_zh": "凭良心不能；问心有愧地不能",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_050554",
+    "content": "not least of all",
+    "meaning_zh": "尤其是；特别是",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "强调表达"
+  },
+  {
+    "item_code": "w_050555",
+    "content": "not let rip",
+    "meaning_zh": "不放手去做；不尽情发泄",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "否定习语"
+  },
+  {
+    "item_code": "w_050557",
+    "content": "not likely to",
+    "meaning_zh": "不太可能；不会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句一致"
+  },
+  {
+    "item_code": "w_050563",
+    "content": "not one's type",
+    "meaning_zh": "不是某人喜欢的类型",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见口语"
+  },
+  {
+    "item_code": "w_050564",
+    "content": "not only",
+    "meaning_zh": "不仅；不但",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句一致"
+  },
+  {
+    "item_code": "w_050565",
+    "content": "not only ... but",
+    "meaning_zh": "不仅……而且……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型"
+  },
+  {
+    "item_code": "w_050566",
+    "content": "not qualified",
+    "meaning_zh": "不合格的；不胜任的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句一致"
+  },
+  {
+    "item_code": "w_050568",
+    "content": "not snail spider",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声"
+  },
+  {
+    "item_code": "w_050571",
+    "content": "not surprisingly",
+    "meaning_zh": "并不奇怪；不出所料",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见副词短语"
+  },
+  {
+    "item_code": "w_050574",
+    "content": "not till",
+    "meaning_zh": "直到……才",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定结构"
+  },
+  {
+    "item_code": "w_050576",
+    "content": "not to mention infuriating",
+    "meaning_zh": "更不用说令人恼火了",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "整体短语含义"
+  },
+  {
+    "item_code": "w_050579",
+    "content": "not usually",
+    "meaning_zh": "通常不；不常",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见副词短语"
+  }
+]

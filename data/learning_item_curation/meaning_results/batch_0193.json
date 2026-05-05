@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_017857",
+    "content": "credence imperious",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配疑似噪声"
+  },
+  {
+    "item_code": "w_017863",
+    "content": "credible packing",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配疑似噪声"
+  },
+  {
+    "item_code": "w_017865",
+    "content": "credit ... to",
+    "meaning_zh": "把……归功于；把……归因于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_017867",
+    "content": "credit association",
+    "meaning_zh": "信贷协会；信用合作社",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "金融机构搭配"
+  },
+  {
+    "item_code": "w_017869",
+    "content": "credit blacklist system",
+    "meaning_zh": "信用黑名单制度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会信用术语"
+  },
+  {
+    "item_code": "w_017877",
+    "content": "credit extol",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配疑似噪声"
+  },
+  {
+    "item_code": "w_017882",
+    "content": "credit point",
+    "meaning_zh": "学分点；学分",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育领域常用术语"
+  },
+  {
+    "item_code": "w_017886",
+    "content": "credit someone with",
+    "meaning_zh": "认为某人有；把……归功于某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_017893",
+    "content": "credit-card accounts",
+    "meaning_zh": "信用卡账户",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见金融表达"
+  },
+  {
+    "item_code": "w_017905",
+    "content": "creed destruction",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配疑似噪声"
+  },
+  {
+    "item_code": "w_017911",
+    "content": "creep out from ...",
+    "meaning_zh": "从……悄悄爬出；从……缓慢出现",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语结构"
+  },
+  {
+    "item_code": "w_017936",
+    "content": "crest collude",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配疑似噪声"
+  },
+  {
+    "item_code": "w_017948",
+    "content": "crews",
+    "meaning_zh": "全体船员；全体机组人员；工作队",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "crew复数形式"
+  },
+  {
+    "item_code": "w_017973",
+    "content": "cripple feast",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配疑似噪声"
+  },
+  {
+    "item_code": "w_017979",
+    "content": "crisp perplex",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配疑似噪声"
+  },
+  {
+    "item_code": "w_017988",
+    "content": "criterion configuration",
+    "meaning_zh": "标准配置；准则配置",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术语境可成立"
+  },
+  {
+    "item_code": "w_017989",
+    "content": "criterion minibus",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配疑似噪声"
+  },
+  {
+    "item_code": "w_017991",
+    "content": "critic diplomacy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配疑似噪声"
+  },
+  {
+    "item_code": "w_017994",
+    "content": "critical approach",
+    "meaning_zh": "批判性方法；评论方法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常用表达"
+  },
+  {
+    "item_code": "w_017995",
+    "content": "critical mind",
+    "meaning_zh": "批判性思维；批判头脑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习表达"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_001250",
+    "content": "aceptic choke tertian",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_001272",
+    "content": "aches and pains",
+    "meaning_zh": "各种小病痛；身体酸痛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_001275",
+    "content": "achieve achievement",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词形堆叠噪声"
+  },
+  {
+    "item_code": "w_001276",
+    "content": "achieve further success",
+    "meaning_zh": "取得更大成功",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_001277",
+    "content": "achieve itemize prejudice",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无意义词组噪声"
+  },
+  {
+    "item_code": "w_001278",
+    "content": "achieve longevity or immortality",
+    "meaning_zh": "获得长寿或永生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "整体含义明确"
+  },
+  {
+    "item_code": "w_001279",
+    "content": "achieve objectives",
+    "meaning_zh": "实现目标",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_001280",
+    "content": "achieve one's aim",
+    "meaning_zh": "实现某人的目标",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_001281",
+    "content": "achieve one's dream",
+    "meaning_zh": "实现某人的梦想",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_001282",
+    "content": "achieve one's dreams",
+    "meaning_zh": "实现某人的梦想",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_001283",
+    "content": "achieve one's ideal",
+    "meaning_zh": "实现某人的理想",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_001284",
+    "content": "achieve personal best",
+    "meaning_zh": "取得个人最好成绩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "体育学习常用语"
+  },
+  {
+    "item_code": "w_001286",
+    "content": "achieved",
+    "meaning_zh": "实现；达到；取得",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义一致"
+  },
+  {
+    "item_code": "w_001288",
+    "content": "achievement-based system",
+    "meaning_zh": "基于成就的制度；按成绩评定的体系",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "复合短语含义明确"
+  },
+  {
+    "item_code": "w_001289",
+    "content": "achievements",
+    "meaning_zh": "成就；成绩",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义一致"
+  },
+  {
+    "item_code": "w_001290",
+    "content": "achievements of art",
+    "meaning_zh": "艺术成就",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_001321",
+    "content": "acinebacter",
+    "meaning_zh": "不动杆菌",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为专业术语"
+  },
+  {
+    "item_code": "w_001326",
+    "content": "acknowledge interregnum repartee",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无意义词组噪声"
+  },
+  {
+    "item_code": "w_001330",
+    "content": "acknowlege",
+    "meaning_zh": "承认；认可；告知收到",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为acknowledge拼写错误"
+  },
+  {
+    "item_code": "w_001341",
+    "content": "acoustic faculty",
+    "meaning_zh": "听觉能力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可判断"
+  }
+]

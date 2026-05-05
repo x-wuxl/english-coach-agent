@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_025714",
+    "content": "exceed viscous glaze",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常疑似噪声"
+  },
+  {
+    "item_code": "w_025720",
+    "content": "excel sb. in knowledge",
+    "meaning_zh": "在知识方面胜过某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词搭配"
+  },
+  {
+    "item_code": "w_025724",
+    "content": "excellent articles",
+    "meaning_zh": "优秀文章",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_025725",
+    "content": "excellent graduate",
+    "meaning_zh": "优秀毕业生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见荣誉称谓"
+  },
+  {
+    "item_code": "w_025726",
+    "content": "excellent League member",
+    "meaning_zh": "优秀团员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见荣誉称谓"
+  },
+  {
+    "item_code": "w_025727",
+    "content": "excellent opportunity",
+    "meaning_zh": "绝佳机会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_025728",
+    "content": "excellent Party member",
+    "meaning_zh": "优秀党员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见荣誉称谓"
+  },
+  {
+    "item_code": "w_025729",
+    "content": "excellent pasture",
+    "meaning_zh": "优良牧场；肥美牧草地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "农业场景搭配"
+  },
+  {
+    "item_code": "w_025730",
+    "content": "excellent staff",
+    "meaning_zh": "优秀员工；优秀工作人员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职场表达"
+  },
+  {
+    "item_code": "w_025738",
+    "content": "exception to the norm",
+    "meaning_zh": "常规之外的例外",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_025742",
+    "content": "exceptional dingy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常疑似噪声"
+  },
+  {
+    "item_code": "w_025750",
+    "content": "excess industrial capacity",
+    "meaning_zh": "工业产能过剩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济术语搭配"
+  },
+  {
+    "item_code": "w_025751",
+    "content": "excess labor",
+    "meaning_zh": "过剩劳动力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济术语搭配"
+  },
+  {
+    "item_code": "w_025753",
+    "content": "excess manufacturing capacity",
+    "meaning_zh": "制造业产能过剩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济术语搭配"
+  },
+  {
+    "item_code": "w_025754",
+    "content": "excess sedimentation",
+    "meaning_zh": "过度沉积；沉积物过多",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环境科学搭配"
+  },
+  {
+    "item_code": "w_025756",
+    "content": "excessive amount of fishing",
+    "meaning_zh": "过度捕捞",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略生硬但可判断"
+  },
+  {
+    "item_code": "w_025758",
+    "content": "excessive defense",
+    "meaning_zh": "防卫过当",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律常用表达"
+  },
+  {
+    "item_code": "w_025759",
+    "content": "excessive display",
+    "meaning_zh": "过度展示；过度炫耀",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义依语境略变"
+  },
+  {
+    "item_code": "w_025760",
+    "content": "excessive expectations",
+    "meaning_zh": "过高的期望",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_025762",
+    "content": "excessive harler",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  }
+]

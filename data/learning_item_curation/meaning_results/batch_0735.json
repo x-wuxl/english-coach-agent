@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_072401",
+    "content": "take sb.'s advice",
+    "meaning_zh": "采纳某人的建议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_072402",
+    "content": "take sb.'s breath away",
+    "meaning_zh": "使某人惊叹；使某人屏息",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见习语"
+  },
+  {
+    "item_code": "w_072403",
+    "content": "take sb.'s life",
+    "meaning_zh": "夺去某人的生命",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_072405",
+    "content": "take sb.'s temperature",
+    "meaning_zh": "给某人量体温",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_072406",
+    "content": "take sb.'s word",
+    "meaning_zh": "相信某人的话",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_072407",
+    "content": "take self-drive trips",
+    "meaning_zh": "自驾旅行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅游常用表达"
+  },
+  {
+    "item_code": "w_072414",
+    "content": "take some dishes",
+    "meaning_zh": "拿一些盘子；点几个菜",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "无例句语义较泛"
+  },
+  {
+    "item_code": "w_072416",
+    "content": "take somebody seriously",
+    "meaning_zh": "认真对待某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_072427",
+    "content": "take sth. back to",
+    "meaning_zh": "把某物带回到",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语结构"
+  },
+  {
+    "item_code": "w_072432",
+    "content": "take sth. inside",
+    "meaning_zh": "把某物拿进去",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动作表达"
+  },
+  {
+    "item_code": "w_072440",
+    "content": "take sth. personally",
+    "meaning_zh": "把某事往心里去；认为某事针对自己",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_072452",
+    "content": "take the brunt of",
+    "meaning_zh": "承受……的主要冲击",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见习语"
+  },
+  {
+    "item_code": "w_072455",
+    "content": "Take the challenge!",
+    "meaning_zh": "接受挑战！",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "祈使句表达"
+  },
+  {
+    "item_code": "w_072456",
+    "content": "take the choice of",
+    "meaning_zh": "选择",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_072459",
+    "content": "take the first right",
+    "meaning_zh": "在第一个路口右转",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "问路常用表达"
+  },
+  {
+    "item_code": "w_072463",
+    "content": "take the lion's share",
+    "meaning_zh": "占最大份额；拿走最大一份",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见习语"
+  },
+  {
+    "item_code": "w_072468",
+    "content": "take the plunge of",
+    "meaning_zh": "冒险开始做某事；下定决心做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常用为take the plunge"
+  },
+  {
+    "item_code": "w_072469",
+    "content": "take the post",
+    "meaning_zh": "就任；接受职位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职场常用表达"
+  },
+  {
+    "item_code": "w_072471",
+    "content": "take the risk of",
+    "meaning_zh": "冒……的风险",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_072472",
+    "content": "take the role of",
+    "meaning_zh": "扮演……的角色；承担……的职责",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  }
+]

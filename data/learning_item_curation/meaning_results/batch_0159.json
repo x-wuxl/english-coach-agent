@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_014459",
+    "content": "climactoric pomeostasis",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误且不可判"
+  },
+  {
+    "item_code": "w_014461",
+    "content": "climate agreement",
+    "meaning_zh": "气候协定",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见环保政治搭配"
+  },
+  {
+    "item_code": "w_014463",
+    "content": "climate warning",
+    "meaning_zh": "气候预警；气候警告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见气候话题搭配"
+  },
+  {
+    "item_code": "w_014473",
+    "content": "climb a hill",
+    "meaning_zh": "爬小山；爬山",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "小学常见动作短语"
+  },
+  {
+    "item_code": "w_014476",
+    "content": "climb pull drag",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "非固定搭配像词串"
+  },
+  {
+    "item_code": "w_014477",
+    "content": "climb the career ladder",
+    "meaning_zh": "在职场中晋升；事业步步高升",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定职场表达"
+  },
+  {
+    "item_code": "w_014478",
+    "content": "climb the mountain",
+    "meaning_zh": "爬山；登山",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持爬山含义"
+  },
+  {
+    "item_code": "w_014479",
+    "content": "climb trees",
+    "meaning_zh": "爬树",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句多次支持"
+  },
+  {
+    "item_code": "w_014481",
+    "content": "climbed a hill",
+    "meaning_zh": "爬了小山；爬过山",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "climb的过去式短语"
+  },
+  {
+    "item_code": "w_014489",
+    "content": "clinet",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似client拼写错误"
+  },
+  {
+    "item_code": "w_014492",
+    "content": "cling to something",
+    "meaning_zh": "紧紧抓住某物；固守某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_014497",
+    "content": "clinical consciousness constitution",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不自然不可判"
+  },
+  {
+    "item_code": "w_014498",
+    "content": "clinical reception",
+    "meaning_zh": "临床接待；门诊接待",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学场景搭配"
+  },
+  {
+    "item_code": "w_014505",
+    "content": "clink crack creek",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "非固定搭配像词串"
+  },
+  {
+    "item_code": "w_014508",
+    "content": "clip epilog",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不常见不可判"
+  },
+  {
+    "item_code": "w_014509",
+    "content": "clip necropsy segregation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "非固定搭配像词串"
+  },
+  {
+    "item_code": "w_014522",
+    "content": "cloak his exit",
+    "meaning_zh": "掩盖他的离开；遮掩他的退场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "cloak作动词表示掩盖"
+  },
+  {
+    "item_code": "w_014535",
+    "content": "clog procure",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "非固定搭配像词串"
+  },
+  {
+    "item_code": "w_014536",
+    "content": "cloisonné",
+    "meaning_zh": "景泰蓝；掐丝珐琅",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "工艺专有名词"
+  },
+  {
+    "item_code": "w_014561",
+    "content": "close shelves",
+    "meaning_zh": "封闭书架；闭架书库",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "图书馆场景术语"
+  }
+]

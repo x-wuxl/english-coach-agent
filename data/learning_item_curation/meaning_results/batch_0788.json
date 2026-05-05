@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_077097",
+    "content": "umbillicus exacerbate expiration",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无意义词串疑似噪声"
+  },
+  {
+    "item_code": "w_077115",
+    "content": "unacceptable conflict",
+    "meaning_zh": "不可接受的冲突",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词短语"
+  },
+  {
+    "item_code": "w_077126",
+    "content": "unaffordable prices of medicines",
+    "meaning_zh": "难以负担的药品价格",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见议论文表达"
+  },
+  {
+    "item_code": "w_077141",
+    "content": "unanimous intent",
+    "meaning_zh": "一致的意图；共同意向",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解但不常见"
+  },
+  {
+    "item_code": "w_077151",
+    "content": "unapproved construction projects",
+    "meaning_zh": "未经批准的建设项目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "正式语境常见搭配"
+  },
+  {
+    "item_code": "w_077159",
+    "content": "unassailable friction",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常疑似噪声"
+  },
+  {
+    "item_code": "w_077166",
+    "content": "unattractive pale",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "两个形容词堆叠成噪声"
+  },
+  {
+    "item_code": "w_077169",
+    "content": "unauthorized buildings",
+    "meaning_zh": "未经许可的建筑；违章建筑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见法律行政表达"
+  },
+  {
+    "item_code": "w_077170",
+    "content": "unauthorized transmission",
+    "meaning_zh": "未经授权的传输；擅自传播",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见技术法律搭配"
+  },
+  {
+    "item_code": "w_077173",
+    "content": "unavailing careless motivate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词性混杂疑似噪声"
+  },
+  {
+    "item_code": "w_077176",
+    "content": "unavoidable reproach",
+    "meaning_zh": "不可避免的责备；难免的指责",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义明确但搭配较少"
+  },
+  {
+    "item_code": "w_077206",
+    "content": "unbound method",
+    "meaning_zh": "未绑定方法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_077221",
+    "content": "uncanny demanding annex",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串无自然含义"
+  },
+  {
+    "item_code": "w_077230",
+    "content": "uncertain approval",
+    "meaning_zh": "不确定的批准；尚未确定的认可",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义可判但搭配一般"
+  },
+  {
+    "item_code": "w_077232",
+    "content": "uncertain source",
+    "meaning_zh": "来源不明；来源不确定",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见信息来源表达"
+  },
+  {
+    "item_code": "w_077255",
+    "content": "uncivilized barbarians",
+    "meaning_zh": "未开化的野蛮人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "含义明确的名词短语"
+  },
+  {
+    "item_code": "w_077258",
+    "content": "Uncle Booky",
+    "meaning_zh": "布奇叔叔",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教材人物专有名"
+  },
+  {
+    "item_code": "w_077262",
+    "content": "unclock",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似unlock拼写错误"
+  },
+  {
+    "item_code": "w_077285",
+    "content": "unconditional returns",
+    "meaning_zh": "无条件退货",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见购物服务表达"
+  },
+  {
+    "item_code": "w_077293",
+    "content": "unconscionable sales practices",
+    "meaning_zh": "不正当的销售行为；不道德的销售手段",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商业法律常见表达"
+  }
+]

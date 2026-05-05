@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_007773",
+    "content": "be on diet",
+    "meaning_zh": "节食；控制饮食",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "应为be on a diet"
+  },
+  {
+    "item_code": "w_007780",
+    "content": "be on medication",
+    "meaning_zh": "正在服药；接受药物治疗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见医疗表达"
+  },
+  {
+    "item_code": "w_007793",
+    "content": "be on the job",
+    "meaning_zh": "在工作；正在处理任务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_007804",
+    "content": "be opened to",
+    "meaning_zh": "对……开放；向……敞开",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "被动搭配较少见"
+  },
+  {
+    "item_code": "w_007810",
+    "content": "be originated from",
+    "meaning_zh": "起源于；来自",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常用originate from"
+  },
+  {
+    "item_code": "w_007820",
+    "content": "be out of favor",
+    "meaning_zh": "失宠；不再受欢迎",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_007830",
+    "content": "be out of service",
+    "meaning_zh": "停止服务；不能使用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见设备状态"
+  },
+  {
+    "item_code": "w_007834",
+    "content": "be out of temper",
+    "meaning_zh": "发脾气；生气",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达较旧但可理解"
+  },
+  {
+    "item_code": "w_007839",
+    "content": "be outstanding in",
+    "meaning_zh": "在……方面杰出；在……方面突出",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容词搭配"
+  },
+  {
+    "item_code": "w_007841",
+    "content": "be over careful",
+    "meaning_zh": "过分小心；过于谨慎",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常写作overcareful"
+  },
+  {
+    "item_code": "w_007842",
+    "content": "be overtaken by",
+    "meaning_zh": "被……超过；被……突然影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "被动搭配常见"
+  },
+  {
+    "item_code": "w_007843",
+    "content": "be overwhelmed with",
+    "meaning_zh": "被……压倒；因……不知所措",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见情绪搭配"
+  },
+  {
+    "item_code": "w_007845",
+    "content": "be paid back",
+    "meaning_zh": "被偿还；得到回报；遭到报复",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "pay back被动用法"
+  },
+  {
+    "item_code": "w_007853",
+    "content": "be passed down",
+    "meaning_zh": "被传下来；世代相传",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语被动式"
+  },
+  {
+    "item_code": "w_007854",
+    "content": "be passionate about",
+    "meaning_zh": "对……充满热情；热爱……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_007855",
+    "content": "be passive in ...",
+    "meaning_zh": "在……方面被动；对……消极",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容词搭配"
+  },
+  {
+    "item_code": "w_007860",
+    "content": "be peripheral to",
+    "meaning_zh": "对……次要；与……关系不大",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常见搭配"
+  },
+  {
+    "item_code": "w_007862",
+    "content": "be persuaded to do",
+    "meaning_zh": "被说服去做；经劝说后做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "被动搭配常见"
+  },
+  {
+    "item_code": "w_007863",
+    "content": "be pessimistic",
+    "meaning_zh": "悲观；持悲观态度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词表达"
+  },
+  {
+    "item_code": "w_007865",
+    "content": "be physically damaging",
+    "meaning_zh": "对身体有害；造成身体损伤",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容身体伤害"
+  }
+]

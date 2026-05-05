@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_075223",
+    "content": "toilet bathroom",
+    "meaning_zh": "厕所；浴室",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "相关词组合"
+  },
+  {
+    "item_code": "w_075225",
+    "content": "toilet revolution",
+    "meaning_zh": "厕所革命",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定政策表达"
+  },
+  {
+    "item_code": "w_075237",
+    "content": "tolerable to have adverts",
+    "meaning_zh": "有广告可以忍受",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配含义明确"
+  },
+  {
+    "item_code": "w_075242",
+    "content": "tolerate the bad service",
+    "meaning_zh": "忍受糟糕的服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动宾搭配明确"
+  },
+  {
+    "item_code": "w_075246",
+    "content": "toll eligible misery",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无可靠含义"
+  },
+  {
+    "item_code": "w_075253",
+    "content": "Tom Crean",
+    "meaning_zh": "汤姆·克林（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词"
+  },
+  {
+    "item_code": "w_075254",
+    "content": "Tom Orde-Lees",
+    "meaning_zh": "汤姆·奥德-利斯（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词"
+  },
+  {
+    "item_code": "w_075258",
+    "content": "tomato cucumber",
+    "meaning_zh": "番茄；黄瓜",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "食物词组合"
+  },
+  {
+    "item_code": "w_075263",
+    "content": "tomb for the living",
+    "meaning_zh": "活人的坟墓",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_075267",
+    "content": "tombstone wreath cameraman",
+    "meaning_zh": "墓碑；花圈；摄影师",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "零散词堆叠"
+  },
+  {
+    "item_code": "w_075311",
+    "content": "too monotonous",
+    "meaning_zh": "太单调",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "程度短语"
+  },
+  {
+    "item_code": "w_075314",
+    "content": "took a shower",
+    "meaning_zh": "洗了澡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  },
+  {
+    "item_code": "w_075315",
+    "content": "took photos",
+    "meaning_zh": "拍了照片",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用动宾短语"
+  },
+  {
+    "item_code": "w_075318",
+    "content": "tool currency",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无可靠含义"
+  },
+  {
+    "item_code": "w_075320",
+    "content": "toolbar",
+    "meaning_zh": "工具栏",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_075336",
+    "content": "toothpaste cut comb",
+    "meaning_zh": "牙膏；剪；梳子",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "零散词堆叠"
+  },
+  {
+    "item_code": "w_075338",
+    "content": "toothpick tweezers",
+    "meaning_zh": "牙签；镊子",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "生活用品词组"
+  },
+  {
+    "item_code": "w_075342",
+    "content": "top bank executives",
+    "meaning_zh": "银行高管",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "名词短语明确"
+  },
+  {
+    "item_code": "w_075353",
+    "content": "top talents",
+    "meaning_zh": "顶尖人才",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用搭配"
+  },
+  {
+    "item_code": "w_075355",
+    "content": "top three percent",
+    "meaning_zh": "前百分之三",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "比例短语明确"
+  }
+]

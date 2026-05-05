@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_038679",
+    "content": "inequality in educational opportunity",
+    "meaning_zh": "教育机会不平等",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教育议题短语"
+  },
+  {
+    "item_code": "w_038684",
+    "content": "inertia theory",
+    "meaning_zh": "惯性理论",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "理论术语"
+  },
+  {
+    "item_code": "w_038694",
+    "content": "inevitable ensemble parry",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配无可靠含义"
+  },
+  {
+    "item_code": "w_038695",
+    "content": "inevitable merge",
+    "meaning_zh": "不可避免的合并",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可按短语理解"
+  },
+  {
+    "item_code": "w_038716",
+    "content": "infallible tendency",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_038719",
+    "content": "infamous genteel",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "形容词堆砌噪声"
+  },
+  {
+    "item_code": "w_038726",
+    "content": "infant stealing",
+    "meaning_zh": "偷婴；拐卖婴儿",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作犯罪行为短语"
+  },
+  {
+    "item_code": "w_038730",
+    "content": "infantile infect",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "语法不通"
+  },
+  {
+    "item_code": "w_038743",
+    "content": "infected computers",
+    "meaning_zh": "受感染的计算机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见网络安全表达"
+  },
+  {
+    "item_code": "w_038744",
+    "content": "infected influenza infusion insanity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌噪声"
+  },
+  {
+    "item_code": "w_038749",
+    "content": "infectious inflammation bacteria",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配无可靠含义"
+  },
+  {
+    "item_code": "w_038752",
+    "content": "infectomics",
+    "meaning_zh": "感染组学",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "生物医学术语"
+  },
+  {
+    "item_code": "w_038762",
+    "content": "inferior article",
+    "meaning_zh": "劣质品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_038763",
+    "content": "inferior holding",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不常见"
+  },
+  {
+    "item_code": "w_038764",
+    "content": "inferior quality wire",
+    "meaning_zh": "劣质电线；低质量线材",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "含义明确"
+  },
+  {
+    "item_code": "w_038771",
+    "content": "infertile obstruct",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "语法不通"
+  },
+  {
+    "item_code": "w_038782",
+    "content": "infiltrate community germinate lobule",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌噪声"
+  },
+  {
+    "item_code": "w_038787",
+    "content": "infinite hug retail",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌噪声"
+  },
+  {
+    "item_code": "w_038788",
+    "content": "infinite loop",
+    "meaning_zh": "无限循环；死循环",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_038789",
+    "content": "infinite recursion",
+    "meaning_zh": "无限递归",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  }
+]

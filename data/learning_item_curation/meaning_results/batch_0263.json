@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_024961",
+    "content": "ephemeral impenitent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_024975",
+    "content": "epidemic flu",
+    "meaning_zh": "流行性感冒",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见医学表达"
+  },
+  {
+    "item_code": "w_024977",
+    "content": "epidemic prevention and control",
+    "meaning_zh": "疫情防控",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见公共卫生表达"
+  },
+  {
+    "item_code": "w_024994",
+    "content": "epigram virtuoso",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_025027",
+    "content": "epithodic",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_025034",
+    "content": "epoch conserve forceps glocitis",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "明显噪声拼接"
+  },
+  {
+    "item_code": "w_025039",
+    "content": "epscond",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_025043",
+    "content": "equa",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "疑似单词残片"
+  },
+  {
+    "item_code": "w_025046",
+    "content": "equal detailed",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_025049",
+    "content": "equal working opportunities",
+    "meaning_zh": "平等的工作机会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "雅思常见话题搭配"
+  },
+  {
+    "item_code": "w_025052",
+    "content": "equality in employment",
+    "meaning_zh": "就业平等",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会议题表达"
+  },
+  {
+    "item_code": "w_025057",
+    "content": "equally unsurprisingly",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "副词堆叠无固定义"
+  },
+  {
+    "item_code": "w_025059",
+    "content": "equals operator",
+    "meaning_zh": "等号运算符",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_025094",
+    "content": "equipment technician",
+    "meaning_zh": "设备技术员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职业称谓"
+  },
+  {
+    "item_code": "w_025097",
+    "content": "equipped",
+    "meaning_zh": "配备的；装备好的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句均指配备"
+  },
+  {
+    "item_code": "w_025099",
+    "content": "equipple",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_025100",
+    "content": "equipple groove gravel invigorate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "明显噪声拼接"
+  },
+  {
+    "item_code": "w_025106",
+    "content": "equity fair alert",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_025114",
+    "content": "equivalent fraction",
+    "meaning_zh": "等值分数",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "数学术语"
+  },
+  {
+    "item_code": "w_025115",
+    "content": "equivalent fractions",
+    "meaning_zh": "等值分数",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "数学术语"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_078951",
+    "content": "vehicle-free promenade",
+    "meaning_zh": "无车步行道；无车滨海步道",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定描述性短语"
+  },
+  {
+    "item_code": "w_078960",
+    "content": "velocity ambient bite interfere",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_078965",
+    "content": "venal buck candor",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_078973",
+    "content": "vendor ferry",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配"
+  },
+  {
+    "item_code": "w_078975",
+    "content": "veneer traverse",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然词组"
+  },
+  {
+    "item_code": "w_078981",
+    "content": "venereal lobe",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准术语"
+  },
+  {
+    "item_code": "w_078982",
+    "content": "venery",
+    "meaning_zh": "性欲；性交；狩猎",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见但有词典义"
+  },
+  {
+    "item_code": "w_078989",
+    "content": "venial momentum",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然词组"
+  },
+  {
+    "item_code": "w_078991",
+    "content": "Venice International Movie Festival",
+    "meaning_zh": "威尼斯国际电影节",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有名词名称"
+  },
+  {
+    "item_code": "w_079001",
+    "content": "vent ecstasy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然搭配"
+  },
+  {
+    "item_code": "w_079004",
+    "content": "ventilate sting",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然搭配"
+  },
+  {
+    "item_code": "w_079006",
+    "content": "ventilation corridor",
+    "meaning_zh": "通风廊道；通风走廊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见规划术语"
+  },
+  {
+    "item_code": "w_079011",
+    "content": "ventral contamination",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准术语"
+  },
+  {
+    "item_code": "w_079019",
+    "content": "venture into business",
+    "meaning_zh": "涉足商业；创业经商",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_079021",
+    "content": "venture phonetic language",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_079026",
+    "content": "venus nipple content",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_079028",
+    "content": "Venus's atmosphere",
+    "meaning_zh": "金星的大气层",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "天文学名词短语"
+  },
+  {
+    "item_code": "w_079033",
+    "content": "veral in flame paradise",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含疑似拼写错误"
+  },
+  {
+    "item_code": "w_079043",
+    "content": "verbalized",
+    "meaning_zh": "用语言表达；说出来",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词过去式"
+  },
+  {
+    "item_code": "w_079045",
+    "content": "verbally abuse",
+    "meaning_zh": "辱骂；用言语虐待",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  }
+]

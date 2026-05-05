@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_013569",
+    "content": "chief investigator",
+    "meaning_zh": "首席调查员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职务称谓"
+  },
+  {
+    "item_code": "w_013586",
+    "content": "child's slave",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声搭配"
+  },
+  {
+    "item_code": "w_013594",
+    "content": "childhood infection",
+    "meaning_zh": "儿童期感染",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学常见搭配"
+  },
+  {
+    "item_code": "w_013596",
+    "content": "childhood young",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "语义不通顺"
+  },
+  {
+    "item_code": "w_013598",
+    "content": "childish and ridiculous",
+    "meaning_zh": "幼稚可笑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容性固定表达"
+  },
+  {
+    "item_code": "w_013604",
+    "content": "children development",
+    "meaning_zh": "儿童发展",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略不规范"
+  },
+  {
+    "item_code": "w_013605",
+    "content": "children education",
+    "meaning_zh": "儿童教育",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略不规范"
+  },
+  {
+    "item_code": "w_013609",
+    "content": "Children's Park",
+    "meaning_zh": "儿童公园",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地点名称"
+  },
+  {
+    "item_code": "w_013610",
+    "content": "children's program",
+    "meaning_zh": "儿童节目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见媒体搭配"
+  },
+  {
+    "item_code": "w_013615",
+    "content": "chili juice",
+    "meaning_zh": "辣椒汁",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "食物相关搭配"
+  },
+  {
+    "item_code": "w_013618",
+    "content": "chill-out zone",
+    "meaning_zh": "休闲放松区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见场所表达"
+  },
+  {
+    "item_code": "w_013630",
+    "content": "chimney decibel practitioner",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声拼接"
+  },
+  {
+    "item_code": "w_013631",
+    "content": "chimney floor",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见无可靠义"
+  },
+  {
+    "item_code": "w_013635",
+    "content": "chimpenzi",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_013637",
+    "content": "chin sack",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见无可靠义"
+  },
+  {
+    "item_code": "w_013639",
+    "content": "China Basketball Association",
+    "meaning_zh": "中国篮球协会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "机构专有名词"
+  },
+  {
+    "item_code": "w_013642",
+    "content": "China International Import Expo",
+    "meaning_zh": "中国国际进口博览会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "展会专有名词"
+  },
+  {
+    "item_code": "w_013643",
+    "content": "China model",
+    "meaning_zh": "中国模式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政治经济表达"
+  },
+  {
+    "item_code": "w_013644",
+    "content": "China Red Cross Foundation",
+    "meaning_zh": "中国红十字基金会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "机构专有名词"
+  },
+  {
+    "item_code": "w_013647",
+    "content": "China's cultural heritages",
+    "meaning_zh": "中国文化遗产",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见话题表达"
+  }
+]

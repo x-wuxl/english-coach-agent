@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_035355",
+    "content": "holiday entitlement",
+    "meaning_zh": "应享假期；休假权利",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务休假固定表达"
+  },
+  {
+    "item_code": "w_035362",
+    "content": "holidays and festivals",
+    "meaning_zh": "节假日；假日和节日",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见话题短语"
+  },
+  {
+    "item_code": "w_035370",
+    "content": "hollination",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_035371",
+    "content": "Hollis Maynell",
+    "meaning_zh": "霍利斯·梅内尔（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有名词人名"
+  },
+  {
+    "item_code": "w_035374",
+    "content": "hollowed log",
+    "meaning_zh": "中空的原木；挖空的木头",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_035378",
+    "content": "Holmes",
+    "meaning_zh": "霍姆斯（姓氏或人名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有名词人名"
+  },
+  {
+    "item_code": "w_035380",
+    "content": "holo",
+    "meaning_zh": "全息；全息影像",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常作全息缩略语"
+  },
+  {
+    "item_code": "w_035390",
+    "content": "holographic conferencing",
+    "meaning_zh": "全息会议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术类固定短语"
+  },
+  {
+    "item_code": "w_035395",
+    "content": "holy bewilder fertilize",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无自然搭配关系"
+  },
+  {
+    "item_code": "w_035396",
+    "content": "holy blond originality",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无自然搭配关系"
+  },
+  {
+    "item_code": "w_035407",
+    "content": "home crowd",
+    "meaning_zh": "主场观众",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "体育常见表达"
+  },
+  {
+    "item_code": "w_035423",
+    "content": "home radio receiver",
+    "meaning_zh": "家用无线电接收机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "设备名词短语"
+  },
+  {
+    "item_code": "w_035425",
+    "content": "home services industry",
+    "meaning_zh": "家政服务行业；上门服务行业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "行业类固定表达"
+  },
+  {
+    "item_code": "w_035426",
+    "content": "home stager",
+    "meaning_zh": "房屋布置师；房产展示布置师",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "房地产职业名称"
+  },
+  {
+    "item_code": "w_035433",
+    "content": "home-based care service",
+    "meaning_zh": "居家护理服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "养老护理常见表达"
+  },
+  {
+    "item_code": "w_035434",
+    "content": "home-built aircraft carrier",
+    "meaning_zh": "国产航空母舰；本国建造的航母",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "军事新闻常见表达"
+  },
+  {
+    "item_code": "w_035437",
+    "content": "home-made meal",
+    "meaning_zh": "家常饭；自制餐食",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生活类常见短语"
+  },
+  {
+    "item_code": "w_035441",
+    "content": "homebuilt",
+    "meaning_zh": "自制的；家造的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见复合形容词"
+  },
+  {
+    "item_code": "w_035446",
+    "content": "homegrown vaccine",
+    "meaning_zh": "国产疫苗；本土研发的疫苗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "公共卫生常见表达"
+  },
+  {
+    "item_code": "w_035450",
+    "content": "homeless starve income",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无搭配"
+  }
+]

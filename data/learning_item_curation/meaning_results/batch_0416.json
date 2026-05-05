@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_039776",
+    "content": "Internet catchwords",
+    "meaning_zh": "网络流行语",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见网络表达"
+  },
+  {
+    "item_code": "w_039777",
+    "content": "internet celebrity",
+    "meaning_zh": "网红；网络名人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_039778",
+    "content": "internet celebrity economy",
+    "meaning_zh": "网红经济",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见经济术语"
+  },
+  {
+    "item_code": "w_039781",
+    "content": "internet copyright infringement",
+    "meaning_zh": "网络版权侵权",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律相关搭配"
+  },
+  {
+    "item_code": "w_039782",
+    "content": "Internet entrepreneurs",
+    "meaning_zh": "互联网创业者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职业群体表达"
+  },
+  {
+    "item_code": "w_039783",
+    "content": "Internet Explorer IE",
+    "meaning_zh": "Internet Explorer浏览器；IE浏览器",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有软件名称"
+  },
+  {
+    "item_code": "w_039784",
+    "content": "internet hit",
+    "meaning_zh": "网络热门事物；网络爆红内容",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "无例句语义略宽"
+  },
+  {
+    "item_code": "w_039785",
+    "content": "Internet Investment Fund",
+    "meaning_zh": "互联网投资基金",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可能为专有基金名"
+  },
+  {
+    "item_code": "w_039786",
+    "content": "Internet line",
+    "meaning_zh": "互联网线路；网络线路",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "无例句需泛化"
+  },
+  {
+    "item_code": "w_039787",
+    "content": "Internet literate",
+    "meaning_zh": "具备互联网素养的；会使用互联网的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容能力素养"
+  },
+  {
+    "item_code": "w_039790",
+    "content": "internet plug-in",
+    "meaning_zh": "互联网插件；网络插件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术常用词"
+  },
+  {
+    "item_code": "w_039791",
+    "content": "Internet Plus government services",
+    "meaning_zh": "互联网+政务服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政务固定表述"
+  },
+  {
+    "item_code": "w_039792",
+    "content": "Internet Plus Inspection initiative",
+    "meaning_zh": "互联网+督查行动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "政策类固定表述"
+  },
+  {
+    "item_code": "w_039793",
+    "content": "Internet power",
+    "meaning_zh": "网络强国；互联网强国",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "政策语境常见"
+  },
+  {
+    "item_code": "w_039794",
+    "content": "internet professional",
+    "meaning_zh": "互联网从业者；网络专业人士",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职业身份表达"
+  },
+  {
+    "item_code": "w_039795",
+    "content": "Internet real-name system",
+    "meaning_zh": "网络实名制",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策法规术语"
+  },
+  {
+    "item_code": "w_039796",
+    "content": "Internet sensation",
+    "meaning_zh": "网络红人；网络爆红事物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见媒体表达"
+  },
+  {
+    "item_code": "w_039797",
+    "content": "Internet surfing",
+    "meaning_zh": "上网冲浪；浏览互联网",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动作表达"
+  },
+  {
+    "item_code": "w_039798",
+    "content": "Internet system",
+    "meaning_zh": "互联网系统；网络系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "无例句语义较泛"
+  },
+  {
+    "item_code": "w_039800",
+    "content": "Internet virus",
+    "meaning_zh": "网络病毒；互联网病毒",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "网络安全术语"
+  }
+]

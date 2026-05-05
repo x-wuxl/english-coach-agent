@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_023526",
+    "content": "educational programme",
+    "meaning_zh": "教育项目；课程计划",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教育搭配"
+  },
+  {
+    "item_code": "w_023531",
+    "content": "educational ritual",
+    "meaning_zh": "教育仪式；教育惯例",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作教育领域搭配"
+  },
+  {
+    "item_code": "w_023533",
+    "content": "educational toys",
+    "meaning_zh": "益智玩具；教育玩具",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_023544",
+    "content": "eel pin",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "组合无常见含义"
+  },
+  {
+    "item_code": "w_023545",
+    "content": "EEOB",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写含义不明"
+  },
+  {
+    "item_code": "w_023550",
+    "content": "effacing",
+    "meaning_zh": "抹去的；使自己不显眼的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "efface的分词形式"
+  },
+  {
+    "item_code": "w_023551",
+    "content": "effasia",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_023553",
+    "content": "effect a compromise",
+    "meaning_zh": "达成妥协",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持该义"
+  },
+  {
+    "item_code": "w_023557",
+    "content": "effective authorization",
+    "meaning_zh": "有效授权",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律行政常用搭配"
+  },
+  {
+    "item_code": "w_023572",
+    "content": "efferent lame",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "组合不成自然搭配"
+  },
+  {
+    "item_code": "w_023579",
+    "content": "efficacy intrude",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_023582",
+    "content": "efficient distribution system",
+    "meaning_zh": "高效的分销系统；高效配送系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务物流常见搭配"
+  },
+  {
+    "item_code": "w_023583",
+    "content": "efficient inquiry stock exploit",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词无序拼接"
+  },
+  {
+    "item_code": "w_023584",
+    "content": "efficient primary",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不完整"
+  },
+  {
+    "item_code": "w_023585",
+    "content": "efficient sleep",
+    "meaning_zh": "高效睡眠",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解为睡眠质量高"
+  },
+  {
+    "item_code": "w_023587",
+    "content": "effictiveness",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "应为effectiveness"
+  },
+  {
+    "item_code": "w_023602",
+    "content": "effulgent nvidius peel compress",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声拼接"
+  },
+  {
+    "item_code": "w_023605",
+    "content": "effusion mitigate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "组合不成自然表达"
+  },
+  {
+    "item_code": "w_023607",
+    "content": "effusive mirage",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "组合含义不可靠"
+  },
+  {
+    "item_code": "w_023611",
+    "content": "egalitarian disdain",
+    "meaning_zh": "平等主义式的蔑视",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "low",
+    "reason": "罕见抽象搭配"
+  }
+]

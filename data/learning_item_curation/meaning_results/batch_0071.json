@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_005789",
+    "content": "auto technician",
+    "meaning_zh": "汽车维修技师",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职业名称"
+  },
+  {
+    "item_code": "w_005791",
+    "content": "auto-dependent",
+    "meaning_zh": "依赖汽车的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见复合形容词"
+  },
+  {
+    "item_code": "w_005799",
+    "content": "autobiographical film",
+    "meaning_zh": "自传体电影",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "电影类型短语"
+  },
+  {
+    "item_code": "w_005813",
+    "content": "autoindex",
+    "meaning_zh": "自动索引",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_005822",
+    "content": "automated defect identification software",
+    "meaning_zh": "自动缺陷识别软件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术名词短语"
+  },
+  {
+    "item_code": "w_005823",
+    "content": "automated lumber grading system",
+    "meaning_zh": "自动木材分级系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术系统名称"
+  },
+  {
+    "item_code": "w_005825",
+    "content": "automated teleprinter technology",
+    "meaning_zh": "自动电传打字机技术",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术名词短语"
+  },
+  {
+    "item_code": "w_005828",
+    "content": "automatic cameras",
+    "meaning_zh": "自动相机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "设备名称"
+  },
+  {
+    "item_code": "w_005830",
+    "content": "automatic docking",
+    "meaning_zh": "自动对接",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "航天技术表达"
+  },
+  {
+    "item_code": "w_005831",
+    "content": "automatic facsimile device",
+    "meaning_zh": "自动传真设备",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "设备名称"
+  },
+  {
+    "item_code": "w_005835",
+    "content": "automatic winding watches",
+    "meaning_zh": "自动上链手表",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "手表类型"
+  },
+  {
+    "item_code": "w_005844",
+    "content": "automobile emission standards",
+    "meaning_zh": "汽车排放标准",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策技术短语"
+  },
+  {
+    "item_code": "w_005847",
+    "content": "automobile truck",
+    "meaning_zh": "汽车卡车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略生硬"
+  },
+  {
+    "item_code": "w_005848",
+    "content": "automobile-dependent",
+    "meaning_zh": "依赖汽车的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_005849",
+    "content": "automobiles",
+    "meaning_zh": "汽车",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句一致"
+  },
+  {
+    "item_code": "w_005851",
+    "content": "automotive engine system",
+    "meaning_zh": "汽车发动机系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术名词短语"
+  },
+  {
+    "item_code": "w_005856",
+    "content": "autonomous vehicle",
+    "meaning_zh": "自动驾驶车辆；无人驾驶汽车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见技术术语"
+  },
+  {
+    "item_code": "w_005879",
+    "content": "auxiliary police",
+    "meaning_zh": "辅警；辅助警察",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职业称谓"
+  },
+  {
+    "item_code": "w_005880",
+    "content": "auxiliary suburban curl cooper",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声短语"
+  },
+  {
+    "item_code": "w_005883",
+    "content": "AV function",
+    "meaning_zh": "音视频功能",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缩写含义依语境"
+  }
+]

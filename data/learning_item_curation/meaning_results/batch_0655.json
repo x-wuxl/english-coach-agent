@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_064596",
+    "content": "seal off the city",
+    "meaning_zh": "封锁城市",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词短语"
+  },
+  {
+    "item_code": "w_064597",
+    "content": "seal patience",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_064598",
+    "content": "seal sb.'s fate",
+    "meaning_zh": "决定某人的命运；使某人厄运难逃",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_064613",
+    "content": "seamly",
+    "meaning_zh": "得体的；合宜的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "罕见但规范词"
+  },
+  {
+    "item_code": "w_064614",
+    "content": "seamly difference",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_064618",
+    "content": "sean",
+    "meaning_zh": "肖恩（人名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句显示为人名"
+  },
+  {
+    "item_code": "w_064625",
+    "content": "search agent",
+    "meaning_zh": "搜索代理程序；搜索智能体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术常用术语"
+  },
+  {
+    "item_code": "w_064627",
+    "content": "search habits",
+    "meaning_zh": "搜索习惯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_064636",
+    "content": "seas",
+    "meaning_zh": "海域；海洋",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "sea的复数形式"
+  },
+  {
+    "item_code": "w_064641",
+    "content": "seasick side effect",
+    "meaning_zh": "晕船的副作用",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "生硬低频搭配"
+  },
+  {
+    "item_code": "w_064653",
+    "content": "seasonal rate",
+    "meaning_zh": "季节性费率；季节性价格",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常见搭配"
+  },
+  {
+    "item_code": "w_064657",
+    "content": "seasoned shellfish",
+    "meaning_zh": "调味贝类海鲜",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "食品描述搭配"
+  },
+  {
+    "item_code": "w_064669",
+    "content": "Seattle Center",
+    "meaning_zh": "西雅图中心（地名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有地名"
+  },
+  {
+    "item_code": "w_064676",
+    "content": "sebastopol",
+    "meaning_zh": "塞瓦斯托波尔（地名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有地名"
+  },
+  {
+    "item_code": "w_064678",
+    "content": "sec",
+    "meaning_zh": "秒；一会儿；证券交易委员会",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见缩写多义"
+  },
+  {
+    "item_code": "w_064679",
+    "content": "sec setting",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写含义不明"
+  },
+  {
+    "item_code": "w_064694",
+    "content": "second generation entrepreneur",
+    "meaning_zh": "第二代企业家；企二代",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会话题表达"
+  },
+  {
+    "item_code": "w_064701",
+    "content": "second page",
+    "meaning_zh": "第二页",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_064704",
+    "content": "second-child economy",
+    "meaning_zh": "二孩经济",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策相关表达"
+  },
+  {
+    "item_code": "w_064705",
+    "content": "second-child policy",
+    "meaning_zh": "二孩政策",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策固定表达"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_004906",
+    "content": "asphalt wearing surface",
+    "meaning_zh": "沥青磨耗层；沥青路面表层",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "道路工程术语"
+  },
+  {
+    "item_code": "w_004907",
+    "content": "asphalt yield",
+    "meaning_zh": "沥青产率；沥青产量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术搭配但较少见"
+  },
+  {
+    "item_code": "w_004909",
+    "content": "asphyxia resemblance",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配生硬含义不明"
+  },
+  {
+    "item_code": "w_004911",
+    "content": "aspianage",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_004934",
+    "content": "assemble health",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机搭配含义不明"
+  },
+  {
+    "item_code": "w_004935",
+    "content": "assemble vivasect",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "拼写及搭配异常"
+  },
+  {
+    "item_code": "w_004948",
+    "content": "assert avoid interact",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无固定义"
+  },
+  {
+    "item_code": "w_004950",
+    "content": "assert statement",
+    "meaning_zh": "断言语句",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_004952",
+    "content": "assertion pigsty annoyance",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无固定义"
+  },
+  {
+    "item_code": "w_004954",
+    "content": "assertive instigate appall",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无固定义"
+  },
+  {
+    "item_code": "w_004956",
+    "content": "asservity",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准词形"
+  },
+  {
+    "item_code": "w_004958",
+    "content": "assess buffet statement",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机搭配含义不明"
+  },
+  {
+    "item_code": "w_004959",
+    "content": "assess courteous",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_004960",
+    "content": "assess sth. on its",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "表达不完整"
+  },
+  {
+    "item_code": "w_004961",
+    "content": "assess the implications",
+    "meaning_zh": "评估影响；分析潜在后果",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_004967",
+    "content": "asset allocation strategy",
+    "meaning_zh": "资产配置策略",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融常用术语"
+  },
+  {
+    "item_code": "w_004969",
+    "content": "asset declaration",
+    "meaning_zh": "资产申报",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律财经术语"
+  },
+  {
+    "item_code": "w_004970",
+    "content": "asset dump",
+    "meaning_zh": "资产抛售；资产倾销",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "财经语境可解释"
+  },
+  {
+    "item_code": "w_004971",
+    "content": "asset evaluation",
+    "meaning_zh": "资产评估",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "财经常用术语"
+  },
+  {
+    "item_code": "w_004975",
+    "content": "assidious",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  }
+]

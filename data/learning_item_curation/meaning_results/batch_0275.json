@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_026127",
+    "content": "experts' comment",
+    "meaning_zh": "专家评论；专家意见",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_026129",
+    "content": "expiate indigent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无固定含义"
+  },
+  {
+    "item_code": "w_026132",
+    "content": "expiration compete",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_026136",
+    "content": "expire credible repudiate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_026137",
+    "content": "expire intermission positive",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_026138",
+    "content": "expire revenue",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无固定含义"
+  },
+  {
+    "item_code": "w_026139",
+    "content": "expired food",
+    "meaning_zh": "过期食品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_026145",
+    "content": "explain the knowledge",
+    "meaning_zh": "讲解知识",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解但搭配生硬"
+  },
+  {
+    "item_code": "w_026149",
+    "content": "explanation for",
+    "meaning_zh": "对……的解释；为……作出的说明",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持该搭配"
+  },
+  {
+    "item_code": "w_026157",
+    "content": "explicit halsey linger",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含专名且无固定义"
+  },
+  {
+    "item_code": "w_026161",
+    "content": "explode departure",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无固定含义"
+  },
+  {
+    "item_code": "w_026164",
+    "content": "exploit immigration",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "语义不完整"
+  },
+  {
+    "item_code": "w_026165",
+    "content": "exploit loopholes",
+    "meaning_zh": "利用漏洞；钻空子",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_026167",
+    "content": "exploitation sarcasm chase",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_026176",
+    "content": "explore answers",
+    "meaning_zh": "探寻答案；寻找答案",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义可判断"
+  },
+  {
+    "item_code": "w_026177",
+    "content": "explore need effect",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_026178",
+    "content": "explore space",
+    "meaning_zh": "探索太空",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_026179",
+    "content": "explore the city",
+    "meaning_zh": "探索这座城市；游览这座城市",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅行表达"
+  },
+  {
+    "item_code": "w_026181",
+    "content": "explorer trip",
+    "meaning_zh": "探险之旅",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解但不常见"
+  },
+  {
+    "item_code": "w_026185",
+    "content": "explosive items",
+    "meaning_zh": "爆炸物品；易爆物品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见安全用语"
+  }
+]

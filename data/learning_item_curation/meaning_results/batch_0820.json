@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_081086",
+    "content": "wind the watch",
+    "meaning_zh": "给手表上发条",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动宾搭配"
+  },
+  {
+    "item_code": "w_081105",
+    "content": "winding paths and corridors",
+    "meaning_zh": "蜿蜒的小路和走廊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容道路曲折"
+  },
+  {
+    "item_code": "w_081106",
+    "content": "winding trails and corridors",
+    "meaning_zh": "蜿蜒的小径和走廊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容路线曲折"
+  },
+  {
+    "item_code": "w_081110",
+    "content": "window commute",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_081115",
+    "content": "window view",
+    "meaning_zh": "窗外景色；窗景",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_081122",
+    "content": "windpipe rag",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_081125",
+    "content": "windscreen windshield",
+    "meaning_zh": "挡风玻璃",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "同义词并列"
+  },
+  {
+    "item_code": "w_081133",
+    "content": "windsurfing ski",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_081137",
+    "content": "windy grieve",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词义无关联"
+  },
+  {
+    "item_code": "w_081154",
+    "content": "wink at a person",
+    "meaning_zh": "向某人眨眼示意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动作表达"
+  },
+  {
+    "item_code": "w_081155",
+    "content": "wink at slight errors",
+    "meaning_zh": "对小错误视而不见",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "wink at表纵容"
+  },
+  {
+    "item_code": "w_081159",
+    "content": "winner victory champion",
+    "meaning_zh": "获胜者；胜利；冠军",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "非固定表达"
+  },
+  {
+    "item_code": "w_081160",
+    "content": "winnie",
+    "meaning_zh": "温妮",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见人名"
+  },
+  {
+    "item_code": "w_081167",
+    "content": "winsom tangle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_081174",
+    "content": "winter term",
+    "meaning_zh": "冬季学期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育场景常用"
+  },
+  {
+    "item_code": "w_081176",
+    "content": "winter-born",
+    "meaning_zh": "冬天出生的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_081177",
+    "content": "Winterbourne",
+    "meaning_zh": "温特伯恩",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有名词"
+  },
+  {
+    "item_code": "w_081193",
+    "content": "wireless bridge monitoring system",
+    "meaning_zh": "无线桥梁监测系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术名词短语"
+  },
+  {
+    "item_code": "w_081195",
+    "content": "wireless data transmission",
+    "meaning_zh": "无线数据传输",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术常用表达"
+  },
+  {
+    "item_code": "w_081199",
+    "content": "wireless strain measurement system",
+    "meaning_zh": "无线应变测量系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "工程技术术语"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_059666",
+    "content": "quick-witted response",
+    "meaning_zh": "机智的回应",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容搭配"
+  },
+  {
+    "item_code": "w_059669",
+    "content": "quickening pace",
+    "meaning_zh": "加快的步伐；加快的节奏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动作搭配"
+  },
+  {
+    "item_code": "w_059679",
+    "content": "quiescence drill",
+    "meaning_zh": "静止训练；静默演练",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可按整体搭配理解"
+  },
+  {
+    "item_code": "w_059683",
+    "content": "quiet work",
+    "meaning_zh": "安静工作；静默作业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "简单常见搭配"
+  },
+  {
+    "item_code": "w_059685",
+    "content": "quietly silent silence",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "重复堆砌噪声"
+  },
+  {
+    "item_code": "w_059695",
+    "content": "quinine stool callous",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "随机词语拼接"
+  },
+  {
+    "item_code": "w_059703",
+    "content": "quipple reprobate probe",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "含疑似噪声词"
+  },
+  {
+    "item_code": "w_059708",
+    "content": "quit drinking",
+    "meaning_zh": "戒酒；停止饮酒",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含戒酒语境"
+  },
+  {
+    "item_code": "w_059718",
+    "content": "quite to one's taste",
+    "meaning_zh": "很合某人口味；很合某人喜好",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_059727",
+    "content": "quixotic croon",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "生僻搭配缺语境"
+  },
+  {
+    "item_code": "w_059739",
+    "content": "quota assiduity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不可靠"
+  },
+  {
+    "item_code": "w_059746",
+    "content": "quote reference review",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "词语堆叠不成项"
+  },
+  {
+    "item_code": "w_059747",
+    "content": "quote surfing specialty",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "随机词语拼接"
+  },
+  {
+    "item_code": "w_059748",
+    "content": "quote this line",
+    "meaning_zh": "引用这一行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "清晰动宾短语"
+  },
+  {
+    "item_code": "w_059755",
+    "content": "qutor",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_059758",
+    "content": "r.i.",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写含义不明"
+  },
+  {
+    "item_code": "w_059764",
+    "content": "rabble jackand stentorian",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "含明显噪声词"
+  },
+  {
+    "item_code": "w_059766",
+    "content": "Raber Boyle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似专名且不明"
+  },
+  {
+    "item_code": "w_059769",
+    "content": "rabies role harness",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "随机词语拼接"
+  },
+  {
+    "item_code": "w_059786",
+    "content": "racial racist",
+    "meaning_zh": "种族的；种族主义者",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "近形词堆叠非短语"
+  }
+]

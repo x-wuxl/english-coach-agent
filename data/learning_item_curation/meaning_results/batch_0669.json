@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_065948",
+    "content": "share the cake",
+    "meaning_zh": "分蛋糕；分享蛋糕",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾短语"
+  },
+  {
+    "item_code": "w_065949",
+    "content": "share the feeling",
+    "meaning_zh": "有同感；分享感受",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可判断"
+  },
+  {
+    "item_code": "w_065950",
+    "content": "share the profits",
+    "meaning_zh": "分享利润；分红",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商业搭配"
+  },
+  {
+    "item_code": "w_065951",
+    "content": "share the view on",
+    "meaning_zh": "对……持相同看法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达搭配"
+  },
+  {
+    "item_code": "w_065952",
+    "content": "share their experience",
+    "meaning_zh": "分享他们的经验",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾短语"
+  },
+  {
+    "item_code": "w_065954",
+    "content": "share with friends",
+    "meaning_zh": "与朋友分享",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词搭配"
+  },
+  {
+    "item_code": "w_065956",
+    "content": "shared and competing belief",
+    "meaning_zh": "共同且相互竞争的信念",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配略生硬"
+  },
+  {
+    "item_code": "w_065957",
+    "content": "shared bikes",
+    "meaning_zh": "共享单车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见出行术语"
+  },
+  {
+    "item_code": "w_065958",
+    "content": "shared mobility",
+    "meaning_zh": "共享出行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见交通术语"
+  },
+  {
+    "item_code": "w_065960",
+    "content": "shareholder debris",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_065969",
+    "content": "sharp criticism",
+    "meaning_zh": "尖锐批评",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_065970",
+    "content": "sharp fork spoon tablespoon",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串噪声"
+  },
+  {
+    "item_code": "w_065971",
+    "content": "sharp mind",
+    "meaning_zh": "敏锐的头脑；聪明",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  },
+  {
+    "item_code": "w_065982",
+    "content": "shave fluid",
+    "meaning_zh": "剃须液",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "生活用品搭配"
+  },
+  {
+    "item_code": "w_065984",
+    "content": "shave shaver razor",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "近义词堆叠噪声"
+  },
+  {
+    "item_code": "w_065991",
+    "content": "shaw",
+    "meaning_zh": "肖；小树林",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作姓氏或旧词"
+  },
+  {
+    "item_code": "w_065994",
+    "content": "shawty",
+    "meaning_zh": "小妞；年轻女子",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "俚语常见义"
+  },
+  {
+    "item_code": "w_065996",
+    "content": "she is",
+    "meaning_zh": "她是；她处于……状态",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  },
+  {
+    "item_code": "w_065997",
+    "content": "She is ...",
+    "meaning_zh": "她是……；她处于……状态",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础句型"
+  },
+  {
+    "item_code": "w_066008",
+    "content": "sheave",
+    "meaning_zh": "滑轮；束，捆",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见专业词义"
+  }
+]

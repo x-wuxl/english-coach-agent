@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_062320",
+    "content": "reveal reactionary",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_062331",
+    "content": "revenge autoclave",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_062332",
+    "content": "revenge oneself",
+    "meaning_zh": "为自己报仇；复仇",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词短语"
+  },
+  {
+    "item_code": "w_062336",
+    "content": "reverberate reassure",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_062348",
+    "content": "reverse devotion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_062349",
+    "content": "reverse lookup",
+    "meaning_zh": "反向查找；反向查询",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_062352",
+    "content": "reverse repurchase",
+    "meaning_zh": "逆回购",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融术语"
+  },
+  {
+    "item_code": "w_062353",
+    "content": "reverse sensor",
+    "meaning_zh": "倒车传感器",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见汽车部件"
+  },
+  {
+    "item_code": "w_062355",
+    "content": "reverse the trend",
+    "meaning_zh": "扭转趋势",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_062361",
+    "content": "reversible mutton",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_062365",
+    "content": "reversion weed",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_062372",
+    "content": "review of literature",
+    "meaning_zh": "文献综述",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常用语"
+  },
+  {
+    "item_code": "w_062373",
+    "content": "review one's application",
+    "meaning_zh": "审核某人的申请",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "申请场景常用"
+  },
+  {
+    "item_code": "w_062374",
+    "content": "review the material",
+    "meaning_zh": "复习材料；审阅材料",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学习场景常用"
+  },
+  {
+    "item_code": "w_062375",
+    "content": "review-before-release system",
+    "meaning_zh": "发布前审查制度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "制度类表达"
+  },
+  {
+    "item_code": "w_062377",
+    "content": "reviewing editor",
+    "meaning_zh": "审稿编辑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "出版学术术语"
+  },
+  {
+    "item_code": "w_062380",
+    "content": "revise chronic illustration",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_062381",
+    "content": "revise divulge",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_062382",
+    "content": "revise fondness",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_062383",
+    "content": "revise revision",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词形混杂"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_027788",
+    "content": "finance office",
+    "meaning_zh": "财务办公室；财务处",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见机构名称"
+  },
+  {
+    "item_code": "w_027793",
+    "content": "financial aid for students",
+    "meaning_zh": "学生助学金；学生经济资助",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育资助表达"
+  },
+  {
+    "item_code": "w_027794",
+    "content": "financial and service sectors",
+    "meaning_zh": "金融和服务行业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "行业领域搭配"
+  },
+  {
+    "item_code": "w_027800",
+    "content": "financial circumstance",
+    "meaning_zh": "经济状况；财务状况",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常用复数但含义明确"
+  },
+  {
+    "item_code": "w_027802",
+    "content": "financial crash",
+    "meaning_zh": "金融崩盘；金融危机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融术语搭配"
+  },
+  {
+    "item_code": "w_027806",
+    "content": "financial deputy president",
+    "meaning_zh": "财务副总裁；财务副行长",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "职务名称较少见"
+  },
+  {
+    "item_code": "w_027809",
+    "content": "financial fallout",
+    "meaning_zh": "财务后果；金融余波",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_027813",
+    "content": "financial goals",
+    "meaning_zh": "财务目标；理财目标",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见理财表达"
+  },
+  {
+    "item_code": "w_027814",
+    "content": "financial grant",
+    "meaning_zh": "财政补助；经济资助",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "资助类搭配"
+  },
+  {
+    "item_code": "w_027818",
+    "content": "financial market exit mechanism",
+    "meaning_zh": "金融市场退出机制",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专业术语明确"
+  },
+  {
+    "item_code": "w_027821",
+    "content": "financial page",
+    "meaning_zh": "财经版；金融页面",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "媒体版面表达"
+  },
+  {
+    "item_code": "w_027832",
+    "content": "financial services park",
+    "meaning_zh": "金融服务园区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "产业园区名称"
+  },
+  {
+    "item_code": "w_027842",
+    "content": "financially ill-managed",
+    "meaning_zh": "财务管理不善的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_027851",
+    "content": "find a way to",
+    "meaning_zh": "找到办法去；设法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_027853",
+    "content": "find expression in something",
+    "meaning_zh": "在某事物中得到表达；体现于某事物中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_027855",
+    "content": "find no foothold for",
+    "meaning_zh": "找不到……的立足点；使……无立足之地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达不完整但可判断"
+  },
+  {
+    "item_code": "w_027861",
+    "content": "find sb. doing sth.",
+    "meaning_zh": "发现某人正在做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "语法搭配"
+  },
+  {
+    "item_code": "w_027863",
+    "content": "find sth. to do",
+    "meaning_zh": "找到某事可做；找到某物来做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "结构含义依语境"
+  },
+  {
+    "item_code": "w_027864",
+    "content": "find time for ...",
+    "meaning_zh": "为……抽出时间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_027865",
+    "content": "find ways to",
+    "meaning_zh": "找到办法去；设法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  }
+]

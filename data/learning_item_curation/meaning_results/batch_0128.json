@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_011126",
+    "content": "bureau compensation depression",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无明确含义"
+  },
+  {
+    "item_code": "w_011130",
+    "content": "bureaucratic despotism",
+    "meaning_zh": "官僚专制；官僚专制主义",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治学固定搭配"
+  },
+  {
+    "item_code": "w_011131",
+    "content": "bureaucratic management",
+    "meaning_zh": "官僚式管理；科层制管理",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "管理学常见搭配"
+  },
+  {
+    "item_code": "w_011138",
+    "content": "burge",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写残片"
+  },
+  {
+    "item_code": "w_011142",
+    "content": "burger chop",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然难判断"
+  },
+  {
+    "item_code": "w_011146",
+    "content": "burglar overflow",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无明确含义"
+  },
+  {
+    "item_code": "w_011153",
+    "content": "burial object",
+    "meaning_zh": "随葬品；陪葬物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "考古常见术语"
+  },
+  {
+    "item_code": "w_011156",
+    "content": "burial vein diarrhea",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无明确含义"
+  },
+  {
+    "item_code": "w_011172",
+    "content": "burn myself",
+    "meaning_zh": "烧伤自己；烫伤自己",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "反身动词短语"
+  },
+  {
+    "item_code": "w_011177",
+    "content": "burn spoil grill",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无明确含义"
+  },
+  {
+    "item_code": "w_011182",
+    "content": "burn yourself",
+    "meaning_zh": "烧伤自己；烫伤自己",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "反身动词短语"
+  },
+  {
+    "item_code": "w_011188",
+    "content": "burning midnight oil",
+    "meaning_zh": "熬夜苦读；开夜车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定表达省略the"
+  },
+  {
+    "item_code": "w_011192",
+    "content": "burnish possity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含疑似错误拼写"
+  },
+  {
+    "item_code": "w_011196",
+    "content": "burr",
+    "meaning_zh": "毛刺；芒刺；刺果",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词义项"
+  },
+  {
+    "item_code": "w_011201",
+    "content": "burs",
+    "meaning_zh": "刺果；毛刺",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "bur的复数形式"
+  },
+  {
+    "item_code": "w_011209",
+    "content": "burst into cheers",
+    "meaning_zh": "突然欢呼起来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_011216",
+    "content": "burst on the scene",
+    "meaning_zh": "突然出现；崭露头角",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_011217",
+    "content": "burst onto",
+    "meaning_zh": "突然出现在；闯入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词"
+  },
+  {
+    "item_code": "w_011222",
+    "content": "burst out singing",
+    "meaning_zh": "突然唱起来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "burst out doing结构"
+  },
+  {
+    "item_code": "w_011225",
+    "content": "burton",
+    "meaning_zh": "伯顿",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见人名或姓氏"
+  }
+]

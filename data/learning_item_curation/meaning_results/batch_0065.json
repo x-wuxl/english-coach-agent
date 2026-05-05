@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_005191",
+    "content": "at critical times",
+    "meaning_zh": "在关键时刻",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时间短语"
+  },
+  {
+    "item_code": "w_005193",
+    "content": "at dirt-cheap prices",
+    "meaning_zh": "以极低的价格",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定价格表达"
+  },
+  {
+    "item_code": "w_005196",
+    "content": "at ease with",
+    "meaning_zh": "对……感到自在；与……相处放松",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句为反义搭配"
+  },
+  {
+    "item_code": "w_005205",
+    "content": "at five",
+    "meaning_zh": "在五点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句说明时间"
+  },
+  {
+    "item_code": "w_005213",
+    "content": "at hazard",
+    "meaning_zh": "处于危险中；冒险地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "较少见固定表达"
+  },
+  {
+    "item_code": "w_005220",
+    "content": "at issue is",
+    "meaning_zh": "争议焦点是；问题在于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "议论文常用表达"
+  },
+  {
+    "item_code": "w_005224",
+    "content": "at large discount",
+    "meaning_zh": "以大幅折扣",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略省略冠词"
+  },
+  {
+    "item_code": "w_005230",
+    "content": "at lunchtime",
+    "meaning_zh": "在午餐时间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句说明时间"
+  },
+  {
+    "item_code": "w_005233",
+    "content": "at much lower prices",
+    "meaning_zh": "以低得多的价格",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见价格短语"
+  },
+  {
+    "item_code": "w_005234",
+    "content": "at my desk",
+    "meaning_zh": "在我的书桌旁；在办公桌前",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见地点短语"
+  },
+  {
+    "item_code": "w_005248",
+    "content": "at one's deathbed",
+    "meaning_zh": "在某人临终时；在某人临终床前",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定场景表达"
+  },
+  {
+    "item_code": "w_005257",
+    "content": "at one's peak",
+    "meaning_zh": "在某人的巅峰时期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见状态短语"
+  },
+  {
+    "item_code": "w_005260",
+    "content": "at one's very best",
+    "meaning_zh": "处于某人的最佳状态",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见程度表达"
+  },
+  {
+    "item_code": "w_005272",
+    "content": "at puberty",
+    "meaning_zh": "在青春期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生理阶段"
+  },
+  {
+    "item_code": "w_005275",
+    "content": "at risk from",
+    "meaning_zh": "面临来自……的风险",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见风险搭配"
+  },
+  {
+    "item_code": "w_005276",
+    "content": "at risk of",
+    "meaning_zh": "有……的风险；面临……危险",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见风险搭配"
+  },
+  {
+    "item_code": "w_005277",
+    "content": "at sb.'s convenience",
+    "meaning_zh": "在某人方便时",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "礼貌固定表达"
+  },
+  {
+    "item_code": "w_005278",
+    "content": "at sb.'s disposal",
+    "meaning_zh": "由某人支配；供某人使用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_005279",
+    "content": "at sb.'s expense",
+    "meaning_zh": "由某人付费；以某人为代价；取笑某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "多义固定表达"
+  },
+  {
+    "item_code": "w_005280",
+    "content": "at sb.'s service",
+    "meaning_zh": "随时为某人效劳",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "礼貌固定表达"
+  }
+]

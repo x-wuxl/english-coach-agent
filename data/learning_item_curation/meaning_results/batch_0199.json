@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_018463",
+    "content": "curly strait",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合噪声"
+  },
+  {
+    "item_code": "w_018494",
+    "content": "currently nowadays",
+    "meaning_zh": "目前；如今",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "近义词堆叠"
+  },
+  {
+    "item_code": "w_018505",
+    "content": "curse diligent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合噪声"
+  },
+  {
+    "item_code": "w_018518",
+    "content": "curtain carpet",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合噪声"
+  },
+  {
+    "item_code": "w_018527",
+    "content": "curve ultraviolet competitor",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合噪声"
+  },
+  {
+    "item_code": "w_018529",
+    "content": "curved diagonal disc ellipse",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合噪声"
+  },
+  {
+    "item_code": "w_018534",
+    "content": "curé",
+    "meaning_zh": "堂区神父；牧师",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法语借词常见义"
+  },
+  {
+    "item_code": "w_018541",
+    "content": "cusp helicopter",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合噪声"
+  },
+  {
+    "item_code": "w_018544",
+    "content": "custard delicacy eggplant",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合噪声"
+  },
+  {
+    "item_code": "w_018548",
+    "content": "custody quarantine",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_018553",
+    "content": "customary haunt",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_018561",
+    "content": "customer records",
+    "meaning_zh": "客户记录；客户资料",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常见搭配"
+  },
+  {
+    "item_code": "w_018562",
+    "content": "customer regard",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_018564",
+    "content": "customer serve salesperson",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "语法不成立"
+  },
+  {
+    "item_code": "w_018574",
+    "content": "customized calendar",
+    "meaning_zh": "定制日历",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_018578",
+    "content": "customs inspect",
+    "meaning_zh": "海关检查",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "应为检查搭配"
+  },
+  {
+    "item_code": "w_018602",
+    "content": "cut down the budget",
+    "meaning_zh": "削减预算",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词搭配"
+  },
+  {
+    "item_code": "w_018603",
+    "content": "cut down the staff",
+    "meaning_zh": "裁减员工；缩减人员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词搭配"
+  },
+  {
+    "item_code": "w_018610",
+    "content": "cut one's hair",
+    "meaning_zh": "剪头发",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_018611",
+    "content": "cut one's hair short",
+    "meaning_zh": "把头发剪短",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  }
+]

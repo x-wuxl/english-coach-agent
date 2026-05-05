@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_077884",
+    "content": "unique life experience",
+    "meaning_zh": "独特的人生经历",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_077885",
+    "content": "unique status",
+    "meaning_zh": "独特地位；特殊身份",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_077886",
+    "content": "unique value contribution",
+    "meaning_zh": "独特的价值贡献",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "商务教育常见表达"
+  },
+  {
+    "item_code": "w_077889",
+    "content": "unique scenery",
+    "meaning_zh": "独特的风景",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词短语"
+  },
+  {
+    "item_code": "w_077891",
+    "content": "unisex education",
+    "meaning_zh": "不分性别的教育；男女同校教育",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按整体含义解释"
+  },
+  {
+    "item_code": "w_077924",
+    "content": "universal newlines",
+    "meaning_zh": "通用换行符",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_077925",
+    "content": "universal preschool education",
+    "meaning_zh": "普及性学前教育",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育政策表达"
+  },
+  {
+    "item_code": "w_077927",
+    "content": "universal two-child policy",
+    "meaning_zh": "全面二孩政策",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策固定表达"
+  },
+  {
+    "item_code": "w_077933",
+    "content": "university choir",
+    "meaning_zh": "大学合唱团",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "校园常见短语"
+  },
+  {
+    "item_code": "w_077936",
+    "content": "university facilities",
+    "meaning_zh": "大学设施；校园设施",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "校园常见短语"
+  },
+  {
+    "item_code": "w_077937",
+    "content": "university fees",
+    "meaning_zh": "大学费用；大学学费",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育常见短语"
+  },
+  {
+    "item_code": "w_077939",
+    "content": "university helpline",
+    "meaning_zh": "大学服务热线；校园求助热线",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "校园服务表达"
+  },
+  {
+    "item_code": "w_077940",
+    "content": "university lecturer",
+    "meaning_zh": "大学讲师",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职业称谓"
+  },
+  {
+    "item_code": "w_077942",
+    "content": "university sports coaches",
+    "meaning_zh": "大学体育教练",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "校园职业短语"
+  },
+  {
+    "item_code": "w_077944",
+    "content": "university-admission process",
+    "meaning_zh": "大学录取流程；大学招生流程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "招生常见表达"
+  },
+  {
+    "item_code": "w_077983",
+    "content": "unload material",
+    "meaning_zh": "卸载材料；卸料",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词短语"
+  },
+  {
+    "item_code": "w_077996",
+    "content": "unmanned supermarket",
+    "meaning_zh": "无人超市",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商业常见术语"
+  },
+  {
+    "item_code": "w_078015",
+    "content": "unmitigated brink",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常，含义不明"
+  },
+  {
+    "item_code": "w_078047",
+    "content": "unpair",
+    "meaning_zh": "取消配对；解除配对",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "设备操作常用词"
+  },
+  {
+    "item_code": "w_078068",
+    "content": "unprecedented download approval",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常，含义不明"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_036061",
+    "content": "humorous language",
+    "meaning_zh": "幽默语言；诙谐用语",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_036064",
+    "content": "humour sense",
+    "meaning_zh": "幽默感",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "应为sense of humour"
+  },
+  {
+    "item_code": "w_036075",
+    "content": "hunched",
+    "meaning_zh": "弓背的；驼背的；蜷缩的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词"
+  },
+  {
+    "item_code": "w_036077",
+    "content": "hundred mark system",
+    "meaning_zh": "百分制",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育评分术语"
+  },
+  {
+    "item_code": "w_036081",
+    "content": "hundreds of millions of",
+    "meaning_zh": "数以亿计的；亿万的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定数量表达"
+  },
+  {
+    "item_code": "w_036091",
+    "content": "hunger marketing",
+    "meaning_zh": "饥饿营销",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商业营销术语"
+  },
+  {
+    "item_code": "w_036092",
+    "content": "hungrily",
+    "meaning_zh": "饥饿地；渴望地",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见副词"
+  },
+  {
+    "item_code": "w_036095",
+    "content": "hungry for opportunities",
+    "meaning_zh": "渴望机会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_036104",
+    "content": "hunt one's prey",
+    "meaning_zh": "捕猎猎物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_036112",
+    "content": "hunting costume",
+    "meaning_zh": "猎装；打猎服",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "服装名词短语"
+  },
+  {
+    "item_code": "w_036115",
+    "content": "hurang",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法判断疑似噪声"
+  },
+  {
+    "item_code": "w_036125",
+    "content": "hurricane simplicity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然固定表达"
+  },
+  {
+    "item_code": "w_036131",
+    "content": "hurry rush",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "重复拼接疑似噪声"
+  },
+  {
+    "item_code": "w_036135",
+    "content": "hurt her arm",
+    "meaning_zh": "弄伤她的胳膊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动作短语"
+  },
+  {
+    "item_code": "w_036136",
+    "content": "hurt himself",
+    "meaning_zh": "弄伤自己",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句佐证"
+  },
+  {
+    "item_code": "w_036137",
+    "content": "hurt myself",
+    "meaning_zh": "弄伤我自己",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见反身搭配"
+  },
+  {
+    "item_code": "w_036138",
+    "content": "hurt your eyes",
+    "meaning_zh": "伤害你的眼睛；使眼睛不舒服",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动作短语"
+  },
+  {
+    "item_code": "w_036139",
+    "content": "hurt your head",
+    "meaning_zh": "伤到你的头",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动作短语"
+  },
+  {
+    "item_code": "w_036149",
+    "content": "husk depreciate rancor",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠疑似噪声"
+  },
+  {
+    "item_code": "w_036158",
+    "content": "huxter",
+    "meaning_zh": "小贩；叫卖商贩",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见词疑似huckster"
+  }
+]

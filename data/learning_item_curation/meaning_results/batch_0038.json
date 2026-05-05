@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_002410",
+    "content": "air-quality crisis",
+    "meaning_zh": "空气质量危机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环境类常见短语"
+  },
+  {
+    "item_code": "w_002414",
+    "content": "air-water interaction",
+    "meaning_zh": "空气与水的相互作用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "科学类固定表达"
+  },
+  {
+    "item_code": "w_002419",
+    "content": "airborne microorganism",
+    "meaning_zh": "空气传播的微生物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生物环境术语"
+  },
+  {
+    "item_code": "w_002420",
+    "content": "airborne particulate matter",
+    "meaning_zh": "空气悬浮颗粒物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环境科学术语"
+  },
+  {
+    "item_code": "w_002424",
+    "content": "aircraft wreckage",
+    "meaning_zh": "飞机残骸",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_002436",
+    "content": "airliner retrieval launch handicap",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_002444",
+    "content": "airport airline terminal",
+    "meaning_zh": "机场航站楼；航空公司候机楼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略生硬但可判断"
+  },
+  {
+    "item_code": "w_002454",
+    "content": "airsots",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_002464",
+    "content": "airway ankle anus backbone",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个无关词拼接"
+  },
+  {
+    "item_code": "w_002472",
+    "content": "Akademos",
+    "meaning_zh": "阿卡德摩斯",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有名词"
+  },
+  {
+    "item_code": "w_002479",
+    "content": "Akira Nagata",
+    "meaning_zh": "永田明",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "人名"
+  },
+  {
+    "item_code": "w_002490",
+    "content": "Alan Eddison",
+    "meaning_zh": "艾伦·埃迪森",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "人名"
+  },
+  {
+    "item_code": "w_002491",
+    "content": "Alan Meyer",
+    "meaning_zh": "艾伦·迈耶",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "人名"
+  },
+  {
+    "item_code": "w_002493",
+    "content": "Alanis Morissette",
+    "meaning_zh": "阿兰妮斯·莫莉塞特",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "歌手姓名"
+  },
+  {
+    "item_code": "w_002499",
+    "content": "alarming system",
+    "meaning_zh": "报警系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "应为alarm system"
+  },
+  {
+    "item_code": "w_002507",
+    "content": "alay",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_002532",
+    "content": "alcohol prospectus",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_002535",
+    "content": "alcoholic alcoholism",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "两个词误拼接"
+  },
+  {
+    "item_code": "w_002557",
+    "content": "Alexandria University",
+    "meaning_zh": "亚历山大大学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "大学名称"
+  },
+  {
+    "item_code": "w_002558",
+    "content": "Alexis",
+    "meaning_zh": "亚历克西斯",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人名"
+  }
+]

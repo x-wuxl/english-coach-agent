@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_051700",
+    "content": "on the government payroll",
+    "meaning_zh": "由政府发薪；在政府任职",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配含义明确"
+  },
+  {
+    "item_code": "w_051721",
+    "content": "on the local scale",
+    "meaning_zh": "在地方范围内；在局部尺度上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "按整体短语释义"
+  },
+  {
+    "item_code": "w_051723",
+    "content": "on the losing side",
+    "meaning_zh": "站在失败的一方；处于败势",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_051725",
+    "content": "on the margin",
+    "meaning_zh": "在边缘；边际上；以微弱差距",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "多义短语无例句"
+  },
+  {
+    "item_code": "w_051727",
+    "content": "on the mind of",
+    "meaning_zh": "萦绕在……心头；被……惦记",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "对应on one's mind"
+  },
+  {
+    "item_code": "w_051730",
+    "content": "on the mood of",
+    "meaning_zh": "对……的情绪；关于……的心情",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "介词短语含义可判"
+  },
+  {
+    "item_code": "w_051732",
+    "content": "on the negative side",
+    "meaning_zh": "从消极方面看；不利的是",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见转折表达"
+  },
+  {
+    "item_code": "w_051739",
+    "content": "on the outskirts",
+    "meaning_zh": "在郊区；在市郊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指居住在郊区"
+  },
+  {
+    "item_code": "w_051741",
+    "content": "on the periphery of",
+    "meaning_zh": "在……的外围；处于……的边缘",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常用表达"
+  },
+  {
+    "item_code": "w_051745",
+    "content": "on the positive side",
+    "meaning_zh": "从积极方面看；好的一面是",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见转折表达"
+  },
+  {
+    "item_code": "w_051747",
+    "content": "on the progress of",
+    "meaning_zh": "对……的进展；关于……的进度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句说明影响进度"
+  },
+  {
+    "item_code": "w_051749",
+    "content": "on the result that",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然且无例句"
+  },
+  {
+    "item_code": "w_051756",
+    "content": "on the sands",
+    "meaning_zh": "在沙滩上；在沙地上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "普通介词短语"
+  },
+  {
+    "item_code": "w_051758",
+    "content": "on the scene of",
+    "meaning_zh": "在……现场；在……场景中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见现场表达"
+  },
+  {
+    "item_code": "w_051761",
+    "content": "on the sky",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配错误应为in the sky"
+  },
+  {
+    "item_code": "w_051770",
+    "content": "on the throne",
+    "meaning_zh": "在位；执政；登上王位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定政治历史表达"
+  },
+  {
+    "item_code": "w_051771",
+    "content": "on the tip of",
+    "meaning_zh": "就在……尖端；差点想起或说出",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句为舌尖现象"
+  },
+  {
+    "item_code": "w_051773",
+    "content": "on the top side",
+    "meaning_zh": "在上侧；在顶部一面",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "普通位置短语"
+  },
+  {
+    "item_code": "w_051775",
+    "content": "on the two sides",
+    "meaning_zh": "在两侧；在双方",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "普通介词短语"
+  },
+  {
+    "item_code": "w_051784",
+    "content": "on the way toward",
+    "meaning_zh": "在前往……的路上；朝……发展",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见方向短语"
+  }
+]

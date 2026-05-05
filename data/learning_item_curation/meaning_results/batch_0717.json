@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_070737",
+    "content": "subsidize simplify",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无关词拼接噪声"
+  },
+  {
+    "item_code": "w_070740",
+    "content": "subsidy insulation radius",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无关词拼接噪声"
+  },
+  {
+    "item_code": "w_070752",
+    "content": "substandard milk powder",
+    "meaning_zh": "不合格奶粉；劣质奶粉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_070753",
+    "content": "substandard subsidiary",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_070755",
+    "content": "substantial premium",
+    "meaning_zh": "高额溢价；高额额外费用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "财经常见搭配"
+  },
+  {
+    "item_code": "w_070756",
+    "content": "substantial profits",
+    "meaning_zh": "可观的利润；丰厚利润",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商业搭配"
+  },
+  {
+    "item_code": "w_070760",
+    "content": "substantive in still impassive",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "语序混乱噪声"
+  },
+  {
+    "item_code": "w_070769",
+    "content": "substitute resources",
+    "meaning_zh": "替代资源",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_070791",
+    "content": "subterranean cave",
+    "meaning_zh": "地下洞穴",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "TOEFL常见搭配"
+  },
+  {
+    "item_code": "w_070798",
+    "content": "subtitle producer",
+    "meaning_zh": "字幕制作人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职业名词短语"
+  },
+  {
+    "item_code": "w_070801",
+    "content": "subtle design",
+    "meaning_zh": "巧妙的设计；精妙设计",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_070802",
+    "content": "subtle toy",
+    "meaning_zh": "精巧的玩具",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解但少见"
+  },
+  {
+    "item_code": "w_070806",
+    "content": "subtotal",
+    "meaning_zh": "小计；部分合计",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算表格常用词"
+  },
+  {
+    "item_code": "w_070832",
+    "content": "subway applaud",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无关词拼接噪声"
+  },
+  {
+    "item_code": "w_070833",
+    "content": "Subway Library",
+    "meaning_zh": "地铁图书馆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑似专有名称"
+  },
+  {
+    "item_code": "w_070834",
+    "content": "subway line",
+    "meaning_zh": "地铁线路；地铁线",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配交通场景"
+  },
+  {
+    "item_code": "w_070836",
+    "content": "subway stop",
+    "meaning_zh": "地铁站；地铁停靠站",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见交通表达"
+  },
+  {
+    "item_code": "w_070838",
+    "content": "subway tram streetcar",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "同类词堆叠噪声"
+  },
+  {
+    "item_code": "w_070842",
+    "content": "succeed in doing sth",
+    "meaning_zh": "成功做成某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_070850",
+    "content": "successful businessmen",
+    "meaning_zh": "成功的商人；成功的企业家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  }
+]

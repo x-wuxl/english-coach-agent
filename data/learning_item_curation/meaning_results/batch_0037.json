@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_002281",
+    "content": "agree with one's idea",
+    "meaning_zh": "同意某人的想法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_002282",
+    "content": "agree with one's opinion",
+    "meaning_zh": "同意某人的观点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_002286",
+    "content": "agreeable trifling",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不常见"
+  },
+  {
+    "item_code": "w_002289",
+    "content": "agreed account",
+    "meaning_zh": "已确认账目；约定账目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "会计法律搭配"
+  },
+  {
+    "item_code": "w_002295",
+    "content": "agricultural books",
+    "meaning_zh": "农业书籍",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_002302",
+    "content": "agricultural training college",
+    "meaning_zh": "农业培训学院；农业职业学院",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育机构名词短语"
+  },
+  {
+    "item_code": "w_002303",
+    "content": "agricultural workforce",
+    "meaning_zh": "农业劳动力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见行业表达"
+  },
+  {
+    "item_code": "w_002310",
+    "content": "agrimonious martinet",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_002314",
+    "content": "agro-scientific",
+    "meaning_zh": "农业科学的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_002332",
+    "content": "Ahmed Aziz",
+    "meaning_zh": "艾哈迈德·阿齐兹（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有名词人名"
+  },
+  {
+    "item_code": "w_002334",
+    "content": "AI start-ups",
+    "meaning_zh": "人工智能初创企业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "科技商业搭配"
+  },
+  {
+    "item_code": "w_002337",
+    "content": "aid commission",
+    "meaning_zh": "援助委员会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "机构类名词短语"
+  },
+  {
+    "item_code": "w_002349",
+    "content": "aim at the target",
+    "meaning_zh": "瞄准目标",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动作短语"
+  },
+  {
+    "item_code": "w_002351",
+    "content": "aim in life",
+    "meaning_zh": "人生目标",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  },
+  {
+    "item_code": "w_002355",
+    "content": "aim to do something",
+    "meaning_zh": "打算做某事；旨在做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型"
+  },
+  {
+    "item_code": "w_002376",
+    "content": "air is stuffy",
+    "meaning_zh": "空气闷热；空气不流通",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见描述表达"
+  },
+  {
+    "item_code": "w_002378",
+    "content": "air one's view",
+    "meaning_zh": "发表某人的看法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词搭配"
+  },
+  {
+    "item_code": "w_002387",
+    "content": "air quality monitoring",
+    "meaning_zh": "空气质量监测",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保技术术语"
+  },
+  {
+    "item_code": "w_002388",
+    "content": "air rage tribe",
+    "meaning_zh": "空怒族；飞机上易怒的人群",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "社会现象表达"
+  },
+  {
+    "item_code": "w_002408",
+    "content": "air-defense unit",
+    "meaning_zh": "防空部队；防空单位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "军事术语"
+  }
+]

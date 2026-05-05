@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_075667",
+    "content": "tractable in vay",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声短语"
+  },
+  {
+    "item_code": "w_075675",
+    "content": "trade agent",
+    "meaning_zh": "贸易代理人；贸易代理商",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商务搭配"
+  },
+  {
+    "item_code": "w_075678",
+    "content": "trade bullying",
+    "meaning_zh": "贸易霸凌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见经贸表达"
+  },
+  {
+    "item_code": "w_075691",
+    "content": "trade journals",
+    "meaning_zh": "行业期刊；专业期刊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定商务搭配"
+  },
+  {
+    "item_code": "w_075696",
+    "content": "trade places with",
+    "meaning_zh": "与……交换位置；与……互换处境",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  },
+  {
+    "item_code": "w_075697",
+    "content": "trade press",
+    "meaning_zh": "行业媒体；专业报刊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定媒体术语"
+  },
+  {
+    "item_code": "w_075705",
+    "content": "trade spontaneous hike",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_075710",
+    "content": "trade tariff",
+    "meaning_zh": "贸易关税",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务英语术语"
+  },
+  {
+    "item_code": "w_075723",
+    "content": "trademark allocate muscle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声组合"
+  },
+  {
+    "item_code": "w_075724",
+    "content": "trademark plan",
+    "meaning_zh": "商标计划；商标方案",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "商标相关搭配"
+  },
+  {
+    "item_code": "w_075728",
+    "content": "trader herald",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义无法可靠判断"
+  },
+  {
+    "item_code": "w_075730",
+    "content": "trades",
+    "meaning_zh": "做贸易；交易",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指贸易往来"
+  },
+  {
+    "item_code": "w_075732",
+    "content": "tradesmen",
+    "meaning_zh": "商贩；手艺人；技工",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见复数名词"
+  },
+  {
+    "item_code": "w_075742",
+    "content": "traditional academic institution",
+    "meaning_zh": "传统学术机构",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_075743",
+    "content": "traditional and conservative",
+    "meaning_zh": "传统而保守的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_075745",
+    "content": "traditional Chinese dishes",
+    "meaning_zh": "中国传统菜肴",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见饮食表达"
+  },
+  {
+    "item_code": "w_075746",
+    "content": "traditional Chinese ideology",
+    "meaning_zh": "中国传统思想；中国传统意识形态",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_075752",
+    "content": "traditional country",
+    "meaning_zh": "传统国家；传统型国家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "需语境判定"
+  },
+  {
+    "item_code": "w_075754",
+    "content": "traditional dances",
+    "meaning_zh": "传统舞蹈",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见文化表达"
+  },
+  {
+    "item_code": "w_075757",
+    "content": "traditional folk",
+    "meaning_zh": "传统民间的；传统民俗的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配需补充名词"
+  }
+]

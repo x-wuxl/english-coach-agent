@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_030217",
+    "content": "gang punk",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配罕见且无例句"
+  },
+  {
+    "item_code": "w_030236",
+    "content": "gangster reunification",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然且无例句"
+  },
+  {
+    "item_code": "w_030242",
+    "content": "gao",
+    "meaning_zh": "高（中文姓氏）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句为姓氏用法"
+  },
+  {
+    "item_code": "w_030244",
+    "content": "gaokao migrant",
+    "meaning_zh": "高考移民",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会教育术语"
+  },
+  {
+    "item_code": "w_030249",
+    "content": "gap among ...",
+    "meaning_zh": "……之间的差距",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_030250",
+    "content": "gap between ...",
+    "meaning_zh": "……之间的差距",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_030251",
+    "content": "gap in ...",
+    "meaning_zh": "……方面的差距；……中的缺口",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_030252",
+    "content": "gap quality diet",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似残缺搭配"
+  },
+  {
+    "item_code": "w_030256",
+    "content": "gaping baby-size holes",
+    "meaning_zh": "婴儿大小的巨大洞口",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可按整体短语理解"
+  },
+  {
+    "item_code": "w_030258",
+    "content": "gar",
+    "meaning_zh": "雀鳝",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见鱼类名"
+  },
+  {
+    "item_code": "w_030265",
+    "content": "garbage classification",
+    "meaning_zh": "垃圾分类",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见环保表达"
+  },
+  {
+    "item_code": "w_030269",
+    "content": "garbage sorting",
+    "meaning_zh": "垃圾分类",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见环保表达"
+  },
+  {
+    "item_code": "w_030275",
+    "content": "garden entertainment",
+    "meaning_zh": "花园娱乐活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "字面搭配可理解"
+  },
+  {
+    "item_code": "w_030282",
+    "content": "gardner",
+    "meaning_zh": "加德纳（姓氏）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "多为人名姓氏"
+  },
+  {
+    "item_code": "w_030289",
+    "content": "garlic pepper",
+    "meaning_zh": "蒜香胡椒；大蒜胡椒调味料",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见调味品搭配"
+  },
+  {
+    "item_code": "w_030291",
+    "content": "garment accost",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合不自然"
+  },
+  {
+    "item_code": "w_030301",
+    "content": "Garth Brooks",
+    "meaning_zh": "加斯·布鲁克斯（美国歌手）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "知名人名"
+  },
+  {
+    "item_code": "w_030302",
+    "content": "Gary",
+    "meaning_zh": "加里（男子名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见英文名"
+  },
+  {
+    "item_code": "w_030311",
+    "content": "gas-fueled vehicles",
+    "meaning_zh": "燃油汽车；汽油驱动车辆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见交通表达"
+  },
+  {
+    "item_code": "w_030318",
+    "content": "gash practitioner",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然且无例句"
+  }
+]

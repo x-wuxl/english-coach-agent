@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_016423",
+    "content": "Connecticut",
+    "meaning_zh": "康涅狄格州",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "美国州名"
+  },
+  {
+    "item_code": "w_016428",
+    "content": "connections of work",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_016433",
+    "content": "connects",
+    "meaning_zh": "连接；联系",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句表示连接"
+  },
+  {
+    "item_code": "w_016435",
+    "content": "Connie",
+    "meaning_zh": "康妮",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见人名"
+  },
+  {
+    "item_code": "w_016445",
+    "content": "conquer mill",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_016454",
+    "content": "conscience forum",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义不可靠"
+  },
+  {
+    "item_code": "w_016457",
+    "content": "conscientious row",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_016470",
+    "content": "consecutive apparent resonance",
+    "meaning_zh": "连续表观共振",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑似技术术语"
+  },
+  {
+    "item_code": "w_016471",
+    "content": "consecutive even integer",
+    "meaning_zh": "连续偶整数",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "数学常用表达"
+  },
+  {
+    "item_code": "w_016472",
+    "content": "consecutive integer",
+    "meaning_zh": "连续整数",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "数学常用表达"
+  },
+  {
+    "item_code": "w_016474",
+    "content": "consecutive odd integer",
+    "meaning_zh": "连续奇整数",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "数学常用表达"
+  },
+  {
+    "item_code": "w_016478",
+    "content": "consensus about",
+    "meaning_zh": "关于……的共识",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词搭配"
+  },
+  {
+    "item_code": "w_016479",
+    "content": "consensus internet",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_016480",
+    "content": "consensus March",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_016481",
+    "content": "consensus on",
+    "meaning_zh": "就……达成的共识",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词搭配"
+  },
+  {
+    "item_code": "w_016488",
+    "content": "consequent device",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义不可靠"
+  },
+  {
+    "item_code": "w_016493",
+    "content": "conservation approaches",
+    "meaning_zh": "保护方法；保护措施",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常见搭配"
+  },
+  {
+    "item_code": "w_016494",
+    "content": "conservation biologist",
+    "meaning_zh": "保护生物学家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专业职业名称"
+  },
+  {
+    "item_code": "w_016495",
+    "content": "conservation mat",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义不可靠"
+  },
+  {
+    "item_code": "w_016500",
+    "content": "conservative defray disinfect",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串噪声"
+  }
+]

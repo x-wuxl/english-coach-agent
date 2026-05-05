@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_020767",
+    "content": "dike clawing",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机拼接噪声"
+  },
+  {
+    "item_code": "w_020769",
+    "content": "dilapidate mime",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机拼接噪声"
+  },
+  {
+    "item_code": "w_020772",
+    "content": "dilatante",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_020775",
+    "content": "dilate amusement",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_020784",
+    "content": "diligence impersonal pin osmosis",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机拼接噪声"
+  },
+  {
+    "item_code": "w_020793",
+    "content": "dim perturb",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_020796",
+    "content": "dim sum bond",
+    "meaning_zh": "点心债；境外人民币债券",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融固定术语"
+  },
+  {
+    "item_code": "w_020801",
+    "content": "dimension hooray frumbus fraternity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含非标准词噪声"
+  },
+  {
+    "item_code": "w_020804",
+    "content": "dimensional freight",
+    "meaning_zh": "按体积计费的货运",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "物流相关搭配"
+  },
+  {
+    "item_code": "w_020810",
+    "content": "diminish function",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_020821",
+    "content": "dimple eyeliner",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机拼接噪声"
+  },
+  {
+    "item_code": "w_020838",
+    "content": "dining table pollution",
+    "meaning_zh": "餐桌污染；食品安全污染",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境指食品安全"
+  },
+  {
+    "item_code": "w_020842",
+    "content": "DINK families",
+    "meaning_zh": "丁克家庭；双收入无子女家庭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "社会学常用表达"
+  },
+  {
+    "item_code": "w_020843",
+    "content": "dink family",
+    "meaning_zh": "丁克家庭；双收入无子女家庭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "社会学常用表达"
+  },
+  {
+    "item_code": "w_020849",
+    "content": "dinner served time",
+    "meaning_zh": "晚餐供应时间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "生活场景表达"
+  },
+  {
+    "item_code": "w_020850",
+    "content": "dinner-table discussion",
+    "meaning_zh": "餐桌讨论；晚餐时的谈话",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定复合表达"
+  },
+  {
+    "item_code": "w_020854",
+    "content": "dinosaur fossil",
+    "meaning_zh": "恐龙化石",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_020855",
+    "content": "dinosaur skeleton",
+    "meaning_zh": "恐龙骨架",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_020858",
+    "content": "diocesan summon",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_020868",
+    "content": "dip drumstick dumpling jelly",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机拼接噪声"
+  }
+]

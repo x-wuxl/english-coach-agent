@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_081783",
+    "content": "wrapped",
+    "meaning_zh": "裹着的；包起来的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指裹住身体"
+  },
+  {
+    "item_code": "w_081807",
+    "content": "wrestling yacht",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_081810",
+    "content": "wretched boat",
+    "meaning_zh": "破旧的小船；糟糕的船",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "形容词加名词搭配"
+  },
+  {
+    "item_code": "w_081817",
+    "content": "wrinkle cabinet",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_081822",
+    "content": "wristband archery",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_081831",
+    "content": "write an e-mail",
+    "meaning_zh": "写电子邮件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾短语"
+  },
+  {
+    "item_code": "w_081834",
+    "content": "write legibly",
+    "meaning_zh": "书写清楚；写字工整",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见副词搭配"
+  },
+  {
+    "item_code": "w_081835",
+    "content": "write letters",
+    "meaning_zh": "写信；写字母",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含两种义项"
+  },
+  {
+    "item_code": "w_081836",
+    "content": "write medication",
+    "meaning_zh": "开药",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医疗语境中可指开药"
+  },
+  {
+    "item_code": "w_081837",
+    "content": "write music",
+    "meaning_zh": "作曲；创作音乐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾短语"
+  },
+  {
+    "item_code": "w_081842",
+    "content": "write test",
+    "meaning_zh": "参加考试；编写测试",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含地区和技术义"
+  },
+  {
+    "item_code": "w_081843",
+    "content": "write thank-you notes",
+    "meaning_zh": "写感谢信；写感谢便条",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见礼仪表达"
+  },
+  {
+    "item_code": "w_081845",
+    "content": "write to Grandma",
+    "meaning_zh": "给奶奶写信",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见写信表达"
+  },
+  {
+    "item_code": "w_081857",
+    "content": "writing contract",
+    "meaning_zh": "书面合同；写合同",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作名词或动作短语"
+  },
+  {
+    "item_code": "w_081869",
+    "content": "written literature",
+    "meaning_zh": "书面文学；文字文学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "学术类名词短语"
+  },
+  {
+    "item_code": "w_081872",
+    "content": "written response",
+    "meaning_zh": "书面答复；书面回答",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见考试表达"
+  },
+  {
+    "item_code": "w_081876",
+    "content": "wrong headed outlandish",
+    "meaning_zh": "固执错误且怪异的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "并列形容词短语"
+  },
+  {
+    "item_code": "w_081887",
+    "content": "wrote a letter",
+    "meaning_zh": "写了一封信",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_081895",
+    "content": "wu",
+    "meaning_zh": "吴语",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指汉语方言"
+  },
+  {
+    "item_code": "w_081903",
+    "content": "x miles per hour",
+    "meaning_zh": "每小时x英里",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "速度单位表达"
+  }
+]

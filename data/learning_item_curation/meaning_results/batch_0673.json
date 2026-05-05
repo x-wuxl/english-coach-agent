@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_066328",
+    "content": "shoulder one's responsibilities",
+    "meaning_zh": "承担责任",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_066338",
+    "content": "shout sb.'s head off",
+    "meaning_zh": "冲某人大喊大叫",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语表达"
+  },
+  {
+    "item_code": "w_066339",
+    "content": "shout scream",
+    "meaning_zh": "喊叫；尖叫",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "近义词堆叠"
+  },
+  {
+    "item_code": "w_066345",
+    "content": "shove for attention among",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_066348",
+    "content": "shovel soot",
+    "meaning_zh": "铲煤烟灰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "普通动宾搭配"
+  },
+  {
+    "item_code": "w_066350",
+    "content": "shovenism",
+    "meaning_zh": "沙文主义",
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "疑为拼写错误"
+  },
+  {
+    "item_code": "w_066358",
+    "content": "show every sign of",
+    "meaning_zh": "显露出种种迹象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_066359",
+    "content": "show filial obedience",
+    "meaning_zh": "表现出孝顺",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解搭配"
+  },
+  {
+    "item_code": "w_066360",
+    "content": "show handclap",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_066362",
+    "content": "show in coordinate clatter",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "语义不通"
+  },
+  {
+    "item_code": "w_066369",
+    "content": "show romance",
+    "meaning_zh": "表现浪漫情怀",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "普通搭配"
+  },
+  {
+    "item_code": "w_066373",
+    "content": "show sb. out",
+    "meaning_zh": "送某人出去",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语动词"
+  },
+  {
+    "item_code": "w_066382",
+    "content": "show the ticket",
+    "meaning_zh": "出示票",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_066383",
+    "content": "show their authority",
+    "meaning_zh": "显示他们的权威",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_066384",
+    "content": "show their best",
+    "meaning_zh": "展现最佳状态",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解表达"
+  },
+  {
+    "item_code": "w_066391",
+    "content": "shower brush",
+    "meaning_zh": "淋浴刷",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生活用品名词"
+  },
+  {
+    "item_code": "w_066411",
+    "content": "shrewd deleterious",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无义"
+  },
+  {
+    "item_code": "w_066418",
+    "content": "shrimp prohibition",
+    "meaning_zh": "虾类禁令",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "生硬拼接"
+  },
+  {
+    "item_code": "w_066422",
+    "content": "shrink away from",
+    "meaning_zh": "畏缩回避；躲避",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语动词"
+  },
+  {
+    "item_code": "w_066423",
+    "content": "shrink back from",
+    "meaning_zh": "畏缩回避；退缩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语动词"
+  }
+]

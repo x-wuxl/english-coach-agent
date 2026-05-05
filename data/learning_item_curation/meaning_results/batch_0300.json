@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_028466",
+    "content": "floralistic",
+    "meaning_zh": "花卉的；植物区系的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见但可判断含义"
+  },
+  {
+    "item_code": "w_028474",
+    "content": "florid onset",
+    "meaning_zh": "症状明显的发病",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学搭配"
+  },
+  {
+    "item_code": "w_028488",
+    "content": "flourish testi",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声残片"
+  },
+  {
+    "item_code": "w_028496",
+    "content": "flow of execution",
+    "meaning_zh": "执行流程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_028503",
+    "content": "flower grudge",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配"
+  },
+  {
+    "item_code": "w_028510",
+    "content": "flowerette",
+    "meaning_zh": "小花",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "floweret变体"
+  },
+  {
+    "item_code": "w_028515",
+    "content": "flowers of evil",
+    "meaning_zh": "《恶之花》",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文学作品名"
+  },
+  {
+    "item_code": "w_028517",
+    "content": "flowers or cosmetics",
+    "meaning_zh": "鲜花或化妆品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通并列表达"
+  },
+  {
+    "item_code": "w_028518",
+    "content": "flowers or landscape",
+    "meaning_zh": "花卉或风景",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通并列表达"
+  },
+  {
+    "item_code": "w_028521",
+    "content": "flowing cycle",
+    "meaning_zh": "流动循环",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可按搭配理解"
+  },
+  {
+    "item_code": "w_028525",
+    "content": "flu epidemic",
+    "meaning_zh": "流感疫情",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "公共卫生常用表达"
+  },
+  {
+    "item_code": "w_028531",
+    "content": "fluctuating salary",
+    "meaning_zh": "浮动工资；波动薪资",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职场常用搭配"
+  },
+  {
+    "item_code": "w_028533",
+    "content": "fluctuation capability",
+    "meaning_zh": "波动能力；波动幅度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义依语境变化"
+  },
+  {
+    "item_code": "w_028534",
+    "content": "fluctuation endocrin",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "endocrin疑似残词"
+  },
+  {
+    "item_code": "w_028539",
+    "content": "fluent determine ineligible challenge",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串无明确含义"
+  },
+  {
+    "item_code": "w_028540",
+    "content": "fluent largess paradigm vitiate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串无明确含义"
+  },
+  {
+    "item_code": "w_028541",
+    "content": "fluent plus",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义无法可靠判断"
+  },
+  {
+    "item_code": "w_028545",
+    "content": "fluffy catkins",
+    "meaning_zh": "毛茸茸的柔荑花序；蓬松的柳絮",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "植物描写搭配"
+  },
+  {
+    "item_code": "w_028547",
+    "content": "fluid lava flow",
+    "meaning_zh": "流动性强的熔岩流",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地质常用搭配"
+  },
+  {
+    "item_code": "w_028560",
+    "content": "flunning",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  }
+]

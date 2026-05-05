@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_076183",
+    "content": "treat ... as if",
+    "meaning_zh": "把……当作好像……一样对待",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_076184",
+    "content": "treat ... as though",
+    "meaning_zh": "把……当作好像……一样对待",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_076195",
+    "content": "treatable ultrasound",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_076201",
+    "content": "treatment injection",
+    "meaning_zh": "治疗性注射",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学相关搭配"
+  },
+  {
+    "item_code": "w_076207",
+    "content": "tree hole post",
+    "meaning_zh": "树洞帖；匿名倾诉帖",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "网络表达"
+  },
+  {
+    "item_code": "w_076209",
+    "content": "Tree Planting Day",
+    "meaning_zh": "植树节",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "节日名称"
+  },
+  {
+    "item_code": "w_076221",
+    "content": "tremble shut",
+    "meaning_zh": "颤抖着闭上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "动作描写搭配"
+  },
+  {
+    "item_code": "w_076232",
+    "content": "trenchmate",
+    "meaning_zh": "战壕伙伴；战友",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见复合词"
+  },
+  {
+    "item_code": "w_076234",
+    "content": "trend inact",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声"
+  },
+  {
+    "item_code": "w_076241",
+    "content": "trendy cafe",
+    "meaning_zh": "时髦的咖啡馆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_076242",
+    "content": "trendy gross apologize",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌"
+  },
+  {
+    "item_code": "w_076251",
+    "content": "treveller",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "拼写错误"
+  },
+  {
+    "item_code": "w_076258",
+    "content": "trial edition",
+    "meaning_zh": "试用版",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见产品术语"
+  },
+  {
+    "item_code": "w_076262",
+    "content": "trial teaching",
+    "meaning_zh": "试讲；试教",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育场景搭配"
+  },
+  {
+    "item_code": "w_076270",
+    "content": "triangular valve",
+    "meaning_zh": "三角阀",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术术语"
+  },
+  {
+    "item_code": "w_076278",
+    "content": "tribal alliance",
+    "meaning_zh": "部落联盟",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见历史表达"
+  },
+  {
+    "item_code": "w_076279",
+    "content": "tribal traditions",
+    "meaning_zh": "部落传统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_076299",
+    "content": "trick drawing",
+    "meaning_zh": "错觉画；障眼法绘画",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "艺术类表达"
+  },
+  {
+    "item_code": "w_076309",
+    "content": "tricky dysentery deceit",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌"
+  },
+  {
+    "item_code": "w_076321",
+    "content": "trifle subconscious",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  }
+]

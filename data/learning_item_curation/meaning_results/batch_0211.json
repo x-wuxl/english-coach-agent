@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_019840",
+    "content": "dene",
+    "meaning_zh": "狭谷；林谷",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "少见地理词"
+  },
+  {
+    "item_code": "w_019846",
+    "content": "denied",
+    "meaning_zh": "否认；拒绝给予",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指否认"
+  },
+  {
+    "item_code": "w_019848",
+    "content": "denigrate opposite dread",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无意义词串"
+  },
+  {
+    "item_code": "w_019856",
+    "content": "denominate insight",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无常见搭配"
+  },
+  {
+    "item_code": "w_019866",
+    "content": "dense mortal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无常见搭配"
+  },
+  {
+    "item_code": "w_019871",
+    "content": "density calcium",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词序异常"
+  },
+  {
+    "item_code": "w_019876",
+    "content": "dental engagement",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义不可靠"
+  },
+  {
+    "item_code": "w_019881",
+    "content": "dentist emergency ambulance hospital",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词表残片"
+  },
+  {
+    "item_code": "w_019883",
+    "content": "dentition",
+    "meaning_zh": "牙列；出牙",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学常用词"
+  },
+  {
+    "item_code": "w_019894",
+    "content": "deny a request",
+    "meaning_zh": "拒绝请求",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_019895",
+    "content": "deny oneself doing sth.",
+    "meaning_zh": "克制自己不做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略不规范"
+  },
+  {
+    "item_code": "w_019908",
+    "content": "depart departure document",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词表残片"
+  },
+  {
+    "item_code": "w_019910",
+    "content": "depart towel",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无意义词串"
+  },
+  {
+    "item_code": "w_019918",
+    "content": "departmental library",
+    "meaning_zh": "院系图书馆；系资料室",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "校园场景搭配"
+  },
+  {
+    "item_code": "w_019919",
+    "content": "departments concerned",
+    "meaning_zh": "有关部门",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_019921",
+    "content": "departure airport",
+    "meaning_zh": "出发机场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅行场景搭配"
+  },
+  {
+    "item_code": "w_019922",
+    "content": "departure for",
+    "meaning_zh": "动身前往；启程去",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词搭配"
+  },
+  {
+    "item_code": "w_019927",
+    "content": "departure tax refund scheme",
+    "meaning_zh": "离境退税方案",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅行税务术语"
+  },
+  {
+    "item_code": "w_019944",
+    "content": "depict contemplate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无常见搭配"
+  },
+  {
+    "item_code": "w_019951",
+    "content": "deplete all natural resources",
+    "meaning_zh": "耗尽所有自然资源",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见环保表达"
+  }
+]

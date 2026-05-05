@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_007031",
+    "content": "be burnt to death",
+    "meaning_zh": "被烧死",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定被动短语"
+  },
+  {
+    "item_code": "w_007038",
+    "content": "be capable of doing",
+    "meaning_zh": "有能力做某事；能够做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见能力表达"
+  },
+  {
+    "item_code": "w_007044",
+    "content": "be cast down",
+    "meaning_zh": "沮丧；灰心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定情绪表达"
+  },
+  {
+    "item_code": "w_007046",
+    "content": "be caught up",
+    "meaning_zh": "被卷入；陷入；赶上进度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缺少介词语境"
+  },
+  {
+    "item_code": "w_007050",
+    "content": "be centered on",
+    "meaning_zh": "以……为中心；围绕",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_007052",
+    "content": "be centred around",
+    "meaning_zh": "以……为中心；围绕",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "英式拼写搭配"
+  },
+  {
+    "item_code": "w_007057",
+    "content": "be charged for",
+    "meaning_zh": "因……被收费；按……计费",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指按词计费"
+  },
+  {
+    "item_code": "w_007062",
+    "content": "be clipped off",
+    "meaning_zh": "被剪掉；被夹断",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见切断含义"
+  },
+  {
+    "item_code": "w_007064",
+    "content": "be closely linked to",
+    "meaning_zh": "与……密切相关；与……紧密相连",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见关系搭配"
+  },
+  {
+    "item_code": "w_007065",
+    "content": "be closely related to",
+    "meaning_zh": "与……密切相关",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见关系搭配"
+  },
+  {
+    "item_code": "w_007066",
+    "content": "be closely tied",
+    "meaning_zh": "紧密相连；密切相关",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "通常接to或with"
+  },
+  {
+    "item_code": "w_007069",
+    "content": "be common for",
+    "meaning_zh": "对……来说很常见",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见句型残段"
+  },
+  {
+    "item_code": "w_007074",
+    "content": "be competent to",
+    "meaning_zh": "有能力做；胜任",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "能力胜任表达"
+  },
+  {
+    "item_code": "w_007079",
+    "content": "be concentrated in",
+    "meaning_zh": "集中在；聚集于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见位置搭配"
+  },
+  {
+    "item_code": "w_007086",
+    "content": "be condemned to death",
+    "meaning_zh": "被判死刑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定法律表达"
+  },
+  {
+    "item_code": "w_007087",
+    "content": "be condemned to something",
+    "meaning_zh": "被判处某种刑罚；注定遭受某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "something语义较泛"
+  },
+  {
+    "item_code": "w_007092",
+    "content": "be confident about sb.",
+    "meaning_zh": "对某人有信心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见信心表达"
+  },
+  {
+    "item_code": "w_007093",
+    "content": "be confident about sth.",
+    "meaning_zh": "对某事有信心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见信心表达"
+  },
+  {
+    "item_code": "w_007094",
+    "content": "be confident in",
+    "meaning_zh": "对……有信心；信任",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词搭配"
+  },
+  {
+    "item_code": "w_007112",
+    "content": "be considered to be",
+    "meaning_zh": "被认为是；被看作是",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动表达"
+  }
+]

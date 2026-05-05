@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_033877",
+    "content": "have disagreement on",
+    "meaning_zh": "在……上有分歧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配，表示意见分歧"
+  },
+  {
+    "item_code": "w_033881",
+    "content": "have effect upon",
+    "meaning_zh": "对……有影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配，含义明确"
+  },
+  {
+    "item_code": "w_033882",
+    "content": "have effect upon sb.",
+    "meaning_zh": "对某人有影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "搭配对象为某人"
+  },
+  {
+    "item_code": "w_033883",
+    "content": "have effect upon sth.",
+    "meaning_zh": "对某事物有影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "搭配对象为某物或某事"
+  },
+  {
+    "item_code": "w_033884",
+    "content": "have every confidence in",
+    "meaning_zh": "对……完全有信心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见信心表达"
+  },
+  {
+    "item_code": "w_033885",
+    "content": "have every reason to",
+    "meaning_zh": "完全有理由……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持该含义"
+  },
+  {
+    "item_code": "w_033886",
+    "content": "have fantasies about ...",
+    "meaning_zh": "对……抱有幻想；幻想……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_033888",
+    "content": "have foot-in-mouth disease",
+    "meaning_zh": "说话常失言；老是说错话",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语，指言语失当"
+  },
+  {
+    "item_code": "w_033889",
+    "content": "have freedom",
+    "meaning_zh": "拥有自由",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持该含义"
+  },
+  {
+    "item_code": "w_033890",
+    "content": "have fresh fruit",
+    "meaning_zh": "吃新鲜水果",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "普通搭配，语境不足"
+  },
+  {
+    "item_code": "w_033894",
+    "content": "have goose bumps",
+    "meaning_zh": "起鸡皮疙瘩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达，含义明确"
+  },
+  {
+    "item_code": "w_033895",
+    "content": "have goose pimples",
+    "meaning_zh": "起鸡皮疙瘩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达，英式常见"
+  },
+  {
+    "item_code": "w_033898",
+    "content": "have great fun",
+    "meaning_zh": "玩得很开心；非常愉快",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见高频表达"
+  },
+  {
+    "item_code": "w_033900",
+    "content": "have growing pains",
+    "meaning_zh": "经历成长的烦恼；遭遇发展阵痛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "可指成长或发展困难"
+  },
+  {
+    "item_code": "w_033903",
+    "content": "have hell to pay",
+    "meaning_zh": "会有大麻烦；要付出惨重代价",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语，表示严重后果"
+  },
+  {
+    "item_code": "w_033904",
+    "content": "have high expectations",
+    "meaning_zh": "抱有很高期望",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见期望搭配"
+  },
+  {
+    "item_code": "w_033906",
+    "content": "have homework to do",
+    "meaning_zh": "有作业要做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "字面搭配，含义明确"
+  },
+  {
+    "item_code": "w_033907",
+    "content": "have impact",
+    "meaning_zh": "产生影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_033909",
+    "content": "have implications for",
+    "meaning_zh": "对……有影响；对……有启示",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常见表达"
+  },
+  {
+    "item_code": "w_033912",
+    "content": "have influence over",
+    "meaning_zh": "对……有影响力；支配……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配，含义明确"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_071267",
+    "content": "supertype",
+    "meaning_zh": "超类型；父类型",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_071270",
+    "content": "supervise juncture thesis",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词组无固定含义"
+  },
+  {
+    "item_code": "w_071271",
+    "content": "supervise rely",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_071272",
+    "content": "supervise teams",
+    "meaning_zh": "监督团队；管理团队",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_071275",
+    "content": "supervision department",
+    "meaning_zh": "监督部门；监管部门",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见机构名称"
+  },
+  {
+    "item_code": "w_071276",
+    "content": "supervision departments",
+    "meaning_zh": "监督部门；监管部门",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复数形式"
+  },
+  {
+    "item_code": "w_071278",
+    "content": "supervisor lawn detour headquarters",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "随机词串"
+  },
+  {
+    "item_code": "w_071281",
+    "content": "supine punch",
+    "meaning_zh": "仰卧冲拳；仰卧前伸练习",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可能为运动术语"
+  },
+  {
+    "item_code": "w_071282",
+    "content": "supine sacrosanct huvil",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "含不明噪声词"
+  },
+  {
+    "item_code": "w_071285",
+    "content": "supper snack portion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词组无固定含义"
+  },
+  {
+    "item_code": "w_071287",
+    "content": "supplant influx",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_071292",
+    "content": "supplemental reading",
+    "meaning_zh": "补充阅读材料；课外阅读",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育场景常用"
+  },
+  {
+    "item_code": "w_071296",
+    "content": "supplementary sheet",
+    "meaning_zh": "补充页；附加表格",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "考试文书常用"
+  },
+  {
+    "item_code": "w_071301",
+    "content": "supplicate foment",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "随机动词组合"
+  },
+  {
+    "item_code": "w_071304",
+    "content": "supplier relations",
+    "meaning_zh": "供应商关系",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常用术语"
+  },
+  {
+    "item_code": "w_071305",
+    "content": "supplime emoliant goldbrick",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_071315",
+    "content": "supply of",
+    "meaning_zh": "……的供应；……的储备量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指供应量"
+  },
+  {
+    "item_code": "w_071318",
+    "content": "supply side reform",
+    "meaning_zh": "供给侧改革",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策术语"
+  },
+  {
+    "item_code": "w_071323",
+    "content": "supply-side structural reform",
+    "meaning_zh": "供给侧结构性改革",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策术语"
+  },
+  {
+    "item_code": "w_071326",
+    "content": "support one's argument",
+    "meaning_zh": "支持某人的论点；为论点提供依据",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术写作常用"
+  }
+]

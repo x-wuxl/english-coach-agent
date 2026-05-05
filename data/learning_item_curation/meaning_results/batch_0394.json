@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_037638",
+    "content": "in meritocracy",
+    "meaning_zh": "在精英制度中；在任人唯贤的体制中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "介词短语，含义可判"
+  },
+  {
+    "item_code": "w_037639",
+    "content": "in Mexico",
+    "meaning_zh": "在墨西哥",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_037641",
+    "content": "in mist",
+    "meaning_zh": "在雾中；笼罩在薄雾里",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词短语"
+  },
+  {
+    "item_code": "w_037646",
+    "content": "in mounting numbers",
+    "meaning_zh": "数量不断增加地；以越来越多的数量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配含义可判"
+  },
+  {
+    "item_code": "w_037648",
+    "content": "in multiple regards",
+    "meaning_zh": "在多个方面",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达含义明确"
+  },
+  {
+    "item_code": "w_037649",
+    "content": "in my class",
+    "meaning_zh": "在我班上；在我的课上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指班级语境"
+  },
+  {
+    "item_code": "w_037652",
+    "content": "in need of help",
+    "meaning_zh": "需要帮助",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_037661",
+    "content": "in of sight",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "表达有误，疑为噪声"
+  },
+  {
+    "item_code": "w_037664",
+    "content": "in one hour",
+    "meaning_zh": "一小时后",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指未来时间"
+  },
+  {
+    "item_code": "w_037665",
+    "content": "in one night",
+    "meaning_zh": "在一个晚上；一夜之间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_037669",
+    "content": "in one week's time",
+    "meaning_zh": "一周后",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时间表达"
+  },
+  {
+    "item_code": "w_037671",
+    "content": "in one's contact with",
+    "meaning_zh": "在与某人接触时；在与某事物接触中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配含义可判"
+  },
+  {
+    "item_code": "w_037672",
+    "content": "in one's defense",
+    "meaning_zh": "为某人辩护；替某人说句公道话",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_037673",
+    "content": "in one's entirety",
+    "meaning_zh": "完整地；全部地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为其变体表达"
+  },
+  {
+    "item_code": "w_037677",
+    "content": "in one's fifties",
+    "meaning_zh": "在某人五十多岁时",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见年龄表达"
+  },
+  {
+    "item_code": "w_037678",
+    "content": "in one's free time",
+    "meaning_zh": "在某人的空闲时间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语"
+  },
+  {
+    "item_code": "w_037680",
+    "content": "in one's heyday",
+    "meaning_zh": "在某人的全盛时期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_037681",
+    "content": "in one's honor",
+    "meaning_zh": "为向某人表示敬意；为纪念某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_037682",
+    "content": "in one's interests",
+    "meaning_zh": "符合某人的利益；为某人的利益",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见利益表达"
+  },
+  {
+    "item_code": "w_037683",
+    "content": "in one's judgement",
+    "meaning_zh": "根据某人的判断；在某人看来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见观点表达"
+  }
+]

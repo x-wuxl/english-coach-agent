@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_030664",
+    "content": "George Hambley",
+    "meaning_zh": "乔治·汉布利（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "low",
+    "reason": "疑似人名"
+  },
+  {
+    "item_code": "w_030670",
+    "content": "Geory Simon Ohm",
+    "meaning_zh": "格奥尔格·西蒙·欧姆（物理学家）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑似人名拼写有误"
+  },
+  {
+    "item_code": "w_030678",
+    "content": "ger",
+    "meaning_zh": "蒙古包",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见名词义"
+  },
+  {
+    "item_code": "w_030684",
+    "content": "germain",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义不明疑似噪声"
+  },
+  {
+    "item_code": "w_030685",
+    "content": "germain petrify",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立疑似噪声"
+  },
+  {
+    "item_code": "w_030694",
+    "content": "germicide greeting",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立疑似噪声"
+  },
+  {
+    "item_code": "w_030706",
+    "content": "gerubic suffuse",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含拼写错误疑似噪声"
+  },
+  {
+    "item_code": "w_030708",
+    "content": "gerupic",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准词疑似噪声"
+  },
+  {
+    "item_code": "w_030716",
+    "content": "gesture straw",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立疑似噪声"
+  },
+  {
+    "item_code": "w_030717",
+    "content": "gesture to",
+    "meaning_zh": "向……示意；用手势指向",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_030718",
+    "content": "gesture towards",
+    "meaning_zh": "朝……做手势；示意指向",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_030724",
+    "content": "get ... in tune",
+    "meaning_zh": "使……协调一致；使……合拍",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_030730",
+    "content": "get a bad rap",
+    "meaning_zh": "名声不好；受到不公正批评",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语表达"
+  },
+  {
+    "item_code": "w_030731",
+    "content": "get a big send-off",
+    "meaning_zh": "受到隆重欢送",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_030734",
+    "content": "get a bright idea",
+    "meaning_zh": "突然想到好主意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_030735",
+    "content": "get a chance",
+    "meaning_zh": "获得机会；有机会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_030736",
+    "content": "get a chance of",
+    "meaning_zh": "有……的机会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_030737",
+    "content": "get a Charley horse",
+    "meaning_zh": "腿抽筋；肌肉痉挛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "美式口语表达"
+  },
+  {
+    "item_code": "w_030738",
+    "content": "get a check-up",
+    "meaning_zh": "做体检；接受检查",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_030739",
+    "content": "get a day off",
+    "meaning_zh": "休一天假",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  }
+]

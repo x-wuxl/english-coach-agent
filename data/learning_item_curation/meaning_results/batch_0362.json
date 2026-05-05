@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_034038",
+    "content": "have sth. for lunch",
+    "meaning_zh": "午餐吃某物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见用餐表达"
+  },
+  {
+    "item_code": "w_034039",
+    "content": "have sth. for supper",
+    "meaning_zh": "晚餐吃某物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见用餐表达"
+  },
+  {
+    "item_code": "w_034040",
+    "content": "have sth. going",
+    "meaning_zh": "使某事进行；让某事运转",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配含义依语境"
+  },
+  {
+    "item_code": "w_034044",
+    "content": "have sth. in stock",
+    "meaning_zh": "有某物库存",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商业库存搭配"
+  },
+  {
+    "item_code": "w_034047",
+    "content": "have sth. on file",
+    "meaning_zh": "把某事存档；有某物备案",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定档案表达"
+  },
+  {
+    "item_code": "w_034049",
+    "content": "have sth. over with",
+    "meaning_zh": "把某事了结；尽快做完某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "近似固定表达"
+  },
+  {
+    "item_code": "w_034050",
+    "content": "have sth. sewed up",
+    "meaning_zh": "把某事安排妥当；稳操胜券",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语化表达"
+  },
+  {
+    "item_code": "w_034051",
+    "content": "have sth. straight",
+    "meaning_zh": "把某事弄清楚；正确理解某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见理解类搭配"
+  },
+  {
+    "item_code": "w_034053",
+    "content": "have sth. to oneself",
+    "meaning_zh": "独自占用某物；独享某物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_034054",
+    "content": "have sth. to spare",
+    "meaning_zh": "有某物多余；有某物富余",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_034056",
+    "content": "have strong body",
+    "meaning_zh": "身体强壮",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略不自然"
+  },
+  {
+    "item_code": "w_034057",
+    "content": "have strong competition",
+    "meaning_zh": "面临激烈竞争；有强劲竞争对手",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见竞争表达"
+  },
+  {
+    "item_code": "w_034058",
+    "content": "have strong drive",
+    "meaning_zh": "有强烈动力；很有干劲",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见性格搭配"
+  },
+  {
+    "item_code": "w_034060",
+    "content": "have sympathy for",
+    "meaning_zh": "同情；对……表示理解",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_034061",
+    "content": "have taste in",
+    "meaning_zh": "在……方面有品位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见品味搭配"
+  },
+  {
+    "item_code": "w_034062",
+    "content": "have tea",
+    "meaning_zh": "喝茶；吃茶点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持喝茶义"
+  },
+  {
+    "item_code": "w_034064",
+    "content": "have the ball rolling",
+    "meaning_zh": "让事情开始进行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见说法为get"
+  },
+  {
+    "item_code": "w_034068",
+    "content": "have the capacity for",
+    "meaning_zh": "有……的能力；具备……的容量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "能力容量搭配"
+  },
+  {
+    "item_code": "w_034069",
+    "content": "have the creeps",
+    "meaning_zh": "感到毛骨悚然；感到害怕",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语表达"
+  },
+  {
+    "item_code": "w_034071",
+    "content": "have the feeling",
+    "meaning_zh": "有某种感觉；有预感",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见感觉表达"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_069745",
+    "content": "stern submarine vessel",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_069754",
+    "content": "Steve Morgan",
+    "meaning_zh": "史蒂夫·摩根（人名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词人名"
+  },
+  {
+    "item_code": "w_069764",
+    "content": "stewed sup",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_069765",
+    "content": "sth. be chosen for",
+    "meaning_zh": "某事物被选作；因某事而被选择",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动搭配"
+  },
+  {
+    "item_code": "w_069768",
+    "content": "sth. last some time",
+    "meaning_zh": "某事持续一段时间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_069775",
+    "content": "stick in one's mind",
+    "meaning_zh": "留在某人脑海中；令人难忘",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_069782",
+    "content": "stick out of",
+    "meaning_zh": "从……伸出；从……露出",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词"
+  },
+  {
+    "item_code": "w_069789",
+    "content": "stick to doing sth.",
+    "meaning_zh": "坚持做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_069790",
+    "content": "stick to old ways",
+    "meaning_zh": "墨守成规；因循守旧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_069792",
+    "content": "stick to one's position",
+    "meaning_zh": "坚持自己的立场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见立场表达"
+  },
+  {
+    "item_code": "w_069808",
+    "content": "stickler hymn",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无明确含义"
+  },
+  {
+    "item_code": "w_069813",
+    "content": "stiff disposable prolapse",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常疑似噪声"
+  },
+  {
+    "item_code": "w_069815",
+    "content": "stiff theatrical stereotype",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_069823",
+    "content": "stigma schism",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无明确含义"
+  },
+  {
+    "item_code": "w_069832",
+    "content": "still deaf deafness",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "重复拼接疑似噪声"
+  },
+  {
+    "item_code": "w_069840",
+    "content": "stilt walking",
+    "meaning_zh": "踩高跷",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定活动名称"
+  },
+  {
+    "item_code": "w_069843",
+    "content": "stimulant stationary",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常疑似噪声"
+  },
+  {
+    "item_code": "w_069845",
+    "content": "stimulate consumer spending",
+    "meaning_zh": "刺激消费支出",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济类常见搭配"
+  },
+  {
+    "item_code": "w_069846",
+    "content": "stimulate development of economy",
+    "meaning_zh": "促进经济发展",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见写作搭配"
+  },
+  {
+    "item_code": "w_069848",
+    "content": "stimulate innovation",
+    "meaning_zh": "激发创新；促进创新",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_015483",
+    "content": "commercial licenses for 5G",
+    "meaning_zh": "5G商用牌照",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "通信领域固定说法"
+  },
+  {
+    "item_code": "w_015486",
+    "content": "commercial programme",
+    "meaning_zh": "商业节目；商业计划",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缺少语境有歧义"
+  },
+  {
+    "item_code": "w_015487",
+    "content": "commercial remote-sensing satellite",
+    "meaning_zh": "商业遥感卫星",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "科技领域常见术语"
+  },
+  {
+    "item_code": "w_015488",
+    "content": "commercial remote-sensing satellity",
+    "meaning_zh": "商业遥感卫星",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "拼写错误，应修正"
+  },
+  {
+    "item_code": "w_015493",
+    "content": "commercial substitute",
+    "meaning_zh": "商业替代品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解但语境少"
+  },
+  {
+    "item_code": "w_015495",
+    "content": "commercial telegram service",
+    "meaning_zh": "商业电报服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "服务类名词短语"
+  },
+  {
+    "item_code": "w_015498",
+    "content": "commercial whaling",
+    "meaning_zh": "商业捕鲸",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保话题常见表达"
+  },
+  {
+    "item_code": "w_015524",
+    "content": "commit to doing sth.",
+    "meaning_zh": "承诺做某事；致力于做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_015527",
+    "content": "commitment intensity",
+    "meaning_zh": "承诺强度；投入强度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "抽象术语需语境"
+  },
+  {
+    "item_code": "w_015529",
+    "content": "committal",
+    "meaning_zh": "承诺；表态；收押候审",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见词典义项"
+  },
+  {
+    "item_code": "w_015531",
+    "content": "committed accord",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_015536",
+    "content": "commodious craven",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无明确含义"
+  },
+  {
+    "item_code": "w_015539",
+    "content": "commodity fluctuate",
+    "meaning_zh": "商品价格波动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "应为经济类搭配"
+  },
+  {
+    "item_code": "w_015543",
+    "content": "commodity xerox",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "品牌词拼接异常"
+  },
+  {
+    "item_code": "w_015547",
+    "content": "common base triangles",
+    "meaning_zh": "同底三角形",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "几何术语"
+  },
+  {
+    "item_code": "w_015550",
+    "content": "common descent",
+    "meaning_zh": "共同起源；共同祖先血统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生物进化术语"
+  },
+  {
+    "item_code": "w_015565",
+    "content": "Common Reporting Standard",
+    "meaning_zh": "共同申报准则",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "税务金融专有名词"
+  },
+  {
+    "item_code": "w_015567",
+    "content": "common run of men",
+    "meaning_zh": "普通人；一般人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_015569",
+    "content": "common sense herd roast",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无明确含义"
+  },
+  {
+    "item_code": "w_015580",
+    "content": "commonplace knowledge",
+    "meaning_zh": "常识；普通常见的知识",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  }
+]

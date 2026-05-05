@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_034786",
+    "content": "hexadecimal",
+    "meaning_zh": "十六进制",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_034805",
+    "content": "hi-tech fitness centre",
+    "meaning_zh": "高科技健身中心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见雅思场景短语"
+  },
+  {
+    "item_code": "w_034807",
+    "content": "Hi. How are you?",
+    "meaning_zh": "嗨，你好吗？",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配问候语"
+  },
+  {
+    "item_code": "w_034808",
+    "content": "hiadine",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_034811",
+    "content": "hiatus deformation conjecture",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_034814",
+    "content": "hibernate lacrimal diaper grope",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无意义词串"
+  },
+  {
+    "item_code": "w_034822",
+    "content": "hicks",
+    "meaning_zh": "乡巴佬；土包子",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "hick的复数形式"
+  },
+  {
+    "item_code": "w_034826",
+    "content": "hidden income",
+    "meaning_zh": "隐性收入；隐瞒收入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "财经常见搭配"
+  },
+  {
+    "item_code": "w_034831",
+    "content": "hide somebody away",
+    "meaning_zh": "把某人藏起来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词短语"
+  },
+  {
+    "item_code": "w_034832",
+    "content": "hide something away",
+    "meaning_zh": "把某物藏起来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词短语"
+  },
+  {
+    "item_code": "w_034837",
+    "content": "hideous invincible",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_034838",
+    "content": "hideous jeopardy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_034846",
+    "content": "hierarchical medical system",
+    "meaning_zh": "分级医疗制度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "公共政策常用表达"
+  },
+  {
+    "item_code": "w_034848",
+    "content": "hierarchy peninsular catabolism",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无意义词串"
+  },
+  {
+    "item_code": "w_034856",
+    "content": "high academic records",
+    "meaning_zh": "优异的学习成绩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "教育场景搭配"
+  },
+  {
+    "item_code": "w_034859",
+    "content": "high car taxes",
+    "meaning_zh": "高额汽车税",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "雅思话题搭配"
+  },
+  {
+    "item_code": "w_034862",
+    "content": "high credit risk",
+    "meaning_zh": "高信用风险",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融常见术语"
+  },
+  {
+    "item_code": "w_034863",
+    "content": "high default risk",
+    "meaning_zh": "高违约风险",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融常见术语"
+  },
+  {
+    "item_code": "w_034865",
+    "content": "high energy snack",
+    "meaning_zh": "高能量零食",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "饮食话题搭配"
+  },
+  {
+    "item_code": "w_034866",
+    "content": "high expectations",
+    "meaning_zh": "高期望；很高的期待",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  }
+]

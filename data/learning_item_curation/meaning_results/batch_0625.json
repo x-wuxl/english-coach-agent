@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_061401",
+    "content": "relinquish applause",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配疑似噪声"
+  },
+  {
+    "item_code": "w_061404",
+    "content": "relish deject alibi",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个无关词噪声"
+  },
+  {
+    "item_code": "w_061408",
+    "content": "relocate debt entrepreneur massage",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个无关词噪声"
+  },
+  {
+    "item_code": "w_061410",
+    "content": "relocation compensation",
+    "meaning_zh": "搬迁补偿；安置补偿",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_061414",
+    "content": "reluctant disposal clap exposition",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个无关词噪声"
+  },
+  {
+    "item_code": "w_061416",
+    "content": "reluctant to do",
+    "meaning_zh": "不情愿做；勉强做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_061419",
+    "content": "rely heavily on",
+    "meaning_zh": "严重依赖；高度依靠",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_061426",
+    "content": "rely upon sb. for",
+    "meaning_zh": "依靠某人获得",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见依赖搭配"
+  },
+  {
+    "item_code": "w_061428",
+    "content": "rely upon sth. for",
+    "meaning_zh": "依靠某物获得",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见依赖搭配"
+  },
+  {
+    "item_code": "w_061429",
+    "content": "rely wholly on sth.",
+    "meaning_zh": "完全依赖某物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见副词搭配"
+  },
+  {
+    "item_code": "w_061432",
+    "content": "remain committed to",
+    "meaning_zh": "仍然致力于；坚持",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见正式表达"
+  },
+  {
+    "item_code": "w_061433",
+    "content": "remain in business",
+    "meaning_zh": "继续营业；维持经营",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商业表达"
+  },
+  {
+    "item_code": "w_061434",
+    "content": "remain in one's memory",
+    "meaning_zh": "留在某人的记忆中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见记忆表达"
+  },
+  {
+    "item_code": "w_061435",
+    "content": "remain in use",
+    "meaning_zh": "仍在使用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见状态表达"
+  },
+  {
+    "item_code": "w_061436",
+    "content": "remain the same",
+    "meaning_zh": "保持不变",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见基础表达"
+  },
+  {
+    "item_code": "w_061437",
+    "content": "remain the sidelines",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缺少介词搭配错误"
+  },
+  {
+    "item_code": "w_061442",
+    "content": "remains of food",
+    "meaning_zh": "剩饭；食物残渣",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "remains指残留物"
+  },
+  {
+    "item_code": "w_061443",
+    "content": "remains of history",
+    "meaning_zh": "历史遗迹；历史遗存",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解但不常见"
+  },
+  {
+    "item_code": "w_061447",
+    "content": "remark about",
+    "meaning_zh": "谈论；评论",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_061451",
+    "content": "remarkable achievement",
+    "meaning_zh": "显著成就；非凡成就",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  }
+]

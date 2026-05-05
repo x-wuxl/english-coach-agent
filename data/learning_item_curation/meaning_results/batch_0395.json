@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_037684",
+    "content": "in one's lifetime",
+    "meaning_zh": "在某人一生中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_037688",
+    "content": "in one's name",
+    "meaning_zh": "以某人的名义；在某人名下",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_037692",
+    "content": "in one's presence",
+    "meaning_zh": "在某人面前；有某人在场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_037694",
+    "content": "in one's shoes",
+    "meaning_zh": "处于某人的境地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语整体释义"
+  },
+  {
+    "item_code": "w_037696",
+    "content": "in one's spare time",
+    "meaning_zh": "在某人的空闲时间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时间短语"
+  },
+  {
+    "item_code": "w_037707",
+    "content": "in out of condition",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "表达疑似错误"
+  },
+  {
+    "item_code": "w_037722",
+    "content": "in poor condition",
+    "meaning_zh": "状况不佳；身体不好",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见状态短语"
+  },
+  {
+    "item_code": "w_037737",
+    "content": "in prospect of",
+    "meaning_zh": "期待着；预期有",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "较少见固定搭配"
+  },
+  {
+    "item_code": "w_037748",
+    "content": "in recession",
+    "meaning_zh": "处于经济衰退中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济领域常用"
+  },
+  {
+    "item_code": "w_037762",
+    "content": "in retaliation for ...",
+    "meaning_zh": "为报复……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词短语"
+  },
+  {
+    "item_code": "w_037768",
+    "content": "in reverse order",
+    "meaning_zh": "按相反顺序；倒序",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见顺序表达"
+  },
+  {
+    "item_code": "w_037776",
+    "content": "in sb's wake",
+    "meaning_zh": "紧随某人之后；在某人经过之后",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "习语变体表达"
+  },
+  {
+    "item_code": "w_037777",
+    "content": "in sb.'s blood",
+    "meaning_zh": "某人天生具有；根植于血液中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语整体释义"
+  },
+  {
+    "item_code": "w_037778",
+    "content": "in sb.'s debt",
+    "meaning_zh": "欠某人人情；受某人恩惠",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语整体释义"
+  },
+  {
+    "item_code": "w_037779",
+    "content": "in sb.'s eyes",
+    "meaning_zh": "在某人看来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见观点表达"
+  },
+  {
+    "item_code": "w_037780",
+    "content": "in sb.'s favor",
+    "meaning_zh": "对某人有利；支持某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_037781",
+    "content": "in sb.'s hands",
+    "meaning_zh": "由某人掌管；在某人手中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_037782",
+    "content": "in sb.'s honour",
+    "meaning_zh": "为向某人致敬；为纪念某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "英式常见表达"
+  },
+  {
+    "item_code": "w_037783",
+    "content": "in sb.'s interest",
+    "meaning_zh": "符合某人的利益；为某人着想",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见利益表达"
+  },
+  {
+    "item_code": "w_037784",
+    "content": "in sb.'s interests",
+    "meaning_zh": "符合某人的利益；为某人着想",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见利益表达"
+  }
+]

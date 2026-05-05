@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_066656",
+    "content": "signing session",
+    "meaning_zh": "签名会；签约环节",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_066659",
+    "content": "signpost achievements",
+    "meaning_zh": "标示成就；突出成果",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "动宾搭配可解释"
+  },
+  {
+    "item_code": "w_066674",
+    "content": "silicon stricture",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显异常搭配"
+  },
+  {
+    "item_code": "w_066680",
+    "content": "silk linen",
+    "meaning_zh": "丝麻布；丝麻混纺织物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "纺织品搭配"
+  },
+  {
+    "item_code": "w_066683",
+    "content": "Silk Road Fund",
+    "meaning_zh": "丝路基金",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有机构名"
+  },
+  {
+    "item_code": "w_066698",
+    "content": "silver boa",
+    "meaning_zh": "银色羽毛围巾；银色蟒蛇",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缺少语境有歧义"
+  },
+  {
+    "item_code": "w_066703",
+    "content": "silver fungus",
+    "meaning_zh": "银耳",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见食材名"
+  },
+  {
+    "item_code": "w_066705",
+    "content": "silver jewel valuables",
+    "meaning_zh": "银饰珠宝等贵重物品",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "表达不自然"
+  },
+  {
+    "item_code": "w_066710",
+    "content": "silver tsunami",
+    "meaning_zh": "银发浪潮；人口老龄化浪潮",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "社会学常见隐喻"
+  },
+  {
+    "item_code": "w_066713",
+    "content": "silverware quota",
+    "meaning_zh": "银器配额",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "低频异常搭配"
+  },
+  {
+    "item_code": "w_066715",
+    "content": "sim",
+    "meaning_zh": "模拟游戏；用户身份识别卡",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "例句不匹配"
+  },
+  {
+    "item_code": "w_066716",
+    "content": "simeon",
+    "meaning_zh": "西缅；西蒙",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人名或圣经名"
+  },
+  {
+    "item_code": "w_066719",
+    "content": "similar benefit",
+    "meaning_zh": "类似好处；相似利益",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_066726",
+    "content": "simile marker",
+    "meaning_zh": "明喻标记词",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "修辞术语"
+  },
+  {
+    "item_code": "w_066733",
+    "content": "simple and candid",
+    "meaning_zh": "朴实坦率的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容词并列短语"
+  },
+  {
+    "item_code": "w_066734",
+    "content": "simple annual interest",
+    "meaning_zh": "年单利",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融术语"
+  },
+  {
+    "item_code": "w_066735",
+    "content": "simple ethnic customs",
+    "meaning_zh": "淳朴的民族风俗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_066746",
+    "content": "simpleton abreast",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声组合"
+  },
+  {
+    "item_code": "w_066751",
+    "content": "simplified edition",
+    "meaning_zh": "简化版；简明版",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见出版表达"
+  },
+  {
+    "item_code": "w_066757",
+    "content": "simulate bellwether coax",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声组合"
+  }
+]

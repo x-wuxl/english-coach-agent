@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_055150",
+    "content": "Ph. D candidate",
+    "meaning_zh": "博士候选人；博士研究生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术身份表达"
+  },
+  {
+    "item_code": "w_055153",
+    "content": "Ph.D. candidate",
+    "meaning_zh": "博士候选人；博士研究生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术身份表达"
+  },
+  {
+    "item_code": "w_055173",
+    "content": "pharmaceutical comprehend",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常含义不明"
+  },
+  {
+    "item_code": "w_055174",
+    "content": "pharmaceutical deposit",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常含义不明"
+  },
+  {
+    "item_code": "w_055177",
+    "content": "pharmaceutical placebo",
+    "meaning_zh": "药物安慰剂",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医药语境可理解"
+  },
+  {
+    "item_code": "w_055178",
+    "content": "pharmaceutical promotion",
+    "meaning_zh": "药品推广；医药促销",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见医药商业表达"
+  },
+  {
+    "item_code": "w_055179",
+    "content": "pharmaceutical representative",
+    "meaning_zh": "医药代表",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职业名称"
+  },
+  {
+    "item_code": "w_055204",
+    "content": "phase aerobics",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常含义不明"
+  },
+  {
+    "item_code": "w_055211",
+    "content": "PhD graduates",
+    "meaning_zh": "博士毕业生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术身份表达"
+  },
+  {
+    "item_code": "w_055213",
+    "content": "PHEIC",
+    "meaning_zh": "国际关注的突发公共卫生事件",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "公共卫生缩写术语"
+  },
+  {
+    "item_code": "w_055221",
+    "content": "phenology",
+    "meaning_zh": "物候学",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "明确学科术语"
+  },
+  {
+    "item_code": "w_055225",
+    "content": "phenomenal espouse illusory doldrums",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无整体义"
+  },
+  {
+    "item_code": "w_055242",
+    "content": "phil",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写残片含义不明"
+  },
+  {
+    "item_code": "w_055263",
+    "content": "philosophical tradition",
+    "meaning_zh": "哲学传统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_055273",
+    "content": "phishing WiFi",
+    "meaning_zh": "钓鱼无线网络；钓鱼WiFi",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "网络安全术语"
+  },
+  {
+    "item_code": "w_055284",
+    "content": "phobia psychological",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词序异常含义不明"
+  },
+  {
+    "item_code": "w_055302",
+    "content": "phone interviews",
+    "meaning_zh": "电话面试；电话访谈",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见沟通场景表达"
+  },
+  {
+    "item_code": "w_055306",
+    "content": "phone statistics",
+    "meaning_zh": "电话统计数据；手机使用统计",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "需语境区分phone含义"
+  },
+  {
+    "item_code": "w_055358",
+    "content": "photocopy shop",
+    "meaning_zh": "复印店",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见地点名称"
+  },
+  {
+    "item_code": "w_055373",
+    "content": "photographic card",
+    "meaning_zh": "照片卡；摄影卡片",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义依具体语境"
+  }
+]

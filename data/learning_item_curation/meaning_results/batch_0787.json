@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_076954",
+    "content": "typhoid cardiac president humanity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌无固定含义"
+  },
+  {
+    "item_code": "w_076957",
+    "content": "Typhoon Goni",
+    "meaning_zh": "台风天鹅",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "台风专有名称"
+  },
+  {
+    "item_code": "w_076960",
+    "content": "typical farm",
+    "meaning_zh": "典型农场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_076967",
+    "content": "typo meteoric cacophony",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌无固定含义"
+  },
+  {
+    "item_code": "w_076987",
+    "content": "tête-à-tête",
+    "meaning_zh": "私下交谈；促膝谈心",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见外来词"
+  },
+  {
+    "item_code": "w_076989",
+    "content": "U-neck",
+    "meaning_zh": "U形领；U领",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "服装术语"
+  },
+  {
+    "item_code": "w_076995",
+    "content": "U.S. State Department",
+    "meaning_zh": "美国国务院",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "机构专名"
+  },
+  {
+    "item_code": "w_076997",
+    "content": "ual",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似缩写残片"
+  },
+  {
+    "item_code": "w_076998",
+    "content": "UAV emergency rescue team",
+    "meaning_zh": "无人机应急救援队",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专业名词短语"
+  },
+  {
+    "item_code": "w_077001",
+    "content": "ubiquitous infatuate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_077002",
+    "content": "ubiquitous privilege",
+    "meaning_zh": "无处不在的特权",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解形容词短语"
+  },
+  {
+    "item_code": "w_077020",
+    "content": "ukoza disdain",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含疑似噪声词"
+  },
+  {
+    "item_code": "w_077026",
+    "content": "ulcer disorder anorexia",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疾病名词堆砌"
+  },
+  {
+    "item_code": "w_077028",
+    "content": "ulcerate diminish encumber",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "动词堆砌无固定含义"
+  },
+  {
+    "item_code": "w_077039",
+    "content": "ultimately outcome accelerate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌无固定含义"
+  },
+  {
+    "item_code": "w_077042",
+    "content": "ultra infuse",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_077044",
+    "content": "ultra-connected",
+    "meaning_zh": "高度互联的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见复合形容词"
+  },
+  {
+    "item_code": "w_077049",
+    "content": "ultra-thin models on runways",
+    "meaning_zh": "T台上的超瘦模特",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "清晰名词短语"
+  },
+  {
+    "item_code": "w_077069",
+    "content": "ultrasonic field inspection",
+    "meaning_zh": "超声波现场检测",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术检测术语"
+  },
+  {
+    "item_code": "w_077072",
+    "content": "ultrasonic overt",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  }
+]

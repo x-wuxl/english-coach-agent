@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_008527",
+    "content": "before the Common Era",
+    "meaning_zh": "公元前",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定纪年表达"
+  },
+  {
+    "item_code": "w_008528",
+    "content": "before-tax salary",
+    "meaning_zh": "税前工资",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见薪资表达"
+  },
+  {
+    "item_code": "w_008532",
+    "content": "befruntery",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_008536",
+    "content": "befunery",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_008554",
+    "content": "beginning courses",
+    "meaning_zh": "入门课程；初级课程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见课程表达"
+  },
+  {
+    "item_code": "w_008563",
+    "content": "behave myself",
+    "meaning_zh": "守规矩；举止得体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词短语"
+  },
+  {
+    "item_code": "w_008565",
+    "content": "behave unpredictably",
+    "meaning_zh": "行为难以预测；反复无常",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见行为描述"
+  },
+  {
+    "item_code": "w_008567",
+    "content": "behaved behavior",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_008569",
+    "content": "behavior communication",
+    "meaning_zh": "行为沟通",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作领域搭配"
+  },
+  {
+    "item_code": "w_008570",
+    "content": "behavior signature paralyze",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_008587",
+    "content": "behind me",
+    "meaning_zh": "在我后面；成为过去",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含空间和引申义"
+  },
+  {
+    "item_code": "w_008589",
+    "content": "behind sb.'s back",
+    "meaning_zh": "背着某人；在某人背后",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语表达"
+  },
+  {
+    "item_code": "w_008604",
+    "content": "beige oath",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无可靠固定含义"
+  },
+  {
+    "item_code": "w_008606",
+    "content": "Beijing International Airport",
+    "meaning_zh": "北京国际机场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有地点名称"
+  },
+  {
+    "item_code": "w_008607",
+    "content": "Beijing International School",
+    "meaning_zh": "北京国际学校",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有机构名称"
+  },
+  {
+    "item_code": "w_008609",
+    "content": "Beijing repose",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_008610",
+    "content": "Beijing-Tianjin-Hebei integration",
+    "meaning_zh": "京津冀一体化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见区域发展术语"
+  },
+  {
+    "item_code": "w_008611",
+    "content": "Beijinger",
+    "meaning_zh": "北京人",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见身份称谓"
+  },
+  {
+    "item_code": "w_008613",
+    "content": "being absent-minded",
+    "meaning_zh": "心不在焉；健忘",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见状态表达"
+  },
+  {
+    "item_code": "w_008614",
+    "content": "being careless",
+    "meaning_zh": "粗心大意；不小心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见状态表达"
+  }
+]

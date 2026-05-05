@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_068476",
+    "content": "special occasions",
+    "meaning_zh": "特殊场合；特别时刻",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_068480",
+    "content": "special parties",
+    "meaning_zh": "特别聚会；特殊派对",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_068481",
+    "content": "special party hats",
+    "meaning_zh": "特别的派对帽",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可判断"
+  },
+  {
+    "item_code": "w_068484",
+    "content": "special plate",
+    "meaning_zh": "专用盘子；特殊板材",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "low",
+    "reason": "缺少语境含义较泛"
+  },
+  {
+    "item_code": "w_068486",
+    "content": "special relation",
+    "meaning_zh": "特殊关系",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配清晰"
+  },
+  {
+    "item_code": "w_068488",
+    "content": "special service",
+    "meaning_zh": "特殊服务；专门服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见服务类搭配"
+  },
+  {
+    "item_code": "w_068491",
+    "content": "special troop",
+    "meaning_zh": "特种部队；特遣部队",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "军事搭配可判断"
+  },
+  {
+    "item_code": "w_068492",
+    "content": "special-effects designer",
+    "meaning_zh": "特效设计师",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职业名称明确"
+  },
+  {
+    "item_code": "w_068504",
+    "content": "specialize amateur consent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接疑似噪声"
+  },
+  {
+    "item_code": "w_068507",
+    "content": "specialized course",
+    "meaning_zh": "专业课程；专门课程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育场景常见搭配"
+  },
+  {
+    "item_code": "w_068508",
+    "content": "specialized double glazing",
+    "meaning_zh": "专用双层玻璃窗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "建筑材料搭配"
+  },
+  {
+    "item_code": "w_068509",
+    "content": "specialized medical treatment",
+    "meaning_zh": "专门医疗；专科治疗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医疗搭配明确"
+  },
+  {
+    "item_code": "w_068510",
+    "content": "specialized personnel",
+    "meaning_zh": "专业人员；专门人才",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见人才类搭配"
+  },
+  {
+    "item_code": "w_068519",
+    "content": "species of birds",
+    "meaning_zh": "鸟类物种",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生物分类表达"
+  },
+  {
+    "item_code": "w_068521",
+    "content": "specific advice",
+    "meaning_zh": "具体建议；明确建议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见建议类搭配"
+  },
+  {
+    "item_code": "w_068522",
+    "content": "specific client",
+    "meaning_zh": "特定客户",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务语境常见"
+  },
+  {
+    "item_code": "w_068523",
+    "content": "specific columns",
+    "meaning_zh": "特定栏目；特定列",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缺少领域语境"
+  },
+  {
+    "item_code": "w_068525",
+    "content": "specific integrated circuit",
+    "meaning_zh": "专用集成电路",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术术语近似表达"
+  },
+  {
+    "item_code": "w_068526",
+    "content": "specific nature of flowers",
+    "meaning_zh": "花的特定性质；花的具体特征",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可推断"
+  },
+  {
+    "item_code": "w_068529",
+    "content": "specific topic",
+    "meaning_zh": "具体话题；特定主题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_049424",
+    "content": "negative feelings",
+    "meaning_zh": "消极情绪；负面感受",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_049434",
+    "content": "negative views",
+    "meaning_zh": "负面看法；消极观点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_049436",
+    "content": "negative whole number",
+    "meaning_zh": "负整数",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "数学术语"
+  },
+  {
+    "item_code": "w_049437",
+    "content": "negative-sum game",
+    "meaning_zh": "负和博弈",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济学术语"
+  },
+  {
+    "item_code": "w_049443",
+    "content": "neglect of exercise",
+    "meaning_zh": "忽视锻炼；缺乏锻炼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_049444",
+    "content": "neglect other skills",
+    "meaning_zh": "忽视其他技能",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词搭配"
+  },
+  {
+    "item_code": "w_049449",
+    "content": "negligent deduction",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  },
+  {
+    "item_code": "w_049451",
+    "content": "negligible derma fulmanant",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词串"
+  },
+  {
+    "item_code": "w_049455",
+    "content": "negotiate can",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词串"
+  },
+  {
+    "item_code": "w_049456",
+    "content": "negotiate exhilarate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接异常"
+  },
+  {
+    "item_code": "w_049460",
+    "content": "negotiation pedagagi",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含拼写错误"
+  },
+  {
+    "item_code": "w_049466",
+    "content": "neighbor landlady",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  },
+  {
+    "item_code": "w_049468",
+    "content": "neighborhood bell",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  },
+  {
+    "item_code": "w_049477",
+    "content": "neil",
+    "meaning_zh": "尼尔（人名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见人名"
+  },
+  {
+    "item_code": "w_049479",
+    "content": "neil tired rest",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词串"
+  },
+  {
+    "item_code": "w_049484",
+    "content": "neither does sb.",
+    "meaning_zh": "某人也不",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定倒装表达"
+  },
+  {
+    "item_code": "w_049492",
+    "content": "nemonic",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_049493",
+    "content": "Nenny",
+    "meaning_zh": "内妮（人名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有人名"
+  },
+  {
+    "item_code": "w_049497",
+    "content": "neo-romantism",
+    "meaning_zh": "新浪漫主义",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑似术语拼写变体"
+  },
+  {
+    "item_code": "w_049514",
+    "content": "neon-light advertisement",
+    "meaning_zh": "霓虹灯广告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  }
+]

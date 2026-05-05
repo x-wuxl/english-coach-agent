@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_010286",
+    "content": "brain console",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配"
+  },
+  {
+    "item_code": "w_010293",
+    "content": "brain training program",
+    "meaning_zh": "脑力训练项目；大脑训练程序",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教育搭配"
+  },
+  {
+    "item_code": "w_010298",
+    "content": "brained",
+    "meaning_zh": "有某种头脑的；被击中头部的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "单词较少独用"
+  },
+  {
+    "item_code": "w_010304",
+    "content": "brainstorm exposure appointment",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_010308",
+    "content": "brainwashing pop song",
+    "meaning_zh": "洗脑流行歌曲",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见网络表达"
+  },
+  {
+    "item_code": "w_010317",
+    "content": "brambulate",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准词难判断"
+  },
+  {
+    "item_code": "w_010319",
+    "content": "bran pellet",
+    "meaning_zh": "麸皮颗粒；麦麸颗粒饲料",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "农业饲料术语"
+  },
+  {
+    "item_code": "w_010321",
+    "content": "branch company",
+    "meaning_zh": "分公司；分支机构",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常见搭配"
+  },
+  {
+    "item_code": "w_010338",
+    "content": "brand of",
+    "meaning_zh": "某种品牌的；某一类的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指品牌"
+  },
+  {
+    "item_code": "w_010339",
+    "content": "brand of humour",
+    "meaning_zh": "某种幽默风格；独特的幽默感",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配含义"
+  },
+  {
+    "item_code": "w_010340",
+    "content": "brand slogan",
+    "meaning_zh": "品牌口号；品牌标语",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "营销常见术语"
+  },
+  {
+    "item_code": "w_010342",
+    "content": "brand them as aliens",
+    "meaning_zh": "把他们污名化为异类；给他们贴上外来者标签",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "brand作动词"
+  },
+  {
+    "item_code": "w_010344",
+    "content": "brand worship",
+    "meaning_zh": "品牌崇拜；盲目崇尚名牌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "消费文化表达"
+  },
+  {
+    "item_code": "w_010345",
+    "content": "brand's image",
+    "meaning_zh": "品牌形象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "营销常见搭配"
+  },
+  {
+    "item_code": "w_010347",
+    "content": "brand-name strategy",
+    "meaning_zh": "品牌战略；名牌策略",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务管理术语"
+  },
+  {
+    "item_code": "w_010350",
+    "content": "Brandi Bailey",
+    "meaning_zh": "布兰迪·贝利",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "人名学习价值低"
+  },
+  {
+    "item_code": "w_010359",
+    "content": "brass financial",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似残缺噪声"
+  },
+  {
+    "item_code": "w_010361",
+    "content": "brassy sucker teeming",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠噪声"
+  },
+  {
+    "item_code": "w_010364",
+    "content": "braun",
+    "meaning_zh": "博朗；布劳恩",
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "品牌或姓氏"
+  },
+  {
+    "item_code": "w_010367",
+    "content": "brave courage superior",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠噪声"
+  }
+]

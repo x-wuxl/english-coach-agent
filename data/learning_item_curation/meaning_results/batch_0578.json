@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_056553",
+    "content": "polycup",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常用词且无例句"
+  },
+  {
+    "item_code": "w_056597",
+    "content": "polyperforin",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似专业术语无依据"
+  },
+  {
+    "item_code": "w_056605",
+    "content": "polypuro",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词"
+  },
+  {
+    "item_code": "w_056618",
+    "content": "polytechnic envious duplicate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串非固定表达"
+  },
+  {
+    "item_code": "w_056636",
+    "content": "ponchy converge",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串非固定表达"
+  },
+  {
+    "item_code": "w_056639",
+    "content": "ponder exhale",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语并列无明确含义"
+  },
+  {
+    "item_code": "w_056645",
+    "content": "ponderous reluctant censorius crescendo",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串含义不明"
+  },
+  {
+    "item_code": "w_056648",
+    "content": "ponic",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非独立常用词"
+  },
+  {
+    "item_code": "w_056650",
+    "content": "pont distract",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串非固定表达"
+  },
+  {
+    "item_code": "w_056660",
+    "content": "pooling mutual-fund assets",
+    "meaning_zh": "汇集共同基金资产",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "金融语境短语"
+  },
+  {
+    "item_code": "w_056662",
+    "content": "poop firecracker poop",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串低价值"
+  },
+  {
+    "item_code": "w_056666",
+    "content": "poor at",
+    "meaning_zh": "不擅长；在……方面差",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_056667",
+    "content": "poor command of English",
+    "meaning_zh": "英语掌握不好；英语水平差",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习表达"
+  },
+  {
+    "item_code": "w_056669",
+    "content": "poor course",
+    "meaning_zh": "糟糕的课程",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "非固定搭配价值低"
+  },
+  {
+    "item_code": "w_056671",
+    "content": "poor rural areas",
+    "meaning_zh": "贫困农村地区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会话题短语"
+  },
+  {
+    "item_code": "w_056672",
+    "content": "poor second generation",
+    "meaning_zh": "贫二代",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "社会话题表达"
+  },
+  {
+    "item_code": "w_056686",
+    "content": "pop into one's mind",
+    "meaning_zh": "突然出现在脑海中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_056690",
+    "content": "pop rap",
+    "meaning_zh": "流行说唱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "音乐类型术语"
+  },
+  {
+    "item_code": "w_056691",
+    "content": "pop show",
+    "meaning_zh": "流行音乐节目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见组合表达"
+  },
+  {
+    "item_code": "w_056698",
+    "content": "popcorn pot pan lid",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无明确含义"
+  }
+]

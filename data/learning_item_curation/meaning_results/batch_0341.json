@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_032224",
+    "content": "gourmet festival",
+    "meaning_zh": "美食节",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见活动名称"
+  },
+  {
+    "item_code": "w_032228",
+    "content": "govern one's activity",
+    "meaning_zh": "支配某人的活动；规范某人的行为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "动词搭配含义明确"
+  },
+  {
+    "item_code": "w_032239",
+    "content": "government car",
+    "meaning_zh": "公务车；政府用车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政治行政搭配"
+  },
+  {
+    "item_code": "w_032240",
+    "content": "government election",
+    "meaning_zh": "政府选举；政府换届选举",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "政治语境搭配"
+  },
+  {
+    "item_code": "w_032250",
+    "content": "government streamlining",
+    "meaning_zh": "政府精简；政府机构精简",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "行政改革常见表达"
+  },
+  {
+    "item_code": "w_032251",
+    "content": "government think-tank",
+    "meaning_zh": "政府智库",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定名词短语"
+  },
+  {
+    "item_code": "w_032252",
+    "content": "government-defined",
+    "meaning_zh": "由政府定义的；政府规定的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_032254",
+    "content": "government-funded public institution",
+    "meaning_zh": "政府资助的公共机构",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "机构类名词短语"
+  },
+  {
+    "item_code": "w_032255",
+    "content": "government-funded research",
+    "meaning_zh": "政府资助的研究",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "科研经费搭配"
+  },
+  {
+    "item_code": "w_032274",
+    "content": "graceful dance",
+    "meaning_zh": "优美的舞蹈",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容词名词搭配"
+  },
+  {
+    "item_code": "w_032275",
+    "content": "graceful swaying",
+    "meaning_zh": "优雅的摇摆；优美的摆动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动作描写搭配"
+  },
+  {
+    "item_code": "w_032295",
+    "content": "Graduate Management Admission Test",
+    "meaning_zh": "研究生管理专业入学考试；GMAT考试",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "标准考试专名"
+  },
+  {
+    "item_code": "w_032296",
+    "content": "graduate placement",
+    "meaning_zh": "毕业生就业安置；毕业生就业推荐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "教育就业搭配"
+  },
+  {
+    "item_code": "w_032299",
+    "content": "graduate to",
+    "meaning_zh": "逐步升级到；发展到",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_032303",
+    "content": "graduation announcements",
+    "meaning_zh": "毕业公告；毕业通知",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "校园场景表达"
+  },
+  {
+    "item_code": "w_032306",
+    "content": "graduation commencement",
+    "meaning_zh": "毕业典礼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "校园典礼表达"
+  },
+  {
+    "item_code": "w_032308",
+    "content": "graduation dissertation",
+    "meaning_zh": "毕业论文",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持释义"
+  },
+  {
+    "item_code": "w_032309",
+    "content": "graduation practice",
+    "meaning_zh": "毕业实习；毕业实践",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "教育语境搭配"
+  },
+  {
+    "item_code": "w_032315",
+    "content": "grafty",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "罕见疑似噪声"
+  },
+  {
+    "item_code": "w_032317",
+    "content": "Graham Laurence",
+    "meaning_zh": "格雷厄姆·劳伦斯（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "英文人名"
+  }
+]

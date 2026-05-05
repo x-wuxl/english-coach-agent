@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_039519",
+    "content": "intention of",
+    "meaning_zh": "……的打算；……的意图",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句表明固定搭配"
+  },
+  {
+    "item_code": "w_039521",
+    "content": "intentional racial discrimination",
+    "meaning_zh": "故意的种族歧视",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见法律社会表达"
+  },
+  {
+    "item_code": "w_039526",
+    "content": "inter adventitious ironclad autocracy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似无关词串噪声"
+  },
+  {
+    "item_code": "w_039529",
+    "content": "inter-city commuters",
+    "meaning_zh": "城际通勤者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通出行常见搭配"
+  },
+  {
+    "item_code": "w_039530",
+    "content": "inter-city high-speed rail",
+    "meaning_zh": "城际高速铁路",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通领域固定搭配"
+  },
+  {
+    "item_code": "w_039532",
+    "content": "inter-library service",
+    "meaning_zh": "馆际互借服务；馆际服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "图书馆场景常用语"
+  },
+  {
+    "item_code": "w_039540",
+    "content": "interactive mode",
+    "meaning_zh": "交互模式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_039541",
+    "content": "interactive platform",
+    "meaning_zh": "互动平台；交互平台",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见技术教育表达"
+  },
+  {
+    "item_code": "w_039556",
+    "content": "intercessor hamper smirk fane",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似无关词串噪声"
+  },
+  {
+    "item_code": "w_039562",
+    "content": "intercity high-speed rail",
+    "meaning_zh": "城际高速铁路",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通领域固定搭配"
+  },
+  {
+    "item_code": "w_039566",
+    "content": "intercommunication phone",
+    "meaning_zh": "内部通信电话；对讲电话",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "通信设备搭配"
+  },
+  {
+    "item_code": "w_039578",
+    "content": "intercultural awareness",
+    "meaning_zh": "跨文化意识",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育文化常见表达"
+  },
+  {
+    "item_code": "w_039579",
+    "content": "intercultural exchange",
+    "meaning_zh": "跨文化交流",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文化主题常见搭配"
+  },
+  {
+    "item_code": "w_039585",
+    "content": "interdiction",
+    "meaning_zh": "禁止；阻断；拦截",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "正式词汇常见义项"
+  },
+  {
+    "item_code": "w_039588",
+    "content": "interdisciplinary talent",
+    "meaning_zh": "跨学科人才；复合型人才",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育就业常见搭配"
+  },
+  {
+    "item_code": "w_039592",
+    "content": "interest rate corridor",
+    "meaning_zh": "利率走廊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融政策术语"
+  },
+  {
+    "item_code": "w_039595",
+    "content": "interest-free overdraft",
+    "meaning_zh": "免息透支",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "银行金融常见表达"
+  },
+  {
+    "item_code": "w_039596",
+    "content": "interestation",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误或噪声"
+  },
+  {
+    "item_code": "w_039600",
+    "content": "interesting building",
+    "meaning_zh": "有趣的建筑；有特色的建筑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "雅思口语常见描述"
+  },
+  {
+    "item_code": "w_039621",
+    "content": "intergovernmental agreement",
+    "meaning_zh": "政府间协议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治外交常见术语"
+  }
+]

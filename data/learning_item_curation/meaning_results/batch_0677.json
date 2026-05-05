@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_066766",
+    "content": "simultaneously execution",
+    "meaning_zh": "同时执行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配不规范但可推断"
+  },
+  {
+    "item_code": "w_066767",
+    "content": "simus evade opponent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含疑似拼写噪声"
+  },
+  {
+    "item_code": "w_066769",
+    "content": "sin religion",
+    "meaning_zh": "宗教中的罪；罪孽",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "疑为词义备注混入"
+  },
+  {
+    "item_code": "w_066774",
+    "content": "sincere parody",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不可靠"
+  },
+  {
+    "item_code": "w_066775",
+    "content": "sincere thorough",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不自然"
+  },
+  {
+    "item_code": "w_066778",
+    "content": "sine alternating current",
+    "meaning_zh": "正弦交流电",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "电学术语"
+  },
+  {
+    "item_code": "w_066786",
+    "content": "sing and dance",
+    "meaning_zh": "唱歌跳舞",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_066787",
+    "content": "sing English songs",
+    "meaning_zh": "唱英文歌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见小学表达"
+  },
+  {
+    "item_code": "w_066789",
+    "content": "sing karaoke",
+    "meaning_zh": "唱卡拉OK",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_066790",
+    "content": "sing sb.'s praises",
+    "meaning_zh": "高度赞扬某人；称颂某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_066792",
+    "content": "sing sth.'s praises",
+    "meaning_zh": "高度赞扬某事物；称颂某物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_066793",
+    "content": "sing the karaoke",
+    "meaning_zh": "唱卡拉OK",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "冠词用法不常见"
+  },
+  {
+    "item_code": "w_066795",
+    "content": "sing your heart out",
+    "meaning_zh": "尽情歌唱；放声歌唱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_066799",
+    "content": "singe extravagant redolent quandary",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌无可靠含义"
+  },
+  {
+    "item_code": "w_066801",
+    "content": "Singh",
+    "meaning_zh": "辛格；锡克教徒常用姓氏",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有姓氏"
+  },
+  {
+    "item_code": "w_066807",
+    "content": "single dispatch",
+    "meaning_zh": "单分派",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_066808",
+    "content": "single divorced",
+    "meaning_zh": "单身或离异的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见状态并列"
+  },
+  {
+    "item_code": "w_066811",
+    "content": "single organism",
+    "meaning_zh": "单个生物体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生物学常见搭配"
+  },
+  {
+    "item_code": "w_066817",
+    "content": "single sex classes",
+    "meaning_zh": "单一性别班级；男女分班",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育话题搭配"
+  },
+  {
+    "item_code": "w_066820",
+    "content": "single transmitting",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不可靠"
+  }
+]

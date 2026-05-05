@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_075062",
+    "content": "to gain popularity",
+    "meaning_zh": "受欢迎；流行起来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_075063",
+    "content": "to gather medicinal herbs",
+    "meaning_zh": "采集药草",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "搭配含义明确"
+  },
+  {
+    "item_code": "w_075064",
+    "content": "to get chickenpox",
+    "meaning_zh": "得水痘",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "疾病表达明确"
+  },
+  {
+    "item_code": "w_075069",
+    "content": "to improve economic performance",
+    "meaning_zh": "改善经济表现；提高经济效益",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济类常见搭配"
+  },
+  {
+    "item_code": "w_075070",
+    "content": "to improve energy efficiency",
+    "meaning_zh": "提高能源效率",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保能源常见搭配"
+  },
+  {
+    "item_code": "w_075071",
+    "content": "to indulge your falsehood",
+    "meaning_zh": "纵容你的谎言；放任你的虚假",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达可解但不常见"
+  },
+  {
+    "item_code": "w_075072",
+    "content": "to issue paper money",
+    "meaning_zh": "发行纸币",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融搭配明确"
+  },
+  {
+    "item_code": "w_075074",
+    "content": "to lose the election",
+    "meaning_zh": "竞选失败；输掉选举",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "选举表达明确"
+  },
+  {
+    "item_code": "w_075075",
+    "content": "to make a living",
+    "meaning_zh": "谋生；维持生计",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_075077",
+    "content": "to make things worse",
+    "meaning_zh": "使情况更糟",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_075078",
+    "content": "to mortgage a house",
+    "meaning_zh": "抵押房子；用房屋作抵押",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融法律搭配"
+  },
+  {
+    "item_code": "w_075081",
+    "content": "to name after",
+    "meaning_zh": "以……命名",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  },
+  {
+    "item_code": "w_075083",
+    "content": "to offer assistance to",
+    "meaning_zh": "向……提供帮助",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "正式搭配"
+  },
+  {
+    "item_code": "w_075088",
+    "content": "to one's delight",
+    "meaning_zh": "令某人高兴的是",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_075090",
+    "content": "to one's dismay",
+    "meaning_zh": "令某人沮丧的是；令某人惊愕的是",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_075091",
+    "content": "to one's distress",
+    "meaning_zh": "令某人痛苦的是；令某人忧虑的是",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_075093",
+    "content": "to one's horror",
+    "meaning_zh": "令某人恐惧的是；令某人震惊的是",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_075098",
+    "content": "to one's regret",
+    "meaning_zh": "令某人遗憾的是",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_075099",
+    "content": "to one's relief",
+    "meaning_zh": "令某人宽慰的是",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_075101",
+    "content": "to one's sorrow",
+    "meaning_zh": "令某人悲伤的是",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_076574",
+    "content": "tub undercoat",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "非固定搭配噪声"
+  },
+  {
+    "item_code": "w_076610",
+    "content": "tuition payment",
+    "meaning_zh": "学费支付；缴纳学费",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见留学表达"
+  },
+  {
+    "item_code": "w_076624",
+    "content": "tumor vaccinate vaccine",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词语堆叠噪声"
+  },
+  {
+    "item_code": "w_076650",
+    "content": "tunnel corner intersection",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "非固定搭配噪声"
+  },
+  {
+    "item_code": "w_076651",
+    "content": "tuple",
+    "meaning_zh": "元组",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_076652",
+    "content": "tuple assignment",
+    "meaning_zh": "元组赋值",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程常用术语"
+  },
+  {
+    "item_code": "w_076653",
+    "content": "tuple unpacking",
+    "meaning_zh": "元组解包",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程常用术语"
+  },
+  {
+    "item_code": "w_076659",
+    "content": "turbit",
+    "meaning_zh": "皱颈鸽（一种观赏鸽）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见专门名词"
+  },
+  {
+    "item_code": "w_076673",
+    "content": "turkey contractile",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_076677",
+    "content": "turmoil dismay",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词语堆叠噪声"
+  },
+  {
+    "item_code": "w_076695",
+    "content": "turn A into B",
+    "meaning_zh": "把A变成B",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型"
+  },
+  {
+    "item_code": "w_076703",
+    "content": "turn down an invitation",
+    "meaning_zh": "拒绝邀请",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_076704",
+    "content": "turn face up",
+    "meaning_zh": "翻到正面朝上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动作表达"
+  },
+  {
+    "item_code": "w_076705",
+    "content": "turn failure into victory",
+    "meaning_zh": "转败为胜",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_076707",
+    "content": "turn forward",
+    "meaning_zh": "向前转；向前翻",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义依语境变化"
+  },
+  {
+    "item_code": "w_076711",
+    "content": "turn into a reality",
+    "meaning_zh": "变成现实",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_076717",
+    "content": "turn loss into gains",
+    "meaning_zh": "扭亏为盈；化损失为收益",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定表达变体"
+  },
+  {
+    "item_code": "w_076720",
+    "content": "turn off the TV",
+    "meaning_zh": "关掉电视",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_076728",
+    "content": "turn one's back to",
+    "meaning_zh": "背对；转身不理睬",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见表达但介词少见"
+  },
+  {
+    "item_code": "w_076749",
+    "content": "turn the spotlight on",
+    "meaning_zh": "聚焦于；使公众关注",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见比喻表达"
+  }
+]

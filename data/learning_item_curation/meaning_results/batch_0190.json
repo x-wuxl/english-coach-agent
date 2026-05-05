@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_017601",
+    "content": "course arrangement",
+    "meaning_zh": "课程安排",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见课程管理搭配"
+  },
+  {
+    "item_code": "w_017602",
+    "content": "course capacity",
+    "meaning_zh": "课程容量；选课人数上限",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见选课场景术语"
+  },
+  {
+    "item_code": "w_017603",
+    "content": "course code",
+    "meaning_zh": "课程代码；课程编号",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见院校课程术语"
+  },
+  {
+    "item_code": "w_017604",
+    "content": "course delivery",
+    "meaning_zh": "课程授课方式；课程交付",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育场景常见表达"
+  },
+  {
+    "item_code": "w_017605",
+    "content": "course description",
+    "meaning_zh": "课程简介；课程说明",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见课程目录用语"
+  },
+  {
+    "item_code": "w_017606",
+    "content": "course feedback form",
+    "meaning_zh": "课程反馈表",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定教育场景表述"
+  },
+  {
+    "item_code": "w_017607",
+    "content": "course guideline",
+    "meaning_zh": "课程指南；课程指导原则",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "课程文件常见名称"
+  },
+  {
+    "item_code": "w_017608",
+    "content": "course of American architecture",
+    "meaning_zh": "美国建筑课程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略生硬但可判断"
+  },
+  {
+    "item_code": "w_017609",
+    "content": "course of reasoning",
+    "meaning_zh": "推理过程；论证过程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_017611",
+    "content": "course requirement",
+    "meaning_zh": "课程要求；修课要求",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见院校课程术语"
+  },
+  {
+    "item_code": "w_017612",
+    "content": "course selective system",
+    "meaning_zh": "选课系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为选课系统表达"
+  },
+  {
+    "item_code": "w_017618",
+    "content": "court stenographer",
+    "meaning_zh": "法庭速记员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律职业术语"
+  },
+  {
+    "item_code": "w_017619",
+    "content": "court's liberal justice",
+    "meaning_zh": "法院中的自由派大法官",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "法律政治语境搭配"
+  },
+  {
+    "item_code": "w_017633",
+    "content": "courtyard dwellings",
+    "meaning_zh": "庭院式住宅；四合院式住宅",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "建筑居住类术语"
+  },
+  {
+    "item_code": "w_017635",
+    "content": "cousin granny",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_017641",
+    "content": "covariant",
+    "meaning_zh": "协变的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "数学计算机术语"
+  },
+  {
+    "item_code": "w_017654",
+    "content": "cover my eyes",
+    "meaning_zh": "遮住我的眼睛；捂住我的眼睛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "日常动作短语"
+  },
+  {
+    "item_code": "w_017661",
+    "content": "cover the cost of",
+    "meaning_zh": "支付……的费用；承担……的成本",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见费用搭配"
+  },
+  {
+    "item_code": "w_017662",
+    "content": "cover the events",
+    "meaning_zh": "报道这些事件；采访这些活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "新闻语境常见用法"
+  },
+  {
+    "item_code": "w_017663",
+    "content": "cover the news",
+    "meaning_zh": "报道新闻；采访新闻",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "新闻语境固定用法"
+  }
+]

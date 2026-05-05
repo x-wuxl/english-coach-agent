@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_047525",
+    "content": "misleading statements about",
+    "meaning_zh": "关于……的误导性陈述",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_047539",
+    "content": "misplace trust in",
+    "meaning_zh": "错信；不该信任",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_047554",
+    "content": "miss a class",
+    "meaning_zh": "缺一节课；缺课",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学习场景常用"
+  },
+  {
+    "item_code": "w_047556",
+    "content": "miss an examination",
+    "meaning_zh": "缺考；错过考试",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "考试场景常用"
+  },
+  {
+    "item_code": "w_047557",
+    "content": "miss class",
+    "meaning_zh": "缺课",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础常用表达"
+  },
+  {
+    "item_code": "w_047558",
+    "content": "Miss Etiquette",
+    "meaning_zh": "礼仪小姐；礼仪女士",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有称谓"
+  },
+  {
+    "item_code": "w_047559",
+    "content": "Miss Li",
+    "meaning_zh": "李老师；李小姐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教材常见称呼"
+  },
+  {
+    "item_code": "w_047561",
+    "content": "miss out on something",
+    "meaning_zh": "错过某事；失去机会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  },
+  {
+    "item_code": "w_047562",
+    "content": "miss pity sympathy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词串噪声"
+  },
+  {
+    "item_code": "w_047570",
+    "content": "misses",
+    "meaning_zh": "想念；错过；未领会",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持"
+  },
+  {
+    "item_code": "w_047573",
+    "content": "missile radiotherapy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不可靠"
+  },
+  {
+    "item_code": "w_047577",
+    "content": "mission moan",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词串噪声"
+  },
+  {
+    "item_code": "w_047593",
+    "content": "mistake sb. for",
+    "meaning_zh": "把某人误认为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_047605",
+    "content": "mistreat consumers",
+    "meaning_zh": "不公正对待消费者；虐待消费者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_047613",
+    "content": "misty morning",
+    "meaning_zh": "雾蒙蒙的早晨",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见描述搭配"
+  },
+  {
+    "item_code": "w_047621",
+    "content": "mite sand",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词串噪声"
+  },
+  {
+    "item_code": "w_047625",
+    "content": "mitigate conjure",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词串噪声"
+  },
+  {
+    "item_code": "w_047636",
+    "content": "mitral tub tendon",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "医学词串不成搭配"
+  },
+  {
+    "item_code": "w_047654",
+    "content": "mixed origin",
+    "meaning_zh": "混合来源；混合血统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_047656",
+    "content": "mixed rice",
+    "meaning_zh": "拌饭；混合米饭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "食物表达"
+  }
+]

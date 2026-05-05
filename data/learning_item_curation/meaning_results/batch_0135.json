@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_011932",
+    "content": "canary collar hound",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配疑似噪声"
+  },
+  {
+    "item_code": "w_011935",
+    "content": "cancel one's reservation",
+    "meaning_zh": "取消预订",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅行表达"
+  },
+  {
+    "item_code": "w_011937",
+    "content": "cancellate intolerant",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合不自然"
+  },
+  {
+    "item_code": "w_011946",
+    "content": "cancer-causing chemical",
+    "meaning_zh": "致癌化学物质",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_011947",
+    "content": "cancer-causing compound",
+    "meaning_zh": "致癌化合物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见科学搭配"
+  },
+  {
+    "item_code": "w_011948",
+    "content": "cancer-causing toxins",
+    "meaning_zh": "致癌毒素",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "含义明确"
+  },
+  {
+    "item_code": "w_011957",
+    "content": "candidate for doctor's degree",
+    "meaning_zh": "博士学位候选人；博士研究生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术身份表达"
+  },
+  {
+    "item_code": "w_011976",
+    "content": "canine colloquial",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合不成义"
+  },
+  {
+    "item_code": "w_011977",
+    "content": "canine eyelash eyesight",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定含义疑似噪声"
+  },
+  {
+    "item_code": "w_011988",
+    "content": "Cannes International Film Festival",
+    "meaning_zh": "戛纳国际电影节",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词"
+  },
+  {
+    "item_code": "w_012008",
+    "content": "canny curve",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无常见固定含义"
+  },
+  {
+    "item_code": "w_012010",
+    "content": "canoe coast cruiser",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠疑似噪声"
+  },
+  {
+    "item_code": "w_012026",
+    "content": "cantin",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_012034",
+    "content": "canvas anonymous",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合不自然"
+  },
+  {
+    "item_code": "w_012035",
+    "content": "canvas painting",
+    "meaning_zh": "帆布画；布面油画",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "艺术常见表达"
+  },
+  {
+    "item_code": "w_012041",
+    "content": "canyla",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_012054",
+    "content": "capacity inventory",
+    "meaning_zh": "产能库存；容量清单",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "商务语境可解释"
+  },
+  {
+    "item_code": "w_012060",
+    "content": "capes of feathers",
+    "meaning_zh": "羽毛披肩；羽毛斗篷",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "字面搭配可理解"
+  },
+  {
+    "item_code": "w_012061",
+    "content": "Capetown",
+    "meaning_zh": "开普敦",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地名专有名词"
+  },
+  {
+    "item_code": "w_012074",
+    "content": "capital mortgage",
+    "meaning_zh": "资本抵押；本金抵押贷款",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "金融语境可解释"
+  }
+]

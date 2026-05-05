@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_019648",
+    "content": "delicatesen",
+    "meaning_zh": "熟食店；熟食",
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "疑为拼写错误"
+  },
+  {
+    "item_code": "w_019651",
+    "content": "delicious awful",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无固定搭配"
+  },
+  {
+    "item_code": "w_019653",
+    "content": "delicious meals",
+    "meaning_zh": "美味的饭菜",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_019654",
+    "content": "delicious-looking",
+    "meaning_zh": "看起来美味的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见复合形容词"
+  },
+  {
+    "item_code": "w_019660",
+    "content": "delighted transmission",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无固定搭配"
+  },
+  {
+    "item_code": "w_019665",
+    "content": "delimiter",
+    "meaning_zh": "分隔符；定界符",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_019667",
+    "content": "delineate recede",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无固定搭配"
+  },
+  {
+    "item_code": "w_019674",
+    "content": "delirium ingest",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无固定搭配"
+  },
+  {
+    "item_code": "w_019678",
+    "content": "deliver a judgment",
+    "meaning_zh": "宣判；作出判决",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律常见搭配"
+  },
+  {
+    "item_code": "w_019679",
+    "content": "deliver a lecture",
+    "meaning_zh": "发表演讲；授课",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_019681",
+    "content": "deliver a verdict",
+    "meaning_zh": "作出裁决；宣布裁定",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律常见搭配"
+  },
+  {
+    "item_code": "w_019683",
+    "content": "deliver babies",
+    "meaning_zh": "接生婴儿",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学常见表达"
+  },
+  {
+    "item_code": "w_019684",
+    "content": "deliver delivery",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "重复拼接噪声"
+  },
+  {
+    "item_code": "w_019686",
+    "content": "deliver relate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无固定搭配"
+  },
+  {
+    "item_code": "w_019694",
+    "content": "delivery desk",
+    "meaning_zh": "取货柜台；交付柜台",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作场所搭配"
+  },
+  {
+    "item_code": "w_019696",
+    "content": "delivery rush",
+    "meaning_zh": "送货高峰；配送高峰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境依赖搭配"
+  },
+  {
+    "item_code": "w_019699",
+    "content": "delset",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_019700",
+    "content": "delset padding",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_019709",
+    "content": "deluvian",
+    "meaning_zh": "洪水的；大洪水时期的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见词"
+  },
+  {
+    "item_code": "w_019715",
+    "content": "delve wiretap",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无固定搭配"
+  }
+]

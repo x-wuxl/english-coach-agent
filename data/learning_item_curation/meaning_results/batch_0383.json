@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_036479",
+    "content": "I will take it.",
+    "meaning_zh": "我要这个；我买了",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "购物常用整句"
+  },
+  {
+    "item_code": "w_036483",
+    "content": "I would love ...",
+    "meaning_zh": "我很愿意……；我很想……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "句型不完整但常用"
+  },
+  {
+    "item_code": "w_036486",
+    "content": "I'd like to ...",
+    "meaning_zh": "我想要……；我愿意……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用表达句型"
+  },
+  {
+    "item_code": "w_036487",
+    "content": "I'd love to",
+    "meaning_zh": "我很愿意；我很想",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句语义一致"
+  },
+  {
+    "item_code": "w_036492",
+    "content": "I'm ... metres tall.",
+    "meaning_zh": "我身高……米",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "身高表达句型"
+  },
+  {
+    "item_code": "w_036493",
+    "content": "I'm ... years old.",
+    "meaning_zh": "我……岁了",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "年龄表达句型"
+  },
+  {
+    "item_code": "w_036494",
+    "content": "I'm doing well.",
+    "meaning_zh": "我很好；我过得不错",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句语义一致"
+  },
+  {
+    "item_code": "w_036495",
+    "content": "I'm fine, thank you.",
+    "meaning_zh": "我很好，谢谢",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "问候常用答语"
+  },
+  {
+    "item_code": "w_036496",
+    "content": "I'm fine. And you?",
+    "meaning_zh": "我很好，你呢？",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "问候常用答语"
+  },
+  {
+    "item_code": "w_036497",
+    "content": "I'm finished.",
+    "meaning_zh": "我完成了；我结束了",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用完成表达"
+  },
+  {
+    "item_code": "w_036499",
+    "content": "I'm using cheerful optimistic",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "语法异常疑似噪声"
+  },
+  {
+    "item_code": "w_036514",
+    "content": "Ice and Snow Festival",
+    "meaning_zh": "冰雪节",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "节日名称"
+  },
+  {
+    "item_code": "w_036519",
+    "content": "ice cream shop",
+    "meaning_zh": "冰淇淋店",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_036523",
+    "content": "ice fishing",
+    "meaning_zh": "冰钓",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见活动名称"
+  },
+  {
+    "item_code": "w_036526",
+    "content": "ice lantern",
+    "meaning_zh": "冰灯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_036532",
+    "content": "ice shell",
+    "meaning_zh": "冰壳",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_036542",
+    "content": "ice-encased",
+    "meaning_zh": "被冰包裹的；冰封的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_036543",
+    "content": "ice-forming",
+    "meaning_zh": "形成冰的；结冰的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_036545",
+    "content": "ice-free corridor",
+    "meaning_zh": "无冰走廊；无冰通道",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地理考古术语"
+  },
+  {
+    "item_code": "w_036547",
+    "content": "ice-polished",
+    "meaning_zh": "被冰磨光的；冰川磨蚀的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  }
+]

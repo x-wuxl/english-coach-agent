@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_063583",
+    "content": "safari guide",
+    "meaning_zh": "野生动物观光向导",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅游职业"
+  },
+  {
+    "item_code": "w_063592",
+    "content": "safeguard public morals",
+    "meaning_zh": "维护公共道德",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动宾搭配"
+  },
+  {
+    "item_code": "w_063595",
+    "content": "safer",
+    "meaning_zh": "更安全的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_063615",
+    "content": "sage grizzly don",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无明确含义"
+  },
+  {
+    "item_code": "w_063620",
+    "content": "sagnant",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_063621",
+    "content": "sagnant patient",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_063629",
+    "content": "sail off the coast",
+    "meaning_zh": "在近海航行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见地点搭配"
+  },
+  {
+    "item_code": "w_063630",
+    "content": "sail sailing",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "重复组合非搭配"
+  },
+  {
+    "item_code": "w_063641",
+    "content": "Saint Basil's Cathedral",
+    "meaning_zh": "圣瓦西里大教堂",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "著名建筑专名"
+  },
+  {
+    "item_code": "w_063647",
+    "content": "sakado",
+    "meaning_zh": "坂户，日本地名",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作地名专名"
+  },
+  {
+    "item_code": "w_063649",
+    "content": "sake minus converge",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无明确含义"
+  },
+  {
+    "item_code": "w_063664",
+    "content": "salary employee announce debit",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无义"
+  },
+  {
+    "item_code": "w_063667",
+    "content": "salary reform",
+    "meaning_zh": "薪酬改革；工资改革",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政策搭配"
+  },
+  {
+    "item_code": "w_063674",
+    "content": "sales and discounts",
+    "meaning_zh": "促销和折扣",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商业表达"
+  },
+  {
+    "item_code": "w_063678",
+    "content": "sales coordinator",
+    "meaning_zh": "销售协调员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职位名称"
+  },
+  {
+    "item_code": "w_063705",
+    "content": "salient blatant",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "形容词堆叠无义"
+  },
+  {
+    "item_code": "w_063709",
+    "content": "saline ardent pedestrian",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无义"
+  },
+  {
+    "item_code": "w_063722",
+    "content": "salmon habitat",
+    "meaning_zh": "鲑鱼栖息地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态主题搭配"
+  },
+  {
+    "item_code": "w_063723",
+    "content": "salmon population",
+    "meaning_zh": "鲑鱼种群；鲑鱼数量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态主题搭配"
+  },
+  {
+    "item_code": "w_063724",
+    "content": "salmon protection and restoration",
+    "meaning_zh": "鲑鱼保护与恢复",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态保护表达"
+  }
+]

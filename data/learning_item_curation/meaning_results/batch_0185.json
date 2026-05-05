@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_017030",
+    "content": "convoy helmet",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_017033",
+    "content": "convulsion scout",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串不成义"
+  },
+  {
+    "item_code": "w_017038",
+    "content": "cook the meal",
+    "meaning_zh": "做饭；做这顿饭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_017043",
+    "content": "cookbook cookery essence",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串不自然"
+  },
+  {
+    "item_code": "w_017050",
+    "content": "cookie sale",
+    "meaning_zh": "曲奇义卖；饼干售卖活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见校园活动"
+  },
+  {
+    "item_code": "w_017053",
+    "content": "cooking class",
+    "meaning_zh": "烹饪课",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_017065",
+    "content": "coolant-lined",
+    "meaning_zh": "带冷却液衬层的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术形容词"
+  },
+  {
+    "item_code": "w_017071",
+    "content": "cooling operation mode",
+    "meaning_zh": "制冷运行模式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术名词短语"
+  },
+  {
+    "item_code": "w_017082",
+    "content": "cooperate with each other",
+    "meaning_zh": "相互合作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_017083",
+    "content": "cooperate with others",
+    "meaning_zh": "与他人合作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_017087",
+    "content": "cooperation loan",
+    "meaning_zh": "合作贷款",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "金融搭配可理解"
+  },
+  {
+    "item_code": "w_017088",
+    "content": "cooperation partner",
+    "meaning_zh": "合作伙伴",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商务搭配"
+  },
+  {
+    "item_code": "w_017090",
+    "content": "cooperative average",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  },
+  {
+    "item_code": "w_017091",
+    "content": "cooperative efforts",
+    "meaning_zh": "共同努力；合作努力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_017093",
+    "content": "cooperative partnership",
+    "meaning_zh": "合作伙伴关系",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商务搭配"
+  },
+  {
+    "item_code": "w_017098",
+    "content": "coordinate isotope",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "术语不可靠"
+  },
+  {
+    "item_code": "w_017104",
+    "content": "coordination manner enlarge manufacture",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串不成义"
+  },
+  {
+    "item_code": "w_017107",
+    "content": "copability",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_017112",
+    "content": "Copenhagen Accord",
+    "meaning_zh": "哥本哈根协议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "气候协议专名"
+  },
+  {
+    "item_code": "w_017119",
+    "content": "copious palmy deportation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串"
+  }
+]

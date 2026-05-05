@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_063483",
+    "content": "russell in felicitous wrangel",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声短语"
+  },
+  {
+    "item_code": "w_063484",
+    "content": "russell scrunch",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_063507",
+    "content": "ruthless chaos",
+    "meaning_zh": "残酷的混乱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作形容性搭配"
+  },
+  {
+    "item_code": "w_063510",
+    "content": "ruxac",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法识别词形"
+  },
+  {
+    "item_code": "w_063513",
+    "content": "régime",
+    "meaning_zh": "政权；制度；养生法",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "regime变体拼写"
+  },
+  {
+    "item_code": "w_063522",
+    "content": "sabotage de numa",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似混杂噪声"
+  },
+  {
+    "item_code": "w_063530",
+    "content": "saccharine particularize",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "拼接词组无整体义"
+  },
+  {
+    "item_code": "w_063534",
+    "content": "sack ditch consent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "拼接词组无整体义"
+  },
+  {
+    "item_code": "w_063539",
+    "content": "sacondment",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_063546",
+    "content": "sacred immerse",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_063547",
+    "content": "sacred myth",
+    "meaning_zh": "神圣的神话",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_063554",
+    "content": "sacrifice health",
+    "meaning_zh": "牺牲健康",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_063555",
+    "content": "sacrifice to",
+    "meaning_zh": "向……献祭；为……牺牲",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语结构"
+  },
+  {
+    "item_code": "w_063557",
+    "content": "sacrificial ceremony",
+    "meaning_zh": "祭祀仪式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_063558",
+    "content": "sacrificial offerings",
+    "meaning_zh": "祭品；供品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定宗教文化表达"
+  },
+  {
+    "item_code": "w_063567",
+    "content": "sadden prism denial",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "拼接词组无整体义"
+  },
+  {
+    "item_code": "w_063568",
+    "content": "sadder",
+    "meaning_zh": "更悲伤的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "sad比较级"
+  },
+  {
+    "item_code": "w_063571",
+    "content": "saddle tremor laden",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "拼接词组无整体义"
+  },
+  {
+    "item_code": "w_063573",
+    "content": "saddu",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法识别词形"
+  },
+  {
+    "item_code": "w_063581",
+    "content": "safar",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写残片"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_016670",
+    "content": "consumer credit card",
+    "meaning_zh": "消费者信用卡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见金融搭配"
+  },
+  {
+    "item_code": "w_016678",
+    "content": "consumer taxicab",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_016681",
+    "content": "consumers' perspective",
+    "meaning_zh": "消费者视角",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_016682",
+    "content": "consumers' rights and interests",
+    "meaning_zh": "消费者权益",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定法律经济表达"
+  },
+  {
+    "item_code": "w_016688",
+    "content": "consumption propensity",
+    "meaning_zh": "消费倾向",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济学常用术语"
+  },
+  {
+    "item_code": "w_016692",
+    "content": "contact friends",
+    "meaning_zh": "联系朋友",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_016696",
+    "content": "contact the clients",
+    "meaning_zh": "联系客户",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常见搭配"
+  },
+  {
+    "item_code": "w_016697",
+    "content": "contact ulcer",
+    "meaning_zh": "接触性溃疡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学术语"
+  },
+  {
+    "item_code": "w_016704",
+    "content": "contagious cripple",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "低价值且搭配异常"
+  },
+  {
+    "item_code": "w_016708",
+    "content": "contain declines",
+    "meaning_zh": "遏制下滑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作经济语境搭配"
+  },
+  {
+    "item_code": "w_016709",
+    "content": "contain no glass",
+    "meaning_zh": "不含玻璃",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "含义直接明确"
+  },
+  {
+    "item_code": "w_016710",
+    "content": "contain proficiency",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_016711",
+    "content": "contain raise",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_016712",
+    "content": "contain the outbreak",
+    "meaning_zh": "控制疫情暴发",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "公共卫生常见表达"
+  },
+  {
+    "item_code": "w_016713",
+    "content": "contain the spread",
+    "meaning_zh": "遏制传播",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见防控表达"
+  },
+  {
+    "item_code": "w_016716",
+    "content": "container apartment",
+    "meaning_zh": "集装箱公寓",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "建筑居住类搭配"
+  },
+  {
+    "item_code": "w_016718",
+    "content": "container load unload",
+    "meaning_zh": "集装箱装卸",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "省略式物流表达"
+  },
+  {
+    "item_code": "w_016726",
+    "content": "contamaceous pseudonym alacrity crux",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词拼接疑似噪声"
+  },
+  {
+    "item_code": "w_016729",
+    "content": "contaminate orient",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_016735",
+    "content": "contankerous",
+    "meaning_zh": "脾气坏的；好争吵的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为cantankerous变体"
+  }
+]

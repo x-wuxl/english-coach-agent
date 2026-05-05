@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_013049",
+    "content": "certain confident confidence",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词混杂非固定表达"
+  },
+  {
+    "item_code": "w_013053",
+    "content": "certainty tick",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组含义不明"
+  },
+  {
+    "item_code": "w_013056",
+    "content": "certificate course",
+    "meaning_zh": "证书课程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "留学常见搭配"
+  },
+  {
+    "item_code": "w_013057",
+    "content": "certificate maniac",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_013059",
+    "content": "certificate replacement",
+    "meaning_zh": "补办证书；更换证书",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "证书事务常见表达"
+  },
+  {
+    "item_code": "w_013060",
+    "content": "certificate saturate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_013068",
+    "content": "certify fatigue",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词混杂非固定表达"
+  },
+  {
+    "item_code": "w_013070",
+    "content": "certitude immune fast ethereal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词混杂无整体义"
+  },
+  {
+    "item_code": "w_013071",
+    "content": "certum",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拉丁词或噪声"
+  },
+  {
+    "item_code": "w_013072",
+    "content": "cerulean",
+    "meaning_zh": "天蓝色的；蔚蓝色",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见高级词汇"
+  },
+  {
+    "item_code": "w_013082",
+    "content": "cessation commence",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "反义词混杂非短语"
+  },
+  {
+    "item_code": "w_013083",
+    "content": "cessation nuance pundit ratify",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词混杂无整体义"
+  },
+  {
+    "item_code": "w_013106",
+    "content": "chain collision",
+    "meaning_zh": "链式碰撞；连环碰撞",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术或事故表达"
+  },
+  {
+    "item_code": "w_013107",
+    "content": "chain paroxysm",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_013112",
+    "content": "chained",
+    "meaning_zh": "被束缚的；被链住的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_013113",
+    "content": "chained conditional",
+    "meaning_zh": "链式条件判断",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_013131",
+    "content": "chalky fishy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "形容词混杂非短语"
+  },
+  {
+    "item_code": "w_013142",
+    "content": "chameleon concede",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词混杂非固定表达"
+  },
+  {
+    "item_code": "w_013143",
+    "content": "chamoishorn",
+    "meaning_zh": "麂皮号",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见乐器名"
+  },
+  {
+    "item_code": "w_013147",
+    "content": "champagne chocolate cider",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "食物名混杂非短语"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_050584",
+    "content": "notable asymmetric reputation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_050589",
+    "content": "notary whirl prevalence",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_050595",
+    "content": "notch insipid",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_050600",
+    "content": "note system",
+    "meaning_zh": "笔记系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见学习表达"
+  },
+  {
+    "item_code": "w_050603",
+    "content": "notebook notepad",
+    "meaning_zh": "笔记本；记事本",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "近义词并列"
+  },
+  {
+    "item_code": "w_050619",
+    "content": "notice board oily outfit",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_050622",
+    "content": "notice sb. do sth.",
+    "meaning_zh": "注意到某人做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型"
+  },
+  {
+    "item_code": "w_050624",
+    "content": "noticeable trend",
+    "meaning_zh": "明显趋势",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_050634",
+    "content": "notions of significance",
+    "meaning_zh": "重要性的观念",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "学术表达"
+  },
+  {
+    "item_code": "w_050637",
+    "content": "notorious market",
+    "meaning_zh": "臭名昭著的市场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解搭配"
+  },
+  {
+    "item_code": "w_050638",
+    "content": "notorious unanimous precedence",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_050640",
+    "content": "notorize",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_050641",
+    "content": "Notre Dame Cathedral",
+    "meaning_zh": "巴黎圣母院",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词"
+  },
+  {
+    "item_code": "w_050645",
+    "content": "notwithstanding consolitis",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含未知噪声词"
+  },
+  {
+    "item_code": "w_050647",
+    "content": "nought point eight",
+    "meaning_zh": "零点八",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "数字读法"
+  },
+  {
+    "item_code": "w_050650",
+    "content": "nourish insure",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_050651",
+    "content": "nourish select reward inject",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词表串联"
+  },
+  {
+    "item_code": "w_050657",
+    "content": "nouveau rich",
+    "meaning_zh": "暴发户；新富阶层",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_050663",
+    "content": "novacane",
+    "meaning_zh": "奴佛卡因；局部麻醉剂",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "药物名变体"
+  },
+  {
+    "item_code": "w_050667",
+    "content": "novel blight barbadom",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  }
+]

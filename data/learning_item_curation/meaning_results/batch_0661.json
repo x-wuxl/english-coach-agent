@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_065294",
+    "content": "semisubsistence",
+    "meaning_zh": "半自给自足的；半自给型的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见学术农业词"
+  },
+  {
+    "item_code": "w_065305",
+    "content": "send ... to prison",
+    "meaning_zh": "把……送进监狱；判……入狱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_065307",
+    "content": "send a message",
+    "meaning_zh": "发送消息；传递信息",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  },
+  {
+    "item_code": "w_065308",
+    "content": "send a short message",
+    "meaning_zh": "发送短信；发送简短消息",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见通信搭配"
+  },
+  {
+    "item_code": "w_065309",
+    "content": "send an e-mail",
+    "meaning_zh": "发送电子邮件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见通信搭配"
+  },
+  {
+    "item_code": "w_065310",
+    "content": "send an email",
+    "meaning_zh": "发送电子邮件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见通信搭配"
+  },
+  {
+    "item_code": "w_065314",
+    "content": "send emails",
+    "meaning_zh": "发送电子邮件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见通信搭配"
+  },
+  {
+    "item_code": "w_065318",
+    "content": "send invitations",
+    "meaning_zh": "发送邀请；发邀请函",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  },
+  {
+    "item_code": "w_065319",
+    "content": "send letters to ...",
+    "meaning_zh": "给……寄信",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见书信搭配"
+  },
+  {
+    "item_code": "w_065320",
+    "content": "send newsletters",
+    "meaning_zh": "发送简报；发送新闻通讯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见邮件搭配"
+  },
+  {
+    "item_code": "w_065323",
+    "content": "send out a questionnaire",
+    "meaning_zh": "发放问卷；发送调查问卷",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "调研常用搭配"
+  },
+  {
+    "item_code": "w_065324",
+    "content": "send out signals",
+    "meaning_zh": "发出信号",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见科技表达"
+  },
+  {
+    "item_code": "w_065327",
+    "content": "send SMS",
+    "meaning_zh": "发送短信",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见通信表达"
+  },
+  {
+    "item_code": "w_065329",
+    "content": "send someone to ...",
+    "meaning_zh": "把某人送到……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型搭配"
+  },
+  {
+    "item_code": "w_065334",
+    "content": "sending device",
+    "meaning_zh": "发送设备；传输装置",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术名词搭配"
+  },
+  {
+    "item_code": "w_065340",
+    "content": "senescent sponge cupboard",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声搭配"
+  },
+  {
+    "item_code": "w_065353",
+    "content": "senior position",
+    "meaning_zh": "高级职位；资深岗位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职场常用搭配"
+  },
+  {
+    "item_code": "w_065354",
+    "content": "senior researcher",
+    "meaning_zh": "高级研究员；资深研究员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职位名称"
+  },
+  {
+    "item_code": "w_065356",
+    "content": "senior secretary",
+    "meaning_zh": "高级秘书；资深秘书",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职位名称"
+  },
+  {
+    "item_code": "w_065362",
+    "content": "seniors' home",
+    "meaning_zh": "养老院；老年人之家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定生活表达"
+  }
+]

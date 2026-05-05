@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_014096",
+    "content": "circumscripe gangly tangible maladroit",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串且含拼写疑似错误"
+  },
+  {
+    "item_code": "w_014098",
+    "content": "circumspect resurrect",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "两个词无稳定搭配"
+  },
+  {
+    "item_code": "w_014101",
+    "content": "circumstance quilt deposition",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无整体含义"
+  },
+  {
+    "item_code": "w_014107",
+    "content": "circumvent callow",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "两个词无稳定搭配"
+  },
+  {
+    "item_code": "w_014109",
+    "content": "circus arena",
+    "meaning_zh": "马戏场；马戏表演场地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_014110",
+    "content": "circus enterprise partition",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无整体含义"
+  },
+  {
+    "item_code": "w_014111",
+    "content": "circus performance",
+    "meaning_zh": "马戏表演",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_014113",
+    "content": "cirrhosis bible anti fibro",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串噪声且含残片"
+  },
+  {
+    "item_code": "w_014115",
+    "content": "CIS",
+    "meaning_zh": "计算机信息系统",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "结合计算机主题判断缩写"
+  },
+  {
+    "item_code": "w_014136",
+    "content": "citrus portable ribbon possession",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无整体含义"
+  },
+  {
+    "item_code": "w_014143",
+    "content": "city designing",
+    "meaning_zh": "城市设计",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解为设计类短语"
+  },
+  {
+    "item_code": "w_014144",
+    "content": "city for opportunity",
+    "meaning_zh": "充满机会的城市",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可推断"
+  },
+  {
+    "item_code": "w_014146",
+    "content": "city health department",
+    "meaning_zh": "市卫生部门",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见机构名称"
+  },
+  {
+    "item_code": "w_014154",
+    "content": "city village",
+    "meaning_zh": "城中村；城市村庄",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见社会地理表达"
+  },
+  {
+    "item_code": "w_014155",
+    "content": "city's landscaping plan",
+    "meaning_zh": "城市绿化规划",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语结构清晰"
+  },
+  {
+    "item_code": "w_014162",
+    "content": "civic engage",
+    "meaning_zh": "公民参与",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为civic engagement"
+  },
+  {
+    "item_code": "w_014163",
+    "content": "civic morality",
+    "meaning_zh": "公民道德",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象名词搭配"
+  },
+  {
+    "item_code": "w_014178",
+    "content": "civil right emancipate ensu",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串含残缺词无整体义"
+  },
+  {
+    "item_code": "w_014183",
+    "content": "Civil Service Exams",
+    "meaning_zh": "公务员考试",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定考试名称"
+  },
+  {
+    "item_code": "w_014184",
+    "content": "civil society engagement",
+    "meaning_zh": "公民社会参与",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见公共事务表达"
+  }
+]

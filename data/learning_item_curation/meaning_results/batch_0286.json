@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_027022",
+    "content": "fast-food joints",
+    "meaning_zh": "快餐店",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见口语短语"
+  },
+  {
+    "item_code": "w_027030",
+    "content": "fastback",
+    "meaning_zh": "溜背式汽车",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见汽车术语"
+  },
+  {
+    "item_code": "w_027036",
+    "content": "fasten one's safety belt",
+    "meaning_zh": "系好安全带",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_027037",
+    "content": "fasten one's seat belt",
+    "meaning_zh": "系好安全带",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_027038",
+    "content": "fasten your safety belt",
+    "meaning_zh": "系好你的安全带",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见提示语"
+  },
+  {
+    "item_code": "w_027049",
+    "content": "fastoon",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_027054",
+    "content": "fat pay packet",
+    "meaning_zh": "丰厚的薪水",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_027060",
+    "content": "fatal dead hospice",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成义"
+  },
+  {
+    "item_code": "w_027075",
+    "content": "Father Farges",
+    "meaning_zh": "法尔热神父",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有名词"
+  },
+  {
+    "item_code": "w_027076",
+    "content": "father in law",
+    "meaning_zh": "岳父；公公",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "亲属称谓"
+  },
+  {
+    "item_code": "w_027077",
+    "content": "Father of Hybrid Rice",
+    "meaning_zh": "杂交水稻之父",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见称号"
+  },
+  {
+    "item_code": "w_027084",
+    "content": "fathom incubate bravado",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定含义"
+  },
+  {
+    "item_code": "w_027102",
+    "content": "fatty meat",
+    "meaning_zh": "肥肉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见食物搭配"
+  },
+  {
+    "item_code": "w_027103",
+    "content": "fatty salt oil",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成义"
+  },
+  {
+    "item_code": "w_027110",
+    "content": "fault slippage",
+    "meaning_zh": "断层滑移",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地质术语"
+  },
+  {
+    "item_code": "w_027119",
+    "content": "faulty prefer",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成义"
+  },
+  {
+    "item_code": "w_027120",
+    "content": "faulty revolve",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成义"
+  },
+  {
+    "item_code": "w_027130",
+    "content": "favorable entice composer",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定含义"
+  },
+  {
+    "item_code": "w_027131",
+    "content": "favorable geographic location",
+    "meaning_zh": "优越的地理位置",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_027132",
+    "content": "favorable impression",
+    "meaning_zh": "良好印象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  }
+]

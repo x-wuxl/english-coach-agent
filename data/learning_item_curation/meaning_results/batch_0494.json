@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_047657",
+    "content": "mixed unit system",
+    "meaning_zh": "混合单位制",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定术语"
+  },
+  {
+    "item_code": "w_047658",
+    "content": "mixed-sex school",
+    "meaning_zh": "男女同校",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育常用表达"
+  },
+  {
+    "item_code": "w_047660",
+    "content": "mixin class",
+    "meaning_zh": "混入类",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程术语"
+  },
+  {
+    "item_code": "w_047661",
+    "content": "mixin method",
+    "meaning_zh": "混入方法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "编程术语"
+  },
+  {
+    "item_code": "w_047675",
+    "content": "mo organic prune",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含噪声无法判断"
+  },
+  {
+    "item_code": "w_047683",
+    "content": "mobile cabin hospital",
+    "meaning_zh": "移动方舱医院；方舱医院",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "公共卫生术语"
+  },
+  {
+    "item_code": "w_047685",
+    "content": "mobile internet user",
+    "meaning_zh": "移动互联网用户",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见统计表达"
+  },
+  {
+    "item_code": "w_047688",
+    "content": "mobile phone film",
+    "meaning_zh": "手机贴膜；手机保护膜",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "日常用品表达"
+  },
+  {
+    "item_code": "w_047689",
+    "content": "mobile phone sidewalk",
+    "meaning_zh": "手机人行道；手机专用步道",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配较少见"
+  },
+  {
+    "item_code": "w_047690",
+    "content": "mobile phone subscription",
+    "meaning_zh": "移动电话用户订阅量；手机入网用户数",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "通信统计术语"
+  },
+  {
+    "item_code": "w_047691",
+    "content": "mobile phone users",
+    "meaning_zh": "手机用户",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_047703",
+    "content": "mobilize architecture",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_047704",
+    "content": "mobilize the army",
+    "meaning_zh": "动员军队",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_047709",
+    "content": "mocha oranget",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_047720",
+    "content": "mod",
+    "meaning_zh": "取模；模组；修改版",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "计算机常见缩写"
+  },
+  {
+    "item_code": "w_047738",
+    "content": "modeled",
+    "meaning_zh": "建模的；仿照的；当模特展示过的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "model过去式形容词"
+  },
+  {
+    "item_code": "w_047740",
+    "content": "modeling career",
+    "meaning_zh": "模特生涯；模特职业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职业相关短语"
+  },
+  {
+    "item_code": "w_047743",
+    "content": "moderate appointment apparatus",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无自然含义"
+  },
+  {
+    "item_code": "w_047744",
+    "content": "moderate bold patience",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无自然含义"
+  },
+  {
+    "item_code": "w_047745",
+    "content": "moderate character",
+    "meaning_zh": "温和的性格；稳健的人物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作常见搭配"
+  }
+]

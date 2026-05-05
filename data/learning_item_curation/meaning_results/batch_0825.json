@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_081641",
+    "content": "workset",
+    "meaning_zh": "工作集；工作集合",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术或业务术语"
+  },
+  {
+    "item_code": "w_081655",
+    "content": "World Car Free Day",
+    "meaning_zh": "世界无车日",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有节日名称"
+  },
+  {
+    "item_code": "w_081657",
+    "content": "World Consumer Rights Day",
+    "meaning_zh": "世界消费者权益日",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有节日名称"
+  },
+  {
+    "item_code": "w_081660",
+    "content": "World Health Organisation",
+    "meaning_zh": "世界卫生组织",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "机构专有名词"
+  },
+  {
+    "item_code": "w_081681",
+    "content": "world-class city cluster",
+    "meaning_zh": "世界级城市群",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政策表达"
+  },
+  {
+    "item_code": "w_081686",
+    "content": "world-shocking",
+    "meaning_zh": "震惊世界的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_081693",
+    "content": "worldwide belt",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不常见，缺少语境"
+  },
+  {
+    "item_code": "w_081704",
+    "content": "worried-looking",
+    "meaning_zh": "面带忧虑的；看起来担心的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_081711",
+    "content": "worry about their future",
+    "meaning_zh": "担心他们的未来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词短语"
+  },
+  {
+    "item_code": "w_081719",
+    "content": "worship the moon",
+    "meaning_zh": "拜月；祭拜月亮",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "传统文化表达"
+  },
+  {
+    "item_code": "w_081743",
+    "content": "would give a lot",
+    "meaning_zh": "非常想要；愿意付出很多",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "省略后接内容"
+  },
+  {
+    "item_code": "w_081744",
+    "content": "would give anything",
+    "meaning_zh": "非常想要；不惜一切代价",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_081745",
+    "content": "would give the world",
+    "meaning_zh": "非常想要；愿付出一切",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见夸张表达"
+  },
+  {
+    "item_code": "w_081748",
+    "content": "would love",
+    "meaning_zh": "很愿意；很想",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持用法"
+  },
+  {
+    "item_code": "w_081750",
+    "content": "would never do",
+    "meaning_zh": "绝不会做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持用法"
+  },
+  {
+    "item_code": "w_081751",
+    "content": "would prefer to do",
+    "meaning_zh": "宁愿做；更愿意做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型"
+  },
+  {
+    "item_code": "w_081757",
+    "content": "would sooner do sth.",
+    "meaning_zh": "宁愿做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定比较句型"
+  },
+  {
+    "item_code": "w_081759",
+    "content": "Would you mind ...?",
+    "meaning_zh": "你介意……吗；请你……好吗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见礼貌句型"
+  },
+  {
+    "item_code": "w_081761",
+    "content": "would-be lawyer",
+    "meaning_zh": "未来的律师；想当律师的人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "would-be表示未来的"
+  },
+  {
+    "item_code": "w_081766",
+    "content": "wounded lead fracture",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常，疑似噪声"
+  }
+]

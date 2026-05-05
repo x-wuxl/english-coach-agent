@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_052770",
+    "content": "outline of a speech",
+    "meaning_zh": "演讲提纲",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_052771",
+    "content": "outline one's idea",
+    "meaning_zh": "概述自己的想法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_052774",
+    "content": "outlook of life",
+    "meaning_zh": "人生观",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略不自然"
+  },
+  {
+    "item_code": "w_052778",
+    "content": "outmaneuver vindicate solemnity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串噪声"
+  },
+  {
+    "item_code": "w_052785",
+    "content": "outpatient blister",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_052787",
+    "content": "outplace",
+    "meaning_zh": "为被裁员工提供转职安置服务",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "商务人力术语"
+  },
+  {
+    "item_code": "w_052797",
+    "content": "outrageous experimental elbow capacitor",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串噪声"
+  },
+  {
+    "item_code": "w_052813",
+    "content": "outside foot passing",
+    "meaning_zh": "外脚背传球",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "足球技术术语"
+  },
+  {
+    "item_code": "w_052814",
+    "content": "outside left forward",
+    "meaning_zh": "左边锋",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "足球位置术语"
+  },
+  {
+    "item_code": "w_052817",
+    "content": "outside right forward",
+    "meaning_zh": "右边锋",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "足球位置术语"
+  },
+  {
+    "item_code": "w_052832",
+    "content": "outstanding availability",
+    "meaning_zh": "出色的可用性；极高的可获得性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "普通形容词搭配"
+  },
+  {
+    "item_code": "w_052833",
+    "content": "outstanding folk arts",
+    "meaning_zh": "杰出的民间艺术",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_052837",
+    "content": "outstrenched",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_052849",
+    "content": "outwei",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似残缺词"
+  },
+  {
+    "item_code": "w_052855",
+    "content": "ovarian development",
+    "meaning_zh": "卵巢发育",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生物医学术语"
+  },
+  {
+    "item_code": "w_052861",
+    "content": "oven door",
+    "meaning_zh": "烤箱门",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "日常物品短语"
+  },
+  {
+    "item_code": "w_052864",
+    "content": "over a span of",
+    "meaning_zh": "在……的一段时间内；历时……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时间表达"
+  },
+  {
+    "item_code": "w_052875",
+    "content": "over the Internet",
+    "meaning_zh": "通过互联网；在网上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词短语"
+  },
+  {
+    "item_code": "w_052876",
+    "content": "over the long term",
+    "meaning_zh": "从长远来看；长期而言",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  },
+  {
+    "item_code": "w_052881",
+    "content": "over-2000-year-long",
+    "meaning_zh": "两千多年之久的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_003370",
+    "content": "andrew",
+    "meaning_zh": "安德鲁，人名",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见英文人名"
+  },
+  {
+    "item_code": "w_003371",
+    "content": "Andrew Hallidie",
+    "meaning_zh": "安德鲁·哈利迪，人名",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词人名"
+  },
+  {
+    "item_code": "w_003379",
+    "content": "André-Marie Ampère",
+    "meaning_zh": "安德烈-玛丽·安培，人名",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "物理学家人名"
+  },
+  {
+    "item_code": "w_003384",
+    "content": "anecdotes and mottos",
+    "meaning_zh": "轶事和格言",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "并列短语"
+  },
+  {
+    "item_code": "w_003388",
+    "content": "anemia atropine",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "医学词拼接噪声"
+  },
+  {
+    "item_code": "w_003390",
+    "content": "anemic break",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  },
+  {
+    "item_code": "w_003400",
+    "content": "anesthetic antibiotic",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "医学词拼接噪声"
+  },
+  {
+    "item_code": "w_003412",
+    "content": "Angela Rosseto",
+    "meaning_zh": "安吉拉·罗塞托，人名",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有名词人名"
+  },
+  {
+    "item_code": "w_003416",
+    "content": "angenu",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_003418",
+    "content": "anger angrily",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词形拼接噪声"
+  },
+  {
+    "item_code": "w_003441",
+    "content": "angle measurement in degrees",
+    "meaning_zh": "用度数表示的角度测量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "数学表达"
+  },
+  {
+    "item_code": "w_003463",
+    "content": "Angus Deayton",
+    "meaning_zh": "安格斯·戴顿，人名",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词人名"
+  },
+  {
+    "item_code": "w_003469",
+    "content": "anhydrous trimester",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_003472",
+    "content": "aniline oxidation",
+    "meaning_zh": "苯胺氧化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "化学术语"
+  },
+  {
+    "item_code": "w_003477",
+    "content": "animal act",
+    "meaning_zh": "动物表演",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_003480",
+    "content": "animal clinic",
+    "meaning_zh": "动物诊所；宠物诊所",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见场所名"
+  },
+  {
+    "item_code": "w_003481",
+    "content": "Animal Helpline",
+    "meaning_zh": "动物求助热线",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "机构或热线名"
+  },
+  {
+    "item_code": "w_003485",
+    "content": "animal rights activist",
+    "meaning_zh": "动物权利活动家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见身份表达"
+  },
+  {
+    "item_code": "w_003486",
+    "content": "animal rights activists",
+    "meaning_zh": "动物权利活动家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复数身份表达"
+  },
+  {
+    "item_code": "w_003490",
+    "content": "animal year",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  }
+]

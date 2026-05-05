@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_064799",
+    "content": "sedentary encode smuggle abstinence",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "多个无关词拼接"
+  },
+  {
+    "item_code": "w_064804",
+    "content": "sediment-free",
+    "meaning_zh": "无沉淀物的；无泥沙的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词含义明确"
+  },
+  {
+    "item_code": "w_064806",
+    "content": "sedimentary layer",
+    "meaning_zh": "沉积层",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地质常用搭配"
+  },
+  {
+    "item_code": "w_064812",
+    "content": "sedu",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似残片或拼写错误"
+  },
+  {
+    "item_code": "w_064827",
+    "content": "see a friend",
+    "meaning_zh": "见朋友；看望朋友",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_064836",
+    "content": "see family",
+    "meaning_zh": "见家人；看望家人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_064837",
+    "content": "see films",
+    "meaning_zh": "看电影",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_064840",
+    "content": "see friends",
+    "meaning_zh": "见朋友；与朋友见面",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_064844",
+    "content": "see me subterfuge",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "多个无关词拼接"
+  },
+  {
+    "item_code": "w_064845",
+    "content": "see no objection",
+    "meaning_zh": "不反对；没有异议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达含义明确"
+  },
+  {
+    "item_code": "w_064849",
+    "content": "see patients",
+    "meaning_zh": "接诊病人；给病人看病",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医疗场景常用表达"
+  },
+  {
+    "item_code": "w_064850",
+    "content": "see plants and flowers",
+    "meaning_zh": "观赏植物和花卉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅游观赏表达"
+  },
+  {
+    "item_code": "w_064851",
+    "content": "see rapid growth",
+    "meaning_zh": "迅速增长；出现快速增长",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "增长类常用搭配"
+  },
+  {
+    "item_code": "w_064857",
+    "content": "see sculptures and lanterns",
+    "meaning_zh": "观赏雕塑和灯笼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "观赏类动宾搭配"
+  },
+  {
+    "item_code": "w_064863",
+    "content": "see sth. in perspective",
+    "meaning_zh": "客观看待某事；正确全面地看待某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达含义明确"
+  },
+  {
+    "item_code": "w_064866",
+    "content": "see the dentist",
+    "meaning_zh": "看牙医",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持释义"
+  },
+  {
+    "item_code": "w_064869",
+    "content": "see the personnel officer",
+    "meaning_zh": "见人事主管",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职场场景表达"
+  },
+  {
+    "item_code": "w_064882",
+    "content": "see you",
+    "meaning_zh": "再见；回头见",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持告别用法"
+  },
+  {
+    "item_code": "w_064884",
+    "content": "See you soon.",
+    "meaning_zh": "一会儿见；很快见",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持告别用法"
+  },
+  {
+    "item_code": "w_064893",
+    "content": "seed illuminati expedite",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "多个无关词拼接"
+  }
+]

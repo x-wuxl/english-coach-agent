@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_017768",
+    "content": "cramming teaching",
+    "meaning_zh": "填鸭式教学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见教育表达但搭配略生硬"
+  },
+  {
+    "item_code": "w_017770",
+    "content": "cramp donor sequence",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无可靠含义"
+  },
+  {
+    "item_code": "w_017772",
+    "content": "cramped mesmeric hesitants",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词汇拼接噪声"
+  },
+  {
+    "item_code": "w_017776",
+    "content": "crane drain drainage",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个单词拼接无整体义"
+  },
+  {
+    "item_code": "w_017791",
+    "content": "crash announce announcement",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个单词拼接无整体义"
+  },
+  {
+    "item_code": "w_017796",
+    "content": "crash the rebellion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "可能为crush误写"
+  },
+  {
+    "item_code": "w_017804",
+    "content": "crave component maneuver",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个单词拼接无整体义"
+  },
+  {
+    "item_code": "w_017806",
+    "content": "crave profusion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然难判断"
+  },
+  {
+    "item_code": "w_017810",
+    "content": "crawl into bed",
+    "meaning_zh": "慢慢爬上床；疲惫地上床",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_017811",
+    "content": "crawl out of bed",
+    "meaning_zh": "慢慢爬下床；艰难地起床",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_017814",
+    "content": "crayon doodle inc",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声或专名残片"
+  },
+  {
+    "item_code": "w_017815",
+    "content": "crayon holder",
+    "meaning_zh": "蜡笔收纳盒；蜡笔架",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_017817",
+    "content": "craze for going abroad",
+    "meaning_zh": "出国热；留学热",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定语义清晰"
+  },
+  {
+    "item_code": "w_017828",
+    "content": "cream butter cheese",
+    "meaning_zh": "奶油、黄油和奶酪",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "食物词汇并列"
+  },
+  {
+    "item_code": "w_017833",
+    "content": "creamy orb",
+    "meaning_zh": "奶油色的球体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "描述性短语"
+  },
+  {
+    "item_code": "w_017835",
+    "content": "crease imitation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然难判断"
+  },
+  {
+    "item_code": "w_017838",
+    "content": "create an advertising campaign",
+    "meaning_zh": "策划广告活动；制作广告宣传",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商务表达"
+  },
+  {
+    "item_code": "w_017847",
+    "content": "creative graduation photo",
+    "meaning_zh": "创意毕业照",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_017851",
+    "content": "creativity and imagination",
+    "meaning_zh": "创造力和想象力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象名词搭配"
+  },
+  {
+    "item_code": "w_017852",
+    "content": "creativity and innovation",
+    "meaning_zh": "创造力和创新",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象名词搭配"
+  }
+]

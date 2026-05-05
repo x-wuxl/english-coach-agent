@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_075130",
+    "content": "to shoot the rapids",
+    "meaning_zh": "乘船冲过急流",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动作短语"
+  },
+  {
+    "item_code": "w_075131",
+    "content": "to sign a contract",
+    "meaning_zh": "签订合同",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商务搭配"
+  },
+  {
+    "item_code": "w_075132",
+    "content": "to snap overreaction",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_075133",
+    "content": "to sneak weapons",
+    "meaning_zh": "偷运武器；暗中携带武器",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动宾搭配明确"
+  },
+  {
+    "item_code": "w_075138",
+    "content": "to start businesses",
+    "meaning_zh": "创业；开办企业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习搭配"
+  },
+  {
+    "item_code": "w_075143",
+    "content": "to tackle pollution",
+    "meaning_zh": "治理污染；应对污染",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见环保搭配"
+  },
+  {
+    "item_code": "w_075144",
+    "content": "to tackle the challenges",
+    "meaning_zh": "应对挑战；处理难题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_075162",
+    "content": "to the limit of",
+    "meaning_zh": "达到……的极限；在……限度内",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "介词短语含义明确"
+  },
+  {
+    "item_code": "w_075173",
+    "content": "to upgrade industry",
+    "meaning_zh": "推动产业升级；升级工业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济类常见搭配"
+  },
+  {
+    "item_code": "w_075174",
+    "content": "to upset the balance",
+    "meaning_zh": "打破平衡；扰乱平衡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动宾搭配"
+  },
+  {
+    "item_code": "w_075176",
+    "content": "to win the election",
+    "meaning_zh": "赢得选举；当选",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治类常见搭配"
+  },
+  {
+    "item_code": "w_075177",
+    "content": "to wink",
+    "meaning_zh": "眨眼；使眼色",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础动词含义明确"
+  },
+  {
+    "item_code": "w_075178",
+    "content": "to worship the moon",
+    "meaning_zh": "拜月；祭拜月亮",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文化习俗搭配"
+  },
+  {
+    "item_code": "w_075183",
+    "content": "toady manifest",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词串噪声"
+  },
+  {
+    "item_code": "w_075185",
+    "content": "toast rehearsal",
+    "meaning_zh": "祝酒词彩排；祝酒练习",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可推断"
+  },
+  {
+    "item_code": "w_075189",
+    "content": "tobacco alcohol drunk",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无明确义"
+  },
+  {
+    "item_code": "w_075203",
+    "content": "toe-dipping",
+    "meaning_zh": "试探性尝试；初步涉足",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "比喻义常见"
+  },
+  {
+    "item_code": "w_075215",
+    "content": "toggle",
+    "meaning_zh": "切换；开关",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语常见"
+  },
+  {
+    "item_code": "w_075219",
+    "content": "toil through",
+    "meaning_zh": "艰难地完成；费力地读完",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语动词含义明确"
+  },
+  {
+    "item_code": "w_075220",
+    "content": "toil through SAT",
+    "meaning_zh": "艰难备考SAT；吃力地完成SAT",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含专有考试名"
+  }
+]

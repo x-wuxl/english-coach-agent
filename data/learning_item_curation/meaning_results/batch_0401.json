@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_038344",
+    "content": "increase sales of products",
+    "meaning_zh": "提高产品销量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商务表达"
+  },
+  {
+    "item_code": "w_038345",
+    "content": "increase sharply",
+    "meaning_zh": "急剧增加；大幅上升",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见趋势表达"
+  },
+  {
+    "item_code": "w_038346",
+    "content": "increase the sales",
+    "meaning_zh": "提高销量；增加销售额",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商务搭配"
+  },
+  {
+    "item_code": "w_038347",
+    "content": "increase the tourism",
+    "meaning_zh": "促进旅游业发展；增加旅游活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略生硬"
+  },
+  {
+    "item_code": "w_038350",
+    "content": "increased strain",
+    "meaning_zh": "更大的压力；加剧的负担",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_038351",
+    "content": "increased workload",
+    "meaning_zh": "增加的工作量；更重的工作负担",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见工作场景"
+  },
+  {
+    "item_code": "w_038353",
+    "content": "increasing pressure",
+    "meaning_zh": "不断增加的压力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见议论文表达"
+  },
+  {
+    "item_code": "w_038355",
+    "content": "increasingly breath soccer respire",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌无可靠含义"
+  },
+  {
+    "item_code": "w_038356",
+    "content": "increasingly common practice",
+    "meaning_zh": "越来越普遍的做法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_038357",
+    "content": "increasingly grim",
+    "meaning_zh": "日益严峻；越来越糟糕",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形势描述"
+  },
+  {
+    "item_code": "w_038358",
+    "content": "increasingly pressing",
+    "meaning_zh": "日益紧迫",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见问题描述"
+  },
+  {
+    "item_code": "w_038359",
+    "content": "increasingly serious",
+    "meaning_zh": "日益严重",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见程度表达"
+  },
+  {
+    "item_code": "w_038360",
+    "content": "increasingly severe",
+    "meaning_zh": "日益严峻；越来越严重",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见程度表达"
+  },
+  {
+    "item_code": "w_038361",
+    "content": "increasingly convenient",
+    "meaning_zh": "越来越方便",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_038362",
+    "content": "increasing popularity",
+    "meaning_zh": "日益流行；越来越受欢迎",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见趋势表达"
+  },
+  {
+    "item_code": "w_038365",
+    "content": "incredible booth",
+    "meaning_zh": "令人惊叹的展位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配少见但可理解"
+  },
+  {
+    "item_code": "w_038366",
+    "content": "incredible style",
+    "meaning_zh": "令人惊叹的风格；极佳的风格",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见评价表达"
+  },
+  {
+    "item_code": "w_038373",
+    "content": "incremental development",
+    "meaning_zh": "增量开发；渐进式开发",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_038374",
+    "content": "incremental health insurance cost",
+    "meaning_zh": "新增健康保险成本；增量医保成本",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专业搭配可判断"
+  },
+  {
+    "item_code": "w_038393",
+    "content": "incur criticism",
+    "meaning_zh": "招致批评；受到批评",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  }
+]

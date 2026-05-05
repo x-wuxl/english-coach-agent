@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_070851",
+    "content": "successful career",
+    "meaning_zh": "成功的职业生涯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职业搭配"
+  },
+  {
+    "item_code": "w_070866",
+    "content": "succumb a fix",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_070873",
+    "content": "such a fine day",
+    "meaning_zh": "如此晴朗的一天",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_070875",
+    "content": "such fine-grained information",
+    "meaning_zh": "如此细致的信息",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常见搭配"
+  },
+  {
+    "item_code": "w_070876",
+    "content": "such lengthy timescales",
+    "meaning_zh": "如此漫长的时间尺度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常见搭配"
+  },
+  {
+    "item_code": "w_070881",
+    "content": "suck infinity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "语义不明噪声"
+  },
+  {
+    "item_code": "w_070886",
+    "content": "sucker-bearing",
+    "meaning_zh": "生有吸枝的；会长萌蘖的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "植物学复合词"
+  },
+  {
+    "item_code": "w_070888",
+    "content": "suckling stage",
+    "meaning_zh": "哺乳阶段",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生物学常见搭配"
+  },
+  {
+    "item_code": "w_070895",
+    "content": "Sudan Straits",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似地名错误"
+  },
+  {
+    "item_code": "w_070900",
+    "content": "sudden humility",
+    "meaning_zh": "突然的谦卑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "普通形容词短语"
+  },
+  {
+    "item_code": "w_070905",
+    "content": "sue further cordial convince",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串噪声"
+  },
+  {
+    "item_code": "w_070906",
+    "content": "sue your eyes out",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_070910",
+    "content": "suffer a great loss",
+    "meaning_zh": "遭受重大损失",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_070911",
+    "content": "suffer a greater loss",
+    "meaning_zh": "遭受更大损失",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_070913",
+    "content": "suffer a relapse",
+    "meaning_zh": "病情复发；旧病复发",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学常见搭配"
+  },
+  {
+    "item_code": "w_070915",
+    "content": "suffer desperate despair",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配生硬不自然"
+  },
+  {
+    "item_code": "w_070918",
+    "content": "suffer from flatulence",
+    "meaning_zh": "患有胀气；受肠胃胀气困扰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学常见表达"
+  },
+  {
+    "item_code": "w_070921",
+    "content": "suffer the same fate",
+    "meaning_zh": "遭受同样的命运",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_070929",
+    "content": "suffice it that",
+    "meaning_zh": "只要……就够了",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "正式表达结构"
+  },
+  {
+    "item_code": "w_070935",
+    "content": "sufficient moisture",
+    "meaning_zh": "充足的水分",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见科学搭配"
+  }
+]

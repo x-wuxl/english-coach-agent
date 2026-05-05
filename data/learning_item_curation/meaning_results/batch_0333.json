@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_031363",
+    "content": "give sb. a message",
+    "meaning_zh": "给某人留言；给某人传话",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_031364",
+    "content": "give sb. a pain",
+    "meaning_zh": "使某人厌烦；惹某人生气",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "口语搭配含义"
+  },
+  {
+    "item_code": "w_031365",
+    "content": "give sb. a refund",
+    "meaning_zh": "给某人退款",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商业表达"
+  },
+  {
+    "item_code": "w_031366",
+    "content": "give sb. a reputation",
+    "meaning_zh": "使某人获得某种名声",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_031369",
+    "content": "give sb. a sack",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似搭配错误"
+  },
+  {
+    "item_code": "w_031370",
+    "content": "give sb. access to",
+    "meaning_zh": "使某人能够使用；使某人能够进入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "高频固定搭配"
+  },
+  {
+    "item_code": "w_031371",
+    "content": "give sb. an ultimatum",
+    "meaning_zh": "向某人下最后通牒",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_031377",
+    "content": "give sb. no peace",
+    "meaning_zh": "使某人不得安宁",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_031378",
+    "content": "give sb. pause",
+    "meaning_zh": "使某人犹豫；使某人深思",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见习语"
+  },
+  {
+    "item_code": "w_031379",
+    "content": "give sb. some skin",
+    "meaning_zh": "与某人击掌；和某人握手",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "口语俚语表达"
+  },
+  {
+    "item_code": "w_031382",
+    "content": "give sb. the creeps",
+    "meaning_zh": "使某人毛骨悚然",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见习语"
+  },
+  {
+    "item_code": "w_031383",
+    "content": "give sb. the devil",
+    "meaning_zh": "严厉责骂某人；使某人吃苦头",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "习语义项较旧"
+  },
+  {
+    "item_code": "w_031386",
+    "content": "give sb. the heave-ho",
+    "meaning_zh": "解雇某人；抛弃某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "口语固定表达"
+  },
+  {
+    "item_code": "w_031393",
+    "content": "give somebody the edge",
+    "meaning_zh": "使某人占优势",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_031394",
+    "content": "give speeches",
+    "meaning_zh": "发表演讲",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_031395",
+    "content": "give sth. a thought",
+    "meaning_zh": "考虑某事；想一想某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_031401",
+    "content": "give the bride away",
+    "meaning_zh": "在婚礼上将新娘交给新郎",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "婚礼固定表达"
+  },
+  {
+    "item_code": "w_031403",
+    "content": "give the morning call",
+    "meaning_zh": "提供叫早服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "酒店场景表达"
+  },
+  {
+    "item_code": "w_031418",
+    "content": "given morale",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义不明确"
+  },
+  {
+    "item_code": "w_031420",
+    "content": "given tutorial topics",
+    "meaning_zh": "给定的辅导课题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按短语整体判断"
+  }
+]

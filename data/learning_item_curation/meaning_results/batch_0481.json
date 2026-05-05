@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_045964",
+    "content": "massive reliability trim",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组疑似噪声"
+  },
+  {
+    "item_code": "w_045972",
+    "content": "master artist",
+    "meaning_zh": "艺术大师",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_045975",
+    "content": "master musician",
+    "meaning_zh": "音乐大师",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_045980",
+    "content": "Master of Professional",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "学位名称不完整"
+  },
+  {
+    "item_code": "w_045981",
+    "content": "Master of Professional Accounting",
+    "meaning_zh": "专业会计硕士",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "正式学位名称"
+  },
+  {
+    "item_code": "w_045982",
+    "content": "Master of Public Administration",
+    "meaning_zh": "公共管理硕士",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "正式学位名称"
+  },
+  {
+    "item_code": "w_045993",
+    "content": "masterpiece devoid appetite",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组疑似噪声"
+  },
+  {
+    "item_code": "w_045997",
+    "content": "mastery festival quiz",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组疑似噪声"
+  },
+  {
+    "item_code": "w_046014",
+    "content": "match an antithetical couplet",
+    "meaning_zh": "对对联",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定文化表达"
+  },
+  {
+    "item_code": "w_046022",
+    "content": "match-throwing",
+    "meaning_zh": "故意输掉比赛；操纵比赛结果",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "复合词含义明确"
+  },
+  {
+    "item_code": "w_046026",
+    "content": "matching clothes",
+    "meaning_zh": "搭配的衣服；配套服装",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见服饰搭配"
+  },
+  {
+    "item_code": "w_046029",
+    "content": "matchmaking agencies",
+    "meaning_zh": "婚介机构",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会机构"
+  },
+  {
+    "item_code": "w_046030",
+    "content": "matchmaking party",
+    "meaning_zh": "相亲派对",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社交活动"
+  },
+  {
+    "item_code": "w_046036",
+    "content": "material adornment",
+    "meaning_zh": "物质装饰；材料装饰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语可解释但不常见"
+  },
+  {
+    "item_code": "w_046044",
+    "content": "material of the furniture",
+    "meaning_zh": "家具材质",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_046055",
+    "content": "materials and tools",
+    "meaning_zh": "材料和工具",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见并列短语"
+  },
+  {
+    "item_code": "w_046058",
+    "content": "maternal flaw",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_046060",
+    "content": "maternity bed",
+    "meaning_zh": "产床",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医疗场景常用"
+  },
+  {
+    "item_code": "w_046063",
+    "content": "math class",
+    "meaning_zh": "数学课",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义一致"
+  },
+  {
+    "item_code": "w_046067",
+    "content": "mathematical operator",
+    "meaning_zh": "数学运算符",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语明确"
+  }
+]

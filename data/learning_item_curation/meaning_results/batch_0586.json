@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_057365",
+    "content": "prefer doing to doing",
+    "meaning_zh": "比起做某事更喜欢做另一事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配句型"
+  },
+  {
+    "item_code": "w_057379",
+    "content": "preferential card",
+    "meaning_zh": "优惠卡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_057384",
+    "content": "preferred means of transportation",
+    "meaning_zh": "首选交通方式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_057394",
+    "content": "pregnancy contraceptive condom abortion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串无整体含义"
+  },
+  {
+    "item_code": "w_057396",
+    "content": "pregnant deadpan",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无固定含义"
+  },
+  {
+    "item_code": "w_057397",
+    "content": "pregnant pill",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_057404",
+    "content": "prehistoric animals",
+    "meaning_zh": "史前动物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_057420",
+    "content": "preliminary appendix",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配生硬无常用义"
+  },
+  {
+    "item_code": "w_057421",
+    "content": "preliminary herpes",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无固定含义"
+  },
+  {
+    "item_code": "w_057422",
+    "content": "preliminary racket trophy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串无整体含义"
+  },
+  {
+    "item_code": "w_057427",
+    "content": "premarital health checkups",
+    "meaning_zh": "婚前健康检查",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_057429",
+    "content": "premature consumption",
+    "meaning_zh": "过早消费",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解搭配"
+  },
+  {
+    "item_code": "w_057442",
+    "content": "premise inherent inoculate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串无整体含义"
+  },
+  {
+    "item_code": "w_057446",
+    "content": "premium implication porch",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串无整体含义"
+  },
+  {
+    "item_code": "w_057464",
+    "content": "prepaid application",
+    "meaning_zh": "预付费应用；预付申请",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缺少语境有歧义"
+  },
+  {
+    "item_code": "w_057470",
+    "content": "prepare a birthday cake",
+    "meaning_zh": "准备生日蛋糕",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_057471",
+    "content": "prepare activities",
+    "meaning_zh": "准备活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_057475",
+    "content": "prepare lessons",
+    "meaning_zh": "备课；准备课程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教学常用表达"
+  },
+  {
+    "item_code": "w_057484",
+    "content": "preparing food",
+    "meaning_zh": "准备食物；做饭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动名词短语"
+  },
+  {
+    "item_code": "w_057504",
+    "content": "presage brandish",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无固定含义"
+  }
+]

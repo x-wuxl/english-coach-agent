@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_069933",
+    "content": "stodgy repose",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配"
+  },
+  {
+    "item_code": "w_069935",
+    "content": "stoic hierarchical",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配"
+  },
+  {
+    "item_code": "w_069939",
+    "content": "stoick",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_069941",
+    "content": "stoke squalid solace stitchian",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词串噪声"
+  },
+  {
+    "item_code": "w_069945",
+    "content": "stolid affinity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配"
+  },
+  {
+    "item_code": "w_069949",
+    "content": "stomach cramps",
+    "meaning_zh": "胃痉挛；腹部绞痛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见身体症状"
+  },
+  {
+    "item_code": "w_069964",
+    "content": "stone wall absolve confluence",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词串噪声"
+  },
+  {
+    "item_code": "w_069979",
+    "content": "stoop passionate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配"
+  },
+  {
+    "item_code": "w_069995",
+    "content": "stop over in",
+    "meaning_zh": "在某地中途停留",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_070006",
+    "content": "stopover refreshment",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配"
+  },
+  {
+    "item_code": "w_070012",
+    "content": "storage attribute",
+    "meaning_zh": "存储属性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_070022",
+    "content": "store sth. for later",
+    "meaning_zh": "保存某物以备后用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_070024",
+    "content": "store tin can grocery",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词串噪声"
+  },
+  {
+    "item_code": "w_070038",
+    "content": "Storm Frank",
+    "meaning_zh": "弗兰克风暴",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "风暴专名"
+  },
+  {
+    "item_code": "w_070039",
+    "content": "storm of protest",
+    "meaning_zh": "强烈抗议；一片抗议声",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_070042",
+    "content": "story book",
+    "meaning_zh": "故事书",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "小学常见词组"
+  },
+  {
+    "item_code": "w_070055",
+    "content": "stove microwave toaster",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词串噪声"
+  },
+  {
+    "item_code": "w_070074",
+    "content": "straight out",
+    "meaning_zh": "坦率地；直截了当地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见副词短语"
+  },
+  {
+    "item_code": "w_070086",
+    "content": "straightham",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_070092",
+    "content": "strain one's shoulder",
+    "meaning_zh": "拉伤肩膀",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见受伤表达"
+  }
+]

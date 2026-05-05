@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_072089",
+    "content": "take ... upon oneself",
+    "meaning_zh": "承担；把……揽到自己身上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_072090",
+    "content": "take ... wrong",
+    "meaning_zh": "误解；往坏处理解",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见口语表达"
+  },
+  {
+    "item_code": "w_072092",
+    "content": "take a boat",
+    "meaning_zh": "乘船",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见交通搭配"
+  },
+  {
+    "item_code": "w_072096",
+    "content": "take a cab",
+    "meaning_zh": "坐出租车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句明确"
+  },
+  {
+    "item_code": "w_072101",
+    "content": "take a course on",
+    "meaning_zh": "修一门关于……的课程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学习场景搭配"
+  },
+  {
+    "item_code": "w_072104",
+    "content": "take a dancing class",
+    "meaning_zh": "上舞蹈课",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础学习搭配"
+  },
+  {
+    "item_code": "w_072109",
+    "content": "take a detour",
+    "meaning_zh": "绕道；绕行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见出行表达"
+  },
+  {
+    "item_code": "w_072110",
+    "content": "take a drastic step",
+    "meaning_zh": "采取激烈措施；采取重大行动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动宾搭配"
+  },
+  {
+    "item_code": "w_072120",
+    "content": "take a karate lesson",
+    "meaning_zh": "上空手道课",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "课程类搭配"
+  },
+  {
+    "item_code": "w_072123",
+    "content": "take a loan",
+    "meaning_zh": "贷款；借款",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融常见搭配"
+  },
+  {
+    "item_code": "w_072124",
+    "content": "take a longer view",
+    "meaning_zh": "从长远看；持长远观点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "观点表达"
+  },
+  {
+    "item_code": "w_072129",
+    "content": "take a nano nap",
+    "meaning_zh": "打个极短的盹",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "新兴口语搭配"
+  },
+  {
+    "item_code": "w_072130",
+    "content": "take a new turn",
+    "meaning_zh": "出现新转折；有新变化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见变化表达"
+  },
+  {
+    "item_code": "w_072132",
+    "content": "take a page",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "表达不完整"
+  },
+  {
+    "item_code": "w_072133",
+    "content": "take a page from",
+    "meaning_zh": "借鉴；效仿",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语"
+  },
+  {
+    "item_code": "w_072135",
+    "content": "take a peek",
+    "meaning_zh": "看一眼；瞧瞧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句明确"
+  },
+  {
+    "item_code": "w_072143",
+    "content": "take a psychology course",
+    "meaning_zh": "修心理学课程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "课程类搭配"
+  },
+  {
+    "item_code": "w_072148",
+    "content": "take a shellacking",
+    "meaning_zh": "遭惨败；挨痛打",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "惯用口语表达"
+  },
+  {
+    "item_code": "w_072152",
+    "content": "take a sip of",
+    "meaning_zh": "喝一小口",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见饮食搭配"
+  },
+  {
+    "item_code": "w_072153",
+    "content": "take a soft line",
+    "meaning_zh": "采取温和立场；持宽容态度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "立场表达"
+  }
+]

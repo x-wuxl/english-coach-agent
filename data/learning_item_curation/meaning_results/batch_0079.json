@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_006765",
+    "content": "bathtub mirror",
+    "meaning_zh": "浴缸镜；浴室镜",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "名词短语"
+  },
+  {
+    "item_code": "w_006775",
+    "content": "battered shelter",
+    "meaning_zh": "破旧的避难所",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解短语"
+  },
+  {
+    "item_code": "w_006778",
+    "content": "battery bulb plug socket",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠噪声"
+  },
+  {
+    "item_code": "w_006781",
+    "content": "battery-operated",
+    "meaning_zh": "电池驱动的；用电池供电的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见复合形容词"
+  },
+  {
+    "item_code": "w_006782",
+    "content": "battery-powered watch",
+    "meaning_zh": "电池驱动的手表",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_006785",
+    "content": "battle fancy official",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无明确整体含义"
+  },
+  {
+    "item_code": "w_006797",
+    "content": "Bavarian Motor Works",
+    "meaning_zh": "巴伐利亚发动机制造厂；宝马公司全称",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "品牌专有名词"
+  },
+  {
+    "item_code": "w_006809",
+    "content": "bbc frequency interference loudspeaker",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠噪声"
+  },
+  {
+    "item_code": "w_006811",
+    "content": "BBQer",
+    "meaning_zh": "烧烤的人；烧烤爱好者",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "非正式派生词"
+  },
+  {
+    "item_code": "w_006819",
+    "content": "be a disgrace",
+    "meaning_zh": "丢脸；是耻辱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_006822",
+    "content": "be a shortage of",
+    "meaning_zh": "短缺；缺乏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配片段"
+  },
+  {
+    "item_code": "w_006823",
+    "content": "be a street vendor",
+    "meaning_zh": "当街头小贩；是摊贩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见身份表达"
+  },
+  {
+    "item_code": "w_006834",
+    "content": "be absorbed into",
+    "meaning_zh": "被吸收进；并入；全神贯注于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_006837",
+    "content": "be abuzz with",
+    "meaning_zh": "充满；因……而热闹",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_006838",
+    "content": "be accepted as ...",
+    "meaning_zh": "被接受为；被认可为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动搭配"
+  },
+  {
+    "item_code": "w_006842",
+    "content": "be accountable to",
+    "meaning_zh": "对……负责；向……承担责任",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_006846",
+    "content": "be accustomed to doing",
+    "meaning_zh": "习惯于做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_006859",
+    "content": "be addressed to",
+    "meaning_zh": "写给；寄给；针对",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动搭配"
+  },
+  {
+    "item_code": "w_006866",
+    "content": "be admitted into universities",
+    "meaning_zh": "被大学录取",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "升学常用表达"
+  },
+  {
+    "item_code": "w_006869",
+    "content": "be advisable to",
+    "meaning_zh": "做……是明智的；适宜做……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型"
+  }
+]

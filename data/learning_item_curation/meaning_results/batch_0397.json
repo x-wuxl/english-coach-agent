@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_037860",
+    "content": "in the behalf of",
+    "meaning_zh": "代表；为了……的利益",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "疑为on behalf of误写"
+  },
+  {
+    "item_code": "w_037865",
+    "content": "in the chain of",
+    "meaning_zh": "在……链条中；在……系列中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "介词短语常见含义"
+  },
+  {
+    "item_code": "w_037869",
+    "content": "in the company",
+    "meaning_zh": "在公司里；在公司任职",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指公司内部"
+  },
+  {
+    "item_code": "w_037873",
+    "content": "in the corporate world",
+    "meaning_zh": "在商界；在企业界",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商务表达"
+  },
+  {
+    "item_code": "w_037881",
+    "content": "in the employer's shoes",
+    "meaning_zh": "站在雇主的角度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定比喻表达"
+  },
+  {
+    "item_code": "w_037896",
+    "content": "in the following years",
+    "meaning_zh": "在随后的几年里",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时间短语"
+  },
+  {
+    "item_code": "w_037898",
+    "content": "in the forthcoming decade",
+    "meaning_zh": "在未来十年里",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时间短语"
+  },
+  {
+    "item_code": "w_037905",
+    "content": "in the hand of",
+    "meaning_zh": "在……手中；由……掌握",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见应为hands"
+  },
+  {
+    "item_code": "w_037909",
+    "content": "in the history of",
+    "meaning_zh": "在……的历史上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定介词短语"
+  },
+  {
+    "item_code": "w_037916",
+    "content": "in the internet age",
+    "meaning_zh": "在互联网时代",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时代背景表达"
+  },
+  {
+    "item_code": "w_037917",
+    "content": "In the kitchen?",
+    "meaning_zh": "在厨房里吗？",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指厨房位置"
+  },
+  {
+    "item_code": "w_037918",
+    "content": "in the knowledge of",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不完整且不自然"
+  },
+  {
+    "item_code": "w_037919",
+    "content": "in the last hours",
+    "meaning_zh": "在最后几个小时里",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时间短语"
+  },
+  {
+    "item_code": "w_037928",
+    "content": "in the margin",
+    "meaning_zh": "在页边空白处；在边缘处",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "margin常见含义"
+  },
+  {
+    "item_code": "w_037936",
+    "content": "in the middle term",
+    "meaning_zh": "从中期来看；在中期内",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见应为medium term"
+  },
+  {
+    "item_code": "w_037940",
+    "content": "in the mood to",
+    "meaning_zh": "有心情做；想要做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_037947",
+    "content": "in the north-west of",
+    "meaning_zh": "在……的西北部",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "方位介词短语"
+  },
+  {
+    "item_code": "w_037953",
+    "content": "in the past years",
+    "meaning_zh": "在过去几年里",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时间短语"
+  },
+  {
+    "item_code": "w_037954",
+    "content": "in the photo above",
+    "meaning_zh": "在上面的照片中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "图文说明常用表达"
+  },
+  {
+    "item_code": "w_037961",
+    "content": "in the present",
+    "meaning_zh": "在现在；活在当下",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指当下时间"
+  }
+]

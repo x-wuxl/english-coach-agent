@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_045082",
+    "content": "make demand of",
+    "meaning_zh": "对……提出要求",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定搭配变体"
+  },
+  {
+    "item_code": "w_045085",
+    "content": "make detours",
+    "meaning_zh": "绕道；走弯路",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_045095",
+    "content": "make eggs",
+    "meaning_zh": "做鸡蛋；准备鸡蛋",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "口语烹饪表达"
+  },
+  {
+    "item_code": "w_045110",
+    "content": "make full preparation",
+    "meaning_zh": "做充分准备",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习搭配"
+  },
+  {
+    "item_code": "w_045114",
+    "content": "make generalization",
+    "meaning_zh": "进行概括；作归纳",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常用搭配"
+  },
+  {
+    "item_code": "w_045116",
+    "content": "make good as sb.",
+    "meaning_zh": "胜任某角色；成为称职的某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略不完整"
+  },
+  {
+    "item_code": "w_045117",
+    "content": "make good at sth.",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_045118",
+    "content": "make good farming sense",
+    "meaning_zh": "符合农业常识；在农业上合理",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "整体含义明确"
+  },
+  {
+    "item_code": "w_045119",
+    "content": "make good money",
+    "meaning_zh": "赚很多钱；收入不错",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见口语搭配"
+  },
+  {
+    "item_code": "w_045123",
+    "content": "make great contribution",
+    "meaning_zh": "作出巨大贡献",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见写作搭配"
+  },
+  {
+    "item_code": "w_045125",
+    "content": "make greater achievement",
+    "meaning_zh": "取得更大成就",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见写作搭配"
+  },
+  {
+    "item_code": "w_045129",
+    "content": "make headway in doing",
+    "meaning_zh": "在做某事方面取得进展",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_045131",
+    "content": "make improvement",
+    "meaning_zh": "取得进步；作出改进",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_045132",
+    "content": "make inferences",
+    "meaning_zh": "作出推断；进行推理",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "阅读常用表达"
+  },
+  {
+    "item_code": "w_045134",
+    "content": "make inquiries into",
+    "meaning_zh": "调查；询问；探究",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "正式固定搭配"
+  },
+  {
+    "item_code": "w_045135",
+    "content": "make it back to",
+    "meaning_zh": "成功回到；赶回到",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见口语表达"
+  },
+  {
+    "item_code": "w_045142",
+    "content": "make judgment",
+    "meaning_zh": "作出判断",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_045143",
+    "content": "make life difficult for",
+    "meaning_zh": "给……制造困难；让……日子不好过",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_045153",
+    "content": "make major breakthroughs",
+    "meaning_zh": "取得重大突破",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见新闻搭配"
+  },
+  {
+    "item_code": "w_045156",
+    "content": "make models",
+    "meaning_zh": "制作模型",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "小学常见搭配"
+  }
+]

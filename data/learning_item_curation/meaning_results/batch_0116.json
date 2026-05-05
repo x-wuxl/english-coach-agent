@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_009896",
+    "content": "bombast asetic askew",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配疑似噪声"
+  },
+  {
+    "item_code": "w_009906",
+    "content": "bonafide",
+    "meaning_zh": "真实的；真诚的；合法的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "bona fide常见变体"
+  },
+  {
+    "item_code": "w_009910",
+    "content": "bond associate",
+    "meaning_zh": "债券业务助理",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "金融职位搭配"
+  },
+  {
+    "item_code": "w_009911",
+    "content": "Bond Connect",
+    "meaning_zh": "债券通",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融专有名词"
+  },
+  {
+    "item_code": "w_009913",
+    "content": "bond strip",
+    "meaning_zh": "债券拆分；本息分离债券",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融术语"
+  },
+  {
+    "item_code": "w_009914",
+    "content": "bond with sb.",
+    "meaning_zh": "与某人建立亲密关系",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_009916",
+    "content": "bondage corridor",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无常见搭配疑似噪声"
+  },
+  {
+    "item_code": "w_009919",
+    "content": "bonded house",
+    "meaning_zh": "保税仓库",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "商务语境可判断"
+  },
+  {
+    "item_code": "w_009924",
+    "content": "bondle",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_009928",
+    "content": "bone-showing",
+    "meaning_zh": "骨头外露的；瘦骨嶙峋的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "复合形容词可判断"
+  },
+  {
+    "item_code": "w_009933",
+    "content": "bonfire party",
+    "meaning_zh": "篝火晚会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见活动名称"
+  },
+  {
+    "item_code": "w_009942",
+    "content": "bonus partition",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无常见搭配"
+  },
+  {
+    "item_code": "w_009953",
+    "content": "book a hard seat",
+    "meaning_zh": "预订硬座票",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "出行情景短语"
+  },
+  {
+    "item_code": "w_009955",
+    "content": "book borrower",
+    "meaning_zh": "借书者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "图书馆场景搭配"
+  },
+  {
+    "item_code": "w_009965",
+    "content": "Book of Filial Piety",
+    "meaning_zh": "《孝经》",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "典籍名称"
+  },
+  {
+    "item_code": "w_009969",
+    "content": "book offset",
+    "meaning_zh": "书刊胶版印刷",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "印刷术语"
+  },
+  {
+    "item_code": "w_009970",
+    "content": "book over the phone",
+    "meaning_zh": "通过电话预订",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见预订表达"
+  },
+  {
+    "item_code": "w_009985",
+    "content": "booking office",
+    "meaning_zh": "售票处；订票处",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见场所名"
+  },
+  {
+    "item_code": "w_009992",
+    "content": "bookmark bookstall",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词项拼接疑似噪声"
+  },
+  {
+    "item_code": "w_010004",
+    "content": "Boolean",
+    "meaning_zh": "布尔型的；布尔逻辑的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_028145",
+    "content": "five-kernel mooncake",
+    "meaning_zh": "五仁月饼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见食品名"
+  },
+  {
+    "item_code": "w_028148",
+    "content": "Five-pronged overall plan",
+    "meaning_zh": "五位一体总体布局",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定政治术语"
+  },
+  {
+    "item_code": "w_028152",
+    "content": "five-year itch",
+    "meaning_zh": "五年之痒",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_028159",
+    "content": "fix a date for",
+    "meaning_zh": "为……确定日期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_028160",
+    "content": "fix an appointment with",
+    "meaning_zh": "与……约定会面",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见预约表达"
+  },
+  {
+    "item_code": "w_028164",
+    "content": "fix one's eyes upon",
+    "meaning_zh": "注视；凝视",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_028165",
+    "content": "fix oneself up",
+    "meaning_zh": "打扮自己；整理自己",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义依语境"
+  },
+  {
+    "item_code": "w_028166",
+    "content": "fix the heater",
+    "meaning_zh": "修理暖气",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见维修表达"
+  },
+  {
+    "item_code": "w_028167",
+    "content": "fix the problem",
+    "meaning_zh": "解决问题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_028181",
+    "content": "fixed hand-in date",
+    "meaning_zh": "固定提交日期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学习场景常见"
+  },
+  {
+    "item_code": "w_028185",
+    "content": "fixed working hours",
+    "meaning_zh": "固定工作时间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职场表达"
+  },
+  {
+    "item_code": "w_028190",
+    "content": "fixing your bicycle",
+    "meaning_zh": "修理你的自行车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动名词短语"
+  },
+  {
+    "item_code": "w_028191",
+    "content": "fixing your car",
+    "meaning_zh": "修理你的汽车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动名词短语"
+  },
+  {
+    "item_code": "w_028192",
+    "content": "fixing your sink",
+    "meaning_zh": "修理你的水槽",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动名词短语"
+  },
+  {
+    "item_code": "w_028193",
+    "content": "fixing your TV",
+    "meaning_zh": "修理你的电视",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动名词短语"
+  },
+  {
+    "item_code": "w_028207",
+    "content": "flack",
+    "meaning_zh": "公关宣传人员；宣传员",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作非正式用词"
+  },
+  {
+    "item_code": "w_028213",
+    "content": "flag-fall price",
+    "meaning_zh": "出租车起步价",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通计费术语"
+  },
+  {
+    "item_code": "w_028223",
+    "content": "flagship project",
+    "meaning_zh": "旗舰项目；重点项目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见项目表达"
+  },
+  {
+    "item_code": "w_028225",
+    "content": "flagstaff foam",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_028235",
+    "content": "flamboyant stratify",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  }
+]

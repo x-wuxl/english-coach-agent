@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_055955",
+    "content": "plastic trash bags",
+    "meaning_zh": "塑料垃圾袋",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_055960",
+    "content": "plat",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写残片含义不明"
+  },
+  {
+    "item_code": "w_055964",
+    "content": "plate drift",
+    "meaning_zh": "板块漂移",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地质学常见术语"
+  },
+  {
+    "item_code": "w_055973",
+    "content": "plateau groggy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成固定搭配"
+  },
+  {
+    "item_code": "w_055979",
+    "content": "platelet mock habitant",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词串"
+  },
+  {
+    "item_code": "w_055986",
+    "content": "plating of silver",
+    "meaning_zh": "镀银；银镀层",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "材料工艺术语"
+  },
+  {
+    "item_code": "w_055989",
+    "content": "platitude cryptic terror",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词串"
+  },
+  {
+    "item_code": "w_055999",
+    "content": "plausible breach",
+    "meaning_zh": "可信的违规；可能的漏洞",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可按搭配理解"
+  },
+  {
+    "item_code": "w_056005",
+    "content": "play a bit role",
+    "meaning_zh": "扮演小角色；起次要作用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_056006",
+    "content": "play a crucial role",
+    "meaning_zh": "起关键作用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_056010",
+    "content": "play a major role",
+    "meaning_zh": "起重要作用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_056015",
+    "content": "play a significant role",
+    "meaning_zh": "起重要作用；发挥显著作用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_056018",
+    "content": "play a trick upon",
+    "meaning_zh": "捉弄；开某人的玩笑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  },
+  {
+    "item_code": "w_056029",
+    "content": "play at seesaw",
+    "meaning_zh": "玩跷跷板",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略不自然"
+  },
+  {
+    "item_code": "w_056032",
+    "content": "play ball",
+    "meaning_zh": "打球；合作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语"
+  },
+  {
+    "item_code": "w_056034",
+    "content": "play beach volleyball",
+    "meaning_zh": "打沙滩排球",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "运动搭配"
+  },
+  {
+    "item_code": "w_056036",
+    "content": "play by sb.'s rules",
+    "meaning_zh": "按某人的规则行事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_056040",
+    "content": "play dice",
+    "meaning_zh": "掷骰子；玩骰子游戏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "游戏搭配"
+  },
+  {
+    "item_code": "w_056046",
+    "content": "play frisbee",
+    "meaning_zh": "玩飞盘",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "运动搭配"
+  },
+  {
+    "item_code": "w_056048",
+    "content": "play games on Mygame",
+    "meaning_zh": "在 Mygame 上玩游戏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含平台专名"
+  }
+]

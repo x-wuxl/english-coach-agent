@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_032451",
+    "content": "grassroots campaign",
+    "meaning_zh": "草根运动；基层竞选活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政治社会搭配"
+  },
+  {
+    "item_code": "w_032452",
+    "content": "grassroots community",
+    "meaning_zh": "基层社区；草根群体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会语境搭配"
+  },
+  {
+    "item_code": "w_032454",
+    "content": "grassroots election",
+    "meaning_zh": "基层选举",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治语境固定搭配"
+  },
+  {
+    "item_code": "w_032466",
+    "content": "gratify proponent",
+    "meaning_zh": "使支持者满意",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "搭配生硬低价值"
+  },
+  {
+    "item_code": "w_032474",
+    "content": "grave apron",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配罕见无法判断"
+  },
+  {
+    "item_code": "w_032481",
+    "content": "gravestone sense",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声无法判断"
+  },
+  {
+    "item_code": "w_032511",
+    "content": "grazing animals",
+    "meaning_zh": "食草动物；放牧的动物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态农业常见表达"
+  },
+  {
+    "item_code": "w_032516",
+    "content": "greasy bald",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常疑似噪声"
+  },
+  {
+    "item_code": "w_032517",
+    "content": "greasy French fries",
+    "meaning_zh": "油腻的炸薯条",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "食物描写常见搭配"
+  },
+  {
+    "item_code": "w_032520",
+    "content": "great and profound",
+    "meaning_zh": "博大精深的；伟大而深远的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "形容影响或思想"
+  },
+  {
+    "item_code": "w_032526",
+    "content": "Great Great Grandpa",
+    "meaning_zh": "高祖父；曾曾祖父",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "亲属称谓"
+  },
+  {
+    "item_code": "w_032528",
+    "content": "great men of genius",
+    "meaning_zh": "伟大的天才人物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人物评价表达"
+  },
+  {
+    "item_code": "w_032529",
+    "content": "great numbers of",
+    "meaning_zh": "大量的；许多的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见数量短语"
+  },
+  {
+    "item_code": "w_032530",
+    "content": "great obsess myth",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "语法异常疑似噪声"
+  },
+  {
+    "item_code": "w_032533",
+    "content": "Great work!",
+    "meaning_zh": "干得好！",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见口语表扬"
+  },
+  {
+    "item_code": "w_032540",
+    "content": "greater",
+    "meaning_zh": "更大的；更伟大的；更多的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配比较级"
+  },
+  {
+    "item_code": "w_032541",
+    "content": "greater political engagement",
+    "meaning_zh": "更高的政治参与度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治社会常见表达"
+  },
+  {
+    "item_code": "w_032553",
+    "content": "greedy conducive tractor",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌疑似噪声"
+  },
+  {
+    "item_code": "w_032554",
+    "content": "greedy regular expressions",
+    "meaning_zh": "贪婪正则表达式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_032556",
+    "content": "Greek hebrew",
+    "meaning_zh": "希腊语和希伯来语",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语言名称并列"
+  }
+]

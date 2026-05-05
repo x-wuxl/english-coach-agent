@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_055020",
+    "content": "pertinacious edible issue",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词组无固定义"
+  },
+  {
+    "item_code": "w_055025",
+    "content": "pertinent vaccinate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_055034",
+    "content": "pertussis demography",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非通用固定表达"
+  },
+  {
+    "item_code": "w_055036",
+    "content": "peruke",
+    "meaning_zh": "假发",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见词典义明确"
+  },
+  {
+    "item_code": "w_055041",
+    "content": "pervade attenuate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "动词堆叠无固定义"
+  },
+  {
+    "item_code": "w_055056",
+    "content": "pessimist semester",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机搭配无教学价值"
+  },
+  {
+    "item_code": "w_055058",
+    "content": "pessimistic encyclopedia",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_055059",
+    "content": "pessimistic panoramic watershed",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词组无固定义"
+  },
+  {
+    "item_code": "w_055062",
+    "content": "pest diagnostics",
+    "meaning_zh": "有害生物诊断",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "检疫领域术语"
+  },
+  {
+    "item_code": "w_055063",
+    "content": "pest distribution database",
+    "meaning_zh": "有害生物分布数据库",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "检疫领域术语"
+  },
+  {
+    "item_code": "w_055064",
+    "content": "pest free area",
+    "meaning_zh": "无有害生物地区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "检疫领域术语"
+  },
+  {
+    "item_code": "w_055065",
+    "content": "pest harm",
+    "meaning_zh": "有害生物危害",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "农业语境搭配"
+  },
+  {
+    "item_code": "w_055066",
+    "content": "pest hazard",
+    "meaning_zh": "有害生物危害",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "检疫领域术语"
+  },
+  {
+    "item_code": "w_055067",
+    "content": "pest host range",
+    "meaning_zh": "有害生物寄主范围",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "检疫领域术语"
+  },
+  {
+    "item_code": "w_055068",
+    "content": "pest interception",
+    "meaning_zh": "有害生物截获",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "检疫领域术语"
+  },
+  {
+    "item_code": "w_055069",
+    "content": "pest occurrence",
+    "meaning_zh": "有害生物发生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "农业检疫常用"
+  },
+  {
+    "item_code": "w_055070",
+    "content": "pest prevention",
+    "meaning_zh": "有害生物防治",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "农业检疫常用"
+  },
+  {
+    "item_code": "w_055071",
+    "content": "pest rating",
+    "meaning_zh": "有害生物评级",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "检疫领域术语"
+  },
+  {
+    "item_code": "w_055072",
+    "content": "pest rating category",
+    "meaning_zh": "有害生物评级类别",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "检疫领域术语"
+  },
+  {
+    "item_code": "w_055073",
+    "content": "pest risk analysis",
+    "meaning_zh": "有害生物风险分析",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "检疫领域术语"
+  }
+]

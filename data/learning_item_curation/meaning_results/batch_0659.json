@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_064993",
+    "content": "seldom afterward following",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无固定搭配疑似噪声"
+  },
+  {
+    "item_code": "w_064995",
+    "content": "select new staff",
+    "meaning_zh": "选拔新员工；招聘新员工",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职场表达"
+  },
+  {
+    "item_code": "w_065001",
+    "content": "selection technique",
+    "meaning_zh": "筛选方法；选拔技术",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_065013",
+    "content": "self achievement",
+    "meaning_zh": "自我成就；个人成就感",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略不规范"
+  },
+  {
+    "item_code": "w_065014",
+    "content": "self catering",
+    "meaning_zh": "自炊；可自炊的住宿",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "留学住宿常用语"
+  },
+  {
+    "item_code": "w_065015",
+    "content": "self conscience",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写或搭配错误"
+  },
+  {
+    "item_code": "w_065023",
+    "content": "self-access lab",
+    "meaning_zh": "自主学习实验室；自主学习中心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育场景固定表达"
+  },
+  {
+    "item_code": "w_065030",
+    "content": "self-altruistic",
+    "meaning_zh": "利己又利他的；自我利他的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "术语较少见"
+  },
+  {
+    "item_code": "w_065045",
+    "content": "self-checkout stand",
+    "meaning_zh": "自助结账台；自助收银机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "购物场景常用语"
+  },
+  {
+    "item_code": "w_065060",
+    "content": "self-critical",
+    "meaning_zh": "自我批评的；严于律己的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词"
+  },
+  {
+    "item_code": "w_065071",
+    "content": "self-dependent innovation",
+    "meaning_zh": "自主创新；独立创新",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "更常说independent"
+  },
+  {
+    "item_code": "w_065082",
+    "content": "self-disipline",
+    "meaning_zh": "自律；自我约束",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "应为self-discipline"
+  },
+  {
+    "item_code": "w_065088",
+    "content": "self-driving cars",
+    "meaning_zh": "自动驾驶汽车；无人驾驶汽车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见科技表达"
+  },
+  {
+    "item_code": "w_065089",
+    "content": "self-driving travel",
+    "meaning_zh": "自驾游；自驾旅行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "中文语境常译自驾游"
+  },
+  {
+    "item_code": "w_065090",
+    "content": "self-driving vehicle",
+    "meaning_zh": "自动驾驶车辆；无人驾驶车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见科技表达"
+  },
+  {
+    "item_code": "w_065098",
+    "content": "self-encouragement",
+    "meaning_zh": "自我鼓励；自我激励",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "构词清晰"
+  },
+  {
+    "item_code": "w_065102",
+    "content": "self-evident principle",
+    "meaning_zh": "不言自明的原则；显而易见的原则",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术表达清晰"
+  },
+  {
+    "item_code": "w_065105",
+    "content": "self-flagellatory",
+    "meaning_zh": "自我鞭笞的；过度自责的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "高级形容词"
+  },
+  {
+    "item_code": "w_065116",
+    "content": "self-help writing",
+    "meaning_zh": "励志类写作；自助类写作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "出版写作常用语"
+  },
+  {
+    "item_code": "w_065124",
+    "content": "self-induced electromotive force",
+    "meaning_zh": "自感电动势",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "物理专业术语"
+  }
+]

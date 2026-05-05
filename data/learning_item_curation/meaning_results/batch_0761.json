@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_074223",
+    "content": "therapy torment",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配疑似噪声"
+  },
+  {
+    "item_code": "w_074234",
+    "content": "there's no denying that",
+    "meaning_zh": "不可否认的是",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_074246",
+    "content": "therma",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_074247",
+    "content": "therma taxes baffle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接疑似噪声"
+  },
+  {
+    "item_code": "w_074252",
+    "content": "thermal folk",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无常见搭配"
+  },
+  {
+    "item_code": "w_074273",
+    "content": "thermometer transplant",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无常见搭配"
+  },
+  {
+    "item_code": "w_074289",
+    "content": "theropher",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准词疑似噪声"
+  },
+  {
+    "item_code": "w_074294",
+    "content": "these lean times",
+    "meaning_zh": "这些艰难时期；这些不景气时期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见语境表达"
+  },
+  {
+    "item_code": "w_074297",
+    "content": "thesidious",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_074299",
+    "content": "thesis defence",
+    "meaning_zh": "论文答辩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常用短语"
+  },
+  {
+    "item_code": "w_074300",
+    "content": "thesis oral defense",
+    "meaning_zh": "论文口头答辩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常用短语"
+  },
+  {
+    "item_code": "w_074301",
+    "content": "thesis seminar",
+    "meaning_zh": "论文研讨课；论文研讨会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术场景搭配"
+  },
+  {
+    "item_code": "w_074303",
+    "content": "theta",
+    "meaning_zh": "希腊字母θ；角度变量",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "数学计算机术语"
+  },
+  {
+    "item_code": "w_074305",
+    "content": "they are",
+    "meaning_zh": "他们是；她们是；它们是",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础代词加系动词"
+  },
+  {
+    "item_code": "w_074306",
+    "content": "they are inviting pressure",
+    "meaning_zh": "他们正在招致压力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按短语整体理解"
+  },
+  {
+    "item_code": "w_074309",
+    "content": "they're",
+    "meaning_zh": "they are 的缩写；他们是",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见缩写形式"
+  },
+  {
+    "item_code": "w_074311",
+    "content": "the past few decades",
+    "meaning_zh": "过去几十年",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时间短语"
+  },
+  {
+    "item_code": "w_074320",
+    "content": "thick skinned scrutable",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接疑似噪声"
+  },
+  {
+    "item_code": "w_074322",
+    "content": "thick-tongued",
+    "meaning_zh": "口齿不清的；笨嘴拙舌的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "标准复合形容词"
+  },
+  {
+    "item_code": "w_074324",
+    "content": "thickened",
+    "meaning_zh": "变厚的；增稠的；变浓的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见过去分词形容词"
+  }
+]

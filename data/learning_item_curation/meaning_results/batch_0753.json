@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_073850",
+    "content": "the medieval world",
+    "meaning_zh": "中世纪世界；中世纪社会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见历史短语"
+  },
+  {
+    "item_code": "w_073853",
+    "content": "the merest suggestion of",
+    "meaning_zh": "哪怕一丝……的迹象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达整体释义"
+  },
+  {
+    "item_code": "w_073862",
+    "content": "the Ming Dynasty",
+    "meaning_zh": "明朝；明代",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指明历史朝代"
+  },
+  {
+    "item_code": "w_073863",
+    "content": "the Ming Great Wall",
+    "meaning_zh": "明长城",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "中国历史专有名词"
+  },
+  {
+    "item_code": "w_073865",
+    "content": "the Ministry of Defence",
+    "meaning_zh": "国防部",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政府机构名称"
+  },
+  {
+    "item_code": "w_073867",
+    "content": "the minute ...",
+    "meaning_zh": "一……就……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "时间连词用法"
+  },
+  {
+    "item_code": "w_073868",
+    "content": "the minute that ...",
+    "meaning_zh": "一……就……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "时间连词短语"
+  },
+  {
+    "item_code": "w_073869",
+    "content": "the Mission District",
+    "meaning_zh": "米申区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "地名专有名词"
+  },
+  {
+    "item_code": "w_073870",
+    "content": "the modestly educated",
+    "meaning_zh": "受教育程度一般的人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "the加形容词指人群"
+  },
+  {
+    "item_code": "w_073872",
+    "content": "the moment ...",
+    "meaning_zh": "一……就……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "时间连词用法"
+  },
+  {
+    "item_code": "w_073874",
+    "content": "the moment that ...",
+    "meaning_zh": "一……就……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "时间连词短语"
+  },
+  {
+    "item_code": "w_073875",
+    "content": "the Monkees",
+    "meaning_zh": "门基乐队",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "乐队专有名词"
+  },
+  {
+    "item_code": "w_073877",
+    "content": "The Montreal Protocol",
+    "meaning_zh": "《蒙特利尔议定书》",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "国际条约名称"
+  },
+  {
+    "item_code": "w_073879",
+    "content": "the mortgage",
+    "meaning_zh": "抵押贷款；按揭",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "核心词为mortgage"
+  },
+  {
+    "item_code": "w_073881",
+    "content": "the most far-reaching",
+    "meaning_zh": "影响最深远的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "最高级形容词短语"
+  },
+  {
+    "item_code": "w_073882",
+    "content": "the most flattering photos",
+    "meaning_zh": "最显好看的照片",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_073883",
+    "content": "the most glaring flaw",
+    "meaning_zh": "最明显的缺陷",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_073885",
+    "content": "the most important variable",
+    "meaning_zh": "最重要的变量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常用搭配"
+  },
+  {
+    "item_code": "w_073886",
+    "content": "the most monarch-infested region",
+    "meaning_zh": "君主遍布最多的地区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "贬义复合形容词"
+  },
+  {
+    "item_code": "w_073887",
+    "content": "the most visited country",
+    "meaning_zh": "游客最多的国家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅游语境常见搭配"
+  }
+]

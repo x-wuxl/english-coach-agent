@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_074535",
+    "content": "three evil forces",
+    "meaning_zh": "三股势力（恐怖主义、分裂主义、极端主义）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定政治表达"
+  },
+  {
+    "item_code": "w_074536",
+    "content": "Three Gorges Hydro-Power Project",
+    "meaning_zh": "三峡水利枢纽工程；三峡水电工程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有工程名称"
+  },
+  {
+    "item_code": "w_074538",
+    "content": "three quarters",
+    "meaning_zh": "四分之三；三个季度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见数量表达"
+  },
+  {
+    "item_code": "w_074544",
+    "content": "three tough battles",
+    "meaning_zh": "三大攻坚战",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定政策表达"
+  },
+  {
+    "item_code": "w_074545",
+    "content": "three types of wastes",
+    "meaning_zh": "三废（废水、废气、废渣）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保固定术语"
+  },
+  {
+    "item_code": "w_074547",
+    "content": "three-character scripture",
+    "meaning_zh": "三字经",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "文化典籍译名"
+  },
+  {
+    "item_code": "w_074549",
+    "content": "three-D printing",
+    "meaning_zh": "3D打印；三维打印",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见技术术语"
+  },
+  {
+    "item_code": "w_074559",
+    "content": "three-phrase alternating current",
+    "meaning_zh": "三相交流电",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为three-phase误拼"
+  },
+  {
+    "item_code": "w_074567",
+    "content": "three-word chant",
+    "meaning_zh": "三字经；三字口号",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "low",
+    "reason": "含义依语境而定"
+  },
+  {
+    "item_code": "w_074576",
+    "content": "threshold comprise",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不自然"
+  },
+  {
+    "item_code": "w_074578",
+    "content": "threshold of housing fund",
+    "meaning_zh": "住房公积金缴存门槛；住房基金起征门槛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "财经搭配表达"
+  },
+  {
+    "item_code": "w_074582",
+    "content": "thrift league",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_074585",
+    "content": "thrifty morn grumble comply",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串"
+  },
+  {
+    "item_code": "w_074587",
+    "content": "thrill novelty",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不完整"
+  },
+  {
+    "item_code": "w_074588",
+    "content": "thrill plenitude",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似随机词串"
+  },
+  {
+    "item_code": "w_074591",
+    "content": "thriller romance",
+    "meaning_zh": "惊悚爱情片；惊悚爱情故事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "类型组合表达"
+  },
+  {
+    "item_code": "w_074594",
+    "content": "thrive deplete summary",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串"
+  },
+  {
+    "item_code": "w_074595",
+    "content": "thrive feature magic",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串"
+  },
+  {
+    "item_code": "w_074596",
+    "content": "thrive off",
+    "meaning_zh": "靠……兴旺；因……而茁壮成长",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_074599",
+    "content": "thriving in prosperity",
+    "meaning_zh": "繁荣兴旺；在繁荣中发展",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见描述性短语"
+  }
+]

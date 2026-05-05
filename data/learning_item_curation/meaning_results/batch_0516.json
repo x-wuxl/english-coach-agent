@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_049996",
+    "content": "nitric",
+    "meaning_zh": "硝酸的；含氮的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见化学形容词"
+  },
+  {
+    "item_code": "w_050008",
+    "content": "Nitrogen-oxide emissions",
+    "meaning_zh": "氮氧化物排放",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环境术语搭配"
+  },
+  {
+    "item_code": "w_050021",
+    "content": "no ... but ...",
+    "meaning_zh": "不是……而是……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见句型结构"
+  },
+  {
+    "item_code": "w_050022",
+    "content": "no balance",
+    "meaning_zh": "没有平衡；无余额",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义依语境"
+  },
+  {
+    "item_code": "w_050025",
+    "content": "no choice but ...",
+    "meaning_zh": "别无选择，只能……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_050027",
+    "content": "no different",
+    "meaning_zh": "没有区别；没什么两样",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_050030",
+    "content": "No eating or drinking.",
+    "meaning_zh": "禁止饮食",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见告示语"
+  },
+  {
+    "item_code": "w_050036",
+    "content": "no flash",
+    "meaning_zh": "请勿使用闪光灯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见告示语"
+  },
+  {
+    "item_code": "w_050043",
+    "content": "no less necessary",
+    "meaning_zh": "同样必要；一点也不逊色地必要",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "比较结构"
+  },
+  {
+    "item_code": "w_050045",
+    "content": "no longer usable",
+    "meaning_zh": "不再可用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见状态表达"
+  },
+  {
+    "item_code": "w_050060",
+    "content": "No noise, please!",
+    "meaning_zh": "请不要喧哗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见课堂用语"
+  },
+  {
+    "item_code": "w_050068",
+    "content": "no same interest",
+    "meaning_zh": "没有相同的兴趣",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达不太自然"
+  },
+  {
+    "item_code": "w_050069",
+    "content": "no shock there",
+    "meaning_zh": "这并不意外；没什么好惊讶的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "口语固定表达"
+  },
+  {
+    "item_code": "w_050076",
+    "content": "no substitute for",
+    "meaning_zh": "不能替代；无法取代",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_050077",
+    "content": "no swimming",
+    "meaning_zh": "禁止游泳",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见告示语"
+  },
+  {
+    "item_code": "w_050084",
+    "content": "No-Face Day",
+    "meaning_zh": "无脸日",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "low",
+    "reason": "疑似专名，缺少语境"
+  },
+  {
+    "item_code": "w_050091",
+    "content": "no-smoking room",
+    "meaning_zh": "无烟房；禁烟房间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见住宿表达"
+  },
+  {
+    "item_code": "w_050104",
+    "content": "noble descent",
+    "meaning_zh": "贵族血统；高贵出身",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_050110",
+    "content": "nobody but ...",
+    "meaning_zh": "除了……没有人；只有……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型"
+  },
+  {
+    "item_code": "w_050111",
+    "content": "nobody shows interest",
+    "meaning_zh": "没有人表现出兴趣",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_035005",
+    "content": "highway toll fee",
+    "meaning_zh": "高速公路通行费",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见交通费用表达"
+  },
+  {
+    "item_code": "w_035007",
+    "content": "hijack an airplane",
+    "meaning_zh": "劫持飞机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动宾搭配"
+  },
+  {
+    "item_code": "w_035008",
+    "content": "hijack luggage",
+    "meaning_zh": "劫走行李",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_035009",
+    "content": "hijack nephridis pants",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_035013",
+    "content": "hijimony",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠识别"
+  },
+  {
+    "item_code": "w_035015",
+    "content": "hike boon conservatory",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_035030",
+    "content": "Hilltop School",
+    "meaning_zh": "山顶学校",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有名词校名"
+  },
+  {
+    "item_code": "w_035042",
+    "content": "hinda",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠识别"
+  },
+  {
+    "item_code": "w_035045",
+    "content": "hinder their development",
+    "meaning_zh": "阻碍他们的发展",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_035056",
+    "content": "hinge hoist",
+    "meaning_zh": "铰链式起重机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术类名词短语"
+  },
+  {
+    "item_code": "w_035064",
+    "content": "hint of",
+    "meaning_zh": "少许；一丝",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句体现少量含义"
+  },
+  {
+    "item_code": "w_035069",
+    "content": "hip tighter triglyceride starvation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_035070",
+    "content": "hip waste leg",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_035073",
+    "content": "hippi",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_035089",
+    "content": "hires",
+    "meaning_zh": "雇用；聘用",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指雇用"
+  },
+  {
+    "item_code": "w_035098",
+    "content": "hispanic asian tribe",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不清"
+  },
+  {
+    "item_code": "w_035110",
+    "content": "histology assignment",
+    "meaning_zh": "组织学作业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学科作业短语"
+  },
+  {
+    "item_code": "w_035119",
+    "content": "historic breakthrough",
+    "meaning_zh": "历史性突破",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见评价性搭配"
+  },
+  {
+    "item_code": "w_035121",
+    "content": "historic house",
+    "meaning_zh": "历史建筑；有历史意义的房屋",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅游文化表达"
+  },
+  {
+    "item_code": "w_035124",
+    "content": "historic spot",
+    "meaning_zh": "历史景点；古迹",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅游表达"
+  }
+]

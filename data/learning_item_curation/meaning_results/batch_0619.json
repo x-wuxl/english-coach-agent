@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_060757",
+    "content": "recruit volunteer",
+    "meaning_zh": "招募志愿者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "动宾搭配但单复数不自然"
+  },
+  {
+    "item_code": "w_060758",
+    "content": "recruit volunteers",
+    "meaning_zh": "招募志愿者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_060761",
+    "content": "recruiting agent",
+    "meaning_zh": "招生代理；招聘代理",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "留学语境可指招生代理"
+  },
+  {
+    "item_code": "w_060766",
+    "content": "rectangle rectangular cube",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词语拼接噪声"
+  },
+  {
+    "item_code": "w_060774",
+    "content": "rectify and regulate",
+    "meaning_zh": "整顿和规范",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定并列短语"
+  },
+  {
+    "item_code": "w_060775",
+    "content": "rectify devise",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似无关词拼接"
+  },
+  {
+    "item_code": "w_060785",
+    "content": "recumbent municipal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似无关词拼接"
+  },
+  {
+    "item_code": "w_060791",
+    "content": "recur accountant",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似无关词拼接"
+  },
+  {
+    "item_code": "w_060796",
+    "content": "recursion",
+    "meaning_zh": "递归",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_060797",
+    "content": "recursive",
+    "meaning_zh": "递归的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_060808",
+    "content": "red alert for fog",
+    "meaning_zh": "大雾红色预警",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "天气预警表达"
+  },
+  {
+    "item_code": "w_060809",
+    "content": "red alert for smog",
+    "meaning_zh": "雾霾红色预警",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "天气预警表达"
+  },
+  {
+    "item_code": "w_060812",
+    "content": "red braised pork",
+    "meaning_zh": "红烧肉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见菜名"
+  },
+  {
+    "item_code": "w_060817",
+    "content": "red envelope photo",
+    "meaning_zh": "红包照片",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "社交媒体相关表达"
+  },
+  {
+    "item_code": "w_060830",
+    "content": "red-carpet welcome",
+    "meaning_zh": "隆重欢迎；高规格接待",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_060832",
+    "content": "red-envelope war",
+    "meaning_zh": "红包大战",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "互联网热点表达"
+  },
+  {
+    "item_code": "w_060835",
+    "content": "red-hot economy",
+    "meaning_zh": "过热的经济；火热的经济",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见经济表达"
+  },
+  {
+    "item_code": "w_060844",
+    "content": "redeem resign",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似无关词拼接"
+  },
+  {
+    "item_code": "w_060845",
+    "content": "redeemable payment",
+    "meaning_zh": "可赎回款项；可偿付款项",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "商务金融搭配"
+  },
+  {
+    "item_code": "w_060863",
+    "content": "redlines for ecological conservation",
+    "meaning_zh": "生态保护红线",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策术语"
+  }
+]

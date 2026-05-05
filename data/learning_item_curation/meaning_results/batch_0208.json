@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_019532",
+    "content": "deflation column",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配，含义不明"
+  },
+  {
+    "item_code": "w_019555",
+    "content": "defuddle",
+    "meaning_zh": "使不再困惑；使清醒",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见词，按构词判断"
+  },
+  {
+    "item_code": "w_019577",
+    "content": "degraded spawning area",
+    "meaning_zh": "退化的产卵区；受损的繁殖地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态类常见搭配"
+  },
+  {
+    "item_code": "w_019583",
+    "content": "degree in psychology",
+    "meaning_zh": "心理学学位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育类固定表达"
+  },
+  {
+    "item_code": "w_019612",
+    "content": "delay doing",
+    "meaning_zh": "推迟做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词搭配明确"
+  },
+  {
+    "item_code": "w_019616",
+    "content": "delayed employment",
+    "meaning_zh": "延迟就业；推迟就业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "就业话题常见表达"
+  },
+  {
+    "item_code": "w_019620",
+    "content": "delegate power",
+    "meaning_zh": "授权；下放权力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "管理法律常见搭配"
+  },
+  {
+    "item_code": "w_019624",
+    "content": "delete participate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_019626",
+    "content": "deleterious beard",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常，疑似噪声"
+  },
+  {
+    "item_code": "w_019627",
+    "content": "deleterius",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_019632",
+    "content": "deliberate doze",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常，疑似噪声"
+  },
+  {
+    "item_code": "w_019633",
+    "content": "deliberate layout",
+    "meaning_zh": "精心设计的布局；有意安排的布局",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "搭配自然，含义明确"
+  },
+  {
+    "item_code": "w_019634",
+    "content": "deliberate practice",
+    "meaning_zh": "刻意练习",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定术语"
+  },
+  {
+    "item_code": "w_019635",
+    "content": "deliberate retail defy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_019637",
+    "content": "deliberately enthusiasm",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "语法不通，疑似噪声"
+  },
+  {
+    "item_code": "w_019641",
+    "content": "delicacy celebrity stadium",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_019643",
+    "content": "delicate brisk",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常，疑似噪声"
+  },
+  {
+    "item_code": "w_019644",
+    "content": "delicate quality leather",
+    "meaning_zh": "质地精致的皮革；细腻优质皮革",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解但搭配略生硬"
+  },
+  {
+    "item_code": "w_019645",
+    "content": "delicate situation",
+    "meaning_zh": "微妙的局势；棘手的处境",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_019646",
+    "content": "delicate substantial incandescent inscance",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含拼写错误和噪声"
+  }
+]

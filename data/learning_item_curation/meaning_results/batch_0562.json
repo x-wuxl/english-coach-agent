@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_054851",
+    "content": "permit doing",
+    "meaning_zh": "允许做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_054852",
+    "content": "permit sb. to do",
+    "meaning_zh": "允许某人做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_054870",
+    "content": "perpendicular lines",
+    "meaning_zh": "垂直线",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "数学术语"
+  },
+  {
+    "item_code": "w_054875",
+    "content": "perpetual circulation",
+    "meaning_zh": "持续循环；永续循环",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配含义可判断"
+  },
+  {
+    "item_code": "w_054876",
+    "content": "perpetual macula",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "固定搭配不明"
+  },
+  {
+    "item_code": "w_054884",
+    "content": "perplexed astonishment",
+    "meaning_zh": "困惑的惊愕",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "描述性搭配"
+  },
+  {
+    "item_code": "w_054888",
+    "content": "perse",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_054890",
+    "content": "persecute contend",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组关系不明"
+  },
+  {
+    "item_code": "w_054900",
+    "content": "persifage wizen austere",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词表噪声"
+  },
+  {
+    "item_code": "w_054904",
+    "content": "persist for",
+    "meaning_zh": "持续一段时间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "介词搭配"
+  },
+  {
+    "item_code": "w_054906",
+    "content": "persist in doing",
+    "meaning_zh": "坚持做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_054907",
+    "content": "persist in doing sth.",
+    "meaning_zh": "坚持做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_054916",
+    "content": "person-to-person mobile payment service",
+    "meaning_zh": "个人对个人移动支付服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融科技术语"
+  },
+  {
+    "item_code": "w_054923",
+    "content": "personal affair",
+    "meaning_zh": "私事；个人事务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_054925",
+    "content": "personal alarm",
+    "meaning_zh": "个人报警器",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见安全用品"
+  },
+  {
+    "item_code": "w_054926",
+    "content": "personal and professional profile",
+    "meaning_zh": "个人与职业简介",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "简历相关表达"
+  },
+  {
+    "item_code": "w_054927",
+    "content": "personal asset declaration",
+    "meaning_zh": "个人资产申报",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "正式文书术语"
+  },
+  {
+    "item_code": "w_054932",
+    "content": "personal contact cooperation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_054933",
+    "content": "personal contents insurance",
+    "meaning_zh": "个人财物保险",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "保险术语"
+  },
+  {
+    "item_code": "w_054934",
+    "content": "personal credit records",
+    "meaning_zh": "个人信用记录",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融信用术语"
+  }
+]

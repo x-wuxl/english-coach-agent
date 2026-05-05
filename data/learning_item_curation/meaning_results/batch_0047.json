@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_003313",
+    "content": "ancestry philosophical",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不自然含义不明"
+  },
+  {
+    "item_code": "w_003322",
+    "content": "ancient architectural complex",
+    "meaning_zh": "古代建筑群",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_003323",
+    "content": "ancient artists",
+    "meaning_zh": "古代艺术家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_003325",
+    "content": "ancient buildings",
+    "meaning_zh": "古建筑；古代建筑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持该含义"
+  },
+  {
+    "item_code": "w_003328",
+    "content": "ancient climate",
+    "meaning_zh": "古代气候",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常见搭配"
+  },
+  {
+    "item_code": "w_003331",
+    "content": "ancient formulate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配错误含义不明"
+  },
+  {
+    "item_code": "w_003334",
+    "content": "ancient monument statue",
+    "meaning_zh": "古代纪念碑雕像",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语可理解但生硬"
+  },
+  {
+    "item_code": "w_003335",
+    "content": "ancient music",
+    "meaning_zh": "古代音乐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_003336",
+    "content": "ancient Mycenaean culture",
+    "meaning_zh": "古代迈锡尼文化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有文化术语"
+  },
+  {
+    "item_code": "w_003340",
+    "content": "ancient tomb",
+    "meaning_zh": "古墓",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_003344",
+    "content": "ancillary ah pivotal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含噪声词含义不明"
+  },
+  {
+    "item_code": "w_003348",
+    "content": "and ammonium reconvene",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无明确含义"
+  },
+  {
+    "item_code": "w_003349",
+    "content": "and art is everlasting",
+    "meaning_zh": "而艺术是永恒的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "完整表达但以and开头"
+  },
+  {
+    "item_code": "w_003350",
+    "content": "and form accommodation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "片段化含义不完整"
+  },
+  {
+    "item_code": "w_003352",
+    "content": "and live ingrained prevaricate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌含义不明"
+  },
+  {
+    "item_code": "w_003353",
+    "content": "and more financially prudent",
+    "meaning_zh": "并且在财务上更审慎",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解但为句子片段"
+  },
+  {
+    "item_code": "w_003354",
+    "content": "and perhaps faintly",
+    "meaning_zh": "而且也许有些微弱地",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "片段低价值"
+  },
+  {
+    "item_code": "w_003355",
+    "content": "and significant brokerage",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "片段缺少上下文"
+  },
+  {
+    "item_code": "w_003361",
+    "content": "and transagent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词条"
+  },
+  {
+    "item_code": "w_003369",
+    "content": "Andrea",
+    "meaning_zh": "安德里亚",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人名例句支持"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_019428",
+    "content": "defacto",
+    "meaning_zh": "事实上；实际上的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见为de facto"
+  },
+  {
+    "item_code": "w_019434",
+    "content": "default courtesy protocol",
+    "meaning_zh": "默认礼貌规范",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语可按整体理解"
+  },
+  {
+    "item_code": "w_019444",
+    "content": "defecate transfuse",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词组无固定含义"
+  },
+  {
+    "item_code": "w_019451",
+    "content": "defelcate",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_019462",
+    "content": "defendant available",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_019468",
+    "content": "defense and military reforms",
+    "meaning_zh": "国防和军事改革",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政治话题短语"
+  },
+  {
+    "item_code": "w_019469",
+    "content": "defense defective suburb garage",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无含义"
+  },
+  {
+    "item_code": "w_019470",
+    "content": "defense exempt prose assault",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无含义"
+  },
+  {
+    "item_code": "w_019471",
+    "content": "defense fork compile",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无含义"
+  },
+  {
+    "item_code": "w_019479",
+    "content": "defensive architecture",
+    "meaning_zh": "防御性建筑；防御建筑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "雅思常见话题搭配"
+  },
+  {
+    "item_code": "w_019480",
+    "content": "defensive offense",
+    "meaning_zh": "防守型进攻",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "体育或策略搭配"
+  },
+  {
+    "item_code": "w_019484",
+    "content": "defer conclude",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "动词堆叠不成搭配"
+  },
+  {
+    "item_code": "w_019495",
+    "content": "defi",
+    "meaning_zh": "去中心化金融",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见缩写DeFi"
+  },
+  {
+    "item_code": "w_019497",
+    "content": "defiance of",
+    "meaning_zh": "违抗；无视",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指违背意愿"
+  },
+  {
+    "item_code": "w_019506",
+    "content": "defile enamel racket",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无含义"
+  },
+  {
+    "item_code": "w_019512",
+    "content": "define A as B",
+    "meaning_zh": "把A定义为B",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_019514",
+    "content": "define initiative",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明确"
+  },
+  {
+    "item_code": "w_019520",
+    "content": "defining term",
+    "meaning_zh": "定义术语；界定术语",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术短语"
+  },
+  {
+    "item_code": "w_019522",
+    "content": "definite hyperplasia",
+    "meaning_zh": "明确的增生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学术语搭配"
+  },
+  {
+    "item_code": "w_019529",
+    "content": "deflate porridge",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  }
+]

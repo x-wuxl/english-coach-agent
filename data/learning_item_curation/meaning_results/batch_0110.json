@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_009169",
+    "content": "biodiversity protection",
+    "meaning_zh": "生物多样性保护",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见环保搭配"
+  },
+  {
+    "item_code": "w_009176",
+    "content": "bioenrichment",
+    "meaning_zh": "生物强化；生物增富",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "较少见技术术语"
+  },
+  {
+    "item_code": "w_009185",
+    "content": "biographer menace",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常疑似噪声"
+  },
+  {
+    "item_code": "w_009198",
+    "content": "biological contaminant",
+    "meaning_zh": "生物污染物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环境科学常见术语"
+  },
+  {
+    "item_code": "w_009206",
+    "content": "biological matter",
+    "meaning_zh": "生物物质",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "科学语境常见表达"
+  },
+  {
+    "item_code": "w_009208",
+    "content": "biological relatives",
+    "meaning_zh": "血缘亲属；生物学亲属",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "亲属关系常见表达"
+  },
+  {
+    "item_code": "w_009212",
+    "content": "biologically diverse",
+    "meaning_zh": "生物多样性丰富的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态语境常见搭配"
+  },
+  {
+    "item_code": "w_009216",
+    "content": "biology lesson",
+    "meaning_zh": "生物课",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "课堂场景常见表达"
+  },
+  {
+    "item_code": "w_009234",
+    "content": "biomimicry",
+    "meaning_zh": "仿生学；仿生设计",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见科技词汇"
+  },
+  {
+    "item_code": "w_009242",
+    "content": "biophysical environment",
+    "meaning_zh": "生物物理环境",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态环境术语"
+  },
+  {
+    "item_code": "w_009251",
+    "content": "BIOS",
+    "meaning_zh": "基本输入输出系统",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机缩写术语"
+  },
+  {
+    "item_code": "w_009261",
+    "content": "biotech industry",
+    "meaning_zh": "生物技术产业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "行业常见表达"
+  },
+  {
+    "item_code": "w_009264",
+    "content": "biotechnology industry",
+    "meaning_zh": "生物技术产业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "行业常见表达"
+  },
+  {
+    "item_code": "w_009268",
+    "content": "biotic agent",
+    "meaning_zh": "生物因子；生物作用物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "生态学专业搭配"
+  },
+  {
+    "item_code": "w_009269",
+    "content": "biotic clock",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_009289",
+    "content": "bird field guide",
+    "meaning_zh": "鸟类野外指南；鸟类图鉴",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "观鸟常见工具书"
+  },
+  {
+    "item_code": "w_009296",
+    "content": "bird park",
+    "meaning_zh": "鸟类公园；鸟园",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅游场景常见表达"
+  },
+  {
+    "item_code": "w_009302",
+    "content": "birdge",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_009307",
+    "content": "birds' singing",
+    "meaning_zh": "鸟鸣；鸟儿歌唱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持该含义"
+  },
+  {
+    "item_code": "w_009309",
+    "content": "birdswa",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_055665",
+    "content": "pine urinate boy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无自然含义"
+  },
+  {
+    "item_code": "w_055669",
+    "content": "pineapple plum raisin",
+    "meaning_zh": "菠萝；李子；葡萄干",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "多个水果词并列"
+  },
+  {
+    "item_code": "w_055678",
+    "content": "pink eye mercy gymnasium",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无整体义"
+  },
+  {
+    "item_code": "w_055684",
+    "content": "pinnacle plumber plumbing",
+    "meaning_zh": "顶峰；水管工；管道工程",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "多个词并列非词条"
+  },
+  {
+    "item_code": "w_055692",
+    "content": "pinto",
+    "meaning_zh": "花斑马；斑豆",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见义项明确"
+  },
+  {
+    "item_code": "w_055695",
+    "content": "pioneer settler",
+    "meaning_zh": "拓荒定居者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见历史表达"
+  },
+  {
+    "item_code": "w_055697",
+    "content": "pioneering basic research",
+    "meaning_zh": "开创性的基础研究",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术搭配明确"
+  },
+  {
+    "item_code": "w_055719",
+    "content": "pippin",
+    "meaning_zh": "苹果品种；优秀的人或物",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "词义较少见但明确"
+  },
+  {
+    "item_code": "w_055722",
+    "content": "pique one's curiosity",
+    "meaning_zh": "激起某人的好奇心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_055723",
+    "content": "pique one's interest",
+    "meaning_zh": "激起某人的兴趣",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_055724",
+    "content": "pique someone's interest",
+    "meaning_zh": "激起某人的兴趣",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_055727",
+    "content": "piranha-like",
+    "meaning_zh": "像食人鱼一样的；凶猛贪婪的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词明确"
+  },
+  {
+    "item_code": "w_055730",
+    "content": "pirated book",
+    "meaning_zh": "盗版书",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_055734",
+    "content": "piscal",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_055742",
+    "content": "pistol degradation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_055744",
+    "content": "piston panel",
+    "meaning_zh": "活塞面板",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常规技术搭配"
+  },
+  {
+    "item_code": "w_055752",
+    "content": "pitch court pool",
+    "meaning_zh": "运动场；球场；游泳池",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "场地词并列非词条"
+  },
+  {
+    "item_code": "w_055758",
+    "content": "pitcher scoop",
+    "meaning_zh": "水罐；勺子",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "名词并列非搭配"
+  },
+  {
+    "item_code": "w_055768",
+    "content": "pitiful surveillance spray",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无整体义"
+  },
+  {
+    "item_code": "w_055780",
+    "content": "pity grin",
+    "meaning_zh": "怜悯的笑容",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可判断"
+  }
+]

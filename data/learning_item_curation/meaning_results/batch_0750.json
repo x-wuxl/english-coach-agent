@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_073716",
+    "content": "the extension of",
+    "meaning_zh": "……的延伸；……的扩展",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_073718",
+    "content": "the Faculty of Law",
+    "meaning_zh": "法学院",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "院系名称"
+  },
+  {
+    "item_code": "w_073719",
+    "content": "the Faroe Islands",
+    "meaning_zh": "法罗群岛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地名专有名词"
+  },
+  {
+    "item_code": "w_073722",
+    "content": "the first lady of",
+    "meaning_zh": "……的第一夫人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见身份表达"
+  },
+  {
+    "item_code": "w_073726",
+    "content": "The Food Guide Pyramid",
+    "meaning_zh": "食物指南金字塔",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "营养学术语"
+  },
+  {
+    "item_code": "w_073728",
+    "content": "the former opinion",
+    "meaning_zh": "前一种观点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见论述表达"
+  },
+  {
+    "item_code": "w_073729",
+    "content": "the Foundation trilogy",
+    "meaning_zh": "《基地三部曲》",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "作品专有名词"
+  },
+  {
+    "item_code": "w_073730",
+    "content": "the Four Cardinal Principles",
+    "meaning_zh": "四项基本原则",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治专有名词"
+  },
+  {
+    "item_code": "w_073731",
+    "content": "the four contested provisions",
+    "meaning_zh": "四项有争议的条款",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "法律语境搭配"
+  },
+  {
+    "item_code": "w_073732",
+    "content": "the fragile nature",
+    "meaning_zh": "脆弱的本质；脆弱性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_073733",
+    "content": "the French Open",
+    "meaning_zh": "法国网球公开赛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "体育赛事名称"
+  },
+  {
+    "item_code": "w_073735",
+    "content": "the frontary loath turgid",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声短语"
+  },
+  {
+    "item_code": "w_073736",
+    "content": "the Funeral March",
+    "meaning_zh": "葬礼进行曲",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "音乐作品名称"
+  },
+  {
+    "item_code": "w_073738",
+    "content": "the game of chess",
+    "meaning_zh": "国际象棋游戏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "棋类表达"
+  },
+  {
+    "item_code": "w_073739",
+    "content": "the game of draughts",
+    "meaning_zh": "西洋跳棋游戏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "棋类表达"
+  },
+  {
+    "item_code": "w_073740",
+    "content": "the game of halma",
+    "meaning_zh": "哈尔马棋游戏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "棋类专名"
+  },
+  {
+    "item_code": "w_073743",
+    "content": "the glass ceiling",
+    "meaning_zh": "玻璃天花板；隐形晋升障碍",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定比喻表达"
+  },
+  {
+    "item_code": "w_073748",
+    "content": "the Google vehicle",
+    "meaning_zh": "谷歌汽车；谷歌自动驾驶汽车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "品牌相关名词"
+  },
+  {
+    "item_code": "w_073754",
+    "content": "the Greek anthology",
+    "meaning_zh": "《希腊诗选》",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文学作品名称"
+  },
+  {
+    "item_code": "w_073757",
+    "content": "the grocer's",
+    "meaning_zh": "食品杂货店",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见省略表达"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_066985",
+    "content": "skeleton dubark",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_066988",
+    "content": "skeptic deprivation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_066990",
+    "content": "skeptical amusement",
+    "meaning_zh": "带怀疑的好笑；半信半疑的 amused 反应",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作描述性搭配"
+  },
+  {
+    "item_code": "w_066993",
+    "content": "sketch expel",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无可靠含义"
+  },
+  {
+    "item_code": "w_067000",
+    "content": "skew ... with",
+    "meaning_zh": "用……使……偏斜；用……歪曲……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "动词搭配结构"
+  },
+  {
+    "item_code": "w_067009",
+    "content": "skid horizon",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似错误拼接"
+  },
+  {
+    "item_code": "w_067013",
+    "content": "skiing theater",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  },
+  {
+    "item_code": "w_067017",
+    "content": "skill shortages",
+    "meaning_zh": "技能短缺；技术人才短缺",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职场表达"
+  },
+  {
+    "item_code": "w_067021",
+    "content": "skilled employee",
+    "meaning_zh": "熟练员工；技术型员工",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常用搭配"
+  },
+  {
+    "item_code": "w_067025",
+    "content": "skillful at",
+    "meaning_zh": "擅长……；善于……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_067026",
+    "content": "skillful in",
+    "meaning_zh": "擅长……；在……方面熟练",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  },
+  {
+    "item_code": "w_067039",
+    "content": "skin cell",
+    "meaning_zh": "皮肤细胞",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础名词搭配"
+  },
+  {
+    "item_code": "w_067040",
+    "content": "skin head freak nerd",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词串噪声"
+  },
+  {
+    "item_code": "w_067048",
+    "content": "skinned",
+    "meaning_zh": "剥去皮的；擦破皮的；有……皮肤的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见分词形容词"
+  },
+  {
+    "item_code": "w_067054",
+    "content": "skip a grade",
+    "meaning_zh": "跳级",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育场景常用"
+  },
+  {
+    "item_code": "w_067055",
+    "content": "skip a lecture",
+    "meaning_zh": "逃课；缺席讲座",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "校园常用表达"
+  },
+  {
+    "item_code": "w_067058",
+    "content": "skip dessert",
+    "meaning_zh": "不吃甜点；省掉甜点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "日常动宾搭配"
+  },
+  {
+    "item_code": "w_067059",
+    "content": "skip down",
+    "meaning_zh": "向下跳读；跳到下方",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境不足但可判断"
+  },
+  {
+    "item_code": "w_067060",
+    "content": "skip down to",
+    "meaning_zh": "向下跳到……；略过中间部分到……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见阅读操作表达"
+  },
+  {
+    "item_code": "w_067061",
+    "content": "skip down to ...",
+    "meaning_zh": "向下跳到……；略过中间部分到……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "省略号表示搭配槽位"
+  }
+]

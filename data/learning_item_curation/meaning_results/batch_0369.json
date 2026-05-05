@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_034868",
+    "content": "high fat and calorie",
+    "meaning_zh": "高脂高热量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见饮食描述但表达略省略"
+  },
+  {
+    "item_code": "w_034870",
+    "content": "high frequency stress wave",
+    "meaning_zh": "高频应力波",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "工程技术术语"
+  },
+  {
+    "item_code": "w_034873",
+    "content": "high in protein",
+    "meaning_zh": "富含蛋白质",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见营养表达"
+  },
+  {
+    "item_code": "w_034877",
+    "content": "high living costs",
+    "meaning_zh": "高生活成本",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会话题搭配"
+  },
+  {
+    "item_code": "w_034882",
+    "content": "high quality camera",
+    "meaning_zh": "高质量相机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_034883",
+    "content": "high quality staff",
+    "meaning_zh": "高素质员工",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见人力资源表达"
+  },
+  {
+    "item_code": "w_034884",
+    "content": "high rainfall",
+    "meaning_zh": "降雨量大；高降雨量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见气候描述"
+  },
+  {
+    "item_code": "w_034887",
+    "content": "high school coach",
+    "meaning_zh": "高中教练",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学校体育职位"
+  },
+  {
+    "item_code": "w_034897",
+    "content": "high temperature subsidy",
+    "meaning_zh": "高温津贴",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "劳动福利术语"
+  },
+  {
+    "item_code": "w_034900",
+    "content": "high traffic abuse",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然，含义不明"
+  },
+  {
+    "item_code": "w_034902",
+    "content": "high universality",
+    "meaning_zh": "高度普遍性；高通用性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "抽象搭配可判断"
+  },
+  {
+    "item_code": "w_034905",
+    "content": "high-calorie food",
+    "meaning_zh": "高热量食物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见营养表达"
+  },
+  {
+    "item_code": "w_034910",
+    "content": "high-end dining sector",
+    "meaning_zh": "高端餐饮行业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "行业领域表达"
+  },
+  {
+    "item_code": "w_034917",
+    "content": "high-intensity exercise",
+    "meaning_zh": "高强度运动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见健身表达"
+  },
+  {
+    "item_code": "w_034919",
+    "content": "high-level language",
+    "meaning_zh": "高级语言",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机科学术语"
+  },
+  {
+    "item_code": "w_034922",
+    "content": "high-net-worth families",
+    "meaning_zh": "高净值家庭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融财富术语"
+  },
+  {
+    "item_code": "w_034928",
+    "content": "high-power electrical appliance",
+    "meaning_zh": "大功率电器",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见用电安全表达"
+  },
+  {
+    "item_code": "w_034935",
+    "content": "high-quality arts criticism",
+    "meaning_zh": "高质量艺术评论",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文化评论搭配"
+  },
+  {
+    "item_code": "w_034936",
+    "content": "high-quality development",
+    "meaning_zh": "高质量发展",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政策经济表达"
+  },
+  {
+    "item_code": "w_034941",
+    "content": "high-rise office buildings",
+    "meaning_zh": "高层办公楼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见建筑表达"
+  }
+]

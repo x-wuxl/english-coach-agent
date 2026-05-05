@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_000229",
+    "content": "a fat pay rise",
+    "meaning_zh": "大幅加薪",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配含义明确"
+  },
+  {
+    "item_code": "w_000230",
+    "content": "a fat salary",
+    "meaning_zh": "高薪；丰厚的薪水",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配含义明确"
+  },
+  {
+    "item_code": "w_000231",
+    "content": "a favorite with somebody",
+    "meaning_zh": "受某人喜爱的人或物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达整体释义"
+  },
+  {
+    "item_code": "w_000232",
+    "content": "a fear of heights",
+    "meaning_zh": "恐高；对高处的恐惧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达含义明确"
+  },
+  {
+    "item_code": "w_000233",
+    "content": "a feeling of well-being",
+    "meaning_zh": "幸福感；身心舒适感",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_000236",
+    "content": "a fighter pilot",
+    "meaning_zh": "战斗机飞行员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职业名词短语"
+  },
+  {
+    "item_code": "w_000238",
+    "content": "a film review",
+    "meaning_zh": "影评；电影评论",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习词组"
+  },
+  {
+    "item_code": "w_000239",
+    "content": "a financial report",
+    "meaning_zh": "财务报告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常见词组"
+  },
+  {
+    "item_code": "w_000240",
+    "content": "a flash of",
+    "meaning_zh": "一道；一闪；一阵突发的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配需接宾语"
+  },
+  {
+    "item_code": "w_000242",
+    "content": "a flight schedule",
+    "meaning_zh": "航班时刻表",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅行常见词组"
+  },
+  {
+    "item_code": "w_000245",
+    "content": "a flock of geese",
+    "meaning_zh": "一群鹅",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "集合量词短语"
+  },
+  {
+    "item_code": "w_000247",
+    "content": "a flower bud",
+    "meaning_zh": "花蕾；花苞",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础名词短语"
+  },
+  {
+    "item_code": "w_000248",
+    "content": "a foot of",
+    "meaning_zh": "一英尺的；一英尺厚的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "量词结构不完整"
+  },
+  {
+    "item_code": "w_000249",
+    "content": "a four-year undergraduate degree",
+    "meaning_zh": "四年制本科学位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育术语明确"
+  },
+  {
+    "item_code": "w_000251",
+    "content": "a full range of",
+    "meaning_zh": "全套的；各种各样的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_000253",
+    "content": "a further understanding of",
+    "meaning_zh": "对……更深入的理解",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术表达常见"
+  },
+  {
+    "item_code": "w_000254",
+    "content": "a gallon of milk",
+    "meaning_zh": "一加仑牛奶",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计量短语明确"
+  },
+  {
+    "item_code": "w_000256",
+    "content": "a ghost of sth.",
+    "meaning_zh": "一丝；一点点；隐约的痕迹",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语搭配含义明确"
+  },
+  {
+    "item_code": "w_000262",
+    "content": "a glimpse at",
+    "meaning_zh": "一瞥；粗略了解",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配含义明确"
+  },
+  {
+    "item_code": "w_000265",
+    "content": "a good knowledge of",
+    "meaning_zh": "熟悉；精通；对……有充分了解",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  }
+]

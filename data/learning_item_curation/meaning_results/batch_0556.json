@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_054227",
+    "content": "pay much attention to",
+    "meaning_zh": "非常注意；十分关注",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句表明关注含义"
+  },
+  {
+    "item_code": "w_054228",
+    "content": "pay New Year call",
+    "meaning_zh": "拜年",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定表达但缺冠词"
+  },
+  {
+    "item_code": "w_054232",
+    "content": "pay off the debt",
+    "meaning_zh": "还清债务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见还债搭配"
+  },
+  {
+    "item_code": "w_054233",
+    "content": "pay off the money",
+    "meaning_zh": "付清款项；还清欠款",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配稍生硬但可理解"
+  },
+  {
+    "item_code": "w_054247",
+    "content": "pay somebody a visit",
+    "meaning_zh": "拜访某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定拜访表达"
+  },
+  {
+    "item_code": "w_054250",
+    "content": "pay the mortgage",
+    "meaning_zh": "偿还房贷；支付抵押贷款",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见金融搭配"
+  },
+  {
+    "item_code": "w_054252",
+    "content": "pay the price for",
+    "meaning_zh": "为……付出代价",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语表达"
+  },
+  {
+    "item_code": "w_054255",
+    "content": "pay with phone",
+    "meaning_zh": "用手机支付",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达省略冠词"
+  },
+  {
+    "item_code": "w_054257",
+    "content": "pay-photo",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准表达像噪声"
+  },
+  {
+    "item_code": "w_054258",
+    "content": "pay-to-read",
+    "meaning_zh": "付费阅读的；需付费阅读的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见复合修饰语"
+  },
+  {
+    "item_code": "w_054259",
+    "content": "pay-to-the-driver bus",
+    "meaning_zh": "向司机付费乘坐的公交车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "复合搭配可判断"
+  },
+  {
+    "item_code": "w_054273",
+    "content": "payroll office",
+    "meaning_zh": "薪资办公室；工资发放部门",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见机构名称"
+  },
+  {
+    "item_code": "w_054274",
+    "content": "pays relaxant",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似外语或噪声"
+  },
+  {
+    "item_code": "w_054282",
+    "content": "PDF",
+    "meaning_zh": "便携式文档格式；PDF文件",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见文件格式缩写"
+  },
+  {
+    "item_code": "w_054283",
+    "content": "pdt",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写含义不明确"
+  },
+  {
+    "item_code": "w_054285",
+    "content": "PE class",
+    "meaning_zh": "体育课",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "小学常用表达"
+  },
+  {
+    "item_code": "w_054293",
+    "content": "peace saboteur",
+    "meaning_zh": "和平破坏者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "名词短语含义明确"
+  },
+  {
+    "item_code": "w_054297",
+    "content": "peaceful and quiet",
+    "meaning_zh": "平和安静的；宁静的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "并列形容词短语"
+  },
+  {
+    "item_code": "w_054299",
+    "content": "peaceful development",
+    "meaning_zh": "和平发展",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政治经济表达"
+  },
+  {
+    "item_code": "w_054300",
+    "content": "peaceful state of mind",
+    "meaning_zh": "平和的心态；宁静的心境",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  }
+]

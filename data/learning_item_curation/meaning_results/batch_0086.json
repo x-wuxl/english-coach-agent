@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_007323",
+    "content": "be flexible in",
+    "meaning_zh": "在……方面灵活变通",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_007324",
+    "content": "be flooded out",
+    "meaning_zh": "因洪水被迫离开",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语整体含义"
+  },
+  {
+    "item_code": "w_007331",
+    "content": "be forced to do",
+    "meaning_zh": "被迫做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_007355",
+    "content": "be full of imagination",
+    "meaning_zh": "富有想象力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_007356",
+    "content": "be full of remorse",
+    "meaning_zh": "充满悔恨",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_007358",
+    "content": "be fully equipped",
+    "meaning_zh": "设备齐全；装备完善",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_007359",
+    "content": "be funded from",
+    "meaning_zh": "资金来自；由……资助",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "资金来源搭配"
+  },
+  {
+    "item_code": "w_007361",
+    "content": "be fussy about",
+    "meaning_zh": "对……挑剔",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_007365",
+    "content": "be given cold shoulder",
+    "meaning_zh": "遭到冷落；受到冷淡对待",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_007366",
+    "content": "be given due attention",
+    "meaning_zh": "得到应有的重视",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见书面表达"
+  },
+  {
+    "item_code": "w_007370",
+    "content": "be going extinct",
+    "meaning_zh": "正在走向灭绝",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保话题常用"
+  },
+  {
+    "item_code": "w_007380",
+    "content": "be good on sb.",
+    "meaning_zh": "穿在某人身上好看；适合某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配较少见"
+  },
+  {
+    "item_code": "w_007385",
+    "content": "be granted for",
+    "meaning_zh": "为……而获准；被授予用于……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "需结合宾语判断"
+  },
+  {
+    "item_code": "w_007390",
+    "content": "be greeted by",
+    "meaning_zh": "受到……迎接；映入眼帘的是",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见书面表达"
+  },
+  {
+    "item_code": "w_007395",
+    "content": "be guilty for",
+    "meaning_zh": "因……感到内疚",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见为guilty about"
+  },
+  {
+    "item_code": "w_007398",
+    "content": "be handed to",
+    "meaning_zh": "被递给；被交给",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "被动搭配"
+  },
+  {
+    "item_code": "w_007400",
+    "content": "be happy with sth.",
+    "meaning_zh": "对某事满意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_007404",
+    "content": "be harmful to sb.",
+    "meaning_zh": "对某人有害",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_007407",
+    "content": "be held accountable for",
+    "meaning_zh": "对……负责；因……被追责",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "正式表达"
+  },
+  {
+    "item_code": "w_007411",
+    "content": "be helplessly addicted to",
+    "meaning_zh": "无法自拔地沉迷于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语整体含义"
+  }
+]

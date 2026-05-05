@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_068076",
+    "content": "someone else's",
+    "meaning_zh": "别人的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指他人所有"
+  },
+  {
+    "item_code": "w_068077",
+    "content": "someone else's book",
+    "meaning_zh": "别人的书",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见所属短语"
+  },
+  {
+    "item_code": "w_068083",
+    "content": "something as follows",
+    "meaning_zh": "如下内容",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略不完整"
+  },
+  {
+    "item_code": "w_068105",
+    "content": "sonable",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准词疑似拼写错误"
+  },
+  {
+    "item_code": "w_068110",
+    "content": "sonergic counterfeit",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常含义不明"
+  },
+  {
+    "item_code": "w_068113",
+    "content": "Song-and-Dance Duet",
+    "meaning_zh": "歌舞二重唱；双人歌舞表演",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按整体短语理解"
+  },
+  {
+    "item_code": "w_068123",
+    "content": "sonnet prescience",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常含义不明"
+  },
+  {
+    "item_code": "w_068124",
+    "content": "Sonnets from the Portuguese",
+    "meaning_zh": "《葡萄牙十四行诗集》",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文学作品名"
+  },
+  {
+    "item_code": "w_068128",
+    "content": "sonorous vivid vowel",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配生硬含义不明"
+  },
+  {
+    "item_code": "w_068135",
+    "content": "soot emission",
+    "meaning_zh": "烟尘排放；煤烟排放",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保常用搭配"
+  },
+  {
+    "item_code": "w_068136",
+    "content": "soot emissions",
+    "meaning_zh": "烟尘排放；煤烟排放物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保常用搭配"
+  },
+  {
+    "item_code": "w_068138",
+    "content": "sooth",
+    "meaning_zh": "真实；事实",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "古旧词义"
+  },
+  {
+    "item_code": "w_068140",
+    "content": "soothe rain",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常含义不明"
+  },
+  {
+    "item_code": "w_068152",
+    "content": "sophisticated explosion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常含义不明"
+  },
+  {
+    "item_code": "w_068153",
+    "content": "sophisticated operators",
+    "meaning_zh": "经验丰富的操作者；复杂的运营者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专业语境搭配"
+  },
+  {
+    "item_code": "w_068160",
+    "content": "soporific candid",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词义冲突搭配异常"
+  },
+  {
+    "item_code": "w_068161",
+    "content": "soporific license",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常含义不明"
+  },
+  {
+    "item_code": "w_068163",
+    "content": "sopranino clarinet",
+    "meaning_zh": "超高音单簧管",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "乐器术语"
+  },
+  {
+    "item_code": "w_068172",
+    "content": "sordid galvanize",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词性搭配异常"
+  },
+  {
+    "item_code": "w_068175",
+    "content": "sore eyes and throat",
+    "meaning_zh": "眼睛和喉咙疼痛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "症状表达"
+  }
+]

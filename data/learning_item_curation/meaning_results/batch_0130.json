@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_011372",
+    "content": "buy furniture",
+    "meaning_zh": "购买家具",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_011377",
+    "content": "buy lottery tickets",
+    "meaning_zh": "购买彩票",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  },
+  {
+    "item_code": "w_011383",
+    "content": "buy some gifts",
+    "meaning_zh": "买一些礼物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_011384",
+    "content": "buy the clothes",
+    "meaning_zh": "买这些衣服",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_011385",
+    "content": "buy the products advertised",
+    "meaning_zh": "购买广告中的产品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "整体短语含义明确"
+  },
+  {
+    "item_code": "w_011386",
+    "content": "buy the win-win rhetoric",
+    "meaning_zh": "相信双赢说辞",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "buy作相信讲"
+  },
+  {
+    "item_code": "w_011387",
+    "content": "buy tickets online",
+    "meaning_zh": "在线购票",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_011388",
+    "content": "buy toys",
+    "meaning_zh": "买玩具",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_011390",
+    "content": "buy votes",
+    "meaning_zh": "买选票；贿选",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治语境固定搭配"
+  },
+  {
+    "item_code": "w_011408",
+    "content": "Buñol",
+    "meaning_zh": "布尼奥尔（西班牙城镇）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有地名"
+  },
+  {
+    "item_code": "w_011411",
+    "content": "by a large margin",
+    "meaning_zh": "以很大优势；大幅度地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_011412",
+    "content": "by a small margin",
+    "meaning_zh": "以微弱优势；小幅度地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_011432",
+    "content": "by consequence of",
+    "meaning_zh": "由于；因为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达少见但可判断"
+  },
+  {
+    "item_code": "w_011444",
+    "content": "by express mail",
+    "meaning_zh": "用快递；以特快邮件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "邮寄方式表达"
+  },
+  {
+    "item_code": "w_011448",
+    "content": "by fax",
+    "meaning_zh": "通过传真；用传真",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  },
+  {
+    "item_code": "w_011449",
+    "content": "by ferry",
+    "meaning_zh": "乘渡船；搭乘轮渡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通方式表达"
+  },
+  {
+    "item_code": "w_011454",
+    "content": "by inference",
+    "meaning_zh": "通过推断；根据推论",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常见表达"
+  },
+  {
+    "item_code": "w_011472",
+    "content": "by one's own right",
+    "meaning_zh": "凭自己的权利；凭自身资格",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "近似固定表达"
+  },
+  {
+    "item_code": "w_011475",
+    "content": "by phone",
+    "meaning_zh": "通过电话；用电话",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  },
+  {
+    "item_code": "w_011482",
+    "content": "by registered mail",
+    "meaning_zh": "用挂号信；以挂号邮件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  }
+]

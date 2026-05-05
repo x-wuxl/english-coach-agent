@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_043868",
+    "content": "lofty dissolve",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_043873",
+    "content": "log magnet",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声"
+  },
+  {
+    "item_code": "w_043877",
+    "content": "log onto the Internet",
+    "meaning_zh": "登录互联网；上网",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_043881",
+    "content": "log structure",
+    "meaning_zh": "原木结构；日志结构",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义依语境而定"
+  },
+  {
+    "item_code": "w_043892",
+    "content": "logic-defying",
+    "meaning_zh": "违背逻辑的；难以理解的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见复合形容词"
+  },
+  {
+    "item_code": "w_043895",
+    "content": "logical operator",
+    "meaning_zh": "逻辑运算符",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_043921",
+    "content": "lomax",
+    "meaning_zh": "洛马克斯",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "多为人名或姓氏"
+  },
+  {
+    "item_code": "w_043922",
+    "content": "londer",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_043925",
+    "content": "London Heathrow",
+    "meaning_zh": "伦敦希思罗机场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有地名"
+  },
+  {
+    "item_code": "w_043931",
+    "content": "lonely and helpless",
+    "meaning_zh": "孤独无助的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_043948",
+    "content": "long hours of sunshine",
+    "meaning_zh": "长时间日照；日照时间长",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见自然描述"
+  },
+  {
+    "item_code": "w_043955",
+    "content": "long passing",
+    "meaning_zh": "长传",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "多见于体育语境"
+  },
+  {
+    "item_code": "w_043957",
+    "content": "long race",
+    "meaning_zh": "长距离赛跑；长跑比赛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础搭配"
+  },
+  {
+    "item_code": "w_043961",
+    "content": "long tables",
+    "meaning_zh": "长桌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通名词搭配"
+  },
+  {
+    "item_code": "w_043963",
+    "content": "long to do something",
+    "meaning_zh": "渴望做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词用法"
+  },
+  {
+    "item_code": "w_043971",
+    "content": "long-distance and roaming charges",
+    "meaning_zh": "长途和漫游费用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "通信费用搭配"
+  },
+  {
+    "item_code": "w_043974",
+    "content": "long-distance interactions",
+    "meaning_zh": "远距离互动；远程交流",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_043977",
+    "content": "long-haul flight",
+    "meaning_zh": "长途飞行；长途航班",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅行表达"
+  },
+  {
+    "item_code": "w_043980",
+    "content": "long-lasting social effect",
+    "meaning_zh": "长期的社会影响；持久的社会效应",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见议论文搭配"
+  },
+  {
+    "item_code": "w_043988",
+    "content": "long-running play",
+    "meaning_zh": "长期上演的戏剧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见演出表达"
+  }
+]

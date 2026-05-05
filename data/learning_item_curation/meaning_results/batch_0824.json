@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_081516",
+    "content": "work climate",
+    "meaning_zh": "工作氛围；工作环境",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职场搭配"
+  },
+  {
+    "item_code": "w_081523",
+    "content": "work extra hours",
+    "meaning_zh": "加班；额外工作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见工作表达"
+  },
+  {
+    "item_code": "w_081529",
+    "content": "work hard at school",
+    "meaning_zh": "在学校努力学习",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "小学常用表达"
+  },
+  {
+    "item_code": "w_081532",
+    "content": "work independently of ...",
+    "meaning_zh": "独立于……运作；不依赖……工作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配含义明确"
+  },
+  {
+    "item_code": "w_081543",
+    "content": "work on commission",
+    "meaning_zh": "按佣金工作；靠提成工作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常见搭配"
+  },
+  {
+    "item_code": "w_081548",
+    "content": "work one's way to",
+    "meaning_zh": "通过努力逐步达到；一路努力到达",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_081560",
+    "content": "work schedule",
+    "meaning_zh": "工作日程；工作时间表",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_081567",
+    "content": "work through channels",
+    "meaning_zh": "通过正规渠道办事；按程序处理",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "习语化表达"
+  },
+  {
+    "item_code": "w_081576",
+    "content": "work your heart out",
+    "meaning_zh": "拼命工作；全力以赴",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语"
+  },
+  {
+    "item_code": "w_081578",
+    "content": "work-gnarled",
+    "meaning_zh": "因劳作而粗糙变形的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_081579",
+    "content": "work-in-progress inventory",
+    "meaning_zh": "在制品库存",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务会计术语"
+  },
+  {
+    "item_code": "w_081583",
+    "content": "work-related injuries",
+    "meaning_zh": "工伤；与工作相关的伤害",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见劳动话题"
+  },
+  {
+    "item_code": "w_081591",
+    "content": "workaround",
+    "meaning_zh": "变通方法；临时解决办法",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_081596",
+    "content": "worked",
+    "meaning_zh": "工作过；起作用；奏效",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句对应常见义"
+  },
+  {
+    "item_code": "w_081599",
+    "content": "workers' educational level analysis",
+    "meaning_zh": "工人教育水平分析",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "内容为名词短语"
+  },
+  {
+    "item_code": "w_081604",
+    "content": "workforce shortage",
+    "meaning_zh": "劳动力短缺",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会话题"
+  },
+  {
+    "item_code": "w_081613",
+    "content": "working condition",
+    "meaning_zh": "工作条件；工作环境",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见劳动搭配"
+  },
+  {
+    "item_code": "w_081618",
+    "content": "working holiday visa",
+    "meaning_zh": "打工度假签证",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "签证固定名称"
+  },
+  {
+    "item_code": "w_081621",
+    "content": "working opportunities",
+    "meaning_zh": "工作机会；就业机会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见就业表达"
+  },
+  {
+    "item_code": "w_081622",
+    "content": "working pattern",
+    "meaning_zh": "工作模式；工作方式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常见搭配"
+  }
+]

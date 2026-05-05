@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_021303",
+    "content": "dismal drizzle repress",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定含义，疑似噪声"
+  },
+  {
+    "item_code": "w_021306",
+    "content": "dismantle peep bungle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定含义，疑似噪声"
+  },
+  {
+    "item_code": "w_021314",
+    "content": "dismiss A as B",
+    "meaning_zh": "把A当作B而不予考虑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_021316",
+    "content": "dismiss interest",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_021319",
+    "content": "dismiss that possibility entirely",
+    "meaning_zh": "完全排除那种可能性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "语义清晰的短语"
+  },
+  {
+    "item_code": "w_021326",
+    "content": "Disney Cruise",
+    "meaning_zh": "迪士尼邮轮",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有品牌名称"
+  },
+  {
+    "item_code": "w_021334",
+    "content": "disordered ego",
+    "meaning_zh": "失调的自我",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "心理相关表达"
+  },
+  {
+    "item_code": "w_021348",
+    "content": "disp near bracelet",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含缩写残片，疑似噪声"
+  },
+  {
+    "item_code": "w_021352",
+    "content": "disparate doodle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配"
+  },
+  {
+    "item_code": "w_021362",
+    "content": "dispel diseases",
+    "meaning_zh": "消除疾病",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解"
+  },
+  {
+    "item_code": "w_021375",
+    "content": "dispers",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写残缺"
+  },
+  {
+    "item_code": "w_021381",
+    "content": "dispersement",
+    "meaning_zh": "支付；支出；分发",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "disbursement变体"
+  },
+  {
+    "item_code": "w_021383",
+    "content": "dispill",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见词，疑似噪声"
+  },
+  {
+    "item_code": "w_021393",
+    "content": "display clock",
+    "meaning_zh": "显示时钟",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见设备表达"
+  },
+  {
+    "item_code": "w_021394",
+    "content": "display one's deep sympathy",
+    "meaning_zh": "表达深切同情",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_021402",
+    "content": "disposable declare appeal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定含义，疑似噪声"
+  },
+  {
+    "item_code": "w_021403",
+    "content": "disposable dishware",
+    "meaning_zh": "一次性餐具",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活用品表达"
+  },
+  {
+    "item_code": "w_021406",
+    "content": "disposable paper cup",
+    "meaning_zh": "一次性纸杯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活用品表达"
+  },
+  {
+    "item_code": "w_021410",
+    "content": "disposal of harmful waste",
+    "meaning_zh": "有害废弃物的处理",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保常见表达"
+  },
+  {
+    "item_code": "w_021411",
+    "content": "disposal of hazardous waste",
+    "meaning_zh": "危险废弃物的处理",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保常见表达"
+  }
+]

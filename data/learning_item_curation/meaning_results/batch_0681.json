@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_067064",
+    "content": "skip the class",
+    "meaning_zh": "逃课；旷课",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习短语"
+  },
+  {
+    "item_code": "w_067067",
+    "content": "skirlis conditional vehement",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串难判断"
+  },
+  {
+    "item_code": "w_067076",
+    "content": "skull appendix",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_067100",
+    "content": "slack kettle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_067103",
+    "content": "slack stabilize conundrum",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串难判断"
+  },
+  {
+    "item_code": "w_067117",
+    "content": "slam punch",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明确"
+  },
+  {
+    "item_code": "w_067119",
+    "content": "slander senate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_067126",
+    "content": "slap slide",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明确"
+  },
+  {
+    "item_code": "w_067135",
+    "content": "slate incessant retrench",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串难判断"
+  },
+  {
+    "item_code": "w_067140",
+    "content": "slaughter larynx",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_067160",
+    "content": "sled rides",
+    "meaning_zh": "乘雪橇；雪橇游玩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见活动表达"
+  },
+  {
+    "item_code": "w_067166",
+    "content": "sleep asleep",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "重复近义噪声"
+  },
+  {
+    "item_code": "w_067177",
+    "content": "sleeper bus",
+    "meaning_zh": "卧铺巴士；卧铺客车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见交通词组"
+  },
+  {
+    "item_code": "w_067186",
+    "content": "sleeping schedule",
+    "meaning_zh": "睡眠时间表；睡眠作息",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_067196",
+    "content": "sleeve t shirt",
+    "meaning_zh": "有袖T恤",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "服装搭配可理解"
+  },
+  {
+    "item_code": "w_067198",
+    "content": "sleeved garments",
+    "meaning_zh": "有袖服装",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "服装类常见表达"
+  },
+  {
+    "item_code": "w_067200",
+    "content": "sleeveless garments",
+    "meaning_zh": "无袖服装",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "服装类常见表达"
+  },
+  {
+    "item_code": "w_067201",
+    "content": "sleeveless sling",
+    "meaning_zh": "无袖吊带衫；无袖吊带",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "服装语境可判断"
+  },
+  {
+    "item_code": "w_067209",
+    "content": "slew glacial hidebound",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串难判断"
+  },
+  {
+    "item_code": "w_067212",
+    "content": "slice gastric envy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串难判断"
+  }
+]

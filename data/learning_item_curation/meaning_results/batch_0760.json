@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_074131",
+    "content": "the West Lake",
+    "meaning_zh": "西湖",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有地名"
+  },
+  {
+    "item_code": "w_074136",
+    "content": "the World Cup",
+    "meaning_zh": "世界杯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指足球世界杯"
+  },
+  {
+    "item_code": "w_074139",
+    "content": "the World Wildlife Fund",
+    "meaning_zh": "世界自然基金会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "国际组织名称"
+  },
+  {
+    "item_code": "w_074140",
+    "content": "the World Wireless Forum",
+    "meaning_zh": "世界无线论坛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "机构或论坛名称"
+  },
+  {
+    "item_code": "w_074141",
+    "content": "the Xia Dynasty",
+    "meaning_zh": "夏朝",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "中国朝代名称"
+  },
+  {
+    "item_code": "w_074144",
+    "content": "the year to come",
+    "meaning_zh": "未来的一年；来年",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时间表达"
+  },
+  {
+    "item_code": "w_074150",
+    "content": "theater group",
+    "meaning_zh": "剧团；戏剧团体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见艺术搭配"
+  },
+  {
+    "item_code": "w_074154",
+    "content": "theatre chain",
+    "meaning_zh": "连锁影院；连锁剧院",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商业搭配"
+  },
+  {
+    "item_code": "w_074155",
+    "content": "theatre empire",
+    "meaning_zh": "剧院帝国；影院商业帝国",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "比喻性商业表达"
+  },
+  {
+    "item_code": "w_074156",
+    "content": "theatre fan",
+    "meaning_zh": "戏剧迷；剧院爱好者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见人物搭配"
+  },
+  {
+    "item_code": "w_074157",
+    "content": "Theatre Royal",
+    "meaning_zh": "皇家剧院",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见剧院名称"
+  },
+  {
+    "item_code": "w_074160",
+    "content": "theatrical art",
+    "meaning_zh": "戏剧艺术",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_074164",
+    "content": "theatrical text",
+    "meaning_zh": "戏剧文本；剧本文本",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文学研究搭配"
+  },
+  {
+    "item_code": "w_074187",
+    "content": "theocrist",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_074199",
+    "content": "theoretical exploration",
+    "meaning_zh": "理论探索",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_074202",
+    "content": "theoretical magazine",
+    "meaning_zh": "理论性杂志；理论刊物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "出版物搭配"
+  },
+  {
+    "item_code": "w_074210",
+    "content": "theory chapters",
+    "meaning_zh": "理论章节",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "书籍结构表达"
+  },
+  {
+    "item_code": "w_074213",
+    "content": "therago",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_074215",
+    "content": "therapeutic approach",
+    "meaning_zh": "治疗方法；治疗途径",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学常见搭配"
+  },
+  {
+    "item_code": "w_074216",
+    "content": "therapeutic conviction",
+    "meaning_zh": "治疗信念；疗效信念",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学心理语境搭配"
+  }
+]

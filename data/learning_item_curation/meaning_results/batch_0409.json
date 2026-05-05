@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_039096",
+    "content": "innocent emphasis",
+    "meaning_zh": "无恶意的强调",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不常见"
+  },
+  {
+    "item_code": "w_039101",
+    "content": "innocuous screen condone",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词堆叠无固定义"
+  },
+  {
+    "item_code": "w_039104",
+    "content": "innovation and competition",
+    "meaning_zh": "创新与竞争",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_039107",
+    "content": "innovative and entrepreneurial talent",
+    "meaning_zh": "创新创业人才",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "考研常见表达"
+  },
+  {
+    "item_code": "w_039129",
+    "content": "input in education",
+    "meaning_zh": "教育投入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育主题常用搭配"
+  },
+  {
+    "item_code": "w_039142",
+    "content": "inquiry accommodation",
+    "meaning_zh": "住宿咨询",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "留学住宿语境"
+  },
+  {
+    "item_code": "w_039145",
+    "content": "inquisitive phase",
+    "meaning_zh": "好奇阶段；求知阶段",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作描述性短语"
+  },
+  {
+    "item_code": "w_039154",
+    "content": "insane steroid",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常含义不明"
+  },
+  {
+    "item_code": "w_039172",
+    "content": "insect museum",
+    "meaning_zh": "昆虫博物馆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "小学主题名词短语"
+  },
+  {
+    "item_code": "w_039176",
+    "content": "insecticide parish",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无固定义"
+  },
+  {
+    "item_code": "w_039187",
+    "content": "insensible eccentric diverge",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "三词堆叠无固定义"
+  },
+  {
+    "item_code": "w_039194",
+    "content": "insert a card",
+    "meaning_zh": "插入一张卡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见操作表达"
+  },
+  {
+    "item_code": "w_039195",
+    "content": "insert one's card",
+    "meaning_zh": "插入自己的卡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见操作表达"
+  },
+  {
+    "item_code": "w_039196",
+    "content": "insert the card",
+    "meaning_zh": "插入这张卡；插卡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见操作表达"
+  },
+  {
+    "item_code": "w_039206",
+    "content": "inside front",
+    "meaning_zh": "内侧前部；封面内侧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见于位置或版面"
+  },
+  {
+    "item_code": "w_039228",
+    "content": "insist insecure",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "两词组合不成义"
+  },
+  {
+    "item_code": "w_039238",
+    "content": "insistently lengthy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常含义不明"
+  },
+  {
+    "item_code": "w_039246",
+    "content": "insolent feudal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "形容词堆叠无固定义"
+  },
+  {
+    "item_code": "w_039259",
+    "content": "inspect purchase credit",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词拼接含义不明"
+  },
+  {
+    "item_code": "w_039260",
+    "content": "inspect sth. for sth.",
+    "meaning_zh": "检查某物是否有某问题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_037963",
+    "content": "in the quest for",
+    "meaning_zh": "为了寻求；在追求……过程中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定介词短语"
+  },
+  {
+    "item_code": "w_037972",
+    "content": "in the running for",
+    "meaning_zh": "有望获得；参与角逐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_037973",
+    "content": "in the saddle",
+    "meaning_zh": "掌权；处于控制地位；骑在马鞍上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "含惯用义和本义"
+  },
+  {
+    "item_code": "w_037978",
+    "content": "in the search of",
+    "meaning_zh": "在寻找……的过程中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达不如in search of常见"
+  },
+  {
+    "item_code": "w_037984",
+    "content": "in the short",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "表达不完整"
+  },
+  {
+    "item_code": "w_037997",
+    "content": "in the twilight",
+    "meaning_zh": "在暮色中；在衰退期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作字面或比喻"
+  },
+  {
+    "item_code": "w_038007",
+    "content": "in the workplace",
+    "meaning_zh": "在工作场所；在职场中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见场景短语"
+  },
+  {
+    "item_code": "w_038014",
+    "content": "in this circumstance",
+    "meaning_zh": "在这种情况下",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "语境条件表达"
+  },
+  {
+    "item_code": "w_038019",
+    "content": "in this sense",
+    "meaning_zh": "从这个意义上说",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见论述表达"
+  },
+  {
+    "item_code": "w_038033",
+    "content": "in trouble with",
+    "meaning_zh": "与……有麻烦；因……惹上麻烦",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持该义"
+  },
+  {
+    "item_code": "w_038039",
+    "content": "in two minutes",
+    "meaning_zh": "两分钟后；在两分钟内",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时间短语"
+  },
+  {
+    "item_code": "w_038040",
+    "content": "in two years' time",
+    "meaning_zh": "两年后；两年时间内",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时间表达"
+  },
+  {
+    "item_code": "w_038043",
+    "content": "in vast numbers",
+    "meaning_zh": "大量地；数量庞大地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "数量表达明确"
+  },
+  {
+    "item_code": "w_038050",
+    "content": "in virtuous directions",
+    "meaning_zh": "朝良性方向；向有益方向",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配少见但可判断"
+  },
+  {
+    "item_code": "w_038055",
+    "content": "in volumes",
+    "meaning_zh": "大量地；成卷地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义依语境变化"
+  },
+  {
+    "item_code": "w_038058",
+    "content": "in weight",
+    "meaning_zh": "在重量上；按重量计算",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "度量表达明确"
+  },
+  {
+    "item_code": "w_038059",
+    "content": "in whispers",
+    "meaning_zh": "低声地；窃窃私语地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "方式状语短语"
+  },
+  {
+    "item_code": "w_038060",
+    "content": "in word order",
+    "meaning_zh": "在词序上；按词序",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语法术语搭配"
+  },
+  {
+    "item_code": "w_038064",
+    "content": "in your bones",
+    "meaning_zh": "凭直觉深知；深切感到",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语表达"
+  },
+  {
+    "item_code": "w_038072",
+    "content": "in-depth exploration",
+    "meaning_zh": "深入探索；深入研究",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_071057",
+    "content": "summer and winter holidays",
+    "meaning_zh": "寒暑假",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见假期表达"
+  },
+  {
+    "item_code": "w_071060",
+    "content": "Summer Davos Forum",
+    "meaning_zh": "夏季达沃斯论坛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有会议名称"
+  },
+  {
+    "item_code": "w_071062",
+    "content": "summer internship",
+    "meaning_zh": "暑期实习",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  },
+  {
+    "item_code": "w_071063",
+    "content": "Summer Olympics",
+    "meaning_zh": "夏季奥运会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有赛事名称"
+  },
+  {
+    "item_code": "w_071067",
+    "content": "summer school program",
+    "meaning_zh": "暑期学校项目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教育项目"
+  },
+  {
+    "item_code": "w_071078",
+    "content": "summit steno intend",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无明确含义"
+  },
+  {
+    "item_code": "w_071084",
+    "content": "sumptuary",
+    "meaning_zh": "限制奢侈消费的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "正式词汇含义明确"
+  },
+  {
+    "item_code": "w_071087",
+    "content": "sumptuous princess quinzy auditorium",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声组合"
+  },
+  {
+    "item_code": "w_071090",
+    "content": "sun bath",
+    "meaning_zh": "日光浴",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "应为sunbath表达"
+  },
+  {
+    "item_code": "w_071094",
+    "content": "sun mass",
+    "meaning_zh": "太阳质量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "天文学相关表达"
+  },
+  {
+    "item_code": "w_071095",
+    "content": "Sun Moon Lake",
+    "meaning_zh": "日月潭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持地名"
+  },
+  {
+    "item_code": "w_071096",
+    "content": "sun position",
+    "meaning_zh": "太阳位置",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见描述表达"
+  },
+  {
+    "item_code": "w_071097",
+    "content": "sun protuberant",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_071115",
+    "content": "sunburn sunscreen toner",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词表残片组合"
+  },
+  {
+    "item_code": "w_071122",
+    "content": "Sunday-school lesson",
+    "meaning_zh": "主日学校课程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "宗教教育术语"
+  },
+  {
+    "item_code": "w_071124",
+    "content": "sunder summit",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无明确含义"
+  },
+  {
+    "item_code": "w_071126",
+    "content": "sundile",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_071137",
+    "content": "sunlight-refracting",
+    "meaning_zh": "折射阳光的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_071154",
+    "content": "suntan air",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配无可靠含义"
+  },
+  {
+    "item_code": "w_071155",
+    "content": "suntan block",
+    "meaning_zh": "防晒霜",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "近似防晒用品表达"
+  }
+]

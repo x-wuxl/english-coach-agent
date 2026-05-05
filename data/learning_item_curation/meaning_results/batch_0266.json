@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_025299",
+    "content": "establish a regular procedure",
+    "meaning_zh": "建立常规程序",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_025300",
+    "content": "establish a relationship",
+    "meaning_zh": "建立关系",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_025301",
+    "content": "establish a reputation as",
+    "meaning_zh": "树立作为……的声誉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_025302",
+    "content": "establish itself",
+    "meaning_zh": "站稳脚跟；确立地位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见反身用法"
+  },
+  {
+    "item_code": "w_025307",
+    "content": "established convention",
+    "meaning_zh": "既定惯例",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_025312",
+    "content": "estate furnished",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_025315",
+    "content": "esteem choreography investigator",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似随机拼接"
+  },
+  {
+    "item_code": "w_025316",
+    "content": "esteem montage",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配无明确含义"
+  },
+  {
+    "item_code": "w_025326",
+    "content": "estigmatism",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_025328",
+    "content": "estimable diversity",
+    "meaning_zh": "值得赞赏的多样性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义可判断"
+  },
+  {
+    "item_code": "w_025331",
+    "content": "estimated demand",
+    "meaning_zh": "预估需求",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常用搭配"
+  },
+  {
+    "item_code": "w_025356",
+    "content": "eternal insentiant",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配无明确含义"
+  },
+  {
+    "item_code": "w_025369",
+    "content": "ethic authoritative insert",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似随机拼接"
+  },
+  {
+    "item_code": "w_025371",
+    "content": "ethical persuasion",
+    "meaning_zh": "道德劝说；伦理说服",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义可判断"
+  },
+  {
+    "item_code": "w_025372",
+    "content": "ethical preoccupy idiom",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "语法和搭配异常"
+  },
+  {
+    "item_code": "w_025378",
+    "content": "ethics of drug promotion",
+    "meaning_zh": "药品推广伦理",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "主题短语明确"
+  },
+  {
+    "item_code": "w_025387",
+    "content": "ethnic persecution",
+    "meaning_zh": "民族迫害；族群迫害",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会议题表达"
+  },
+  {
+    "item_code": "w_025389",
+    "content": "ethnic style",
+    "meaning_zh": "民族风格",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_025391",
+    "content": "ethnical dermatology",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_025419",
+    "content": "etiquette engineer",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配无明确含义"
+  }
+]

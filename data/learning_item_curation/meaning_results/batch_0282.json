@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_026706",
+    "content": "fake acquaint",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_026707",
+    "content": "fake and inferior product",
+    "meaning_zh": "假冒伪劣产品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_026708",
+    "content": "fake and inferior products",
+    "meaning_zh": "假冒伪劣产品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_026709",
+    "content": "fake app",
+    "meaning_zh": "假冒应用；虚假应用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "网络安全常见搭配"
+  },
+  {
+    "item_code": "w_026710",
+    "content": "fake certificate",
+    "meaning_zh": "假证书；伪造证书",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_026712",
+    "content": "fake diploma",
+    "meaning_zh": "假文凭；伪造文凭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_026713",
+    "content": "fake invoice",
+    "meaning_zh": "假发票；伪造发票",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_026714",
+    "content": "fake mortgage",
+    "meaning_zh": "虚假抵押贷款；假按揭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "金融语境可判断"
+  },
+  {
+    "item_code": "w_026718",
+    "content": "fake specialists",
+    "meaning_zh": "假专家；冒牌专家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_026721",
+    "content": "faking",
+    "meaning_zh": "假装；伪造",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句体现假装义"
+  },
+  {
+    "item_code": "w_026734",
+    "content": "fall deformity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_026744",
+    "content": "fall into a category",
+    "meaning_zh": "归入某一类别；属于某类",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_026747",
+    "content": "fall into one's concern",
+    "meaning_zh": "属于某人关心或职责范围",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "近似固定表达"
+  },
+  {
+    "item_code": "w_026750",
+    "content": "fall into the category",
+    "meaning_zh": "属于这一类别；归入该类",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_026751",
+    "content": "fall into the habit",
+    "meaning_zh": "养成某种习惯；染上习惯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_026772",
+    "content": "fall victim of",
+    "meaning_zh": "成为……的受害者；遭受……之害",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_026773",
+    "content": "fall victim of ...",
+    "meaning_zh": "成为……的受害者；遭受……之害",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "省略号不影响含义"
+  },
+  {
+    "item_code": "w_026778",
+    "content": "fallen victim of bias",
+    "meaning_zh": "成为偏见的受害者；受偏见影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达具体化"
+  },
+  {
+    "item_code": "w_026791",
+    "content": "false impose indicator",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_026793",
+    "content": "false precision",
+    "meaning_zh": "虚假精确；过度精确",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "统计写作常见术语"
+  }
+]

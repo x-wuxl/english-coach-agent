@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_051785",
+    "content": "on the weaker side",
+    "meaning_zh": "偏弱；处于较弱一方",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语整体含义"
+  },
+  {
+    "item_code": "w_051788",
+    "content": "on the winning side",
+    "meaning_zh": "站在获胜一方；处于优势方",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语搭配"
+  },
+  {
+    "item_code": "w_051789",
+    "content": "on the wrong planet",
+    "meaning_zh": "格格不入；完全不合环境",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "比喻性表达"
+  },
+  {
+    "item_code": "w_051799",
+    "content": "on two occasions",
+    "meaning_zh": "两次；在两个场合",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时间短语"
+  },
+  {
+    "item_code": "w_051801",
+    "content": "on vocation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似vacation误写"
+  },
+  {
+    "item_code": "w_051808",
+    "content": "on your part",
+    "meaning_zh": "就你而言；由你负责",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_051809",
+    "content": "on your right",
+    "meaning_zh": "在你的右边；在你的右侧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "方位短语"
+  },
+  {
+    "item_code": "w_051812",
+    "content": "on-campus job fair",
+    "meaning_zh": "校园招聘会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "就业场景词组"
+  },
+  {
+    "item_code": "w_051814",
+    "content": "on-job training course",
+    "meaning_zh": "在职培训课程；岗位培训课程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "应为在职培训"
+  },
+  {
+    "item_code": "w_051819",
+    "content": "on-site recruiting",
+    "meaning_zh": "现场招聘",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "招聘场景搭配"
+  },
+  {
+    "item_code": "w_051824",
+    "content": "on-the-spot broadcasting",
+    "meaning_zh": "现场直播；现场播报",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "媒体场景搭配"
+  },
+  {
+    "item_code": "w_051826",
+    "content": "on-trend items",
+    "meaning_zh": "流行单品；时尚商品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "时尚消费搭配"
+  },
+  {
+    "item_code": "w_051828",
+    "content": "once a day",
+    "meaning_zh": "每天一次",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持"
+  },
+  {
+    "item_code": "w_051834",
+    "content": "once every four years",
+    "meaning_zh": "每四年一次",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "频率短语"
+  },
+  {
+    "item_code": "w_051835",
+    "content": "once every year",
+    "meaning_zh": "每年一次",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "频率短语"
+  },
+  {
+    "item_code": "w_051840",
+    "content": "once upon",
+    "meaning_zh": "从前；很久以前",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见于once upon a time"
+  },
+  {
+    "item_code": "w_051848",
+    "content": "oncology corporation",
+    "meaning_zh": "肿瘤学公司；肿瘤医疗公司",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学商业术语"
+  },
+  {
+    "item_code": "w_051856",
+    "content": "one behind the other",
+    "meaning_zh": "一个接一个；排成一列",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见顺序表达"
+  },
+  {
+    "item_code": "w_051857",
+    "content": "one bowl of ...",
+    "meaning_zh": "一碗……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "数量表达"
+  },
+  {
+    "item_code": "w_051862",
+    "content": "one hundred and first",
+    "meaning_zh": "第一百零一",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "序数词表达"
+  }
+]

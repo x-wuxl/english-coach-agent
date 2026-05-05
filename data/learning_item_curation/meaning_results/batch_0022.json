@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_000692",
+    "content": "a would-be lawyer",
+    "meaning_zh": "想成为律师的人；准律师",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达作整体释义"
+  },
+  {
+    "item_code": "w_000693",
+    "content": "a written application",
+    "meaning_zh": "书面申请",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见申请类搭配"
+  },
+  {
+    "item_code": "w_000694",
+    "content": "a yo-yo",
+    "meaning_zh": "悠悠球",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "小学常见名词"
+  },
+  {
+    "item_code": "w_000696",
+    "content": "A-list star",
+    "meaning_zh": "一线明星；顶级明星",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "娱乐领域固定说法"
+  },
+  {
+    "item_code": "w_000708",
+    "content": "A4 waist",
+    "meaning_zh": "A4腰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "网络流行体型说法"
+  },
+  {
+    "item_code": "w_000710",
+    "content": "aachoo",
+    "meaning_zh": "阿嚏；打喷嚏声",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "拟声词"
+  },
+  {
+    "item_code": "w_000719",
+    "content": "abandon a claim",
+    "meaning_zh": "放弃索赔；放弃主张",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务法律常见搭配"
+  },
+  {
+    "item_code": "w_000720",
+    "content": "abandon flexible ernest",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无可靠含义"
+  },
+  {
+    "item_code": "w_000722",
+    "content": "abandon oneself to doing",
+    "meaning_zh": "沉溺于做某事；纵情于做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_000724",
+    "content": "abandoned option",
+    "meaning_zh": "被放弃的选择；废弃方案",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "商务语境可理解"
+  },
+  {
+    "item_code": "w_000728",
+    "content": "abans",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词"
+  },
+  {
+    "item_code": "w_000729",
+    "content": "abarred",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_000730",
+    "content": "abart",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词"
+  },
+  {
+    "item_code": "w_000731",
+    "content": "abart dock canal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无可靠含义"
+  },
+  {
+    "item_code": "w_000742",
+    "content": "abbreviate duplicity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_000749",
+    "content": "abdomen adaptation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配无教学价值"
+  },
+  {
+    "item_code": "w_000757",
+    "content": "aberitum",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词"
+  },
+  {
+    "item_code": "w_000761",
+    "content": "abet a crime",
+    "meaning_zh": "教唆犯罪；协助犯罪",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律常见搭配"
+  },
+  {
+    "item_code": "w_000763",
+    "content": "abeyance surmount",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_000770",
+    "content": "abide by one's commitment",
+    "meaning_zh": "信守承诺；履行承诺",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常见表达"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_043359",
+    "content": "limp hackneed",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_043361",
+    "content": "limpid varigated",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_043368",
+    "content": "Lindbrow",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似专名或噪声"
+  },
+  {
+    "item_code": "w_043374",
+    "content": "line angle edge",
+    "meaning_zh": "线、角、边",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "几何基础词组合"
+  },
+  {
+    "item_code": "w_043375",
+    "content": "line ball",
+    "meaning_zh": "压线球",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见运动术语"
+  },
+  {
+    "item_code": "w_043389",
+    "content": "line-grained",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_043405",
+    "content": "linement",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_043407",
+    "content": "linen bargain",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_043408",
+    "content": "linen fabrics",
+    "meaning_zh": "亚麻织物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见材料搭配"
+  },
+  {
+    "item_code": "w_043410",
+    "content": "liner perspective",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似linear拼错"
+  },
+  {
+    "item_code": "w_043412",
+    "content": "lines of current",
+    "meaning_zh": "电流线；水流线",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "物理常见表达"
+  },
+  {
+    "item_code": "w_043421",
+    "content": "lingerie plad",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_043429",
+    "content": "linguistic and numerical abilities",
+    "meaning_zh": "语言和数字能力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_043430",
+    "content": "linguistic diversity",
+    "meaning_zh": "语言多样性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_043431",
+    "content": "linguistic implication",
+    "meaning_zh": "语言学含义；语言方面的影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_043432",
+    "content": "linguistic knowledge",
+    "meaning_zh": "语言知识；语言学知识",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_043435",
+    "content": "linguistically diverse student",
+    "meaning_zh": "语言背景多元的学生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育语境常见"
+  },
+  {
+    "item_code": "w_043442",
+    "content": "link A to B",
+    "meaning_zh": "把A与B联系起来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型"
+  },
+  {
+    "item_code": "w_043443",
+    "content": "link method",
+    "meaning_zh": "连接法；联想记忆法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "方法类搭配"
+  },
+  {
+    "item_code": "w_043451",
+    "content": "linker",
+    "meaning_zh": "链接器；连接物",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语常见"
+  }
+]

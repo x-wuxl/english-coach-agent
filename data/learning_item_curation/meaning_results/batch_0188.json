@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_017390",
+    "content": "costic coda",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误或噪声"
+  },
+  {
+    "item_code": "w_017400",
+    "content": "costume knitwear",
+    "meaning_zh": "针织服装",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "服装类搭配"
+  },
+  {
+    "item_code": "w_017408",
+    "content": "cottisol",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似cortisol拼写错误"
+  },
+  {
+    "item_code": "w_017409",
+    "content": "cottle",
+    "meaning_zh": "制模围框；围板",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "冷门工艺术语"
+  },
+  {
+    "item_code": "w_017412",
+    "content": "cotton country",
+    "meaning_zh": "棉花产区；产棉国",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见农业地理表达"
+  },
+  {
+    "item_code": "w_017417",
+    "content": "cotton wall",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似cotton wool误写"
+  },
+  {
+    "item_code": "w_017421",
+    "content": "cottosall",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法识别的噪声词"
+  },
+  {
+    "item_code": "w_017423",
+    "content": "couch on",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定表达"
+  },
+  {
+    "item_code": "w_017431",
+    "content": "cough temperature flu",
+    "meaning_zh": "咳嗽、发烧和流感",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "词串堆砌非搭配"
+  },
+  {
+    "item_code": "w_017438",
+    "content": "could do worse than",
+    "meaning_zh": "不妨；做……也不错",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_017443",
+    "content": "could yet do",
+    "meaning_zh": "仍有可能做；最终可能会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "情态动词搭配"
+  },
+  {
+    "item_code": "w_017445",
+    "content": "couldn't be more",
+    "meaning_zh": "再……不过了；极其……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "强调性固定句式"
+  },
+  {
+    "item_code": "w_017447",
+    "content": "couldn't help doing",
+    "meaning_zh": "忍不住做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "高频固定表达"
+  },
+  {
+    "item_code": "w_017453",
+    "content": "council delinquent reference",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串无明确含义"
+  },
+  {
+    "item_code": "w_017454",
+    "content": "council erosion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_017462",
+    "content": "counseling session",
+    "meaning_zh": "咨询辅导课；心理咨询时段",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教育心理搭配"
+  },
+  {
+    "item_code": "w_017489",
+    "content": "countdown gala",
+    "meaning_zh": "倒计时庆典；跨年晚会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "活动类常见搭配"
+  },
+  {
+    "item_code": "w_017490",
+    "content": "countdown party",
+    "meaning_zh": "倒计时派对；跨年派对",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "活动类常见搭配"
+  },
+  {
+    "item_code": "w_017495",
+    "content": "counter shopkeeper",
+    "meaning_zh": "柜台店主；柜台售货员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "零售场景搭配"
+  },
+  {
+    "item_code": "w_017506",
+    "content": "counter-terrorism unit",
+    "meaning_zh": "反恐部队；反恐单位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "安全领域固定搭配"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_052563",
+    "content": "ot",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写残片无法判断"
+  },
+  {
+    "item_code": "w_052564",
+    "content": "otarchy",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_052568",
+    "content": "other relevant industries",
+    "meaning_zh": "其他相关行业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_052574",
+    "content": "otherwise-stay-at-home",
+    "meaning_zh": "本来会待在家里的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "复合形容词表达"
+  },
+  {
+    "item_code": "w_052583",
+    "content": "otterkey",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词"
+  },
+  {
+    "item_code": "w_052584",
+    "content": "otto",
+    "meaning_zh": "奥托；香精油",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "人名或罕见名词"
+  },
+  {
+    "item_code": "w_052590",
+    "content": "ought to have done",
+    "meaning_zh": "本应该做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见语法结构"
+  },
+  {
+    "item_code": "w_052597",
+    "content": "ous",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "后缀残片价值低"
+  },
+  {
+    "item_code": "w_052599",
+    "content": "oust atrocious",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_052602",
+    "content": "out from curiosity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "表达不自然"
+  },
+  {
+    "item_code": "w_052606",
+    "content": "out of account",
+    "meaning_zh": "不予考虑；忽略",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定搭配较少见"
+  },
+  {
+    "item_code": "w_052634",
+    "content": "out of my expectation",
+    "meaning_zh": "出乎我的意料",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_052639",
+    "content": "out of one's reach",
+    "meaning_zh": "够不着；力所不及",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_052640",
+    "content": "out of one's sight",
+    "meaning_zh": "在某人视线之外",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_052647",
+    "content": "out of prison",
+    "meaning_zh": "出狱；在监狱外",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_052652",
+    "content": "out of respect",
+    "meaning_zh": "出于尊重",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_052653",
+    "content": "out of scale",
+    "meaning_zh": "比例失调；不按比例",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配含义明确"
+  },
+  {
+    "item_code": "w_052654",
+    "content": "out of scale with",
+    "meaning_zh": "与……不成比例",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定搭配变体"
+  },
+  {
+    "item_code": "w_052659",
+    "content": "out of spite",
+    "meaning_zh": "出于恶意；为泄愤",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_052679",
+    "content": "out patient cargo",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  }
+]

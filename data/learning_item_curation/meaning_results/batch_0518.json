@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_050202",
+    "content": "non-environmental factor",
+    "meaning_zh": "非环境因素",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_050204",
+    "content": "non-explosive lava flow",
+    "meaning_zh": "非爆炸性熔岩流",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地质学术语"
+  },
+  {
+    "item_code": "w_050206",
+    "content": "non-fossil-based",
+    "meaning_zh": "非化石来源的；非化石燃料的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_050216",
+    "content": "non-isochroous",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "拼写疑似错误"
+  },
+  {
+    "item_code": "w_050220",
+    "content": "non-mainstream culture",
+    "meaning_zh": "非主流文化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见文化表达"
+  },
+  {
+    "item_code": "w_050221",
+    "content": "non-material cultural heritage",
+    "meaning_zh": "非物质文化遗产",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定文化术语"
+  },
+  {
+    "item_code": "w_050224",
+    "content": "non-native organisms",
+    "meaning_zh": "外来生物；非本地生物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态学常用搭配"
+  },
+  {
+    "item_code": "w_050225",
+    "content": "non-native predator",
+    "meaning_zh": "外来捕食者；非本地捕食动物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态学搭配"
+  },
+  {
+    "item_code": "w_050229",
+    "content": "non-ostentatiously",
+    "meaning_zh": "不炫耀地；不张扬地",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "派生副词较少见"
+  },
+  {
+    "item_code": "w_050235",
+    "content": "non-profit group",
+    "meaning_zh": "非营利组织",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会组织表达"
+  },
+  {
+    "item_code": "w_050236",
+    "content": "non-profit work",
+    "meaning_zh": "非营利工作；公益工作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见工作类型"
+  },
+  {
+    "item_code": "w_050238",
+    "content": "non-profitable ads",
+    "meaning_zh": "非营利广告；公益广告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达不如non-profit常见"
+  },
+  {
+    "item_code": "w_050249",
+    "content": "non-soakage",
+    "meaning_zh": "不渗漏；防渗",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术语境可判断"
+  },
+  {
+    "item_code": "w_050256",
+    "content": "non-stop train",
+    "meaning_zh": "直达列车；不停站列车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见交通表达"
+  },
+  {
+    "item_code": "w_050263",
+    "content": "non-verbal-leakage",
+    "meaning_zh": "非语言泄露",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "心理沟通术语"
+  },
+  {
+    "item_code": "w_050276",
+    "content": "noncash payment instruments",
+    "meaning_zh": "非现金支付工具",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融常用术语"
+  },
+  {
+    "item_code": "w_050294",
+    "content": "nondescript sedu",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含疑似噪声词"
+  },
+  {
+    "item_code": "w_050295",
+    "content": "nondestructive evaluation technique",
+    "meaning_zh": "无损评估技术；无损检测技术",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "工程技术术语"
+  },
+  {
+    "item_code": "w_050307",
+    "content": "none of one's business",
+    "meaning_zh": "不关某人的事；与某人无关",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_050319",
+    "content": "nonet",
+    "meaning_zh": "九重奏；九人组合",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "音乐术语"
+  }
+]

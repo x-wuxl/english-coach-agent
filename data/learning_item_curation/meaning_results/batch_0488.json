@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_046791",
+    "content": "metal lapse grandeur",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合无可靠含义"
+  },
+  {
+    "item_code": "w_046792",
+    "content": "metal neutralize",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然且无例句"
+  },
+  {
+    "item_code": "w_046794",
+    "content": "metal tags",
+    "meaning_zh": "金属标签；金属牌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_046796",
+    "content": "metal-frame construction",
+    "meaning_zh": "金属框架结构；金属框架建筑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "建筑类固定表达"
+  },
+  {
+    "item_code": "w_046800",
+    "content": "metallic coins",
+    "meaning_zh": "金属硬币",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_046802",
+    "content": "metallic content",
+    "meaning_zh": "金属含量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "材料类常见表达"
+  },
+  {
+    "item_code": "w_046803",
+    "content": "metallic elimination",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不常见且无语境"
+  },
+  {
+    "item_code": "w_046811",
+    "content": "metallurgical skill",
+    "meaning_zh": "冶金技术；冶金技能",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专业领域短语"
+  },
+  {
+    "item_code": "w_046819",
+    "content": "metamorphos",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写残缺"
+  },
+  {
+    "item_code": "w_046820",
+    "content": "metamorphos embezzle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_046832",
+    "content": "metaprogramming",
+    "meaning_zh": "元编程",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_046842",
+    "content": "mete out a punishment",
+    "meaning_zh": "施以惩罚；给予处罚",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词短语"
+  },
+  {
+    "item_code": "w_046860",
+    "content": "metered pricing system",
+    "meaning_zh": "计量收费系统；按用量计价系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商业计费表达"
+  },
+  {
+    "item_code": "w_046875",
+    "content": "method resolution order",
+    "meaning_zh": "方法解析顺序",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程术语"
+  },
+  {
+    "item_code": "w_046877",
+    "content": "methodical convalesce",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词性搭配不成立"
+  },
+  {
+    "item_code": "w_046884",
+    "content": "methodology persevere",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合无可靠含义"
+  },
+  {
+    "item_code": "w_046902",
+    "content": "meticulous perfume worship",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似随机词组"
+  },
+  {
+    "item_code": "w_046910",
+    "content": "metric ruler",
+    "meaning_zh": "公制尺；米制尺",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习词组"
+  },
+  {
+    "item_code": "w_046923",
+    "content": "metropolitan comment",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然且无语境"
+  },
+  {
+    "item_code": "w_046931",
+    "content": "Mexico City subway",
+    "meaning_zh": "墨西哥城地铁",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地名交通短语"
+  }
+]

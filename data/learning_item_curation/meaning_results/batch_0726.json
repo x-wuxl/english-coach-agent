@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_071570",
+    "content": "swallow suck",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_071575",
+    "content": "swamp whistle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义不可靠"
+  },
+  {
+    "item_code": "w_071589",
+    "content": "swarm exchange",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_071598",
+    "content": "swave",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_071599",
+    "content": "swavity",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_071601",
+    "content": "sway engage diversity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组结构混乱"
+  },
+  {
+    "item_code": "w_071602",
+    "content": "sway the body",
+    "meaning_zh": "摇摆身体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动作表达"
+  },
+  {
+    "item_code": "w_071606",
+    "content": "swear diatribe",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_071609",
+    "content": "swear sb. in",
+    "meaning_zh": "使某人宣誓就职；使某人宣誓作证",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语动词"
+  },
+  {
+    "item_code": "w_071615",
+    "content": "sweat allergy",
+    "meaning_zh": "汗液过敏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见医学表达"
+  },
+  {
+    "item_code": "w_071616",
+    "content": "sweat like pigs",
+    "meaning_zh": "汗流浃背；大汗淋漓",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "习语变体"
+  },
+  {
+    "item_code": "w_071619",
+    "content": "sweater chain",
+    "meaning_zh": "毛衣链",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "服饰配饰用语"
+  },
+  {
+    "item_code": "w_071620",
+    "content": "sweater jeans",
+    "meaning_zh": "毛衣和牛仔裤",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "服装搭配表达"
+  },
+  {
+    "item_code": "w_071640",
+    "content": "sweep the nation",
+    "meaning_zh": "风靡全国；席卷全国",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_071645",
+    "content": "sweeping prohibition",
+    "meaning_zh": "全面禁令；一刀切的禁止",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政策表达"
+  },
+  {
+    "item_code": "w_071648",
+    "content": "sweet aviary beg",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组结构混乱"
+  },
+  {
+    "item_code": "w_071650",
+    "content": "sweet contagious",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然搭配"
+  },
+  {
+    "item_code": "w_071652",
+    "content": "sweet dumpling",
+    "meaning_zh": "汤圆；甜馅饺子",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见食品表达"
+  },
+  {
+    "item_code": "w_071653",
+    "content": "sweet fruit",
+    "meaning_zh": "甜水果",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_071657",
+    "content": "sweet pudding",
+    "meaning_zh": "甜布丁；甜点布丁",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见食品表达"
+  }
+]

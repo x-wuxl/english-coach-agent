@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_038575",
+    "content": "indoor air pollutant",
+    "meaning_zh": "室内空气污染物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环境类常见术语"
+  },
+  {
+    "item_code": "w_038577",
+    "content": "indoor air quality problem",
+    "meaning_zh": "室内空气质量问题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环境类常见表达"
+  },
+  {
+    "item_code": "w_038578",
+    "content": "indoor condition",
+    "meaning_zh": "室内环境；室内条件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "按整体搭配释义"
+  },
+  {
+    "item_code": "w_038579",
+    "content": "indoor outdoor field",
+    "meaning_zh": "室内外场地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配略生硬"
+  },
+  {
+    "item_code": "w_038584",
+    "content": "indoors outdoors",
+    "meaning_zh": "在室内和室外",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "并列副词短语"
+  },
+  {
+    "item_code": "w_038589",
+    "content": "induce child prostitution",
+    "meaning_zh": "诱使儿童卖淫",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律犯罪类表达"
+  },
+  {
+    "item_code": "w_038590",
+    "content": "induced attraction",
+    "meaning_zh": "诱导吸引；感应吸引",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑似专业术语"
+  },
+  {
+    "item_code": "w_038618",
+    "content": "industrial crash",
+    "meaning_zh": "工业事故；工业崩溃",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境不足"
+  },
+  {
+    "item_code": "w_038621",
+    "content": "industrial dust discharge",
+    "meaning_zh": "工业粉尘排放",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保类固定表达"
+  },
+  {
+    "item_code": "w_038622",
+    "content": "industrial fumes",
+    "meaning_zh": "工业废气；工业烟气",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保类常见搭配"
+  },
+  {
+    "item_code": "w_038625",
+    "content": "industrial output falls",
+    "meaning_zh": "工业产出下降",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济报道常见表达"
+  },
+  {
+    "item_code": "w_038632",
+    "content": "industrial solid wastes",
+    "meaning_zh": "工业固体废物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保类固定术语"
+  },
+  {
+    "item_code": "w_038642",
+    "content": "industrialization process",
+    "meaning_zh": "工业化进程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常见搭配"
+  },
+  {
+    "item_code": "w_038647",
+    "content": "industrious and economical",
+    "meaning_zh": "勤劳节俭的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "并列形容词短语"
+  },
+  {
+    "item_code": "w_038648",
+    "content": "industrious vicinity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_038649",
+    "content": "industrious worldly encompass",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌噪声"
+  },
+  {
+    "item_code": "w_038652",
+    "content": "industry of windfall profits",
+    "meaning_zh": "暴利行业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "中文式搭配可判断"
+  },
+  {
+    "item_code": "w_038658",
+    "content": "ineffable judicious assail",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌噪声"
+  },
+  {
+    "item_code": "w_038670",
+    "content": "inelectable",
+    "meaning_zh": "不能当选的；不适合参选的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治选举类形容词"
+  },
+  {
+    "item_code": "w_038671",
+    "content": "inelectable barefaced",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌噪声"
+  }
+]

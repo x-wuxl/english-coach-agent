@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_045014",
+    "content": "make a U-turn",
+    "meaning_zh": "掉头；急转弯；彻底改变立场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  },
+  {
+    "item_code": "w_045015",
+    "content": "make a video call",
+    "meaning_zh": "打视频电话",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用搭配"
+  },
+  {
+    "item_code": "w_045016",
+    "content": "make a wise choice",
+    "meaning_zh": "作出明智的选择",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用搭配"
+  },
+  {
+    "item_code": "w_045019",
+    "content": "make a worthwhile contribution",
+    "meaning_zh": "作出有价值的贡献",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用搭配"
+  },
+  {
+    "item_code": "w_045027",
+    "content": "make an abstract of",
+    "meaning_zh": "为……作摘要；摘录……的要点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常用表达"
+  },
+  {
+    "item_code": "w_045029",
+    "content": "make an analogy between",
+    "meaning_zh": "在……之间作类比",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_045033",
+    "content": "make an application",
+    "meaning_zh": "提出申请；提交申请",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用搭配"
+  },
+  {
+    "item_code": "w_045045",
+    "content": "make an important distinction",
+    "meaning_zh": "作出重要区分",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常用表达"
+  },
+  {
+    "item_code": "w_045054",
+    "content": "make better use of",
+    "meaning_zh": "更好地利用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句吻合"
+  },
+  {
+    "item_code": "w_045055",
+    "content": "make bids for",
+    "meaning_zh": "为……出价；争取获得……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常用搭配"
+  },
+  {
+    "item_code": "w_045056",
+    "content": "make book on sth.",
+    "meaning_zh": "就某事接受下注；预测某事结果",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "较少见习语"
+  },
+  {
+    "item_code": "w_045058",
+    "content": "make cat-calls",
+    "meaning_zh": "发嘘声；喝倒彩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_045061",
+    "content": "make chin music",
+    "meaning_zh": "闲聊；喋喋不休",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "口语习语"
+  },
+  {
+    "item_code": "w_045062",
+    "content": "make choices",
+    "meaning_zh": "作出选择",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用搭配"
+  },
+  {
+    "item_code": "w_045069",
+    "content": "make concessions to",
+    "meaning_zh": "向……让步；对……作出妥协",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_045070",
+    "content": "make constant efforts",
+    "meaning_zh": "不断努力；持续努力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用搭配"
+  },
+  {
+    "item_code": "w_045076",
+    "content": "make contributions to doing",
+    "meaning_zh": "为做某事作出贡献",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配略生硬"
+  },
+  {
+    "item_code": "w_045079",
+    "content": "make cracks",
+    "meaning_zh": "说俏皮话；开玩笑；挖苦",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "口语表达"
+  },
+  {
+    "item_code": "w_045080",
+    "content": "make cracks about ...",
+    "meaning_zh": "拿……开玩笑；挖苦……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定口语搭配"
+  },
+  {
+    "item_code": "w_045081",
+    "content": "make decisions",
+    "meaning_zh": "作决定；作出决策",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用搭配"
+  }
+]

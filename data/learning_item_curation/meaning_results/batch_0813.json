@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_080349",
+    "content": "wears off fairly quickly",
+    "meaning_zh": "很快逐渐消退；很快失效",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词短语"
+  },
+  {
+    "item_code": "w_080354",
+    "content": "weather bad time",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "表达不完整"
+  },
+  {
+    "item_code": "w_080364",
+    "content": "weathered their own crises",
+    "meaning_zh": "经受住自身危机；渡过自己的危机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "weather作动词"
+  },
+  {
+    "item_code": "w_080375",
+    "content": "web addiction",
+    "meaning_zh": "网瘾；网络成瘾",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见网络相关短语"
+  },
+  {
+    "item_code": "w_080376",
+    "content": "web celebrities",
+    "meaning_zh": "网络红人；网红",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见复数名词短语"
+  },
+  {
+    "item_code": "w_080377",
+    "content": "web celebrity",
+    "meaning_zh": "网络红人；网红",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_080378",
+    "content": "web courses",
+    "meaning_zh": "网络课程；线上课程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育场景常见搭配"
+  },
+  {
+    "item_code": "w_080380",
+    "content": "web game",
+    "meaning_zh": "网页游戏；网络游戏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见互联网术语"
+  },
+  {
+    "item_code": "w_080381",
+    "content": "web hoax",
+    "meaning_zh": "网络骗局；网络谣言",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "hoax指骗局谣言"
+  },
+  {
+    "item_code": "w_080382",
+    "content": "web literature",
+    "meaning_zh": "网络文学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见文化术语"
+  },
+  {
+    "item_code": "w_080386",
+    "content": "web-addiction",
+    "meaning_zh": "网瘾；网络成瘾",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "连字符复合短语"
+  },
+  {
+    "item_code": "w_080388",
+    "content": "Web-page designer",
+    "meaning_zh": "网页设计师",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职业名称短语"
+  },
+  {
+    "item_code": "w_080389",
+    "content": "Web-site designer",
+    "meaning_zh": "网站设计师",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职业名称短语"
+  },
+  {
+    "item_code": "w_080402",
+    "content": "WeChat Pay",
+    "meaning_zh": "微信支付",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有支付服务名"
+  },
+  {
+    "item_code": "w_080403",
+    "content": "WeChataholics",
+    "meaning_zh": "微信控；微信成瘾者",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "仿alcoholic构词"
+  },
+  {
+    "item_code": "w_080412",
+    "content": "wedding-style registration",
+    "meaning_zh": "婚礼式登记；婚礼风格的注册",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "复合修饰短语"
+  },
+  {
+    "item_code": "w_080421",
+    "content": "weed out weeds",
+    "meaning_zh": "除掉杂草；清除无用之物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "weed out为短语动词"
+  },
+  {
+    "item_code": "w_080435",
+    "content": "weekend trip",
+    "meaning_zh": "周末旅行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅行搭配"
+  },
+  {
+    "item_code": "w_080438",
+    "content": "weekly earning",
+    "meaning_zh": "周收入；每周收入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "收入统计搭配"
+  },
+  {
+    "item_code": "w_080439",
+    "content": "weekly programme of events",
+    "meaning_zh": "每周活动安排；每周活动日程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "英式活动日程表达"
+  }
+]

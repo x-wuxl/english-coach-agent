@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_069122",
+    "content": "stable restrict",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_069127",
+    "content": "stack diagram",
+    "meaning_zh": "栈图；堆栈示意图",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_069130",
+    "content": "stade",
+    "meaning_zh": "古希腊长度单位；冰川阶段",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见专业词"
+  },
+  {
+    "item_code": "w_069135",
+    "content": "staff cuts",
+    "meaning_zh": "裁员；削减人员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职场表达"
+  },
+  {
+    "item_code": "w_069136",
+    "content": "staff guidance",
+    "meaning_zh": "员工指导；工作人员指引",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见管理搭配"
+  },
+  {
+    "item_code": "w_069140",
+    "content": "staff selection",
+    "meaning_zh": "员工选拔；人员甄选",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人力资源搭配"
+  },
+  {
+    "item_code": "w_069146",
+    "content": "staffing level",
+    "meaning_zh": "人员配置水平；员工编制水平",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常用表达"
+  },
+  {
+    "item_code": "w_069150",
+    "content": "stage actor",
+    "meaning_zh": "舞台演员；戏剧男演员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "戏剧相关搭配"
+  },
+  {
+    "item_code": "w_069151",
+    "content": "stage actress",
+    "meaning_zh": "舞台女演员；戏剧女演员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "戏剧相关搭配"
+  },
+  {
+    "item_code": "w_069152",
+    "content": "stage critic",
+    "meaning_zh": "戏剧评论家；舞台剧评论人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "戏剧相关搭配"
+  },
+  {
+    "item_code": "w_069157",
+    "content": "stage photo",
+    "meaning_zh": "舞台照片；剧照",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见摄影搭配"
+  },
+  {
+    "item_code": "w_069166",
+    "content": "stagger thread accessory",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_069168",
+    "content": "staggered rush hour",
+    "meaning_zh": "错峰高峰期；错峰上下班时间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通通勤表达"
+  },
+  {
+    "item_code": "w_069182",
+    "content": "stain formation",
+    "meaning_zh": "污渍形成；染色形成",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术性搭配"
+  },
+  {
+    "item_code": "w_069199",
+    "content": "stake one's claim",
+    "meaning_zh": "表明所有权；宣示权利；提出主张",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_069206",
+    "content": "stale jaundice",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不常见"
+  },
+  {
+    "item_code": "w_069218",
+    "content": "stalwart piebald",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词语拼接"
+  },
+  {
+    "item_code": "w_069222",
+    "content": "stammer detachment",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_069225",
+    "content": "stamp id",
+    "meaning_zh": "邮票编号；印章编号",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "id为编号缩写"
+  },
+  {
+    "item_code": "w_069232",
+    "content": "stamps and envelopes",
+    "meaning_zh": "邮票和信封",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见实物搭配"
+  }
+]

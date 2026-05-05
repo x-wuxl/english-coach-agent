@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_058062",
+    "content": "professional expertise",
+    "meaning_zh": "专业知识；专业技能",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见专业能力搭配"
+  },
+  {
+    "item_code": "w_058063",
+    "content": "professional football player",
+    "meaning_zh": "职业足球运动员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职业身份短语"
+  },
+  {
+    "item_code": "w_058064",
+    "content": "professional gardeners",
+    "meaning_zh": "专业园丁；职业园艺师",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职业称谓明确"
+  },
+  {
+    "item_code": "w_058070",
+    "content": "professional reference",
+    "meaning_zh": "职业推荐人；工作推荐信",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "求职留学常见表达"
+  },
+  {
+    "item_code": "w_058085",
+    "content": "proffer deadlock",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配生硬疑似噪声"
+  },
+  {
+    "item_code": "w_058091",
+    "content": "proficient diversity obligated",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无稳定含义"
+  },
+  {
+    "item_code": "w_058092",
+    "content": "proficient humorous",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "形容词并列无短语义"
+  },
+  {
+    "item_code": "w_058094",
+    "content": "proficient pellucid",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常疑似噪声"
+  },
+  {
+    "item_code": "w_058096",
+    "content": "profile photo",
+    "meaning_zh": "头像照片；个人资料照片",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "网络场景常见短语"
+  },
+  {
+    "item_code": "w_058097",
+    "content": "profile possession",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无常见固定含义"
+  },
+  {
+    "item_code": "w_058108",
+    "content": "profit-oriented scientist",
+    "meaning_zh": "逐利型科学家；以盈利为导向的科学家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "复合形容词含义明确"
+  },
+  {
+    "item_code": "w_058111",
+    "content": "profitable segment",
+    "meaning_zh": "盈利细分市场；有利可图的部分",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商业语境常见搭配"
+  },
+  {
+    "item_code": "w_058121",
+    "content": "profound congest settle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无稳定含义"
+  },
+  {
+    "item_code": "w_058122",
+    "content": "profound cooperation",
+    "meaning_zh": "深度合作；深远的合作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义可判断但不常见"
+  },
+  {
+    "item_code": "w_058125",
+    "content": "profoundly shocked",
+    "meaning_zh": "深感震惊；极为震惊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "副词形容词常见搭配"
+  },
+  {
+    "item_code": "w_058128",
+    "content": "profuse dinner",
+    "meaning_zh": "丰盛的晚餐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解但搭配较少见"
+  },
+  {
+    "item_code": "w_058140",
+    "content": "program obstinate liberty",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠疑似噪声"
+  },
+  {
+    "item_code": "w_058141",
+    "content": "program series drama",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无清晰固定表达"
+  },
+  {
+    "item_code": "w_058156",
+    "content": "progressive force",
+    "meaning_zh": "进步力量；进步势力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "社会政治常见表达"
+  },
+  {
+    "item_code": "w_058157",
+    "content": "progressive shrink archaeology",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无稳定含义"
+  }
+]

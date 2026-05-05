@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_073173",
+    "content": "temporary variable",
+    "meaning_zh": "临时变量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机固定术语"
+  },
+  {
+    "item_code": "w_073177",
+    "content": "temporize wholesome",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无固定含义"
+  },
+  {
+    "item_code": "w_073180",
+    "content": "tempt schizophrenia",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无固定含义"
+  },
+  {
+    "item_code": "w_073187",
+    "content": "ten-thousand-yuan household",
+    "meaning_zh": "万元户",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_073191",
+    "content": "tenable moribund gaudi",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无固定含义"
+  },
+  {
+    "item_code": "w_073193",
+    "content": "tenacious afferent removal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无固定含义"
+  },
+  {
+    "item_code": "w_073199",
+    "content": "tend habit",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_073202",
+    "content": "tend to do something",
+    "meaning_zh": "倾向于做某事；往往会做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用固定搭配"
+  },
+  {
+    "item_code": "w_073208",
+    "content": "tendencious",
+    "meaning_zh": "有倾向性的；有偏见的",
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_073209",
+    "content": "tendencious sparse",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无固定含义"
+  },
+  {
+    "item_code": "w_073213",
+    "content": "tendency to do",
+    "meaning_zh": "做某事的倾向",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用搭配"
+  },
+  {
+    "item_code": "w_073214",
+    "content": "tendency towards",
+    "meaning_zh": "对……的倾向",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用搭配"
+  },
+  {
+    "item_code": "w_073218",
+    "content": "tender lard draft",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无固定含义"
+  },
+  {
+    "item_code": "w_073260",
+    "content": "tentative acceptance",
+    "meaning_zh": "暂时接受；初步认可",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见正式搭配"
+  },
+  {
+    "item_code": "w_073261",
+    "content": "tentative ridiculous",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无固定含义"
+  },
+  {
+    "item_code": "w_073266",
+    "content": "tenths unit",
+    "meaning_zh": "十分位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "数学计量表达"
+  },
+  {
+    "item_code": "w_073270",
+    "content": "tenuous supercilious",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无固定含义"
+  },
+  {
+    "item_code": "w_073281",
+    "content": "tepid lethargic impervious",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无固定含义"
+  },
+  {
+    "item_code": "w_073284",
+    "content": "ter",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写残片含义不明"
+  },
+  {
+    "item_code": "w_073296",
+    "content": "Teresa Lopez",
+    "meaning_zh": "特蕾莎·洛佩兹",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人名专有名词"
+  }
+]

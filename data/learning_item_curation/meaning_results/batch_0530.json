@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_051517",
+    "content": "on a ... basis",
+    "meaning_zh": "以……方式；按……标准",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达框架"
+  },
+  {
+    "item_code": "w_051522",
+    "content": "on a course",
+    "meaning_zh": "在上课；参加课程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "无例句但搭配常见"
+  },
+  {
+    "item_code": "w_051526",
+    "content": "on a false basis",
+    "meaning_zh": "基于错误的依据",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定介词搭配"
+  },
+  {
+    "item_code": "w_051536",
+    "content": "on a steady rise",
+    "meaning_zh": "在稳步上升",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见趋势表达"
+  },
+  {
+    "item_code": "w_051537",
+    "content": "on a stem",
+    "meaning_zh": "在茎上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义依语境略窄"
+  },
+  {
+    "item_code": "w_051538",
+    "content": "on a tour of",
+    "meaning_zh": "在游览；在巡回访问",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅游访问搭配"
+  },
+  {
+    "item_code": "w_051539",
+    "content": "on a vacation",
+    "meaning_zh": "在度假；去度假",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句明确"
+  },
+  {
+    "item_code": "w_051541",
+    "content": "on a weekly basis",
+    "meaning_zh": "每周；按周",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "频率表达常见"
+  },
+  {
+    "item_code": "w_051542",
+    "content": "on a yearly basis",
+    "meaning_zh": "每年；按年",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "频率表达常见"
+  },
+  {
+    "item_code": "w_051543",
+    "content": "on account",
+    "meaning_zh": "因为；由于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "例句指向on account of"
+  },
+  {
+    "item_code": "w_051547",
+    "content": "on all accounts",
+    "meaning_zh": "从各方面来看",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达较少见"
+  },
+  {
+    "item_code": "w_051553",
+    "content": "on and off stage",
+    "meaning_zh": "在舞台上和生活中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "整体含义明确"
+  },
+  {
+    "item_code": "w_051578",
+    "content": "on errands",
+    "meaning_zh": "在办差事；外出办事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_051579",
+    "content": "on European corporate boards",
+    "meaning_zh": "在欧洲公司董事会中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "具体语境短语"
+  },
+  {
+    "item_code": "w_051580",
+    "content": "on every account",
+    "meaning_zh": "无论从哪方面看",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达较少见"
+  },
+  {
+    "item_code": "w_051585",
+    "content": "on first hearing",
+    "meaning_zh": "初听时；乍一听",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "时间状语常见"
+  },
+  {
+    "item_code": "w_051587",
+    "content": "on good evidence",
+    "meaning_zh": "有充分证据地；基于可靠证据",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "证据搭配明确"
+  },
+  {
+    "item_code": "w_051598",
+    "content": "on less necessary",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "结构异常疑似噪声"
+  },
+  {
+    "item_code": "w_051601",
+    "content": "on loan from",
+    "meaning_zh": "从……借调；从……借来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_051602",
+    "content": "on Main Street",
+    "meaning_zh": "在主街上；在大街上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地点表达常见"
+  }
+]

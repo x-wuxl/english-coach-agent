@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_005569",
+    "content": "attentive laundry operator",
+    "meaning_zh": "细心的洗衣房操作员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解的名词短语"
+  },
+  {
+    "item_code": "w_005573",
+    "content": "attenuate lodge impel",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌无固定含义"
+  },
+  {
+    "item_code": "w_005579",
+    "content": "attic stair",
+    "meaning_zh": "阁楼楼梯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_005583",
+    "content": "attitude image tendency",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌无固定含义"
+  },
+  {
+    "item_code": "w_005593",
+    "content": "attorney crave",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_005598",
+    "content": "attract council",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_005600",
+    "content": "attract one's attention",
+    "meaning_zh": "吸引某人的注意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_005601",
+    "content": "attract passion attraction",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌无固定含义"
+  },
+  {
+    "item_code": "w_005602",
+    "content": "attract people's attention",
+    "meaning_zh": "吸引人们的注意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_005604",
+    "content": "attract sb.'s attention",
+    "meaning_zh": "吸引某人的注意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_005605",
+    "content": "attract valuelitis",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含疑似噪声词"
+  },
+  {
+    "item_code": "w_005610",
+    "content": "attraction to",
+    "meaning_zh": "对……的吸引力；对……的喜爱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见介词搭配"
+  },
+  {
+    "item_code": "w_005612",
+    "content": "attractive buildings",
+    "meaning_zh": "美观的建筑；有吸引力的建筑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_005613",
+    "content": "attractive female applicants",
+    "meaning_zh": "有吸引力的女性申请者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "可理解的名词短语"
+  },
+  {
+    "item_code": "w_005614",
+    "content": "attractive personality",
+    "meaning_zh": "有魅力的个性；人格魅力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持该含义"
+  },
+  {
+    "item_code": "w_005615",
+    "content": "attractive pictures",
+    "meaning_zh": "吸引人的图片；精美的图片",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_005616",
+    "content": "attractive recreation",
+    "meaning_zh": "有吸引力的娱乐活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解但少见"
+  },
+  {
+    "item_code": "w_005631",
+    "content": "attu",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似残片或噪声"
+  },
+  {
+    "item_code": "w_005644",
+    "content": "Auckland Harbour Bridge",
+    "meaning_zh": "奥克兰海港大桥",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有地名建筑名"
+  },
+  {
+    "item_code": "w_005653",
+    "content": "audible analyze scratch",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌无固定含义"
+  }
+]

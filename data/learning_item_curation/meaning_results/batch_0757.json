@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_074023",
+    "content": "the Science Times",
+    "meaning_zh": "《科学时报》",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "报刊名称"
+  },
+  {
+    "item_code": "w_074024",
+    "content": "the sciences",
+    "meaning_zh": "自然科学；理科",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学科总称"
+  },
+  {
+    "item_code": "w_074025",
+    "content": "the Scottish Daily Record",
+    "meaning_zh": "《苏格兰每日纪事报》",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "报刊专名"
+  },
+  {
+    "item_code": "w_074026",
+    "content": "the searing Great Recession",
+    "meaning_zh": "痛苦的经济大衰退",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按整体短语释义"
+  },
+  {
+    "item_code": "w_074027",
+    "content": "the Secretary-General",
+    "meaning_zh": "秘书长",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职务名称"
+  },
+  {
+    "item_code": "w_074028",
+    "content": "the sense of art",
+    "meaning_zh": "艺术感；艺术鉴赏力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象表达"
+  },
+  {
+    "item_code": "w_074029",
+    "content": "the service sector",
+    "meaning_zh": "服务业；服务部门",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济领域常用语"
+  },
+  {
+    "item_code": "w_074030",
+    "content": "the shooting of animals",
+    "meaning_zh": "射杀动物；捕杀动物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动名词短语"
+  },
+  {
+    "item_code": "w_074032",
+    "content": "the single biggest",
+    "meaning_zh": "最大的单一；唯一最大的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "最高级强调搭配"
+  },
+  {
+    "item_code": "w_074033",
+    "content": "the single greatest",
+    "meaning_zh": "最伟大的单一；唯一最重要的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "最高级强调搭配"
+  },
+  {
+    "item_code": "w_074034",
+    "content": "the single most",
+    "meaning_zh": "最为；最最",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "程度强调搭配"
+  },
+  {
+    "item_code": "w_074035",
+    "content": "the single worst",
+    "meaning_zh": "最糟糕的单一；唯一最差的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "最高级强调搭配"
+  },
+  {
+    "item_code": "w_074036",
+    "content": "the Small Business",
+    "meaning_zh": "小企业",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似残缺短语"
+  },
+  {
+    "item_code": "w_074039",
+    "content": "the Smith family",
+    "meaning_zh": "史密斯一家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "家庭称谓表达"
+  },
+  {
+    "item_code": "w_074040",
+    "content": "the social tape-measure",
+    "meaning_zh": "社会衡量标准；社会标尺",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "比喻性表达"
+  },
+  {
+    "item_code": "w_074041",
+    "content": "the Song dynasty",
+    "meaning_zh": "宋朝；宋代",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "历史专名"
+  },
+  {
+    "item_code": "w_074044",
+    "content": "the space shuttle",
+    "meaning_zh": "航天飞机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见科技名词"
+  },
+  {
+    "item_code": "w_074045",
+    "content": "the special",
+    "meaning_zh": "特殊的；特别的",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "内容不完整"
+  },
+  {
+    "item_code": "w_074046",
+    "content": "the spirit of competition",
+    "meaning_zh": "竞争精神",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定抽象表达"
+  },
+  {
+    "item_code": "w_074050",
+    "content": "the State of Chu",
+    "meaning_zh": "楚国",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "历史国家名称"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_030740",
+    "content": "get a dirty look",
+    "meaning_zh": "遭到白眼；被瞪一眼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配，表遭冷眼"
+  },
+  {
+    "item_code": "w_030742",
+    "content": "get a fever",
+    "meaning_zh": "发烧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见健康表达"
+  },
+  {
+    "item_code": "w_030743",
+    "content": "get a flat tire",
+    "meaning_zh": "轮胎瘪了；车胎漏气",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见交通场景"
+  },
+  {
+    "item_code": "w_030746",
+    "content": "get a good deal",
+    "meaning_zh": "买得划算；得到优惠",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "购物常用搭配"
+  },
+  {
+    "item_code": "w_030747",
+    "content": "get a grasp on",
+    "meaning_zh": "理解；掌握",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配，表理解"
+  },
+  {
+    "item_code": "w_030749",
+    "content": "get a hand",
+    "meaning_zh": "得到帮助",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "口语中多指帮忙"
+  },
+  {
+    "item_code": "w_030750",
+    "content": "get a hard time",
+    "meaning_zh": "受责难；被刁难",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配较口语化"
+  },
+  {
+    "item_code": "w_030752",
+    "content": "get a high fever",
+    "meaning_zh": "发高烧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见健康表达"
+  },
+  {
+    "item_code": "w_030753",
+    "content": "get a hurry on",
+    "meaning_zh": "赶快；加紧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定口语表达"
+  },
+  {
+    "item_code": "w_030754",
+    "content": "get a job offer",
+    "meaning_zh": "获得工作录用；收到工作邀请",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "求职常用搭配"
+  },
+  {
+    "item_code": "w_030760",
+    "content": "get a nap",
+    "meaning_zh": "小睡一下",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解为休息片刻"
+  },
+  {
+    "item_code": "w_030761",
+    "content": "get a pay rise",
+    "meaning_zh": "获得加薪",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职场常用搭配"
+  },
+  {
+    "item_code": "w_030762",
+    "content": "get a prize",
+    "meaning_zh": "获奖；得到奖品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见获奖表达"
+  },
+  {
+    "item_code": "w_030763",
+    "content": "get a promotion",
+    "meaning_zh": "升职；获得晋升",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职场常用搭配"
+  },
+  {
+    "item_code": "w_030765",
+    "content": "get a red face",
+    "meaning_zh": "脸红",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表面部变红"
+  },
+  {
+    "item_code": "w_030766",
+    "content": "get a refund",
+    "meaning_zh": "获得退款；退款",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句译文有误，以短语为准"
+  },
+  {
+    "item_code": "w_030767",
+    "content": "get a reputation",
+    "meaning_zh": "获得名声；出名",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_030769",
+    "content": "get a rough idea",
+    "meaning_zh": "大致了解；有个粗略概念",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配，表初步理解"
+  },
+  {
+    "item_code": "w_030770",
+    "content": "get a shellacking",
+    "meaning_zh": "惨败；受到严厉批评",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "口语习语，有两常见义"
+  },
+  {
+    "item_code": "w_030771",
+    "content": "get a shock",
+    "meaning_zh": "大吃一惊；受到震惊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见情绪表达"
+  }
+]

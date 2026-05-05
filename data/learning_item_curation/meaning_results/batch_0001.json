@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_000009",
+    "content": "100-meter race",
+    "meaning_zh": "100米赛跑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见运动项目"
+  },
+  {
+    "item_code": "w_000014",
+    "content": "16000-volt power line",
+    "meaning_zh": "16000伏电力线",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术名词短语"
+  },
+  {
+    "item_code": "w_000018",
+    "content": "20 centigrade",
+    "meaning_zh": "20摄氏度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "例句支持温度义"
+  },
+  {
+    "item_code": "w_000019",
+    "content": "20% profit margins",
+    "meaning_zh": "20%的利润率",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商业常用表达"
+  },
+  {
+    "item_code": "w_000020",
+    "content": "2019-nCoV",
+    "meaning_zh": "2019新型冠状病毒",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "病毒缩写术语"
+  },
+  {
+    "item_code": "w_000026",
+    "content": "2500-horsepower engine",
+    "meaning_zh": "2500马力发动机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "机械名词短语"
+  },
+  {
+    "item_code": "w_000031",
+    "content": "3-D movie",
+    "meaning_zh": "3D电影；立体电影",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见影视表达"
+  },
+  {
+    "item_code": "w_000032",
+    "content": "3-D printer",
+    "meaning_zh": "3D打印机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见技术名词"
+  },
+  {
+    "item_code": "w_000033",
+    "content": "3-digit number",
+    "meaning_zh": "三位数",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "数学常用表达"
+  },
+  {
+    "item_code": "w_000036",
+    "content": "3D printer",
+    "meaning_zh": "3D打印机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见技术名词"
+  },
+  {
+    "item_code": "w_000037",
+    "content": "3D printing",
+    "meaning_zh": "3D打印",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见技术名词"
+  },
+  {
+    "item_code": "w_000041",
+    "content": "5-star hotel",
+    "meaning_zh": "五星级酒店",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "酒店等级表达"
+  },
+  {
+    "item_code": "w_000043",
+    "content": "5G era",
+    "meaning_zh": "5G时代",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "科技时代称谓"
+  },
+  {
+    "item_code": "w_000047",
+    "content": "996 work schedule",
+    "meaning_zh": "996工作制",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定社会表达"
+  },
+  {
+    "item_code": "w_000051",
+    "content": "a bachelor degree",
+    "meaning_zh": "学士学位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略不规范"
+  },
+  {
+    "item_code": "w_000052",
+    "content": "a bachelor's degree",
+    "meaning_zh": "学士学位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教育表达"
+  },
+  {
+    "item_code": "w_000054",
+    "content": "a bag of flour",
+    "meaning_zh": "一袋面粉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  },
+  {
+    "item_code": "w_000055",
+    "content": "a bag of potatoes",
+    "meaning_zh": "一袋土豆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "数量短语"
+  },
+  {
+    "item_code": "w_000056",
+    "content": "a balance of nature",
+    "meaning_zh": "自然界的平衡；生态平衡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态主题表达"
+  },
+  {
+    "item_code": "w_000059",
+    "content": "a ban on",
+    "meaning_zh": "对……的禁令；禁止……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  }
+]

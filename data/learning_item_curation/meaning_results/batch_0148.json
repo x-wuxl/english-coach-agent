@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_013461",
+    "content": "chemical weapon substance",
+    "meaning_zh": "化学武器物质",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专业短语"
+  },
+  {
+    "item_code": "w_013468",
+    "content": "chemistry equalization",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_013469",
+    "content": "chemistry equation",
+    "meaning_zh": "化学方程式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为化学术语"
+  },
+  {
+    "item_code": "w_013470",
+    "content": "chemistry formula",
+    "meaning_zh": "化学式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为化学术语"
+  },
+  {
+    "item_code": "w_013473",
+    "content": "chemists pharmacist pharmacy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠噪声"
+  },
+  {
+    "item_code": "w_013488",
+    "content": "chen",
+    "meaning_zh": "陈（中文姓氏）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见姓氏"
+  },
+  {
+    "item_code": "w_013489",
+    "content": "Chengdu Research Base",
+    "meaning_zh": "成都大熊猫繁育研究基地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有地名"
+  },
+  {
+    "item_code": "w_013498",
+    "content": "cherish ozone",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成词条"
+  },
+  {
+    "item_code": "w_013499",
+    "content": "cherish unanimous edifice",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠噪声"
+  },
+  {
+    "item_code": "w_013501",
+    "content": "cherlish",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_013502",
+    "content": "chern",
+    "meaning_zh": "陈（姓氏）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有姓氏"
+  },
+  {
+    "item_code": "w_013509",
+    "content": "cheryl lur",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似人名残片"
+  },
+  {
+    "item_code": "w_013513",
+    "content": "chess chessboard checkers",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠噪声"
+  },
+  {
+    "item_code": "w_013515",
+    "content": "chess fan",
+    "meaning_zh": "国际象棋迷",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_013519",
+    "content": "chessroom",
+    "meaning_zh": "棋牌室；棋室",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作复合词"
+  },
+  {
+    "item_code": "w_013521",
+    "content": "chest back",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成词条"
+  },
+  {
+    "item_code": "w_013523",
+    "content": "chest of drawer",
+    "meaning_zh": "五斗橱；抽屉柜",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为固定表达"
+  },
+  {
+    "item_code": "w_013529",
+    "content": "chestnut intention",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_013563",
+    "content": "chide doyan",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声"
+  },
+  {
+    "item_code": "w_013567",
+    "content": "chief executive's proposals",
+    "meaning_zh": "行政长官的提议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通名词短语"
+  }
+]

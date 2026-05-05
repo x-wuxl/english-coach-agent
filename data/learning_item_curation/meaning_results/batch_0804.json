@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_079380",
+    "content": "viracity",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_079384",
+    "content": "viral vomit ash beep",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串"
+  },
+  {
+    "item_code": "w_079403",
+    "content": "virology inhabitants luncheon rickets",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串"
+  },
+  {
+    "item_code": "w_079408",
+    "content": "virtual casino",
+    "meaning_zh": "虚拟赌场；线上赌场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见网络表达"
+  },
+  {
+    "item_code": "w_079411",
+    "content": "virtual environment",
+    "meaning_zh": "虚拟环境",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_079412",
+    "content": "virtual floating bottle",
+    "meaning_zh": "虚拟漂流瓶",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "网络功能表达"
+  },
+  {
+    "item_code": "w_079415",
+    "content": "virtual machine",
+    "meaning_zh": "虚拟机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_079419",
+    "content": "virtual reality device",
+    "meaning_zh": "虚拟现实设备",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "科技常用表达"
+  },
+  {
+    "item_code": "w_079420",
+    "content": "virtual telecom network services",
+    "meaning_zh": "虚拟电信网络服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "电信服务术语"
+  },
+  {
+    "item_code": "w_079424",
+    "content": "virtue phosphate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配无明确含义"
+  },
+  {
+    "item_code": "w_079434",
+    "content": "virus deadline",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配无明确含义"
+  },
+  {
+    "item_code": "w_079436",
+    "content": "vis-à-vis",
+    "meaning_zh": "面对面地；关于；与……相比",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定外来表达"
+  },
+  {
+    "item_code": "w_079438",
+    "content": "visa declare inspection",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串不成搭配"
+  },
+  {
+    "item_code": "w_079439",
+    "content": "visa officer",
+    "meaning_zh": "签证官",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "签证场景常用"
+  },
+  {
+    "item_code": "w_079440",
+    "content": "Visa Waiver Program",
+    "meaning_zh": "免签证计划",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "官方项目名称"
+  },
+  {
+    "item_code": "w_079441",
+    "content": "visa-free stay",
+    "meaning_zh": "免签停留",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "出入境常用表达"
+  },
+  {
+    "item_code": "w_079452",
+    "content": "viscous lava",
+    "meaning_zh": "黏稠的熔岩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地学常见搭配"
+  },
+  {
+    "item_code": "w_079461",
+    "content": "visid",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_079469",
+    "content": "visit exhibitions",
+    "meaning_zh": "参观展览",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "雅思常见话题"
+  },
+  {
+    "item_code": "w_079470",
+    "content": "visit from others",
+    "meaning_zh": "他人的来访",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可判断"
+  }
+]

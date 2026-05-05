@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_007916",
+    "content": "be proud to",
+    "meaning_zh": "为做某事感到自豪",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_007917",
+    "content": "be provoked to",
+    "meaning_zh": "被激怒而；被激使去",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配略不完整"
+  },
+  {
+    "item_code": "w_007918",
+    "content": "be provoked to do",
+    "meaning_zh": "被激怒而做某事；被激使做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_007919",
+    "content": "be public-spirited",
+    "meaning_zh": "有公益心的；热心公益的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容词短语"
+  },
+  {
+    "item_code": "w_007922",
+    "content": "be punctuated by",
+    "meaning_zh": "不时被打断；间或出现",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动搭配"
+  },
+  {
+    "item_code": "w_007924",
+    "content": "be put to it",
+    "meaning_zh": "陷入困境；被迫费力应付",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语表达"
+  },
+  {
+    "item_code": "w_007925",
+    "content": "be puzzled about",
+    "meaning_zh": "对……感到困惑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_007931",
+    "content": "be racked by ...",
+    "meaning_zh": "受……折磨",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动搭配"
+  },
+  {
+    "item_code": "w_007932",
+    "content": "be racked with ...",
+    "meaning_zh": "受……折磨；充满痛苦",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动搭配"
+  },
+  {
+    "item_code": "w_007938",
+    "content": "be rebuffed",
+    "meaning_zh": "遭到拒绝；被断然回绝",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动用法"
+  },
+  {
+    "item_code": "w_007939",
+    "content": "be receptive to ...",
+    "meaning_zh": "乐于接受……；对……反应积极",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_007940",
+    "content": "be recognised as",
+    "meaning_zh": "被认为是；被公认为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动搭配"
+  },
+  {
+    "item_code": "w_007942",
+    "content": "be reconciled to",
+    "meaning_zh": "甘心接受；顺从于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_007943",
+    "content": "be reconciled with",
+    "meaning_zh": "与……和解；与……调和",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_007944",
+    "content": "be recorded by",
+    "meaning_zh": "被……记录；由……记载",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动搭配"
+  },
+  {
+    "item_code": "w_007946",
+    "content": "be reduced by ...",
+    "meaning_zh": "减少了……；被降低了……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "数量变化搭配"
+  },
+  {
+    "item_code": "w_007947",
+    "content": "be reduced to ...",
+    "meaning_zh": "减少到……；沦为；被迫陷入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_007948",
+    "content": "be redundant",
+    "meaning_zh": "多余的；被裁员的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词用法"
+  },
+  {
+    "item_code": "w_007950",
+    "content": "be refreshed",
+    "meaning_zh": "恢复精神；感到神清气爽",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动用法"
+  },
+  {
+    "item_code": "w_007957",
+    "content": "be released from quarantine",
+    "meaning_zh": "解除隔离",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定场景表达"
+  }
+]

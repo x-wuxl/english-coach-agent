@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_045157",
+    "content": "make more concessions",
+    "meaning_zh": "作出更多让步",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_045159",
+    "content": "make negative allegations",
+    "meaning_zh": "提出负面指控",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见法律表达"
+  },
+  {
+    "item_code": "w_045160",
+    "content": "make no answer",
+    "meaning_zh": "不作回答",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_045161",
+    "content": "make no attempt to",
+    "meaning_zh": "没有尝试去；不试图",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型"
+  },
+  {
+    "item_code": "w_045169",
+    "content": "make note of",
+    "meaning_zh": "记下；注意到",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  },
+  {
+    "item_code": "w_045173",
+    "content": "make nothing of it",
+    "meaning_zh": "不把它当回事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "惯用表达"
+  },
+  {
+    "item_code": "w_045176",
+    "content": "make of sb",
+    "meaning_zh": "认为某人怎么样",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "疑问句常用搭配"
+  },
+  {
+    "item_code": "w_045177",
+    "content": "make of sth",
+    "meaning_zh": "理解；看待某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语义"
+  },
+  {
+    "item_code": "w_045191",
+    "content": "make one's head swim",
+    "meaning_zh": "使某人头昏脑涨",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形象习语"
+  },
+  {
+    "item_code": "w_045192",
+    "content": "make one's judgment",
+    "meaning_zh": "作出判断",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_045195",
+    "content": "make one's mind up",
+    "meaning_zh": "下定决心；作出决定",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  },
+  {
+    "item_code": "w_045197",
+    "content": "make one's own decision",
+    "meaning_zh": "自己做决定",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础常用表达"
+  },
+  {
+    "item_code": "w_045200",
+    "content": "make one's position clear",
+    "meaning_zh": "表明自己的立场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_045204",
+    "content": "make one's way toward",
+    "meaning_zh": "向……走去；前往",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  },
+  {
+    "item_code": "w_045205",
+    "content": "make one's way towards",
+    "meaning_zh": "向……走去；前往",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "towards同toward"
+  },
+  {
+    "item_code": "w_045209",
+    "content": "make oneself miserable",
+    "meaning_zh": "使自己痛苦",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见使役结构"
+  },
+  {
+    "item_code": "w_045215",
+    "content": "make out a check",
+    "meaning_zh": "开支票",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融常用表达"
+  },
+  {
+    "item_code": "w_045216",
+    "content": "make out an examination",
+    "meaning_zh": "拟定考试；出试卷",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配少见但可判断"
+  },
+  {
+    "item_code": "w_045221",
+    "content": "make pancakes",
+    "meaning_zh": "做煎饼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "日常动宾搭配"
+  },
+  {
+    "item_code": "w_045224",
+    "content": "make people sick",
+    "meaning_zh": "使人生病；令人恶心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "兼有字面和比喻义"
+  }
+]

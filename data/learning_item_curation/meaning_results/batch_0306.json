@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_029074",
+    "content": "forest sanctuary",
+    "meaning_zh": "森林保护区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见环保搭配"
+  },
+  {
+    "item_code": "w_029089",
+    "content": "forfeit proceed",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_029094",
+    "content": "forge closer collaborations",
+    "meaning_zh": "建立更紧密的合作关系",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动宾搭配"
+  },
+  {
+    "item_code": "w_029111",
+    "content": "forgiving heart",
+    "meaning_zh": "宽容的心；宽恕之心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见情感表达"
+  },
+  {
+    "item_code": "w_029125",
+    "content": "form appetite",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_029126",
+    "content": "form good habits",
+    "meaning_zh": "养成好习惯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习搭配"
+  },
+  {
+    "item_code": "w_029127",
+    "content": "form of recreation",
+    "meaning_zh": "娱乐形式；消遣方式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_029128",
+    "content": "form of therapy",
+    "meaning_zh": "治疗形式；疗法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见医学表达"
+  },
+  {
+    "item_code": "w_029129",
+    "content": "form-filing",
+    "meaning_zh": "表格申报；表格归档",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "复合词含义可判"
+  },
+  {
+    "item_code": "w_029131",
+    "content": "formal and informal party",
+    "meaning_zh": "正式和非正式聚会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "按整体短语理解"
+  },
+  {
+    "item_code": "w_029132",
+    "content": "formal clothing",
+    "meaning_zh": "正装；正式服装",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见服饰搭配"
+  },
+  {
+    "item_code": "w_029134",
+    "content": "formal English",
+    "meaning_zh": "正式英语",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见语言表达"
+  },
+  {
+    "item_code": "w_029136",
+    "content": "formal heredity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "术语不明确"
+  },
+  {
+    "item_code": "w_029137",
+    "content": "formal language",
+    "meaning_zh": "形式语言；正式语言",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语优先"
+  },
+  {
+    "item_code": "w_029139",
+    "content": "formal meetings",
+    "meaning_zh": "正式会议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商务搭配"
+  },
+  {
+    "item_code": "w_029140",
+    "content": "formal park",
+    "meaning_zh": "规则式公园；正式园林",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "园林语境含义"
+  },
+  {
+    "item_code": "w_029149",
+    "content": "format operator",
+    "meaning_zh": "格式化运算符",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_029150",
+    "content": "format string",
+    "meaning_zh": "格式字符串",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程常用术语"
+  },
+  {
+    "item_code": "w_029151",
+    "content": "format submit",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_029157",
+    "content": "formed",
+    "meaning_zh": "形成的；建立的；组成的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配常见义"
+  }
+]

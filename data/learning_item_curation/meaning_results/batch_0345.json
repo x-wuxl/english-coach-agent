@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_032715",
+    "content": "ground battle",
+    "meaning_zh": "地面战；陆地战斗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "军事常见搭配"
+  },
+  {
+    "item_code": "w_032718",
+    "content": "ground crack",
+    "meaning_zh": "地面裂缝；地裂",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地质灾害搭配"
+  },
+  {
+    "item_code": "w_032729",
+    "content": "ground settling",
+    "meaning_zh": "地面沉降；地基下沉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "工程地质术语"
+  },
+  {
+    "item_code": "w_032734",
+    "content": "ground unacceptable",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_032760",
+    "content": "group lawsuit",
+    "meaning_zh": "集体诉讼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律常见表达"
+  },
+  {
+    "item_code": "w_032762",
+    "content": "group project",
+    "meaning_zh": "小组项目；团队作业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学习场景常用"
+  },
+  {
+    "item_code": "w_032764",
+    "content": "group rental",
+    "meaning_zh": "合租；团体租赁",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义依语境略变"
+  },
+  {
+    "item_code": "w_032765",
+    "content": "group research",
+    "meaning_zh": "小组研究；团队研究",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术场景搭配"
+  },
+  {
+    "item_code": "w_032766",
+    "content": "group shopping",
+    "meaning_zh": "团购；集体购物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "消费场景常用"
+  },
+  {
+    "item_code": "w_032769",
+    "content": "group tourists",
+    "meaning_zh": "团队游客；团体游客",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅游场景搭配"
+  },
+  {
+    "item_code": "w_032771",
+    "content": "group trip",
+    "meaning_zh": "团体旅行；集体出游",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅游常见表达"
+  },
+  {
+    "item_code": "w_032772",
+    "content": "group visitors",
+    "meaning_zh": "团体访客；团队游客",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "参观旅游搭配"
+  },
+  {
+    "item_code": "w_032774",
+    "content": "group-living species",
+    "meaning_zh": "群居物种",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生物学描述"
+  },
+  {
+    "item_code": "w_032785",
+    "content": "grow crops",
+    "meaning_zh": "种庄稼；种植农作物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础农业表达"
+  },
+  {
+    "item_code": "w_032786",
+    "content": "grow dissatisfied with",
+    "meaning_zh": "对……越来越不满",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_032787",
+    "content": "grow dissatisfied with ...",
+    "meaning_zh": "对……越来越不满",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_032788",
+    "content": "grow hemp",
+    "meaning_zh": "种植麻类作物；种植大麻",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "农业作物表达"
+  },
+  {
+    "item_code": "w_032793",
+    "content": "grow rich",
+    "meaning_zh": "变得富有",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见变化表达"
+  },
+  {
+    "item_code": "w_032794",
+    "content": "grow tired of sth.",
+    "meaning_zh": "对某事感到厌倦",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_032795",
+    "content": "grow up in",
+    "meaning_zh": "在……长大",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础固定搭配"
+  }
+]

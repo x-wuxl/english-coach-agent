@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_060496",
+    "content": "rebellion period",
+    "meaning_zh": "叛乱时期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "明显名词短语"
+  },
+  {
+    "item_code": "w_060498",
+    "content": "rebellious locomotive",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常低价值"
+  },
+  {
+    "item_code": "w_060508",
+    "content": "rebuff dilatory catalyze prod",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个生词拼接噪声"
+  },
+  {
+    "item_code": "w_060510",
+    "content": "rebuild shanty areas",
+    "meaning_zh": "重建棚户区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_060517",
+    "content": "rebuttle",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_060518",
+    "content": "rec",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写含义不明确"
+  },
+  {
+    "item_code": "w_060522",
+    "content": "recall doing sth.",
+    "meaning_zh": "记得做过某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定用法"
+  },
+  {
+    "item_code": "w_060523",
+    "content": "recall precious memory",
+    "meaning_zh": "回忆珍贵的记忆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解"
+  },
+  {
+    "item_code": "w_060524",
+    "content": "recall the past",
+    "meaning_zh": "回忆过去",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_060527",
+    "content": "recant behoove",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "两个生词拼接噪声"
+  },
+  {
+    "item_code": "w_060531",
+    "content": "recapitalize",
+    "meaning_zh": "调整资本结构；重新注资",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务金融术语"
+  },
+  {
+    "item_code": "w_060542",
+    "content": "receive a compliment",
+    "meaning_zh": "受到称赞",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_060543",
+    "content": "receive a gift",
+    "meaning_zh": "收到礼物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_060544",
+    "content": "receive a phone call",
+    "meaning_zh": "接到电话",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_060545",
+    "content": "receive aid from sb.",
+    "meaning_zh": "得到某人的帮助",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_060546",
+    "content": "receive an invitation",
+    "meaning_zh": "收到邀请",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_060547",
+    "content": "receive degree",
+    "meaning_zh": "获得学位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "应为receive a degree"
+  },
+  {
+    "item_code": "w_060548",
+    "content": "receive donations",
+    "meaning_zh": "收到捐款",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_060549",
+    "content": "receive gifts",
+    "meaning_zh": "收到礼物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_060550",
+    "content": "receive kickbacks",
+    "meaning_zh": "收受回扣",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见负面搭配"
+  }
+]

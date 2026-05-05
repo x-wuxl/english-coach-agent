@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_000573",
+    "content": "a sofa",
+    "meaning_zh": "一张沙发",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指家具沙发"
+  },
+  {
+    "item_code": "w_000574",
+    "content": "a son of bitch",
+    "meaning_zh": "混蛋；坏蛋",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "粗俗骂语但表达不规范"
+  },
+  {
+    "item_code": "w_000577",
+    "content": "a spadeful of",
+    "meaning_zh": "一铲的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "表示一铲的量"
+  },
+  {
+    "item_code": "w_000579",
+    "content": "a special interview",
+    "meaning_zh": "一次专访；特别采访",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见新闻采访搭配"
+  },
+  {
+    "item_code": "w_000580",
+    "content": "a speck of dust",
+    "meaning_zh": "一粒灰尘；一点尘埃",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定数量表达"
+  },
+  {
+    "item_code": "w_000581",
+    "content": "a spell of",
+    "meaning_zh": "一段时间的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "表示持续一段时间"
+  },
+  {
+    "item_code": "w_000582",
+    "content": "a spoiled brat",
+    "meaning_zh": "被宠坏的孩子",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见贬义搭配"
+  },
+  {
+    "item_code": "w_000583",
+    "content": "a spoonful of ...",
+    "meaning_zh": "一匙的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "表示一勺的量"
+  },
+  {
+    "item_code": "w_000584",
+    "content": "a sporting event",
+    "meaning_zh": "体育赛事；运动会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见体育场景搭配"
+  },
+  {
+    "item_code": "w_000585",
+    "content": "a staggering achievement",
+    "meaning_zh": "惊人的成就",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "强调成就令人惊叹"
+  },
+  {
+    "item_code": "w_000588",
+    "content": "a state-sponsored program",
+    "meaning_zh": "政府资助的项目；国家赞助的计划",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治社会类常见搭配"
+  },
+  {
+    "item_code": "w_000589",
+    "content": "a statistics board",
+    "meaning_zh": "统计板；数据公告板",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缺少语境含义较泛"
+  },
+  {
+    "item_code": "w_000590",
+    "content": "a stern enough test",
+    "meaning_zh": "足够严峻的考验",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "stern修饰test"
+  },
+  {
+    "item_code": "w_000591",
+    "content": "a straight line",
+    "meaning_zh": "一条直线",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句均指画直线"
+  },
+  {
+    "item_code": "w_000592",
+    "content": "a strange sight",
+    "meaning_zh": "奇怪的景象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词名词搭配"
+  },
+  {
+    "item_code": "w_000594",
+    "content": "a stretch of",
+    "meaning_zh": "一片；一段；一带",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指一片土地"
+  },
+  {
+    "item_code": "w_000595",
+    "content": "a strict analysis",
+    "meaning_zh": "严格的分析",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术语境常见搭配"
+  },
+  {
+    "item_code": "w_000596",
+    "content": "a striking contrast",
+    "meaning_zh": "鲜明的对比",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见写作搭配"
+  },
+  {
+    "item_code": "w_000598",
+    "content": "a striving spirit",
+    "meaning_zh": "奋斗精神；进取精神",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "抽象品质类搭配"
+  },
+  {
+    "item_code": "w_000599",
+    "content": "a substantial labour-rights concern",
+    "meaning_zh": "重大的劳工权益问题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "劳工权益语境明确"
+  }
+]

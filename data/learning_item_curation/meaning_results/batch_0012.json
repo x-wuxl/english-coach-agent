@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_000403",
+    "content": "a name-and-shame method",
+    "meaning_zh": "点名羞辱的方法；公开曝光施压法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达，整体释义"
+  },
+  {
+    "item_code": "w_000405",
+    "content": "a narrow path",
+    "meaning_zh": "一条狭窄的小路",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_000406",
+    "content": "a nature reserve",
+    "meaning_zh": "自然保护区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定名词短语"
+  },
+  {
+    "item_code": "w_000407",
+    "content": "a nervous wreck",
+    "meaning_zh": "紧张得不行的人；焦虑崩溃的人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习惯表达，整体释义"
+  },
+  {
+    "item_code": "w_000408",
+    "content": "a net friend",
+    "meaning_zh": "网友",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见网络用语"
+  },
+  {
+    "item_code": "w_000409",
+    "content": "a new Web-based company",
+    "meaning_zh": "一家新的网络公司",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义直接"
+  },
+  {
+    "item_code": "w_000410",
+    "content": "a newly-developed city",
+    "meaning_zh": "一座新开发的城市",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义直接"
+  },
+  {
+    "item_code": "w_000411",
+    "content": "a News Feature article",
+    "meaning_zh": "一篇新闻特写文章",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "新闻文体术语"
+  },
+  {
+    "item_code": "w_000414",
+    "content": "a noteworthy quirk",
+    "meaning_zh": "一个值得注意的怪癖；一个显著的异常特点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "搭配含义明确"
+  },
+  {
+    "item_code": "w_000415",
+    "content": "a nuclear reactor",
+    "meaning_zh": "核反应堆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见技术名词"
+  },
+  {
+    "item_code": "w_000417",
+    "content": "a nurse",
+    "meaning_zh": "护士",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_000418",
+    "content": "a once-in-a-life-time opportunity",
+    "meaning_zh": "千载难逢的机会；一生一次的机会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达，整体释义"
+  },
+  {
+    "item_code": "w_000419",
+    "content": "a pack of cards",
+    "meaning_zh": "一副纸牌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见量词短语"
+  },
+  {
+    "item_code": "w_000421",
+    "content": "a package of proposals",
+    "meaning_zh": "一揽子提案；一套建议方案",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "package作成套方案"
+  },
+  {
+    "item_code": "w_000423",
+    "content": "a packet of biscuits",
+    "meaning_zh": "一包饼干",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_000424",
+    "content": "a packet of sweets",
+    "meaning_zh": "一包糖果",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见量词短语"
+  },
+  {
+    "item_code": "w_000426",
+    "content": "a pair of earphones",
+    "meaning_zh": "一副耳机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见量词短语"
+  },
+  {
+    "item_code": "w_000428",
+    "content": "a pair of handcuffs",
+    "meaning_zh": "一副手铐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见量词短语"
+  },
+  {
+    "item_code": "w_000431",
+    "content": "a pair of socks",
+    "meaning_zh": "一双袜子",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见量词短语"
+  },
+  {
+    "item_code": "w_000432",
+    "content": "a pair of watches",
+    "meaning_zh": "两块手表；一对手表",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  }
+]

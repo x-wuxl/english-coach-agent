@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_008826",
+    "content": "best wishes to ...",
+    "meaning_zh": "向……致以最美好的祝愿",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用祝福表达"
+  },
+  {
+    "item_code": "w_008827",
+    "content": "best witnesses",
+    "meaning_zh": "最好的证人；最佳见证者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_008841",
+    "content": "bestseller bibliography",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠非固定表达"
+  },
+  {
+    "item_code": "w_008844",
+    "content": "bet gamble",
+    "meaning_zh": "打赌；赌博",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "近义词堆叠"
+  },
+  {
+    "item_code": "w_008851",
+    "content": "beth",
+    "meaning_zh": "贝丝（女子名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句显示为人名"
+  },
+  {
+    "item_code": "w_008864",
+    "content": "Betsy Trotwood",
+    "meaning_zh": "贝齐·特洛伍德（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词人名"
+  },
+  {
+    "item_code": "w_008868",
+    "content": "better choice",
+    "meaning_zh": "更好的选择",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词短语"
+  },
+  {
+    "item_code": "w_008869",
+    "content": "better disciplined",
+    "meaning_zh": "更守纪律的；训练更有素的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_008870",
+    "content": "better ear",
+    "meaning_zh": "更好的听力；更强的辨音能力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境多指听辨能力"
+  },
+  {
+    "item_code": "w_008875",
+    "content": "better watch one's step",
+    "meaning_zh": "最好小心行事；最好注意脚下",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定提醒表达"
+  },
+  {
+    "item_code": "w_008881",
+    "content": "between ... and",
+    "meaning_zh": "在……和……之间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用介词结构"
+  },
+  {
+    "item_code": "w_008882",
+    "content": "between ... and ...",
+    "meaning_zh": "在……和……之间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用介词结构"
+  },
+  {
+    "item_code": "w_008885",
+    "content": "between the races",
+    "meaning_zh": "在比赛间隙",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按短语整体理解"
+  },
+  {
+    "item_code": "w_008886",
+    "content": "between through aside around",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "介词堆叠无明确含义"
+  },
+  {
+    "item_code": "w_008888",
+    "content": "between-class exercise",
+    "meaning_zh": "课间操",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "校园常用表达"
+  },
+  {
+    "item_code": "w_008901",
+    "content": "bewind",
+    "meaning_zh": "托管；管理权",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "冷门法律管理术语"
+  },
+  {
+    "item_code": "w_008909",
+    "content": "beyond anyone's wildest dreams",
+    "meaning_zh": "超乎任何人的最大想象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定夸张表达"
+  },
+  {
+    "item_code": "w_008922",
+    "content": "beyond one's ability",
+    "meaning_zh": "超出某人的能力范围",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词搭配"
+  },
+  {
+    "item_code": "w_008923",
+    "content": "beyond one's budget",
+    "meaning_zh": "超出某人的预算",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词搭配"
+  },
+  {
+    "item_code": "w_008925",
+    "content": "beyond one's expectations",
+    "meaning_zh": "超出某人的预期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词搭配"
+  }
+]

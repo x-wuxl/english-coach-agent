@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_048695",
+    "content": "murmur against",
+    "meaning_zh": "低声抱怨；私下反对",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词短语"
+  },
+  {
+    "item_code": "w_048696",
+    "content": "murmur mute quack",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组噪声无固定义"
+  },
+  {
+    "item_code": "w_048698",
+    "content": "Murray",
+    "meaning_zh": "默里（人名或地名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见专有名词"
+  },
+  {
+    "item_code": "w_048704",
+    "content": "muscle cream",
+    "meaning_zh": "肌肉舒缓霜；肌肉药膏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_048712",
+    "content": "muscle vein",
+    "meaning_zh": "肌肉静脉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学类名词短语"
+  },
+  {
+    "item_code": "w_048717",
+    "content": "muscular responses",
+    "meaning_zh": "肌肉反应",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_048727",
+    "content": "mused",
+    "meaning_zh": "沉思；若有所思地说",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "muse的过去式"
+  },
+  {
+    "item_code": "w_048730",
+    "content": "museum staff",
+    "meaning_zh": "博物馆工作人员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_048737",
+    "content": "music cafe",
+    "meaning_zh": "音乐咖啡馆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见场所名称"
+  },
+  {
+    "item_code": "w_048738",
+    "content": "music café",
+    "meaning_zh": "音乐咖啡馆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见场所名称"
+  },
+  {
+    "item_code": "w_048739",
+    "content": "music class",
+    "meaning_zh": "音乐课",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础学习短语"
+  },
+  {
+    "item_code": "w_048740",
+    "content": "music demo",
+    "meaning_zh": "音乐样片；音乐演示录音",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "音乐制作常用语"
+  },
+  {
+    "item_code": "w_048746",
+    "content": "music programme",
+    "meaning_zh": "音乐节目；音乐课程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "英式常见表达"
+  },
+  {
+    "item_code": "w_048747",
+    "content": "music programs",
+    "meaning_zh": "音乐节目；音乐课程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见复数短语"
+  },
+  {
+    "item_code": "w_048750",
+    "content": "music venue",
+    "meaning_zh": "音乐演出场所",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见场所搭配"
+  },
+  {
+    "item_code": "w_048753",
+    "content": "musical actor",
+    "meaning_zh": "音乐剧演员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职业短语"
+  },
+  {
+    "item_code": "w_048759",
+    "content": "musical element",
+    "meaning_zh": "音乐元素",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见艺术术语"
+  },
+  {
+    "item_code": "w_048774",
+    "content": "musk indo toxin",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声无可靠义"
+  },
+  {
+    "item_code": "w_048776",
+    "content": "musket gun",
+    "meaning_zh": "火枪；滑膛枪",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "武器名词短语"
+  },
+  {
+    "item_code": "w_048785",
+    "content": "must not",
+    "meaning_zh": "禁止；绝不能；不应当",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  }
+]

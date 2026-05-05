@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_039364",
+    "content": "insular islam",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  },
+  {
+    "item_code": "w_039367",
+    "content": "insulate ... from",
+    "meaning_zh": "使……隔绝；使……免受影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_039368",
+    "content": "insulate institute",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常"
+  },
+  {
+    "item_code": "w_039376",
+    "content": "insulin laser metabolism physiology",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "关键词堆砌"
+  },
+  {
+    "item_code": "w_039382",
+    "content": "insulubrius",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_039384",
+    "content": "insuperable difficulty",
+    "meaning_zh": "无法克服的困难",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_039387",
+    "content": "insurance application form",
+    "meaning_zh": "保险申请表",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见事务短语"
+  },
+  {
+    "item_code": "w_039388",
+    "content": "insurance centre",
+    "meaning_zh": "保险中心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见机构名称"
+  },
+  {
+    "item_code": "w_039391",
+    "content": "insurance contributions",
+    "meaning_zh": "保险缴费；保险金缴纳",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见金融表达"
+  },
+  {
+    "item_code": "w_039393",
+    "content": "insurance for",
+    "meaning_zh": "为……投保；针对……的保险",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "介词搭配"
+  },
+  {
+    "item_code": "w_039403",
+    "content": "int",
+    "meaning_zh": "整数类型",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_039406",
+    "content": "intact habitat",
+    "meaning_zh": "未受破坏的栖息地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态常用搭配"
+  },
+  {
+    "item_code": "w_039414",
+    "content": "intangible ideas",
+    "meaning_zh": "无形的想法；抽象的观念",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_039415",
+    "content": "intangible money",
+    "meaning_zh": "无形货币；非实物货币",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "金融语境可成立"
+  },
+  {
+    "item_code": "w_039417",
+    "content": "integer division",
+    "meaning_zh": "整数除法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_039422",
+    "content": "integral dominant reconstruct",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌"
+  },
+  {
+    "item_code": "w_039428",
+    "content": "integrate companion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常"
+  },
+  {
+    "item_code": "w_039432",
+    "content": "integrated tale",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  },
+  {
+    "item_code": "w_039436",
+    "content": "integrationist",
+    "meaning_zh": "主张融合者；种族融合主义者",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "社会政治术语"
+  },
+  {
+    "item_code": "w_039440",
+    "content": "integrity rating",
+    "meaning_zh": "诚信评级；完整性评级",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境决定具体含义"
+  }
+]

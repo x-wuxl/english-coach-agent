@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_081212",
+    "content": "wise management",
+    "meaning_zh": "明智的管理；合理管理",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见管理搭配"
+  },
+  {
+    "item_code": "w_081219",
+    "content": "wish sb. do sth.",
+    "meaning_zh": "希望某人做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "句型表达但形式简略"
+  },
+  {
+    "item_code": "w_081227",
+    "content": "wistful cultish",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配生硬缺少依据"
+  },
+  {
+    "item_code": "w_081238",
+    "content": "with a large margin",
+    "meaning_zh": "以较大差距；大幅度地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见差距表达"
+  },
+  {
+    "item_code": "w_081239",
+    "content": "with a population of",
+    "meaning_zh": "人口为；拥有……人口",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句对应人口表达"
+  },
+  {
+    "item_code": "w_081240",
+    "content": "with a small margin",
+    "meaning_zh": "以微弱差距；小幅度地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见差距表达"
+  },
+  {
+    "item_code": "w_081250",
+    "content": "with an access to",
+    "meaning_zh": "可使用；可接触；可进入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见形式为access to"
+  },
+  {
+    "item_code": "w_081252",
+    "content": "with an average of",
+    "meaning_zh": "平均为；以……为平均数",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见统计表达"
+  },
+  {
+    "item_code": "w_081254",
+    "content": "with an eye towards",
+    "meaning_zh": "着眼于；以……为目标",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_081255",
+    "content": "with assurance",
+    "meaning_zh": "自信地；有把握地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见副词性短语"
+  },
+  {
+    "item_code": "w_081258",
+    "content": "with certain exceptions",
+    "meaning_zh": "有某些例外；除少数情况外",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见限定表达"
+  },
+  {
+    "item_code": "w_081262",
+    "content": "with details of",
+    "meaning_zh": "附有……的详细信息；包含……详情",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见信息搭配"
+  },
+  {
+    "item_code": "w_081264",
+    "content": "with due consideration of",
+    "meaning_zh": "充分考虑到；适当顾及",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "正式固定表达"
+  },
+  {
+    "item_code": "w_081266",
+    "content": "with easy access to",
+    "meaning_zh": "容易获得；方便到达；便于使用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见实用表达"
+  },
+  {
+    "item_code": "w_081269",
+    "content": "with exception of",
+    "meaning_zh": "除……之外",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见形式带the"
+  },
+  {
+    "item_code": "w_081274",
+    "content": "with grace",
+    "meaning_zh": "优雅地；得体地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见方式表达"
+  },
+  {
+    "item_code": "w_081276",
+    "content": "with great passion",
+    "meaning_zh": "怀着极大热情；充满激情地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见情感表达"
+  },
+  {
+    "item_code": "w_081282",
+    "content": "with my parents",
+    "meaning_zh": "和我的父母一起；与我父母同住",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句明确用法"
+  },
+  {
+    "item_code": "w_081283",
+    "content": "with no air of",
+    "meaning_zh": "毫无……的样子；没有……的架势",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "需接抽象名词"
+  },
+  {
+    "item_code": "w_081286",
+    "content": "with one's consent",
+    "meaning_zh": "经某人同意；在某人许可下",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  }
+]

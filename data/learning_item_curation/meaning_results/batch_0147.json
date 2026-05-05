@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_013356",
+    "content": "check e-mail",
+    "meaning_zh": "查看电子邮件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_013357",
+    "content": "check in aircraft",
+    "meaning_zh": "办理登机手续",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑似机场场景表达"
+  },
+  {
+    "item_code": "w_013358",
+    "content": "check in on ...",
+    "meaning_zh": "查看……的情况；探望",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  },
+  {
+    "item_code": "w_013363",
+    "content": "check one's messages",
+    "meaning_zh": "查看自己的消息",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_013364",
+    "content": "check out gadget empire",
+    "meaning_zh": "去看看 Gadget Empire",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "low",
+    "reason": "含专名且语境不足"
+  },
+  {
+    "item_code": "w_013369",
+    "content": "check the scales",
+    "meaning_zh": "检查秤；查看刻度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "scales含义需语境"
+  },
+  {
+    "item_code": "w_013370",
+    "content": "check tip",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_013378",
+    "content": "check-in procedure",
+    "meaning_zh": "登记手续；办理入住或登机流程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_013384",
+    "content": "checked-baggage fees",
+    "meaning_zh": "托运行李费",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅行常见术语"
+  },
+  {
+    "item_code": "w_013396",
+    "content": "checkout counter",
+    "meaning_zh": "收银台；结账柜台",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  },
+  {
+    "item_code": "w_013404",
+    "content": "cheek dance",
+    "meaning_zh": "贴面舞",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑似省略表达"
+  },
+  {
+    "item_code": "w_013405",
+    "content": "cheek forehead",
+    "meaning_zh": "脸颊；前额",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "词语堆叠非短语"
+  },
+  {
+    "item_code": "w_013412",
+    "content": "cheer and clap",
+    "meaning_zh": "欢呼并鼓掌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见并列动作"
+  },
+  {
+    "item_code": "w_013425",
+    "content": "cheerleader defender",
+    "meaning_zh": "啦啦队员；防守队员",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠关系不明"
+  },
+  {
+    "item_code": "w_013427",
+    "content": "cheerleading squad",
+    "meaning_zh": "啦啦队",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_013438",
+    "content": "chef waiter waitress",
+    "meaning_zh": "厨师；男服务员；女服务员",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "词语列表非短语"
+  },
+  {
+    "item_code": "w_013440",
+    "content": "Chelsea Lanmon",
+    "meaning_zh": "切尔西·兰蒙",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "人名音译"
+  },
+  {
+    "item_code": "w_013446",
+    "content": "chemical contaminants",
+    "meaning_zh": "化学污染物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常见术语"
+  },
+  {
+    "item_code": "w_013448",
+    "content": "chemical cycle",
+    "meaning_zh": "化学循环",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "科学术语"
+  },
+  {
+    "item_code": "w_013454",
+    "content": "chemical oxidising agent",
+    "meaning_zh": "化学氧化剂",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "化学术语"
+  }
+]

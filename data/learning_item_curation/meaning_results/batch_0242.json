@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_022864",
+    "content": "dullard body",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_022869",
+    "content": "dumb dyslexia",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准搭配"
+  },
+  {
+    "item_code": "w_022873",
+    "content": "dumbbell-like",
+    "meaning_zh": "哑铃状的；形似哑铃的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_022882",
+    "content": "dump waste water",
+    "meaning_zh": "排放废水；倾倒污水",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保常见表达"
+  },
+  {
+    "item_code": "w_022884",
+    "content": "dumper",
+    "meaning_zh": "自卸卡车；倾倒者；倾销者",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词义"
+  },
+  {
+    "item_code": "w_022890",
+    "content": "dumptious",
+    "meaning_zh": "忧郁的；闷闷不乐的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见形容词"
+  },
+  {
+    "item_code": "w_022893",
+    "content": "dunder",
+    "meaning_zh": "双下划线",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程术语"
+  },
+  {
+    "item_code": "w_022900",
+    "content": "Dunvegan Castle",
+    "meaning_zh": "邓韦根城堡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有地名"
+  },
+  {
+    "item_code": "w_022910",
+    "content": "duplicate bazaar",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_022912",
+    "content": "duplicate expenses",
+    "meaning_zh": "重复费用；重复报销的开支",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常见搭配"
+  },
+  {
+    "item_code": "w_022914",
+    "content": "duplication room",
+    "meaning_zh": "复印室；复制室",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "办公场所搭配"
+  },
+  {
+    "item_code": "w_022922",
+    "content": "durable timber",
+    "meaning_zh": "耐用木材；耐久木料",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "材料类搭配"
+  },
+  {
+    "item_code": "w_022925",
+    "content": "duration of presentation",
+    "meaning_zh": "演示时长；报告时长",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "雅思场景搭配"
+  },
+  {
+    "item_code": "w_022926",
+    "content": "duration of the course",
+    "meaning_zh": "课程时长；课程期限",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育场景搭配"
+  },
+  {
+    "item_code": "w_022930",
+    "content": "during a movie",
+    "meaning_zh": "在电影播放期间；看电影时",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词短语"
+  },
+  {
+    "item_code": "w_022931",
+    "content": "during one's absence",
+    "meaning_zh": "在某人不在期间；某人缺席时",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定介词短语"
+  },
+  {
+    "item_code": "w_022933",
+    "content": "during the same period",
+    "meaning_zh": "在同一时期；同期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常见表达"
+  },
+  {
+    "item_code": "w_022934",
+    "content": "during this period",
+    "meaning_zh": "在此期间；这段时间内",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持释义"
+  },
+  {
+    "item_code": "w_022944",
+    "content": "dust sweep",
+    "meaning_zh": "扫灰尘；清扫尘土",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "基础清洁表达"
+  },
+  {
+    "item_code": "w_022953",
+    "content": "dusty duster broom",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠噪声"
+  }
+]

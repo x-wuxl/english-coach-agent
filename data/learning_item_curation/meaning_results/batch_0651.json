@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_064159",
+    "content": "scare sb. into doing",
+    "meaning_zh": "吓得某人做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_064160",
+    "content": "scare sb. stiff",
+    "meaning_zh": "把某人吓僵；把某人吓坏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_064162",
+    "content": "scarece",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "拼写疑似错误"
+  },
+  {
+    "item_code": "w_064165",
+    "content": "scared frightened",
+    "meaning_zh": "害怕的；受惊的",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "同义词堆叠"
+  },
+  {
+    "item_code": "w_064169",
+    "content": "scarf prospect",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无明确含义"
+  },
+  {
+    "item_code": "w_064173",
+    "content": "scarlet capitalist invitation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无明确含义"
+  },
+  {
+    "item_code": "w_064189",
+    "content": "scavenge biostatistics",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无明确含义"
+  },
+  {
+    "item_code": "w_064193",
+    "content": "scenarist director",
+    "meaning_zh": "编剧兼导演",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "影视职业搭配"
+  },
+  {
+    "item_code": "w_064196",
+    "content": "scenes of important episodes",
+    "meaning_zh": "重要情节的场景",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可判断"
+  },
+  {
+    "item_code": "w_064201",
+    "content": "scenic vistas",
+    "meaning_zh": "优美的景色；风景胜地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见景观搭配"
+  },
+  {
+    "item_code": "w_064215",
+    "content": "scheduler",
+    "meaning_zh": "调度程序；日程安排工具",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_064222",
+    "content": "scheme petition",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无明确含义"
+  },
+  {
+    "item_code": "w_064229",
+    "content": "schist or quartz stone",
+    "meaning_zh": "片岩或石英石",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地质材料表达"
+  },
+  {
+    "item_code": "w_064230",
+    "content": "schister",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "拼写疑似错误"
+  },
+  {
+    "item_code": "w_064239",
+    "content": "scholarly community",
+    "meaning_zh": "学术界；学者群体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_064242",
+    "content": "scholarship and education",
+    "meaning_zh": "学术研究与教育",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "教育语境判断"
+  },
+  {
+    "item_code": "w_064246",
+    "content": "school badge",
+    "meaning_zh": "校徽；学校徽章",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见校园词组"
+  },
+  {
+    "item_code": "w_064248",
+    "content": "school bullying",
+    "meaning_zh": "校园欺凌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会议题"
+  },
+  {
+    "item_code": "w_064252",
+    "content": "school district house",
+    "meaning_zh": "学区房",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "中文常用概念"
+  },
+  {
+    "item_code": "w_064258",
+    "content": "school of literature",
+    "meaning_zh": "文学学院；文学流派",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  }
+]

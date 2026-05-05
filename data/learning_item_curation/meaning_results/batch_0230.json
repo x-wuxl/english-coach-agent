@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_021794",
+    "content": "do judo",
+    "meaning_zh": "练柔道",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "运动搭配"
+  },
+  {
+    "item_code": "w_021797",
+    "content": "do kung fu",
+    "meaning_zh": "练功夫",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "运动搭配"
+  },
+  {
+    "item_code": "w_021798",
+    "content": "do little to",
+    "meaning_zh": "几乎不能；对……没什么作用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_021801",
+    "content": "do my utmost to",
+    "meaning_zh": "尽我最大努力去",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_021802",
+    "content": "do no harm to",
+    "meaning_zh": "对……无害；不伤害……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_021803",
+    "content": "do not",
+    "meaning_zh": "不；不要",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持否定用法"
+  },
+  {
+    "item_code": "w_021804",
+    "content": "do one better",
+    "meaning_zh": "做得更好；胜过一筹",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语表达"
+  },
+  {
+    "item_code": "w_021805",
+    "content": "do one's best to",
+    "meaning_zh": "尽力去做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_021806",
+    "content": "do one's bidding",
+    "meaning_zh": "听从某人的吩咐；照某人的意思办",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语表达"
+  },
+  {
+    "item_code": "w_021812",
+    "content": "do one's own bit",
+    "meaning_zh": "尽自己的一份力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_021815",
+    "content": "do one's share",
+    "meaning_zh": "尽自己的一份责任；分担应做的事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_021819",
+    "content": "do online shopping",
+    "meaning_zh": "网上购物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生活常用搭配"
+  },
+  {
+    "item_code": "w_021821",
+    "content": "do physical exercises",
+    "meaning_zh": "做体育锻炼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "运动搭配"
+  },
+  {
+    "item_code": "w_021822",
+    "content": "do poorly",
+    "meaning_zh": "表现不好；成绩差",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表现类搭配"
+  },
+  {
+    "item_code": "w_021823",
+    "content": "do push-ups",
+    "meaning_zh": "做俯卧撑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "运动搭配"
+  },
+  {
+    "item_code": "w_021825",
+    "content": "do research about ...",
+    "meaning_zh": "对……进行研究",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常用搭配"
+  },
+  {
+    "item_code": "w_021826",
+    "content": "do research in ...",
+    "meaning_zh": "在……领域做研究",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常用搭配"
+  },
+  {
+    "item_code": "w_021827",
+    "content": "do research into ...",
+    "meaning_zh": "对……进行深入研究",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常用搭配"
+  },
+  {
+    "item_code": "w_021832",
+    "content": "do sb. credit",
+    "meaning_zh": "为某人增光；使某人受到称赞",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语表达"
+  },
+  {
+    "item_code": "w_021837",
+    "content": "do sb.'s best",
+    "meaning_zh": "尽某人最大努力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定表达写法少见"
+  }
+]

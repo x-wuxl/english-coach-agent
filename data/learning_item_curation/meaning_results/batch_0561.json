@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_054740",
+    "content": "peril pink progression",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似随机词组"
+  },
+  {
+    "item_code": "w_054748",
+    "content": "perimeter brisk",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_054757",
+    "content": "period costume",
+    "meaning_zh": "时代服装；古装",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见服装搭配"
+  },
+  {
+    "item_code": "w_054758",
+    "content": "period masterpiece",
+    "meaning_zh": "某一时期的杰作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作整体短语"
+  },
+  {
+    "item_code": "w_054761",
+    "content": "period terminate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_054763",
+    "content": "periodic grieve",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_054768",
+    "content": "periodic violent unleashing",
+    "meaning_zh": "周期性的暴力爆发",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义可判断"
+  },
+  {
+    "item_code": "w_054771",
+    "content": "periodical manifest",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不明确"
+  },
+  {
+    "item_code": "w_054772",
+    "content": "periodical publication",
+    "meaning_zh": "期刊；定期出版物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见图书馆词汇"
+  },
+  {
+    "item_code": "w_054773",
+    "content": "periodical rack",
+    "meaning_zh": "期刊架",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见图书馆搭配"
+  },
+  {
+    "item_code": "w_054774",
+    "content": "periodical reading room",
+    "meaning_zh": "期刊阅览室",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见图书馆词汇"
+  },
+  {
+    "item_code": "w_054778",
+    "content": "periolithic",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_054785",
+    "content": "peripheral anesthetic passener",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含拼写噪声"
+  },
+  {
+    "item_code": "w_054819",
+    "content": "permanent accessible",
+    "meaning_zh": "永久可访问的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义可判断"
+  },
+  {
+    "item_code": "w_054822",
+    "content": "permanent grab",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_054826",
+    "content": "permanent members",
+    "meaning_zh": "常任成员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政治组织用语"
+  },
+  {
+    "item_code": "w_054830",
+    "content": "permanent writing",
+    "meaning_zh": "永久性书写；不可擦写文字",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义可判断"
+  },
+  {
+    "item_code": "w_054832",
+    "content": "permanently online",
+    "meaning_zh": "始终在线；长期在线",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见网络表达"
+  },
+  {
+    "item_code": "w_054838",
+    "content": "permeate restraint",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_054850",
+    "content": "permit attempt",
+    "meaning_zh": "允许尝试",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "动词短语可理解"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_069523",
+    "content": "stature ostensible",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_069525",
+    "content": "status dividend",
+    "meaning_zh": "地位红利；身份带来的利益",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "社会语境搭配"
+  },
+  {
+    "item_code": "w_069528",
+    "content": "status refer",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_069530",
+    "content": "statusquo",
+    "meaning_zh": "现状；原状",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "应为status quo"
+  },
+  {
+    "item_code": "w_069532",
+    "content": "statute indicate session",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词串噪声"
+  },
+  {
+    "item_code": "w_069536",
+    "content": "statutory taxation",
+    "meaning_zh": "法定税收；依法征税",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "法律税务搭配"
+  },
+  {
+    "item_code": "w_069555",
+    "content": "stay in a hotel",
+    "meaning_zh": "住在旅馆里",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_069558",
+    "content": "stay in the hut",
+    "meaning_zh": "待在小屋里",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见地点短语"
+  },
+  {
+    "item_code": "w_069564",
+    "content": "stay on track",
+    "meaning_zh": "保持正轨；按计划进行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_069565",
+    "content": "stay open",
+    "meaning_zh": "保持开放；继续营业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见状态表达"
+  },
+  {
+    "item_code": "w_069568",
+    "content": "stay over",
+    "meaning_zh": "留宿；过夜",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词"
+  },
+  {
+    "item_code": "w_069570",
+    "content": "stay silent",
+    "meaning_zh": "保持沉默",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_069573",
+    "content": "stay the same",
+    "meaning_zh": "保持不变",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_069578",
+    "content": "stay within the budget",
+    "meaning_zh": "控制在预算内；不超预算",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见预算表达"
+  },
+  {
+    "item_code": "w_069581",
+    "content": "stay-at-home spouse",
+    "meaning_zh": "全职居家配偶",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "家庭角色表达"
+  },
+  {
+    "item_code": "w_069583",
+    "content": "stayed afloat by",
+    "meaning_zh": "靠……维持下去；靠……勉强生存",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语片段可判断"
+  },
+  {
+    "item_code": "w_069584",
+    "content": "stayed at home",
+    "meaning_zh": "待在家里；留在家里",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_069588",
+    "content": "steadfast imperturbable",
+    "meaning_zh": "坚定沉着的；坚毅冷静的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "近义形容词组合"
+  },
+  {
+    "item_code": "w_069594",
+    "content": "steady consultant insurance",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词串噪声"
+  },
+  {
+    "item_code": "w_069596",
+    "content": "steady current source",
+    "meaning_zh": "恒流源；稳定电流源",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "电子技术术语"
+  }
+]

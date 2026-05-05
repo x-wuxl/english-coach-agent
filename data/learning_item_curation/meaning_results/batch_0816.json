@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_080632",
+    "content": "western paintings",
+    "meaning_zh": "西方绘画；西洋画",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见艺术类搭配"
+  },
+  {
+    "item_code": "w_080633",
+    "content": "western printing press",
+    "meaning_zh": "西式印刷机；西方印刷术",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按整体搭配释义"
+  },
+  {
+    "item_code": "w_080634",
+    "content": "western specialties",
+    "meaning_zh": "西式特色菜；西方特产",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见餐饮旅游搭配"
+  },
+  {
+    "item_code": "w_080638",
+    "content": "Western-style butler",
+    "meaning_zh": "西式管家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "明确职业搭配"
+  },
+  {
+    "item_code": "w_080647",
+    "content": "Wet floor.",
+    "meaning_zh": "地面湿滑；小心地滑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指警示标语"
+  },
+  {
+    "item_code": "w_080649",
+    "content": "wet obeisance",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_080663",
+    "content": "What a nice cake!",
+    "meaning_zh": "多棒的蛋糕啊！",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "小学感叹句"
+  },
+  {
+    "item_code": "w_080673",
+    "content": "What colour ...?",
+    "meaning_zh": "……是什么颜色？",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见询问颜色句型"
+  },
+  {
+    "item_code": "w_080674",
+    "content": "What counts as ...?",
+    "meaning_zh": "什么算作……？；……的标准是什么？",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见定义判断句型"
+  },
+  {
+    "item_code": "w_080678",
+    "content": "What does it mean?",
+    "meaning_zh": "这是什么意思？",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句完全匹配"
+  },
+  {
+    "item_code": "w_080686",
+    "content": "What is it for?",
+    "meaning_zh": "它是做什么用的？",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见询问用途句型"
+  },
+  {
+    "item_code": "w_080688",
+    "content": "what makes sb. tick",
+    "meaning_zh": "某人的动机；某人的内心想法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语"
+  },
+  {
+    "item_code": "w_080695",
+    "content": "What's for breakfast?",
+    "meaning_zh": "早饭吃什么？",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句完全匹配"
+  },
+  {
+    "item_code": "w_080699",
+    "content": "What's on?",
+    "meaning_zh": "在上演什么？；有什么节目？",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见口语问法"
+  },
+  {
+    "item_code": "w_080701",
+    "content": "What's the date?",
+    "meaning_zh": "今天是几号？；日期是多少？",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句辅助判断"
+  },
+  {
+    "item_code": "w_080705",
+    "content": "What's the problem?",
+    "meaning_zh": "出什么问题了？；有什么问题？",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句辅助判断"
+  },
+  {
+    "item_code": "w_080723",
+    "content": "wheat yogurt yolk",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串无明确整体含义"
+  },
+  {
+    "item_code": "w_080727",
+    "content": "wheedle restive",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似无关词拼接"
+  },
+  {
+    "item_code": "w_080729",
+    "content": "wheel gear break",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词串"
+  },
+  {
+    "item_code": "w_080740",
+    "content": "when data went astray",
+    "meaning_zh": "当数据出错时；当数据偏离正轨时",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按短语整体理解"
+  }
+]

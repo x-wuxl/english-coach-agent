@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_024858",
+    "content": "entrenched competitors",
+    "meaning_zh": "根基稳固的竞争者；老牌竞争对手",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商业搭配"
+  },
+  {
+    "item_code": "w_024861",
+    "content": "entrepreneur team",
+    "meaning_zh": "创业团队；企业家团队",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商业表达"
+  },
+  {
+    "item_code": "w_024868",
+    "content": "entrusted investment",
+    "meaning_zh": "委托投资",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融固定搭配"
+  },
+  {
+    "item_code": "w_024875",
+    "content": "entrée",
+    "meaning_zh": "主菜；进入权；入场机会",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见词义清晰"
+  },
+  {
+    "item_code": "w_024887",
+    "content": "envelope criticize entail",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无意义噪声词串"
+  },
+  {
+    "item_code": "w_024896",
+    "content": "environment and resources biology",
+    "meaning_zh": "环境与资源生物学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "学科名称表达"
+  },
+  {
+    "item_code": "w_024897",
+    "content": "environment damage",
+    "meaning_zh": "环境破坏；环境损害",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保常见搭配"
+  },
+  {
+    "item_code": "w_024899",
+    "content": "environment-friendly agriculture",
+    "meaning_zh": "环境友好型农业；环保农业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保常见搭配"
+  },
+  {
+    "item_code": "w_024900",
+    "content": "environment-friendly products",
+    "meaning_zh": "环保产品；环境友好型产品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保常见搭配"
+  },
+  {
+    "item_code": "w_024901",
+    "content": "environment-friendly region",
+    "meaning_zh": "环境友好型地区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策类常见表达"
+  },
+  {
+    "item_code": "w_024902",
+    "content": "environment-friendly society",
+    "meaning_zh": "环境友好型社会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策类固定表达"
+  },
+  {
+    "item_code": "w_024904",
+    "content": "environmental and social imbalances",
+    "meaning_zh": "环境和社会失衡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "含义直接清晰"
+  },
+  {
+    "item_code": "w_024907",
+    "content": "environmental charity",
+    "meaning_zh": "环保慈善机构；环保公益组织",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "机构类常见搭配"
+  },
+  {
+    "item_code": "w_024911",
+    "content": "environmental constraint",
+    "meaning_zh": "环境约束；环境限制",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常见搭配"
+  },
+  {
+    "item_code": "w_024917",
+    "content": "environmental indicators",
+    "meaning_zh": "环境指标",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保术语常见"
+  },
+  {
+    "item_code": "w_024918",
+    "content": "environmental irritant",
+    "meaning_zh": "环境刺激物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学环保术语"
+  },
+  {
+    "item_code": "w_024922",
+    "content": "environmental police force",
+    "meaning_zh": "环保警察队伍；环境执法队伍",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "执法类表达"
+  },
+  {
+    "item_code": "w_024931",
+    "content": "environmental science class",
+    "meaning_zh": "环境科学课",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "课程名称清晰"
+  },
+  {
+    "item_code": "w_024938",
+    "content": "environmentally sustainable",
+    "meaning_zh": "环境可持续的；生态上可持续的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保核心表达"
+  },
+  {
+    "item_code": "w_024942",
+    "content": "envision ... as",
+    "meaning_zh": "把……设想为；将……想象成",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  }
+]

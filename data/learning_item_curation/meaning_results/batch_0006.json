@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_000197",
+    "content": "a demanding task",
+    "meaning_zh": "一项艰巨的任务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_000198",
+    "content": "a desired treat",
+    "meaning_zh": "想要的奖励；心仪的享受",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缺少语境但含义可推"
+  },
+  {
+    "item_code": "w_000199",
+    "content": "a desk",
+    "meaning_zh": "一张书桌；一张办公桌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句均指桌子"
+  },
+  {
+    "item_code": "w_000200",
+    "content": "a developed country",
+    "meaning_zh": "发达国家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_000201",
+    "content": "a developing country",
+    "meaning_zh": "发展中国家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_000203",
+    "content": "a doctor",
+    "meaning_zh": "医生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句均指职业"
+  },
+  {
+    "item_code": "w_000204",
+    "content": "a doctor's degree",
+    "meaning_zh": "博士学位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_000207",
+    "content": "a domestic flight",
+    "meaning_zh": "国内航班",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅行表达"
+  },
+  {
+    "item_code": "w_000208",
+    "content": "a door",
+    "meaning_zh": "一扇门",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句均指门"
+  },
+  {
+    "item_code": "w_000209",
+    "content": "a dormant volcano",
+    "meaning_zh": "休眠火山",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见地理术语"
+  },
+  {
+    "item_code": "w_000215",
+    "content": "a dramatic increase",
+    "meaning_zh": "急剧增加；显著增长",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_000216",
+    "content": "a dramatic note",
+    "meaning_zh": "戏剧性的语气；戏剧性色彩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "note义项依语境变化"
+  },
+  {
+    "item_code": "w_000217",
+    "content": "a drawn game",
+    "meaning_zh": "平局；打成平局的比赛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "比赛固定表达"
+  },
+  {
+    "item_code": "w_000219",
+    "content": "a drove of geese",
+    "meaning_zh": "一群鹅",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动物集合名词"
+  },
+  {
+    "item_code": "w_000221",
+    "content": "a dynastic capital",
+    "meaning_zh": "王朝都城；朝代首都",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "历史主题搭配"
+  },
+  {
+    "item_code": "w_000222",
+    "content": "a fabulous amount",
+    "meaning_zh": "巨额；惊人的数量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "fabulous表极大"
+  },
+  {
+    "item_code": "w_000223",
+    "content": "a false dawn",
+    "meaning_zh": "虚假的希望；假曙光",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见比喻表达"
+  },
+  {
+    "item_code": "w_000224",
+    "content": "a falsely flattering image",
+    "meaning_zh": "不真实的美化形象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缺少具体语境"
+  },
+  {
+    "item_code": "w_000225",
+    "content": "a famous landmark",
+    "meaning_zh": "著名地标",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅游表达"
+  },
+  {
+    "item_code": "w_000228",
+    "content": "a fast typist",
+    "meaning_zh": "打字很快的人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职业能力表达"
+  }
+]

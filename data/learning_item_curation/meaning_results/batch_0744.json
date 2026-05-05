@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_073413",
+    "content": "test-oriented education",
+    "meaning_zh": "应试教育",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教育术语"
+  },
+  {
+    "item_code": "w_073429",
+    "content": "testimony personal intense",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词序噪声无固定义"
+  },
+  {
+    "item_code": "w_073432",
+    "content": "testing techniques",
+    "meaning_zh": "测试技术；考试技巧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_073439",
+    "content": "tetanus rim",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无常见固定含义"
+  },
+  {
+    "item_code": "w_073442",
+    "content": "tether in sight",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_073453",
+    "content": "Tex-Mex cookout",
+    "meaning_zh": "德州墨西哥风味户外聚餐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文化餐饮搭配"
+  },
+  {
+    "item_code": "w_073457",
+    "content": "text encoding",
+    "meaning_zh": "文本编码",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_073458",
+    "content": "text file",
+    "meaning_zh": "文本文件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_073461",
+    "content": "text messenger",
+    "meaning_zh": "短信通讯工具；发短信的人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义依语境略变"
+  },
+  {
+    "item_code": "w_073465",
+    "content": "textbook lesson",
+    "meaning_zh": "课本课程；教材中的一课",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教学常见搭配"
+  },
+  {
+    "item_code": "w_073467",
+    "content": "textbooks allowance",
+    "meaning_zh": "教材津贴；课本补助",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解但少见"
+  },
+  {
+    "item_code": "w_073469",
+    "content": "textile division",
+    "meaning_zh": "纺织部门；纺织事业部",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商业组织搭配"
+  },
+  {
+    "item_code": "w_073470",
+    "content": "textile dyeing industry",
+    "meaning_zh": "纺织印染业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "行业术语"
+  },
+  {
+    "item_code": "w_073479",
+    "content": "Tfboys.",
+    "meaning_zh": "TFBOYS，中国男子演唱组合",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词"
+  },
+  {
+    "item_code": "w_073481",
+    "content": "tha",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写残片"
+  },
+  {
+    "item_code": "w_073482",
+    "content": "thad",
+    "meaning_zh": "萨德，人名",
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "低频人名学习价值低"
+  },
+  {
+    "item_code": "w_073495",
+    "content": "thank goodness for",
+    "meaning_zh": "幸亏有；多亏了",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_073519",
+    "content": "that form",
+    "meaning_zh": "那种形式；那张表格",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "需语境区分含义"
+  },
+  {
+    "item_code": "w_073528",
+    "content": "That's funny.",
+    "meaning_zh": "真有意思；真奇怪",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见口语句"
+  },
+  {
+    "item_code": "w_073532",
+    "content": "that's to say",
+    "meaning_zh": "也就是说；换句话说",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持释义"
+  }
+]

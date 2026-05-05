@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_047147",
+    "content": "migrating population",
+    "meaning_zh": "迁徙人口；迁移种群",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见迁移搭配"
+  },
+  {
+    "item_code": "w_047154",
+    "content": "migratory animal",
+    "meaning_zh": "迁徙动物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生物学搭配"
+  },
+  {
+    "item_code": "w_047159",
+    "content": "milamiter",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "拼写疑似错误"
+  },
+  {
+    "item_code": "w_047163",
+    "content": "mild asthma",
+    "meaning_zh": "轻度哮喘",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见医学搭配"
+  },
+  {
+    "item_code": "w_047164",
+    "content": "mild interest",
+    "meaning_zh": "轻微兴趣；略感兴趣",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见程度搭配"
+  },
+  {
+    "item_code": "w_047165",
+    "content": "mild skepticism",
+    "meaning_zh": "轻微怀疑；温和质疑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见态度表达"
+  },
+  {
+    "item_code": "w_047166",
+    "content": "mild spicy curry",
+    "meaning_zh": "微辣咖喱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略不标准但可懂"
+  },
+  {
+    "item_code": "w_047169",
+    "content": "mildly sympathetic",
+    "meaning_zh": "略有同情的；稍表支持的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见态度表达"
+  },
+  {
+    "item_code": "w_047176",
+    "content": "milepost navigation",
+    "meaning_zh": "里程标导航",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专业搭配可判断"
+  },
+  {
+    "item_code": "w_047194",
+    "content": "military magazine",
+    "meaning_zh": "军事杂志",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "无例句按常见义"
+  },
+  {
+    "item_code": "w_047199",
+    "content": "military tactic",
+    "meaning_zh": "军事战术",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见军事搭配"
+  },
+  {
+    "item_code": "w_047203",
+    "content": "military-civilian integration",
+    "meaning_zh": "军民融合",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定政策术语"
+  },
+  {
+    "item_code": "w_047208",
+    "content": "milk a cow",
+    "meaning_zh": "给奶牛挤奶",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_047210",
+    "content": "milk peak hedonism",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "组合无可靠含义"
+  },
+  {
+    "item_code": "w_047228",
+    "content": "millie",
+    "meaning_zh": "米莉（人名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句显示为人名"
+  },
+  {
+    "item_code": "w_047239",
+    "content": "Millionaires' Special",
+    "meaning_zh": "百万富翁特供；富豪专享",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专名式短语"
+  },
+  {
+    "item_code": "w_047247",
+    "content": "milometer adometer",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含拼写错误噪声"
+  },
+  {
+    "item_code": "w_047249",
+    "content": "Milu deer",
+    "meaning_zh": "麋鹿",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动物名称"
+  },
+  {
+    "item_code": "w_047252",
+    "content": "mimed performance",
+    "meaning_zh": "哑剧表演；模仿表演",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表演搭配"
+  },
+  {
+    "item_code": "w_047255",
+    "content": "mimic literary dehydration",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "组合无可靠含义"
+  }
+]

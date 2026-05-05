@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_000302",
+    "content": "a higher proportion of",
+    "meaning_zh": "更高比例的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "比例搭配"
+  },
+  {
+    "item_code": "w_000304",
+    "content": "a hope school",
+    "meaning_zh": "一所希望小学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教育表达"
+  },
+  {
+    "item_code": "w_000307",
+    "content": "a housing estate",
+    "meaning_zh": "一个住宅区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定名词短语"
+  },
+  {
+    "item_code": "w_000308",
+    "content": "a huge amount of",
+    "meaning_zh": "大量的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "数量搭配"
+  },
+  {
+    "item_code": "w_000309",
+    "content": "a huge group of",
+    "meaning_zh": "一大群",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "群体数量表达"
+  },
+  {
+    "item_code": "w_000310",
+    "content": "a huge number of",
+    "meaning_zh": "大量的；许多",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句印证数量义"
+  },
+  {
+    "item_code": "w_000311",
+    "content": "a huge percentage of",
+    "meaning_zh": "很大比例的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "比例搭配"
+  },
+  {
+    "item_code": "w_000312",
+    "content": "a huge TV screen",
+    "meaning_zh": "一个巨大的电视屏幕",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_000314",
+    "content": "a hydraulic jack",
+    "meaning_zh": "液压千斤顶",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术名词"
+  },
+  {
+    "item_code": "w_000316",
+    "content": "a jar of jam",
+    "meaning_zh": "一罐果酱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "容器量词搭配"
+  },
+  {
+    "item_code": "w_000317",
+    "content": "a jeep",
+    "meaning_zh": "一辆吉普车",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础名词"
+  },
+  {
+    "item_code": "w_000318",
+    "content": "a jobless person",
+    "meaning_zh": "失业者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人物描述短语"
+  },
+  {
+    "item_code": "w_000319",
+    "content": "a judge ruled that",
+    "meaning_zh": "法官裁定……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律报道表达"
+  },
+  {
+    "item_code": "w_000320",
+    "content": "a jump of",
+    "meaning_zh": "增加了；跃升了",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见增长表达"
+  },
+  {
+    "item_code": "w_000321",
+    "content": "a keen interest",
+    "meaning_zh": "浓厚的兴趣",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_000322",
+    "content": "a keen kayaker",
+    "meaning_zh": "热衷皮划艇的人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人物描述短语"
+  },
+  {
+    "item_code": "w_000323",
+    "content": "a key school",
+    "meaning_zh": "一所重点学校",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育常用表达"
+  },
+  {
+    "item_code": "w_000325",
+    "content": "a kite",
+    "meaning_zh": "风筝",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句印证词义"
+  },
+  {
+    "item_code": "w_000329",
+    "content": "a laissez-faire economy",
+    "meaning_zh": "自由放任经济",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济学术语"
+  },
+  {
+    "item_code": "w_000330",
+    "content": "a lamp bracket",
+    "meaning_zh": "灯架；灯具支架",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "物品名词短语"
+  }
+]

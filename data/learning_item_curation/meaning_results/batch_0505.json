@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_048954",
+    "content": "nacy relevant",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词条"
+  },
+  {
+    "item_code": "w_048955",
+    "content": "nader",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_048965",
+    "content": "nail antiviral",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_048973",
+    "content": "Nair",
+    "meaning_zh": "奈尔（姓氏或品牌名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有名词"
+  },
+  {
+    "item_code": "w_048979",
+    "content": "naiveté",
+    "meaning_zh": "天真；幼稚；轻信",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见GRE词汇"
+  },
+  {
+    "item_code": "w_048983",
+    "content": "naked kiss",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定表达"
+  },
+  {
+    "item_code": "w_048985",
+    "content": "naked official",
+    "meaning_zh": "裸官",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "中国特色政治词"
+  },
+  {
+    "item_code": "w_048997",
+    "content": "name mangling",
+    "meaning_zh": "名称修饰；名字改编",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_049000",
+    "content": "name something after",
+    "meaning_zh": "以……命名某物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_049005",
+    "content": "named tuple",
+    "meaning_zh": "命名元组",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程术语"
+  },
+  {
+    "item_code": "w_049008",
+    "content": "namenculture",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_049011",
+    "content": "namespace",
+    "meaning_zh": "命名空间",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_049012",
+    "content": "namespace package",
+    "meaning_zh": "命名空间包",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "Python相关术语"
+  },
+  {
+    "item_code": "w_049013",
+    "content": "nametag ripping",
+    "meaning_zh": "撕名牌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "综艺游戏表达"
+  },
+  {
+    "item_code": "w_049015",
+    "content": "Namjin",
+    "meaning_zh": "南镇（人名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "韩语人名音译"
+  },
+  {
+    "item_code": "w_049016",
+    "content": "nan",
+    "meaning_zh": "奶奶；馕",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持双义"
+  },
+  {
+    "item_code": "w_049020",
+    "content": "nanny blacklist",
+    "meaning_zh": "保姆黑名单",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "社会话题搭配"
+  },
+  {
+    "item_code": "w_049021",
+    "content": "nanny industry",
+    "meaning_zh": "保姆行业；家政保育行业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见行业表达"
+  },
+  {
+    "item_code": "w_049029",
+    "content": "nanopharmaceutical",
+    "meaning_zh": "纳米药物；纳米制药的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "科技医学术语"
+  },
+  {
+    "item_code": "w_049039",
+    "content": "nappy diaper babysitter",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠噪声"
+  }
+]

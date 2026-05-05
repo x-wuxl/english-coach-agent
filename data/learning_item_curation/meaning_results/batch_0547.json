@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_053197",
+    "content": "owe sb. a favor",
+    "meaning_zh": "欠某人人情",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_053201",
+    "content": "owe success to sb.",
+    "meaning_zh": "把成功归功于某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_053210",
+    "content": "own rent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_053214",
+    "content": "own-brand product",
+    "meaning_zh": "自有品牌产品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常用术语"
+  },
+  {
+    "item_code": "w_053220",
+    "content": "ownus",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "拼写疑似错误"
+  },
+  {
+    "item_code": "w_053226",
+    "content": "Oxford University",
+    "meaning_zh": "牛津大学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词"
+  },
+  {
+    "item_code": "w_053243",
+    "content": "oxy moron wince",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声词组"
+  },
+  {
+    "item_code": "w_053262",
+    "content": "oyabun-kobun",
+    "meaning_zh": "亲分子分关系；上下级依附关系",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "日语文化术语"
+  },
+  {
+    "item_code": "w_053264",
+    "content": "oyster consumption",
+    "meaning_zh": "牡蛎消费；食用牡蛎",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_053270",
+    "content": "ozone molecule",
+    "meaning_zh": "臭氧分子",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "科学术语"
+  },
+  {
+    "item_code": "w_053273",
+    "content": "p toll tomb",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声词组"
+  },
+  {
+    "item_code": "w_053303",
+    "content": "pacify hurricane flinch",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语随机拼接"
+  },
+  {
+    "item_code": "w_053310",
+    "content": "pack gifts elegantly",
+    "meaning_zh": "优雅地包装礼物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词短语"
+  },
+  {
+    "item_code": "w_053314",
+    "content": "pack pipe cigar",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不清"
+  },
+  {
+    "item_code": "w_053318",
+    "content": "package adhere",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_053324",
+    "content": "packed to the brim",
+    "meaning_zh": "挤得满满的；装得满满的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习惯表达"
+  },
+  {
+    "item_code": "w_053339",
+    "content": "padding pool",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_053344",
+    "content": "padiatrist",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "拼写疑似错误"
+  },
+  {
+    "item_code": "w_053361",
+    "content": "paging",
+    "meaning_zh": "分页；传呼",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_053364",
+    "content": "paichi",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  }
+]

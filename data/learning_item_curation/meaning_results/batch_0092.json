@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_007729",
+    "content": "be numbered among",
+    "meaning_zh": "被列为；跻身于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_007731",
+    "content": "be objective about",
+    "meaning_zh": "对……客观",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_007733",
+    "content": "be obligated to do",
+    "meaning_zh": "有义务做；必须做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_007739",
+    "content": "be obtained from",
+    "meaning_zh": "从……获得；来源于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "被动搭配"
+  },
+  {
+    "item_code": "w_007743",
+    "content": "be of ... importance",
+    "meaning_zh": "具有……重要性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句式"
+  },
+  {
+    "item_code": "w_007746",
+    "content": "be of benefit",
+    "meaning_zh": "有益；有帮助",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句式"
+  },
+  {
+    "item_code": "w_007747",
+    "content": "be of great benefit",
+    "meaning_zh": "大有益处；很有帮助",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句式"
+  },
+  {
+    "item_code": "w_007749",
+    "content": "be of great value",
+    "meaning_zh": "很有价值",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句式"
+  },
+  {
+    "item_code": "w_007750",
+    "content": "be of little good",
+    "meaning_zh": "没什么好处；用处不大",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达较少见"
+  },
+  {
+    "item_code": "w_007751",
+    "content": "be of medium build",
+    "meaning_zh": "中等身材",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "外貌描述"
+  },
+  {
+    "item_code": "w_007752",
+    "content": "be of medium height",
+    "meaning_zh": "中等身高",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "外貌描述"
+  },
+  {
+    "item_code": "w_007753",
+    "content": "be of no use",
+    "meaning_zh": "没有用处",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句式"
+  },
+  {
+    "item_code": "w_007754",
+    "content": "be of primary importance",
+    "meaning_zh": "至关重要；首要重要",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句式"
+  },
+  {
+    "item_code": "w_007757",
+    "content": "be of the essence",
+    "meaning_zh": "至关重要；必不可少",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语"
+  },
+  {
+    "item_code": "w_007758",
+    "content": "be of this kind",
+    "meaning_zh": "属于这种类型",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_007759",
+    "content": "be of use",
+    "meaning_zh": "有用；有帮助",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持"
+  },
+  {
+    "item_code": "w_007762",
+    "content": "be off guard",
+    "meaning_zh": "没有防备；疏于警惕",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_007764",
+    "content": "be off one's rocker",
+    "meaning_zh": "发疯；神志不清",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "口语习语"
+  },
+  {
+    "item_code": "w_007765",
+    "content": "be off the track",
+    "meaning_zh": "偏离正题；走错方向",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_007772",
+    "content": "be on business",
+    "meaning_zh": "出差；因公办事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_006870",
+    "content": "be advised by",
+    "meaning_zh": "由……建议；听从……劝告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定被动搭配"
+  },
+  {
+    "item_code": "w_006871",
+    "content": "be advised to do",
+    "meaning_zh": "被建议做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动搭配"
+  },
+  {
+    "item_code": "w_006885",
+    "content": "be alien from",
+    "meaning_zh": "与……格格不入；不符合",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "较书面固定搭配"
+  },
+  {
+    "item_code": "w_006892",
+    "content": "be all to pieces",
+    "meaning_zh": "心烦意乱；崩溃",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "习语表达"
+  },
+  {
+    "item_code": "w_006896",
+    "content": "be along with",
+    "meaning_zh": "与……在一起；随同……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语搭配"
+  },
+  {
+    "item_code": "w_006909",
+    "content": "be annoyed with",
+    "meaning_zh": "对……恼怒；被……烦扰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_006911",
+    "content": "be another matter",
+    "meaning_zh": "是另一回事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_006918",
+    "content": "be appreciated for",
+    "meaning_zh": "因……而受到欣赏；因……而被感激",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动搭配"
+  },
+  {
+    "item_code": "w_006923",
+    "content": "be arbiters of",
+    "meaning_zh": "是……的裁决者；决定……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "名词搭配"
+  },
+  {
+    "item_code": "w_006924",
+    "content": "be armed with",
+    "meaning_zh": "配备有；装备有",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动搭配"
+  },
+  {
+    "item_code": "w_006931",
+    "content": "be assigned to do",
+    "meaning_zh": "被指派做某事；被安排做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动搭配"
+  },
+  {
+    "item_code": "w_006938",
+    "content": "be at breakfast",
+    "meaning_zh": "正在吃早餐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "就餐固定表达"
+  },
+  {
+    "item_code": "w_006945",
+    "content": "be at lunch",
+    "meaning_zh": "正在吃午饭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "就餐固定表达"
+  },
+  {
+    "item_code": "w_006948",
+    "content": "be at one's disposal",
+    "meaning_zh": "任某人支配；供某人使用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  },
+  {
+    "item_code": "w_006949",
+    "content": "be at one's ease",
+    "meaning_zh": "感到自在；无拘无束",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  },
+  {
+    "item_code": "w_006954",
+    "content": "be at supper",
+    "meaning_zh": "正在吃晚饭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "就餐固定表达"
+  },
+  {
+    "item_code": "w_006962",
+    "content": "be attractive to",
+    "meaning_zh": "对……有吸引力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_006966",
+    "content": "be authorized to",
+    "meaning_zh": "被授权做某事；有权做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动搭配"
+  },
+  {
+    "item_code": "w_006973",
+    "content": "be backed up",
+    "meaning_zh": "得到支持；被备份；堵塞",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "多义短语缺例句"
+  },
+  {
+    "item_code": "w_006976",
+    "content": "be badly off",
+    "meaning_zh": "贫困；境况不好",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  }
+]

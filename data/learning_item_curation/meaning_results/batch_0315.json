@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_029868",
+    "content": "full-length portrait",
+    "meaning_zh": "全身肖像",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见美术摄影搭配"
+  },
+  {
+    "item_code": "w_029869",
+    "content": "full-length trailer",
+    "meaning_zh": "完整版预告片",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "影视宣传语境搭配"
+  },
+  {
+    "item_code": "w_029872",
+    "content": "full-page advertisement",
+    "meaning_zh": "整版广告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "广告版面常用表达"
+  },
+  {
+    "item_code": "w_029877",
+    "content": "full-spectrum light",
+    "meaning_zh": "全光谱光源",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "照明技术常用术语"
+  },
+  {
+    "item_code": "w_029880",
+    "content": "full-time education",
+    "meaning_zh": "全日制教育",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育领域固定搭配"
+  },
+  {
+    "item_code": "w_029882",
+    "content": "full-time school",
+    "meaning_zh": "全日制学校",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "教育语境可理解"
+  },
+  {
+    "item_code": "w_029889",
+    "content": "fully-licensed",
+    "meaning_zh": "完全获得许可的；持有正式执照的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词含义明确"
+  },
+  {
+    "item_code": "w_029892",
+    "content": "fulminate barbarian section",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不自然疑似噪声"
+  },
+  {
+    "item_code": "w_029893",
+    "content": "fulminate tantalize",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "两个动词拼接成噪声"
+  },
+  {
+    "item_code": "w_029899",
+    "content": "fulson",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断词义"
+  },
+  {
+    "item_code": "w_029911",
+    "content": "function annotation",
+    "meaning_zh": "函数注解；函数标注",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语明确"
+  },
+  {
+    "item_code": "w_029914",
+    "content": "function call",
+    "meaning_zh": "函数调用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程基础术语"
+  },
+  {
+    "item_code": "w_029915",
+    "content": "function definition",
+    "meaning_zh": "函数定义",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程基础术语"
+  },
+  {
+    "item_code": "w_029916",
+    "content": "function object",
+    "meaning_zh": "函数对象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语明确"
+  },
+  {
+    "item_code": "w_029920",
+    "content": "functional prescribe",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立疑似噪声"
+  },
+  {
+    "item_code": "w_029921",
+    "content": "functional programming style",
+    "meaning_zh": "函数式编程风格",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语明确"
+  },
+  {
+    "item_code": "w_029927",
+    "content": "functions of products",
+    "meaning_zh": "产品功能",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商业产品常用表达"
+  },
+  {
+    "item_code": "w_029933",
+    "content": "fundamental differences between...and",
+    "meaning_zh": "……与……之间的根本差异",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "写作常用句型"
+  },
+  {
+    "item_code": "w_029934",
+    "content": "fundamental fairness",
+    "meaning_zh": "基本公平；根本公平",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律政治常用概念"
+  },
+  {
+    "item_code": "w_029935",
+    "content": "Fundamental Physics Prize",
+    "meaning_zh": "基础物理学突破奖",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有奖项名称"
+  }
+]

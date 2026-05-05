@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_053367",
+    "content": "paid family leave",
+    "meaning_zh": "带薪家庭假",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见劳动福利表达"
+  },
+  {
+    "item_code": "w_053369",
+    "content": "paid live webcast",
+    "meaning_zh": "付费网络直播",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见互联网表达"
+  },
+  {
+    "item_code": "w_053370",
+    "content": "paid make-up class",
+    "meaning_zh": "付费补课",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育场景搭配"
+  },
+  {
+    "item_code": "w_053372",
+    "content": "paid post deletion",
+    "meaning_zh": "付费删帖",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "网络治理相关表达"
+  },
+  {
+    "item_code": "w_053377",
+    "content": "pain and sorrow",
+    "meaning_zh": "痛苦与悲伤",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定并列表达"
+  },
+  {
+    "item_code": "w_053383",
+    "content": "painful stiff headache ache",
+    "meaning_zh": "疼痛、僵硬、头痛和酸痛",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不自然疑似噪声"
+  },
+  {
+    "item_code": "w_053387",
+    "content": "painkiller penicillin",
+    "meaning_zh": "止痛药；青霉素",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "并列词条疑似噪声"
+  },
+  {
+    "item_code": "w_053391",
+    "content": "pains and sorrows",
+    "meaning_zh": "痛苦与悲伤",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见复数并列表达"
+  },
+  {
+    "item_code": "w_053393",
+    "content": "painstaking efforts",
+    "meaning_zh": "艰苦努力；煞费苦心的努力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_053394",
+    "content": "painstaking scrimp",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_053401",
+    "content": "painted face type",
+    "meaning_zh": "花脸行当；脸谱类型",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "多指戏曲术语"
+  },
+  {
+    "item_code": "w_053402",
+    "content": "painted role",
+    "meaning_zh": "花脸角色",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "多指戏曲角色"
+  },
+  {
+    "item_code": "w_053406",
+    "content": "painting class",
+    "meaning_zh": "绘画课",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见课程表达"
+  },
+  {
+    "item_code": "w_053407",
+    "content": "painting clubs",
+    "meaning_zh": "绘画俱乐部",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社团表达"
+  },
+  {
+    "item_code": "w_053408",
+    "content": "painting their bathroom",
+    "meaning_zh": "粉刷他们的浴室",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "家装动作表达"
+  },
+  {
+    "item_code": "w_053409",
+    "content": "painting their bedroom",
+    "meaning_zh": "粉刷他们的卧室",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "家装动作表达"
+  },
+  {
+    "item_code": "w_053410",
+    "content": "painting their kitchen",
+    "meaning_zh": "粉刷他们的厨房",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "家装动作表达"
+  },
+  {
+    "item_code": "w_053411",
+    "content": "painting their living room",
+    "meaning_zh": "粉刷他们的客厅",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "家装动作表达"
+  },
+  {
+    "item_code": "w_053423",
+    "content": "Paisley shirts",
+    "meaning_zh": "佩斯利花纹衬衫",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "服饰花纹表达"
+  },
+  {
+    "item_code": "w_053434",
+    "content": "palatability",
+    "meaning_zh": "适口性；可口程度",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术词汇"
+  }
+]

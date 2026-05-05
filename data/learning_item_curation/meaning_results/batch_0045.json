@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_003191",
+    "content": "an elite university",
+    "meaning_zh": "一所精英大学；一所顶尖大学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "明显名词短语"
+  },
+  {
+    "item_code": "w_003192",
+    "content": "an empty promise",
+    "meaning_zh": "空头承诺；无法兑现的承诺",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_003193",
+    "content": "an encounter action",
+    "meaning_zh": "遭遇战行动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "偏军事术语"
+  },
+  {
+    "item_code": "w_003195",
+    "content": "an enormous comfortable sofa",
+    "meaning_zh": "一张巨大而舒适的沙发",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通描述性短语"
+  },
+  {
+    "item_code": "w_003196",
+    "content": "an epic novel",
+    "meaning_zh": "一部史诗小说；一部长篇巨著",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文学常见搭配"
+  },
+  {
+    "item_code": "w_003197",
+    "content": "an epidemic of",
+    "meaning_zh": "大量发生的；泛滥的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_003198",
+    "content": "an essence of immortality",
+    "meaning_zh": "长生不朽的精髓；永生的本质",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "抽象名词短语"
+  },
+  {
+    "item_code": "w_003199",
+    "content": "an essential part",
+    "meaning_zh": "必要组成部分；重要部分",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义匹配"
+  },
+  {
+    "item_code": "w_003200",
+    "content": "an ever-growing number",
+    "meaning_zh": "不断增长的数量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见数量表达"
+  },
+  {
+    "item_code": "w_003201",
+    "content": "an ever-growing number of",
+    "meaning_zh": "越来越多的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见数量表达"
+  },
+  {
+    "item_code": "w_003202",
+    "content": "an export salesman",
+    "meaning_zh": "出口销售员；外贸销售员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职业名词短语"
+  },
+  {
+    "item_code": "w_003203",
+    "content": "an extinct species",
+    "meaning_zh": "一个已灭绝的物种",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见科学搭配"
+  },
+  {
+    "item_code": "w_003204",
+    "content": "an extra day's time",
+    "meaning_zh": "额外一天的时间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通时间表达"
+  },
+  {
+    "item_code": "w_003206",
+    "content": "an HIV-prevention initiative",
+    "meaning_zh": "一项艾滋病病毒预防倡议；一项HIV预防行动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "公共卫生术语"
+  },
+  {
+    "item_code": "w_003207",
+    "content": "an in-depth understanding of",
+    "meaning_zh": "对……的深入理解",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习搭配"
+  },
+  {
+    "item_code": "w_003209",
+    "content": "an indispensable part",
+    "meaning_zh": "不可或缺的部分",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_003210",
+    "content": "an industrial estate",
+    "meaning_zh": "工业区；工业园区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定名词搭配"
+  },
+  {
+    "item_code": "w_003211",
+    "content": "an industrial scale",
+    "meaning_zh": "工业规模",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见技术表达"
+  },
+  {
+    "item_code": "w_003212",
+    "content": "an industrious nation",
+    "meaning_zh": "一个勤劳的民族；一个勤奋的国家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通描述短语"
+  },
+  {
+    "item_code": "w_003213",
+    "content": "an informed citizenry",
+    "meaning_zh": "知情的公民群体；有见识的公民",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治社会常见表达"
+  }
+]

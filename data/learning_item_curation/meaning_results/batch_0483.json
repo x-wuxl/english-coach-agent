@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_046157",
+    "content": "may yet do",
+    "meaning_zh": "仍可能做；也许还会做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见情态表达"
+  },
+  {
+    "item_code": "w_046159",
+    "content": "Maya city",
+    "meaning_zh": "玛雅城市",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "历史文化术语"
+  },
+  {
+    "item_code": "w_046161",
+    "content": "Mayan civilisation",
+    "meaning_zh": "玛雅文明",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "历史文化术语"
+  },
+  {
+    "item_code": "w_046171",
+    "content": "maze hog",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词组"
+  },
+  {
+    "item_code": "w_046172",
+    "content": "maître d'hôtel",
+    "meaning_zh": "餐厅领班；侍者领班",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法语借词名词"
+  },
+  {
+    "item_code": "w_046173",
+    "content": "mañana",
+    "meaning_zh": "明天；改天；拖延的态度",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "西语借词常见义"
+  },
+  {
+    "item_code": "w_046189",
+    "content": "meager impenetrable construct",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼接噪声"
+  },
+  {
+    "item_code": "w_046193",
+    "content": "meal pal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义不可靠"
+  },
+  {
+    "item_code": "w_046203",
+    "content": "mean off hand",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_046204",
+    "content": "mean sb. harm",
+    "meaning_zh": "有意伤害某人；对某人怀有恶意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_046224",
+    "content": "means of distribution",
+    "meaning_zh": "分配方式；分销手段",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见经济表达"
+  },
+  {
+    "item_code": "w_046230",
+    "content": "meanwhile century decade",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词表拼接"
+  },
+  {
+    "item_code": "w_046237",
+    "content": "measure somebody against",
+    "meaning_zh": "拿某人与……比较；按……评价某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词短语框架"
+  },
+  {
+    "item_code": "w_046238",
+    "content": "measure somebody against somebody",
+    "meaning_zh": "把某人与某人比较；以某人衡量某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词短语框架"
+  },
+  {
+    "item_code": "w_046239",
+    "content": "measure something against",
+    "meaning_zh": "拿某物与……比较；按……衡量某物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词短语框架"
+  },
+  {
+    "item_code": "w_046240",
+    "content": "measure something against something",
+    "meaning_zh": "把某物与某物比较；以某物衡量某物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词短语框架"
+  },
+  {
+    "item_code": "w_046244",
+    "content": "measured flag moratorium",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼接噪声"
+  },
+  {
+    "item_code": "w_046259",
+    "content": "mechanic products",
+    "meaning_zh": "机械产品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "应为机械类搭配"
+  },
+  {
+    "item_code": "w_046261",
+    "content": "mechanical astronomy",
+    "meaning_zh": "天体力学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "学科术语近义"
+  },
+  {
+    "item_code": "w_046287",
+    "content": "medal tally",
+    "meaning_zh": "奖牌榜；奖牌统计",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "体育常见表达"
+  }
+]

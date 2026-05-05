@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_073680",
+    "content": "the Department of Accounting",
+    "meaning_zh": "会计系；会计部门",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "机构部门名称"
+  },
+  {
+    "item_code": "w_073681",
+    "content": "the Department of Health",
+    "meaning_zh": "卫生部；卫生部门",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "机构部门名称"
+  },
+  {
+    "item_code": "w_073684",
+    "content": "the dimmest executive",
+    "meaning_zh": "最愚钝的高管",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按短语整体理解"
+  },
+  {
+    "item_code": "w_073686",
+    "content": "the dissemination of Buddhism",
+    "meaning_zh": "佛教的传播",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_073687",
+    "content": "the dissemination of knowledge",
+    "meaning_zh": "知识的传播",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_073688",
+    "content": "the distribution of",
+    "meaning_zh": "……的分布；……的分配",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "不完整介词搭配"
+  },
+  {
+    "item_code": "w_073690",
+    "content": "the domestic bliss",
+    "meaning_zh": "家庭幸福；天伦之乐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定名词短语"
+  },
+  {
+    "item_code": "w_073691",
+    "content": "the Double Ninth Festival",
+    "meaning_zh": "重阳节",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "节日专有名词"
+  },
+  {
+    "item_code": "w_073693",
+    "content": "the Drum Tower",
+    "meaning_zh": "鼓楼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "建筑专有名称"
+  },
+  {
+    "item_code": "w_073694",
+    "content": "the dust settle",
+    "meaning_zh": "尘埃落定；局势明朗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定表达有语法残缺"
+  },
+  {
+    "item_code": "w_073697",
+    "content": "the earth's magnetic pole",
+    "meaning_zh": "地球磁极",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地理科学术语"
+  },
+  {
+    "item_code": "w_073698",
+    "content": "the Earth's mantle",
+    "meaning_zh": "地幔",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地质学术语"
+  },
+  {
+    "item_code": "w_073704",
+    "content": "the emergency rescue head-quarters",
+    "meaning_zh": "应急救援指挥部",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "headquarters变体拼写"
+  },
+  {
+    "item_code": "w_073705",
+    "content": "the emergency rescue headquarters",
+    "meaning_zh": "应急救援指挥部",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见机构短语"
+  },
+  {
+    "item_code": "w_073706",
+    "content": "the Emergency Response Department",
+    "meaning_zh": "应急响应部门",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "机构部门名称"
+  },
+  {
+    "item_code": "w_073707",
+    "content": "the entrance to",
+    "meaning_zh": "通往……的入口；……的入口",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_073710",
+    "content": "the Eroica Symphony",
+    "meaning_zh": "《英雄交响曲》",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "音乐作品专名"
+  },
+  {
+    "item_code": "w_073711",
+    "content": "the European Renaissance",
+    "meaning_zh": "欧洲文艺复兴",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "历史时期名称"
+  },
+  {
+    "item_code": "w_073713",
+    "content": "the Everest",
+    "meaning_zh": "珠穆朗玛峰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "冠词用法不自然"
+  },
+  {
+    "item_code": "w_073714",
+    "content": "the examination-oriented education",
+    "meaning_zh": "应试教育",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育领域常用表达"
+  }
+]

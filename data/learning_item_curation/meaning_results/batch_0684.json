@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_067369",
+    "content": "slumber mordent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无明确搭配"
+  },
+  {
+    "item_code": "w_067373",
+    "content": "slump deregulation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无明确搭配"
+  },
+  {
+    "item_code": "w_067374",
+    "content": "slump in demand",
+    "meaning_zh": "需求下滑；需求暴跌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常见搭配"
+  },
+  {
+    "item_code": "w_067376",
+    "content": "slur incentive decode",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串噪声"
+  },
+  {
+    "item_code": "w_067389",
+    "content": "small and micro businesses",
+    "meaning_zh": "小微企业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定经济表述"
+  },
+  {
+    "item_code": "w_067391",
+    "content": "small displacement car",
+    "meaning_zh": "小排量汽车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见汽车术语"
+  },
+  {
+    "item_code": "w_067392",
+    "content": "small guy",
+    "meaning_zh": "小人物；弱小者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "口语常见表达"
+  },
+  {
+    "item_code": "w_067398",
+    "content": "small-budget online series",
+    "meaning_zh": "小成本网络剧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "媒体领域搭配"
+  },
+  {
+    "item_code": "w_067400",
+    "content": "small-displacement cars",
+    "meaning_zh": "小排量汽车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见汽车术语"
+  },
+  {
+    "item_code": "w_067401",
+    "content": "small-engine vehicles",
+    "meaning_zh": "小排量车辆；小发动机车辆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通环保语境"
+  },
+  {
+    "item_code": "w_067408",
+    "content": "smaller areas",
+    "meaning_zh": "较小区域；较小面积",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "普通描述性短语"
+  },
+  {
+    "item_code": "w_067409",
+    "content": "smaller tremors",
+    "meaning_zh": "较小震动；轻微地震",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地震语境常见"
+  },
+  {
+    "item_code": "w_067414",
+    "content": "smallpox specimen",
+    "meaning_zh": "天花标本；天花样本",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学相关搭配"
+  },
+  {
+    "item_code": "w_067417",
+    "content": "smarmy sophisticated predestin aversion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串且含残词"
+  },
+  {
+    "item_code": "w_067420",
+    "content": "smart subvert",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组含义不可靠"
+  },
+  {
+    "item_code": "w_067429",
+    "content": "smash several records",
+    "meaning_zh": "打破多项纪录",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动宾搭配"
+  },
+  {
+    "item_code": "w_067435",
+    "content": "smattering pulpitude",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含疑似错误词"
+  },
+  {
+    "item_code": "w_067441",
+    "content": "smell scent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "近义词堆叠非词条"
+  },
+  {
+    "item_code": "w_067451",
+    "content": "Smile Challenge",
+    "meaning_zh": "微笑挑战",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "活动名称类表达"
+  },
+  {
+    "item_code": "w_067463",
+    "content": "smog documentary",
+    "meaning_zh": "雾霾纪录片",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环境主题搭配"
+  }
+]

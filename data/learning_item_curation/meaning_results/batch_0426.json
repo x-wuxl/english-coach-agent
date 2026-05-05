@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_040674",
+    "content": "jealous throb",
+    "meaning_zh": "一阵嫉妒的悸动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "low",
+    "reason": "搭配少见，按字面判断"
+  },
+  {
+    "item_code": "w_040688",
+    "content": "jelly ear fungus",
+    "meaning_zh": "木耳；胶耳菌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见真菌名称"
+  },
+  {
+    "item_code": "w_040693",
+    "content": "Jennifer May",
+    "meaning_zh": "詹妮弗·梅（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有人名"
+  },
+  {
+    "item_code": "w_040697",
+    "content": "jeopardize plague",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_040707",
+    "content": "jerry-built project",
+    "meaning_zh": "粗制滥造的项目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定形容词搭配"
+  },
+  {
+    "item_code": "w_040711",
+    "content": "jest apprehensive cord",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词无自然搭配"
+  },
+  {
+    "item_code": "w_040720",
+    "content": "jet cockpit",
+    "meaning_zh": "喷气式飞机驾驶舱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "航空常见搭配"
+  },
+  {
+    "item_code": "w_040723",
+    "content": "jet prpulsion",
+    "meaning_zh": "喷气推进",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "疑为拼写错误"
+  },
+  {
+    "item_code": "w_040735",
+    "content": "jew hospitality",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然且敏感"
+  },
+  {
+    "item_code": "w_040737",
+    "content": "jewel craft",
+    "meaning_zh": "珠宝工艺；珠宝制作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作工艺类搭配"
+  },
+  {
+    "item_code": "w_040738",
+    "content": "jewel division",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "语义不明的搭配"
+  },
+  {
+    "item_code": "w_040746",
+    "content": "jewelry store",
+    "meaning_zh": "珠宝店",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_040747",
+    "content": "jewelry valuable gold",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠噪声"
+  },
+  {
+    "item_code": "w_040750",
+    "content": "jibber-jabberer",
+    "meaning_zh": "喋喋不休的人",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "派生词含义明确"
+  },
+  {
+    "item_code": "w_040758",
+    "content": "jigsaw pumpkin",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配语义不明"
+  },
+  {
+    "item_code": "w_040760",
+    "content": "jigsaw trivia",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配语义不明"
+  },
+  {
+    "item_code": "w_040769",
+    "content": "jingle twist",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不常见"
+  },
+  {
+    "item_code": "w_040772",
+    "content": "jingoist misanthropic",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "形容词堆叠噪声"
+  },
+  {
+    "item_code": "w_040776",
+    "content": "jitters jolt",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_040778",
+    "content": "jive",
+    "meaning_zh": "摇摆舞；花言巧语；胡说",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见多义词"
+  }
+]

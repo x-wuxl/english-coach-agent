@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_001343",
+    "content": "acoustic strip",
+    "meaning_zh": "声学条；隔音条",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术搭配，含义较窄"
+  },
+  {
+    "item_code": "w_001348",
+    "content": "acoustics technology",
+    "meaning_zh": "声学技术",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见技术搭配"
+  },
+  {
+    "item_code": "w_001360",
+    "content": "acquiesce asperity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合无固定含义"
+  },
+  {
+    "item_code": "w_001364",
+    "content": "acquire degree",
+    "meaning_zh": "获得学位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学习场景常见搭配"
+  },
+  {
+    "item_code": "w_001366",
+    "content": "acquire manumit paria graft",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词串"
+  },
+  {
+    "item_code": "w_001373",
+    "content": "acquisitive grit",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然固定搭配"
+  },
+  {
+    "item_code": "w_001376",
+    "content": "acquit compatible service",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合不成义"
+  },
+  {
+    "item_code": "w_001387",
+    "content": "acrobatic art",
+    "meaning_zh": "杂技艺术",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见主题搭配"
+  },
+  {
+    "item_code": "w_001388",
+    "content": "acrobatic competition",
+    "meaning_zh": "杂技比赛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见主题搭配"
+  },
+  {
+    "item_code": "w_001390",
+    "content": "acrobatic festival",
+    "meaning_zh": "杂技节",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见活动搭配"
+  },
+  {
+    "item_code": "w_001391",
+    "content": "acrobatic theatre",
+    "meaning_zh": "杂技剧场；杂技剧院",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见场所搭配"
+  },
+  {
+    "item_code": "w_001392",
+    "content": "acrobatic troupe",
+    "meaning_zh": "杂技团",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见团体搭配"
+  },
+  {
+    "item_code": "w_001394",
+    "content": "acrobatics fan",
+    "meaning_zh": "杂技爱好者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见人物搭配"
+  },
+  {
+    "item_code": "w_001403",
+    "content": "acrophobia beverage",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合无固定含义"
+  },
+  {
+    "item_code": "w_001408",
+    "content": "across generational lines",
+    "meaning_zh": "跨越代际界限；在不同世代之间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达含义明确"
+  },
+  {
+    "item_code": "w_001410",
+    "content": "across the globe",
+    "meaning_zh": "全球；世界各地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_001411",
+    "content": "across the spectrum",
+    "meaning_zh": "涵盖整个范围；遍及各类群体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_001416",
+    "content": "across-the-board tariff cut talks",
+    "meaning_zh": "全面削减关税谈判",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "新闻经济类短语"
+  },
+  {
+    "item_code": "w_001422",
+    "content": "act a play",
+    "meaning_zh": "表演戏剧；演戏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "小学常见表达"
+  },
+  {
+    "item_code": "w_001423",
+    "content": "act arrogant and superior",
+    "meaning_zh": "表现得傲慢自大；摆出高人一等的样子",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "整体短语含义明确"
+  }
+]

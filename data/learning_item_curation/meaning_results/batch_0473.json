@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_045262",
+    "content": "make sb.'s acquaintance",
+    "meaning_zh": "结识某人；与某人相识",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达，整体释义"
+  },
+  {
+    "item_code": "w_045263",
+    "content": "make sb.'s day",
+    "meaning_zh": "使某人很开心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见习语"
+  },
+  {
+    "item_code": "w_045264",
+    "content": "make seat reservation",
+    "meaning_zh": "预订座位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅行场景搭配"
+  },
+  {
+    "item_code": "w_045265",
+    "content": "make self-drive trips",
+    "meaning_zh": "自驾旅行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅游搭配"
+  },
+  {
+    "item_code": "w_045269",
+    "content": "make snowmen",
+    "meaning_zh": "堆雪人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础生活表达"
+  },
+  {
+    "item_code": "w_045270",
+    "content": "make some allowance",
+    "meaning_zh": "留些余地；作些让步",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见搭配，语境略缺"
+  },
+  {
+    "item_code": "w_045273",
+    "content": "make some suggestions",
+    "meaning_zh": "提出一些建议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_045274",
+    "content": "make somebody an offer",
+    "meaning_zh": "向某人提出报价；给某人工作机会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务求职常见表达"
+  },
+  {
+    "item_code": "w_045276",
+    "content": "make soup",
+    "meaning_zh": "做汤",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础生活表达"
+  },
+  {
+    "item_code": "w_045278",
+    "content": "make sth. a practice",
+    "meaning_zh": "把某事作为惯例",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_045279",
+    "content": "make sth. a reality",
+    "meaning_zh": "使某事成为现实",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_045281",
+    "content": "make sth. from scratch",
+    "meaning_zh": "从零开始做某物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_045288",
+    "content": "make strange noises",
+    "meaning_zh": "发出奇怪的声音",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_045289",
+    "content": "make strides in sth.",
+    "meaning_zh": "在某方面取得进展",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_045292",
+    "content": "make the ... conclusion",
+    "meaning_zh": "得出……结论",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达残缺但含义明确"
+  },
+  {
+    "item_code": "w_045294",
+    "content": "make the air dirty",
+    "meaning_zh": "污染空气；使空气变脏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础环保表达"
+  },
+  {
+    "item_code": "w_045297",
+    "content": "make the data clear",
+    "meaning_zh": "使数据清晰明了",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术表达搭配"
+  },
+  {
+    "item_code": "w_045302",
+    "content": "make the final decision",
+    "meaning_zh": "作出最终决定",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_045306",
+    "content": "make the interview",
+    "meaning_zh": "参加面试；赶上面试",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "无语境，含义可能有别"
+  },
+  {
+    "item_code": "w_045307",
+    "content": "make the jump",
+    "meaning_zh": "实现跃升；迈出关键一步",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见比喻表达"
+  }
+]

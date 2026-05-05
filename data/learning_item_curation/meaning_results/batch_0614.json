@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_060355",
+    "content": "ready access",
+    "meaning_zh": "便捷获取；随时可用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配，表示容易取得"
+  },
+  {
+    "item_code": "w_060358",
+    "content": "ready made match tight",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不自然，疑似噪声"
+  },
+  {
+    "item_code": "w_060362",
+    "content": "ready-to-wear line",
+    "meaning_zh": "成衣系列",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "服装领域常见表达"
+  },
+  {
+    "item_code": "w_060369",
+    "content": "real combat training",
+    "meaning_zh": "实战训练",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配，含义明确"
+  },
+  {
+    "item_code": "w_060370",
+    "content": "real competition",
+    "meaning_zh": "真正的竞争；实际比赛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "无例句，按常见义判断"
+  },
+  {
+    "item_code": "w_060371",
+    "content": "real credit receipt",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "表达不自然，含义不明"
+  },
+  {
+    "item_code": "w_060376",
+    "content": "real estate speculator",
+    "meaning_zh": "房地产投机者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "财经地产常见表达"
+  },
+  {
+    "item_code": "w_060382",
+    "content": "real stifle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常，疑似噪声"
+  },
+  {
+    "item_code": "w_060384",
+    "content": "real trailer baggage",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成立，疑似噪声"
+  },
+  {
+    "item_code": "w_060387",
+    "content": "real-name authentication",
+    "meaning_zh": "实名认证",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "互联网常见术语"
+  },
+  {
+    "item_code": "w_060388",
+    "content": "real-name delivery",
+    "meaning_zh": "实名寄递；实名配送",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "实名制相关表达"
+  },
+  {
+    "item_code": "w_060389",
+    "content": "real-name reporting",
+    "meaning_zh": "实名举报；实名报告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "实名制相关表达"
+  },
+  {
+    "item_code": "w_060390",
+    "content": "real-name ticket purchase",
+    "meaning_zh": "实名购票",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "实名制购票表达"
+  },
+  {
+    "item_code": "w_060391",
+    "content": "real-name whistleblower",
+    "meaning_zh": "实名举报人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "实名举报相关表达"
+  },
+  {
+    "item_code": "w_060392",
+    "content": "real-name whistleblowing",
+    "meaning_zh": "实名举报",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "实名举报相关表达"
+  },
+  {
+    "item_code": "w_060395",
+    "content": "real-time tax refund",
+    "meaning_zh": "实时退税",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "税务场景含义明确"
+  },
+  {
+    "item_code": "w_060403",
+    "content": "realism painting",
+    "meaning_zh": "现实主义绘画",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "艺术领域术语"
+  },
+  {
+    "item_code": "w_060406",
+    "content": "realistic expectations",
+    "meaning_zh": "现实的期望；合理预期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术写作搭配"
+  },
+  {
+    "item_code": "w_060407",
+    "content": "realistic literature",
+    "meaning_zh": "现实主义文学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文学领域术语"
+  },
+  {
+    "item_code": "w_060408",
+    "content": "realistic movement",
+    "meaning_zh": "现实主义运动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文艺史常见术语"
+  }
+]

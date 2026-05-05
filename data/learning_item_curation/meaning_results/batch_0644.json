@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_063415",
+    "content": "runic beneficent odium",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配"
+  },
+  {
+    "item_code": "w_063416",
+    "content": "runnable",
+    "meaning_zh": "可运行的；可执行的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_063422",
+    "content": "running facilities",
+    "meaning_zh": "跑步设施",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按运动设施理解"
+  },
+  {
+    "item_code": "w_063424",
+    "content": "running race",
+    "meaning_zh": "赛跑；跑步比赛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "小学常见表达"
+  },
+  {
+    "item_code": "w_063433",
+    "content": "runny fever",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_063436",
+    "content": "runtime",
+    "meaning_zh": "运行时；运行时间",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_063440",
+    "content": "rupture smother pitfall",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配"
+  },
+  {
+    "item_code": "w_063443",
+    "content": "rural and underdeveloped",
+    "meaning_zh": "农村且欠发达的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_063444",
+    "content": "rural approve fascinate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_063448",
+    "content": "rural governance",
+    "meaning_zh": "乡村治理；农村治理",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治社会常用术语"
+  },
+  {
+    "item_code": "w_063449",
+    "content": "rural library",
+    "meaning_zh": "乡村图书馆；农村图书馆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_063451",
+    "content": "rural migrant worker",
+    "meaning_zh": "农民工；农村外出务工人员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "考研常见表达"
+  },
+  {
+    "item_code": "w_063453",
+    "content": "rural revitalization strategy",
+    "meaning_zh": "乡村振兴战略",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策术语固定"
+  },
+  {
+    "item_code": "w_063454",
+    "content": "rural substantial",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_063459",
+    "content": "rural and mountainous area",
+    "meaning_zh": "农村和山区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_063460",
+    "content": "rururb",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_063466",
+    "content": "rush hour bus",
+    "meaning_zh": "高峰时段公交车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通场景常用"
+  },
+  {
+    "item_code": "w_063477",
+    "content": "rush-to-get-married",
+    "meaning_zh": "急于结婚；匆忙结婚",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "连字符短语可理解"
+  },
+  {
+    "item_code": "w_063479",
+    "content": "rushed through rule changes",
+    "meaning_zh": "匆忙通过规则修改",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_063482",
+    "content": "russell",
+    "meaning_zh": "罗素",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指人名或地名"
+  }
+]

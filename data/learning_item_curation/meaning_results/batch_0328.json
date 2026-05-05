@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_031003",
+    "content": "get peeved",
+    "meaning_zh": "变得恼火；生气",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配表情绪变化"
+  },
+  {
+    "item_code": "w_031005",
+    "content": "get physical with sb.",
+    "meaning_zh": "与某人发生肢体冲突",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语整体义"
+  },
+  {
+    "item_code": "w_031006",
+    "content": "get pleasure",
+    "meaning_zh": "获得乐趣；感到愉悦",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_031007",
+    "content": "get popular",
+    "meaning_zh": "变得受欢迎；流行起来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "get加形容词结构"
+  },
+  {
+    "item_code": "w_031008",
+    "content": "get prepared for",
+    "meaning_zh": "为……做好准备",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "介词for指准备对象"
+  },
+  {
+    "item_code": "w_031009",
+    "content": "get prepared to",
+    "meaning_zh": "准备好做……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "to接动作目的"
+  },
+  {
+    "item_code": "w_031015",
+    "content": "get ready to do",
+    "meaning_zh": "准备做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见考试短语"
+  },
+  {
+    "item_code": "w_031017",
+    "content": "get revenge for sth.",
+    "meaning_zh": "为某事报仇",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定报复表达"
+  },
+  {
+    "item_code": "w_031021",
+    "content": "get rid of poverty",
+    "meaning_zh": "摆脱贫困",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会议题搭配"
+  },
+  {
+    "item_code": "w_031027",
+    "content": "get sb. nowhere",
+    "meaning_zh": "使某人毫无进展；对某人没有帮助",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语表示无结果"
+  },
+  {
+    "item_code": "w_031030",
+    "content": "get searched",
+    "meaning_zh": "被搜查；被检查",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "get加过去分词"
+  },
+  {
+    "item_code": "w_031031",
+    "content": "get seasick",
+    "meaning_zh": "晕船",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅行场景常用表达"
+  },
+  {
+    "item_code": "w_031032",
+    "content": "get separated",
+    "meaning_zh": "分开；走散；分居",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见状态变化表达"
+  },
+  {
+    "item_code": "w_031033",
+    "content": "get separated from",
+    "meaning_zh": "与……分开；与……走散",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "from指分离对象"
+  },
+  {
+    "item_code": "w_031034",
+    "content": "get serious about",
+    "meaning_zh": "认真对待；开始重视",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定态度表达"
+  },
+  {
+    "item_code": "w_031036",
+    "content": "get some exercise",
+    "meaning_zh": "做些运动；锻炼一下",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础生活搭配"
+  },
+  {
+    "item_code": "w_031037",
+    "content": "get some time off",
+    "meaning_zh": "获得一些休假时间；请到假",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "工作休假常用表达"
+  },
+  {
+    "item_code": "w_031039",
+    "content": "get something on sb.",
+    "meaning_zh": "掌握某人的把柄；掌握某人的不利证据",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语含把柄义"
+  },
+  {
+    "item_code": "w_031046",
+    "content": "get sth. in order",
+    "meaning_zh": "把某事物整理好；安排妥当",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定整理安排表达"
+  },
+  {
+    "item_code": "w_031047",
+    "content": "get sth. in perspective",
+    "meaning_zh": "正确看待某事；客观看待某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语表示理性看待"
+  }
+]

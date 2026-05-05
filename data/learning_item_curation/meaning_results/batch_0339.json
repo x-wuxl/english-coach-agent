@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_031973",
+    "content": "go windsurfing",
+    "meaning_zh": "去玩帆板",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见运动搭配"
+  },
+  {
+    "item_code": "w_031978",
+    "content": "go without saying that",
+    "meaning_zh": "不言而喻的是",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_031987",
+    "content": "goal aim reality",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "多个无关单词"
+  },
+  {
+    "item_code": "w_031994",
+    "content": "goal-line technology",
+    "meaning_zh": "门线技术",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "足球技术术语"
+  },
+  {
+    "item_code": "w_032005",
+    "content": "gobble placate recondite",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "多个无关单词"
+  },
+  {
+    "item_code": "w_032012",
+    "content": "god child",
+    "meaning_zh": "教子；教女",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑似godchild拆分"
+  },
+  {
+    "item_code": "w_032014",
+    "content": "God forbid that ...",
+    "meaning_zh": "但愿不要发生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定祈愿表达"
+  },
+  {
+    "item_code": "w_032017",
+    "content": "goddaughter in laws",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "表达不规范"
+  },
+  {
+    "item_code": "w_032019",
+    "content": "goddess incubate sprawl",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "多个无关单词"
+  },
+  {
+    "item_code": "w_032029",
+    "content": "goggle gravel gum",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "多个无关单词"
+  },
+  {
+    "item_code": "w_032038",
+    "content": "goiter suspicious species",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "多个无关单词"
+  },
+  {
+    "item_code": "w_032041",
+    "content": "gold bangle",
+    "meaning_zh": "金手镯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_032052",
+    "content": "gold-seeker",
+    "meaning_zh": "淘金者；追求财富的人",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合名词"
+  },
+  {
+    "item_code": "w_032056",
+    "content": "golden economic belt",
+    "meaning_zh": "黄金经济带",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济类术语"
+  },
+  {
+    "item_code": "w_032060",
+    "content": "golden throne",
+    "meaning_zh": "金色宝座；黄金王座",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_032062",
+    "content": "golden week for tourism",
+    "meaning_zh": "旅游黄金周",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会表达"
+  },
+  {
+    "item_code": "w_032063",
+    "content": "golden yardstick",
+    "meaning_zh": "黄金标准；重要衡量标准",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "比喻性搭配"
+  },
+  {
+    "item_code": "w_032068",
+    "content": "Goldman Sachs's board",
+    "meaning_zh": "高盛董事会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有机构搭配"
+  },
+  {
+    "item_code": "w_032070",
+    "content": "goldsmith's safe",
+    "meaning_zh": "金匠的保险箱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_032073",
+    "content": "golf court",
+    "meaning_zh": "高尔夫球场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常用说法应为course"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_056397",
+    "content": "Pokermon Go",
+    "meaning_zh": "Pokémon Go游戏",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_056402",
+    "content": "polar explanations",
+    "meaning_zh": "截然相反的解释",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语整体释义"
+  },
+  {
+    "item_code": "w_056419",
+    "content": "pole lid spurt",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无可靠含义"
+  },
+  {
+    "item_code": "w_056424",
+    "content": "polemic exhaust",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_056433",
+    "content": "police helicopters",
+    "meaning_zh": "警用直升机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_056443",
+    "content": "policy advocate",
+    "meaning_zh": "政策倡导者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_056444",
+    "content": "policy briefs",
+    "meaning_zh": "政策简报",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政策术语"
+  },
+  {
+    "item_code": "w_056451",
+    "content": "polio diabetes aids",
+    "meaning_zh": "脊髓灰质炎、糖尿病和艾滋病",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "疾病罗列项"
+  },
+  {
+    "item_code": "w_056456",
+    "content": "polish mandatory residue",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无可靠含义"
+  },
+  {
+    "item_code": "w_056464",
+    "content": "polite skepticism",
+    "meaning_zh": "礼貌的怀疑态度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "自然抽象搭配"
+  },
+  {
+    "item_code": "w_056469",
+    "content": "political and cultural landscape",
+    "meaning_zh": "政治和文化格局",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_056470",
+    "content": "political and ideological education",
+    "meaning_zh": "思想政治教育",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定教育术语"
+  },
+  {
+    "item_code": "w_056474",
+    "content": "political compromise",
+    "meaning_zh": "政治妥协",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政治表达"
+  },
+  {
+    "item_code": "w_056475",
+    "content": "political discipline and rules",
+    "meaning_zh": "政治纪律和政治规矩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政治术语"
+  },
+  {
+    "item_code": "w_056483",
+    "content": "political repression",
+    "meaning_zh": "政治压迫；政治镇压",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政治表达"
+  },
+  {
+    "item_code": "w_056487",
+    "content": "political stories",
+    "meaning_zh": "政治报道；政治故事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义依语境变化"
+  },
+  {
+    "item_code": "w_056508",
+    "content": "pollination cycle",
+    "meaning_zh": "授粉周期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生物学常见短语"
+  },
+  {
+    "item_code": "w_056517",
+    "content": "pollutant discharge license",
+    "meaning_zh": "排污许可证",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保政策术语"
+  },
+  {
+    "item_code": "w_056521",
+    "content": "pollute water",
+    "meaning_zh": "污染水体；污染水源",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_056532",
+    "content": "polo player",
+    "meaning_zh": "马球运动员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  }
+]

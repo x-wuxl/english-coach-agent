@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_005284",
+    "content": "at some basic level",
+    "meaning_zh": "在某种基本层面上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词短语"
+  },
+  {
+    "item_code": "w_005285",
+    "content": "at some future date",
+    "meaning_zh": "在未来某个日期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时间表达"
+  },
+  {
+    "item_code": "w_005291",
+    "content": "at sth.'s peak",
+    "meaning_zh": "在某事物的巅峰时期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_005294",
+    "content": "at supper",
+    "meaning_zh": "吃晚饭时；晚餐时",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_005296",
+    "content": "at tank",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定表达，疑似噪声"
+  },
+  {
+    "item_code": "w_005297",
+    "content": "at teatime",
+    "meaning_zh": "在下午茶时间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时间表达"
+  },
+  {
+    "item_code": "w_005302",
+    "content": "at that very moment",
+    "meaning_zh": "就在那一刻",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定时间表达"
+  },
+  {
+    "item_code": "w_005304",
+    "content": "at the ball",
+    "meaning_zh": "在舞会上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "ball指舞会"
+  },
+  {
+    "item_code": "w_005312",
+    "content": "at the corner of",
+    "meaning_zh": "在……的拐角处",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见方位表达"
+  },
+  {
+    "item_code": "w_005314",
+    "content": "at the crossing",
+    "meaning_zh": "在十字路口",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见方位表达"
+  },
+  {
+    "item_code": "w_005318",
+    "content": "at the edges",
+    "meaning_zh": "在边缘处",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持边缘义"
+  },
+  {
+    "item_code": "w_005326",
+    "content": "at the grassroots level",
+    "meaning_zh": "在基层层面",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会政治表达"
+  },
+  {
+    "item_code": "w_005332",
+    "content": "at the instant of",
+    "meaning_zh": "在……的一瞬间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时间表达"
+  },
+  {
+    "item_code": "w_005340",
+    "content": "at the news of",
+    "meaning_zh": "听到……的消息时；因……的消息",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持消息义"
+  },
+  {
+    "item_code": "w_005347",
+    "content": "at the prospect of",
+    "meaning_zh": "一想到……的可能性；面临……前景时",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_005355",
+    "content": "at the seaside",
+    "meaning_zh": "在海边",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持地点义"
+  },
+  {
+    "item_code": "w_005356",
+    "content": "at the shopping centre",
+    "meaning_zh": "在购物中心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见地点表达"
+  },
+  {
+    "item_code": "w_005358",
+    "content": "at the site",
+    "meaning_zh": "在现场；在该地点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见地点表达"
+  },
+  {
+    "item_code": "w_005364",
+    "content": "at the thought",
+    "meaning_zh": "一想到",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "例句补足搭配"
+  },
+  {
+    "item_code": "w_005367",
+    "content": "at the time of",
+    "meaning_zh": "在……的时候；在……时期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时间表达"
+  }
+]

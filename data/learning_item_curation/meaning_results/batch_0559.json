@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_054519",
+    "content": "peninsula loudspeaker",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "随机词串无学习价值"
+  },
+  {
+    "item_code": "w_054542",
+    "content": "pensive iridescent abet",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "随机词串无学习价值"
+  },
+  {
+    "item_code": "w_054548",
+    "content": "pentagon perimeter pointed",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "随机词串无学习价值"
+  },
+  {
+    "item_code": "w_054569",
+    "content": "people in growing numbers",
+    "meaning_zh": "越来越多的人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见写作表达"
+  },
+  {
+    "item_code": "w_054570",
+    "content": "people in mounting numbers",
+    "meaning_zh": "越来越多的人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见写作表达"
+  },
+  {
+    "item_code": "w_054571",
+    "content": "people of all nationalities",
+    "meaning_zh": "各族人民；各国人民",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_054573",
+    "content": "people with disabilities",
+    "meaning_zh": "残障人士；残疾人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见礼貌表达"
+  },
+  {
+    "item_code": "w_054575",
+    "content": "people's livelihoods",
+    "meaning_zh": "民生；人民生活",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政经常用表达"
+  },
+  {
+    "item_code": "w_054577",
+    "content": "people's value",
+    "meaning_zh": "人的价值；人们的价值观",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义依语境"
+  },
+  {
+    "item_code": "w_054578",
+    "content": "people-centered philosophy of development",
+    "meaning_zh": "以人民为中心的发展思想",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定政策表达"
+  },
+  {
+    "item_code": "w_054579",
+    "content": "people-oriented developing concepts",
+    "meaning_zh": "以人为本的发展理念",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定政策表达"
+  },
+  {
+    "item_code": "w_054597",
+    "content": "peptic mothball",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "随机词串无学习价值"
+  },
+  {
+    "item_code": "w_054609",
+    "content": "per slippery safety roundabout",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "随机词串无学习价值"
+  },
+  {
+    "item_code": "w_054611",
+    "content": "perce",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似残片无法判断"
+  },
+  {
+    "item_code": "w_054612",
+    "content": "Perce Blackborow",
+    "meaning_zh": "珀斯·布莱克伯罗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人名专有名词"
+  },
+  {
+    "item_code": "w_054616",
+    "content": "perceive convention gloomy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "随机词串无学习价值"
+  },
+  {
+    "item_code": "w_054617",
+    "content": "perceive ilium mansion famine",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "随机词串无学习价值"
+  },
+  {
+    "item_code": "w_054621",
+    "content": "percent decrease",
+    "meaning_zh": "百分比下降；降幅",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "数学统计常用表达"
+  },
+  {
+    "item_code": "w_054623",
+    "content": "percent of interest",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缺少语境难判断"
+  },
+  {
+    "item_code": "w_054632",
+    "content": "perceptive totality tactic",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "随机词串无学习价值"
+  }
+]

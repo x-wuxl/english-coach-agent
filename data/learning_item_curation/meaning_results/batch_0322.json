@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_030529",
+    "content": "generous donation",
+    "meaning_zh": "慷慨的捐赠",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_030530",
+    "content": "generous mean",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常，含义不明"
+  },
+  {
+    "item_code": "w_030531",
+    "content": "generous penetrate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常，含义不明"
+  },
+  {
+    "item_code": "w_030535",
+    "content": "genetic abnormaly",
+    "meaning_zh": "遗传异常",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为abnormality拼写误"
+  },
+  {
+    "item_code": "w_030536",
+    "content": "genetic architecture",
+    "meaning_zh": "遗传结构；遗传架构",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生物学常见术语"
+  },
+  {
+    "item_code": "w_030545",
+    "content": "genetic purify",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常，含义不明"
+  },
+  {
+    "item_code": "w_030547",
+    "content": "genetic reservoir",
+    "meaning_zh": "基因库；遗传资源库",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生物学常见术语"
+  },
+  {
+    "item_code": "w_030554",
+    "content": "genetically modified agricultural products",
+    "meaning_zh": "转基因农产品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见科技环保表达"
+  },
+  {
+    "item_code": "w_030562",
+    "content": "genial dialect",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配生硬，含义不明"
+  },
+  {
+    "item_code": "w_030568",
+    "content": "genital dialysis",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常，疑似噪声"
+  },
+  {
+    "item_code": "w_030590",
+    "content": "gentle syrology",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含疑似错词，含义不明"
+  },
+  {
+    "item_code": "w_030601",
+    "content": "genuine diamond",
+    "meaning_zh": "真钻石；天然钻石",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持该含义"
+  },
+  {
+    "item_code": "w_030605",
+    "content": "genus electrolyte",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "术语不成立，疑似噪声"
+  },
+  {
+    "item_code": "w_030630",
+    "content": "geologic activity",
+    "meaning_zh": "地质活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地学常见表达"
+  },
+  {
+    "item_code": "w_030634",
+    "content": "geological disasters",
+    "meaning_zh": "地质灾害",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见地理术语"
+  },
+  {
+    "item_code": "w_030635",
+    "content": "geological material",
+    "meaning_zh": "地质材料；地质物质",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地学常见表达"
+  },
+  {
+    "item_code": "w_030640",
+    "content": "geology and climate",
+    "meaning_zh": "地质与气候",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "主题并列表达"
+  },
+  {
+    "item_code": "w_030641",
+    "content": "geology contradict",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常，含义不明"
+  },
+  {
+    "item_code": "w_030645",
+    "content": "geometric globe",
+    "meaning_zh": "几何地球仪；几何球体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作描述性短语"
+  },
+  {
+    "item_code": "w_030662",
+    "content": "George Crum",
+    "meaning_zh": "乔治·克拉姆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人名专有名词"
+  }
+]

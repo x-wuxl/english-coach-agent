@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_078446",
+    "content": "upset with you",
+    "meaning_zh": "对你不满；生你的气",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见情绪表达"
+  },
+  {
+    "item_code": "w_078454",
+    "content": "upstairs neighbor",
+    "meaning_zh": "楼上的邻居",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活搭配"
+  },
+  {
+    "item_code": "w_078458",
+    "content": "upstream habitat",
+    "meaning_zh": "上游栖息地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态学常见搭配"
+  },
+  {
+    "item_code": "w_078478",
+    "content": "ural",
+    "meaning_zh": "乌拉尔；乌拉尔山脉地区",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有地名"
+  },
+  {
+    "item_code": "w_078480",
+    "content": "uranium ruby rival",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌无固定义"
+  },
+  {
+    "item_code": "w_078481",
+    "content": "uranium-lead",
+    "meaning_zh": "铀铅测年法的；铀铅的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地质测年术语"
+  },
+  {
+    "item_code": "w_078484",
+    "content": "urban air corridor",
+    "meaning_zh": "城市空中走廊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "城市规划术语"
+  },
+  {
+    "item_code": "w_078487",
+    "content": "urban competitiveness",
+    "meaning_zh": "城市竞争力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_078488",
+    "content": "urban demand",
+    "meaning_zh": "城市需求",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会话题搭配"
+  },
+  {
+    "item_code": "w_078489",
+    "content": "urban diseases",
+    "meaning_zh": "城市病；城市化问题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "社会发展常见概念"
+  },
+  {
+    "item_code": "w_078491",
+    "content": "urban engineering",
+    "meaning_zh": "城市工程；市政工程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "工程领域搭配"
+  },
+  {
+    "item_code": "w_078492",
+    "content": "urban growth boundary",
+    "meaning_zh": "城市增长边界",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "城市规划术语"
+  },
+  {
+    "item_code": "w_078494",
+    "content": "urban housing fund",
+    "meaning_zh": "城市住房基金；住房公积金",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "住房政策相关搭配"
+  },
+  {
+    "item_code": "w_078497",
+    "content": "urban management officer",
+    "meaning_zh": "城市管理人员；城管执法人员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职业称谓"
+  },
+  {
+    "item_code": "w_078500",
+    "content": "urban prosper discipline",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌语法不通"
+  },
+  {
+    "item_code": "w_078506",
+    "content": "urbane consequence align",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌无固定义"
+  },
+  {
+    "item_code": "w_078512",
+    "content": "urbanization process",
+    "meaning_zh": "城市化进程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会话题搭配"
+  },
+  {
+    "item_code": "w_078528",
+    "content": "urge absurd deform",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌无固定义"
+  },
+  {
+    "item_code": "w_078561",
+    "content": "US housing bubble",
+    "meaning_zh": "美国房地产泡沫",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济话题常见表达"
+  },
+  {
+    "item_code": "w_078571",
+    "content": "use a cassette record",
+    "meaning_zh": "使用盒式磁带录音",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略不自然"
+  }
+]

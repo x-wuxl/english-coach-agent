@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_024693",
+    "content": "enough urinary",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配无可靠含义"
+  },
+  {
+    "item_code": "w_024696",
+    "content": "enquire in",
+    "meaning_zh": "询问；打听",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "介词搭配不完整"
+  },
+  {
+    "item_code": "w_024705",
+    "content": "enrich daily life",
+    "meaning_zh": "丰富日常生活",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_024706",
+    "content": "enrich one's knowledge",
+    "meaning_zh": "丰富某人的知识",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习表达"
+  },
+  {
+    "item_code": "w_024707",
+    "content": "enrich our life",
+    "meaning_zh": "丰富我们的生活",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_024708",
+    "content": "enrich spare time",
+    "meaning_zh": "充实业余时间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义可判断"
+  },
+  {
+    "item_code": "w_024711",
+    "content": "enrich knowledge",
+    "meaning_zh": "丰富知识",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_024714",
+    "content": "enrol on",
+    "meaning_zh": "报名参加",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "英式常见搭配"
+  },
+  {
+    "item_code": "w_024716",
+    "content": "enroll compensate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_024718",
+    "content": "enroll more people",
+    "meaning_zh": "招收更多人；让更多人报名",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾表达"
+  },
+  {
+    "item_code": "w_024719",
+    "content": "enroll on",
+    "meaning_zh": "报名参加",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见课程搭配"
+  },
+  {
+    "item_code": "w_024720",
+    "content": "enrolled",
+    "meaning_zh": "已注册；已入学；已登记",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见过去分词"
+  },
+  {
+    "item_code": "w_024738",
+    "content": "ensu",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似截断噪声"
+  },
+  {
+    "item_code": "w_024744",
+    "content": "ensure insured insurer",
+    "meaning_zh": "确保；被保险人；保险人",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "多个词拼接"
+  },
+  {
+    "item_code": "w_024745",
+    "content": "ensure road safety",
+    "meaning_zh": "确保道路安全",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_024746",
+    "content": "ENT",
+    "meaning_zh": "耳鼻喉科",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见医学缩写"
+  },
+  {
+    "item_code": "w_024748",
+    "content": "entail identification",
+    "meaning_zh": "需要识别；涉及身份确认",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配较生硬"
+  },
+  {
+    "item_code": "w_024754",
+    "content": "enter a contest",
+    "meaning_zh": "参加比赛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_024758",
+    "content": "enter jump",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_024760",
+    "content": "enter the college",
+    "meaning_zh": "考入大学；进入学院",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见升学表达"
+  }
+]

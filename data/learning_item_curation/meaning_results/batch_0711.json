@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_070094",
+    "content": "strained relations with",
+    "meaning_zh": "与……关系紧张",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_070095",
+    "content": "strained relations with ...",
+    "meaning_zh": "与……关系紧张",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "省略号表示宾语"
+  },
+  {
+    "item_code": "w_070097",
+    "content": "strains of",
+    "meaning_zh": "一阵阵；几缕；……的压力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见搭配但缺宾语"
+  },
+  {
+    "item_code": "w_070099",
+    "content": "Strait Exchange Foundation",
+    "meaning_zh": "海峡交流基金会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有机构名"
+  },
+  {
+    "item_code": "w_070108",
+    "content": "stranded passenger",
+    "meaning_zh": "滞留旅客",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见新闻搭配"
+  },
+  {
+    "item_code": "w_070113",
+    "content": "stranger date",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常用固定表达"
+  },
+  {
+    "item_code": "w_070125",
+    "content": "stratagem imposter",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词串噪声"
+  },
+  {
+    "item_code": "w_070128",
+    "content": "strategic bold cousin insist",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无明确整体含义"
+  },
+  {
+    "item_code": "w_070133",
+    "content": "strategic pillar industry",
+    "meaning_zh": "战略性支柱产业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政策术语"
+  },
+  {
+    "item_code": "w_070141",
+    "content": "strategy of sustainable development",
+    "meaning_zh": "可持续发展战略",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政策表达"
+  },
+  {
+    "item_code": "w_070157",
+    "content": "strawberry raspberry",
+    "meaning_zh": "草莓；覆盆子",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "并列词串价值低"
+  },
+  {
+    "item_code": "w_070161",
+    "content": "stray shirk",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词串噪声"
+  },
+  {
+    "item_code": "w_070166",
+    "content": "stream into",
+    "meaning_zh": "涌入；流入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_070174",
+    "content": "streamline government organs",
+    "meaning_zh": "精简政府机构",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政务表达"
+  },
+  {
+    "item_code": "w_070175",
+    "content": "streamline impart",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无明确整体含义"
+  },
+  {
+    "item_code": "w_070176",
+    "content": "streamline outweigh",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无明确整体含义"
+  },
+  {
+    "item_code": "w_070183",
+    "content": "street fashion",
+    "meaning_zh": "街头时尚",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时尚术语"
+  },
+  {
+    "item_code": "w_070196",
+    "content": "strengthen law enforcement",
+    "meaning_zh": "加强执法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政务搭配"
+  },
+  {
+    "item_code": "w_070197",
+    "content": "strengthen mutual cooperation",
+    "meaning_zh": "加强相互合作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见外交表达"
+  },
+  {
+    "item_code": "w_070198",
+    "content": "strengthen one's will",
+    "meaning_zh": "磨炼意志；坚定意志",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习搭配"
+  }
+]

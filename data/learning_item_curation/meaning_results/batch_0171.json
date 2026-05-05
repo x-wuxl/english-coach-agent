@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_015768",
+    "content": "complacent pioneer reconnoiter",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无明确含义"
+  },
+  {
+    "item_code": "w_015772",
+    "content": "complain penalty",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_015775",
+    "content": "complains box",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似错误搭配"
+  },
+  {
+    "item_code": "w_015780",
+    "content": "complate",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_015790",
+    "content": "complete a course",
+    "meaning_zh": "完成一门课程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习搭配"
+  },
+  {
+    "item_code": "w_015791",
+    "content": "complete completion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "重复堆叠无教学价值"
+  },
+  {
+    "item_code": "w_015792",
+    "content": "complete disbelief",
+    "meaning_zh": "完全不敢相信；极度怀疑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_015793",
+    "content": "complete indifference",
+    "meaning_zh": "完全冷漠；毫不关心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_015794",
+    "content": "complete originality",
+    "meaning_zh": "完全原创；彻底的独创性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解搭配"
+  },
+  {
+    "item_code": "w_015795",
+    "content": "complete quadratic equation",
+    "meaning_zh": "完整二次方程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "数学术语搭配"
+  },
+  {
+    "item_code": "w_015796",
+    "content": "complete strangers",
+    "meaning_zh": "完全陌生的人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_015807",
+    "content": "complex idea",
+    "meaning_zh": "复杂的想法；复杂的观念",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_015808",
+    "content": "complex irrelevant",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词性并列不成搭配"
+  },
+  {
+    "item_code": "w_015812",
+    "content": "complex social structure",
+    "meaning_zh": "复杂的社会结构",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_015813",
+    "content": "complex world",
+    "meaning_zh": "复杂的世界",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_015821",
+    "content": "compliant delineate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无明确含义"
+  },
+  {
+    "item_code": "w_015823",
+    "content": "complicate them",
+    "meaning_zh": "使它们复杂化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词短语含义明确"
+  },
+  {
+    "item_code": "w_015825",
+    "content": "complicated computational task",
+    "meaning_zh": "复杂的计算任务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见技术搭配"
+  },
+  {
+    "item_code": "w_015826",
+    "content": "complicated ganglion",
+    "meaning_zh": "复杂的神经节",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专业术语搭配"
+  },
+  {
+    "item_code": "w_015827",
+    "content": "complicated interpersonal relationship",
+    "meaning_zh": "复杂的人际关系",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习搭配"
+  }
+]

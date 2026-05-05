@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_051295",
+    "content": "offer sacrifices to ancestors",
+    "meaning_zh": "祭祀祖先",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动宾搭配"
+  },
+  {
+    "item_code": "w_051297",
+    "content": "offer several conducive proposals",
+    "meaning_zh": "提出几项有益建议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配略生硬但可理解"
+  },
+  {
+    "item_code": "w_051299",
+    "content": "offer suggestions",
+    "meaning_zh": "提出建议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_051306",
+    "content": "offering tips",
+    "meaning_zh": "提供建议；给出小贴士",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_051318",
+    "content": "office time",
+    "meaning_zh": "办公时间；上班时间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_051326",
+    "content": "official newspaper",
+    "meaning_zh": "官方报纸；机关报",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_051335",
+    "content": "officious parade uvula",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无整体含义"
+  },
+  {
+    "item_code": "w_051337",
+    "content": "offish slant hoax",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无整体含义"
+  },
+  {
+    "item_code": "w_051341",
+    "content": "offset lantern auspice",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无整体含义"
+  },
+  {
+    "item_code": "w_051344",
+    "content": "offshore paddle pier raft",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无整体含义"
+  },
+  {
+    "item_code": "w_051354",
+    "content": "oft-debated cure",
+    "meaning_zh": "常被争论的疗法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解的修饰短语"
+  },
+  {
+    "item_code": "w_051356",
+    "content": "oftcited",
+    "meaning_zh": "常被引用的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为oft-cited"
+  },
+  {
+    "item_code": "w_051374",
+    "content": "oil and natural gas",
+    "meaning_zh": "石油和天然气",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见能源表达"
+  },
+  {
+    "item_code": "w_051380",
+    "content": "oil product pricing system",
+    "meaning_zh": "成品油定价机制",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "财经政策术语"
+  },
+  {
+    "item_code": "w_051388",
+    "content": "oilimmersion",
+    "meaning_zh": "油浸；油浸法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为oil immersion"
+  },
+  {
+    "item_code": "w_051391",
+    "content": "oimt",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似缩写残片"
+  },
+  {
+    "item_code": "w_051393",
+    "content": "ointment sideburns",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无整体含义"
+  },
+  {
+    "item_code": "w_051394",
+    "content": "oj puff",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无整体含义"
+  },
+  {
+    "item_code": "w_051402",
+    "content": "old age problem",
+    "meaning_zh": "老龄化问题；养老问题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "社会议题表达"
+  },
+  {
+    "item_code": "w_051403",
+    "content": "old but vigorous",
+    "meaning_zh": "年老但精力充沛；老当益壮",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容表达"
+  }
+]

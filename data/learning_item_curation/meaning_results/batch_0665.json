@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_065640",
+    "content": "set a threshold for",
+    "meaning_zh": "为……设定门槛；设定阈值",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配，按整体释义"
+  },
+  {
+    "item_code": "w_065649",
+    "content": "set an interim goal",
+    "meaning_zh": "设定阶段性目标；设定临时目标",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "目标管理常见表达"
+  },
+  {
+    "item_code": "w_065652",
+    "content": "set aside for",
+    "meaning_zh": "为……留出；把……拨作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语用法"
+  },
+  {
+    "item_code": "w_065653",
+    "content": "set aside some money",
+    "meaning_zh": "存下一些钱；留出一些钱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "理财语境常见搭配"
+  },
+  {
+    "item_code": "w_065655",
+    "content": "set barriers",
+    "meaning_zh": "设置障碍；设立壁垒",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_065662",
+    "content": "set foot in ...",
+    "meaning_zh": "踏入……；进入……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_065664",
+    "content": "set foot on ...",
+    "meaning_zh": "踏上……；到达……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_065671",
+    "content": "set limits on",
+    "meaning_zh": "对……设限；限制……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政策类搭配"
+  },
+  {
+    "item_code": "w_065673",
+    "content": "set lunch",
+    "meaning_zh": "午餐套餐；固定午餐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "餐饮固定表达"
+  },
+  {
+    "item_code": "w_065675",
+    "content": "set money aside",
+    "meaning_zh": "把钱存起来；留出钱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语变体"
+  },
+  {
+    "item_code": "w_065676",
+    "content": "set novel in",
+    "meaning_zh": "把小说背景设在……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "省略冠词但含义明确"
+  },
+  {
+    "item_code": "w_065679",
+    "content": "set off the row",
+    "meaning_zh": "引发争吵；挑起争端",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "row按争吵理解"
+  },
+  {
+    "item_code": "w_065685",
+    "content": "set one's sights towards",
+    "meaning_zh": "把目标瞄准……；立志于……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见表达变体"
+  },
+  {
+    "item_code": "w_065692",
+    "content": "set sail for",
+    "meaning_zh": "启航前往……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持该含义"
+  },
+  {
+    "item_code": "w_065695",
+    "content": "set sb. doing sth.",
+    "meaning_zh": "使某人开始做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型"
+  },
+  {
+    "item_code": "w_065699",
+    "content": "set some policies",
+    "meaning_zh": "制定一些政策",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策类常见搭配"
+  },
+  {
+    "item_code": "w_065705",
+    "content": "set the alarm clock",
+    "meaning_zh": "设定闹钟；调好闹钟",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持该含义"
+  },
+  {
+    "item_code": "w_065707",
+    "content": "set the beat",
+    "meaning_zh": "确定节拍；打出节奏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "音乐语境常见搭配"
+  },
+  {
+    "item_code": "w_065709",
+    "content": "set the pace in",
+    "meaning_zh": "在……方面领先；为……树立节奏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_065714",
+    "content": "set up a record",
+    "meaning_zh": "创下纪录；建立纪录",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "近似set a record"
+  }
+]

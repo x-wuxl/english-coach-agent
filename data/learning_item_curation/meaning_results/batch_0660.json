@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_065126",
+    "content": "self-induction phenomenon",
+    "meaning_zh": "自感现象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "物理固定术语"
+  },
+  {
+    "item_code": "w_065139",
+    "content": "self-opinionatedly",
+    "meaning_zh": "固执己见地；自以为是地",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "副词常见含义"
+  },
+  {
+    "item_code": "w_065140",
+    "content": "self-owned brand",
+    "meaning_zh": "自有品牌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商业常用搭配"
+  },
+  {
+    "item_code": "w_065147",
+    "content": "self-procession",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_065151",
+    "content": "self-propelled wheels",
+    "meaning_zh": "自动驱动轮；自走轮",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "机械类搭配"
+  },
+  {
+    "item_code": "w_065175",
+    "content": "self-service bank",
+    "meaning_zh": "自助银行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见服务场景"
+  },
+  {
+    "item_code": "w_065177",
+    "content": "self-sponsored",
+    "meaning_zh": "自费的；自行资助的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容词常见义"
+  },
+  {
+    "item_code": "w_065197",
+    "content": "selfish behavior",
+    "meaning_zh": "自私行为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_065200",
+    "content": "selfless devotion",
+    "meaning_zh": "无私奉献",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_065213",
+    "content": "sell yourself short",
+    "meaning_zh": "低估自己；妄自菲薄",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语整体含义"
+  },
+  {
+    "item_code": "w_065218",
+    "content": "seller basement",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_065225",
+    "content": "selvo",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_065227",
+    "content": "semantic error",
+    "meaning_zh": "语义错误",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_065230",
+    "content": "semaphore",
+    "meaning_zh": "信号量",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_065237",
+    "content": "semi blur",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准搭配"
+  },
+  {
+    "item_code": "w_065238",
+    "content": "semi circle circular",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词组拼接"
+  },
+  {
+    "item_code": "w_065267",
+    "content": "semiculture",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "罕见且含义不明"
+  },
+  {
+    "item_code": "w_065279",
+    "content": "seminar confront mercury",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声拼接"
+  },
+  {
+    "item_code": "w_065280",
+    "content": "seminar group",
+    "meaning_zh": "研讨小组",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术场景搭配"
+  },
+  {
+    "item_code": "w_065287",
+    "content": "semiotic",
+    "meaning_zh": "符号学的；符号的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术词汇"
+  }
+]

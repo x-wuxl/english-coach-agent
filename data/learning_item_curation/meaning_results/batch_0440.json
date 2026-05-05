@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_042102",
+    "content": "language strategy",
+    "meaning_zh": "语言策略",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_042104",
+    "content": "language teaching methodology",
+    "meaning_zh": "语言教学法；语言教学方法论",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育领域固定搭配"
+  },
+  {
+    "item_code": "w_042105",
+    "content": "language tutoring",
+    "meaning_zh": "语言辅导",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教育搭配"
+  },
+  {
+    "item_code": "w_042111",
+    "content": "languish irraticable dispassionate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_042120",
+    "content": "Lantern Festival party",
+    "meaning_zh": "元宵节晚会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "节日活动搭配"
+  },
+  {
+    "item_code": "w_042121",
+    "content": "lantern riddle",
+    "meaning_zh": "灯谜",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "传统文化表达"
+  },
+  {
+    "item_code": "w_042127",
+    "content": "lap calligraphy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_042137",
+    "content": "laps",
+    "meaning_zh": "圈；膝上；重叠部分",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "复数形式有多义"
+  },
+  {
+    "item_code": "w_042139",
+    "content": "lapse dilemma",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配"
+  },
+  {
+    "item_code": "w_042145",
+    "content": "lar",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写残片难判断"
+  },
+  {
+    "item_code": "w_042146",
+    "content": "larangology galactic clasp",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_042152",
+    "content": "large amounts of",
+    "meaning_zh": "大量的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  },
+  {
+    "item_code": "w_042153",
+    "content": "large chunks of",
+    "meaning_zh": "大块的；大量的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见数量搭配"
+  },
+  {
+    "item_code": "w_042156",
+    "content": "large office",
+    "meaning_zh": "大办公室",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_042161",
+    "content": "large section of marketing",
+    "meaning_zh": "营销的大部分",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配较泛化"
+  },
+  {
+    "item_code": "w_042162",
+    "content": "large volumes of data",
+    "meaning_zh": "大量数据",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见技术搭配"
+  },
+  {
+    "item_code": "w_042164",
+    "content": "large-scale expedition",
+    "meaning_zh": "大规模考察；大规模远征",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见活动搭配"
+  },
+  {
+    "item_code": "w_042165",
+    "content": "large-scale housing",
+    "meaning_zh": "大规模住房建设；大型住宅",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "需语境区分"
+  },
+  {
+    "item_code": "w_042166",
+    "content": "large-scale public grants",
+    "meaning_zh": "大规模公共拨款",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策资金搭配"
+  },
+  {
+    "item_code": "w_042168",
+    "content": "largely contingent",
+    "meaning_zh": "很大程度上取决于；基本上不确定",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "依赖语境判断"
+  }
+]

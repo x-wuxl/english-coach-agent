@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_022195",
+    "content": "double occupancy room",
+    "meaning_zh": "双人入住客房",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "酒店住宿常用搭配"
+  },
+  {
+    "item_code": "w_022199",
+    "content": "Double Singles' Day",
+    "meaning_zh": "双十一购物节",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有节日表达"
+  },
+  {
+    "item_code": "w_022202",
+    "content": "double the work",
+    "meaning_zh": "使工作量加倍；两倍的工作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_022203",
+    "content": "double thickness plasterboard",
+    "meaning_zh": "双层厚度石膏板；加厚石膏板",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "建筑材料术语"
+  },
+  {
+    "item_code": "w_022207",
+    "content": "double up with",
+    "meaning_zh": "与……合住；因……弯下身",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语动词含义"
+  },
+  {
+    "item_code": "w_022212",
+    "content": "double-click on",
+    "meaning_zh": "双击",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "电脑操作常用语"
+  },
+  {
+    "item_code": "w_022220",
+    "content": "double-grill",
+    "meaning_zh": "双层烤架；双面烤炉",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "复合词含义可判"
+  },
+  {
+    "item_code": "w_022227",
+    "content": "doubt the reliability",
+    "meaning_zh": "怀疑可靠性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_022252",
+    "content": "down payment loan",
+    "meaning_zh": "首付款贷款",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融贷款术语"
+  },
+  {
+    "item_code": "w_022259",
+    "content": "down to the government",
+    "meaning_zh": "取决于政府；由政府负责",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "依赖语境的短语"
+  },
+  {
+    "item_code": "w_022264",
+    "content": "down-the-line shot",
+    "meaning_zh": "沿边线击球；直线球",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "网球等运动术语"
+  },
+  {
+    "item_code": "w_022274",
+    "content": "downgrade composition",
+    "meaning_zh": "降低作文评分；降级作文",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配生硬但可判"
+  },
+  {
+    "item_code": "w_022279",
+    "content": "download music",
+    "meaning_zh": "下载音乐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_022286",
+    "content": "downpour parable earshot",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无明确含义"
+  },
+  {
+    "item_code": "w_022298",
+    "content": "downstairs neighbor",
+    "meaning_zh": "楼下邻居",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生活场景常用搭配"
+  },
+  {
+    "item_code": "w_022309",
+    "content": "dows",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似残片或噪声"
+  },
+  {
+    "item_code": "w_022310",
+    "content": "dows fringe remodel retribution",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无明确含义"
+  },
+  {
+    "item_code": "w_022329",
+    "content": "draconian dilute",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难以判断"
+  },
+  {
+    "item_code": "w_022331",
+    "content": "draft an outline",
+    "meaning_zh": "起草提纲；拟定大纲",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "写作常用搭配"
+  },
+  {
+    "item_code": "w_022335",
+    "content": "draft instrument",
+    "meaning_zh": "票据草案；汇票文件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "法律金融术语"
+  }
+]

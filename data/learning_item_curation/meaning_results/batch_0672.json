@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_066236",
+    "content": "shops within walking distance",
+    "meaning_zh": "步行可到达的商店",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_066241",
+    "content": "shoredage",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_066243",
+    "content": "shoreline protection",
+    "meaning_zh": "海岸线保护",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环境类术语"
+  },
+  {
+    "item_code": "w_066245",
+    "content": "short broad",
+    "meaning_zh": "矮而宽的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "形容外形特征"
+  },
+  {
+    "item_code": "w_066251",
+    "content": "short lecture",
+    "meaning_zh": "短讲座；简短讲课",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教学场景常用"
+  },
+  {
+    "item_code": "w_066257",
+    "content": "short race",
+    "meaning_zh": "短跑比赛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "体育常见搭配"
+  },
+  {
+    "item_code": "w_066260",
+    "content": "short sighted",
+    "meaning_zh": "近视的；目光短浅的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词短语"
+  },
+  {
+    "item_code": "w_066266",
+    "content": "short-change customers",
+    "meaning_zh": "少找顾客零钱；亏待顾客",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词搭配"
+  },
+  {
+    "item_code": "w_066278",
+    "content": "short-term changes",
+    "meaning_zh": "短期变化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常见搭配"
+  },
+  {
+    "item_code": "w_066279",
+    "content": "short-term economic benefits",
+    "meaning_zh": "短期经济利益",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济类常见搭配"
+  },
+  {
+    "item_code": "w_066281",
+    "content": "short-term profitability",
+    "meaning_zh": "短期盈利能力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商业学术表达"
+  },
+  {
+    "item_code": "w_066290",
+    "content": "shortcut recruit affection",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词序杂乱无可靠含义"
+  },
+  {
+    "item_code": "w_066292",
+    "content": "shorten one's life",
+    "meaning_zh": "缩短寿命",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_066293",
+    "content": "shorten travel time",
+    "meaning_zh": "缩短旅行时间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_066294",
+    "content": "shortening",
+    "meaning_zh": "起酥油；缩短",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指起酥油"
+  },
+  {
+    "item_code": "w_066300",
+    "content": "shortle",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_066305",
+    "content": "shortly briefly",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "同义词堆叠非词条"
+  },
+  {
+    "item_code": "w_066314",
+    "content": "shot exercise",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_066324",
+    "content": "shoulder arm elbow",
+    "meaning_zh": "肩膀、手臂和肘部",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "身体部位词组"
+  },
+  {
+    "item_code": "w_066327",
+    "content": "shoulder one's duties",
+    "meaning_zh": "承担职责",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词短语"
+  }
+]

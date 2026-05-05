@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_069434",
+    "content": "state diagram",
+    "meaning_zh": "状态图",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_069442",
+    "content": "State Street Bank case",
+    "meaning_zh": "州街银行案",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有法律案例"
+  },
+  {
+    "item_code": "w_069445",
+    "content": "state-level body",
+    "meaning_zh": "州级机构；国家级机构",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境不足有歧义"
+  },
+  {
+    "item_code": "w_069448",
+    "content": "state-owned business",
+    "meaning_zh": "国有企业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见经济搭配"
+  },
+  {
+    "item_code": "w_069449",
+    "content": "state-owned house",
+    "meaning_zh": "国有房屋；国有住房",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解"
+  },
+  {
+    "item_code": "w_069451",
+    "content": "state-run enterprise",
+    "meaning_zh": "国营企业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见经济搭配"
+  },
+  {
+    "item_code": "w_069459",
+    "content": "statement position",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_069470",
+    "content": "static contend",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声搭配"
+  },
+  {
+    "item_code": "w_069474",
+    "content": "static patent usher",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声搭配"
+  },
+  {
+    "item_code": "w_069476",
+    "content": "static typing",
+    "meaning_zh": "静态类型；静态类型化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_069482",
+    "content": "station posters",
+    "meaning_zh": "车站海报",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_069489",
+    "content": "stationary midst frost",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声搭配"
+  },
+  {
+    "item_code": "w_069490",
+    "content": "stationary nuisance",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缺少可靠语境"
+  },
+  {
+    "item_code": "w_069503",
+    "content": "statistical appraisal",
+    "meaning_zh": "统计评估",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专业搭配可理解"
+  },
+  {
+    "item_code": "w_069507",
+    "content": "statistical inspections",
+    "meaning_zh": "统计检查；统计检验",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专业搭配可理解"
+  },
+  {
+    "item_code": "w_069508",
+    "content": "statistical population distribution",
+    "meaning_zh": "统计总体分布；人口统计分布",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境不足有歧义"
+  },
+  {
+    "item_code": "w_069509",
+    "content": "statistical withdrawal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_069513",
+    "content": "statistics course",
+    "meaning_zh": "统计学课程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_069517",
+    "content": "statue irrational bid",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声搭配"
+  },
+  {
+    "item_code": "w_069522",
+    "content": "stature commercial",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  }
+]

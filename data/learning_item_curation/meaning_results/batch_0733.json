@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_072225",
+    "content": "take control of time",
+    "meaning_zh": "掌控时间；管理时间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "整体为动宾短语"
+  },
+  {
+    "item_code": "w_072228",
+    "content": "take credit",
+    "meaning_zh": "居功；把功劳归于自己",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_072233",
+    "content": "take different routes",
+    "meaning_zh": "走不同路线",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_072234",
+    "content": "take digs at sb.",
+    "meaning_zh": "挖苦某人；讽刺某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语搭配明确"
+  },
+  {
+    "item_code": "w_072235",
+    "content": "take diversion",
+    "meaning_zh": "绕道；改走临时路线",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配略省略冠词"
+  },
+  {
+    "item_code": "w_072237",
+    "content": "take effective action",
+    "meaning_zh": "采取有效行动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动作搭配"
+  },
+  {
+    "item_code": "w_072239",
+    "content": "take effort",
+    "meaning_zh": "需要努力；费力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_072241",
+    "content": "take energy from ...",
+    "meaning_zh": "从……获取能量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "结构含义清楚"
+  },
+  {
+    "item_code": "w_072248",
+    "content": "take food",
+    "meaning_zh": "吃东西；带食物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "无例句语义略多"
+  },
+  {
+    "item_code": "w_072253",
+    "content": "take gradual measures",
+    "meaning_zh": "逐步采取措施",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "搭配含义明确"
+  },
+  {
+    "item_code": "w_072257",
+    "content": "take high-speed trains",
+    "meaning_zh": "乘坐高铁",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通搭配明确"
+  },
+  {
+    "item_code": "w_072265",
+    "content": "take inspiration from",
+    "meaning_zh": "从……获得灵感",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_072266",
+    "content": "take interest in",
+    "meaning_zh": "对……感兴趣",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_072270",
+    "content": "take into favorable consideration",
+    "meaning_zh": "予以优先考虑；给予积极考虑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "正式书面表达"
+  },
+  {
+    "item_code": "w_072277",
+    "content": "take issue with somebody",
+    "meaning_zh": "不同意某人的看法；与某人争论",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语"
+  },
+  {
+    "item_code": "w_072282",
+    "content": "take it slow",
+    "meaning_zh": "慢慢来；不急于行动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "口语固定表达"
+  },
+  {
+    "item_code": "w_072285",
+    "content": "take its toll on",
+    "meaning_zh": "对……造成损害；使……付出代价",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见习语"
+  },
+  {
+    "item_code": "w_072299",
+    "content": "take no interest in",
+    "meaning_zh": "对……不感兴趣",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配明确"
+  },
+  {
+    "item_code": "w_072301",
+    "content": "take nonsense",
+    "meaning_zh": "忍受胡说八道；容忍荒唐话",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见于否定语境"
+  },
+  {
+    "item_code": "w_072310",
+    "content": "take occasion to do",
+    "meaning_zh": "趁机做；借机做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定书面表达"
+  }
+]

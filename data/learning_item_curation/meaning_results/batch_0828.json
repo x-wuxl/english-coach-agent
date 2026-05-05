@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_082027",
+    "content": "year-on-year rise",
+    "meaning_zh": "同比增长",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见财经表达"
+  },
+  {
+    "item_code": "w_082032",
+    "content": "yearly migration",
+    "meaning_zh": "年度迁徙；每年迁移",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_082035",
+    "content": "years of ...",
+    "meaning_zh": "多年的……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定结构但不完整"
+  },
+  {
+    "item_code": "w_082038",
+    "content": "yeast bin cleanser",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似随机词组"
+  },
+  {
+    "item_code": "w_082039",
+    "content": "yeast disconnect fracture",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似随机词组"
+  },
+  {
+    "item_code": "w_082042",
+    "content": "yell whistle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_082046",
+    "content": "Yellow River",
+    "meaning_zh": "黄河",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有地名"
+  },
+  {
+    "item_code": "w_082047",
+    "content": "yellow rose",
+    "meaning_zh": "黄玫瑰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_082051",
+    "content": "yellowish reddish brownish",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成表达"
+  },
+  {
+    "item_code": "w_082058",
+    "content": "yepi",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_082063",
+    "content": "yeshuri",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_082073",
+    "content": "yield margin",
+    "meaning_zh": "收益率差额；收益率边际",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "财经术语"
+  },
+  {
+    "item_code": "w_082074",
+    "content": "yield of wood",
+    "meaning_zh": "木材产量；木材出材率",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按搭配可判断"
+  },
+  {
+    "item_code": "w_082079",
+    "content": "yield transport digest",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似随机词组"
+  },
+  {
+    "item_code": "w_082082",
+    "content": "yin yang principle",
+    "meaning_zh": "阴阳原理；阴阳原则",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文化概念"
+  },
+  {
+    "item_code": "w_082092",
+    "content": "yoke inertia",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_082094",
+    "content": "yoko garbal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声"
+  },
+  {
+    "item_code": "w_082103",
+    "content": "you approach it instrumentally",
+    "meaning_zh": "你以功利方式看待它",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "句子表达完整"
+  },
+  {
+    "item_code": "w_082105",
+    "content": "You are telling me.",
+    "meaning_zh": "还用你说；我完全同意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见口语表达"
+  },
+  {
+    "item_code": "w_082107",
+    "content": "you buy into it",
+    "meaning_zh": "你相信它；你接受它",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语用法"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_068404",
+    "content": "spartan maculate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词串噪声"
+  },
+  {
+    "item_code": "w_068411",
+    "content": "spat provoke revenge",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词串噪声"
+  },
+  {
+    "item_code": "w_068416",
+    "content": "spatial sphere",
+    "meaning_zh": "空间范围；空间领域",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按搭配整体理解"
+  },
+  {
+    "item_code": "w_068424",
+    "content": "speak at natural speed",
+    "meaning_zh": "以自然语速说话",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见口语表达"
+  },
+  {
+    "item_code": "w_068425",
+    "content": "speak confidently",
+    "meaning_zh": "自信地说话",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_068432",
+    "content": "speak loud",
+    "meaning_zh": "大声说话",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见口语表达"
+  },
+  {
+    "item_code": "w_068436",
+    "content": "speak Spanish",
+    "meaning_zh": "说西班牙语；会西班牙语",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_068438",
+    "content": "speak to the boss",
+    "meaning_zh": "和老板谈话",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见场景表达"
+  },
+  {
+    "item_code": "w_068439",
+    "content": "speak to the landlord",
+    "meaning_zh": "和房东谈话",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见场景表达"
+  },
+  {
+    "item_code": "w_068442",
+    "content": "speak with",
+    "meaning_zh": "和……说话；与……交谈",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_068448",
+    "content": "speaksman",
+    "meaning_zh": "发言人；代言人",
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "应为spokesman拼写错误"
+  },
+  {
+    "item_code": "w_068451",
+    "content": "spear loop numb nostril",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无意义词串"
+  },
+  {
+    "item_code": "w_068456",
+    "content": "spec requite",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词串噪声"
+  },
+  {
+    "item_code": "w_068458",
+    "content": "special audio equipment",
+    "meaning_zh": "专用音频设备",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_068460",
+    "content": "special buses",
+    "meaning_zh": "专用公交车；特别班车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "需结合场景理解"
+  },
+  {
+    "item_code": "w_068461",
+    "content": "special case",
+    "meaning_zh": "特殊情况；特例",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见术语"
+  },
+  {
+    "item_code": "w_068462",
+    "content": "special circumstance",
+    "meaning_zh": "特殊情况",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_068463",
+    "content": "special clinic",
+    "meaning_zh": "专科诊所；专门门诊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医疗场景搭配"
+  },
+  {
+    "item_code": "w_068470",
+    "content": "special expense deductions",
+    "meaning_zh": "专项费用扣除",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "税务类固定表达"
+  },
+  {
+    "item_code": "w_068474",
+    "content": "special method",
+    "meaning_zh": "特殊方法；专用方法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常见表达"
+  }
+]

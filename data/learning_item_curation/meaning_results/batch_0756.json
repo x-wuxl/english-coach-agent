@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_073976",
+    "content": "the prince consort",
+    "meaning_zh": "王夫；女王的丈夫",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定名词短语"
+  },
+  {
+    "item_code": "w_073977",
+    "content": "the principle of compromise",
+    "meaning_zh": "妥协原则",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象名词短语"
+  },
+  {
+    "item_code": "w_073978",
+    "content": "the printed page",
+    "meaning_zh": "印刷页面；纸质文本",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_073979",
+    "content": "the process of",
+    "meaning_zh": "……的过程；正在……过程中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持搭配义"
+  },
+  {
+    "item_code": "w_073983",
+    "content": "the Prose Summary questions",
+    "meaning_zh": "文章概要题；段落总结题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "托福题型术语"
+  },
+  {
+    "item_code": "w_073984",
+    "content": "the prospect of",
+    "meaning_zh": "……的可能性；……的前景",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_073985",
+    "content": "the provincial capital",
+    "meaning_zh": "省会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见地理名词"
+  },
+  {
+    "item_code": "w_073988",
+    "content": "The Quarrymen",
+    "meaning_zh": "采石工人乐队（披头士前身）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有名词"
+  },
+  {
+    "item_code": "w_073990",
+    "content": "the range of",
+    "meaning_zh": "……的范围；……的种类",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_073994",
+    "content": "the recesses of sth.",
+    "meaning_zh": "某物的深处；某事物的隐秘处",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_073999",
+    "content": "the Republicans",
+    "meaning_zh": "共和党人；共和党",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治专有称谓"
+  },
+  {
+    "item_code": "w_074000",
+    "content": "the republicans left",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似句子残片"
+  },
+  {
+    "item_code": "w_074001",
+    "content": "the rest",
+    "meaning_zh": "其余的人或物；剩下的部分",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持常见义"
+  },
+  {
+    "item_code": "w_074003",
+    "content": "the Revolutionary War",
+    "meaning_zh": "美国独立战争",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句明确历史事件"
+  },
+  {
+    "item_code": "w_074004",
+    "content": "the Richmond District",
+    "meaning_zh": "里士满区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "地名专有名词"
+  },
+  {
+    "item_code": "w_074011",
+    "content": "the ruling caste",
+    "meaning_zh": "统治阶层；掌权阶级",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会学表达"
+  },
+  {
+    "item_code": "w_074018",
+    "content": "the San Francisco Chronicle",
+    "meaning_zh": "《旧金山纪事报》",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "报纸专有名词"
+  },
+  {
+    "item_code": "w_074020",
+    "content": "the saying goes",
+    "meaning_zh": "俗话说；常言道",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持固定表达"
+  },
+  {
+    "item_code": "w_074021",
+    "content": "the scale of",
+    "meaning_zh": "……的规模；……的程度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_074022",
+    "content": "the school board",
+    "meaning_zh": "学校董事会；教育委员会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教育机构名"
+  }
+]

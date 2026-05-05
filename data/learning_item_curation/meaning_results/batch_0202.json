@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_018857",
+    "content": "dance class",
+    "meaning_zh": "舞蹈课",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见课程搭配"
+  },
+  {
+    "item_code": "w_018859",
+    "content": "dance coupon",
+    "meaning_zh": "舞蹈优惠券",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配含义可判断"
+  },
+  {
+    "item_code": "w_018862",
+    "content": "dance in Tang Dynasty",
+    "meaning_zh": "唐代舞蹈",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文化主题短语"
+  },
+  {
+    "item_code": "w_018864",
+    "content": "dance of Xinjiang",
+    "meaning_zh": "新疆舞蹈",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地域舞蹈表达"
+  },
+  {
+    "item_code": "w_018865",
+    "content": "dance show",
+    "meaning_zh": "舞蹈表演",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见活动搭配"
+  },
+  {
+    "item_code": "w_018869",
+    "content": "dance troupe",
+    "meaning_zh": "舞蹈团",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定组织搭配"
+  },
+  {
+    "item_code": "w_018870",
+    "content": "dance tune",
+    "meaning_zh": "舞曲",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见音乐搭配"
+  },
+  {
+    "item_code": "w_018871",
+    "content": "dance well",
+    "meaning_zh": "舞跳得好",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句确认含义"
+  },
+  {
+    "item_code": "w_018875",
+    "content": "dancing club",
+    "meaning_zh": "舞蹈俱乐部",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社团搭配"
+  },
+  {
+    "item_code": "w_018880",
+    "content": "dander funeral defensive association",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声搭配"
+  },
+  {
+    "item_code": "w_018884",
+    "content": "dandy spoof",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义不可靠"
+  },
+  {
+    "item_code": "w_018891",
+    "content": "dangerous adventure activities",
+    "meaning_zh": "危险的冒险活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_018892",
+    "content": "dangerous creature",
+    "meaning_zh": "危险生物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_018900",
+    "content": "danmaku screening",
+    "meaning_zh": "弹幕放映",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "媒体术语搭配"
+  },
+  {
+    "item_code": "w_018908",
+    "content": "dard",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_018914",
+    "content": "darian",
+    "meaning_zh": "达里安",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有名词人名"
+  },
+  {
+    "item_code": "w_018922",
+    "content": "dark gray blonde",
+    "meaning_zh": "深灰金发色",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "颜色描述短语"
+  },
+  {
+    "item_code": "w_018925",
+    "content": "dark pigments",
+    "meaning_zh": "深色颜料；深色色素",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见科学搭配"
+  },
+  {
+    "item_code": "w_018935",
+    "content": "Darlene Coulon",
+    "meaning_zh": "达琳·库隆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有名词人名"
+  },
+  {
+    "item_code": "w_018937",
+    "content": "Darling Harbour",
+    "meaning_zh": "达令港",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "悉尼地名"
+  }
+]

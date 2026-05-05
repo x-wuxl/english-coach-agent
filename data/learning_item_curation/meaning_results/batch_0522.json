@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_050668",
+    "content": "novel coronavirus",
+    "meaning_zh": "新型冠状病毒",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见医学术语"
+  },
+  {
+    "item_code": "w_050669",
+    "content": "novel coronavirus pneumonia",
+    "meaning_zh": "新型冠状病毒肺炎",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见医学术语"
+  },
+  {
+    "item_code": "w_050678",
+    "content": "novice aircraft",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配疑似噪声"
+  },
+  {
+    "item_code": "w_050679",
+    "content": "novice supersede",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接疑似噪声"
+  },
+  {
+    "item_code": "w_050687",
+    "content": "noway",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似no way误拼"
+  },
+  {
+    "item_code": "w_050690",
+    "content": "nowhere somewhere",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接疑似噪声"
+  },
+  {
+    "item_code": "w_050692",
+    "content": "noxious harsh",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "并列词非固定表达"
+  },
+  {
+    "item_code": "w_050734",
+    "content": "nude swimming",
+    "meaning_zh": "裸泳",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语"
+  },
+  {
+    "item_code": "w_050736",
+    "content": "nudge raffle honoris cosmopolitan",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无意义词串噪声"
+  },
+  {
+    "item_code": "w_050741",
+    "content": "nuisance-lawsuit",
+    "meaning_zh": "骚扰性诉讼；滋扰诉讼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律类固定表达"
+  },
+  {
+    "item_code": "w_050742",
+    "content": "nuisance-lawsuit filer",
+    "meaning_zh": "骚扰性诉讼提起人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "法律类组合表达"
+  },
+  {
+    "item_code": "w_050753",
+    "content": "nullity",
+    "meaning_zh": "无效；空值；无效事物",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见术语义项"
+  },
+  {
+    "item_code": "w_050754",
+    "content": "num",
+    "meaning_zh": "数字；数值",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "number缩写"
+  },
+  {
+    "item_code": "w_050755",
+    "content": "numa",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义不明疑似噪声"
+  },
+  {
+    "item_code": "w_050760",
+    "content": "number of hits",
+    "meaning_zh": "点击次数；命中次数",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "统计或网络常用语"
+  },
+  {
+    "item_code": "w_050776",
+    "content": "numeric system",
+    "meaning_zh": "数制；数字系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见技术术语"
+  },
+  {
+    "item_code": "w_050784",
+    "content": "numerous assure",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接疑似噪声"
+  },
+  {
+    "item_code": "w_050785",
+    "content": "numerous wretched",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "并列词非固定表达"
+  },
+  {
+    "item_code": "w_050788",
+    "content": "numinous summit",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配疑似噪声"
+  },
+  {
+    "item_code": "w_050796",
+    "content": "nurl",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准词疑似噪声"
+  }
+]

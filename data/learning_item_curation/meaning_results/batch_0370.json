@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_034945",
+    "content": "high-risk loan",
+    "meaning_zh": "高风险贷款",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融常见搭配"
+  },
+  {
+    "item_code": "w_034947",
+    "content": "high-school coding classes",
+    "meaning_zh": "高中编程课",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育类常见搭配"
+  },
+  {
+    "item_code": "w_034952",
+    "content": "high-speed rail network",
+    "meaning_zh": "高速铁路网络；高铁网",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通类常见搭配"
+  },
+  {
+    "item_code": "w_034953",
+    "content": "high-speed rail station",
+    "meaning_zh": "高铁站",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通类常见搭配"
+  },
+  {
+    "item_code": "w_034961",
+    "content": "high-tech age",
+    "meaning_zh": "高科技时代",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定语义清晰"
+  },
+  {
+    "item_code": "w_034962",
+    "content": "high-tech system",
+    "meaning_zh": "高科技系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "科技类常见搭配"
+  },
+  {
+    "item_code": "w_034963",
+    "content": "high-technology tools",
+    "meaning_zh": "高科技工具",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "科技类搭配"
+  },
+  {
+    "item_code": "w_034964",
+    "content": "high-temperature cooking",
+    "meaning_zh": "高温烹饪",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "烹饪常见表达"
+  },
+  {
+    "item_code": "w_034965",
+    "content": "high-temperature subsidies",
+    "meaning_zh": "高温补贴",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复数形式搭配"
+  },
+  {
+    "item_code": "w_034966",
+    "content": "high-temperature subsidy",
+    "meaning_zh": "高温补贴",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "劳动福利术语"
+  },
+  {
+    "item_code": "w_034967",
+    "content": "high-value loan",
+    "meaning_zh": "高额贷款；高价值贷款",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融搭配明确"
+  },
+  {
+    "item_code": "w_034972",
+    "content": "higher in artistic quality",
+    "meaning_zh": "艺术质量更高",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "比较结构明确"
+  },
+  {
+    "item_code": "w_034975",
+    "content": "higher-order function",
+    "meaning_zh": "高阶函数",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_034978",
+    "content": "highest recommendation",
+    "meaning_zh": "最高推荐；极力推荐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "评价表达常见"
+  },
+  {
+    "item_code": "w_034981",
+    "content": "highheel",
+    "meaning_zh": "高跟鞋",
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_034990",
+    "content": "highlights and sidelights",
+    "meaning_zh": "要闻与花絮；重点与侧面消息",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "习语搭配较少见"
+  },
+  {
+    "item_code": "w_034993",
+    "content": "highly competitive market",
+    "meaning_zh": "竞争激烈的市场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常见搭配"
+  },
+  {
+    "item_code": "w_034995",
+    "content": "highly evolved mammal",
+    "meaning_zh": "高度进化的哺乳动物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生物表达明确"
+  },
+  {
+    "item_code": "w_034998",
+    "content": "highly competitive society",
+    "meaning_zh": "竞争激烈的社会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "社会类常见搭配"
+  },
+  {
+    "item_code": "w_035003",
+    "content": "highway avenue",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_006518",
+    "content": "bar inquire appraiser",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词串无固定含义"
+  },
+  {
+    "item_code": "w_006525",
+    "content": "barbaric behavior",
+    "meaning_zh": "野蛮行为；残暴行为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_006531",
+    "content": "barbecue picnic",
+    "meaning_zh": "烧烤野餐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见活动表达"
+  },
+  {
+    "item_code": "w_006534",
+    "content": "barbed foreleg",
+    "meaning_zh": "带刺的前足；有倒刺的前腿",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "生物部位搭配"
+  },
+  {
+    "item_code": "w_006539",
+    "content": "barber dine",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词串无固定含义"
+  },
+  {
+    "item_code": "w_006540",
+    "content": "barber hairdresser",
+    "meaning_zh": "理发师；美发师",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "非标准词条"
+  },
+  {
+    "item_code": "w_006545",
+    "content": "barbiturate molton stab",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "疑似噪声词串"
+  },
+  {
+    "item_code": "w_006551",
+    "content": "bare skin",
+    "meaning_zh": "裸露的皮肤",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_006555",
+    "content": "barely estate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词语搭配异常"
+  },
+  {
+    "item_code": "w_006565",
+    "content": "bargain on doing sth.",
+    "meaning_zh": "指望做某事；预料会做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_006567",
+    "content": "bargain shopping",
+    "meaning_zh": "淘便宜货；低价购物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见购物表达"
+  },
+  {
+    "item_code": "w_006575",
+    "content": "barish",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_006581",
+    "content": "bark blair",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词串无固定含义"
+  },
+  {
+    "item_code": "w_006584",
+    "content": "barmaid barman beverage brandy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词表残片"
+  },
+  {
+    "item_code": "w_006587",
+    "content": "barn chamber conservatory",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词表残片"
+  },
+  {
+    "item_code": "w_006589",
+    "content": "barnish",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_006600",
+    "content": "barosematic",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_006610",
+    "content": "barren mountain",
+    "meaning_zh": "荒山；贫瘠的山地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见地貌搭配"
+  },
+  {
+    "item_code": "w_006614",
+    "content": "barricade glut",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词语搭配异常"
+  },
+  {
+    "item_code": "w_006617",
+    "content": "barrier radiation",
+    "meaning_zh": "屏障辐射；阻隔辐射",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术搭配可解释"
+  }
+]

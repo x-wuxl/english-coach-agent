@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_051868",
+    "content": "one person, one account",
+    "meaning_zh": "一人一账号",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定政策表达"
+  },
+  {
+    "item_code": "w_051869",
+    "content": "one such ...",
+    "meaning_zh": "一个这样的……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见指代表达"
+  },
+  {
+    "item_code": "w_051871",
+    "content": "one third of ...",
+    "meaning_zh": "……的三分之一",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见比例表达"
+  },
+  {
+    "item_code": "w_051874",
+    "content": "one wave after another",
+    "meaning_zh": "一波接一波",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  },
+  {
+    "item_code": "w_051875",
+    "content": "one way fair",
+    "meaning_zh": "单程票价",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为fare误拼"
+  },
+  {
+    "item_code": "w_051877",
+    "content": "one's attitude to sth.",
+    "meaning_zh": "某人对某事的态度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_051878",
+    "content": "one's attitude towards sth.",
+    "meaning_zh": "某人对某事的态度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_051879",
+    "content": "one's best bet",
+    "meaning_zh": "某人最稳妥的选择；某人最好的办法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语表达"
+  },
+  {
+    "item_code": "w_051882",
+    "content": "one's motivation",
+    "meaning_zh": "某人的动机；某人的动力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_051885",
+    "content": "one-click online payment system",
+    "meaning_zh": "一键式网上支付系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术名词短语"
+  },
+  {
+    "item_code": "w_051892",
+    "content": "one-hour commuting circle",
+    "meaning_zh": "一小时通勤圈",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "城市交通表达"
+  },
+  {
+    "item_code": "w_051898",
+    "content": "one-off consumption",
+    "meaning_zh": "一次性消费",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见经济表达"
+  },
+  {
+    "item_code": "w_051906",
+    "content": "one-shot deals",
+    "meaning_zh": "一次性交易",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商业固定表达"
+  },
+  {
+    "item_code": "w_051916",
+    "content": "one-to-one interview",
+    "meaning_zh": "一对一面试；一对一访谈",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务面试表达"
+  },
+  {
+    "item_code": "w_051917",
+    "content": "one-trillion-yuan GDP club",
+    "meaning_zh": "万亿GDP俱乐部",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济报道术语"
+  },
+  {
+    "item_code": "w_051930",
+    "content": "onion mushroom bread",
+    "meaning_zh": "洋葱蘑菇面包",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "食品名词短语"
+  },
+  {
+    "item_code": "w_051932",
+    "content": "onionskin-thin",
+    "meaning_zh": "薄如洋葱皮的；极薄的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_051934",
+    "content": "online booking system",
+    "meaning_zh": "在线预订系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见系统名称"
+  },
+  {
+    "item_code": "w_051935",
+    "content": "online car-hailing",
+    "meaning_zh": "网约车服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "出行服务术语"
+  },
+  {
+    "item_code": "w_051936",
+    "content": "online courses",
+    "meaning_zh": "在线课程；网课",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育常用表达"
+  }
+]

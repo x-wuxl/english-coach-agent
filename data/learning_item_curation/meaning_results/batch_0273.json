@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_025956",
+    "content": "exhume expire",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "多词拼接，非固定表达"
+  },
+  {
+    "item_code": "w_025960",
+    "content": "exigent hamstring disgorge",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "多词拼接，非固定表达"
+  },
+  {
+    "item_code": "w_025964",
+    "content": "exile stiffness",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "多词拼接，非固定表达"
+  },
+  {
+    "item_code": "w_025966",
+    "content": "exima",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_025976",
+    "content": "existing future",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_025986",
+    "content": "exodus finnecky discompose",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "多词拼接且含错拼"
+  },
+  {
+    "item_code": "w_025990",
+    "content": "exogenous caption",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "多词拼接，非固定表达"
+  },
+  {
+    "item_code": "w_025998",
+    "content": "exorbitant idiosyncracy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "搭配异常且含错拼"
+  },
+  {
+    "item_code": "w_026000",
+    "content": "exorcise discord",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "搭配不常见"
+  },
+  {
+    "item_code": "w_026010",
+    "content": "exotic culture",
+    "meaning_zh": "异国文化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_026011",
+    "content": "exotic disturb",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "搭配错误"
+  },
+  {
+    "item_code": "w_026012",
+    "content": "exotic overbook enclosure",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "多词拼接，非固定表达"
+  },
+  {
+    "item_code": "w_026013",
+    "content": "exotic pest",
+    "meaning_zh": "外来害虫",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态农业常见术语"
+  },
+  {
+    "item_code": "w_026014",
+    "content": "exotic pine fumble",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "多词拼接，非固定表达"
+  },
+  {
+    "item_code": "w_026019",
+    "content": "exotoxin soak excursion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "多词拼接，非固定表达"
+  },
+  {
+    "item_code": "w_026022",
+    "content": "expand domestic demand",
+    "meaning_zh": "扩大内需",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济领域常见表达"
+  },
+  {
+    "item_code": "w_026023",
+    "content": "expand knowledge",
+    "meaning_zh": "拓展知识",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_026025",
+    "content": "expand one's business",
+    "meaning_zh": "扩展业务；扩大生意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_026026",
+    "content": "expand one's knowledge",
+    "meaning_zh": "拓展知识；增长见识",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习表达"
+  },
+  {
+    "item_code": "w_026027",
+    "content": "expand productive forces",
+    "meaning_zh": "发展生产力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济政治常见表达"
+  }
+]

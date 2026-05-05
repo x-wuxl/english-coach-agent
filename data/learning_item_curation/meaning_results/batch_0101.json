@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_008244",
+    "content": "be warmly welcomed",
+    "meaning_zh": "受到热烈欢迎",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定被动表达"
+  },
+  {
+    "item_code": "w_008246",
+    "content": "be wasteful with",
+    "meaning_zh": "浪费；挥霍",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_008247",
+    "content": "be way ahead",
+    "meaning_zh": "遥遥领先；远远超前",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见口语表达"
+  },
+  {
+    "item_code": "w_008250",
+    "content": "be weaned from milk",
+    "meaning_zh": "断奶",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_008254",
+    "content": "be widely accepted",
+    "meaning_zh": "被广泛接受；得到普遍认可",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动表达"
+  },
+  {
+    "item_code": "w_008255",
+    "content": "be widely considered",
+    "meaning_zh": "被广泛认为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动表达"
+  },
+  {
+    "item_code": "w_008260",
+    "content": "be without compare",
+    "meaning_zh": "无与伦比；无可比拟",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_008261",
+    "content": "be worn into",
+    "meaning_zh": "被磨成；被磨出",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缺少宾语但可判断"
+  },
+  {
+    "item_code": "w_008269",
+    "content": "be worthwhile to",
+    "meaning_zh": "值得做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略不完整"
+  },
+  {
+    "item_code": "w_008271",
+    "content": "be worthy of sth.",
+    "meaning_zh": "值得；配得上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_008272",
+    "content": "be worthy to",
+    "meaning_zh": "值得；配得上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配形式较少见"
+  },
+  {
+    "item_code": "w_008273",
+    "content": "be woven from",
+    "meaning_zh": "由……织成；由……编成",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动搭配"
+  },
+  {
+    "item_code": "w_008279",
+    "content": "beach patrol",
+    "meaning_zh": "海滩巡逻队；海滩巡逻",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "名词短语"
+  },
+  {
+    "item_code": "w_008285",
+    "content": "beachside hotel",
+    "meaning_zh": "海滨酒店；海边旅馆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "名词短语"
+  },
+  {
+    "item_code": "w_008312",
+    "content": "bear ... a spite",
+    "meaning_zh": "对……怀恨；怨恨……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "较少见固定表达"
+  },
+  {
+    "item_code": "w_008315",
+    "content": "bear a similarity to",
+    "meaning_zh": "与……相似",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_008321",
+    "content": "bear no resemblance to",
+    "meaning_zh": "与……毫无相似之处",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_008342",
+    "content": "beargall",
+    "meaning_zh": "熊胆",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专门名词"
+  },
+  {
+    "item_code": "w_008346",
+    "content": "bearings autonomy flicker",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_008358",
+    "content": "beat cream",
+    "meaning_zh": "搅打奶油",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "烹饪常见搭配"
+  }
+]

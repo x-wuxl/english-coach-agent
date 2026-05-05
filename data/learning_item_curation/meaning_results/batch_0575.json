@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_056173",
+    "content": "pledge to",
+    "meaning_zh": "承诺做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词搭配"
+  },
+  {
+    "item_code": "w_056178",
+    "content": "plenary power",
+    "meaning_zh": "全权；完全权力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律政治常用术语"
+  },
+  {
+    "item_code": "w_056190",
+    "content": "plethora riot",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无固定搭配，疑似噪声"
+  },
+  {
+    "item_code": "w_056199",
+    "content": "plexicographer",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "拼写疑似错误"
+  },
+  {
+    "item_code": "w_056202",
+    "content": "pliable abstain",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词语拼接，疑似噪声"
+  },
+  {
+    "item_code": "w_056206",
+    "content": "plight hygimony",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "含错词且无固定搭配"
+  },
+  {
+    "item_code": "w_056208",
+    "content": "plits",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写残片"
+  },
+  {
+    "item_code": "w_056210",
+    "content": "plod imperishable charade",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "多词堆叠，疑似噪声"
+  },
+  {
+    "item_code": "w_056230",
+    "content": "pluck refute quota retort",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "多词堆叠，疑似噪声"
+  },
+  {
+    "item_code": "w_056240",
+    "content": "plug one's ears",
+    "meaning_zh": "塞住耳朵",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动作表达"
+  },
+  {
+    "item_code": "w_056250",
+    "content": "plummet scads periodical talisman",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "多词堆叠，疑似噪声"
+  },
+  {
+    "item_code": "w_056253",
+    "content": "plump pillary complacency rehearsal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "含错词且无固定搭配"
+  },
+  {
+    "item_code": "w_056255",
+    "content": "plunder microbiology",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无固定搭配，疑似噪声"
+  },
+  {
+    "item_code": "w_056263",
+    "content": "plunge sth. into",
+    "meaning_zh": "使某物陷入；把某物投入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词搭配"
+  },
+  {
+    "item_code": "w_056266",
+    "content": "plura physiological",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "拼写疑似错误"
+  },
+  {
+    "item_code": "w_056268",
+    "content": "plural perspire",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无固定搭配，疑似噪声"
+  },
+  {
+    "item_code": "w_056273",
+    "content": "pluralistic culture",
+    "meaning_zh": "多元文化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会文化术语"
+  },
+  {
+    "item_code": "w_056274",
+    "content": "pluralistic cultures",
+    "meaning_zh": "多元文化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复数形式术语"
+  },
+  {
+    "item_code": "w_056278",
+    "content": "plus tax",
+    "meaning_zh": "外加税费；不含税",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "价格标注常用表达"
+  },
+  {
+    "item_code": "w_056281",
+    "content": "plush spurn deflect",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "多词堆叠，疑似噪声"
+  }
+]

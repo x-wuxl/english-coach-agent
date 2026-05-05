@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_035454",
+    "content": "homemade passenger jet",
+    "meaning_zh": "国产客机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_035457",
+    "content": "homemaking ability",
+    "meaning_zh": "持家能力；家务管理能力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_035459",
+    "content": "homeopacy",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_035474",
+    "content": "homespun cloth",
+    "meaning_zh": "手织布；土布",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_035481",
+    "content": "homework assignment",
+    "meaning_zh": "家庭作业；作业任务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习场景"
+  },
+  {
+    "item_code": "w_035504",
+    "content": "homogeneous radiate vessel navigation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配无可靠含义"
+  },
+  {
+    "item_code": "w_035534",
+    "content": "hond",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准英语词"
+  },
+  {
+    "item_code": "w_035539",
+    "content": "honest open",
+    "meaning_zh": "诚实坦率的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "并列形容词搭配"
+  },
+  {
+    "item_code": "w_035544",
+    "content": "honey jam jar",
+    "meaning_zh": "蜂蜜果酱罐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解名词短语"
+  },
+  {
+    "item_code": "w_035546",
+    "content": "honey production",
+    "meaning_zh": "蜂蜜生产",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见主题搭配"
+  },
+  {
+    "item_code": "w_035551",
+    "content": "honeymoon affair",
+    "meaning_zh": "蜜月期间的恋情；蜜月事件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义依语境"
+  },
+  {
+    "item_code": "w_035560",
+    "content": "honor someone's request",
+    "meaning_zh": "答应某人的请求；满足某人的要求",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_035563",
+    "content": "honorable susceptible",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_035568",
+    "content": "honorary award",
+    "meaning_zh": "荣誉奖项；名誉奖",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_035573",
+    "content": "honoris",
+    "meaning_zh": "荣誉的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "拉丁语学位用词"
+  },
+  {
+    "item_code": "w_035575",
+    "content": "honors thesis",
+    "meaning_zh": "荣誉学位论文",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "大学教育术语"
+  },
+  {
+    "item_code": "w_035585",
+    "content": "hooding",
+    "meaning_zh": "授帽仪式；戴兜帽",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "毕业典礼相关词"
+  },
+  {
+    "item_code": "w_035592",
+    "content": "hook downstairs upstairs",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无含义"
+  },
+  {
+    "item_code": "w_035604",
+    "content": "hoop exercise",
+    "meaning_zh": "呼啦圈运动；圈操",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "运动类常见搭配"
+  },
+  {
+    "item_code": "w_035612",
+    "content": "hop diferia",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  }
+]

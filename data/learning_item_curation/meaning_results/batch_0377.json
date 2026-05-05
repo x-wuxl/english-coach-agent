@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_035741",
+    "content": "hot areas",
+    "meaning_zh": "热点地区；热门领域",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_035746",
+    "content": "hot fields",
+    "meaning_zh": "热门领域；热点学科",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_035764",
+    "content": "hotchbotch",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_035768",
+    "content": "hotel booking",
+    "meaning_zh": "酒店预订",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅游表达"
+  },
+  {
+    "item_code": "w_035769",
+    "content": "hotel boy",
+    "meaning_zh": "酒店服务生；旅馆男仆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "较旧称谓"
+  },
+  {
+    "item_code": "w_035772",
+    "content": "hotel vestibule",
+    "meaning_zh": "酒店门厅；旅馆前厅",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "场所名词搭配"
+  },
+  {
+    "item_code": "w_035786",
+    "content": "hottie",
+    "meaning_zh": "性感迷人的人；辣妹帅哥",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见俚语"
+  },
+  {
+    "item_code": "w_035797",
+    "content": "house appliance",
+    "meaning_zh": "家用电器",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "通常作home appliance"
+  },
+  {
+    "item_code": "w_035806",
+    "content": "house-for-pension",
+    "meaning_zh": "以房养老",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策术语"
+  },
+  {
+    "item_code": "w_035807",
+    "content": "house-for-pension scheme",
+    "meaning_zh": "以房养老方案；以房养老制度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策术语"
+  },
+  {
+    "item_code": "w_035824",
+    "content": "household contract responsibility system",
+    "meaning_zh": "家庭联产承包责任制",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "中国政策术语"
+  },
+  {
+    "item_code": "w_035825",
+    "content": "household decoration",
+    "meaning_zh": "家庭装修；家居装饰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活搭配"
+  },
+  {
+    "item_code": "w_035827",
+    "content": "household gadget",
+    "meaning_zh": "家用小器具；家用小工具",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见物品搭配"
+  },
+  {
+    "item_code": "w_035833",
+    "content": "household water consumption",
+    "meaning_zh": "家庭用水量；居民生活用水量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "统计类搭配"
+  },
+  {
+    "item_code": "w_035840",
+    "content": "housemaid gray derivation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "内容杂糅噪声"
+  },
+  {
+    "item_code": "w_035848",
+    "content": "housewife household housework",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词汇堆叠噪声"
+  },
+  {
+    "item_code": "w_035853",
+    "content": "housing complex",
+    "meaning_zh": "住宅区；住宅综合体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见建筑表达"
+  },
+  {
+    "item_code": "w_035854",
+    "content": "housing crisis",
+    "meaning_zh": "住房危机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "社会议题搭配"
+  },
+  {
+    "item_code": "w_035860",
+    "content": "housing price",
+    "meaning_zh": "房价；住房价格",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见经济表达"
+  },
+  {
+    "item_code": "w_035866",
+    "content": "housing vacancy rate",
+    "meaning_zh": "住房空置率",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "房地产指标"
+  }
+]

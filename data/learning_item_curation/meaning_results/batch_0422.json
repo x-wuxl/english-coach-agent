@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_040402",
+    "content": "ISO",
+    "meaning_zh": "国际标准化组织；ISO镜像文件",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缩写含义依主题判断"
+  },
+  {
+    "item_code": "w_040421",
+    "content": "isolate A from B",
+    "meaning_zh": "把A与B隔离开；把A从B中分离出来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_040425",
+    "content": "isolating",
+    "meaning_zh": "隔离；孤立",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见分词形式"
+  },
+  {
+    "item_code": "w_040427",
+    "content": "isolation neglect",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_040456",
+    "content": "Israeli-Palestinian",
+    "meaning_zh": "以色列和巴勒斯坦的；以巴的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治地名形容词"
+  },
+  {
+    "item_code": "w_040460",
+    "content": "issue a call",
+    "meaning_zh": "发出号召；发布呼吁",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_040461",
+    "content": "issue a report",
+    "meaning_zh": "发布报告；发表报告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_040463",
+    "content": "issue her damning verdict",
+    "meaning_zh": "发表她严厉的裁定；作出严厉判决",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境短语可判断"
+  },
+  {
+    "item_code": "w_040471",
+    "content": "it comes to",
+    "meaning_zh": "当谈到；涉及",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指when it comes to"
+  },
+  {
+    "item_code": "w_040472",
+    "content": "It depends.",
+    "meaning_zh": "看情况；这取决于具体情况",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "口语固定表达"
+  },
+  {
+    "item_code": "w_040474",
+    "content": "it fosters commonness",
+    "meaning_zh": "它助长同质化；它促进共性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按整体语义判断"
+  },
+  {
+    "item_code": "w_040477",
+    "content": "it makes sense that",
+    "meaning_zh": "……是合理的；……说得通",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型"
+  },
+  {
+    "item_code": "w_040478",
+    "content": "it seems antithetical",
+    "meaning_zh": "这似乎是相反的；这似乎相互对立",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_040480",
+    "content": "it transpired",
+    "meaning_zh": "事情后来表明；后来得知",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "正式表达"
+  },
+  {
+    "item_code": "w_040481",
+    "content": "it transpired that",
+    "meaning_zh": "后来得知……；结果表明……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型"
+  },
+  {
+    "item_code": "w_040485",
+    "content": "it's a good job",
+    "meaning_zh": "幸好；幸亏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "英式固定表达"
+  },
+  {
+    "item_code": "w_040487",
+    "content": "It's cloudy.",
+    "meaning_zh": "天气多云。",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配天气表达"
+  },
+  {
+    "item_code": "w_040488",
+    "content": "It's cold.",
+    "meaning_zh": "天气很冷。",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配天气表达"
+  },
+  {
+    "item_code": "w_040489",
+    "content": "It's cool.",
+    "meaning_zh": "天气凉爽；这很酷",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句为天气含义"
+  },
+  {
+    "item_code": "w_040491",
+    "content": "It's hard to tell.",
+    "meaning_zh": "很难判断；很难区分",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句体现区分含义"
+  }
+]

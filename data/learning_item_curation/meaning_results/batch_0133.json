@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_011754",
+    "content": "call one's attention to",
+    "meaning_zh": "使某人注意到",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_011756",
+    "content": "call out bids",
+    "meaning_zh": "喊出报价；叫价",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "拍卖语境搭配"
+  },
+  {
+    "item_code": "w_011759",
+    "content": "call sb. about sth.",
+    "meaning_zh": "打电话给某人谈某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用电话表达"
+  },
+  {
+    "item_code": "w_011768",
+    "content": "call sb.'s attention",
+    "meaning_zh": "引起某人的注意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用搭配"
+  },
+  {
+    "item_code": "w_011781",
+    "content": "call you back",
+    "meaning_zh": "给你回电话",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持"
+  },
+  {
+    "item_code": "w_011783",
+    "content": "callable",
+    "meaning_zh": "可调用的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_011784",
+    "content": "callable object",
+    "meaning_zh": "可调用对象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_011786",
+    "content": "called out bid",
+    "meaning_zh": "喊出的报价",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略生硬"
+  },
+  {
+    "item_code": "w_011791",
+    "content": "calligraphies of famous people",
+    "meaning_zh": "名人书法作品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "名词短语"
+  },
+  {
+    "item_code": "w_011796",
+    "content": "callostasis",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_011799",
+    "content": "callous cronyism",
+    "meaning_zh": "冷酷的任人唯亲；无情的裙带关系",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "组合含义明确"
+  },
+  {
+    "item_code": "w_011809",
+    "content": "calm someone down",
+    "meaning_zh": "使某人平静下来；安抚某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用短语"
+  },
+  {
+    "item_code": "w_011826",
+    "content": "calpable",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_011831",
+    "content": "calumniate vera similar equilibrium",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声组合"
+  },
+  {
+    "item_code": "w_011837",
+    "content": "camaraderi",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_011846",
+    "content": "camel case",
+    "meaning_zh": "驼峰命名法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_011848",
+    "content": "Camelot Park",
+    "meaning_zh": "卡米洛特公园",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有地名"
+  },
+  {
+    "item_code": "w_011850",
+    "content": "cameo budge",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声组合"
+  },
+  {
+    "item_code": "w_011860",
+    "content": "Camille Pissarro",
+    "meaning_zh": "卡米耶·毕沙罗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "画家人名"
+  },
+  {
+    "item_code": "w_011863",
+    "content": "camp campsite",
+    "meaning_zh": "营地；露营地",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "近义词堆叠"
+  }
+]

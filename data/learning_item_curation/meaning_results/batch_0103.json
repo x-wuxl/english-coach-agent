@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_008429",
+    "content": "become increasingly commercialized",
+    "meaning_zh": "变得越来越商业化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配含义明确"
+  },
+  {
+    "item_code": "w_008431",
+    "content": "become international",
+    "meaning_zh": "变得国际化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配含义明确"
+  },
+  {
+    "item_code": "w_008432",
+    "content": "become inured to",
+    "meaning_zh": "对……习以为常；对……麻木",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "GRE常见固定表达"
+  },
+  {
+    "item_code": "w_008436",
+    "content": "become obsessed with ...",
+    "meaning_zh": "对……着迷；沉迷于……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_008438",
+    "content": "become popular again",
+    "meaning_zh": "重新流行起来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_008439",
+    "content": "become pregnant",
+    "meaning_zh": "怀孕",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配含义明确"
+  },
+  {
+    "item_code": "w_008440",
+    "content": "become separated",
+    "meaning_zh": "分开；分居；走散",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达有多义"
+  },
+  {
+    "item_code": "w_008441",
+    "content": "become skeptical about",
+    "meaning_zh": "对……产生怀疑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配含义明确"
+  },
+  {
+    "item_code": "w_008442",
+    "content": "become skeptical of",
+    "meaning_zh": "对……产生怀疑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配含义明确"
+  },
+  {
+    "item_code": "w_008443",
+    "content": "become sympathetic to",
+    "meaning_zh": "开始同情；开始支持",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配含义明确"
+  },
+  {
+    "item_code": "w_008444",
+    "content": "become the rage",
+    "meaning_zh": "风靡一时；大受欢迎",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语表达"
+  },
+  {
+    "item_code": "w_008445",
+    "content": "become widely accepted",
+    "meaning_zh": "被广泛接受",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配含义明确"
+  },
+  {
+    "item_code": "w_008466",
+    "content": "bedison",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法判断可靠词义"
+  },
+  {
+    "item_code": "w_008475",
+    "content": "bedroom lounge fireplace",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串非固定搭配"
+  },
+  {
+    "item_code": "w_008480",
+    "content": "bedside telephone",
+    "meaning_zh": "床头电话",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "名词短语含义明确"
+  },
+  {
+    "item_code": "w_008489",
+    "content": "bee resin",
+    "meaning_zh": "蜂胶",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "术语含义明确"
+  },
+  {
+    "item_code": "w_008503",
+    "content": "been so politically charged",
+    "meaning_zh": "政治色彩如此强烈",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "片段但含义可判断"
+  },
+  {
+    "item_code": "w_008508",
+    "content": "beer plug eraser filament",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无整体义"
+  },
+  {
+    "item_code": "w_008509",
+    "content": "bees",
+    "meaning_zh": "蜜蜂",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配含义"
+  },
+  {
+    "item_code": "w_008525",
+    "content": "before I knew it",
+    "meaning_zh": "不知不觉间；转眼间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达含义明确"
+  }
+]

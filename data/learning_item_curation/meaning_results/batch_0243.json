@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_022955",
+    "content": "dutchy",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_022963",
+    "content": "dutyable",
+    "meaning_zh": "应缴税的；应缴关税的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "dutiable变体"
+  },
+  {
+    "item_code": "w_022969",
+    "content": "dwarf medulla avail",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无明确含义"
+  },
+  {
+    "item_code": "w_022980",
+    "content": "dwelling glaze",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_022985",
+    "content": "dwindle boycott",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_022989",
+    "content": "dydactic",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似didactic误拼"
+  },
+  {
+    "item_code": "w_022991",
+    "content": "dyed",
+    "meaning_zh": "染色的；染过的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句均指染发"
+  },
+  {
+    "item_code": "w_022999",
+    "content": "dynamic contradiction audiometer",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无明确含义"
+  },
+  {
+    "item_code": "w_023000",
+    "content": "dynamic economical",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_023001",
+    "content": "dynamic or static loading",
+    "meaning_zh": "动态或静态载荷",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "工程常用术语"
+  },
+  {
+    "item_code": "w_023002",
+    "content": "dynamic personality",
+    "meaning_zh": "充满活力的个性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_023005",
+    "content": "dynamic stress measurement",
+    "meaning_zh": "动态应力测量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术术语"
+  },
+  {
+    "item_code": "w_023008",
+    "content": "dynamic typing",
+    "meaning_zh": "动态类型；动态类型检查",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_023017",
+    "content": "dynasty stereo",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_023043",
+    "content": "dyspeptic anal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配无教学价值"
+  },
+  {
+    "item_code": "w_023054",
+    "content": "dysspermatogenesis",
+    "meaning_zh": "精子发生障碍",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学术语"
+  },
+  {
+    "item_code": "w_023065",
+    "content": "début",
+    "meaning_zh": "首次亮相；初次登台",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见外来词"
+  },
+  {
+    "item_code": "w_023066",
+    "content": "décolleté",
+    "meaning_zh": "低领的；低胸领口",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "服饰术语"
+  },
+  {
+    "item_code": "w_023067",
+    "content": "décor",
+    "meaning_zh": "装饰风格；室内布置",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词"
+  },
+  {
+    "item_code": "w_023068",
+    "content": "démarche",
+    "meaning_zh": "行动方针；外交交涉",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "法语外来词"
+  }
+]

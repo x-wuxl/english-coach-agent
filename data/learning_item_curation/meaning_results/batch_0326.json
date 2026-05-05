@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_030865",
+    "content": "get enough rest",
+    "meaning_zh": "得到充分休息",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_030870",
+    "content": "get exhausted",
+    "meaning_zh": "变得筋疲力尽",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_030871",
+    "content": "get exposed to",
+    "meaning_zh": "接触到；暴露于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_030872",
+    "content": "get familiar to",
+    "meaning_zh": "变得为……所熟悉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配较少见"
+  },
+  {
+    "item_code": "w_030875",
+    "content": "get fed up",
+    "meaning_zh": "感到厌烦；受够了",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_030876",
+    "content": "get fed up with",
+    "meaning_zh": "对……感到厌烦；受够了……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_030880",
+    "content": "get gas",
+    "meaning_zh": "加油；买汽油",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "美式常用表达"
+  },
+  {
+    "item_code": "w_030881",
+    "content": "get good from ...",
+    "meaning_zh": "从……中得到好处",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "省略搭配可判断"
+  },
+  {
+    "item_code": "w_030882",
+    "content": "get goose bumps",
+    "meaning_zh": "起鸡皮疙瘩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_030883",
+    "content": "get goose pimples",
+    "meaning_zh": "起鸡皮疙瘩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_030885",
+    "content": "get gray hairs",
+    "meaning_zh": "长白头发；操心焦虑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见字面和引申义"
+  },
+  {
+    "item_code": "w_030895",
+    "content": "get in debt",
+    "meaning_zh": "负债；欠债",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_030897",
+    "content": "get in one's hair",
+    "meaning_zh": "烦扰某人；惹某人厌烦",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语表达"
+  },
+  {
+    "item_code": "w_030899",
+    "content": "get in sb.'s hair",
+    "meaning_zh": "烦扰某人；惹某人厌烦",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语表达"
+  },
+  {
+    "item_code": "w_030904",
+    "content": "get insight into",
+    "meaning_zh": "深入了解；洞察",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_030908",
+    "content": "get into full swing",
+    "meaning_zh": "全面展开；进入高潮",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_030913",
+    "content": "get into work faster",
+    "meaning_zh": "更快进入工作状态",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义直接"
+  },
+  {
+    "item_code": "w_030920",
+    "content": "get it settled",
+    "meaning_zh": "把事情解决；把事情定下来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见口语搭配"
+  },
+  {
+    "item_code": "w_030924",
+    "content": "get left behind",
+    "meaning_zh": "被落下；落后",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动短语"
+  },
+  {
+    "item_code": "w_030925",
+    "content": "get locked out",
+    "meaning_zh": "被锁在外面；无法进入或登录",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动短语"
+  }
+]

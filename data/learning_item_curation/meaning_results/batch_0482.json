@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_046073",
+    "content": "maths book",
+    "meaning_zh": "数学书",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习用品短语"
+  },
+  {
+    "item_code": "w_046074",
+    "content": "maths homework",
+    "meaning_zh": "数学作业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学校场景短语"
+  },
+  {
+    "item_code": "w_046077",
+    "content": "mating ritual",
+    "meaning_zh": "求偶仪式；交配仪式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生物学常见搭配"
+  },
+  {
+    "item_code": "w_046078",
+    "content": "matinée",
+    "meaning_zh": "日场演出；午后场",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见外来词"
+  },
+  {
+    "item_code": "w_046084",
+    "content": "matrices",
+    "meaning_zh": "矩阵；基质",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "matrix的复数"
+  },
+  {
+    "item_code": "w_046090",
+    "content": "matrimonial notice",
+    "meaning_zh": "征婚启事；婚姻公告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_046094",
+    "content": "matron salvage",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_046096",
+    "content": "Matt Thomas",
+    "meaning_zh": "马特·托马斯（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有名词人名"
+  },
+  {
+    "item_code": "w_046100",
+    "content": "matter rejoice",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_046105",
+    "content": "mattergal",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_046107",
+    "content": "Matterhorn Mountain",
+    "meaning_zh": "马特洪峰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "著名山峰名"
+  },
+  {
+    "item_code": "w_046109",
+    "content": "mattress periodical",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_046110",
+    "content": "mattress pillow pillowcase",
+    "meaning_zh": "床垫、枕头和枕套",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "床上用品词组"
+  },
+  {
+    "item_code": "w_046115",
+    "content": "matériel",
+    "meaning_zh": "军需物资；装备",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "军事术语"
+  },
+  {
+    "item_code": "w_046122",
+    "content": "maurice",
+    "meaning_zh": "莫里斯（人名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见人名"
+  },
+  {
+    "item_code": "w_046128",
+    "content": "maverick shrug",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_046140",
+    "content": "maximize novel",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_046145",
+    "content": "maximum gastro intestinal coronary",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_046153",
+    "content": "may have done",
+    "meaning_zh": "可能已经做过",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见语法结构"
+  },
+  {
+    "item_code": "w_046156",
+    "content": "may well not",
+    "meaning_zh": "很可能不；也许不会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  }
+]

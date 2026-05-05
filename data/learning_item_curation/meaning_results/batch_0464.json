@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_044583",
+    "content": "lyric overshadow hodgepodge",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配，疑似噪声"
+  },
+  {
+    "item_code": "w_044599",
+    "content": "lysus enfarct malformation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "拼写异常，疑似噪声"
+  },
+  {
+    "item_code": "w_044603",
+    "content": "M-zone",
+    "meaning_zh": "M区；中间区",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "术语含义依语境而定"
+  },
+  {
+    "item_code": "w_044610",
+    "content": "M/C",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写歧义大"
+  },
+  {
+    "item_code": "w_044617",
+    "content": "macac",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写残片"
+  },
+  {
+    "item_code": "w_044627",
+    "content": "Mach",
+    "meaning_zh": "Mach内核；马赫数",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "计算机中多指内核"
+  },
+  {
+    "item_code": "w_044629",
+    "content": "machete-hewn",
+    "meaning_zh": "用砍刀劈砍成的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词含义明确"
+  },
+  {
+    "item_code": "w_044637",
+    "content": "machine-made clothes",
+    "meaning_zh": "机制服装；机器制作的衣服",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_044639",
+    "content": "machinery innovation apparent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串不成固定表达"
+  },
+  {
+    "item_code": "w_044678",
+    "content": "mad crazy",
+    "meaning_zh": "疯狂的；发疯的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "近义词组合"
+  },
+  {
+    "item_code": "w_044688",
+    "content": "made dinner",
+    "meaning_zh": "做了晚饭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_044689",
+    "content": "Made in China 2025",
+    "meaning_zh": "中国制造2025",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有政策名称"
+  },
+  {
+    "item_code": "w_044692",
+    "content": "made up one's mind",
+    "meaning_zh": "下定决心；作出决定",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_044693",
+    "content": "made-to-order clothes",
+    "meaning_zh": "定制服装；按订单制作的衣服",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见服装表达"
+  },
+  {
+    "item_code": "w_044701",
+    "content": "Madonna-and-child",
+    "meaning_zh": "圣母子像",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "艺术史固定术语"
+  },
+  {
+    "item_code": "w_044702",
+    "content": "madonna-and-child image",
+    "meaning_zh": "圣母子图像",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "艺术图像术语"
+  },
+  {
+    "item_code": "w_044711",
+    "content": "magazine cover",
+    "meaning_zh": "杂志封面",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_044712",
+    "content": "magazine cover story",
+    "meaning_zh": "杂志封面故事；封面专题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "媒体常见表达"
+  },
+  {
+    "item_code": "w_044719",
+    "content": "magic magician",
+    "meaning_zh": "魔法；魔术师",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "非固定搭配，价值低"
+  },
+  {
+    "item_code": "w_044720",
+    "content": "magic method",
+    "meaning_zh": "魔术方法；特殊方法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程术语"
+  }
+]

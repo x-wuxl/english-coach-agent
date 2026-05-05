@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_074325",
+    "content": "thicker",
+    "meaning_zh": "更厚的；更浓的；更粗的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容词比较级"
+  },
+  {
+    "item_code": "w_074333",
+    "content": "thigh jealousy analysis",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串无可靠含义"
+  },
+  {
+    "item_code": "w_074344",
+    "content": "things",
+    "meaning_zh": "东西；物品；事情",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句对应常用义"
+  },
+  {
+    "item_code": "w_074354",
+    "content": "think back on",
+    "meaning_zh": "回想；回忆起",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  },
+  {
+    "item_code": "w_074359",
+    "content": "think highly",
+    "meaning_zh": "高度评价；看重",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句为think highly of"
+  },
+  {
+    "item_code": "w_074371",
+    "content": "think of somebody as",
+    "meaning_zh": "把某人看作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_074372",
+    "content": "think of something as",
+    "meaning_zh": "把某事物看作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_074378",
+    "content": "think outside the box",
+    "meaning_zh": "跳出常规思考；创新思考",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见习语"
+  },
+  {
+    "item_code": "w_074382",
+    "content": "think quickly",
+    "meaning_zh": "快速思考；反应快",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句对应含义"
+  },
+  {
+    "item_code": "w_074383",
+    "content": "think seriously about sth.",
+    "meaning_zh": "认真考虑某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_074390",
+    "content": "think twice about something",
+    "meaning_zh": "慎重考虑某事；三思而后行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_074399",
+    "content": "thinking pattern",
+    "meaning_zh": "思维模式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_074417",
+    "content": "third party payment platform",
+    "meaning_zh": "第三方支付平台",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见技术名词"
+  },
+  {
+    "item_code": "w_074421",
+    "content": "third-party payment platform",
+    "meaning_zh": "第三方支付平台",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见技术名词"
+  },
+  {
+    "item_code": "w_074430",
+    "content": "thirsty sip straw",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串无可靠含义"
+  },
+  {
+    "item_code": "w_074436",
+    "content": "Thirty Meter Telescope",
+    "meaning_zh": "三十米望远镜",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有科技项目名"
+  },
+  {
+    "item_code": "w_074448",
+    "content": "this animal year",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "表达不自然"
+  },
+  {
+    "item_code": "w_074451",
+    "content": "This is for you.",
+    "meaning_zh": "这是给你的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句完全匹配"
+  },
+  {
+    "item_code": "w_074453",
+    "content": "this slim volume",
+    "meaning_zh": "这本薄书；这本小册子",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "名词短语含义明确"
+  },
+  {
+    "item_code": "w_074455",
+    "content": "This way, please.",
+    "meaning_zh": "请这边走",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见引路用语"
+  }
+]

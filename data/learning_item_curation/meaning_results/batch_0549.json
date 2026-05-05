@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_053442",
+    "content": "pale interference",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配"
+  },
+  {
+    "item_code": "w_053471",
+    "content": "palitable",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑为palatable误拼"
+  },
+  {
+    "item_code": "w_053480",
+    "content": "pallid pallor",
+    "meaning_zh": "苍白的面色",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "形容苍白面色"
+  },
+  {
+    "item_code": "w_053484",
+    "content": "palm abate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合无明确含义"
+  },
+  {
+    "item_code": "w_053485",
+    "content": "palm fingertip",
+    "meaning_zh": "手掌和指尖",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "身体部位词组"
+  },
+  {
+    "item_code": "w_053508",
+    "content": "pamphlet electromagnetic",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合无明确含义"
+  },
+  {
+    "item_code": "w_053517",
+    "content": "panash",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑为panache误拼"
+  },
+  {
+    "item_code": "w_053519",
+    "content": "pancake syrup",
+    "meaning_zh": "煎饼糖浆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见食品搭配"
+  },
+  {
+    "item_code": "w_053520",
+    "content": "pancake willow corpse",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词语堆叠"
+  },
+  {
+    "item_code": "w_053536",
+    "content": "panegyric paranoid attune ruminate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词表非词条"
+  },
+  {
+    "item_code": "w_053538",
+    "content": "panel aquarium",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配"
+  },
+  {
+    "item_code": "w_053549",
+    "content": "panic target dysfunction",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合无明确含义"
+  },
+  {
+    "item_code": "w_053561",
+    "content": "pant strawberry",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合无明确含义"
+  },
+  {
+    "item_code": "w_053575",
+    "content": "pants shirt tie waistcoat",
+    "meaning_zh": "裤子、衬衫、领带和马甲",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "服装词汇列表"
+  },
+  {
+    "item_code": "w_053588",
+    "content": "paper factory",
+    "meaning_zh": "造纸厂",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_053589",
+    "content": "paper jams",
+    "meaning_zh": "卡纸",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "打印机常见问题"
+  },
+  {
+    "item_code": "w_053594",
+    "content": "paper topic",
+    "meaning_zh": "论文题目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术写作搭配"
+  },
+  {
+    "item_code": "w_053596",
+    "content": "paper-cut culture",
+    "meaning_zh": "剪纸文化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文化主题短语"
+  },
+  {
+    "item_code": "w_053607",
+    "content": "papershop",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见或误拼词"
+  },
+  {
+    "item_code": "w_053610",
+    "content": "papier-mâché",
+    "meaning_zh": "纸浆制品；混凝纸",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见工艺术语"
+  }
+]

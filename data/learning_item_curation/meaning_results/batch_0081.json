@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_006977",
+    "content": "be based in",
+    "meaning_zh": "设在；驻扎在；总部位于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见地点搭配"
+  },
+  {
+    "item_code": "w_006982",
+    "content": "be bathed in light",
+    "meaning_zh": "沐浴在光线中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定描写表达"
+  },
+  {
+    "item_code": "w_006983",
+    "content": "be bathed in sunshine",
+    "meaning_zh": "沐浴在阳光中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定描写表达"
+  },
+  {
+    "item_code": "w_006986",
+    "content": "be best with",
+    "meaning_zh": "与……最相配；最适合搭配",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缺少语境但含义可判"
+  },
+  {
+    "item_code": "w_006987",
+    "content": "be better off doing",
+    "meaning_zh": "最好做某事；做某事会更好",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  },
+  {
+    "item_code": "w_006988",
+    "content": "be beyond all question",
+    "meaning_zh": "毫无疑问；无可争辩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_006989",
+    "content": "be beyond belief",
+    "meaning_zh": "令人难以置信",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_006990",
+    "content": "be beyond compare",
+    "meaning_zh": "无与伦比；无可比拟",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_006992",
+    "content": "be beyond one's means",
+    "meaning_zh": "超出某人的经济能力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_006996",
+    "content": "be biased towards",
+    "meaning_zh": "偏向；偏袒；对……有偏见",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_006997",
+    "content": "be bid up",
+    "meaning_zh": "被哄抬；被竞价抬高",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融拍卖常用"
+  },
+  {
+    "item_code": "w_007003",
+    "content": "be bombarded with",
+    "meaning_zh": "遭到大量……轰炸；被大量提供",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见比喻搭配"
+  },
+  {
+    "item_code": "w_007004",
+    "content": "be bored of",
+    "meaning_zh": "对……感到厌倦",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  },
+  {
+    "item_code": "w_007010",
+    "content": "be born on",
+    "meaning_zh": "出生于某日",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础日期搭配"
+  },
+  {
+    "item_code": "w_007015",
+    "content": "be bothered with",
+    "meaning_zh": "为……费心；因……烦恼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常与否定连用"
+  },
+  {
+    "item_code": "w_007016",
+    "content": "be bothered with ...",
+    "meaning_zh": "为……费心；因……烦恼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "省略号不影响判断"
+  },
+  {
+    "item_code": "w_007022",
+    "content": "be bound together",
+    "meaning_zh": "被绑在一起；紧密联系在一起",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动搭配"
+  },
+  {
+    "item_code": "w_007023",
+    "content": "be bound up",
+    "meaning_zh": "被捆起来；与……密切相关",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "需介词确定义项"
+  },
+  {
+    "item_code": "w_007026",
+    "content": "be broken beyond repair",
+    "meaning_zh": "坏到无法修复",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定描述表达"
+  },
+  {
+    "item_code": "w_007027",
+    "content": "be brought into operation",
+    "meaning_zh": "投入运行；开始实施",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "正式场景常用"
+  }
+]

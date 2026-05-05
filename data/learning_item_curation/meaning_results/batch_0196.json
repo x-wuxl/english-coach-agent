@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_018264",
+    "content": "ctrl",
+    "meaning_zh": "Ctrl键；控制键",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用缩写"
+  },
+  {
+    "item_code": "w_018273",
+    "content": "cubic block",
+    "meaning_zh": "立方块；方块",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见形容词名词搭配"
+  },
+  {
+    "item_code": "w_018275",
+    "content": "cubic solid",
+    "meaning_zh": "立方体；立方形固体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "几何类普通搭配"
+  },
+  {
+    "item_code": "w_018281",
+    "content": "cuckoo cord",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似随机搭配"
+  },
+  {
+    "item_code": "w_018283",
+    "content": "cucumber conjoin",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似随机搭配"
+  },
+  {
+    "item_code": "w_018290",
+    "content": "cuff trip",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似随机搭配"
+  },
+  {
+    "item_code": "w_018292",
+    "content": "cuisine aggressive bargain procedure",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声短语"
+  },
+  {
+    "item_code": "w_018304",
+    "content": "culpable countenance",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见固定表达"
+  },
+  {
+    "item_code": "w_018311",
+    "content": "cultivate creativity",
+    "meaning_zh": "培养创造力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "托福常见表达"
+  },
+  {
+    "item_code": "w_018312",
+    "content": "cultivate detective fangitis",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声短语"
+  },
+  {
+    "item_code": "w_018313",
+    "content": "cultivate fertilizer foliage",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似随机搭配"
+  },
+  {
+    "item_code": "w_018314",
+    "content": "cultivate heart rending",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_018320",
+    "content": "cultural and intellectual diversity",
+    "meaning_zh": "文化和思想多样性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "雅思话题表达"
+  },
+  {
+    "item_code": "w_018321",
+    "content": "cultural atmosphere",
+    "meaning_zh": "文化氛围",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_018323",
+    "content": "cultural blending",
+    "meaning_zh": "文化融合",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见话题表达"
+  },
+  {
+    "item_code": "w_018324",
+    "content": "cultural clash",
+    "meaning_zh": "文化冲突",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "四六级常见表达"
+  },
+  {
+    "item_code": "w_018325",
+    "content": "cultural confidence",
+    "meaning_zh": "文化自信",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "考研常见表达"
+  },
+  {
+    "item_code": "w_018327",
+    "content": "cultural deposits",
+    "meaning_zh": "文化积淀；文化底蕴",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "文化主题搭配"
+  },
+  {
+    "item_code": "w_018332",
+    "content": "cultural diplomacy",
+    "meaning_zh": "文化外交",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治文化术语"
+  },
+  {
+    "item_code": "w_018333",
+    "content": "cultural disappoint sleeve",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声短语"
+  }
+]

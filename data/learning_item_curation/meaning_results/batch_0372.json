@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_035127",
+    "content": "historical and cultural heritage",
+    "meaning_zh": "历史文化遗产",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_035133",
+    "content": "historical maps",
+    "meaning_zh": "历史地图",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_035134",
+    "content": "historical moments",
+    "meaning_zh": "历史性时刻",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_035135",
+    "content": "historical particularism",
+    "meaning_zh": "历史特殊论",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人类学术语"
+  },
+  {
+    "item_code": "w_035137",
+    "content": "historical photograph",
+    "meaning_zh": "历史照片",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_035138",
+    "content": "historical place",
+    "meaning_zh": "历史地点；古迹",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅游场景常见"
+  },
+  {
+    "item_code": "w_035140",
+    "content": "historical prejudice",
+    "meaning_zh": "历史偏见",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_035143",
+    "content": "historical sights",
+    "meaning_zh": "历史景点；古迹",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅游场景常见"
+  },
+  {
+    "item_code": "w_035147",
+    "content": "historical story",
+    "meaning_zh": "历史故事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_035150",
+    "content": "historically testifiable",
+    "meaning_zh": "历史上可证实的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见形容词搭配"
+  },
+  {
+    "item_code": "w_035161",
+    "content": "hit kick knock",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个词堆叠无固定义"
+  },
+  {
+    "item_code": "w_035166",
+    "content": "hit show",
+    "meaning_zh": "热门节目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见娱乐搭配"
+  },
+  {
+    "item_code": "w_035168",
+    "content": "hit songs",
+    "meaning_zh": "热门歌曲；流行金曲",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见娱乐搭配"
+  },
+  {
+    "item_code": "w_035170",
+    "content": "hit the brakes",
+    "meaning_zh": "踩刹车；紧急刹车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词短语"
+  },
+  {
+    "item_code": "w_035185",
+    "content": "hitchhike hitchhiker",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "两个相关词混在一起"
+  },
+  {
+    "item_code": "w_035195",
+    "content": "HIV-prevention initiative",
+    "meaning_zh": "艾滋病病毒预防倡议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "公共卫生术语"
+  },
+  {
+    "item_code": "w_035196",
+    "content": "hivary",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_035198",
+    "content": "hive tarnish",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无固定义"
+  },
+  {
+    "item_code": "w_035201",
+    "content": "hmbroleao bomb agility dissension",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声"
+  },
+  {
+    "item_code": "w_035210",
+    "content": "hoard and profiteer",
+    "meaning_zh": "囤积居奇",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  }
+]

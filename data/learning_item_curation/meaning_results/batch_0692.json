@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_068176",
+    "content": "sore lumber",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误噪声"
+  },
+  {
+    "item_code": "w_068189",
+    "content": "sort ... into",
+    "meaning_zh": "把……分类到；把……整理成",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_068191",
+    "content": "sort ludicrous",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_068195",
+    "content": "sorti",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准英语词条"
+  },
+  {
+    "item_code": "w_068200",
+    "content": "sosaurus",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_068201",
+    "content": "soso",
+    "meaning_zh": "一般般；马马虎虎",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "非正式so-so变体"
+  },
+  {
+    "item_code": "w_068204",
+    "content": "soufflé",
+    "meaning_zh": "舒芙蕾；蛋奶酥",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见法式甜点名"
+  },
+  {
+    "item_code": "w_068210",
+    "content": "soul contraceptive pictorial",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组明显噪声"
+  },
+  {
+    "item_code": "w_068214",
+    "content": "soul soother",
+    "meaning_zh": "心灵慰藉；抚慰心灵的人或物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解搭配"
+  },
+  {
+    "item_code": "w_068215",
+    "content": "soul-baring",
+    "meaning_zh": "坦露心声的；袒露内心的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见复合形容词"
+  },
+  {
+    "item_code": "w_068217",
+    "content": "soul-crushingly hard",
+    "meaning_zh": "难到令人崩溃的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见夸张表达"
+  },
+  {
+    "item_code": "w_068228",
+    "content": "sound loud noise",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "堆砌近义词"
+  },
+  {
+    "item_code": "w_068229",
+    "content": "sound out",
+    "meaning_zh": "试探；探询意见；读出发音",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词"
+  },
+  {
+    "item_code": "w_068232",
+    "content": "sound salve libertine crandeston",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "混杂无效词串"
+  },
+  {
+    "item_code": "w_068240",
+    "content": "sound-detection gear",
+    "meaning_zh": "声音探测设备",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术类名词短语"
+  },
+  {
+    "item_code": "w_068249",
+    "content": "soup Maine",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_068259",
+    "content": "source of money",
+    "meaning_zh": "资金来源；钱的来源",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_068268",
+    "content": "South American Mayan culture",
+    "meaning_zh": "南美洲玛雅文化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "文化专有表述"
+  },
+  {
+    "item_code": "w_068270",
+    "content": "South China Tiger",
+    "meaning_zh": "华南虎",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动物名称"
+  },
+  {
+    "item_code": "w_068272",
+    "content": "South Georgia Island",
+    "meaning_zh": "南乔治亚岛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地名专有名词"
+  }
+]

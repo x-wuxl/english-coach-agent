@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_055781",
+    "content": "pivery",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_055785",
+    "content": "pixar",
+    "meaning_zh": "皮克斯动画工作室",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词"
+  },
+  {
+    "item_code": "w_055792",
+    "content": "pièce de résistance",
+    "meaning_zh": "最精彩的部分；代表作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "外来固定表达"
+  },
+  {
+    "item_code": "w_055799",
+    "content": "place ... at risk",
+    "meaning_zh": "使……处于危险中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_055800",
+    "content": "place a burden on",
+    "meaning_zh": "给……加重负担",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_055802",
+    "content": "place an emphasis on",
+    "meaning_zh": "强调；重视",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_055803",
+    "content": "place an order of",
+    "meaning_zh": "订购；下……订单",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配略不自然"
+  },
+  {
+    "item_code": "w_055805",
+    "content": "place emphases on",
+    "meaning_zh": "强调；重视",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "复数形式少见"
+  },
+  {
+    "item_code": "w_055812",
+    "content": "place one's trust in",
+    "meaning_zh": "信任；把信任寄托于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_055815",
+    "content": "place trust in",
+    "meaning_zh": "信任；把信任寄托于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_055817",
+    "content": "placebo doc propel gimp",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串噪声"
+  },
+  {
+    "item_code": "w_055818",
+    "content": "placeibo",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_055826",
+    "content": "places for recreation",
+    "meaning_zh": "休闲娱乐场所",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_055827",
+    "content": "places of great interest",
+    "meaning_zh": "名胜古迹；极具吸引力的地方",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅游表达"
+  },
+  {
+    "item_code": "w_055828",
+    "content": "places of interests",
+    "meaning_zh": "名胜；旅游景点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "应为interest"
+  },
+  {
+    "item_code": "w_055829",
+    "content": "places of historical interest",
+    "meaning_zh": "历史名胜；历史遗迹",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅游表达"
+  },
+  {
+    "item_code": "w_055834",
+    "content": "plad",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_055839",
+    "content": "plagiarizing in academic",
+    "meaning_zh": "学术抄袭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达不完整"
+  },
+  {
+    "item_code": "w_055840",
+    "content": "plagiarizing in academic papers",
+    "meaning_zh": "在学术论文中抄袭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_055849",
+    "content": "plain guilty fault shame",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串噪声"
+  }
+]

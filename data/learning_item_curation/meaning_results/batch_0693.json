@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_068277",
+    "content": "south-north water diversion",
+    "meaning_zh": "南水北调",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定工程表达"
+  },
+  {
+    "item_code": "w_068278",
+    "content": "South-North Water Diversion Project",
+    "meaning_zh": "南水北调工程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有项目名称"
+  },
+  {
+    "item_code": "w_068297",
+    "content": "souvenir transport",
+    "meaning_zh": "纪念品运输",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "生硬搭配，价值低"
+  },
+  {
+    "item_code": "w_068302",
+    "content": "sovereignty doctrine",
+    "meaning_zh": "主权学说；主权理论",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治法律术语"
+  },
+  {
+    "item_code": "w_068305",
+    "content": "sow thread scissors",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_068316",
+    "content": "soybean conduit",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "生硬搭配，无法判断"
+  },
+  {
+    "item_code": "w_068321",
+    "content": "space arms race",
+    "meaning_zh": "太空军备竞赛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见国际关系表达"
+  },
+  {
+    "item_code": "w_068338",
+    "content": "spaced dot",
+    "meaning_zh": "间隔开的点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "字面搭配可理解"
+  },
+  {
+    "item_code": "w_068351",
+    "content": "spacious rooms",
+    "meaning_zh": "宽敞的房间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见住宿描述"
+  },
+  {
+    "item_code": "w_068356",
+    "content": "spaghetti speciality",
+    "meaning_zh": "意大利面特色菜",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "餐饮搭配"
+  },
+  {
+    "item_code": "w_068375",
+    "content": "spare keys",
+    "meaning_zh": "备用钥匙",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活搭配"
+  },
+  {
+    "item_code": "w_068381",
+    "content": "spare sb. the difficulty",
+    "meaning_zh": "使某人免受困难",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "spare固定用法"
+  },
+  {
+    "item_code": "w_068382",
+    "content": "spare sb. the pain",
+    "meaning_zh": "使某人免受痛苦",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "spare固定用法"
+  },
+  {
+    "item_code": "w_068383",
+    "content": "spare sb. the trouble",
+    "meaning_zh": "免去某人的麻烦",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_068384",
+    "content": "spare socks",
+    "meaning_zh": "备用袜子",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活搭配"
+  },
+  {
+    "item_code": "w_068385",
+    "content": "spare some time",
+    "meaning_zh": "抽出一些时间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_068387",
+    "content": "sparganii",
+    "meaning_zh": "三棱属植物",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "生物分类术语"
+  },
+  {
+    "item_code": "w_068389",
+    "content": "sparing tribute",
+    "meaning_zh": "吝惜赞美；少量赞誉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作字面搭配"
+  },
+  {
+    "item_code": "w_068395",
+    "content": "Spark Program",
+    "meaning_zh": "星火计划",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有计划名称"
+  },
+  {
+    "item_code": "w_068398",
+    "content": "sparkling squash",
+    "meaning_zh": "起泡果汁饮料",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "英式饮品表达"
+  }
+]

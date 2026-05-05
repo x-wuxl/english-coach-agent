@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_065566",
+    "content": "serval",
+    "meaning_zh": "薮猫",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动物名词"
+  },
+  {
+    "item_code": "w_065571",
+    "content": "serve as something",
+    "meaning_zh": "充当某物；起某种作用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_065572",
+    "content": "serve diverse purposes",
+    "meaning_zh": "有多种用途；服务于不同目的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_065574",
+    "content": "serve in the army",
+    "meaning_zh": "参军；服兵役",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_065576",
+    "content": "serve multiple purposes",
+    "meaning_zh": "有多种用途；起多种作用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_065580",
+    "content": "serve so much",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "表达残缺含义不明"
+  },
+  {
+    "item_code": "w_065581",
+    "content": "serve the company wholeheartedly",
+    "meaning_zh": "全心全意为公司服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_065582",
+    "content": "serve the dishes",
+    "meaning_zh": "上菜",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "餐饮常用表达"
+  },
+  {
+    "item_code": "w_065583",
+    "content": "serve the people",
+    "meaning_zh": "为人民服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_065587",
+    "content": "serve various purposes",
+    "meaning_zh": "有各种用途；服务于不同目的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_065589",
+    "content": "server desktop",
+    "meaning_zh": "服务器桌面",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术短语"
+  },
+  {
+    "item_code": "w_065598",
+    "content": "service outsourcing base",
+    "meaning_zh": "服务外包基地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常用术语"
+  },
+  {
+    "item_code": "w_065609",
+    "content": "servil splutter",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误噪声"
+  },
+  {
+    "item_code": "w_065612",
+    "content": "serville",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见词无法判断"
+  },
+  {
+    "item_code": "w_065619",
+    "content": "sesapit",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见词无法判断"
+  },
+  {
+    "item_code": "w_065630",
+    "content": "set a date for",
+    "meaning_zh": "为……确定日期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_065635",
+    "content": "set a novel in",
+    "meaning_zh": "把小说背景设在……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文学常用表达"
+  },
+  {
+    "item_code": "w_065636",
+    "content": "set a play in",
+    "meaning_zh": "把戏剧背景设在……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文学常用表达"
+  },
+  {
+    "item_code": "w_065637",
+    "content": "set a ply in",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_065638",
+    "content": "set a premium on",
+    "meaning_zh": "高度重视；看重",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  }
+]

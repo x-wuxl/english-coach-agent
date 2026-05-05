@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_054635",
+    "content": "perceptual reaction time",
+    "meaning_zh": "知觉反应时间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "心理学常用术语"
+  },
+  {
+    "item_code": "w_054636",
+    "content": "perceptual thinking",
+    "meaning_zh": "感知思维；直观思维",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "认知相关术语"
+  },
+  {
+    "item_code": "w_054640",
+    "content": "perche",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似外语或拼写噪声"
+  },
+  {
+    "item_code": "w_054646",
+    "content": "percuss anguish",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然搭配"
+  },
+  {
+    "item_code": "w_054652",
+    "content": "Percy Shelley",
+    "meaning_zh": "珀西·雪莱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "英国诗人姓名"
+  },
+  {
+    "item_code": "w_054661",
+    "content": "peremptory precedent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定法律搭配"
+  },
+  {
+    "item_code": "w_054672",
+    "content": "perfect holiday",
+    "meaning_zh": "完美假期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活搭配"
+  },
+  {
+    "item_code": "w_054676",
+    "content": "perfect tester",
+    "meaning_zh": "理想的测试者；完美测试员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解但语境不足"
+  },
+  {
+    "item_code": "w_054684",
+    "content": "perfidy mania",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然搭配"
+  },
+  {
+    "item_code": "w_054686",
+    "content": "perforate overwhelm discretion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词语拼接噪声"
+  },
+  {
+    "item_code": "w_054692",
+    "content": "perform acrobatics",
+    "meaning_zh": "表演杂技；做特技动作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动作搭配"
+  },
+  {
+    "item_code": "w_054694",
+    "content": "perform faint",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "语法不通顺"
+  },
+  {
+    "item_code": "w_054698",
+    "content": "performance area",
+    "meaning_zh": "表演区域；演出场地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "场地类常见搭配"
+  },
+  {
+    "item_code": "w_054702",
+    "content": "performance venue",
+    "meaning_zh": "演出场馆；表演场地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "场馆类常见搭配"
+  },
+  {
+    "item_code": "w_054710",
+    "content": "perfume bottles",
+    "meaning_zh": "香水瓶",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "日用品常见搭配"
+  },
+  {
+    "item_code": "w_054711",
+    "content": "perfume health",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然搭配"
+  },
+  {
+    "item_code": "w_054712",
+    "content": "perfume pouch",
+    "meaning_zh": "香水袋；香囊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义可推断"
+  },
+  {
+    "item_code": "w_054718",
+    "content": "perfunctory timid",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "形容词堆叠噪声"
+  },
+  {
+    "item_code": "w_054722",
+    "content": "peri",
+    "meaning_zh": "围绕；周围",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常作术语前缀"
+  },
+  {
+    "item_code": "w_054726",
+    "content": "periant",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  }
+]

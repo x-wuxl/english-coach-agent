@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_055374",
+    "content": "photographic club",
+    "meaning_zh": "摄影俱乐部",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_055375",
+    "content": "photographic technique",
+    "meaning_zh": "摄影技术",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_055419",
+    "content": "physical and financial assistance",
+    "meaning_zh": "体力和经济援助",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按搭配整体释义"
+  },
+  {
+    "item_code": "w_055427",
+    "content": "physical currency",
+    "meaning_zh": "实体货币；现金",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融常用搭配"
+  },
+  {
+    "item_code": "w_055435",
+    "content": "physical exhaustion",
+    "meaning_zh": "身体疲惫；体力耗尽",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_055437",
+    "content": "physical fitness instructor",
+    "meaning_zh": "健身教练；体能教练",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职业名称"
+  },
+  {
+    "item_code": "w_055441",
+    "content": "physical inactivity",
+    "meaning_zh": "缺乏身体活动；久坐少动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "健康领域搭配"
+  },
+  {
+    "item_code": "w_055446",
+    "content": "physical organ",
+    "meaning_zh": "身体器官",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义可判断"
+  },
+  {
+    "item_code": "w_055475",
+    "content": "phytosanitary measures",
+    "meaning_zh": "植物检疫措施",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "贸易检疫术语"
+  },
+  {
+    "item_code": "w_055477",
+    "content": "pian",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似残缺噪声"
+  },
+  {
+    "item_code": "w_055478",
+    "content": "pian harmonious",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声短语"
+  },
+  {
+    "item_code": "w_055485",
+    "content": "piany",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_055487",
+    "content": "pic",
+    "meaning_zh": "图片；照片",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "picture常见缩写"
+  },
+  {
+    "item_code": "w_055502",
+    "content": "pick flowers",
+    "meaning_zh": "摘花",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_055503",
+    "content": "pick fresh fruit",
+    "meaning_zh": "采摘新鲜水果",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_055504",
+    "content": "pick fruit",
+    "meaning_zh": "摘水果",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_055507",
+    "content": "pick one's brain",
+    "meaning_zh": "向某人请教；征询某人意见",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语"
+  },
+  {
+    "item_code": "w_055508",
+    "content": "pick pace",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不完整"
+  },
+  {
+    "item_code": "w_055511",
+    "content": "pick sb.'s brains",
+    "meaning_zh": "向某人请教；征询某人意见",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语"
+  },
+  {
+    "item_code": "w_055525",
+    "content": "picked",
+    "meaning_zh": "拾起；采摘；挑选",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句对应常见义"
+  }
+]

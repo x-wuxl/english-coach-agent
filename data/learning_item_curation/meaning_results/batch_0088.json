@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_007484",
+    "content": "be in earnest",
+    "meaning_zh": "认真；诚挚",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  },
+  {
+    "item_code": "w_007486",
+    "content": "be in embryo",
+    "meaning_zh": "处于萌芽阶段；尚未成熟",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_007490",
+    "content": "be in fear",
+    "meaning_zh": "处于恐惧中；害怕",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_007494",
+    "content": "be in good form",
+    "meaning_zh": "状态良好；表现出色",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_007496",
+    "content": "be in good order",
+    "meaning_zh": "秩序井然；状况良好",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_007498",
+    "content": "be in great danger",
+    "meaning_zh": "处于极大危险中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_007499",
+    "content": "be in great need",
+    "meaning_zh": "非常需要；急需",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_007500",
+    "content": "be in harmony",
+    "meaning_zh": "和谐一致；协调",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_007511",
+    "content": "be in one's charge",
+    "meaning_zh": "由某人负责；由某人照管",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_007512",
+    "content": "be in one's shoes",
+    "meaning_zh": "处于某人的境地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语表达"
+  },
+  {
+    "item_code": "w_007513",
+    "content": "be in one's way",
+    "meaning_zh": "挡某人的路；妨碍某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  },
+  {
+    "item_code": "w_007514",
+    "content": "be in opposition",
+    "meaning_zh": "反对；处于对立状态",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_007515",
+    "content": "be in opposition to",
+    "meaning_zh": "反对；与……对立",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_007518",
+    "content": "be in poor health",
+    "meaning_zh": "身体不好；健康状况差",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_007522",
+    "content": "be in recess",
+    "meaning_zh": "休会；停课；休庭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_007523",
+    "content": "be in sb.'s way",
+    "meaning_zh": "挡某人的路；妨碍某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  },
+  {
+    "item_code": "w_007524",
+    "content": "be in search of",
+    "meaning_zh": "寻找；寻求",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_007528",
+    "content": "be in stock",
+    "meaning_zh": "有现货；有库存",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常用语"
+  },
+  {
+    "item_code": "w_007534",
+    "content": "be in the hospital",
+    "meaning_zh": "在医院里；住院",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境依地区不同"
+  },
+  {
+    "item_code": "w_007546",
+    "content": "be in vain",
+    "meaning_zh": "徒劳；白费",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  }
+]

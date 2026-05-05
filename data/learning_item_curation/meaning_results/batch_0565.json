@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_055074",
+    "content": "pest risk management",
+    "meaning_zh": "有害生物风险管理",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "农业检疫常见术语"
+  },
+  {
+    "item_code": "w_055078",
+    "content": "pesticide and drug residue",
+    "meaning_zh": "农药和药物残留",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "食品安全常见表达"
+  },
+  {
+    "item_code": "w_055079",
+    "content": "pesticide consolidate congress",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组疑似噪声"
+  },
+  {
+    "item_code": "w_055083",
+    "content": "pesticides-free",
+    "meaning_zh": "不含农药的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "拼写略不规范"
+  },
+  {
+    "item_code": "w_055090",
+    "content": "pests diagnostics",
+    "meaning_zh": "有害生物诊断；害虫诊断",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "术语形式略别扭"
+  },
+  {
+    "item_code": "w_055093",
+    "content": "pet meat",
+    "meaning_zh": "宠物食品用肉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常指宠物饲料肉"
+  },
+  {
+    "item_code": "w_055099",
+    "content": "petalism",
+    "meaning_zh": "花瓣放逐制",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见历史术语"
+  },
+  {
+    "item_code": "w_055100",
+    "content": "petant proscribe",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词形组合异常"
+  },
+  {
+    "item_code": "w_055104",
+    "content": "Peter Anderson",
+    "meaning_zh": "彼得·安德森（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "英语人名"
+  },
+  {
+    "item_code": "w_055105",
+    "content": "Peter Marshall",
+    "meaning_zh": "彼得·马歇尔（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "英语人名"
+  },
+  {
+    "item_code": "w_055106",
+    "content": "Peter Moore",
+    "meaning_zh": "彼得·穆尔（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "英语人名"
+  },
+  {
+    "item_code": "w_055109",
+    "content": "Peter Salovey",
+    "meaning_zh": "彼得·萨洛维（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "英语人名"
+  },
+  {
+    "item_code": "w_055110",
+    "content": "Peter Taylor",
+    "meaning_zh": "彼得·泰勒（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "英语人名"
+  },
+  {
+    "item_code": "w_055125",
+    "content": "petrol gas mechanic",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组搭配混乱"
+  },
+  {
+    "item_code": "w_055130",
+    "content": "petroleum rescue trachea",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无合理整体含义"
+  },
+  {
+    "item_code": "w_055137",
+    "content": "petty depose amity propensity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "单词堆砌噪声"
+  },
+  {
+    "item_code": "w_055138",
+    "content": "petty handout",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_055141",
+    "content": "petulant trumpet beset",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "单词堆砌噪声"
+  },
+  {
+    "item_code": "w_055142",
+    "content": "petus",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_055143",
+    "content": "petus vagina profile",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组疑似噪声"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_078572",
+    "content": "use a cassette recorder",
+    "meaning_zh": "使用盒式录音机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动宾短语"
+  },
+  {
+    "item_code": "w_078573",
+    "content": "use different lenses",
+    "meaning_zh": "使用不同镜头",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "摄影相关搭配"
+  },
+  {
+    "item_code": "w_078574",
+    "content": "use digital cameras",
+    "meaning_zh": "使用数码相机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_078575",
+    "content": "use flashlight",
+    "meaning_zh": "使用手电筒",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缺冠词但含义明确"
+  },
+  {
+    "item_code": "w_078578",
+    "content": "use solar energy",
+    "meaning_zh": "利用太阳能",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见环保表达"
+  },
+  {
+    "item_code": "w_078585",
+    "content": "used clothes",
+    "meaning_zh": "旧衣服；二手衣物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_078591",
+    "content": "useful experience",
+    "meaning_zh": "有用的经验",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形名搭配"
+  },
+  {
+    "item_code": "w_078592",
+    "content": "useful for communication",
+    "meaning_zh": "有助于交流",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_078593",
+    "content": "useful information",
+    "meaning_zh": "有用的信息",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  },
+  {
+    "item_code": "w_078595",
+    "content": "useful resources",
+    "meaning_zh": "有用的资源",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形名搭配"
+  },
+  {
+    "item_code": "w_078600",
+    "content": "user traffic",
+    "meaning_zh": "用户流量；访问流量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "互联网常见术语"
+  },
+  {
+    "item_code": "w_078601",
+    "content": "user-defined",
+    "meaning_zh": "用户定义的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用形容词"
+  },
+  {
+    "item_code": "w_078606",
+    "content": "usher repent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_078610",
+    "content": "usu",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写残片含义不明"
+  },
+  {
+    "item_code": "w_078620",
+    "content": "utensil whisk",
+    "meaning_zh": "打蛋器；搅拌器",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "厨房用具相关"
+  },
+  {
+    "item_code": "w_078625",
+    "content": "util",
+    "meaning_zh": "实用工具；工具程序",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "计算机常见缩写"
+  },
+  {
+    "item_code": "w_078639",
+    "content": "Utrecht University",
+    "meaning_zh": "乌得勒支大学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词"
+  },
+  {
+    "item_code": "w_078642",
+    "content": "utter agony",
+    "meaning_zh": "极度痛苦",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见强调搭配"
+  },
+  {
+    "item_code": "w_078643",
+    "content": "utter deficiency",
+    "meaning_zh": "严重不足；完全缺乏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义可判断"
+  },
+  {
+    "item_code": "w_078656",
+    "content": "vacancy policy advice",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  }
+]

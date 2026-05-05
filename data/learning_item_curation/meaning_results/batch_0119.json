@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_010176",
+    "content": "bounded",
+    "meaning_zh": "有界的；受限制的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用义"
+  },
+  {
+    "item_code": "w_010190",
+    "content": "bouts",
+    "meaning_zh": "一阵；一场比赛；发作期",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "bout复数常见义"
+  },
+  {
+    "item_code": "w_010191",
+    "content": "Boutu",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词"
+  },
+  {
+    "item_code": "w_010196",
+    "content": "bow coordination",
+    "meaning_zh": "运弓协调",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按音乐搭配理解"
+  },
+  {
+    "item_code": "w_010201",
+    "content": "bow towards the inevitable",
+    "meaning_zh": "向不可避免之事低头",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定搭配含义明确"
+  },
+  {
+    "item_code": "w_010204",
+    "content": "bowdler",
+    "meaning_zh": "删改者；洁本改编者",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "源自专有姓氏"
+  },
+  {
+    "item_code": "w_010214",
+    "content": "bowl-shaped crater",
+    "meaning_zh": "碗状陨石坑；碗状火山口",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地质常见描述"
+  },
+  {
+    "item_code": "w_010222",
+    "content": "box horse",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配"
+  },
+  {
+    "item_code": "w_010225",
+    "content": "box office flop",
+    "meaning_zh": "票房失败的电影",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "影视常用表达"
+  },
+  {
+    "item_code": "w_010226",
+    "content": "box office returns",
+    "meaning_zh": "票房收入；票房回报",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "影视商业术语"
+  },
+  {
+    "item_code": "w_010240",
+    "content": "boycott foreign products",
+    "meaning_zh": "抵制外国产品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "搭配含义明确"
+  },
+  {
+    "item_code": "w_010245",
+    "content": "bozer",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_010249",
+    "content": "bra pajamas",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_010260",
+    "content": "bracing airtight teeter ignite",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个词拼接噪声"
+  },
+  {
+    "item_code": "w_010263",
+    "content": "bracket mutate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_010264",
+    "content": "bracketed",
+    "meaning_zh": "括在括号内的；分组的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用义"
+  },
+  {
+    "item_code": "w_010276",
+    "content": "braid coat room",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个词拼接噪声"
+  },
+  {
+    "item_code": "w_010279",
+    "content": "braill",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似Braille误拼"
+  },
+  {
+    "item_code": "w_010281",
+    "content": "braille brochure",
+    "meaning_zh": "盲文小册子",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "搭配含义明确"
+  },
+  {
+    "item_code": "w_010284",
+    "content": "brain circuits",
+    "meaning_zh": "大脑回路；脑神经环路",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "神经科学术语"
+  }
+]

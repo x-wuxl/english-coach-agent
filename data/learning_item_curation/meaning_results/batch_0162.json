@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_014828",
+    "content": "code smell",
+    "meaning_zh": "代码异味；代码坏味道",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "软件工程固定术语"
+  },
+  {
+    "item_code": "w_014829",
+    "content": "code-name",
+    "meaning_zh": "代号；给……起代号",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见复合词"
+  },
+  {
+    "item_code": "w_014831",
+    "content": "codec",
+    "meaning_zh": "编解码器",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_014857",
+    "content": "coerce someone into something",
+    "meaning_zh": "强迫某人做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词搭配"
+  },
+  {
+    "item_code": "w_014878",
+    "content": "coffin-bearer",
+    "meaning_zh": "抬棺人",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合名词含义明确"
+  },
+  {
+    "item_code": "w_014884",
+    "content": "cogent visionary advocate",
+    "meaning_zh": "有说服力且有远见的倡导者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可解析短语但不常见"
+  },
+  {
+    "item_code": "w_014891",
+    "content": "cognitive delusion",
+    "meaning_zh": "认知妄想；认知错觉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "心理学相关搭配"
+  },
+  {
+    "item_code": "w_014907",
+    "content": "coherent merchandise",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配疑似噪声"
+  },
+  {
+    "item_code": "w_014909",
+    "content": "coherent wave source",
+    "meaning_zh": "相干波源",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "物理学固定术语"
+  },
+  {
+    "item_code": "w_014914",
+    "content": "cohesive demote",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合不合语法"
+  },
+  {
+    "item_code": "w_014916",
+    "content": "cohesive liable recipe",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机拼接疑似噪声"
+  },
+  {
+    "item_code": "w_014936",
+    "content": "coit",
+    "meaning_zh": "掷环游戏；游戏用环",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见词但可判断"
+  },
+  {
+    "item_code": "w_014940",
+    "content": "coke pigeon",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配无法可靠判断"
+  },
+  {
+    "item_code": "w_014941",
+    "content": "cokeromyces",
+    "meaning_zh": "科克霉属",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "生物分类专有名词"
+  },
+  {
+    "item_code": "w_014950",
+    "content": "cold cool warm",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "形容词堆叠疑似噪声"
+  },
+  {
+    "item_code": "w_014955",
+    "content": "cold pill",
+    "meaning_zh": "感冒药片",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_014956",
+    "content": "cold pills",
+    "meaning_zh": "感冒药片",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复数名词短语"
+  },
+  {
+    "item_code": "w_014958",
+    "content": "Cold War mentality",
+    "meaning_zh": "冷战思维",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治常用表达"
+  },
+  {
+    "item_code": "w_014963",
+    "content": "cold-blooded insect",
+    "meaning_zh": "冷血昆虫",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可解析生物描述"
+  },
+  {
+    "item_code": "w_014965",
+    "content": "cold-colored",
+    "meaning_zh": "冷色调的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "美术常用形容词"
+  }
+]

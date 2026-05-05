@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_062738",
+    "content": "rise up against",
+    "meaning_zh": "起来反抗；起义反抗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  },
+  {
+    "item_code": "w_062743",
+    "content": "rising sea level",
+    "meaning_zh": "海平面上升",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环境常用搭配"
+  },
+  {
+    "item_code": "w_062757",
+    "content": "risk-free investment",
+    "meaning_zh": "无风险投资",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常用术语"
+  },
+  {
+    "item_code": "w_062766",
+    "content": "risqué",
+    "meaning_zh": "有伤风化的；近乎下流的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词"
+  },
+  {
+    "item_code": "w_062767",
+    "content": "Rita",
+    "meaning_zh": "丽塔（女子名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有人名"
+  },
+  {
+    "item_code": "w_062780",
+    "content": "rival sb. for sth.",
+    "meaning_zh": "为某物与某人竞争",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词搭配"
+  },
+  {
+    "item_code": "w_062782",
+    "content": "rival sth. for sth.",
+    "meaning_zh": "为某物与某事物竞争",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配略生硬"
+  },
+  {
+    "item_code": "w_062792",
+    "content": "river chief system",
+    "meaning_zh": "河长制",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策术语"
+  },
+  {
+    "item_code": "w_062797",
+    "content": "river trip",
+    "meaning_zh": "河上旅行；乘船游河",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅行常用搭配"
+  },
+  {
+    "item_code": "w_062805",
+    "content": "Riverside High School",
+    "meaning_zh": "滨河高中（学校名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有校名"
+  },
+  {
+    "item_code": "w_062810",
+    "content": "rivulet argot",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_062826",
+    "content": "road tolls",
+    "meaning_zh": "道路通行费；过路费",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通常用词组"
+  },
+  {
+    "item_code": "w_062838",
+    "content": "roadworks detour",
+    "meaning_zh": "道路施工绕行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通提示搭配"
+  },
+  {
+    "item_code": "w_062845",
+    "content": "roar of the water",
+    "meaning_zh": "水流的轰鸣声",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "描写性短语"
+  },
+  {
+    "item_code": "w_062849",
+    "content": "roast stir mix beat",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠噪声"
+  },
+  {
+    "item_code": "w_062866",
+    "content": "Robin Lee Graham",
+    "meaning_zh": "罗宾·李·格雷厄姆（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有人名"
+  },
+  {
+    "item_code": "w_062868",
+    "content": "robo-adviser",
+    "meaning_zh": "智能投顾；机器人理财顾问",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融科技术语"
+  },
+  {
+    "item_code": "w_062874",
+    "content": "robust preempt",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词表噪声"
+  },
+  {
+    "item_code": "w_062888",
+    "content": "rock layer",
+    "meaning_zh": "岩层",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地质常用术语"
+  },
+  {
+    "item_code": "w_062890",
+    "content": "rock painting",
+    "meaning_zh": "岩画",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "考古常用术语"
+  }
+]

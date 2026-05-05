@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_079583",
+    "content": "vociferous dissolve",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无明确含义"
+  },
+  {
+    "item_code": "w_079586",
+    "content": "vogue admit target volunteer",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词堆叠像噪声"
+  },
+  {
+    "item_code": "w_079588",
+    "content": "voice an opinion on",
+    "meaning_zh": "就……发表意见",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词短语"
+  },
+  {
+    "item_code": "w_079598",
+    "content": "void function",
+    "meaning_zh": "无返回值函数",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_079600",
+    "content": "voilà",
+    "meaning_zh": "瞧；这就成了",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见外来感叹词"
+  },
+  {
+    "item_code": "w_079601",
+    "content": "vol",
+    "meaning_zh": "卷；册；音量（缩写）",
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "缩写残片价值低"
+  },
+  {
+    "item_code": "w_079605",
+    "content": "volatile amenable",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "形容词拼接无搭配"
+  },
+  {
+    "item_code": "w_079612",
+    "content": "volcanic ash and dust",
+    "meaning_zh": "火山灰和火山尘",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地学常见短语"
+  },
+  {
+    "item_code": "w_079614",
+    "content": "volcanic cinder and dust",
+    "meaning_zh": "火山渣和火山尘",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地学常见短语"
+  },
+  {
+    "item_code": "w_079623",
+    "content": "volcanic terrain",
+    "meaning_zh": "火山地形；火山地貌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地理地质术语"
+  },
+  {
+    "item_code": "w_079637",
+    "content": "volleyball hockey",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "运动词堆叠非词条"
+  },
+  {
+    "item_code": "w_079642",
+    "content": "voltage division circuit",
+    "meaning_zh": "分压电路",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "电路术语"
+  },
+  {
+    "item_code": "w_079652",
+    "content": "voluminous harass fitful mash",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词杂糅无意义"
+  },
+  {
+    "item_code": "w_079657",
+    "content": "voluntary rye",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_079660",
+    "content": "volunteer teacher",
+    "meaning_zh": "志愿教师；支教老师",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教育短语"
+  },
+  {
+    "item_code": "w_079665",
+    "content": "volunteering service",
+    "meaning_zh": "志愿服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见公益表达"
+  },
+  {
+    "item_code": "w_079674",
+    "content": "vomit realm drama",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词拼接像噪声"
+  },
+  {
+    "item_code": "w_079682",
+    "content": "vortex electric field",
+    "meaning_zh": "涡旋电场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "物理电磁术语"
+  },
+  {
+    "item_code": "w_079686",
+    "content": "vote abstention",
+    "meaning_zh": "投票弃权",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治投票术语"
+  },
+  {
+    "item_code": "w_079695",
+    "content": "vote to",
+    "meaning_zh": "投票决定做……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  }
+]

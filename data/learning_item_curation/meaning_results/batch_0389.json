@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_037146",
+    "content": "importance of English",
+    "meaning_zh": "英语的重要性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_037148",
+    "content": "important defense mechanisms",
+    "meaning_zh": "重要的防御机制",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_037150",
+    "content": "important occasions",
+    "meaning_zh": "重要场合",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_037151",
+    "content": "important portion",
+    "meaning_zh": "重要部分",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_037154",
+    "content": "important occasion",
+    "meaning_zh": "重要场合",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_037157",
+    "content": "imported case",
+    "meaning_zh": "输入性病例",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "公共卫生术语"
+  },
+  {
+    "item_code": "w_037160",
+    "content": "importing",
+    "meaning_zh": "导入",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机语境常用义"
+  },
+  {
+    "item_code": "w_037169",
+    "content": "impose a burden on",
+    "meaning_zh": "给……施加负担",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_037170",
+    "content": "impose dominate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不自然，疑似噪声"
+  },
+  {
+    "item_code": "w_037177",
+    "content": "imposing strait",
+    "meaning_zh": "壮观的海峡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可按短语理解"
+  },
+  {
+    "item_code": "w_037188",
+    "content": "impotent incision incubate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词堆叠，疑似噪声"
+  },
+  {
+    "item_code": "w_037192",
+    "content": "impoverished college students",
+    "meaning_zh": "贫困大学生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教育语境搭配"
+  },
+  {
+    "item_code": "w_037193",
+    "content": "impoverished countryside",
+    "meaning_zh": "贫困农村",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会话题搭配"
+  },
+  {
+    "item_code": "w_037220",
+    "content": "Impressionist Movement",
+    "meaning_zh": "印象派运动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "艺术史专有名词"
+  },
+  {
+    "item_code": "w_037223",
+    "content": "impressive achievement",
+    "meaning_zh": "令人印象深刻的成就",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_037224",
+    "content": "impressive education",
+    "meaning_zh": "令人印象深刻的教育背景",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "多指教育经历"
+  },
+  {
+    "item_code": "w_037225",
+    "content": "impressive figure",
+    "meaning_zh": "令人印象深刻的人物；惊人的数字",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "figure有多种常见义"
+  },
+  {
+    "item_code": "w_037226",
+    "content": "impressive respect",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然，疑似噪声"
+  },
+  {
+    "item_code": "w_037238",
+    "content": "improper hepatitis",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立，疑似噪声"
+  },
+  {
+    "item_code": "w_037243",
+    "content": "improve ability",
+    "meaning_zh": "提高能力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  }
+]

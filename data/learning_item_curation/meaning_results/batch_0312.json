@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_029612",
+    "content": "frighten the life",
+    "meaning_zh": "把某人吓得魂飞魄散",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定表达片段"
+  },
+  {
+    "item_code": "w_029615",
+    "content": "frightening experience",
+    "meaning_zh": "可怕的经历；令人害怕的经历",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_029616",
+    "content": "frightening frighten",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词形堆叠无固定义"
+  },
+  {
+    "item_code": "w_029631",
+    "content": "frisk poke complication",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词组无固定义"
+  },
+  {
+    "item_code": "w_029637",
+    "content": "frivolous inadvertent belligerents",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词组无固定义"
+  },
+  {
+    "item_code": "w_029651",
+    "content": "from ... till",
+    "meaning_zh": "从……直到……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "时间范围表达"
+  },
+  {
+    "item_code": "w_029654",
+    "content": "from ... until",
+    "meaning_zh": "从……直到……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "时间范围表达"
+  },
+  {
+    "item_code": "w_029655",
+    "content": "from a ... perspective",
+    "meaning_zh": "从……角度看",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见观点表达"
+  },
+  {
+    "item_code": "w_029656",
+    "content": "from a biology perspective",
+    "meaning_zh": "从生物学角度看",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学科角度表达"
+  },
+  {
+    "item_code": "w_029657",
+    "content": "from a great distance",
+    "meaning_zh": "从很远的地方；隔着很远距离",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "距离介词短语"
+  },
+  {
+    "item_code": "w_029658",
+    "content": "from a personal perspective",
+    "meaning_zh": "从个人角度看",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见观点表达"
+  },
+  {
+    "item_code": "w_029661",
+    "content": "from bosis pepper",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声无法判断"
+  },
+  {
+    "item_code": "w_029666",
+    "content": "from head to toe",
+    "meaning_zh": "从头到脚；全身上下",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  },
+  {
+    "item_code": "w_029669",
+    "content": "from my perspective",
+    "meaning_zh": "从我的角度看；在我看来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见观点表达"
+  },
+  {
+    "item_code": "w_029671",
+    "content": "from of spite",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配错误疑似噪声"
+  },
+  {
+    "item_code": "w_029673",
+    "content": "from one's heart",
+    "meaning_zh": "发自内心；从心底里",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "近似固定表达"
+  },
+  {
+    "item_code": "w_029674",
+    "content": "from one's perspective",
+    "meaning_zh": "从某人的角度看",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见观点表达"
+  },
+  {
+    "item_code": "w_029675",
+    "content": "from one's standpoint",
+    "meaning_zh": "从某人的立场看",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见立场表达"
+  },
+  {
+    "item_code": "w_029678",
+    "content": "from sb.'s perspective",
+    "meaning_zh": "从某人的角度看",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见观点表达"
+  },
+  {
+    "item_code": "w_029679",
+    "content": "from Seoul",
+    "meaning_zh": "来自首尔；从首尔出发",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地名介词短语"
+  }
+]

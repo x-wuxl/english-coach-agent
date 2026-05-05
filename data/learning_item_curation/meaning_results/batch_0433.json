@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_041333",
+    "content": "keep sb. prisoner",
+    "meaning_zh": "囚禁某人；把某人关押起来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_041336",
+    "content": "keep secrets",
+    "meaning_zh": "保守秘密",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  },
+  {
+    "item_code": "w_041339",
+    "content": "keep something at hand",
+    "meaning_zh": "把某物放在手边；使某物随时可用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_041342",
+    "content": "keep sth. against ...",
+    "meaning_zh": "因某事责怪……；因某事对……怀恨",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达不完整但可判断"
+  },
+  {
+    "item_code": "w_041346",
+    "content": "keep sth. handy",
+    "meaning_zh": "把某物放在方便取用处",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_041350",
+    "content": "keep sth. in perspective",
+    "meaning_zh": "正确看待某事；客观看待某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_041356",
+    "content": "keep still about ...",
+    "meaning_zh": "对……保持沉默；对……不声张",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "low",
+    "reason": "表达不太标准"
+  },
+  {
+    "item_code": "w_041359",
+    "content": "keep the balance of",
+    "meaning_zh": "保持……的平衡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_041361",
+    "content": "keep the important moment",
+    "meaning_zh": "留住重要时刻；记录重要时刻",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配较普通"
+  },
+  {
+    "item_code": "w_041362",
+    "content": "keep the pace with...",
+    "meaning_zh": "跟上……的步伐；与……保持同步",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见说法应去the"
+  },
+  {
+    "item_code": "w_041363",
+    "content": "keep the record",
+    "meaning_zh": "保持纪录；保存记录",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "无例句有歧义"
+  },
+  {
+    "item_code": "w_041366",
+    "content": "keep the sweet memories",
+    "meaning_zh": "保留美好回忆；珍藏甜蜜回忆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "含义明确"
+  },
+  {
+    "item_code": "w_041367",
+    "content": "keep the table",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "表达不自然"
+  },
+  {
+    "item_code": "w_041368",
+    "content": "keep the temperature appropriate",
+    "meaning_zh": "保持温度适宜",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "含义明确"
+  },
+  {
+    "item_code": "w_041378",
+    "content": "keep unchanged",
+    "meaning_zh": "保持不变",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_041386",
+    "content": "keep up with school",
+    "meaning_zh": "跟上学校课程；不落下学业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境略省略"
+  },
+  {
+    "item_code": "w_041388",
+    "content": "keep valuable memories",
+    "meaning_zh": "保留珍贵回忆；珍藏宝贵记忆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "含义明确"
+  },
+  {
+    "item_code": "w_041393",
+    "content": "keep watch over ...",
+    "meaning_zh": "看守……；监视……；照看……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_041396",
+    "content": "keep your desk clean",
+    "meaning_zh": "保持你的书桌干净",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "含义明确"
+  },
+  {
+    "item_code": "w_041401",
+    "content": "keep-fit studio",
+    "meaning_zh": "健身工作室；健身房",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合名词"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_069849",
+    "content": "stimulate one's interest",
+    "meaning_zh": "激发某人的兴趣",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_069851",
+    "content": "stimulates",
+    "meaning_zh": "刺激；激发；促进",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "stimulate的三单形式"
+  },
+  {
+    "item_code": "w_069859",
+    "content": "stimulus droplet",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配，含义不明"
+  },
+  {
+    "item_code": "w_069861",
+    "content": "stimulus plan",
+    "meaning_zh": "经济刺激计划",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "财经常见表达"
+  },
+  {
+    "item_code": "w_069863",
+    "content": "sting decent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配，疑似噪声"
+  },
+  {
+    "item_code": "w_069871",
+    "content": "stingy meander yoke",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠，疑似噪声"
+  },
+  {
+    "item_code": "w_069875",
+    "content": "stint cardinal quaver compose",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠，疑似噪声"
+  },
+  {
+    "item_code": "w_069876",
+    "content": "stints",
+    "meaning_zh": "工作期限；定量工作；节制",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "stint的复数或三单"
+  },
+  {
+    "item_code": "w_069879",
+    "content": "stipple harang lurch parish",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠，疑似噪声"
+  },
+  {
+    "item_code": "w_069882",
+    "content": "stipulate slender spasm",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠，疑似噪声"
+  },
+  {
+    "item_code": "w_069885",
+    "content": "stir fry taffy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常，含义不明"
+  },
+  {
+    "item_code": "w_069893",
+    "content": "stitch filling medicine",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常，含义不明"
+  },
+  {
+    "item_code": "w_069903",
+    "content": "stock market fluctuation",
+    "meaning_zh": "股市波动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融常见表达"
+  },
+  {
+    "item_code": "w_069905",
+    "content": "stock plunge",
+    "meaning_zh": "股票暴跌；股市大跌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融常见表达"
+  },
+  {
+    "item_code": "w_069907",
+    "content": "stock prude",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配，疑似噪声"
+  },
+  {
+    "item_code": "w_069909",
+    "content": "stock rise",
+    "meaning_zh": "股票上涨；股价上升",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融常见表达"
+  },
+  {
+    "item_code": "w_069916",
+    "content": "stockbroker adverse",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常，含义不明"
+  },
+  {
+    "item_code": "w_069918",
+    "content": "stockholder ambitious",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常，含义不明"
+  },
+  {
+    "item_code": "w_069919",
+    "content": "stockholder meeting",
+    "meaning_zh": "股东大会；股东会议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常见表达"
+  },
+  {
+    "item_code": "w_069923",
+    "content": "stocking pendulum",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配，疑似噪声"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_068627",
+    "content": "spend time in doing",
+    "meaning_zh": "花时间做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_068628",
+    "content": "spend time on sth.",
+    "meaning_zh": "在某事上花时间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_068647",
+    "content": "sphere liberate sediment",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_068648",
+    "content": "sphere object",
+    "meaning_zh": "球形物体；球体对象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作术语短语"
+  },
+  {
+    "item_code": "w_068649",
+    "content": "spherial",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "拼写疑似错误"
+  },
+  {
+    "item_code": "w_068652",
+    "content": "spherical enumerate frustration",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_068664",
+    "content": "Spice Bazaar",
+    "meaning_zh": "香料市场；香料集市",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词或地点"
+  },
+  {
+    "item_code": "w_068665",
+    "content": "spice infection",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_068666",
+    "content": "spice mint",
+    "meaning_zh": "香料薄荷；香辛料和薄荷",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作食材搭配"
+  },
+  {
+    "item_code": "w_068672",
+    "content": "spider filament",
+    "meaning_zh": "蜘蛛丝",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生物术语"
+  },
+  {
+    "item_code": "w_068680",
+    "content": "spig momonometer jog",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "拼写与拼接噪声"
+  },
+  {
+    "item_code": "w_068687",
+    "content": "spill spark perception",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_068693",
+    "content": "spin and weave cotton",
+    "meaning_zh": "纺棉线并织布",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动作短语明确"
+  },
+  {
+    "item_code": "w_068700",
+    "content": "spin top",
+    "meaning_zh": "旋转陀螺",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_068702",
+    "content": "spin-out business",
+    "meaning_zh": "分拆业务；衍生公司",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务术语"
+  },
+  {
+    "item_code": "w_068709",
+    "content": "spinal wipe",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_068711",
+    "content": "spindle particle batch mushroom",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_068712",
+    "content": "spindley stultify",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "拼写与搭配异常"
+  },
+  {
+    "item_code": "w_068721",
+    "content": "spinning off examples",
+    "meaning_zh": "分拆出的例子；衍生出的例子",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语可理解"
+  },
+  {
+    "item_code": "w_068727",
+    "content": "spiny prep inch",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  }
+]

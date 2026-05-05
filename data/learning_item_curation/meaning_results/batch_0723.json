@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_071328",
+    "content": "support the elderly",
+    "meaning_zh": "赡养老人；扶助老年人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_071329",
+    "content": "support the family",
+    "meaning_zh": "养家；供养家庭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_071330",
+    "content": "support themselves",
+    "meaning_zh": "养活自己；自立",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见反身搭配"
+  },
+  {
+    "item_code": "w_071331",
+    "content": "support tutor",
+    "meaning_zh": "辅导老师；支持导师",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "教育场景职称"
+  },
+  {
+    "item_code": "w_071339",
+    "content": "suppose optimize",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "明显词串噪声"
+  },
+  {
+    "item_code": "w_071345",
+    "content": "supposition residue fluster prodigal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无整体学习价值"
+  },
+  {
+    "item_code": "w_071349",
+    "content": "suppress emotion",
+    "meaning_zh": "压抑情绪；抑制情感",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_071350",
+    "content": "suppress prognosis",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_071351",
+    "content": "suppress remnant",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_071373",
+    "content": "supreme rake",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "明显词串噪声"
+  },
+  {
+    "item_code": "w_071375",
+    "content": "sur",
+    "meaning_zh": "苏尔（地名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "例句指地名"
+  },
+  {
+    "item_code": "w_071377",
+    "content": "surcharge brazen sear wither",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无整体学习价值"
+  },
+  {
+    "item_code": "w_071378",
+    "content": "surcharge managerial disrupt",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "明显词串噪声"
+  },
+  {
+    "item_code": "w_071387",
+    "content": "surf celebrate occasion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无合理整体含义"
+  },
+  {
+    "item_code": "w_071388",
+    "content": "surf on line",
+    "meaning_zh": "上网浏览",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "应为surf online"
+  },
+  {
+    "item_code": "w_071390",
+    "content": "surf online",
+    "meaning_zh": "上网浏览",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见网络表达"
+  },
+  {
+    "item_code": "w_071402",
+    "content": "surface tile",
+    "meaning_zh": "表面瓷砖；饰面砖",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "建筑材料搭配"
+  },
+  {
+    "item_code": "w_071405",
+    "content": "surface-to-surface conventional missile",
+    "meaning_zh": "地对地常规导弹；面对面常规导弹",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "军事术语"
+  },
+  {
+    "item_code": "w_071411",
+    "content": "surfing lessons",
+    "meaning_zh": "冲浪课",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见课程表达"
+  },
+  {
+    "item_code": "w_071416",
+    "content": "surge pricing",
+    "meaning_zh": "高峰动态定价；需求激增时涨价",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商业术语"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_016301",
+    "content": "confront innovative",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常含义不明"
+  },
+  {
+    "item_code": "w_016309",
+    "content": "Confucian revival",
+    "meaning_zh": "儒家复兴；儒学复兴",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见文化历史表达"
+  },
+  {
+    "item_code": "w_016310",
+    "content": "Confucian teachings",
+    "meaning_zh": "儒家教义；儒家学说",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定学术表达"
+  },
+  {
+    "item_code": "w_016311",
+    "content": "Confucian thought",
+    "meaning_zh": "儒家思想",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_016318",
+    "content": "confuse confusion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词形堆叠非有效词条"
+  },
+  {
+    "item_code": "w_016319",
+    "content": "confuse distribution",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接含义不明"
+  },
+  {
+    "item_code": "w_016330",
+    "content": "congeal labyrinthine party",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无自然搭配意义"
+  },
+  {
+    "item_code": "w_016334",
+    "content": "congenital congested contagion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个词堆叠成噪声"
+  },
+  {
+    "item_code": "w_016340",
+    "content": "congestion fee",
+    "meaning_zh": "拥堵费",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通收费固定表达"
+  },
+  {
+    "item_code": "w_016358",
+    "content": "congratulations to",
+    "meaning_zh": "向……表示祝贺",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用祝贺搭配"
+  },
+  {
+    "item_code": "w_016368",
+    "content": "congressional representation",
+    "meaning_zh": "国会代表权；国会议席代表",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治制度常用表达"
+  },
+  {
+    "item_code": "w_016369",
+    "content": "congressional representative",
+    "meaning_zh": "国会议员；国会代表",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治职务表达"
+  },
+  {
+    "item_code": "w_016375",
+    "content": "congruent angles",
+    "meaning_zh": "全等角",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "几何术语"
+  },
+  {
+    "item_code": "w_016376",
+    "content": "congruent cursory epicure",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无自然搭配意义"
+  },
+  {
+    "item_code": "w_016377",
+    "content": "congruent line segments",
+    "meaning_zh": "全等线段",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "几何术语"
+  },
+  {
+    "item_code": "w_016387",
+    "content": "conifer tree",
+    "meaning_zh": "针叶树；松柏类树木",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "植物类别表达"
+  },
+  {
+    "item_code": "w_016395",
+    "content": "conjugate obstetrics",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "医学搭配不自然"
+  },
+  {
+    "item_code": "w_016403",
+    "content": "conjuncture buffer",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常含义不明"
+  },
+  {
+    "item_code": "w_016414",
+    "content": "connect people",
+    "meaning_zh": "连接人与人；使人们联系起来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用动宾搭配"
+  },
+  {
+    "item_code": "w_016421",
+    "content": "connected to the Internet",
+    "meaning_zh": "已连接到互联网",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持网络含义"
+  }
+]

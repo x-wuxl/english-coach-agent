@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_008177",
+    "content": "be tucked",
+    "meaning_zh": "被塞好；被掖好",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义依搭配略变"
+  },
+  {
+    "item_code": "w_008178",
+    "content": "be tucked away",
+    "meaning_zh": "被藏在；位于隐蔽处",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语常见义"
+  },
+  {
+    "item_code": "w_008185",
+    "content": "be uncertain about",
+    "meaning_zh": "对……不确定；对……没把握",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_008186",
+    "content": "be uncertain of",
+    "meaning_zh": "对……不确定；对……没把握",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_008193",
+    "content": "be under medical observation",
+    "meaning_zh": "接受医学观察；处于医学观察中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学场景固定表达"
+  },
+  {
+    "item_code": "w_008194",
+    "content": "be under one's charge",
+    "meaning_zh": "由某人负责；由某人照管",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定介词短语"
+  },
+  {
+    "item_code": "w_008197",
+    "content": "be under somebody's shadow",
+    "meaning_zh": "活在某人的阴影下；受某人影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "比喻性固定表达"
+  },
+  {
+    "item_code": "w_008198",
+    "content": "be under stress",
+    "meaning_zh": "承受压力；处于紧张状态",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见压力表达"
+  },
+  {
+    "item_code": "w_008201",
+    "content": "be understood as",
+    "meaning_zh": "被理解为；被解释为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术语境常见搭配"
+  },
+  {
+    "item_code": "w_008204",
+    "content": "be unfamiliar to",
+    "meaning_zh": "对……来说陌生；不为……熟悉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_008206",
+    "content": "be unfavorable to ...",
+    "meaning_zh": "对……不利；不适合……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_008207",
+    "content": "be unique in",
+    "meaning_zh": "在……方面独特",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_008211",
+    "content": "be unsure of",
+    "meaning_zh": "对……不确定；对……没信心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_008213",
+    "content": "be unwilling to do",
+    "meaning_zh": "不愿意做；不情愿做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见不定式搭配"
+  },
+  {
+    "item_code": "w_008222",
+    "content": "be urged to",
+    "meaning_zh": "被敦促；被力劝",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "被动搭配常见义"
+  },
+  {
+    "item_code": "w_008229",
+    "content": "be used to do",
+    "meaning_zh": "被用来做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "区别于习惯做"
+  },
+  {
+    "item_code": "w_008230",
+    "content": "be used to doing",
+    "meaning_zh": "习惯于做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定语法搭配"
+  },
+  {
+    "item_code": "w_008235",
+    "content": "be validated by",
+    "meaning_zh": "由……验证；得到……证实",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术语境常见搭配"
+  },
+  {
+    "item_code": "w_008237",
+    "content": "be value for money",
+    "meaning_zh": "物有所值；性价比高",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见表达略不完整"
+  },
+  {
+    "item_code": "w_008238",
+    "content": "be very likely to",
+    "meaning_zh": "很可能；极有可能",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见可能性表达"
+  }
+]

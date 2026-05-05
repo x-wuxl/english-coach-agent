@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_056786",
+    "content": "Portia Langham",
+    "meaning_zh": "波西亚·兰厄姆（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑似人名"
+  },
+  {
+    "item_code": "w_056789",
+    "content": "portion bakery",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_056793",
+    "content": "portrait artist",
+    "meaning_zh": "肖像画家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职业表达"
+  },
+  {
+    "item_code": "w_056795",
+    "content": "portrait sculpture",
+    "meaning_zh": "肖像雕塑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "艺术类常见搭配"
+  },
+  {
+    "item_code": "w_056796",
+    "content": "portrait-sketching",
+    "meaning_zh": "肖像素描",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "绘画活动表达"
+  },
+  {
+    "item_code": "w_056800",
+    "content": "portray repertory seating",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组疑似噪声"
+  },
+  {
+    "item_code": "w_056805",
+    "content": "POS machine",
+    "meaning_zh": "POS机；刷卡终端",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商业术语"
+  },
+  {
+    "item_code": "w_056808",
+    "content": "pose a contrast",
+    "meaning_zh": "形成对比",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_056810",
+    "content": "pose no health risk",
+    "meaning_zh": "不构成健康风险",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见风险表达"
+  },
+  {
+    "item_code": "w_056811",
+    "content": "pose sth. to",
+    "meaning_zh": "向……提出某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配格式不完整"
+  },
+  {
+    "item_code": "w_056812",
+    "content": "pose threat to ...",
+    "meaning_zh": "对……构成威胁",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_056818",
+    "content": "position-related consumption",
+    "meaning_zh": "地位相关消费；炫耀性消费",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "社会经济学表达"
+  },
+  {
+    "item_code": "w_056820",
+    "content": "positional argument",
+    "meaning_zh": "位置参数",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程术语"
+  },
+  {
+    "item_code": "w_056822",
+    "content": "positional-only",
+    "meaning_zh": "仅限位置传参的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程术语"
+  },
+  {
+    "item_code": "w_056823",
+    "content": "positional-or-keyword",
+    "meaning_zh": "可按位置或关键字传参的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程术语"
+  },
+  {
+    "item_code": "w_056826",
+    "content": "positive and negative charges",
+    "meaning_zh": "正负电荷",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "物理常见概念"
+  },
+  {
+    "item_code": "w_056827",
+    "content": "positive and negative feelings",
+    "meaning_zh": "正面和负面情绪",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "情绪类常见表达"
+  },
+  {
+    "item_code": "w_056829",
+    "content": "positive cast",
+    "meaning_zh": "积极色彩；正面倾向",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "抽象搭配"
+  },
+  {
+    "item_code": "w_056833",
+    "content": "positive emotions",
+    "meaning_zh": "积极情绪；正面情感",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "心理类常见表达"
+  },
+  {
+    "item_code": "w_056837",
+    "content": "positive ideas",
+    "meaning_zh": "实证观念；积极想法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "例句指实证观念"
+  }
+]

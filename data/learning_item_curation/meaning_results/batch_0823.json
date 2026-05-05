@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_081382",
+    "content": "witnesses of history",
+    "meaning_zh": "历史的见证者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定名词短语"
+  },
+  {
+    "item_code": "w_081388",
+    "content": "wive",
+    "meaning_zh": "娶妻；嫁人",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见动词"
+  },
+  {
+    "item_code": "w_081401",
+    "content": "Wojtek Moskal",
+    "meaning_zh": "沃伊泰克·莫斯卡尔（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "专有人名"
+  },
+  {
+    "item_code": "w_081419",
+    "content": "women consciousness",
+    "meaning_zh": "女性意识",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为搭配"
+  },
+  {
+    "item_code": "w_081421",
+    "content": "women's fashion",
+    "meaning_zh": "女性时尚；女装",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_081430",
+    "content": "wonder to do",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不完整"
+  },
+  {
+    "item_code": "w_081431",
+    "content": "wonder whether ...",
+    "meaning_zh": "想知道是否……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型"
+  },
+  {
+    "item_code": "w_081433",
+    "content": "wonderful beaches",
+    "meaning_zh": "美丽的海滩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_081434",
+    "content": "wonderful program",
+    "meaning_zh": "精彩的项目；很棒的节目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_081439",
+    "content": "wondrous area",
+    "meaning_zh": "奇妙的地区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "形容词搭配"
+  },
+  {
+    "item_code": "w_081445",
+    "content": "wood degradation",
+    "meaning_zh": "木材降解；木质退化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术术语搭配"
+  },
+  {
+    "item_code": "w_081446",
+    "content": "wood edge",
+    "meaning_zh": "木材边缘；林地边缘",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义依语境"
+  },
+  {
+    "item_code": "w_081450",
+    "content": "wood production",
+    "meaning_zh": "木材生产",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_081461",
+    "content": "wooden board",
+    "meaning_zh": "木板",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础名词短语"
+  },
+  {
+    "item_code": "w_081474",
+    "content": "woody material",
+    "meaning_zh": "木质材料",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常见搭配"
+  },
+  {
+    "item_code": "w_081480",
+    "content": "woolen appliance restriction pancreas",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声"
+  },
+  {
+    "item_code": "w_081482",
+    "content": "woollen fabrics",
+    "meaning_zh": "羊毛织物；毛料",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见纺织搭配"
+  },
+  {
+    "item_code": "w_081483",
+    "content": "woollen textiles",
+    "meaning_zh": "羊毛纺织品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  },
+  {
+    "item_code": "w_081491",
+    "content": "word cluster",
+    "meaning_zh": "词群；词簇",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "语言学习术语"
+  },
+  {
+    "item_code": "w_081509",
+    "content": "work a part-time job",
+    "meaning_zh": "做兼职工作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  }
+]

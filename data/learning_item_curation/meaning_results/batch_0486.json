@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_046505",
+    "content": "melodramatic coagulate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配"
+  },
+  {
+    "item_code": "w_046508",
+    "content": "melon muffin",
+    "meaning_zh": "甜瓜松饼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_046517",
+    "content": "melting icecap",
+    "meaning_zh": "正在融化的冰盖",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保话题常见搭配"
+  },
+  {
+    "item_code": "w_046527",
+    "content": "membership fees",
+    "meaning_zh": "会员费；会费",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见费用表达"
+  },
+  {
+    "item_code": "w_046528",
+    "content": "membership supporter",
+    "meaning_zh": "会员支持者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解但不常见"
+  },
+  {
+    "item_code": "w_046531",
+    "content": "membrane imaginary participate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌无意义"
+  },
+  {
+    "item_code": "w_046542",
+    "content": "memorable do",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_046555",
+    "content": "memorize words",
+    "meaning_zh": "记单词；背单词",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学习场景常用表达"
+  },
+  {
+    "item_code": "w_046566",
+    "content": "Men of the Marshes",
+    "meaning_zh": "沼泽地的人们",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "标题性短语"
+  },
+  {
+    "item_code": "w_046567",
+    "content": "men's fashion",
+    "meaning_zh": "男士时尚；男装",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活话题"
+  },
+  {
+    "item_code": "w_046571",
+    "content": "menageri",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_046576",
+    "content": "mend one's way",
+    "meaning_zh": "改过自新；改邪归正",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_046578",
+    "content": "mend sb.'s ways",
+    "meaning_zh": "使某人改过自新；改正某人的行为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_046579",
+    "content": "mend socks",
+    "meaning_zh": "补袜子",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_046580",
+    "content": "mend torn pages",
+    "meaning_zh": "修补撕破的书页",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_046590",
+    "content": "menial molt",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配"
+  },
+  {
+    "item_code": "w_046607",
+    "content": "menstrual oxide",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_046611",
+    "content": "ment",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词缀残片"
+  },
+  {
+    "item_code": "w_046616",
+    "content": "mental conversation",
+    "meaning_zh": "内心对话；心理交流",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解搭配"
+  },
+  {
+    "item_code": "w_046618",
+    "content": "mental event",
+    "meaning_zh": "心理事件；心理活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "心理学常见术语"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_023069",
+    "content": "dénouement",
+    "meaning_zh": "结局；收场",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见文学术语"
+  },
+  {
+    "item_code": "w_023070",
+    "content": "détente",
+    "meaning_zh": "缓和；缓和关系",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见外交术语"
+  },
+  {
+    "item_code": "w_023077",
+    "content": "e-commerce engine",
+    "meaning_zh": "电子商务引擎",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务技术搭配"
+  },
+  {
+    "item_code": "w_023078",
+    "content": "e-commerce poverty alleviation",
+    "meaning_zh": "电商扶贫",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策经济固定表达"
+  },
+  {
+    "item_code": "w_023079",
+    "content": "e-commerce retailer",
+    "meaning_zh": "电商零售商",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常见搭配"
+  },
+  {
+    "item_code": "w_023080",
+    "content": "e-commerce transactions",
+    "meaning_zh": "电子商务交易",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常见搭配"
+  },
+  {
+    "item_code": "w_023081",
+    "content": "e-dog",
+    "meaning_zh": "电子狗",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "连字符复合词"
+  },
+  {
+    "item_code": "w_023090",
+    "content": "e-sale",
+    "meaning_zh": "网上销售；电子销售",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务复合词"
+  },
+  {
+    "item_code": "w_023100",
+    "content": "each and every one",
+    "meaning_zh": "每一个；人人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定强调表达"
+  },
+  {
+    "item_code": "w_023101",
+    "content": "each set of circumstances",
+    "meaning_zh": "每种具体情况",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "按整体含义解释"
+  },
+  {
+    "item_code": "w_023104",
+    "content": "eager to",
+    "meaning_zh": "渴望；急于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义一致"
+  },
+  {
+    "item_code": "w_023109",
+    "content": "eagle embarrass terracing",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声组合"
+  },
+  {
+    "item_code": "w_023113",
+    "content": "ean",
+    "meaning_zh": "欧洲商品编码",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见缩写术语"
+  },
+  {
+    "item_code": "w_023117",
+    "content": "ear tube",
+    "meaning_zh": "耳管；鼓膜通气管",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学相关搭配"
+  },
+  {
+    "item_code": "w_023124",
+    "content": "eared",
+    "meaning_zh": "有耳的；有穗的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词含义"
+  },
+  {
+    "item_code": "w_023127",
+    "content": "earlier humans",
+    "meaning_zh": "早期人类",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "考研常见表达"
+  },
+  {
+    "item_code": "w_023132",
+    "content": "early onset of puberty",
+    "meaning_zh": "青春期提前开始；早发青春期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学教育表达"
+  },
+  {
+    "item_code": "w_023142",
+    "content": "earn a reputation as",
+    "meaning_zh": "赢得作为……的名声",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词搭配"
+  },
+  {
+    "item_code": "w_023143",
+    "content": "earn little from",
+    "meaning_zh": "从……中赚得很少",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词搭配"
+  },
+  {
+    "item_code": "w_023144",
+    "content": "earn little from ...",
+    "meaning_zh": "从……中赚得很少",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "省略号不影响含义"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_032074",
+    "content": "golf tennis bowling",
+    "meaning_zh": "高尔夫、网球、保龄球",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "运动项目并列"
+  },
+  {
+    "item_code": "w_032078",
+    "content": "Gombe National Park",
+    "meaning_zh": "贡贝国家公园",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有地名"
+  },
+  {
+    "item_code": "w_032122",
+    "content": "good manner",
+    "meaning_zh": "良好举止；礼貌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_032128",
+    "content": "Good news travels fast!",
+    "meaning_zh": "好消息传得快",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "完整句子表达"
+  },
+  {
+    "item_code": "w_032134",
+    "content": "good profit margin",
+    "meaning_zh": "良好的利润率；较高利润空间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常用搭配"
+  },
+  {
+    "item_code": "w_032135",
+    "content": "good public transport",
+    "meaning_zh": "便利的公共交通",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通常用表达"
+  },
+  {
+    "item_code": "w_032136",
+    "content": "good quality leather",
+    "meaning_zh": "优质皮革",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商品描述搭配"
+  },
+  {
+    "item_code": "w_032137",
+    "content": "good quality stuff",
+    "meaning_zh": "优质物品；好东西",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "口语常用搭配"
+  },
+  {
+    "item_code": "w_032139",
+    "content": "good sales representatives",
+    "meaning_zh": "优秀的销售代表",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职场常用搭配"
+  },
+  {
+    "item_code": "w_032154",
+    "content": "good-paying",
+    "meaning_zh": "高薪的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句明确"
+  },
+  {
+    "item_code": "w_032182",
+    "content": "Gordon Selfridge",
+    "meaning_zh": "戈登·塞尔弗里奇",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人名专有名词"
+  },
+  {
+    "item_code": "w_032186",
+    "content": "gorge oneself",
+    "meaning_zh": "狼吞虎咽；吃得过饱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定反身搭配"
+  },
+  {
+    "item_code": "w_032194",
+    "content": "goro",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义无法可靠判断"
+  },
+  {
+    "item_code": "w_032205",
+    "content": "gossip fragment comparison",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_032207",
+    "content": "got a high fever",
+    "meaning_zh": "发了高烧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "疾病常用表达"
+  },
+  {
+    "item_code": "w_032208",
+    "content": "got a poor grade",
+    "meaning_zh": "成绩不好；得了低分",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学习场景表达"
+  },
+  {
+    "item_code": "w_032209",
+    "content": "got laid off",
+    "meaning_zh": "被裁员；失业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职场固定表达"
+  },
+  {
+    "item_code": "w_032210",
+    "content": "got the time",
+    "meaning_zh": "知道现在几点；有时间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "口语省略表达"
+  },
+  {
+    "item_code": "w_032212",
+    "content": "gotchar",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_032216",
+    "content": "gotta-have",
+    "meaning_zh": "必备的；非要拥有的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "口语复合词"
+  }
+]

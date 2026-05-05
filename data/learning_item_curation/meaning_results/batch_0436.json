@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_041710",
+    "content": "knock on the window",
+    "meaning_zh": "敲窗户",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_041711",
+    "content": "knock oneself against",
+    "meaning_zh": "撞到；碰到",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语搭配释义"
+  },
+  {
+    "item_code": "w_041744",
+    "content": "know better than that",
+    "meaning_zh": "不至于那么糊涂；明白不该那样做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_041768",
+    "content": "Kobe",
+    "meaning_zh": "神户",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指日本城市"
+  },
+  {
+    "item_code": "w_041777",
+    "content": "Korean soaps",
+    "meaning_zh": "韩国肥皂剧；韩剧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见影视表达"
+  },
+  {
+    "item_code": "w_041786",
+    "content": "Krishna",
+    "meaning_zh": "克里希纳",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "印度教神祇名"
+  },
+  {
+    "item_code": "w_041791",
+    "content": "ku",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写残片含义不明"
+  },
+  {
+    "item_code": "w_041793",
+    "content": "kudos de la tante",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声无法判断"
+  },
+  {
+    "item_code": "w_041795",
+    "content": "kuku",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "低价值噪声词"
+  },
+  {
+    "item_code": "w_041796",
+    "content": "Kun Opera",
+    "meaning_zh": "昆曲；昆剧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "中国戏曲专名"
+  },
+  {
+    "item_code": "w_041797",
+    "content": "kung",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "单词残片含义不明"
+  },
+  {
+    "item_code": "w_041799",
+    "content": "Kung Fu Panda",
+    "meaning_zh": "功夫熊猫",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "电影专名"
+  },
+  {
+    "item_code": "w_041803",
+    "content": "kurt",
+    "meaning_zh": "库尔特",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句为人名"
+  },
+  {
+    "item_code": "w_041804",
+    "content": "kurt domineer",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼接噪声"
+  },
+  {
+    "item_code": "w_041806",
+    "content": "kutari",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_041809",
+    "content": "kwam",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_041819",
+    "content": "L-shaped trajectory",
+    "meaning_zh": "L形轨迹",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "术语性短语"
+  },
+  {
+    "item_code": "w_041820",
+    "content": "L. A. Lakers",
+    "meaning_zh": "洛杉矶湖人队",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "篮球队专名"
+  },
+  {
+    "item_code": "w_041824",
+    "content": "La Tomatina",
+    "meaning_zh": "番茄大战节",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "西班牙节日名"
+  },
+  {
+    "item_code": "w_041826",
+    "content": "lab report",
+    "meaning_zh": "实验报告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习场景词组"
+  }
+]

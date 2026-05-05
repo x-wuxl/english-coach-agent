@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_023612",
+    "content": "egalitarian practice",
+    "meaning_zh": "平等主义实践；平等做法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "明显短语搭配"
+  },
+  {
+    "item_code": "w_023625",
+    "content": "egnog",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似eggnog拼写错误"
+  },
+  {
+    "item_code": "w_023631",
+    "content": "egoistic law",
+    "meaning_zh": "利己主义法则",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作术语短语"
+  },
+  {
+    "item_code": "w_023643",
+    "content": "Egypt monster impetus",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无自然含义"
+  },
+  {
+    "item_code": "w_023645",
+    "content": "Egyptian depress",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_023646",
+    "content": "Egyptian writing and numerals",
+    "meaning_zh": "埃及文字和数字",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "明确主题短语"
+  },
+  {
+    "item_code": "w_023648",
+    "content": "EI Nino",
+    "meaning_zh": "厄尔尼诺",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为El Nino拼写"
+  },
+  {
+    "item_code": "w_023649",
+    "content": "EI Nino phenomenon",
+    "meaning_zh": "厄尔尼诺现象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为El Nino拼写"
+  },
+  {
+    "item_code": "w_023652",
+    "content": "Eiffel",
+    "meaning_zh": "埃菲尔",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指埃菲尔铁塔"
+  },
+  {
+    "item_code": "w_023653",
+    "content": "Eiffel Tower",
+    "meaning_zh": "埃菲尔铁塔",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词"
+  },
+  {
+    "item_code": "w_023655",
+    "content": "eight-legged essay",
+    "meaning_zh": "八股文",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定文化术语"
+  },
+  {
+    "item_code": "w_023665",
+    "content": "eights",
+    "meaning_zh": "八的复数；八人赛艇",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见复数或赛艇义"
+  },
+  {
+    "item_code": "w_023671",
+    "content": "Eisenhower Executive Office Building",
+    "meaning_zh": "艾森豪威尔行政办公楼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "建筑专有名词"
+  },
+  {
+    "item_code": "w_023682",
+    "content": "eject lesson depart",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌无含义"
+  },
+  {
+    "item_code": "w_023683",
+    "content": "eject presumption",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_023692",
+    "content": "El Niño",
+    "meaning_zh": "厄尔尼诺",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "气候现象术语"
+  },
+  {
+    "item_code": "w_023695",
+    "content": "elaborate consequence",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_023697",
+    "content": "elaborate pension",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_023698",
+    "content": "elaborate system of testing",
+    "meaning_zh": "精密复杂的测试体系",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "明确短语含义"
+  },
+  {
+    "item_code": "w_023700",
+    "content": "elaborately designed",
+    "meaning_zh": "精心设计的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词短语"
+  }
+]

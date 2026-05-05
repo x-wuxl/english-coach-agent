@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_056701",
+    "content": "popkart",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声或拼写错误"
+  },
+  {
+    "item_code": "w_056703",
+    "content": "popped",
+    "meaning_zh": "突然出现；短暂出去；砰地一声",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指短暂外出"
+  },
+  {
+    "item_code": "w_056704",
+    "content": "popper",
+    "meaning_zh": "发出砰声的东西；爆米花机；按扣",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见名词义项"
+  },
+  {
+    "item_code": "w_056711",
+    "content": "popular articles",
+    "meaning_zh": "热门文章；通俗文章",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_056718",
+    "content": "popular tune",
+    "meaning_zh": "流行曲调；通俗歌曲",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见音乐搭配"
+  },
+  {
+    "item_code": "w_056729",
+    "content": "population ageing",
+    "meaning_zh": "人口老龄化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人口学术语"
+  },
+  {
+    "item_code": "w_056733",
+    "content": "population development strategy",
+    "meaning_zh": "人口发展战略",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策类固定表达"
+  },
+  {
+    "item_code": "w_056736",
+    "content": "population generation unit role",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不自然难判断"
+  },
+  {
+    "item_code": "w_056743",
+    "content": "porch balcony",
+    "meaning_zh": "门廊阳台",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "建筑部位组合词"
+  },
+  {
+    "item_code": "w_056744",
+    "content": "porch graph",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配罕见难判断"
+  },
+  {
+    "item_code": "w_056750",
+    "content": "poris",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_056754",
+    "content": "porn film",
+    "meaning_zh": "色情电影",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_056759",
+    "content": "porous wanting commiserate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无意义词串"
+  },
+  {
+    "item_code": "w_056766",
+    "content": "port harbour",
+    "meaning_zh": "港口；海港",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "近义词组合"
+  },
+  {
+    "item_code": "w_056770",
+    "content": "portable laser scanning system",
+    "meaning_zh": "便携式激光扫描系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术设备名"
+  },
+  {
+    "item_code": "w_056772",
+    "content": "portable TV",
+    "meaning_zh": "便携式电视",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_056775",
+    "content": "porte-cochère",
+    "meaning_zh": "车辆门廊；车道入口雨棚",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "建筑术语"
+  },
+  {
+    "item_code": "w_056780",
+    "content": "porter motel",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_056782",
+    "content": "Portfolio Company",
+    "meaning_zh": "被投企业；投资组合公司",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融投资术语"
+  },
+  {
+    "item_code": "w_056784",
+    "content": "portfolio powder",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无常见含义"
+  }
+]

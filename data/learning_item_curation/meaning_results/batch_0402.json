@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_038394",
+    "content": "incur respect",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_038396",
+    "content": "incurable constitution",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义不可靠"
+  },
+  {
+    "item_code": "w_038398",
+    "content": "incurable indigestion",
+    "meaning_zh": "无法治愈的消化不良",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可判断"
+  },
+  {
+    "item_code": "w_038413",
+    "content": "indect",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_038426",
+    "content": "indemnificatory apartment",
+    "meaning_zh": "保障性公寓；保障性住房",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策住房术语"
+  },
+  {
+    "item_code": "w_038427",
+    "content": "indemnificatory housing",
+    "meaning_zh": "保障性住房",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定政策术语"
+  },
+  {
+    "item_code": "w_038433",
+    "content": "indented inflatable",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  },
+  {
+    "item_code": "w_038441",
+    "content": "independent and competitive",
+    "meaning_zh": "独立且有竞争力的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容词并列短语"
+  },
+  {
+    "item_code": "w_038442",
+    "content": "independent charge",
+    "meaning_zh": "独立收费；单独收费",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见搭配但略泛"
+  },
+  {
+    "item_code": "w_038445",
+    "content": "independent innovation",
+    "meaning_zh": "自主创新",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定译法"
+  },
+  {
+    "item_code": "w_038446",
+    "content": "independent recruitment",
+    "meaning_zh": "自主招生；独立招聘",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "教育语境常见"
+  },
+  {
+    "item_code": "w_038447",
+    "content": "independent research project",
+    "meaning_zh": "独立研究项目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常见短语"
+  },
+  {
+    "item_code": "w_038452",
+    "content": "Independent War",
+    "meaning_zh": "独立战争",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑指独立战争"
+  },
+  {
+    "item_code": "w_038454",
+    "content": "independently developed weapon",
+    "meaning_zh": "自主研发的武器",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_038463",
+    "content": "index of body mass",
+    "meaning_zh": "身体质量指数",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "BMI相关表达"
+  },
+  {
+    "item_code": "w_038464",
+    "content": "indexed",
+    "meaning_zh": "已索引的；编入索引的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用词"
+  },
+  {
+    "item_code": "w_038466",
+    "content": "indexing",
+    "meaning_zh": "索引；建立索引",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句为数据库索引"
+  },
+  {
+    "item_code": "w_038470",
+    "content": "Indian susu",
+    "meaning_zh": "恒河豚；南亚河豚",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动物专名"
+  },
+  {
+    "item_code": "w_038475",
+    "content": "indication of the rank",
+    "meaning_zh": "等级标志；排名指示",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可判断"
+  },
+  {
+    "item_code": "w_038479",
+    "content": "indicators of success",
+    "meaning_zh": "成功指标",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见评估表达"
+  }
+]

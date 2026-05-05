@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_073800",
+    "content": "the Kalahari Desert",
+    "meaning_zh": "卡拉哈里沙漠",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地理专有名词"
+  },
+  {
+    "item_code": "w_073803",
+    "content": "the Kingdom of Bicycles",
+    "meaning_zh": "自行车王国",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定称谓"
+  },
+  {
+    "item_code": "w_073805",
+    "content": "The Lancang-Mekong Cooperation mechanism",
+    "meaning_zh": "澜沧江-湄公河合作机制",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "国际合作机制名称"
+  },
+  {
+    "item_code": "w_073812",
+    "content": "the latest gadgets",
+    "meaning_zh": "最新的小器具；最新电子产品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_073813",
+    "content": "the latest rage",
+    "meaning_zh": "最新潮流；最流行的事物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_073815",
+    "content": "the latter step",
+    "meaning_zh": "后一步；后一阶段",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解但少见"
+  },
+  {
+    "item_code": "w_073817",
+    "content": "the learned",
+    "meaning_zh": "有学问的人；学者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "the加形容词表群体"
+  },
+  {
+    "item_code": "w_073818",
+    "content": "the legal issues",
+    "meaning_zh": "法律问题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_073819",
+    "content": "the liberal arts",
+    "meaning_zh": "文科；人文学科",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学科固定说法"
+  },
+  {
+    "item_code": "w_073823",
+    "content": "the local culture",
+    "meaning_zh": "当地文化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持"
+  },
+  {
+    "item_code": "w_073827",
+    "content": "the Long Now Foundation",
+    "meaning_zh": "长远现在基金会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "机构专有名词"
+  },
+  {
+    "item_code": "w_073828",
+    "content": "the long-term development of",
+    "meaning_zh": "……的长期发展",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_073829",
+    "content": "the lotus flower",
+    "meaning_zh": "莲花；荷花",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见植物名"
+  },
+  {
+    "item_code": "w_073830",
+    "content": "the Lower Chamber",
+    "meaning_zh": "下议院",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治术语"
+  },
+  {
+    "item_code": "w_073832",
+    "content": "the lron Age",
+    "meaning_zh": "铁器时代",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_073834",
+    "content": "the magnetic earth",
+    "meaning_zh": "有磁性的地球；地球磁场现象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "需语境确认"
+  },
+  {
+    "item_code": "w_073839",
+    "content": "the majority of people",
+    "meaning_zh": "大多数人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持"
+  },
+  {
+    "item_code": "w_073840",
+    "content": "the Manchu Nationality",
+    "meaning_zh": "满族",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "民族名称"
+  },
+  {
+    "item_code": "w_073841",
+    "content": "the market economy system",
+    "meaning_zh": "市场经济体制",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济术语"
+  },
+  {
+    "item_code": "w_073849",
+    "content": "the Medici",
+    "meaning_zh": "美第奇家族",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "历史家族名称"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_045765",
+    "content": "market department",
+    "meaning_zh": "市场部",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "商务组织常见表达"
+  },
+  {
+    "item_code": "w_045770",
+    "content": "market illiquidity",
+    "meaning_zh": "市场流动性不足",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融术语"
+  },
+  {
+    "item_code": "w_045771",
+    "content": "market inquiry",
+    "meaning_zh": "市场询价；市场调查",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "商务语境常见"
+  },
+  {
+    "item_code": "w_045779",
+    "content": "market portion",
+    "meaning_zh": "市场份额",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "近似商务搭配"
+  },
+  {
+    "item_code": "w_045786",
+    "content": "market-based economy",
+    "meaning_zh": "市场经济",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定经济表达"
+  },
+  {
+    "item_code": "w_045802",
+    "content": "marketing gimmick",
+    "meaning_zh": "营销噱头",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见贬义搭配"
+  },
+  {
+    "item_code": "w_045808",
+    "content": "marketing success",
+    "meaning_zh": "营销成功",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商务搭配"
+  },
+  {
+    "item_code": "w_045824",
+    "content": "marriage announcement",
+    "meaning_zh": "婚讯；结婚公告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_045826",
+    "content": "marriage couple",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_045828",
+    "content": "marriage to",
+    "meaning_zh": "与……的婚姻",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "介词搭配表达"
+  },
+  {
+    "item_code": "w_045830",
+    "content": "married to",
+    "meaning_zh": "与……结婚；嫁给；娶了",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_045835",
+    "content": "marrow fundus",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无可靠固定搭配"
+  },
+  {
+    "item_code": "w_045844",
+    "content": "marsh weary",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_045857",
+    "content": "martial arts master",
+    "meaning_zh": "武术大师",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定名词短语"
+  },
+  {
+    "item_code": "w_045864",
+    "content": "martinette",
+    "meaning_zh": "严厉执行纪律的人",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见词但可释义"
+  },
+  {
+    "item_code": "w_045866",
+    "content": "Marty Fielding",
+    "meaning_zh": "马蒂·菲尔丁",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "人名音译"
+  },
+  {
+    "item_code": "w_045873",
+    "content": "marvel over",
+    "meaning_zh": "对……感到惊奇",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_045877",
+    "content": "marvelous embolism",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配语义异常"
+  },
+  {
+    "item_code": "w_045884",
+    "content": "mary wedding",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似错误短语"
+  },
+  {
+    "item_code": "w_045886",
+    "content": "Mary-Kate Olsen",
+    "meaning_zh": "玛丽-凯特·奥尔森",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "知名人名"
+  }
+]

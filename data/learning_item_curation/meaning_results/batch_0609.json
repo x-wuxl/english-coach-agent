@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_059912",
+    "content": "rag-eared",
+    "meaning_zh": "耳朵破烂的；耳朵参差不齐的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见形容词"
+  },
+  {
+    "item_code": "w_059916",
+    "content": "ragged verse",
+    "meaning_zh": "不规则诗体；参差不齐的诗句",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "文学搭配"
+  },
+  {
+    "item_code": "w_059921",
+    "content": "ragtime music",
+    "meaning_zh": "拉格泰姆音乐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "音乐术语"
+  },
+  {
+    "item_code": "w_059923",
+    "content": "raidable",
+    "meaning_zh": "可突袭的；可搜查的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常规派生词"
+  },
+  {
+    "item_code": "w_059928",
+    "content": "rail chime",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不常见难判断"
+  },
+  {
+    "item_code": "w_059929",
+    "content": "rail goods track",
+    "meaning_zh": "铁路货运轨道",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "铁路领域搭配"
+  },
+  {
+    "item_code": "w_059930",
+    "content": "rail rapine",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_059942",
+    "content": "railway museum",
+    "meaning_zh": "铁路博物馆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_059943",
+    "content": "railway operation plan",
+    "meaning_zh": "铁路运营计划",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "行业术语搭配"
+  },
+  {
+    "item_code": "w_059945",
+    "content": "railway railroad platform",
+    "meaning_zh": "火车站站台",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "railway railroad重复"
+  },
+  {
+    "item_code": "w_059947",
+    "content": "railway tracks",
+    "meaning_zh": "铁轨；铁路轨道",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_059950",
+    "content": "rain boots",
+    "meaning_zh": "雨靴",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活词"
+  },
+  {
+    "item_code": "w_059954",
+    "content": "rain fretter",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_059956",
+    "content": "rain rod",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不常见难判断"
+  },
+  {
+    "item_code": "w_059967",
+    "content": "rainforest habitat",
+    "meaning_zh": "雨林栖息地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态主题搭配"
+  },
+  {
+    "item_code": "w_059968",
+    "content": "rainforest lodge",
+    "meaning_zh": "雨林旅舍；雨林小屋",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅游住宿搭配"
+  },
+  {
+    "item_code": "w_059969",
+    "content": "rainforests of the sea",
+    "meaning_zh": "海洋雨林；珊瑚礁",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常指珊瑚礁"
+  },
+  {
+    "item_code": "w_059976",
+    "content": "rainy water",
+    "meaning_zh": "雨水",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "表达不如rainwater自然"
+  },
+  {
+    "item_code": "w_059978",
+    "content": "raise a cheer",
+    "meaning_zh": "发出欢呼；欢呼起来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词短语"
+  },
+  {
+    "item_code": "w_059982",
+    "content": "raise eyebrows",
+    "meaning_zh": "引起惊讶；招来非议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见习语"
+  }
+]

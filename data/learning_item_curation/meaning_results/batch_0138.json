@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_012316",
+    "content": "caricature contrast",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配，疑似噪声"
+  },
+  {
+    "item_code": "w_012317",
+    "content": "caricature palaver",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配，疑似噪声"
+  },
+  {
+    "item_code": "w_012327",
+    "content": "Carlos Gardel",
+    "meaning_zh": "卡洛斯·加德尔，探戈歌手",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人名，专有名词"
+  },
+  {
+    "item_code": "w_012328",
+    "content": "carmagin",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_012354",
+    "content": "carpal",
+    "meaning_zh": "腕骨的；腕部的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见医学术语"
+  },
+  {
+    "item_code": "w_012358",
+    "content": "carpenter painter",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配，疑似噪声"
+  },
+  {
+    "item_code": "w_012374",
+    "content": "carries",
+    "meaning_zh": "携带；销售；承担",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句对应carry三单"
+  },
+  {
+    "item_code": "w_012377",
+    "content": "carrot intersperse",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配，疑似噪声"
+  },
+  {
+    "item_code": "w_012384",
+    "content": "carry cash",
+    "meaning_zh": "携带现金",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活搭配"
+  },
+  {
+    "item_code": "w_012394",
+    "content": "carry out one's promise",
+    "meaning_zh": "履行承诺",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词短语"
+  },
+  {
+    "item_code": "w_012395",
+    "content": "carry out one's work",
+    "meaning_zh": "开展工作；完成工作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_012396",
+    "content": "carry out the task",
+    "meaning_zh": "执行任务；完成任务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_012400",
+    "content": "carry the brunt of",
+    "meaning_zh": "承受最沉重的打击",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "近似固定表达"
+  },
+  {
+    "item_code": "w_012406",
+    "content": "carry-on bags",
+    "meaning_zh": "随身行李；登机行李",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅行常用表达"
+  },
+  {
+    "item_code": "w_012416",
+    "content": "carth",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_012418",
+    "content": "cartilage chromosome",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配，疑似噪声"
+  },
+  {
+    "item_code": "w_012425",
+    "content": "cartoon molar charter anxiety",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠，疑似噪声"
+  },
+  {
+    "item_code": "w_012430",
+    "content": "cartridge flourish",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配，疑似噪声"
+  },
+  {
+    "item_code": "w_012459",
+    "content": "cash award",
+    "meaning_zh": "现金奖励",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_012467",
+    "content": "cash free system",
+    "meaning_zh": "无现金系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见支付相关表达"
+  }
+]

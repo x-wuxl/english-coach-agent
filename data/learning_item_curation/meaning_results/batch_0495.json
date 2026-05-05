@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_047747",
+    "content": "moderate reject bear",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无可靠含义"
+  },
+  {
+    "item_code": "w_047748",
+    "content": "moderate tempo",
+    "meaning_zh": "中等速度；适中的节奏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见音乐或节奏搭配"
+  },
+  {
+    "item_code": "w_047750",
+    "content": "moderately loose monetary policy",
+    "meaning_zh": "适度宽松的货币政策",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济政策固定表达"
+  },
+  {
+    "item_code": "w_047756",
+    "content": "modern acrobatics",
+    "meaning_zh": "现代杂技",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "艺术领域常见搭配"
+  },
+  {
+    "item_code": "w_047757",
+    "content": "modern airport",
+    "meaning_zh": "现代化机场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_047758",
+    "content": "modern animals",
+    "meaning_zh": "现代动物；现生动物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "生物语境可能指现生动物"
+  },
+  {
+    "item_code": "w_047763",
+    "content": "modern facility",
+    "meaning_zh": "现代化设施",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_047764",
+    "content": "modern hospital management system",
+    "meaning_zh": "现代医院管理系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "管理领域名词短语"
+  },
+  {
+    "item_code": "w_047767",
+    "content": "Modern Language Association",
+    "meaning_zh": "现代语言协会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有组织名称"
+  },
+  {
+    "item_code": "w_047770",
+    "content": "modern maritime combat system",
+    "meaning_zh": "现代海上作战系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "军事技术名词短语"
+  },
+  {
+    "item_code": "w_047771",
+    "content": "modern metropolitan area",
+    "meaning_zh": "现代大都市区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "城市研究常见搭配"
+  },
+  {
+    "item_code": "w_047773",
+    "content": "modern poetry",
+    "meaning_zh": "现代诗歌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文学领域常见搭配"
+  },
+  {
+    "item_code": "w_047774",
+    "content": "modern sculpture",
+    "meaning_zh": "现代雕塑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "艺术领域常见搭配"
+  },
+  {
+    "item_code": "w_047776",
+    "content": "modern vocational education",
+    "meaning_zh": "现代职业教育",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育领域名词短语"
+  },
+  {
+    "item_code": "w_047778",
+    "content": "modern-day workplace",
+    "meaning_zh": "当代职场；现代工作场所",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职场语境常见表达"
+  },
+  {
+    "item_code": "w_047785",
+    "content": "modernist aesthetics",
+    "meaning_zh": "现代主义美学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "艺术理论术语"
+  },
+  {
+    "item_code": "w_047792",
+    "content": "modernized economy",
+    "meaning_zh": "现代化经济",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济领域常见搭配"
+  },
+  {
+    "item_code": "w_047794",
+    "content": "modest policy",
+    "meaning_zh": "温和的政策；适度的政策",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缺少语境但含义可判断"
+  },
+  {
+    "item_code": "w_047795",
+    "content": "modest reserved",
+    "meaning_zh": "谦虚而内敛的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "近义形容词组合"
+  },
+  {
+    "item_code": "w_047798",
+    "content": "modesty rot",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无可靠含义"
+  }
+]

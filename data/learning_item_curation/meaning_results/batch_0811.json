@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_080151",
+    "content": "Water Festival",
+    "meaning_zh": "泼水节",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "节日专名"
+  },
+  {
+    "item_code": "w_080165",
+    "content": "water recreation",
+    "meaning_zh": "水上娱乐活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_080166",
+    "content": "water recycling factory",
+    "meaning_zh": "水回收处理厂",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保设施名称"
+  },
+  {
+    "item_code": "w_080168",
+    "content": "water resource conservation zone",
+    "meaning_zh": "水资源保护区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专业区域名称"
+  },
+  {
+    "item_code": "w_080173",
+    "content": "water slide",
+    "meaning_zh": "水滑梯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见游乐设施"
+  },
+  {
+    "item_code": "w_080177",
+    "content": "water the flowers",
+    "meaning_zh": "给花浇水",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_080183",
+    "content": "water-insoluble dye",
+    "meaning_zh": "水不溶性染料",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "化学术语短语"
+  },
+  {
+    "item_code": "w_080187",
+    "content": "water-soluble compound",
+    "meaning_zh": "水溶性化合物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "化学术语短语"
+  },
+  {
+    "item_code": "w_080190",
+    "content": "water-splashing carnival",
+    "meaning_zh": "泼水狂欢节",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "节庆活动名称"
+  },
+  {
+    "item_code": "w_080203",
+    "content": "watering plants",
+    "meaning_zh": "给植物浇水",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动名词短语"
+  },
+  {
+    "item_code": "w_080204",
+    "content": "watering the plants",
+    "meaning_zh": "给植物浇水",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动名词短语"
+  },
+  {
+    "item_code": "w_080208",
+    "content": "waterlogged road section",
+    "meaning_zh": "积水路段",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通场景短语"
+  },
+  {
+    "item_code": "w_080234",
+    "content": "wave at",
+    "meaning_zh": "向……挥手",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_080238",
+    "content": "wave goodbye to",
+    "meaning_zh": "向……挥手告别",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_080240",
+    "content": "wave hello to sb.",
+    "meaning_zh": "向某人挥手问好",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_080243",
+    "content": "wave signal shrug",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词串噪声"
+  },
+  {
+    "item_code": "w_080258",
+    "content": "wax figure museum",
+    "meaning_zh": "蜡像馆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见场所名称"
+  },
+  {
+    "item_code": "w_080260",
+    "content": "wax wig",
+    "meaning_zh": "蜡制假发",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按词组含义判断"
+  },
+  {
+    "item_code": "w_080270",
+    "content": "way off base",
+    "meaning_zh": "大错特错；完全不正确",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语含义明确"
+  },
+  {
+    "item_code": "w_080276",
+    "content": "wayne",
+    "meaning_zh": "韦恩",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见英文人名"
+  }
+]

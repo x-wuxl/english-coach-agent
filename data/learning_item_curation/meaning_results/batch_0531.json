@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_051603",
+    "content": "on memory of",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似错误搭配"
+  },
+  {
+    "item_code": "w_051604",
+    "content": "on modern lines",
+    "meaning_zh": "按现代方式；以现代风格",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_051605",
+    "content": "on my way",
+    "meaning_zh": "在路上；即将前往",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持"
+  },
+  {
+    "item_code": "w_051613",
+    "content": "on one level...",
+    "meaning_zh": "从某一层面看；在某种程度上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见表达含省略"
+  },
+  {
+    "item_code": "w_051616",
+    "content": "on one's arrival",
+    "meaning_zh": "某人一到达时",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "时间搭配"
+  },
+  {
+    "item_code": "w_051618",
+    "content": "on one's break",
+    "meaning_zh": "在某人休息期间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见口语搭配"
+  },
+  {
+    "item_code": "w_051623",
+    "content": "on one's guard against",
+    "meaning_zh": "提防；警惕",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_051630",
+    "content": "on one's own behalf",
+    "meaning_zh": "代表自己；为自己的利益",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_051633",
+    "content": "on one's side",
+    "meaning_zh": "支持某人；站在某人一边",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_051646",
+    "content": "on sb.'s behalf",
+    "meaning_zh": "代表某人；为了某人的利益",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_051647",
+    "content": "on sb.'s own",
+    "meaning_zh": "独自地；靠自己",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_051648",
+    "content": "on sb.'s part",
+    "meaning_zh": "就某人而言；由某人所为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_051660",
+    "content": "on such a scale",
+    "meaning_zh": "以如此规模",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "规模表达"
+  },
+  {
+    "item_code": "w_051661",
+    "content": "on Sundays",
+    "meaning_zh": "在星期日；每逢星期日",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持"
+  },
+  {
+    "item_code": "w_051665",
+    "content": "on that count",
+    "meaning_zh": "在那一点上；就那方面而言",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_051669",
+    "content": "on the alert for",
+    "meaning_zh": "警惕；留心寻找",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_051674",
+    "content": "on the basis",
+    "meaning_zh": "在此基础上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配不完整"
+  },
+  {
+    "item_code": "w_051683",
+    "content": "on the cliff",
+    "meaning_zh": "在悬崖上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地点短语"
+  },
+  {
+    "item_code": "w_051684",
+    "content": "on the condition of",
+    "meaning_zh": "以……为条件；在……条件下",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "近似固定搭配"
+  },
+  {
+    "item_code": "w_051697",
+    "content": "on the foundation of",
+    "meaning_zh": "在……基础上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  }
+]

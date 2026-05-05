@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_008359",
+    "content": "beat doing sth.",
+    "meaning_zh": "胜过做某事；比做某事更好",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_008364",
+    "content": "beat sb. to death",
+    "meaning_zh": "把某人打死",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_008385",
+    "content": "Beautiful China",
+    "meaning_zh": "美丽中国",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政策表达"
+  },
+  {
+    "item_code": "w_008389",
+    "content": "beautify our life",
+    "meaning_zh": "美化我们的生活",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动宾短语"
+  },
+  {
+    "item_code": "w_008391",
+    "content": "beauty beautiful attractive",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词串非规范词条"
+  },
+  {
+    "item_code": "w_008394",
+    "content": "beauty saloon",
+    "meaning_zh": "美容院",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为salon误拼"
+  },
+  {
+    "item_code": "w_008395",
+    "content": "beauty saloons",
+    "meaning_zh": "美容院",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为salons误拼"
+  },
+  {
+    "item_code": "w_008396",
+    "content": "beauty service",
+    "meaning_zh": "美容服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_008411",
+    "content": "become a success",
+    "meaning_zh": "取得成功；成为成功者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_008412",
+    "content": "become absorbed in",
+    "meaning_zh": "全神贯注于；沉浸于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_008417",
+    "content": "become adapted to",
+    "meaning_zh": "适应；变得适合",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_008418",
+    "content": "become addicted to",
+    "meaning_zh": "对……上瘾；沉迷于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_008419",
+    "content": "become associated with",
+    "meaning_zh": "与……有关联；与……联系起来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_008420",
+    "content": "become attracted to sth.",
+    "meaning_zh": "被某事物吸引；喜欢上某物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_008421",
+    "content": "become available",
+    "meaning_zh": "变得可用；开始供应",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_008423",
+    "content": "become concerned about",
+    "meaning_zh": "开始关心；变得担忧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_008424",
+    "content": "become depleted",
+    "meaning_zh": "被耗尽；变得匮乏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常见表达"
+  },
+  {
+    "item_code": "w_008425",
+    "content": "become embedded in sth.",
+    "meaning_zh": "嵌入某物；深深融入某事物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_008426",
+    "content": "become far removed from",
+    "meaning_zh": "与……相距甚远；与……大不相同",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_008427",
+    "content": "become fond of",
+    "meaning_zh": "喜欢上；逐渐喜爱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  }
+]

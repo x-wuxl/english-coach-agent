@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_057254",
+    "content": "precious artwork",
+    "meaning_zh": "珍贵的艺术品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_057255",
+    "content": "precious chance",
+    "meaning_zh": "宝贵的机会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_057257",
+    "content": "precious resource",
+    "meaning_zh": "宝贵资源",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_057264",
+    "content": "precipitate stride",
+    "meaning_zh": "急促的步伐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配少见但可理解"
+  },
+  {
+    "item_code": "w_057266",
+    "content": "precipitation change",
+    "meaning_zh": "降水变化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "气象学常见表达"
+  },
+  {
+    "item_code": "w_057267",
+    "content": "precipitation enhancement",
+    "meaning_zh": "降水增强；人工增雨",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "气象学术语"
+  },
+  {
+    "item_code": "w_057274",
+    "content": "precise elevation",
+    "meaning_zh": "精确海拔；精确高度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "地理测量搭配"
+  },
+  {
+    "item_code": "w_057276",
+    "content": "precise recent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_057278",
+    "content": "precisely describe sth.",
+    "meaning_zh": "准确描述某事物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_057280",
+    "content": "precision contact",
+    "meaning_zh": "精密接触",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术搭配可理解"
+  },
+  {
+    "item_code": "w_057281",
+    "content": "precision electromagnetic roadway",
+    "meaning_zh": "精密电磁道路",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "low",
+    "reason": "疑似技术术语"
+  },
+  {
+    "item_code": "w_057287",
+    "content": "precocious imbibe",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语搭配异常"
+  },
+  {
+    "item_code": "w_057296",
+    "content": "preconditions",
+    "meaning_zh": "前提条件；前置条件",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语常见"
+  },
+  {
+    "item_code": "w_057299",
+    "content": "pred",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写残片含义不明"
+  },
+  {
+    "item_code": "w_057306",
+    "content": "predatory mammals",
+    "meaning_zh": "食肉性哺乳动物；捕食性哺乳动物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生物学常见搭配"
+  },
+  {
+    "item_code": "w_057320",
+    "content": "predict an earthquake",
+    "meaning_zh": "预测地震",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_057321",
+    "content": "predict weather",
+    "meaning_zh": "预测天气",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_057335",
+    "content": "predo",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词"
+  },
+  {
+    "item_code": "w_057344",
+    "content": "preeminent blunt",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "形容词堆叠异常"
+  },
+  {
+    "item_code": "w_057358",
+    "content": "preface vapid",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  }
+]

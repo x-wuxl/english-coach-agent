@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_048535",
+    "content": "mult",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写残片含义不明"
+  },
+  {
+    "item_code": "w_048539",
+    "content": "multi-burial grave",
+    "meaning_zh": "多人合葬墓",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "考古类固定说法"
+  },
+  {
+    "item_code": "w_048547",
+    "content": "multi-department structure",
+    "meaning_zh": "多部门结构；多部门组织架构",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "管理组织常见搭配"
+  },
+  {
+    "item_code": "w_048552",
+    "content": "multi-media and video conferencing",
+    "meaning_zh": "多媒体和视频会议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术服务类搭配"
+  },
+  {
+    "item_code": "w_048553",
+    "content": "multi-media classrooms",
+    "meaning_zh": "多媒体教室",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育场景常见搭配"
+  },
+  {
+    "item_code": "w_048557",
+    "content": "multi-path redundancy",
+    "meaning_zh": "多路径冗余",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "通信技术术语"
+  },
+  {
+    "item_code": "w_048570",
+    "content": "multicultural society",
+    "meaning_zh": "多元文化社会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "社会话题常见搭配"
+  },
+  {
+    "item_code": "w_048596",
+    "content": "multimedia resources",
+    "meaning_zh": "多媒体资源",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育技术常见搭配"
+  },
+  {
+    "item_code": "w_048619",
+    "content": "multiple terrorist attacks",
+    "meaning_zh": "多起恐怖袭击",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "新闻语境常见表达"
+  },
+  {
+    "item_code": "w_048633",
+    "content": "multiprocessing",
+    "meaning_zh": "多进程处理；多处理",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_048638",
+    "content": "multiset",
+    "meaning_zh": "多重集",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "数学和计算机术语"
+  },
+  {
+    "item_code": "w_048646",
+    "content": "multitude of",
+    "meaning_zh": "大量的；许多的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持该含义"
+  },
+  {
+    "item_code": "w_048658",
+    "content": "mumble grin",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组搭配不自然"
+  },
+  {
+    "item_code": "w_048659",
+    "content": "mummer",
+    "meaning_zh": "哑剧演员；化装表演者",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "罕见但有效词汇"
+  },
+  {
+    "item_code": "w_048660",
+    "content": "mummer playwright",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配生硬含义不明"
+  },
+  {
+    "item_code": "w_048666",
+    "content": "munch panic",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组搭配不自然"
+  },
+  {
+    "item_code": "w_048669",
+    "content": "mundane dilate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词性组合不成搭配"
+  },
+  {
+    "item_code": "w_048675",
+    "content": "municipal library",
+    "meaning_zh": "市立图书馆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "公共设施常见搭配"
+  },
+  {
+    "item_code": "w_048676",
+    "content": "municipal project",
+    "meaning_zh": "市政项目；市政工程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "城市建设常见搭配"
+  },
+  {
+    "item_code": "w_048680",
+    "content": "munificent splinter",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组搭配不自然"
+  }
+]

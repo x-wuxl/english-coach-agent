@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_005368",
+    "content": "at the time that",
+    "meaning_zh": "在……的时候；当……时",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "时间连接短语"
+  },
+  {
+    "item_code": "w_005372",
+    "content": "at the very thought",
+    "meaning_zh": "一想到……就",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_005376",
+    "content": "at this job",
+    "meaning_zh": "在这份工作中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "普通介词短语"
+  },
+  {
+    "item_code": "w_005396",
+    "content": "ate ice-cream",
+    "meaning_zh": "吃了冰淇淋",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词短语"
+  },
+  {
+    "item_code": "w_005397",
+    "content": "ate lunch",
+    "meaning_zh": "吃了午饭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句一致"
+  },
+  {
+    "item_code": "w_005398",
+    "content": "ate some cotton candy",
+    "meaning_zh": "吃了一些棉花糖",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词短语"
+  },
+  {
+    "item_code": "w_005401",
+    "content": "atest",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_005405",
+    "content": "athelian",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_005421",
+    "content": "athletic center",
+    "meaning_zh": "体育中心；运动中心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_005423",
+    "content": "athletic shoe industry",
+    "meaning_zh": "运动鞋行业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "行业术语短语"
+  },
+  {
+    "item_code": "w_005424",
+    "content": "athletic shoe market",
+    "meaning_zh": "运动鞋市场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商业场景短语"
+  },
+  {
+    "item_code": "w_005426",
+    "content": "athletic specialty store",
+    "meaning_zh": "运动用品专卖店",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "零售场景短语"
+  },
+  {
+    "item_code": "w_005450",
+    "content": "atmospheric temperatures",
+    "meaning_zh": "大气温度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "科学术语短语"
+  },
+  {
+    "item_code": "w_005456",
+    "content": "atom of",
+    "meaning_zh": "……的原子；一点儿……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "需上下文补足"
+  },
+  {
+    "item_code": "w_005461",
+    "content": "atomic hydrogen gas",
+    "meaning_zh": "原子氢气体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "化学术语短语"
+  },
+  {
+    "item_code": "w_005470",
+    "content": "atomicity",
+    "meaning_zh": "原子性；不可分割性",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_005476",
+    "content": "atone hundrem repertoire jat",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声组合"
+  },
+  {
+    "item_code": "w_005482",
+    "content": "ator",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似残片噪声"
+  },
+  {
+    "item_code": "w_005505",
+    "content": "attach attention to",
+    "meaning_zh": "重视；关注",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑似搭配变体"
+  },
+  {
+    "item_code": "w_005506",
+    "content": "attach great importance to",
+    "meaning_zh": "高度重视",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  }
+]

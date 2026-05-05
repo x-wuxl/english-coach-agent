@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_041570",
+    "content": "kindergarten crunch",
+    "meaning_zh": "幼儿园入学名额紧张",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "教育领域固定表达"
+  },
+  {
+    "item_code": "w_041573",
+    "content": "kindle ethic",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配生硬疑似噪声"
+  },
+  {
+    "item_code": "w_041588",
+    "content": "kinetics denote lesion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无可靠含义"
+  },
+  {
+    "item_code": "w_041597",
+    "content": "King Nestor",
+    "meaning_zh": "涅斯托耳国王",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "希腊神话专有名词"
+  },
+  {
+    "item_code": "w_041614",
+    "content": "kirk",
+    "meaning_zh": "教堂",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "苏格兰英语常见义"
+  },
+  {
+    "item_code": "w_041621",
+    "content": "kit feeble property",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无可靠含义"
+  },
+  {
+    "item_code": "w_041642",
+    "content": "kitten-killing",
+    "meaning_zh": "杀害小猫的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_041643",
+    "content": "kittens",
+    "meaning_zh": "小猫",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_041645",
+    "content": "Kituro",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "low",
+    "reason": "疑似专名无上下文"
+  },
+  {
+    "item_code": "w_041653",
+    "content": "klinger",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似人名或噪声"
+  },
+  {
+    "item_code": "w_041664",
+    "content": "knee foot toe",
+    "meaning_zh": "膝盖、脚和脚趾",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "身体部位词组"
+  },
+  {
+    "item_code": "w_041679",
+    "content": "Knight Foundation",
+    "meaning_zh": "奈特基金会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "机构专有名词"
+  },
+  {
+    "item_code": "w_041681",
+    "content": "knights",
+    "meaning_zh": "骑士；爵士",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见复数名词"
+  },
+  {
+    "item_code": "w_041684",
+    "content": "knit illiterate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配生硬疑似噪声"
+  },
+  {
+    "item_code": "w_041685",
+    "content": "knit paul",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无可靠含义"
+  },
+  {
+    "item_code": "w_041690",
+    "content": "knive",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_041693",
+    "content": "knob serpent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无可靠含义"
+  },
+  {
+    "item_code": "w_041701",
+    "content": "knock at the window",
+    "meaning_zh": "敲窗户",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动作短语"
+  },
+  {
+    "item_code": "w_041703",
+    "content": "knock in a nail",
+    "meaning_zh": "钉钉子",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动作短语"
+  },
+  {
+    "item_code": "w_041707",
+    "content": "knock off the price",
+    "meaning_zh": "降低价格；减价",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常用短语"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_025763",
+    "content": "excessive hunting",
+    "meaning_zh": "过度捕猎",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见环保搭配"
+  },
+  {
+    "item_code": "w_025764",
+    "content": "excessive packaging",
+    "meaning_zh": "过度包装",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见环保消费搭配"
+  },
+  {
+    "item_code": "w_025765",
+    "content": "excessive permissiveness",
+    "meaning_zh": "过度纵容；过分宽容",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育社会类常见表达"
+  },
+  {
+    "item_code": "w_025776",
+    "content": "exchange information with sb.",
+    "meaning_zh": "与某人交换信息",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_025780",
+    "content": "exchange sore",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_025788",
+    "content": "excise A from B",
+    "meaning_zh": "从B中切除A；从B中删除A",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词搭配结构明确"
+  },
+  {
+    "item_code": "w_025801",
+    "content": "excitement of life",
+    "meaning_zh": "生活的激情；人生的兴奋感",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可判断"
+  },
+  {
+    "item_code": "w_025809",
+    "content": "exclude arena battery",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无可靠整体含义"
+  },
+  {
+    "item_code": "w_025812",
+    "content": "excluding bye spend",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似随机词串"
+  },
+  {
+    "item_code": "w_025814",
+    "content": "exclusion compose",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_025822",
+    "content": "exclusive predicate baggage",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词串"
+  },
+  {
+    "item_code": "w_025828",
+    "content": "excoriate obtuse",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无自然整体含义"
+  },
+  {
+    "item_code": "w_025837",
+    "content": "excruciate refractory solvent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似随机词串"
+  },
+  {
+    "item_code": "w_025839",
+    "content": "excruciating drama",
+    "meaning_zh": "令人极度痛苦的戏剧；难熬的戏剧性事件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可解释但不常见"
+  },
+  {
+    "item_code": "w_025845",
+    "content": "excursion souvenir constitution",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无可靠整体含义"
+  },
+  {
+    "item_code": "w_025848",
+    "content": "excursive camouflage",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_025859",
+    "content": "execrate sprawl",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缺少上下文难判断"
+  },
+  {
+    "item_code": "w_025861",
+    "content": "execrval",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_025866",
+    "content": "execute geriatric swift slough",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似随机词串"
+  },
+  {
+    "item_code": "w_025870",
+    "content": "executive broaden",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_005509",
+    "content": "attach more importance to",
+    "meaning_zh": "更加重视",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_005510",
+    "content": "attach oneself to",
+    "meaning_zh": "依附于；加入并跟随",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_005511",
+    "content": "attach significance to",
+    "meaning_zh": "重视；认为重要",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_005512",
+    "content": "attach significance to sth.",
+    "meaning_zh": "重视某事；认为某事重要",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_005519",
+    "content": "attached secondary school",
+    "meaning_zh": "附属中学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育类常用表达"
+  },
+  {
+    "item_code": "w_005521",
+    "content": "attached to parents",
+    "meaning_zh": "依恋父母",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "心理情感表达"
+  },
+  {
+    "item_code": "w_005523",
+    "content": "attachment in relationships",
+    "meaning_zh": "关系中的依恋",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "心理学常用义"
+  },
+  {
+    "item_code": "w_005525",
+    "content": "attaché",
+    "meaning_zh": "使馆随员；专员",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "外交职务，例句不匹配"
+  },
+  {
+    "item_code": "w_005526",
+    "content": "attaché case",
+    "meaning_zh": "公文包",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_005529",
+    "content": "attack humans",
+    "meaning_zh": "攻击人类",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动宾搭配"
+  },
+  {
+    "item_code": "w_005534",
+    "content": "attain knowledge",
+    "meaning_zh": "获得知识",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_005540",
+    "content": "attempt handle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不完整"
+  },
+  {
+    "item_code": "w_005546",
+    "content": "attend graduate school",
+    "meaning_zh": "读研究生；上研究生院",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育场景常用"
+  },
+  {
+    "item_code": "w_005547",
+    "content": "attend school",
+    "meaning_zh": "上学；到校上课",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持"
+  },
+  {
+    "item_code": "w_005548",
+    "content": "attend the birthday celebrations",
+    "meaning_zh": "参加生日庆祝活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见活动表达"
+  },
+  {
+    "item_code": "w_005549",
+    "content": "attend the conference",
+    "meaning_zh": "参加会议；出席会议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术场景常用"
+  },
+  {
+    "item_code": "w_005550",
+    "content": "attend the meeting",
+    "meaning_zh": "参加会议；出席会议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持"
+  },
+  {
+    "item_code": "w_005551",
+    "content": "attend the tournament",
+    "meaning_zh": "参加锦标赛；出席比赛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "赛事场景表达"
+  },
+  {
+    "item_code": "w_005555",
+    "content": "attend university",
+    "meaning_zh": "上大学；读大学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育场景常用"
+  },
+  {
+    "item_code": "w_005558",
+    "content": "attendance resume carnival",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无明确含义"
+  }
+]

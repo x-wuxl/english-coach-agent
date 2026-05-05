@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_047802",
+    "content": "modification air",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立疑似噪声"
+  },
+  {
+    "item_code": "w_047806",
+    "content": "modify exclusive",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立疑似噪声"
+  },
+  {
+    "item_code": "w_047807",
+    "content": "modify inevitable brand",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠疑似噪声"
+  },
+  {
+    "item_code": "w_047815",
+    "content": "module object",
+    "meaning_zh": "模块对象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "计算机术语搭配"
+  },
+  {
+    "item_code": "w_047816",
+    "content": "module spec",
+    "meaning_zh": "模块规范；模块说明",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常见缩略搭配"
+  },
+  {
+    "item_code": "w_047817",
+    "content": "modulus operator",
+    "meaning_zh": "取模运算符；求余运算符",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_047818",
+    "content": "Mogao Grottoes in Dunhuang",
+    "meaning_zh": "敦煌莫高窟",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有地名"
+  },
+  {
+    "item_code": "w_047824",
+    "content": "moist authoritative shield disguise",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠疑似噪声"
+  },
+  {
+    "item_code": "w_047828",
+    "content": "moisture-proof and rot-proof",
+    "meaning_zh": "防潮防腐的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见复合形容词"
+  },
+  {
+    "item_code": "w_047831",
+    "content": "moisturize mouthwash",
+    "meaning_zh": "保湿漱口水",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "日用品功能搭配"
+  },
+  {
+    "item_code": "w_047834",
+    "content": "mol",
+    "meaning_zh": "摩尔（物质的量单位）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见科学单位缩写"
+  },
+  {
+    "item_code": "w_047842",
+    "content": "mold ... into ...",
+    "meaning_zh": "把……塑造成……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词搭配"
+  },
+  {
+    "item_code": "w_047844",
+    "content": "mold sb. into sth.",
+    "meaning_zh": "把某人培养成某种人；把某人塑造成某种人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词搭配"
+  },
+  {
+    "item_code": "w_047855",
+    "content": "molecular hydrogen",
+    "meaning_zh": "分子氢",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "化学术语"
+  },
+  {
+    "item_code": "w_047866",
+    "content": "mollify surly",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配疑似噪声"
+  },
+  {
+    "item_code": "w_047871",
+    "content": "molly coddle annotate nanentity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "拼写异常且词语堆叠"
+  },
+  {
+    "item_code": "w_047877",
+    "content": "molton",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_047881",
+    "content": "mom-and-pop grocery",
+    "meaning_zh": "夫妻店式小杂货店；家庭经营的小杂货店",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定口语搭配"
+  },
+  {
+    "item_code": "w_047887",
+    "content": "moment wait",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "例句截断噪声"
+  },
+  {
+    "item_code": "w_047888",
+    "content": "moment-to-moment joy",
+    "meaning_zh": "每时每刻的快乐；当下即时的快乐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义清晰"
+  }
+]

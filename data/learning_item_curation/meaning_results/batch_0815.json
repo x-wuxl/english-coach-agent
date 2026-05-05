@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_080568",
+    "content": "well-off middle class",
+    "meaning_zh": "富裕的中产阶级",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会阶层表达"
+  },
+  {
+    "item_code": "w_080570",
+    "content": "well-orchestrated campaign",
+    "meaning_zh": "精心策划的运动；周密组织的宣传活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配含义明确"
+  },
+  {
+    "item_code": "w_080573",
+    "content": "well-patroled",
+    "meaning_zh": "巡逻严密的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词含义明确"
+  },
+  {
+    "item_code": "w_080579",
+    "content": "well-rounded nutritious diet",
+    "meaning_zh": "均衡而营养的饮食",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "饮食类常见表达"
+  },
+  {
+    "item_code": "w_080585",
+    "content": "well-to-do level",
+    "meaning_zh": "富裕水平",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配略生硬但可理解"
+  },
+  {
+    "item_code": "w_080592",
+    "content": "wellbeing of the people",
+    "meaning_zh": "人民福祉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治经济常见表达"
+  },
+  {
+    "item_code": "w_080596",
+    "content": "welp",
+    "meaning_zh": "好吧；唉",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "口语感叹词"
+  },
+  {
+    "item_code": "w_080603",
+    "content": "went camping",
+    "meaning_zh": "去露营了",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持短语含义"
+  },
+  {
+    "item_code": "w_080604",
+    "content": "went fishing",
+    "meaning_zh": "去钓鱼了",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持短语含义"
+  },
+  {
+    "item_code": "w_080605",
+    "content": "went to kindergarten",
+    "meaning_zh": "上幼儿园了",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "小学常用短语"
+  },
+  {
+    "item_code": "w_080608",
+    "content": "went to the beach",
+    "meaning_zh": "去了海滩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持短语含义"
+  },
+  {
+    "item_code": "w_080610",
+    "content": "were not",
+    "meaning_zh": "不是；没有",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "be动词过去否定式"
+  },
+  {
+    "item_code": "w_080612",
+    "content": "wescot",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准词形难判断"
+  },
+  {
+    "item_code": "w_080613",
+    "content": "wesley",
+    "meaning_zh": "韦斯利（人名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见英文人名"
+  },
+  {
+    "item_code": "w_080618",
+    "content": "West-East Electricity Transmission",
+    "meaning_zh": "西电东送",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "中国能源工程术语"
+  },
+  {
+    "item_code": "w_080620",
+    "content": "western animated animation",
+    "meaning_zh": "西方动画",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "表达重复不自然"
+  },
+  {
+    "item_code": "w_080622",
+    "content": "western buffet",
+    "meaning_zh": "西式自助餐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "餐饮常见搭配"
+  },
+  {
+    "item_code": "w_080626",
+    "content": "Western drug therapy",
+    "meaning_zh": "西药治疗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学治疗表达"
+  },
+  {
+    "item_code": "w_080629",
+    "content": "Western herbal medicine",
+    "meaning_zh": "西方草药医学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学术语含义明确"
+  },
+  {
+    "item_code": "w_080630",
+    "content": "western instrument",
+    "meaning_zh": "西洋乐器",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "音乐类常见表达"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_072313",
+    "content": "take off on sth.",
+    "meaning_zh": "突然开始谈论某事；离题说起某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定短语但语境不足"
+  },
+  {
+    "item_code": "w_072314",
+    "content": "take off one's hat",
+    "meaning_zh": "脱帽；表示敬意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_072316",
+    "content": "take off the gloves",
+    "meaning_zh": "不再手下留情；准备强硬对抗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见习语"
+  },
+  {
+    "item_code": "w_072317",
+    "content": "take off the hook",
+    "meaning_zh": "摘下听筒；从钩上取下",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缺少语境"
+  },
+  {
+    "item_code": "w_072325",
+    "content": "take on too much",
+    "meaning_zh": "承担过多；揽事太多",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_072326",
+    "content": "take one's advice",
+    "meaning_zh": "采纳某人的建议；听从某人的劝告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_072327",
+    "content": "take one's attention",
+    "meaning_zh": "吸引某人的注意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配较少见"
+  },
+  {
+    "item_code": "w_072329",
+    "content": "take one's break",
+    "meaning_zh": "休息一下；去休息",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_072333",
+    "content": "take one's exam",
+    "meaning_zh": "参加考试",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_072337",
+    "content": "take one's order",
+    "meaning_zh": "为某人点单；记录某人的订单",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "餐饮常用表达"
+  },
+  {
+    "item_code": "w_072340",
+    "content": "take one's position",
+    "meaning_zh": "就位；担任某人的职位；表明立场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "多义需语境"
+  },
+  {
+    "item_code": "w_072352",
+    "content": "take out the book",
+    "meaning_zh": "拿出书",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础课堂表达"
+  },
+  {
+    "item_code": "w_072353",
+    "content": "take out the rubbish",
+    "meaning_zh": "倒垃圾；把垃圾拿出去",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "日常家务表达"
+  },
+  {
+    "item_code": "w_072355",
+    "content": "take over one's business",
+    "meaning_zh": "接管某人的生意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常见搭配"
+  },
+  {
+    "item_code": "w_072356",
+    "content": "take over the position",
+    "meaning_zh": "接任该职位；接替该岗位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职场常见搭配"
+  },
+  {
+    "item_code": "w_072362",
+    "content": "take part-time jobs",
+    "meaning_zh": "做兼职工作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习搭配"
+  },
+  {
+    "item_code": "w_072363",
+    "content": "take photographs",
+    "meaning_zh": "拍照；拍摄照片",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持"
+  },
+  {
+    "item_code": "w_072364",
+    "content": "take photographs of",
+    "meaning_zh": "给……拍照；拍摄……的照片",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_072379",
+    "content": "take regular exercise",
+    "meaning_zh": "经常锻炼；定期运动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "健康主题常用"
+  },
+  {
+    "item_code": "w_072383",
+    "content": "take risk of",
+    "meaning_zh": "冒……的风险",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达应为take the risk of"
+  }
+]

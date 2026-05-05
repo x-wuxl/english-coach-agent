@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_060872",
+    "content": "redoubtable disjunctive disregard",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无固定含义"
+  },
+  {
+    "item_code": "w_060881",
+    "content": "reduce emission",
+    "meaning_zh": "减少排放",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保常用搭配"
+  },
+  {
+    "item_code": "w_060882",
+    "content": "reduce greenhouse gas emissions",
+    "meaning_zh": "减少温室气体排放",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保常用表达"
+  },
+  {
+    "item_code": "w_060883",
+    "content": "reduce health-care costs",
+    "meaning_zh": "降低医疗保健成本",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济医疗搭配"
+  },
+  {
+    "item_code": "w_060884",
+    "content": "reduce real estate inventory",
+    "meaning_zh": "减少房地产库存",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "房地产政策表达"
+  },
+  {
+    "item_code": "w_060887",
+    "content": "reduce stress and absenteeism",
+    "meaning_zh": "减轻压力并减少旷工",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职场健康搭配"
+  },
+  {
+    "item_code": "w_060888",
+    "content": "reduce study load",
+    "meaning_zh": "减轻学习负担",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育场景常用"
+  },
+  {
+    "item_code": "w_060889",
+    "content": "reduce the burden of",
+    "meaning_zh": "减轻……的负担",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_060891",
+    "content": "reduce travel time",
+    "meaning_zh": "缩短出行时间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通常用搭配"
+  },
+  {
+    "item_code": "w_060895",
+    "content": "reduced-price food",
+    "meaning_zh": "降价食品；打折食品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "购物场景搭配"
+  },
+  {
+    "item_code": "w_060898",
+    "content": "reducing tax incentives",
+    "meaning_zh": "削减税收优惠",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境不足但搭配常见"
+  },
+  {
+    "item_code": "w_060899",
+    "content": "reductio",
+    "meaning_zh": "归谬法；反证法",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "逻辑术语"
+  },
+  {
+    "item_code": "w_060906",
+    "content": "redundant parsimonious",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "并列词无固定含义"
+  },
+  {
+    "item_code": "w_060916",
+    "content": "reef sailboat",
+    "meaning_zh": "给帆船收帆；缩帆航行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "航海搭配语境不足"
+  },
+  {
+    "item_code": "w_060923",
+    "content": "reemployment service center",
+    "meaning_zh": "再就业服务中心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "机构名称表达"
+  },
+  {
+    "item_code": "w_060929",
+    "content": "reentrant",
+    "meaning_zh": "可重入的；凹入的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_060931",
+    "content": "reep",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写或噪声"
+  },
+  {
+    "item_code": "w_060936",
+    "content": "reexecuted",
+    "meaning_zh": "重新执行的；再次执行了",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词过去式常义"
+  },
+  {
+    "item_code": "w_060938",
+    "content": "refactoring",
+    "meaning_zh": "重构；代码重构",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "软件开发术语"
+  },
+  {
+    "item_code": "w_060942",
+    "content": "refer ... as",
+    "meaning_zh": "把……称作……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "应为refer to ... as"
+  }
+]

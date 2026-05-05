@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_043789",
+    "content": "local museum",
+    "meaning_zh": "当地博物馆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见地点搭配"
+  },
+  {
+    "item_code": "w_043791",
+    "content": "local nightclub",
+    "meaning_zh": "当地夜总会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见地点搭配"
+  },
+  {
+    "item_code": "w_043795",
+    "content": "local scenery",
+    "meaning_zh": "当地风景",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅游表达"
+  },
+  {
+    "item_code": "w_043796",
+    "content": "local schools",
+    "meaning_zh": "当地学校",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教育搭配"
+  },
+  {
+    "item_code": "w_043797",
+    "content": "local shops",
+    "meaning_zh": "当地商店",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活搭配"
+  },
+  {
+    "item_code": "w_043799",
+    "content": "local tourism",
+    "meaning_zh": "当地旅游业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "雅思常见主题"
+  },
+  {
+    "item_code": "w_043800",
+    "content": "local tribes",
+    "meaning_zh": "当地部落",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见人群搭配"
+  },
+  {
+    "item_code": "w_043801",
+    "content": "local variable",
+    "meaning_zh": "局部变量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_043804",
+    "content": "localised flaw",
+    "meaning_zh": "局部缺陷",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术性搭配"
+  },
+  {
+    "item_code": "w_043805",
+    "content": "localised wood density",
+    "meaning_zh": "局部木材密度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专业搭配含义明确"
+  },
+  {
+    "item_code": "w_043814",
+    "content": "local senior citizen",
+    "meaning_zh": "当地老年人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见人群表达"
+  },
+  {
+    "item_code": "w_043818",
+    "content": "location locate situated",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个词堆叠噪声"
+  },
+  {
+    "item_code": "w_043819",
+    "content": "location relative to ...",
+    "meaning_zh": "相对于……的位置",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达框架"
+  },
+  {
+    "item_code": "w_043820",
+    "content": "location scout",
+    "meaning_zh": "外景勘景员；场景侦察员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "影视行业术语"
+  },
+  {
+    "item_code": "w_043829",
+    "content": "lock key",
+    "meaning_zh": "锁和钥匙",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "基础词组但不完整"
+  },
+  {
+    "item_code": "w_043838",
+    "content": "locking",
+    "meaning_zh": "锁上；锁定",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指锁门动作"
+  },
+  {
+    "item_code": "w_043847",
+    "content": "locomotive carriage",
+    "meaning_zh": "机车车厢",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "铁路相关搭配"
+  },
+  {
+    "item_code": "w_043853",
+    "content": "lod",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写残片无法判断"
+  },
+  {
+    "item_code": "w_043857",
+    "content": "lodge an application",
+    "meaning_zh": "提交申请",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "正式固定搭配"
+  },
+  {
+    "item_code": "w_043858",
+    "content": "lodge liquor screen brag",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个无关词噪声"
+  }
+]

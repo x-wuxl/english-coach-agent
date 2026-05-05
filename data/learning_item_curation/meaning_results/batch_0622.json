@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_061078",
+    "content": "refuse a request",
+    "meaning_zh": "拒绝请求",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_061080",
+    "content": "refuse demanding",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_061081",
+    "content": "refuse landfill",
+    "meaning_zh": "垃圾填埋场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "refuse作垃圾"
+  },
+  {
+    "item_code": "w_061084",
+    "content": "refuse to take passengers",
+    "meaning_zh": "拒载",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通场景常用"
+  },
+  {
+    "item_code": "w_061088",
+    "content": "reg",
+    "meaning_zh": "寄存器（缩写）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "计算机缩写"
+  },
+  {
+    "item_code": "w_061103",
+    "content": "regarding rapid flight board",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声短语"
+  },
+  {
+    "item_code": "w_061112",
+    "content": "regenerate ascender",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无可靠搭配"
+  },
+  {
+    "item_code": "w_061126",
+    "content": "regional condition assessment",
+    "meaning_zh": "区域状况评估",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专业名词短语"
+  },
+  {
+    "item_code": "w_061128",
+    "content": "regional hegemonism",
+    "meaning_zh": "地区霸权主义",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "国际关系术语"
+  },
+  {
+    "item_code": "w_061136",
+    "content": "register trademark",
+    "meaning_zh": "注册商标",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律商务搭配"
+  },
+  {
+    "item_code": "w_061142",
+    "content": "registered school",
+    "meaning_zh": "注册学校；已登记学校",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "教育机构表达"
+  },
+  {
+    "item_code": "w_061143",
+    "content": "registered unemployment rate",
+    "meaning_zh": "登记失业率",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "统计经济术语"
+  },
+  {
+    "item_code": "w_061145",
+    "content": "registered volunteer",
+    "meaning_zh": "注册志愿者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见身份称谓"
+  },
+  {
+    "item_code": "w_061156",
+    "content": "regress skeleton",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似随机词组"
+  },
+  {
+    "item_code": "w_061158",
+    "content": "regression gigantic speculate tyrant",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声词串"
+  },
+  {
+    "item_code": "w_061164",
+    "content": "regret to do",
+    "meaning_zh": "遗憾地去做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见语法搭配"
+  },
+  {
+    "item_code": "w_061173",
+    "content": "regular exercises",
+    "meaning_zh": "定期锻炼；规律练习",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活搭配"
+  },
+  {
+    "item_code": "w_061174",
+    "content": "regular expression",
+    "meaning_zh": "正则表达式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_061177",
+    "content": "regular package",
+    "meaning_zh": "普通包；常规软件包",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "计算机场景可用"
+  },
+  {
+    "item_code": "w_061190",
+    "content": "regulate spending",
+    "meaning_zh": "调控支出；规范开支",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "财政管理搭配"
+  }
+]

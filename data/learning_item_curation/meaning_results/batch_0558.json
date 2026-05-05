@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_054412",
+    "content": "peel a banana",
+    "meaning_zh": "剥香蕉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_054423",
+    "content": "peer out of",
+    "meaning_zh": "从……向外看；探头看",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_054428",
+    "content": "peer-review-led",
+    "meaning_zh": "由同行评审主导的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_054430",
+    "content": "peering into",
+    "meaning_zh": "凝视……里面；仔细查看",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_054437",
+    "content": "peg mend",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_054441",
+    "content": "Peking",
+    "meaning_zh": "北京（旧称或旧式拼写）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有地名"
+  },
+  {
+    "item_code": "w_054443",
+    "content": "Peking Opera mask",
+    "meaning_zh": "京剧脸谱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定文化名词"
+  },
+  {
+    "item_code": "w_054444",
+    "content": "Peking Union Medical College",
+    "meaning_zh": "北京协和医学院",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "机构专有名词"
+  },
+  {
+    "item_code": "w_054447",
+    "content": "Pele, Goddess of Volcanoes",
+    "meaning_zh": "佩蕾，火山女神",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "神话专有名词"
+  },
+  {
+    "item_code": "w_054449",
+    "content": "peliantology",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_054452",
+    "content": "pellage",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_054459",
+    "content": "pelud",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_054462",
+    "content": "pelvis erology alga",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声拼接"
+  },
+  {
+    "item_code": "w_054466",
+    "content": "pen apostasy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_054467",
+    "content": "pen enter",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_054478",
+    "content": "penalty for",
+    "meaning_zh": "因……而受的处罚；对……的惩罚",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_054482",
+    "content": "Penang Hill",
+    "meaning_zh": "槟城升旗山",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "景点专有名词"
+  },
+  {
+    "item_code": "w_054492",
+    "content": "pencilbox",
+    "meaning_zh": "铅笔盒；文具盒",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习用品"
+  },
+  {
+    "item_code": "w_054499",
+    "content": "pending franchise",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  },
+  {
+    "item_code": "w_054504",
+    "content": "pendulum screw shutter",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声拼接"
+  }
+]

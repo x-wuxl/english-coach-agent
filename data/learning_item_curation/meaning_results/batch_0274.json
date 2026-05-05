@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_026028",
+    "content": "expand regular detail",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配生硬疑似噪声"
+  },
+  {
+    "item_code": "w_026030",
+    "content": "expandable memory",
+    "meaning_zh": "可扩展内存；可扩充存储容量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见技术搭配"
+  },
+  {
+    "item_code": "w_026035",
+    "content": "expansion of college",
+    "meaning_zh": "大学扩建；高校规模扩大",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可判断"
+  },
+  {
+    "item_code": "w_026036",
+    "content": "expansion of college enrollment",
+    "meaning_zh": "高校扩招",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教育表达"
+  },
+  {
+    "item_code": "w_026037",
+    "content": "expansion of trade",
+    "meaning_zh": "贸易扩张；贸易扩大",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见经济表达"
+  },
+  {
+    "item_code": "w_026057",
+    "content": "expectation and reality",
+    "meaning_zh": "期望与现实",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定对比表达"
+  },
+  {
+    "item_code": "w_026067",
+    "content": "expectorate assort steward",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词组噪声"
+  },
+  {
+    "item_code": "w_026076",
+    "content": "expedition anorexia spot",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词组噪声"
+  },
+  {
+    "item_code": "w_026077",
+    "content": "expedition arrival",
+    "meaning_zh": "探险队到达；远征抵达",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可判断"
+  },
+  {
+    "item_code": "w_026081",
+    "content": "expeditor",
+    "meaning_zh": "催办员；跟单员；调度员",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职业术语"
+  },
+  {
+    "item_code": "w_026090",
+    "content": "expenditure fund plumbing",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词组噪声"
+  },
+  {
+    "item_code": "w_026091",
+    "content": "expenditure raid heap",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词组噪声"
+  },
+  {
+    "item_code": "w_026097",
+    "content": "expensive dear",
+    "meaning_zh": "昂贵的；价高的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "近义词并列表达"
+  },
+  {
+    "item_code": "w_026098",
+    "content": "expensive facilities",
+    "meaning_zh": "昂贵的设施",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_026100",
+    "content": "experience regard thought",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词组噪声"
+  },
+  {
+    "item_code": "w_026104",
+    "content": "experiential promotion",
+    "meaning_zh": "体验式推广；体验式促销",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "营销搭配可判断"
+  },
+  {
+    "item_code": "w_026115",
+    "content": "experimental vibrational data",
+    "meaning_zh": "实验振动数据",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术技术短语"
+  },
+  {
+    "item_code": "w_026122",
+    "content": "expert on",
+    "meaning_zh": "在……方面的专家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配用法"
+  },
+  {
+    "item_code": "w_026123",
+    "content": "expert performer",
+    "meaning_zh": "熟练表演者；专业执行者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可判断"
+  },
+  {
+    "item_code": "w_026124",
+    "content": "expert performers",
+    "meaning_zh": "熟练表演者；专业执行者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "复数短语含义明确"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_073608",
+    "content": "the brick exterior",
+    "meaning_zh": "砖砌外墙；砖质外观",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "名词短语整体释义"
+  },
+  {
+    "item_code": "w_073617",
+    "content": "the Canadian Space Agency",
+    "meaning_zh": "加拿大航天局",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "机构专有名词"
+  },
+  {
+    "item_code": "w_073618",
+    "content": "the capacity to",
+    "meaning_zh": "有能力做；具备做某事的能力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指能力"
+  },
+  {
+    "item_code": "w_073619",
+    "content": "the Caribbean Islands",
+    "meaning_zh": "加勒比群岛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地名专有名词"
+  },
+  {
+    "item_code": "w_073620",
+    "content": "the cascade of change",
+    "meaning_zh": "一连串变化；连锁变化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配含义"
+  },
+  {
+    "item_code": "w_073624",
+    "content": "the chemist's",
+    "meaning_zh": "药店",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "英式常用表达"
+  },
+  {
+    "item_code": "w_073625",
+    "content": "the Chinese ancestors",
+    "meaning_zh": "中国人的祖先；中华先民",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "名词短语整体释义"
+  },
+  {
+    "item_code": "w_073626",
+    "content": "the Chinese Dream",
+    "meaning_zh": "中国梦",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治文化专名"
+  },
+  {
+    "item_code": "w_073628",
+    "content": "the Chinese Taoist Association",
+    "meaning_zh": "中国道教协会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "机构专有名词"
+  },
+  {
+    "item_code": "w_073632",
+    "content": "the civilian drone industry",
+    "meaning_zh": "民用无人机产业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "行业名词短语"
+  },
+  {
+    "item_code": "w_073633",
+    "content": "the clients",
+    "meaning_zh": "客户；委托人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见复数名词"
+  },
+  {
+    "item_code": "w_073635",
+    "content": "the CN Tower",
+    "meaning_zh": "加拿大国家电视塔",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地标专有名词"
+  },
+  {
+    "item_code": "w_073636",
+    "content": "the co-existence of multi-culture",
+    "meaning_zh": "多元文化共存",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "抽象名词短语"
+  },
+  {
+    "item_code": "w_073637",
+    "content": "the coastal regions",
+    "meaning_zh": "沿海地区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地理名词短语"
+  },
+  {
+    "item_code": "w_073638",
+    "content": "the code of conduct",
+    "meaning_zh": "行为准则；行为规范",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_073639",
+    "content": "the Code of Hammurabi",
+    "meaning_zh": "《汉谟拉比法典》",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "历史文献专名"
+  },
+  {
+    "item_code": "w_073640",
+    "content": "the college expansion plan",
+    "meaning_zh": "高校扩招计划；大学扩建计划",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境略有限"
+  },
+  {
+    "item_code": "w_073641",
+    "content": "the Colorado River",
+    "meaning_zh": "科罗拉多河",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地名专有名词"
+  },
+  {
+    "item_code": "w_073642",
+    "content": "the coming year",
+    "meaning_zh": "来年；即将到来的一年",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_073643",
+    "content": "the common run of",
+    "meaning_zh": "普通的；一般的；大多数的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习惯表达"
+  }
+]

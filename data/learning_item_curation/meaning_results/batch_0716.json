@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_070620",
+    "content": "subject bristle writer",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无固定含义"
+  },
+  {
+    "item_code": "w_070630",
+    "content": "subjective bait",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无固定含义"
+  },
+  {
+    "item_code": "w_070637",
+    "content": "subjugate bully",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组搭配不自然"
+  },
+  {
+    "item_code": "w_070657",
+    "content": "submarine domestic proportion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无固定含义"
+  },
+  {
+    "item_code": "w_070660",
+    "content": "submerge tenacious disabuse cognizant",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词汇串噪声"
+  },
+  {
+    "item_code": "w_070672",
+    "content": "submissive absurd",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组搭配不自然"
+  },
+  {
+    "item_code": "w_070676",
+    "content": "submit A to B",
+    "meaning_zh": "把A提交给B",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_070677",
+    "content": "submit an essay",
+    "meaning_zh": "提交一篇文章；提交论文",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习场景搭配"
+  },
+  {
+    "item_code": "w_070678",
+    "content": "submit application",
+    "meaning_zh": "提交申请",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见申请场景搭配"
+  },
+  {
+    "item_code": "w_070679",
+    "content": "submit ledger",
+    "meaning_zh": "提交账簿；提交分类账",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义可由搭配判断"
+  },
+  {
+    "item_code": "w_070692",
+    "content": "suboptimal health status",
+    "meaning_zh": "亚健康状态",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见医学健康表达"
+  },
+  {
+    "item_code": "w_070697",
+    "content": "subordinate assign hospitality",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词汇串噪声"
+  },
+  {
+    "item_code": "w_070698",
+    "content": "subordinate scale",
+    "meaning_zh": "下级量表；从属尺度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专业搭配可判断"
+  },
+  {
+    "item_code": "w_070708",
+    "content": "subroutine",
+    "meaning_zh": "子程序",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_070713",
+    "content": "subscriber unless",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无固定含义"
+  },
+  {
+    "item_code": "w_070717",
+    "content": "subscription tabloid volume",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词汇串噪声"
+  },
+  {
+    "item_code": "w_070721",
+    "content": "subsequent behavior",
+    "meaning_zh": "后续行为；随后的行为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_070722",
+    "content": "subsequent depreciation hatred",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词汇串噪声"
+  },
+  {
+    "item_code": "w_070723",
+    "content": "subsequent prominent visibility check",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词汇串噪声"
+  },
+  {
+    "item_code": "w_070732",
+    "content": "subsidiary home",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组搭配不自然"
+  }
+]

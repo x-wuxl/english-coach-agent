@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_022746",
+    "content": "drug racket",
+    "meaning_zh": "毒品非法交易；贩毒集团",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定犯罪相关搭配"
+  },
+  {
+    "item_code": "w_022747",
+    "content": "drug remedy",
+    "meaning_zh": "药物疗法；药物补救措施",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作医疗搭配理解"
+  },
+  {
+    "item_code": "w_022748",
+    "content": "drug representative",
+    "meaning_zh": "医药代表",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职业称谓"
+  },
+  {
+    "item_code": "w_022762",
+    "content": "drugstore emit remedy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无自然含义"
+  },
+  {
+    "item_code": "w_022763",
+    "content": "drugstore relief",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_022768",
+    "content": "drum drum beat",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "重复词疑似噪声"
+  },
+  {
+    "item_code": "w_022776",
+    "content": "drunk drive",
+    "meaning_zh": "酒后驾驶",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "应为drunk driving"
+  },
+  {
+    "item_code": "w_022792",
+    "content": "dry or itchy skin",
+    "meaning_zh": "皮肤干燥或瘙痒",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见症状表达"
+  },
+  {
+    "item_code": "w_022806",
+    "content": "DST",
+    "meaning_zh": "夏令时；目的地址标识",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缩写需按语境判断"
+  },
+  {
+    "item_code": "w_022807",
+    "content": "DTCA",
+    "meaning_zh": "药品直接面向消费者广告",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医药营销缩写"
+  },
+  {
+    "item_code": "w_022809",
+    "content": "dual contract",
+    "meaning_zh": "双重合同；阴阳合同",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律商业常见术语"
+  },
+  {
+    "item_code": "w_022813",
+    "content": "dual-band infrared thermography",
+    "meaning_zh": "双波段红外热成像",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术术语"
+  },
+  {
+    "item_code": "w_022814",
+    "content": "dual-currency cards",
+    "meaning_zh": "双币信用卡；双币卡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融常见术语"
+  },
+  {
+    "item_code": "w_022818",
+    "content": "Duamutef",
+    "meaning_zh": "杜阿穆特夫",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "埃及神话专名"
+  },
+  {
+    "item_code": "w_022822",
+    "content": "dubbed foreign film",
+    "meaning_zh": "配音外国电影",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "影视常见表达"
+  },
+  {
+    "item_code": "w_022832",
+    "content": "duck-stuffing",
+    "meaning_zh": "填鸭式教学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育隐喻表达"
+  },
+  {
+    "item_code": "w_022833",
+    "content": "duck-typing",
+    "meaning_zh": "鸭子类型",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程术语"
+  },
+  {
+    "item_code": "w_022848",
+    "content": "duellum",
+    "meaning_zh": "战争；决斗",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "拉丁语词源词"
+  },
+  {
+    "item_code": "w_022860",
+    "content": "dull echo",
+    "meaning_zh": "沉闷的回声",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容声音的搭配"
+  },
+  {
+    "item_code": "w_022861",
+    "content": "dull epidemic",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_035615",
+    "content": "hop-on hop-off",
+    "meaning_zh": "随上随下的观光交通服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅游表达"
+  },
+  {
+    "item_code": "w_035633",
+    "content": "horde loyalty",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定表达"
+  },
+  {
+    "item_code": "w_035641",
+    "content": "horizontal vertical",
+    "meaning_zh": "水平与垂直",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "方向词并列"
+  },
+  {
+    "item_code": "w_035648",
+    "content": "horn lane",
+    "meaning_zh": "霍恩巷（地名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑似街道名"
+  },
+  {
+    "item_code": "w_035654",
+    "content": "hornethology",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_035668",
+    "content": "horrit",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_035686",
+    "content": "horsehead violin",
+    "meaning_zh": "马头琴",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "乐器名称"
+  },
+  {
+    "item_code": "w_035690",
+    "content": "horseplay at wedding",
+    "meaning_zh": "婚礼上的嬉闹恶作剧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按短语整体理解"
+  },
+  {
+    "item_code": "w_035705",
+    "content": "hose hub",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义不明确"
+  },
+  {
+    "item_code": "w_035711",
+    "content": "hospital appointment scalper",
+    "meaning_zh": "医院挂号黄牛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "社会现象表达"
+  },
+  {
+    "item_code": "w_035712",
+    "content": "hospital exchange",
+    "meaning_zh": "医院交流项目；医院交换",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可能为交流语境"
+  },
+  {
+    "item_code": "w_035717",
+    "content": "hospitalize hysteria",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_035720",
+    "content": "host an event",
+    "meaning_zh": "主办活动；主持活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_035721",
+    "content": "host celebration parade",
+    "meaning_zh": "举办庆祝游行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解动宾搭配"
+  },
+  {
+    "item_code": "w_035727",
+    "content": "hostage tenant discipline",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合噪声"
+  },
+  {
+    "item_code": "w_035730",
+    "content": "hostess reception",
+    "meaning_zh": "女主人接待；女接待员接待",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作接待场景"
+  },
+  {
+    "item_code": "w_035732",
+    "content": "hostile magnesium",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配无可靠含义"
+  },
+  {
+    "item_code": "w_035733",
+    "content": "hostile rage",
+    "meaning_zh": "敌意的愤怒；充满敌意的怒火",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "形容词名词搭配"
+  },
+  {
+    "item_code": "w_035734",
+    "content": "hostile skepticism",
+    "meaning_zh": "敌意的怀疑；强烈质疑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术态度"
+  },
+  {
+    "item_code": "w_035736",
+    "content": "hostility erode latency",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合噪声"
+  }
+]

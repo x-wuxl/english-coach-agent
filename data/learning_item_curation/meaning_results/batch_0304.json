@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_028891",
+    "content": "for picnic",
+    "meaning_zh": "为了野餐；供野餐用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语但略不完整"
+  },
+  {
+    "item_code": "w_028892",
+    "content": "for political reasons",
+    "meaning_zh": "出于政治原因",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定介词短语"
+  },
+  {
+    "item_code": "w_028893",
+    "content": "for purpose",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不完整"
+  },
+  {
+    "item_code": "w_028896",
+    "content": "for reasons",
+    "meaning_zh": "由于某些原因；出于某些理由",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词短语"
+  },
+  {
+    "item_code": "w_028898",
+    "content": "for sb.'s benefit",
+    "meaning_zh": "为了某人的利益；为了帮助某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_028899",
+    "content": "for sb.'s own good",
+    "meaning_zh": "为了某人自己好",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_028900",
+    "content": "for sb.'s own part",
+    "meaning_zh": "就某人自己而言",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_028901",
+    "content": "for sb.'s part",
+    "meaning_zh": "就某人而言；至于某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_028902",
+    "content": "for sb.'s sake",
+    "meaning_zh": "为了某人的缘故；看在某人的份上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_028903",
+    "content": "for several decades",
+    "meaning_zh": "长达几十年；持续数十年",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时间短语"
+  },
+  {
+    "item_code": "w_028908",
+    "content": "for sth.'s sake",
+    "meaning_zh": "为了某事物的缘故；为了某目的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_028915",
+    "content": "for the long term",
+    "meaning_zh": "从长远来看；长期地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定短语"
+  },
+  {
+    "item_code": "w_028918",
+    "content": "for the part of",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_028920",
+    "content": "for the reason",
+    "meaning_zh": "出于这个原因；因为这个理由",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语需上下文"
+  },
+  {
+    "item_code": "w_028921",
+    "content": "for the reason of",
+    "meaning_zh": "由于……的原因",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略生硬"
+  },
+  {
+    "item_code": "w_028934",
+    "content": "for you",
+    "meaning_zh": "为你；给你；支持你",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持多义"
+  },
+  {
+    "item_code": "w_028947",
+    "content": "forbearance charisma",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组含义不明"
+  },
+  {
+    "item_code": "w_028956",
+    "content": "force ... out through",
+    "meaning_zh": "迫使……从……排出；把……挤出",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词短语结构"
+  },
+  {
+    "item_code": "w_028959",
+    "content": "force one's way into",
+    "meaning_zh": "强行进入；挤进",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词短语"
+  },
+  {
+    "item_code": "w_028967",
+    "content": "forced demolition",
+    "meaning_zh": "强制拆迁；强拆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会术语"
+  }
+]

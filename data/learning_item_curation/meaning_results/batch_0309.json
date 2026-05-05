@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_029343",
+    "content": "fragrance of flowers",
+    "meaning_zh": "花香",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_029345",
+    "content": "fragrant deduction",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_029346",
+    "content": "Fragrant Hills Park",
+    "meaning_zh": "香山公园",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有地名"
+  },
+  {
+    "item_code": "w_029348",
+    "content": "frail harbor",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_029354",
+    "content": "frame strike tablecloth China",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串疑似噪声"
+  },
+  {
+    "item_code": "w_029358",
+    "content": "frames the fact",
+    "meaning_zh": "表述这一事实；框定事实",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "动词短语可理解"
+  },
+  {
+    "item_code": "w_029365",
+    "content": "franchise store",
+    "meaning_zh": "加盟店",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商业搭配"
+  },
+  {
+    "item_code": "w_029371",
+    "content": "Francisco",
+    "meaning_zh": "弗朗西斯科；旧金山",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专名，例句指旧金山"
+  },
+  {
+    "item_code": "w_029375",
+    "content": "Frank Wild",
+    "meaning_zh": "弗兰克·怀尔德",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人名专有名词"
+  },
+  {
+    "item_code": "w_029376",
+    "content": "Frank Worsley",
+    "meaning_zh": "弗兰克·沃斯利",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人名专有名词"
+  },
+  {
+    "item_code": "w_029380",
+    "content": "Franklin Lake",
+    "meaning_zh": "富兰克林湖",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有地名"
+  },
+  {
+    "item_code": "w_029385",
+    "content": "frantic schedule",
+    "meaning_zh": "忙乱紧张的日程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_029394",
+    "content": "fraud elicit intervene",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串疑似噪声"
+  },
+  {
+    "item_code": "w_029398",
+    "content": "fraudulent exude",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_029399",
+    "content": "fraudulent strategic depend speculation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串疑似噪声"
+  },
+  {
+    "item_code": "w_029409",
+    "content": "freckle depot",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_029416",
+    "content": "free ... from",
+    "meaning_zh": "使……摆脱；解除……的束缚",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_029417",
+    "content": "free accommodation",
+    "meaning_zh": "免费住宿",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活搭配"
+  },
+  {
+    "item_code": "w_029418",
+    "content": "free booklet",
+    "meaning_zh": "免费小册子",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_029420",
+    "content": "free classifieds",
+    "meaning_zh": "免费分类广告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见广告用语"
+  }
+]

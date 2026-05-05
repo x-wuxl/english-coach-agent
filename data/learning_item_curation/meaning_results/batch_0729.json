@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_071835",
+    "content": "symptomless spreader",
+    "meaning_zh": "无症状传播者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见公共卫生表达"
+  },
+  {
+    "item_code": "w_071836",
+    "content": "syn",
+    "meaning_zh": "TCP同步标志；同步请求包",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "计算机缩写术语"
+  },
+  {
+    "item_code": "w_071837",
+    "content": "synacure legend",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_071855",
+    "content": "synchronous spent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  },
+  {
+    "item_code": "w_071862",
+    "content": "syncopy comic avert",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似随机词串"
+  },
+  {
+    "item_code": "w_071868",
+    "content": "syndrome heed",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_071877",
+    "content": "synonym response",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义场景不明"
+  },
+  {
+    "item_code": "w_071879",
+    "content": "synonymous constitute apprehension",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似随机词串"
+  },
+  {
+    "item_code": "w_071884",
+    "content": "synopsis prohibitive disavow germinate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似随机词串"
+  },
+  {
+    "item_code": "w_071893",
+    "content": "syntax error",
+    "meaning_zh": "语法错误",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见编程术语"
+  },
+  {
+    "item_code": "w_071897",
+    "content": "synthesis mesh",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  },
+  {
+    "item_code": "w_071903",
+    "content": "synthetic dress button",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配低价值"
+  },
+  {
+    "item_code": "w_071906",
+    "content": "synthetic indigoid",
+    "meaning_zh": "合成靛蓝类染料",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "化学染料术语"
+  },
+  {
+    "item_code": "w_071909",
+    "content": "synthetic snatch lactate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似随机词串"
+  },
+  {
+    "item_code": "w_071912",
+    "content": "synuus",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_071913",
+    "content": "syphalic",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_071917",
+    "content": "syringe dispute",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  },
+  {
+    "item_code": "w_071918",
+    "content": "syrum tricky itis",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似随机词串"
+  },
+  {
+    "item_code": "w_071940",
+    "content": "systems conversions",
+    "meaning_zh": "系统转换",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术搭配可理解"
+  },
+  {
+    "item_code": "w_071953",
+    "content": "T/T",
+    "meaning_zh": "电汇",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务英语缩写"
+  }
+]

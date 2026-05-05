@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_039725",
+    "content": "international contribution",
+    "meaning_zh": "国际贡献",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_039727",
+    "content": "international culture",
+    "meaning_zh": "国际文化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_039729",
+    "content": "international departure",
+    "meaning_zh": "国际出发；国际航班出发",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅行场景常用"
+  },
+  {
+    "item_code": "w_039730",
+    "content": "international distribution",
+    "meaning_zh": "国际分销；国际配送",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务语境常用"
+  },
+  {
+    "item_code": "w_039731",
+    "content": "international division of work",
+    "meaning_zh": "国际分工",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配略不自然"
+  },
+  {
+    "item_code": "w_039732",
+    "content": "international economic organization",
+    "meaning_zh": "国际经济组织",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "术语性名词短语"
+  },
+  {
+    "item_code": "w_039734",
+    "content": "international express",
+    "meaning_zh": "国际快递",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "物流场景常用"
+  },
+  {
+    "item_code": "w_039736",
+    "content": "international first-class bay area",
+    "meaning_zh": "国际一流湾区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策表达常见"
+  },
+  {
+    "item_code": "w_039737",
+    "content": "international game",
+    "meaning_zh": "国际比赛；国际赛事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境不足但可判断"
+  },
+  {
+    "item_code": "w_039738",
+    "content": "international house",
+    "meaning_zh": "国际之家；国际学生宿舍",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可能为机构或宿舍"
+  },
+  {
+    "item_code": "w_039743",
+    "content": "international manhunt",
+    "meaning_zh": "国际追捕；国际通缉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "新闻法律常用"
+  },
+  {
+    "item_code": "w_039745",
+    "content": "International Museum of Toilets",
+    "meaning_zh": "国际厕所博物馆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词"
+  },
+  {
+    "item_code": "w_039747",
+    "content": "international operations management",
+    "meaning_zh": "国际运营管理",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务管理术语"
+  },
+  {
+    "item_code": "w_039748",
+    "content": "international phone code",
+    "meaning_zh": "国际电话区号",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "通信场景常用"
+  },
+  {
+    "item_code": "w_039749",
+    "content": "international rank",
+    "meaning_zh": "国际排名",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_039759",
+    "content": "international transport system",
+    "meaning_zh": "国际运输系统；国际交通体系",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通运输术语"
+  },
+  {
+    "item_code": "w_039761",
+    "content": "International Workers'Day",
+    "meaning_zh": "国际劳动节",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "节日专有名词"
+  },
+  {
+    "item_code": "w_039772",
+    "content": "Internet book review",
+    "meaning_zh": "网络书评",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "网络阅读表达"
+  },
+  {
+    "item_code": "w_039774",
+    "content": "Internet café",
+    "meaning_zh": "网吧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_039775",
+    "content": "Internet catchphrases",
+    "meaning_zh": "网络流行语",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见网络表达"
+  }
+]

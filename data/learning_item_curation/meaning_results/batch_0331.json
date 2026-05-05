@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_031215",
+    "content": "gill goldfish salmon",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个词堆叠无固定义"
+  },
+  {
+    "item_code": "w_031227",
+    "content": "ginger copyright moment",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无关词堆叠成噪声"
+  },
+  {
+    "item_code": "w_031228",
+    "content": "ginger green",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "表达不完整不常用"
+  },
+  {
+    "item_code": "w_031233",
+    "content": "gingko tree",
+    "meaning_zh": "银杏树",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见植物名"
+  },
+  {
+    "item_code": "w_031244",
+    "content": "girl club",
+    "meaning_zh": "女子俱乐部；女生社团",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作普通名词短语"
+  },
+  {
+    "item_code": "w_031246",
+    "content": "girlfriend boyfriend sexuality",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个词堆叠无固定义"
+  },
+  {
+    "item_code": "w_031253",
+    "content": "gist linger",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无关词组合非短语"
+  },
+  {
+    "item_code": "w_031258",
+    "content": "give ... a push",
+    "meaning_zh": "推……一下；推动……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_031259",
+    "content": "give ... a sack",
+    "meaning_zh": "解雇……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见表达多为the sack"
+  },
+  {
+    "item_code": "w_031261",
+    "content": "give ... an edge",
+    "meaning_zh": "使……具有优势",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_031265",
+    "content": "give ... the edge",
+    "meaning_zh": "使……略占优势",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_031268",
+    "content": "give a careful consideration",
+    "meaning_zh": "认真考虑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配略不自然"
+  },
+  {
+    "item_code": "w_031270",
+    "content": "give a discount",
+    "meaning_zh": "给予折扣；打折",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  },
+  {
+    "item_code": "w_031271",
+    "content": "give a fair shake",
+    "meaning_zh": "给公平机会；公平对待",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语"
+  },
+  {
+    "item_code": "w_031272",
+    "content": "give a gift",
+    "meaning_zh": "赠送礼物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_031276",
+    "content": "give a like",
+    "meaning_zh": "点赞",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "社交媒体常用语"
+  },
+  {
+    "item_code": "w_031279",
+    "content": "give a presentation to",
+    "meaning_zh": "向……做演示；向……作报告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术场景常用搭配"
+  },
+  {
+    "item_code": "w_031287",
+    "content": "give an insight into",
+    "meaning_zh": "使人了解；提供对……的洞见",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_031299",
+    "content": "give children encouragement",
+    "meaning_zh": "鼓励孩子",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教育话题搭配"
+  },
+  {
+    "item_code": "w_031300",
+    "content": "give comments on",
+    "meaning_zh": "对……发表评论；就……提出意见",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  }
+]

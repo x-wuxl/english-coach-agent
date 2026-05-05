@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_030927",
+    "content": "get mad at",
+    "meaning_zh": "对……生气",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_030928",
+    "content": "get mad at ...",
+    "meaning_zh": "对……生气",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "省略号不影响含义"
+  },
+  {
+    "item_code": "w_030936",
+    "content": "get numb",
+    "meaning_zh": "变得麻木；失去知觉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见状态变化表达"
+  },
+  {
+    "item_code": "w_030948",
+    "content": "get off track",
+    "meaning_zh": "偏离正轨；跑题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见比喻表达"
+  },
+  {
+    "item_code": "w_030953",
+    "content": "get on one's bandwagon",
+    "meaning_zh": "加入某人的阵营；跟风支持",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见表达有变体"
+  },
+  {
+    "item_code": "w_030955",
+    "content": "get on one's nerve",
+    "meaning_zh": "惹某人烦；使某人生气",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "标准形式多用复数"
+  },
+  {
+    "item_code": "w_030957",
+    "content": "get on sb.'s nerves",
+    "meaning_zh": "惹某人烦；使某人生气",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_030965",
+    "content": "get one nowhere",
+    "meaning_zh": "使某人毫无进展；没有结果",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见习语"
+  },
+  {
+    "item_code": "w_030967",
+    "content": "get one's best shot",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "low",
+    "reason": "疑似搭配错误"
+  },
+  {
+    "item_code": "w_030970",
+    "content": "get one's ear",
+    "meaning_zh": "获得某人的倾听；引起某人注意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "习语用法较少见"
+  },
+  {
+    "item_code": "w_030975",
+    "content": "get one's hair cut",
+    "meaning_zh": "去理发；让人给自己剪头发",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见使役结构"
+  },
+  {
+    "item_code": "w_030976",
+    "content": "get one's hands dirty",
+    "meaning_zh": "亲自动手；参与脏活累活",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见习语"
+  },
+  {
+    "item_code": "w_030977",
+    "content": "get one's hands full",
+    "meaning_zh": "忙得不可开交；有很多事要处理",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见表达有变体"
+  },
+  {
+    "item_code": "w_030978",
+    "content": "get one's hands off",
+    "meaning_zh": "把手拿开；停止干涉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见命令式表达"
+  },
+  {
+    "item_code": "w_030981",
+    "content": "get one's just desserts",
+    "meaning_zh": "罪有应得；得到应有惩罚",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见习语"
+  },
+  {
+    "item_code": "w_030982",
+    "content": "get one's mind off",
+    "meaning_zh": "转移某人的注意力；不再想着",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_030984",
+    "content": "get one's number",
+    "meaning_zh": "弄到某人的电话号码；看透某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配义"
+  },
+  {
+    "item_code": "w_030987",
+    "content": "get one's say",
+    "meaning_zh": "发表自己的意见；有发言机会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达较少见"
+  },
+  {
+    "item_code": "w_030989",
+    "content": "get one's start",
+    "meaning_zh": "起步；开始事业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_030997",
+    "content": "get out of practice",
+    "meaning_zh": "因久不练习而生疏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  }
+]

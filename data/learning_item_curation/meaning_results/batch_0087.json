@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_007413",
+    "content": "be hesitant about",
+    "meaning_zh": "对……犹豫不决",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_007414",
+    "content": "be high in",
+    "meaning_zh": "富含……；……含量高",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_007415",
+    "content": "be hip",
+    "meaning_zh": "很时髦；很懂潮流",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "口语常用义"
+  },
+  {
+    "item_code": "w_007419",
+    "content": "be honored for",
+    "meaning_zh": "因……而受到表彰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_007420",
+    "content": "be honoured for",
+    "meaning_zh": "因……而受到表彰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "英式拼写"
+  },
+  {
+    "item_code": "w_007421",
+    "content": "be honoured for sth.",
+    "meaning_zh": "因某事而受到表彰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "英式拼写"
+  },
+  {
+    "item_code": "w_007422",
+    "content": "be honoured to do",
+    "meaning_zh": "很荣幸做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_007429",
+    "content": "be hostile towards",
+    "meaning_zh": "对……怀有敌意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_007431",
+    "content": "be hung up about",
+    "meaning_zh": "对……耿耿于怀；纠结于……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "口语搭配"
+  },
+  {
+    "item_code": "w_007432",
+    "content": "be hung up on",
+    "meaning_zh": "迷恋……；执着于……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "口语搭配"
+  },
+  {
+    "item_code": "w_007435",
+    "content": "be ideal for",
+    "meaning_zh": "非常适合……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_007446",
+    "content": "be ill in bed",
+    "meaning_zh": "卧病在床",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_007449",
+    "content": "be immune from",
+    "meaning_zh": "免受……影响；不受……伤害",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_007453",
+    "content": "be implicit in",
+    "meaning_zh": "隐含在……中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常用搭配"
+  },
+  {
+    "item_code": "w_007456",
+    "content": "be imprinted on sth.",
+    "meaning_zh": "印在某物上；铭刻在某物上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_007461",
+    "content": "be in a panic",
+    "meaning_zh": "处于惊慌中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_007466",
+    "content": "be in big trouble",
+    "meaning_zh": "陷入大麻烦",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_007474",
+    "content": "be in cooperation with",
+    "meaning_zh": "与……合作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "正式搭配"
+  },
+  {
+    "item_code": "w_007477",
+    "content": "be in darkness",
+    "meaning_zh": "处于黑暗中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_007481",
+    "content": "be in disorder",
+    "meaning_zh": "杂乱无章；处于混乱状态",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  }
+]

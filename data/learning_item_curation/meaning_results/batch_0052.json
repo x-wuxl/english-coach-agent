@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_003909",
+    "content": "anxiety-laden",
+    "meaning_zh": "充满焦虑的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见复合形容词"
+  },
+  {
+    "item_code": "w_003911",
+    "content": "anxious excited excitement",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词表残片"
+  },
+  {
+    "item_code": "w_003914",
+    "content": "any fair-minded assessment",
+    "meaning_zh": "任何公正的评估",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "整体短语含义明确"
+  },
+  {
+    "item_code": "w_003926",
+    "content": "anything besides",
+    "meaning_zh": "除此之外的任何事物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语片段可判断"
+  },
+  {
+    "item_code": "w_003928",
+    "content": "anything less than",
+    "meaning_zh": "任何低于……的事物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定搭配片段"
+  },
+  {
+    "item_code": "w_003933",
+    "content": "anywhere wherever everywhere",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词表残片"
+  },
+  {
+    "item_code": "w_003942",
+    "content": "apacy",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_003944",
+    "content": "apart direction",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_003950",
+    "content": "apartment number",
+    "meaning_zh": "公寓号码；门牌号",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地址用语"
+  },
+  {
+    "item_code": "w_003953",
+    "content": "apathy concise tatary",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "混杂噪声"
+  },
+  {
+    "item_code": "w_003956",
+    "content": "APEC blue",
+    "meaning_zh": "亚太经合组织蓝；APEC蓝",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有社会用语"
+  },
+  {
+    "item_code": "w_003962",
+    "content": "apevil",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_003971",
+    "content": "aphor",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写残片"
+  },
+  {
+    "item_code": "w_003974",
+    "content": "api",
+    "meaning_zh": "应用程序接口",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机缩写术语"
+  },
+  {
+    "item_code": "w_003984",
+    "content": "aply",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_003992",
+    "content": "apoint",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_004000",
+    "content": "apologise to sb.",
+    "meaning_zh": "向某人道歉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_004011",
+    "content": "aponecrosis",
+    "meaning_zh": "腱膜坏死",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学术语少见"
+  },
+  {
+    "item_code": "w_004016",
+    "content": "apoplectic adore",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "混杂词条"
+  },
+  {
+    "item_code": "w_004021",
+    "content": "aportion",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  }
+]

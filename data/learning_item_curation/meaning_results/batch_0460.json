@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_044227",
+    "content": "lost and found box",
+    "meaning_zh": "失物招领箱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定场景搭配"
+  },
+  {
+    "item_code": "w_044230",
+    "content": "lost children",
+    "meaning_zh": "走失儿童",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_044231",
+    "content": "lost civilization",
+    "meaning_zh": "失落的文明",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_044237",
+    "content": "lost-and-found case",
+    "meaning_zh": "失物招领案例",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解但少见"
+  },
+  {
+    "item_code": "w_044245",
+    "content": "lottery bleach",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声搭配"
+  },
+  {
+    "item_code": "w_044246",
+    "content": "lottery jackpot",
+    "meaning_zh": "彩票头奖；彩票累积奖金",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见彩票术语"
+  },
+  {
+    "item_code": "w_044251",
+    "content": "lou",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义不明且低价值"
+  },
+  {
+    "item_code": "w_044254",
+    "content": "loud noises",
+    "meaning_zh": "巨大的噪声；响亮的声音",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见描述性短语"
+  },
+  {
+    "item_code": "w_044258",
+    "content": "loudish homogenize aggravate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无自然整体含义"
+  },
+  {
+    "item_code": "w_044276",
+    "content": "Love Me Do",
+    "meaning_zh": "《Love Me Do》；《爱我吧》",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "歌曲名或标题"
+  },
+  {
+    "item_code": "w_044283",
+    "content": "lovely good looking",
+    "meaning_zh": "可爱又好看的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "形容外貌短语"
+  },
+  {
+    "item_code": "w_044294",
+    "content": "low fertility trap",
+    "meaning_zh": "低生育率陷阱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人口学术语"
+  },
+  {
+    "item_code": "w_044295",
+    "content": "low geometry hose",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无自然整体含义"
+  },
+  {
+    "item_code": "w_044298",
+    "content": "low nutrition",
+    "meaning_zh": "营养不足；营养价值低",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见健康表达"
+  },
+  {
+    "item_code": "w_044301",
+    "content": "low salary",
+    "meaning_zh": "低薪；工资低",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_044302",
+    "content": "low season",
+    "meaning_zh": "淡季",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅游商业常用语"
+  },
+  {
+    "item_code": "w_044303",
+    "content": "low tall building",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词义自相矛盾"
+  },
+  {
+    "item_code": "w_044306",
+    "content": "low-altitude airspace",
+    "meaning_zh": "低空空域",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "航空领域术语"
+  },
+  {
+    "item_code": "w_044308",
+    "content": "low-carbon cities",
+    "meaning_zh": "低碳城市",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保常用表达"
+  },
+  {
+    "item_code": "w_044310",
+    "content": "low-carbon emission",
+    "meaning_zh": "低碳排放",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保领域表达"
+  }
+]

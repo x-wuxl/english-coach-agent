@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_029936",
+    "content": "fundamental reason",
+    "meaning_zh": "根本原因",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_029945",
+    "content": "funding agency",
+    "meaning_zh": "资助机构",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术场景常用"
+  },
+  {
+    "item_code": "w_029955",
+    "content": "funeral cemetery graveyard",
+    "meaning_zh": "葬礼；墓地",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "词串混杂非固定表达"
+  },
+  {
+    "item_code": "w_029964",
+    "content": "fungicide residues",
+    "meaning_zh": "杀菌剂残留",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "科技环保常用短语"
+  },
+  {
+    "item_code": "w_029971",
+    "content": "funnel-shaped crater",
+    "meaning_zh": "漏斗形坑；漏斗形火山口",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地质描述短语"
+  },
+  {
+    "item_code": "w_029975",
+    "content": "funny cartoon",
+    "meaning_zh": "搞笑漫画；滑稽动画片",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_029976",
+    "content": "funny punch lines",
+    "meaning_zh": "好笑的妙语；搞笑包袱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "喜剧表达常用"
+  },
+  {
+    "item_code": "w_029977",
+    "content": "funny silly joke",
+    "meaning_zh": "滑稽的傻笑话",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解但搭配松散"
+  },
+  {
+    "item_code": "w_029988",
+    "content": "furious temper",
+    "meaning_zh": "暴怒的脾气；火爆脾气",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "性格描述短语"
+  },
+  {
+    "item_code": "w_029989",
+    "content": "furious van blackmail",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串无可靠含义"
+  },
+  {
+    "item_code": "w_029993",
+    "content": "furlow",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_029997",
+    "content": "furnish choice",
+    "meaning_zh": "提供选择",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解但搭配少见"
+  },
+  {
+    "item_code": "w_029999",
+    "content": "furnish sth.",
+    "meaning_zh": "提供某物；为某处配备家具",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词用法短语"
+  },
+  {
+    "item_code": "w_030000",
+    "content": "furnish sth. to sb.",
+    "meaning_zh": "向某人提供某物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定用法结构"
+  },
+  {
+    "item_code": "w_030005",
+    "content": "furniture decoration",
+    "meaning_zh": "家具装饰；家具陈设",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "家居相关搭配"
+  },
+  {
+    "item_code": "w_030012",
+    "content": "furrowed fields",
+    "meaning_zh": "犁过的田地；有犁沟的田地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "农业地貌描述"
+  },
+  {
+    "item_code": "w_030016",
+    "content": "further away",
+    "meaning_zh": "更远；离得更远",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持距离含义"
+  },
+  {
+    "item_code": "w_030017",
+    "content": "further distant remote stretch",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串堆叠非表达"
+  },
+  {
+    "item_code": "w_030020",
+    "content": "further one's education",
+    "meaning_zh": "继续深造；进修",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定教育表达"
+  },
+  {
+    "item_code": "w_030023",
+    "content": "further talk",
+    "meaning_zh": "进一步交谈；进一步讨论",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_047256",
+    "content": "mimic run expansive",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无明确含义"
+  },
+  {
+    "item_code": "w_047257",
+    "content": "mimic warfare",
+    "meaning_zh": "模拟战争",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按整体搭配理解"
+  },
+  {
+    "item_code": "w_047259",
+    "content": "Min",
+    "meaning_zh": "最小值；最小化",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "计算机常用缩写"
+  },
+  {
+    "item_code": "w_047269",
+    "content": "mind intelligence",
+    "meaning_zh": "心智能力；智力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作心理能力搭配"
+  },
+  {
+    "item_code": "w_047289",
+    "content": "miner character",
+    "meaning_zh": "矿工角色",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按名词短语理解"
+  },
+  {
+    "item_code": "w_047301",
+    "content": "ming",
+    "meaning_zh": "明；中文人名“明”",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句均为人名"
+  },
+  {
+    "item_code": "w_047305",
+    "content": "mingle metal fistula",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无明确含义"
+  },
+  {
+    "item_code": "w_047306",
+    "content": "mingle minute repress",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无明确含义"
+  },
+  {
+    "item_code": "w_047310",
+    "content": "mini apps",
+    "meaning_zh": "小程序；迷你应用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见技术产品术语"
+  },
+  {
+    "item_code": "w_047316",
+    "content": "mini-website",
+    "meaning_zh": "微型网站；小型网站",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合词含义明确"
+  },
+  {
+    "item_code": "w_047319",
+    "content": "miniature pavement",
+    "meaning_zh": "微型路面；小型人行道",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按名词短语理解"
+  },
+  {
+    "item_code": "w_047340",
+    "content": "minimize confidence",
+    "meaning_zh": "降低信心；削弱自信",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "动宾搭配可理解"
+  },
+  {
+    "item_code": "w_047343",
+    "content": "minimum enrollment mark",
+    "meaning_zh": "最低录取分数线",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "招生考试常用表达"
+  },
+  {
+    "item_code": "w_047345",
+    "content": "minimum joining age",
+    "meaning_zh": "最低加入年龄；最低入会年龄",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "搭配含义明确"
+  },
+  {
+    "item_code": "w_047360",
+    "content": "minister restore",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无明确含义"
+  },
+  {
+    "item_code": "w_047362",
+    "content": "Ministers' passage",
+    "meaning_zh": "部长通道",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作政治新闻术语"
+  },
+  {
+    "item_code": "w_047365",
+    "content": "ministry oatmeal guarantee",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无明确含义"
+  },
+  {
+    "item_code": "w_047375",
+    "content": "Minoan palace",
+    "meaning_zh": "米诺斯宫殿",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "古文明相关专有名词"
+  },
+  {
+    "item_code": "w_047377",
+    "content": "minor accidents",
+    "meaning_zh": "轻微事故；小事故",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词短语"
+  },
+  {
+    "item_code": "w_047380",
+    "content": "minor course",
+    "meaning_zh": "辅修课程；副修课程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育场景常用搭配"
+  }
+]

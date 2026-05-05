@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_007608",
+    "content": "be junior to",
+    "meaning_zh": "职位低于；资历浅于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定比较短语"
+  },
+  {
+    "item_code": "w_007612",
+    "content": "be keen to",
+    "meaning_zh": "渴望；热衷于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_007613",
+    "content": "be keen to do",
+    "meaning_zh": "渴望做；很想做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_007614",
+    "content": "be kept",
+    "meaning_zh": "被保持；被保管；被维持",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "例句显示被动用法"
+  },
+  {
+    "item_code": "w_007628",
+    "content": "be lack of",
+    "meaning_zh": "缺乏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑似非标准搭配"
+  },
+  {
+    "item_code": "w_007634",
+    "content": "be laid up with",
+    "meaning_zh": "因病卧床；因病休养",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定疾病表达"
+  },
+  {
+    "item_code": "w_007635",
+    "content": "be largely attributed to",
+    "meaning_zh": "很大程度上归因于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常见表达"
+  },
+  {
+    "item_code": "w_007636",
+    "content": "be largely focused on",
+    "meaning_zh": "主要集中于；很大程度上关注",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_007637",
+    "content": "be largely man-made",
+    "meaning_zh": "主要是人为造成的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "整体含义明确"
+  },
+  {
+    "item_code": "w_007638",
+    "content": "be late",
+    "meaning_zh": "迟到；晚了",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义一致"
+  },
+  {
+    "item_code": "w_007639",
+    "content": "be late doing",
+    "meaning_zh": "做某事迟了；做某事晚了",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型表达"
+  },
+  {
+    "item_code": "w_007642",
+    "content": "be late in doing",
+    "meaning_zh": "迟迟才做；做某事晚了",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型表达"
+  },
+  {
+    "item_code": "w_007643",
+    "content": "be least within",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑噪声"
+  },
+  {
+    "item_code": "w_007644",
+    "content": "be leery of",
+    "meaning_zh": "对……怀疑；对……警惕",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定形容词搭配"
+  },
+  {
+    "item_code": "w_007648",
+    "content": "be less likely to",
+    "meaning_zh": "不太可能；可能性较小",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "高频比较表达"
+  },
+  {
+    "item_code": "w_007662",
+    "content": "be little known",
+    "meaning_zh": "鲜为人知；不太出名",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动形容表达"
+  },
+  {
+    "item_code": "w_007668",
+    "content": "be locked up",
+    "meaning_zh": "被锁起来；被关押",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语动词被动"
+  },
+  {
+    "item_code": "w_007669",
+    "content": "be longing for",
+    "meaning_zh": "渴望；盼望",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定介词搭配"
+  },
+  {
+    "item_code": "w_007670",
+    "content": "be longing to do",
+    "meaning_zh": "渴望做；盼望做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定不定式搭配"
+  },
+  {
+    "item_code": "w_007671",
+    "content": "be looking to",
+    "meaning_zh": "打算；期待；指望",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "需语境区分义项"
+  }
+]

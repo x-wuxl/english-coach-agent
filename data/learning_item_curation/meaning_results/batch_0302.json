@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_028707",
+    "content": "follow a fanciful fashion",
+    "meaning_zh": "追随奇特的时尚",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可判断"
+  },
+  {
+    "item_code": "w_028708",
+    "content": "follow customs",
+    "meaning_zh": "遵从习俗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_028709",
+    "content": "follow demonstration descent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_028712",
+    "content": "follow in sb.'s footsteps",
+    "meaning_zh": "效仿某人；继承某人的事业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_028713",
+    "content": "follow leave",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义无法可靠判断"
+  },
+  {
+    "item_code": "w_028714",
+    "content": "follow neugatory counterpart",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_028715",
+    "content": "follow one's advice on",
+    "meaning_zh": "听从某人关于……的建议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习搭配"
+  },
+  {
+    "item_code": "w_028716",
+    "content": "follow one's cue from",
+    "meaning_zh": "听从某人的暗示；以……为参照",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "近似固定搭配"
+  },
+  {
+    "item_code": "w_028717",
+    "content": "follow one's dream",
+    "meaning_zh": "追逐梦想",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_028719",
+    "content": "follow one's lead",
+    "meaning_zh": "效仿某人的做法；跟随某人带领",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_028721",
+    "content": "follow rules of games",
+    "meaning_zh": "遵守游戏规则",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动宾搭配明确"
+  },
+  {
+    "item_code": "w_028722",
+    "content": "follow sb.'s advice",
+    "meaning_zh": "听从某人的建议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_028723",
+    "content": "follow sb.'s instructions",
+    "meaning_zh": "遵照某人的指示",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_028724",
+    "content": "follow social norms",
+    "meaning_zh": "遵守社会规范",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "搭配自然明确"
+  },
+  {
+    "item_code": "w_028730",
+    "content": "follow the morals",
+    "meaning_zh": "遵守道德准则",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略不自然"
+  },
+  {
+    "item_code": "w_028731",
+    "content": "follow the new fashion",
+    "meaning_zh": "追随新时尚",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_028732",
+    "content": "follow the rules",
+    "meaning_zh": "遵守规则",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  },
+  {
+    "item_code": "w_028734",
+    "content": "follow traffic rules",
+    "meaning_zh": "遵守交通规则",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_028735",
+    "content": "follow trends",
+    "meaning_zh": "追随潮流；跟随趋势",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_028737",
+    "content": "follow up with",
+    "meaning_zh": "接着采取；随后跟进",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词"
+  }
+]

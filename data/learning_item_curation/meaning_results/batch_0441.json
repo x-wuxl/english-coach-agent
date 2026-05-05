@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_042171",
+    "content": "larger-brained",
+    "meaning_zh": "脑容量较大的；大脑较发达的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词含义明确"
+  },
+  {
+    "item_code": "w_042181",
+    "content": "Larry Belmont",
+    "meaning_zh": "拉里·贝尔蒙特",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "人名，学习价值低"
+  },
+  {
+    "item_code": "w_042183",
+    "content": "larva phase",
+    "meaning_zh": "幼虫阶段",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生物学常见搭配"
+  },
+  {
+    "item_code": "w_042228",
+    "content": "lasting artistic works",
+    "meaning_zh": "经久不衰的艺术作品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_042229",
+    "content": "lasting impact",
+    "meaning_zh": "持久影响；深远影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "高频固定搭配"
+  },
+  {
+    "item_code": "w_042232",
+    "content": "lat",
+    "meaning_zh": "纬度",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "多为latitude缩写"
+  },
+  {
+    "item_code": "w_042237",
+    "content": "late boomer",
+    "meaning_zh": "大器晚成者；晚熟的人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语化人物称谓"
+  },
+  {
+    "item_code": "w_042240",
+    "content": "late for classes",
+    "meaning_zh": "上课迟到",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见校园表达"
+  },
+  {
+    "item_code": "w_042241",
+    "content": "late for school",
+    "meaning_zh": "上学迟到",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持该含义"
+  },
+  {
+    "item_code": "w_042247",
+    "content": "lated",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似错误或噪声"
+  },
+  {
+    "item_code": "w_042250",
+    "content": "lately propel",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_042254",
+    "content": "latent adjunct",
+    "meaning_zh": "潜在附属物；潜在附加成分",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "术语搭配较少见"
+  },
+  {
+    "item_code": "w_042257",
+    "content": "later edition",
+    "meaning_zh": "较晚版本；后续版本",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "出版类常见搭配"
+  },
+  {
+    "item_code": "w_042258",
+    "content": "later generations",
+    "meaning_zh": "后代；后世",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_042267",
+    "content": "latest paper",
+    "meaning_zh": "最新论文；最新文章",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术场景常见搭配"
+  },
+  {
+    "item_code": "w_042270",
+    "content": "latest reassure",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_042271",
+    "content": "latest style",
+    "meaning_zh": "最新款式；最新风格",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "日常常见搭配"
+  },
+  {
+    "item_code": "w_042279",
+    "content": "latin heritage",
+    "meaning_zh": "拉丁文化遗产；拉丁传统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文化主题搭配"
+  },
+  {
+    "item_code": "w_042280",
+    "content": "Latin rap",
+    "meaning_zh": "拉丁说唱音乐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "音乐类型名称"
+  },
+  {
+    "item_code": "w_042296",
+    "content": "laudatory vacuous",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配生硬难判断"
+  }
+]

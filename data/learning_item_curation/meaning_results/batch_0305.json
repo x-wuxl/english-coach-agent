@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_028970",
+    "content": "forced out of business",
+    "meaning_zh": "被迫停业；被迫倒闭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达，整体释义"
+  },
+  {
+    "item_code": "w_028971",
+    "content": "forced shopping",
+    "meaning_zh": "强制购物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅游消费表达"
+  },
+  {
+    "item_code": "w_028984",
+    "content": "forearm gland",
+    "meaning_zh": "前臂腺",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "生物学名词搭配"
+  },
+  {
+    "item_code": "w_028986",
+    "content": "forebear forsake",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_028989",
+    "content": "forebode rapproshman",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "含拼写错误和噪声"
+  },
+  {
+    "item_code": "w_029009",
+    "content": "foreign accent",
+    "meaning_zh": "外国口音",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_029012",
+    "content": "Foreign bureaus",
+    "meaning_zh": "驻外新闻分社；驻外机构",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "新闻语境常见搭配"
+  },
+  {
+    "item_code": "w_029015",
+    "content": "foreign courier",
+    "meaning_zh": "国际快递；外国信使",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "无例句，含义依搭配"
+  },
+  {
+    "item_code": "w_029018",
+    "content": "foreign exchange reserve pool",
+    "meaning_zh": "外汇储备池",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融术语搭配"
+  },
+  {
+    "item_code": "w_029019",
+    "content": "foreign garbage",
+    "meaning_zh": "洋垃圾；境外垃圾",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会议题表达"
+  },
+  {
+    "item_code": "w_029022",
+    "content": "foreign soccer coach",
+    "meaning_zh": "外籍足球教练",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_029024",
+    "content": "foreign students",
+    "meaning_zh": "外国学生；留学生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指外国留学生"
+  },
+  {
+    "item_code": "w_029038",
+    "content": "foremost economic",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "搭配不完整，疑似噪声"
+  },
+  {
+    "item_code": "w_029041",
+    "content": "forensic applause",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "搭配异常，疑似噪声"
+  },
+  {
+    "item_code": "w_029050",
+    "content": "foreseeable future",
+    "meaning_zh": "可预见的未来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定常用表达"
+  },
+  {
+    "item_code": "w_029060",
+    "content": "forest campsite",
+    "meaning_zh": "森林营地；林中露营地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_029062",
+    "content": "forest clearing",
+    "meaning_zh": "林中空地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见自然场景表达"
+  },
+  {
+    "item_code": "w_029066",
+    "content": "forest coverage rate",
+    "meaning_zh": "森林覆盖率",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环境统计术语"
+  },
+  {
+    "item_code": "w_029067",
+    "content": "forest dwelling species",
+    "meaning_zh": "森林栖息物种",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态学名词短语"
+  },
+  {
+    "item_code": "w_029069",
+    "content": "forest epiphyte",
+    "meaning_zh": "森林附生植物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态学术语"
+  }
+]

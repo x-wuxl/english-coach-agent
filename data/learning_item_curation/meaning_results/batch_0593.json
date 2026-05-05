@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_058159",
+    "content": "progressively raise retirement age",
+    "meaning_zh": "逐步提高退休年龄",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政策表达"
+  },
+  {
+    "item_code": "w_058161",
+    "content": "prohenso",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_058165",
+    "content": "prohibit Austria",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑噪声"
+  },
+  {
+    "item_code": "w_058166",
+    "content": "prohibit financier",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑噪声"
+  },
+  {
+    "item_code": "w_058169",
+    "content": "prohibit sb. from doing",
+    "meaning_zh": "禁止某人做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_058178",
+    "content": "Project 211",
+    "meaning_zh": "211工程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词，例句不匹配"
+  },
+  {
+    "item_code": "w_058179",
+    "content": "project background",
+    "meaning_zh": "项目背景",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见项目表达"
+  },
+  {
+    "item_code": "w_058180",
+    "content": "project collaboration",
+    "meaning_zh": "项目合作；项目协作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见项目表达"
+  },
+  {
+    "item_code": "w_058183",
+    "content": "project orchard",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义不明疑噪声"
+  },
+  {
+    "item_code": "w_058184",
+    "content": "project outline",
+    "meaning_zh": "项目大纲；项目概要",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见项目表达"
+  },
+  {
+    "item_code": "w_058185",
+    "content": "project request",
+    "meaning_zh": "项目申请；项目需求",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义依语境"
+  },
+  {
+    "item_code": "w_058191",
+    "content": "projection device",
+    "meaning_zh": "投影设备",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见设备名"
+  },
+  {
+    "item_code": "w_058196",
+    "content": "projector rating",
+    "meaning_zh": "投影仪评级；投影仪额定值",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义依语境"
+  },
+  {
+    "item_code": "w_058198",
+    "content": "prokaryote cell",
+    "meaning_zh": "原核细胞",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "应为生物学术语"
+  },
+  {
+    "item_code": "w_058214",
+    "content": "prolly",
+    "meaning_zh": "大概；可能",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "probably的口语写法"
+  },
+  {
+    "item_code": "w_058218",
+    "content": "prologue feisty husband abdicate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌疑噪声"
+  },
+  {
+    "item_code": "w_058220",
+    "content": "prolong time of holidays",
+    "meaning_zh": "延长假期时间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略不自然"
+  },
+  {
+    "item_code": "w_058230",
+    "content": "prominent anticipate vanilla",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌疑噪声"
+  },
+  {
+    "item_code": "w_058231",
+    "content": "prominent national",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不完整"
+  },
+  {
+    "item_code": "w_058242",
+    "content": "promising beneficial",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语并列疑噪声"
+  }
+]

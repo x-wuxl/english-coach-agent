@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_014565",
+    "content": "close to nature",
+    "meaning_zh": "亲近自然",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_014569",
+    "content": "close-book exams",
+    "meaning_zh": "闭卷考试",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "应为closed-book"
+  },
+  {
+    "item_code": "w_014573",
+    "content": "close-up magic",
+    "meaning_zh": "近景魔术",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表演术语"
+  },
+  {
+    "item_code": "w_014577",
+    "content": "closed circuit TV cameras",
+    "meaning_zh": "闭路电视摄像头；监控摄像头",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见安防术语"
+  },
+  {
+    "item_code": "w_014579",
+    "content": "closed reserve",
+    "meaning_zh": "闭架保留书库；限制借阅区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "图书馆相关表达"
+  },
+  {
+    "item_code": "w_014580",
+    "content": "closed sale",
+    "meaning_zh": "已完成的销售；成交",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "销售场景搭配"
+  },
+  {
+    "item_code": "w_014583",
+    "content": "closed-book exam",
+    "meaning_zh": "闭卷考试",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定考试表达"
+  },
+  {
+    "item_code": "w_014601",
+    "content": "closure behalf",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_014614",
+    "content": "clothing boutique",
+    "meaning_zh": "服装精品店",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商业表达"
+  },
+  {
+    "item_code": "w_014615",
+    "content": "clothing designer",
+    "meaning_zh": "服装设计师",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职业表达"
+  },
+  {
+    "item_code": "w_014616",
+    "content": "clothing line",
+    "meaning_zh": "服装系列；服装产品线",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "时尚商业常用"
+  },
+  {
+    "item_code": "w_014617",
+    "content": "clothing prop",
+    "meaning_zh": "服装道具",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "影视舞台相关"
+  },
+  {
+    "item_code": "w_014618",
+    "content": "clothing sections",
+    "meaning_zh": "服装区；服装部门",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商店常见表达"
+  },
+  {
+    "item_code": "w_014628",
+    "content": "cloud their reputations",
+    "meaning_zh": "玷污他们的名声；损害他们的声誉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "cloud作动词"
+  },
+  {
+    "item_code": "w_014632",
+    "content": "cloudburst transient",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声拼接"
+  },
+  {
+    "item_code": "w_014636",
+    "content": "clouds mask the sun",
+    "meaning_zh": "云遮住太阳",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "句意明确"
+  },
+  {
+    "item_code": "w_014639",
+    "content": "clout proofreed",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_014641",
+    "content": "clove cigarette",
+    "meaning_zh": "丁香烟",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "特定烟草名称"
+  },
+  {
+    "item_code": "w_014644",
+    "content": "cloves",
+    "meaning_zh": "瓣；丁香",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指蒜瓣"
+  },
+  {
+    "item_code": "w_014652",
+    "content": "club office",
+    "meaning_zh": "俱乐部办公室；社团办公室",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见场所表达"
+  }
+]

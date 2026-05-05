@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_071157",
+    "content": "Sunville",
+    "meaning_zh": "桑维尔，疑似地名或专名",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑似专有名词"
+  },
+  {
+    "item_code": "w_071158",
+    "content": "sunwrinkled",
+    "meaning_zh": "被太阳晒出皱纹的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_071163",
+    "content": "super online banking system",
+    "meaning_zh": "超级网上银行系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "明显为名词短语"
+  },
+  {
+    "item_code": "w_071164",
+    "content": "super over reign",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无可靠含义"
+  },
+  {
+    "item_code": "w_071166",
+    "content": "super-preferential tax policy",
+    "meaning_zh": "特别优惠的税收政策",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策类固定搭配"
+  },
+  {
+    "item_code": "w_071176",
+    "content": "superb prone",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_071181",
+    "content": "superclass",
+    "meaning_zh": "超类；父类",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_071199",
+    "content": "superficial illuminate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_071200",
+    "content": "superficial precise",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配矛盾不自然"
+  },
+  {
+    "item_code": "w_071205",
+    "content": "superfluous repel parody",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词语拼接"
+  },
+  {
+    "item_code": "w_071206",
+    "content": "superfluous sterilization",
+    "meaning_zh": "不必要的消毒；不必要的绝育",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作普通名词短语"
+  },
+  {
+    "item_code": "w_071214",
+    "content": "superimpose bribe founder",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词语拼接"
+  },
+  {
+    "item_code": "w_071219",
+    "content": "superior assistance",
+    "meaning_zh": "更优质的帮助；上级援助",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作普通短语"
+  },
+  {
+    "item_code": "w_071220",
+    "content": "superior line",
+    "meaning_zh": "上级路线；优质生产线",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义依语境变化"
+  },
+  {
+    "item_code": "w_071223",
+    "content": "superiority in",
+    "meaning_zh": "在……方面的优势",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词搭配"
+  },
+  {
+    "item_code": "w_071245",
+    "content": "superscan",
+    "meaning_zh": "超级扫描；快速全面扫描",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术类复合词"
+  },
+  {
+    "item_code": "w_071253",
+    "content": "supersonic commercial plane",
+    "meaning_zh": "超音速商用飞机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "航空类名词短语"
+  },
+  {
+    "item_code": "w_071254",
+    "content": "supersonic nude",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配无可靠含义"
+  },
+  {
+    "item_code": "w_071256",
+    "content": "supersonic transport aircraft",
+    "meaning_zh": "超音速运输机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "航空类固定表达"
+  },
+  {
+    "item_code": "w_071266",
+    "content": "superthinker",
+    "meaning_zh": "超级思考者；善于深度思考的人",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "派生复合词"
+  }
+]

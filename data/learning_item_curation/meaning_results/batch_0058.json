@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_004526",
+    "content": "arouse one's curiosity",
+    "meaning_zh": "激起某人的好奇心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_004527",
+    "content": "arouse one's interest",
+    "meaning_zh": "激起某人的兴趣",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_004528",
+    "content": "arouse people's curiosity",
+    "meaning_zh": "激起人们的好奇心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_004529",
+    "content": "arouse the enthusiasm",
+    "meaning_zh": "激发热情",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_004530",
+    "content": "arouse the interest",
+    "meaning_zh": "激起兴趣",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_004535",
+    "content": "arrange accommodation for sb.",
+    "meaning_zh": "为某人安排住宿",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见场景表达"
+  },
+  {
+    "item_code": "w_004537",
+    "content": "arrange matches and venues",
+    "meaning_zh": "安排比赛和场地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "整体含义明确"
+  },
+  {
+    "item_code": "w_004539",
+    "content": "arrange the party",
+    "meaning_zh": "安排聚会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_004545",
+    "content": "array feedback",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_004546",
+    "content": "array of",
+    "meaning_zh": "大量；一系列",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持该义"
+  },
+  {
+    "item_code": "w_004550",
+    "content": "arrest arcane sin",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串无可靠含义"
+  },
+  {
+    "item_code": "w_004556",
+    "content": "arresting premeditate dissemble",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串无可靠含义"
+  },
+  {
+    "item_code": "w_004558",
+    "content": "arrestments",
+    "meaning_zh": "扣押；逮捕",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见复数词形"
+  },
+  {
+    "item_code": "w_004563",
+    "content": "arrival airport",
+    "meaning_zh": "到达机场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "旅行场景表达"
+  },
+  {
+    "item_code": "w_004566",
+    "content": "arrival return",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_004572",
+    "content": "arrive at a place",
+    "meaning_zh": "到达某地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础固定用法"
+  },
+  {
+    "item_code": "w_004575",
+    "content": "arrive in a body",
+    "meaning_zh": "成群到达；一起到达",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可判断"
+  },
+  {
+    "item_code": "w_004576",
+    "content": "arrive in a place",
+    "meaning_zh": "到达某地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础固定用法"
+  },
+  {
+    "item_code": "w_004577",
+    "content": "arrive late",
+    "meaning_zh": "迟到；来晚",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持该义"
+  },
+  {
+    "item_code": "w_004579",
+    "content": "arrive on the job",
+    "meaning_zh": "到岗；开始工作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "职场场景表达"
+  }
+]

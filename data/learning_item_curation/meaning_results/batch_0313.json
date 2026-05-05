@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_029681",
+    "content": "from sprig to sprig",
+    "meaning_zh": "从一根小枝到另一根小枝",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定状语短语"
+  },
+  {
+    "item_code": "w_029690",
+    "content": "from the perspective of",
+    "meaning_zh": "从……的角度看",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_029693",
+    "content": "from today on",
+    "meaning_zh": "从今天起",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_029700",
+    "content": "front desk agent",
+    "meaning_zh": "前台接待员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "酒店服务常用语"
+  },
+  {
+    "item_code": "w_029702",
+    "content": "front doorbell",
+    "meaning_zh": "前门门铃",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_029708",
+    "content": "front row ticket",
+    "meaning_zh": "前排票",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_029712",
+    "content": "front-line sciences",
+    "meaning_zh": "前沿科学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "学术搭配可判断"
+  },
+  {
+    "item_code": "w_029714",
+    "content": "front-page story",
+    "meaning_zh": "头版报道",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "新闻常用表达"
+  },
+  {
+    "item_code": "w_029722",
+    "content": "frontier glow",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  },
+  {
+    "item_code": "w_029727",
+    "content": "frost grease icing",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词串"
+  },
+  {
+    "item_code": "w_029734",
+    "content": "frosty fleet cream",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词串"
+  },
+  {
+    "item_code": "w_029736",
+    "content": "froth gassy gin hooch",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词串"
+  },
+  {
+    "item_code": "w_029741",
+    "content": "frown pharingascope",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "拼写和搭配异常"
+  },
+  {
+    "item_code": "w_029745",
+    "content": "frowsy imperative",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  },
+  {
+    "item_code": "w_029751",
+    "content": "frozen food stuffs",
+    "meaning_zh": "冷冻食品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见食品类表达"
+  },
+  {
+    "item_code": "w_029752",
+    "content": "frozen fresh",
+    "meaning_zh": "新鲜冷冻的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "食品营销常用语"
+  },
+  {
+    "item_code": "w_029754",
+    "content": "frozen pork reserve",
+    "meaning_zh": "冻猪肉储备",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策经济常用语"
+  },
+  {
+    "item_code": "w_029762",
+    "content": "frudge",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准常用词"
+  },
+  {
+    "item_code": "w_029764",
+    "content": "frugal apold",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_029781",
+    "content": "fruitful function",
+    "meaning_zh": "有返回值的函数",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  }
+]

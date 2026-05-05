@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_008615",
+    "content": "being hawked by people",
+    "meaning_zh": "被人兜售；被叫卖",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解为被兜售"
+  },
+  {
+    "item_code": "w_008617",
+    "content": "belabor flippancy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_008620",
+    "content": "belated effort",
+    "meaning_zh": "迟来的努力；迟来的补救",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_008630",
+    "content": "beli",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似残词或噪声"
+  },
+  {
+    "item_code": "w_008639",
+    "content": "believe in oneself",
+    "meaning_zh": "相信自己；有自信",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_008643",
+    "content": "belikoth",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_008651",
+    "content": "bellful",
+    "meaning_zh": "一铃铛的量",
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "罕见低价值词"
+  },
+  {
+    "item_code": "w_008652",
+    "content": "bellful vacillate curtail",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串"
+  },
+  {
+    "item_code": "w_008657",
+    "content": "belligerent act",
+    "meaning_zh": "敌对行为；交战行为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_008664",
+    "content": "belly ache",
+    "meaning_zh": "肚子痛；腹痛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_008665",
+    "content": "belly bolt",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非通用表达"
+  },
+  {
+    "item_code": "w_008666",
+    "content": "belly conduct hydrolysis",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串"
+  },
+  {
+    "item_code": "w_008682",
+    "content": "below the surface of",
+    "meaning_zh": "在……表面之下；在……深层",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词短语"
+  },
+  {
+    "item_code": "w_008686",
+    "content": "Belt and Road",
+    "meaning_zh": "一带一路",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指战略名称"
+  },
+  {
+    "item_code": "w_008687",
+    "content": "Belt and Road Initiative",
+    "meaning_zh": "一带一路倡议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有政策名称"
+  },
+  {
+    "item_code": "w_008694",
+    "content": "Ben Smith",
+    "meaning_zh": "本·史密斯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "英语人名"
+  },
+  {
+    "item_code": "w_008698",
+    "content": "benchmark dose",
+    "meaning_zh": "基准剂量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "毒理学术语"
+  },
+  {
+    "item_code": "w_008700",
+    "content": "benchmark transit",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定术语"
+  },
+  {
+    "item_code": "w_008709",
+    "content": "bend spin twist",
+    "meaning_zh": "弯曲、旋转、扭转",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "动词罗列非词条"
+  },
+  {
+    "item_code": "w_008711",
+    "content": "bendgate",
+    "meaning_zh": "弯曲门事件",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有事件名称"
+  }
+]

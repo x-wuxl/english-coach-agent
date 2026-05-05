@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_062394",
+    "content": "revitalize smash osteoma",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无可靠整体含义"
+  },
+  {
+    "item_code": "w_062397",
+    "content": "revival of banking",
+    "meaning_zh": "银行业复兴",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_062399",
+    "content": "revive consequent drown",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无可靠含义"
+  },
+  {
+    "item_code": "w_062400",
+    "content": "revive dower creep",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组搭配异常"
+  },
+  {
+    "item_code": "w_062408",
+    "content": "revoke bluff",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_062409",
+    "content": "revoke license",
+    "meaning_zh": "吊销执照；撤销许可",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见法律行政搭配"
+  },
+  {
+    "item_code": "w_062411",
+    "content": "revolt against",
+    "meaning_zh": "反抗；反叛；厌恶",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_062434",
+    "content": "reward-compensation mechanism",
+    "meaning_zh": "奖励补偿机制",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "机制类名词短语"
+  },
+  {
+    "item_code": "w_062457",
+    "content": "rhetorical misapprehension",
+    "meaning_zh": "修辞性误解",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可组合理解"
+  },
+  {
+    "item_code": "w_062463",
+    "content": "rheumatoid flip irradiation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无可靠含义"
+  },
+  {
+    "item_code": "w_062475",
+    "content": "rhoda",
+    "meaning_zh": "罗达，人名",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词人名"
+  },
+  {
+    "item_code": "w_062488",
+    "content": "rhythm & blues",
+    "meaning_zh": "节奏布鲁斯；节奏蓝调",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "音乐风格术语"
+  },
+  {
+    "item_code": "w_062497",
+    "content": "rib neck",
+    "meaning_zh": "肋颈",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "解剖学术语"
+  },
+  {
+    "item_code": "w_062517",
+    "content": "rich list",
+    "meaning_zh": "富豪榜",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见媒体用语"
+  },
+  {
+    "item_code": "w_062518",
+    "content": "rich resource",
+    "meaning_zh": "丰富资源",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_062519",
+    "content": "rich second generation",
+    "meaning_zh": "富二代",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会表达"
+  },
+  {
+    "item_code": "w_062521",
+    "content": "richer",
+    "meaning_zh": "更富有的；更丰富的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指更有钱"
+  },
+  {
+    "item_code": "w_062525",
+    "content": "Richter magnitude scale",
+    "meaning_zh": "里氏震级；里氏震级表",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地震学术语"
+  },
+  {
+    "item_code": "w_062532",
+    "content": "rickety iconoclast",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无固定含义"
+  },
+  {
+    "item_code": "w_062537",
+    "content": "ricshaw",
+    "meaning_zh": "人力车",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为rickshaw拼写"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_000510",
+    "content": "a remote island",
+    "meaning_zh": "偏远的岛屿",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "名词短语"
+  },
+  {
+    "item_code": "w_000511",
+    "content": "a research project",
+    "meaning_zh": "研究项目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_000512",
+    "content": "a rhythmic rarify prophetic",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成形"
+  },
+  {
+    "item_code": "w_000513",
+    "content": "a rich bounty",
+    "meaning_zh": "丰厚的奖励；丰富的馈赠",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_000515",
+    "content": "a rigid moral code",
+    "meaning_zh": "严格的道德准则",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_000516",
+    "content": "a rise of",
+    "meaning_zh": "……的上升；……的增加",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "不完整但常见"
+  },
+  {
+    "item_code": "w_000517",
+    "content": "a robust young man",
+    "meaning_zh": "健壮的年轻男子",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容词搭配"
+  },
+  {
+    "item_code": "w_000519",
+    "content": "a round of",
+    "meaning_zh": "一阵；一轮；一回合",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持"
+  },
+  {
+    "item_code": "w_000521",
+    "content": "a ruler",
+    "meaning_zh": "尺子",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指尺子"
+  },
+  {
+    "item_code": "w_000522",
+    "content": "a rush of joy",
+    "meaning_zh": "一阵喜悦",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_000524",
+    "content": "a salvo of",
+    "meaning_zh": "一连串；一阵",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见搭配框架"
+  },
+  {
+    "item_code": "w_000525",
+    "content": "a say on sth.",
+    "meaning_zh": "对某事的发言权；对某事的意见",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配略不自然"
+  },
+  {
+    "item_code": "w_000526",
+    "content": "a say over sth.",
+    "meaning_zh": "对某事的决定权；对某事的影响力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_000527",
+    "content": "a school of design",
+    "meaning_zh": "一个设计流派；一所设计学院",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可指流派或学院"
+  },
+  {
+    "item_code": "w_000529",
+    "content": "a school of whales",
+    "meaning_zh": "一群鲸鱼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动物集合名词"
+  },
+  {
+    "item_code": "w_000533",
+    "content": "a search for ...",
+    "meaning_zh": "寻找……；搜寻……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_000536",
+    "content": "a sense of fairness",
+    "meaning_zh": "公平感",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_000537",
+    "content": "a sense of honor",
+    "meaning_zh": "荣誉感",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_000538",
+    "content": "a sense of inferiority",
+    "meaning_zh": "自卑感",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见心理表达"
+  },
+  {
+    "item_code": "w_000540",
+    "content": "a sense of well-being",
+    "meaning_zh": "幸福感；安适感",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  }
+]

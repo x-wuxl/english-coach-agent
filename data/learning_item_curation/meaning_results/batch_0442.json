@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_042298",
+    "content": "laugh at ...",
+    "meaning_zh": "嘲笑；因……发笑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_042303",
+    "content": "laugh sb.'s head off",
+    "meaning_zh": "狂笑不止",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见习语"
+  },
+  {
+    "item_code": "w_042314",
+    "content": "launch a new reform",
+    "meaning_zh": "推出一项新改革",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_042316",
+    "content": "launch forth on sth.",
+    "meaning_zh": "开始滔滔不绝地讲某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语义较固定"
+  },
+  {
+    "item_code": "w_042317",
+    "content": "launch in",
+    "meaning_zh": "开始；着手",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词"
+  },
+  {
+    "item_code": "w_042319",
+    "content": "launch new products",
+    "meaning_zh": "推出新产品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商业常见搭配"
+  },
+  {
+    "item_code": "w_042329",
+    "content": "laundrette",
+    "meaning_zh": "自助洗衣店",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "英式常见名词"
+  },
+  {
+    "item_code": "w_042331",
+    "content": "laundromat disgust",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常疑似噪声"
+  },
+  {
+    "item_code": "w_042334",
+    "content": "laundry dryer",
+    "meaning_zh": "衣物烘干机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生活用品搭配"
+  },
+  {
+    "item_code": "w_042335",
+    "content": "laundry fee",
+    "meaning_zh": "洗衣费",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "费用类常见搭配"
+  },
+  {
+    "item_code": "w_042342",
+    "content": "Laurence",
+    "meaning_zh": "劳伦斯（人名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词人名"
+  },
+  {
+    "item_code": "w_042343",
+    "content": "Laurence Lyons",
+    "meaning_zh": "劳伦斯·莱昂斯（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词人名"
+  },
+  {
+    "item_code": "w_042347",
+    "content": "lava bedrock",
+    "meaning_zh": "熔岩基岩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "地质术语搭配"
+  },
+  {
+    "item_code": "w_042357",
+    "content": "lavatory wash basin",
+    "meaning_zh": "卫生间洗手盆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生活设施搭配"
+  },
+  {
+    "item_code": "w_042361",
+    "content": "lavish diverse",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_042362",
+    "content": "lavish retentive panacea tati",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串异常疑似噪声"
+  },
+  {
+    "item_code": "w_042368",
+    "content": "law education",
+    "meaning_zh": "法学教育；法律教育",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学科类常见搭配"
+  },
+  {
+    "item_code": "w_042370",
+    "content": "law enforcement inspection",
+    "meaning_zh": "执法检查",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律行政术语"
+  },
+  {
+    "item_code": "w_042372",
+    "content": "law graduate",
+    "meaning_zh": "法学毕业生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育类常见搭配"
+  },
+  {
+    "item_code": "w_042397",
+    "content": "lawsuit reminder",
+    "meaning_zh": "诉讼提醒",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "法律通知类搭配"
+  }
+]

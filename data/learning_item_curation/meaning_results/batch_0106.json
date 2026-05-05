@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_008712",
+    "content": "bending",
+    "meaning_zh": "弯曲；弯腰",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指弯曲膝盖"
+  },
+  {
+    "item_code": "w_008714",
+    "content": "beneath the surface of",
+    "meaning_zh": "在……表面之下；隐藏在……背后",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定介词短语"
+  },
+  {
+    "item_code": "w_008724",
+    "content": "beneficial to one's health",
+    "meaning_zh": "有益健康",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见健康表达"
+  },
+  {
+    "item_code": "w_008728",
+    "content": "beneficiary settlement",
+    "meaning_zh": "受益人结算；受益人和解",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "法律金融搭配"
+  },
+  {
+    "item_code": "w_008736",
+    "content": "benefit sth. greatly",
+    "meaning_zh": "使某事物大为受益；极大有利于某事物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词搭配"
+  },
+  {
+    "item_code": "w_008738",
+    "content": "benefits of consumers",
+    "meaning_zh": "消费者利益；消费者享有的好处",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见议论文表达"
+  },
+  {
+    "item_code": "w_008745",
+    "content": "benign biopsy",
+    "meaning_zh": "良性活检结果",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学术语"
+  },
+  {
+    "item_code": "w_008749",
+    "content": "bennett",
+    "meaning_zh": "贝内特（人名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有名词"
+  },
+  {
+    "item_code": "w_008751",
+    "content": "bent in",
+    "meaning_zh": "向内弯曲",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "形容弯曲方向"
+  },
+  {
+    "item_code": "w_008752",
+    "content": "bent on doing something",
+    "meaning_zh": "决心做某事；一心想做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_008753",
+    "content": "bent on something",
+    "meaning_zh": "决心要某事；一心想要某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_008770",
+    "content": "bequeave",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_008772",
+    "content": "ber",
+    "meaning_zh": "误码率；基本编码规则",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "计算机缩写"
+  },
+  {
+    "item_code": "w_008783",
+    "content": "berkeley",
+    "meaning_zh": "伯克利（地名或学校名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词"
+  },
+  {
+    "item_code": "w_008788",
+    "content": "berry berry",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声"
+  },
+  {
+    "item_code": "w_008789",
+    "content": "berry grave",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声"
+  },
+  {
+    "item_code": "w_008791",
+    "content": "berswa",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_008800",
+    "content": "beside by",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_008816",
+    "content": "best film award",
+    "meaning_zh": "最佳影片奖",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "奖项名称"
+  },
+  {
+    "item_code": "w_008824",
+    "content": "best suited to ...",
+    "meaning_zh": "最适合……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  }
+]

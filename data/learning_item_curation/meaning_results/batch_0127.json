@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_011005",
+    "content": "building-related illness",
+    "meaning_zh": "建筑相关疾病",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环境健康常用术语"
+  },
+  {
+    "item_code": "w_011006",
+    "content": "buildings in different styles",
+    "meaning_zh": "不同风格的建筑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见建筑描述短语"
+  },
+  {
+    "item_code": "w_011010",
+    "content": "built-in function",
+    "meaning_zh": "内置函数",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_011015",
+    "content": "buldos buldoser cement conduit",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "拼写混杂且疑似噪声"
+  },
+  {
+    "item_code": "w_011016",
+    "content": "buldozer",
+    "meaning_zh": "推土机",
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "疑为bulldozer误拼"
+  },
+  {
+    "item_code": "w_011034",
+    "content": "bull mug",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配含义不明"
+  },
+  {
+    "item_code": "w_011054",
+    "content": "bullion reserves",
+    "meaning_zh": "金银储备；金条储备",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融经济常用搭配"
+  },
+  {
+    "item_code": "w_011067",
+    "content": "bumble soliloquy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接异常"
+  },
+  {
+    "item_code": "w_011073",
+    "content": "bump along",
+    "meaning_zh": "颠簸前行；勉强维持",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_011074",
+    "content": "bump down",
+    "meaning_zh": "颠簸着下降；下调",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "动词短语义项较少见"
+  },
+  {
+    "item_code": "w_011082",
+    "content": "bumpshis waylay frenzy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "含错误拼接和噪声"
+  },
+  {
+    "item_code": "w_011089",
+    "content": "bundle ... with",
+    "meaning_zh": "把……与……捆绑在一起；把……与……搭售",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配结构"
+  },
+  {
+    "item_code": "w_011090",
+    "content": "bundle ... with sth.",
+    "meaning_zh": "把……与某物捆绑在一起；把……与某物搭售",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配结构"
+  },
+  {
+    "item_code": "w_011093",
+    "content": "bungal",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "疑为bungalow残词"
+  },
+  {
+    "item_code": "w_011095",
+    "content": "bungalow flat apartment",
+    "meaning_zh": "平房、公寓等住宅类型",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "词表拼接非自然表达"
+  },
+  {
+    "item_code": "w_011113",
+    "content": "buoyant equity taxing",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠含义不明"
+  },
+  {
+    "item_code": "w_011118",
+    "content": "burden of housework",
+    "meaning_zh": "家务负担",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "雅思常见话题搭配"
+  },
+  {
+    "item_code": "w_011121",
+    "content": "burdent",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "疑为burden误拼"
+  },
+  {
+    "item_code": "w_011122",
+    "content": "burdent retinue",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "误拼且搭配异常"
+  },
+  {
+    "item_code": "w_011125",
+    "content": "bureau cart",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配含义不明"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_004580",
+    "content": "arrive on time",
+    "meaning_zh": "准时到达",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句明确为准点到达"
+  },
+  {
+    "item_code": "w_004585",
+    "content": "arrogant deserve",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无固定义"
+  },
+  {
+    "item_code": "w_004589",
+    "content": "arrow excite witlow",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声拼接"
+  },
+  {
+    "item_code": "w_004599",
+    "content": "art classroom",
+    "meaning_zh": "美术教室",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见校园场景搭配"
+  },
+  {
+    "item_code": "w_004602",
+    "content": "art exhibit",
+    "meaning_zh": "艺术展览",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见艺术主题搭配"
+  },
+  {
+    "item_code": "w_004609",
+    "content": "art groups",
+    "meaning_zh": "艺术团体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见复数名词搭配"
+  },
+  {
+    "item_code": "w_004615",
+    "content": "art supplies",
+    "meaning_zh": "美术用品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习用品搭配"
+  },
+  {
+    "item_code": "w_004616",
+    "content": "art supply store",
+    "meaning_zh": "美术用品店",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商店名称"
+  },
+  {
+    "item_code": "w_004618",
+    "content": "art-loving public",
+    "meaning_zh": "热爱艺术的公众",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "整体表达清晰"
+  },
+  {
+    "item_code": "w_004632",
+    "content": "artery voyage bureau",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无固定义"
+  },
+  {
+    "item_code": "w_004641",
+    "content": "arthritis aspen",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无固定义"
+  },
+  {
+    "item_code": "w_004642",
+    "content": "arthritis drug",
+    "meaning_zh": "关节炎药物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学主题搭配明确"
+  },
+  {
+    "item_code": "w_004643",
+    "content": "arthritis mythology medication",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声拼接"
+  },
+  {
+    "item_code": "w_004661",
+    "content": "articular resin",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见术语搭配"
+  },
+  {
+    "item_code": "w_004663",
+    "content": "articulate preservative",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无固定义"
+  },
+  {
+    "item_code": "w_004664",
+    "content": "articulate rough",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无固定义"
+  },
+  {
+    "item_code": "w_004668",
+    "content": "articultural",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_004673",
+    "content": "artificial bone tissue",
+    "meaning_zh": "人工骨组织",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学材料搭配明确"
+  },
+  {
+    "item_code": "w_004681",
+    "content": "artificial organ research",
+    "meaning_zh": "人工器官研究",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "科研主题搭配明确"
+  },
+  {
+    "item_code": "w_004684",
+    "content": "artificial pesticide",
+    "meaning_zh": "合成农药",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义清晰但搭配较少见"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_011232",
+    "content": "bus pooling",
+    "meaning_zh": "公交合乘；拼车式巴士服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "交通出行搭配"
+  },
+  {
+    "item_code": "w_011240",
+    "content": "bus token",
+    "meaning_zh": "公交代币；乘车票币",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "公共交通术语"
+  },
+  {
+    "item_code": "w_011256",
+    "content": "bushy-haired",
+    "meaning_zh": "头发浓密蓬乱的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_011273",
+    "content": "business culture",
+    "meaning_zh": "商业文化；企业文化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商务搭配"
+  },
+  {
+    "item_code": "w_011280",
+    "content": "business foresight",
+    "meaning_zh": "商业远见；商业预见力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务能力表达"
+  },
+  {
+    "item_code": "w_011306",
+    "content": "business visits",
+    "meaning_zh": "商务访问；商务拜访",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商务场景"
+  },
+  {
+    "item_code": "w_011308",
+    "content": "business-method patent filings",
+    "meaning_zh": "商业方法专利申请",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律商务术语"
+  },
+  {
+    "item_code": "w_011321",
+    "content": "bustle and hustle",
+    "meaning_zh": "喧嚣忙碌；熙熙攘攘",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定表达变体"
+  },
+  {
+    "item_code": "w_011325",
+    "content": "busy entertainment venue",
+    "meaning_zh": "热闹的娱乐场所",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "场所描述短语"
+  },
+  {
+    "item_code": "w_011327",
+    "content": "busy schedule",
+    "meaning_zh": "繁忙的日程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持释义"
+  },
+  {
+    "item_code": "w_011331",
+    "content": "busy traffic",
+    "meaning_zh": "繁忙的交通；车流密集",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持释义"
+  },
+  {
+    "item_code": "w_011336",
+    "content": "but distill",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_011337",
+    "content": "but then again",
+    "meaning_zh": "不过话说回来；但另一方面",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见转折表达"
+  },
+  {
+    "item_code": "w_011338",
+    "content": "buta",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_011355",
+    "content": "butterfly husbandry techniques",
+    "meaning_zh": "蝴蝶养殖技术",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "养殖领域术语"
+  },
+  {
+    "item_code": "w_011356",
+    "content": "butterfly rancher",
+    "meaning_zh": "蝴蝶养殖者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职业身份表达"
+  },
+  {
+    "item_code": "w_011357",
+    "content": "butterfly specimens",
+    "meaning_zh": "蝴蝶标本",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生物学习搭配"
+  },
+  {
+    "item_code": "w_011363",
+    "content": "buttock sprinkle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声短语"
+  },
+  {
+    "item_code": "w_011370",
+    "content": "buy a story book",
+    "meaning_zh": "买一本故事书",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "小学常用短语"
+  },
+  {
+    "item_code": "w_011371",
+    "content": "buy an ice cream",
+    "meaning_zh": "买一个冰淇淋",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "小学常用短语"
+  }
+]

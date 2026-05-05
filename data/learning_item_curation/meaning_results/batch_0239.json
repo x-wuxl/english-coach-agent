@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_022586",
+    "content": "drinking machines",
+    "meaning_zh": "饮水机；饮料售卖机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见设施搭配"
+  },
+  {
+    "item_code": "w_022590",
+    "content": "drinks and snacks",
+    "meaning_zh": "饮料和零食",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见并列短语"
+  },
+  {
+    "item_code": "w_022593",
+    "content": "drip out",
+    "meaning_zh": "滴出；滴落",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_022599",
+    "content": "drive a car",
+    "meaning_zh": "开车；驾驶汽车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_022601",
+    "content": "drive apart",
+    "meaning_zh": "使分开；使疏远",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语义"
+  },
+  {
+    "item_code": "w_022605",
+    "content": "drive carefully",
+    "meaning_zh": "小心驾驶；安全驾驶",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_022606",
+    "content": "drive domestic demand",
+    "meaning_zh": "拉动内需",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济类常见搭配"
+  },
+  {
+    "item_code": "w_022607",
+    "content": "drive forward the economy",
+    "meaning_zh": "推动经济发展",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济类常见表达"
+  },
+  {
+    "item_code": "w_022611",
+    "content": "drive initiation ambition quick",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词组噪声不通"
+  },
+  {
+    "item_code": "w_022612",
+    "content": "drive into action",
+    "meaning_zh": "驱使采取行动；促使行动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语义"
+  },
+  {
+    "item_code": "w_022614",
+    "content": "drive on to sth.",
+    "meaning_zh": "继续开车前往某地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配表达"
+  },
+  {
+    "item_code": "w_022615",
+    "content": "drive one's point home",
+    "meaning_zh": "把观点讲透；使观点被理解",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语"
+  },
+  {
+    "item_code": "w_022617",
+    "content": "drive sb's point home",
+    "meaning_zh": "强调某人的观点；使某人的观点被理解",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "习语变体"
+  },
+  {
+    "item_code": "w_022629",
+    "content": "drive to commute",
+    "meaning_zh": "开车通勤",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "通勤场景搭配"
+  },
+  {
+    "item_code": "w_022630",
+    "content": "drive to the gym",
+    "meaning_zh": "开车去健身房",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "日常场景短语"
+  },
+  {
+    "item_code": "w_022635",
+    "content": "drivell",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_022640",
+    "content": "driver's licence number",
+    "meaning_zh": "驾驶证号码",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "证件类常见表达"
+  },
+  {
+    "item_code": "w_022642",
+    "content": "driver's license reciprocal agreement",
+    "meaning_zh": "驾驶证互认协议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法规类固定表达"
+  },
+  {
+    "item_code": "w_022647",
+    "content": "driveway entrance",
+    "meaning_zh": "车道入口；私家车道入口",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地点设施搭配"
+  },
+  {
+    "item_code": "w_022650",
+    "content": "driving her point home",
+    "meaning_zh": "把她的观点讲透；强调她的观点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语具体形式"
+  }
+]

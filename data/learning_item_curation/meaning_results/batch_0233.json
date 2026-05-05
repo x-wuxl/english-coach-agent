@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_022009",
+    "content": "domestic and foreign entrepreneurs",
+    "meaning_zh": "国内外企业家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_022015",
+    "content": "domestic chores",
+    "meaning_zh": "家务；家庭杂务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活搭配"
+  },
+  {
+    "item_code": "w_022016",
+    "content": "domestic customize approach ivitrate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声组合"
+  },
+  {
+    "item_code": "w_022018",
+    "content": "domestic departure",
+    "meaning_zh": "国内出发；国内航班出发",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见机场表达"
+  },
+  {
+    "item_code": "w_022021",
+    "content": "domestic dwelling",
+    "meaning_zh": "家庭住宅；住所",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作建筑类搭配"
+  },
+  {
+    "item_code": "w_022028",
+    "content": "domestic tourism market",
+    "meaning_zh": "国内旅游市场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见行业术语"
+  },
+  {
+    "item_code": "w_022029",
+    "content": "domestic travel",
+    "meaning_zh": "国内旅行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅游搭配"
+  },
+  {
+    "item_code": "w_022030",
+    "content": "domestic trip",
+    "meaning_zh": "国内旅行；国内行程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅游搭配"
+  },
+  {
+    "item_code": "w_022032",
+    "content": "domestic violence restraining order",
+    "meaning_zh": "家庭暴力限制令",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律固定表达"
+  },
+  {
+    "item_code": "w_022035",
+    "content": "domestically aircraft carrier",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "语法残缺搭配异常"
+  },
+  {
+    "item_code": "w_022036",
+    "content": "domestically built aircraft carrier",
+    "meaning_zh": "国产航空母舰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见军事表达"
+  },
+  {
+    "item_code": "w_022042",
+    "content": "domical shape",
+    "meaning_zh": "穹顶形；圆顶形",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形状描述搭配"
+  },
+  {
+    "item_code": "w_022044",
+    "content": "domicile array",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然难判断"
+  },
+  {
+    "item_code": "w_022050",
+    "content": "dominant languages",
+    "meaning_zh": "主导语言；优势语言",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见语言学搭配"
+  },
+  {
+    "item_code": "w_022053",
+    "content": "dominant view",
+    "meaning_zh": "主流观点；占主导的看法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_022056",
+    "content": "dominate global AI",
+    "meaning_zh": "主导全球人工智能",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词短语清晰"
+  },
+  {
+    "item_code": "w_022057",
+    "content": "dominate hut chorus",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语随机拼接"
+  },
+  {
+    "item_code": "w_022065",
+    "content": "domininity",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_022070",
+    "content": "domitestans premature affinity stall",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声组合"
+  },
+  {
+    "item_code": "w_022077",
+    "content": "Don't litter.",
+    "meaning_zh": "不要乱扔垃圾。",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见警示句"
+  }
+]

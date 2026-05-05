@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_030117",
+    "content": "gain good value",
+    "meaning_zh": "获得良好价值；物有所值",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作短语理解"
+  },
+  {
+    "item_code": "w_030120",
+    "content": "gain increasing importance",
+    "meaning_zh": "变得越来越重要",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_030129",
+    "content": "gainsay rays immure",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌无明确含义"
+  },
+  {
+    "item_code": "w_030144",
+    "content": "galaxy quarantine",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配"
+  },
+  {
+    "item_code": "w_030148",
+    "content": "gall back handed",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "结构异常疑似噪声"
+  },
+  {
+    "item_code": "w_030152",
+    "content": "gallant conjecture",
+    "meaning_zh": "大胆的推测",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可按搭配理解"
+  },
+  {
+    "item_code": "w_030155",
+    "content": "gallbladder ostrich",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词义无自然关联"
+  },
+  {
+    "item_code": "w_030158",
+    "content": "gallery chamber compensation depression",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词堆砌疑似噪声"
+  },
+  {
+    "item_code": "w_030159",
+    "content": "gallery-bound",
+    "meaning_zh": "前往画廊的；局限于画廊的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "连字符形容词"
+  },
+  {
+    "item_code": "w_030162",
+    "content": "gallion",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_030167",
+    "content": "gallop predisposition",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配"
+  },
+  {
+    "item_code": "w_030170",
+    "content": "gallstone clue vermin",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌无明确含义"
+  },
+  {
+    "item_code": "w_030183",
+    "content": "gamble orbit overthrow participant",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词堆砌疑似噪声"
+  },
+  {
+    "item_code": "w_030184",
+    "content": "gamble rafish",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "结构异常疑似噪声"
+  },
+  {
+    "item_code": "w_030185",
+    "content": "gamble rubicand salvage",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌无明确含义"
+  },
+  {
+    "item_code": "w_030188",
+    "content": "gambling activities",
+    "meaning_zh": "赌博活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_030191",
+    "content": "game developer",
+    "meaning_zh": "游戏开发者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职业称谓"
+  },
+  {
+    "item_code": "w_030192",
+    "content": "game hog",
+    "meaning_zh": "独占游戏资源的人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "口语化复合表达"
+  },
+  {
+    "item_code": "w_030196",
+    "content": "game strategy",
+    "meaning_zh": "游戏策略；比赛策略",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_030199",
+    "content": "game-rigging",
+    "meaning_zh": "操纵比赛；比赛造假",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "连字符名词表达"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_042022",
+    "content": "land basin",
+    "meaning_zh": "陆地盆地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "地理术语搭配"
+  },
+  {
+    "item_code": "w_042026",
+    "content": "land community",
+    "meaning_zh": "陆地群落",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "生态学常见搭配"
+  },
+  {
+    "item_code": "w_042027",
+    "content": "land cutback customs",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声搭配"
+  },
+  {
+    "item_code": "w_042029",
+    "content": "land in top position",
+    "meaning_zh": "位居榜首；排名第一",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按整体短语理解"
+  },
+  {
+    "item_code": "w_042037",
+    "content": "land sale revenue",
+    "meaning_zh": "土地出让收入；土地销售收入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "财经政务常见表达"
+  },
+  {
+    "item_code": "w_042053",
+    "content": "landing garden",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不常见"
+  },
+  {
+    "item_code": "w_042057",
+    "content": "landler",
+    "meaning_zh": "兰德勒舞",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "音乐舞蹈术语"
+  },
+  {
+    "item_code": "w_042061",
+    "content": "landlocked area",
+    "meaning_zh": "内陆地区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地理常见搭配"
+  },
+  {
+    "item_code": "w_042063",
+    "content": "landlord tenant",
+    "meaning_zh": "房东与租户",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "租房场景常见搭配"
+  },
+  {
+    "item_code": "w_042065",
+    "content": "landmark and historic sites",
+    "meaning_zh": "地标和历史遗迹",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅游文化常见表达"
+  },
+  {
+    "item_code": "w_042073",
+    "content": "landscape estate",
+    "meaning_zh": "景观庄园；园林地产",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "low",
+    "reason": "缺少语境较难确定"
+  },
+  {
+    "item_code": "w_042076",
+    "content": "landscape painting scroll",
+    "meaning_zh": "山水画卷",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "艺术类固定搭配"
+  },
+  {
+    "item_code": "w_042083",
+    "content": "lane stethoscope strategy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声搭配"
+  },
+  {
+    "item_code": "w_042085",
+    "content": "lang",
+    "meaning_zh": "朗",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "例句中为姓氏"
+  },
+  {
+    "item_code": "w_042086",
+    "content": "langer",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_042087",
+    "content": "langer preclude",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声搭配"
+  },
+  {
+    "item_code": "w_042092",
+    "content": "language extinction",
+    "meaning_zh": "语言灭绝；语言消亡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "语言学常见搭配"
+  },
+  {
+    "item_code": "w_042094",
+    "content": "language interaction",
+    "meaning_zh": "语言互动；语言相互影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "语言学习常见表达"
+  },
+  {
+    "item_code": "w_042098",
+    "content": "language loss",
+    "meaning_zh": "语言丧失；语言流失",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "语言学常见搭配"
+  },
+  {
+    "item_code": "w_042099",
+    "content": "language preservation",
+    "meaning_zh": "语言保护；语言保存",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "语言学常见搭配"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_036551",
+    "content": "ice-skating facilities",
+    "meaning_zh": "滑冰设施",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见场所设施搭配"
+  },
+  {
+    "item_code": "w_036566",
+    "content": "icewar",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准词形疑似噪声"
+  },
+  {
+    "item_code": "w_036587",
+    "content": "icy assess",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_036588",
+    "content": "icy wilderness",
+    "meaning_zh": "冰雪荒野；寒冷荒原",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "自然描写常见搭配"
+  },
+  {
+    "item_code": "w_036608",
+    "content": "idendum",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准词疑似拼写错误"
+  },
+  {
+    "item_code": "w_036611",
+    "content": "identical silicosis",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "医学搭配不成立"
+  },
+  {
+    "item_code": "w_036624",
+    "content": "identify objects in nature",
+    "meaning_zh": "识别自然界中的物体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_036628",
+    "content": "identify perspire",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "动词并列无明确含义"
+  },
+  {
+    "item_code": "w_036637",
+    "content": "identity brows",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_036639",
+    "content": "identity interaction",
+    "meaning_zh": "身份互动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "学术搭配可理解"
+  },
+  {
+    "item_code": "w_036642",
+    "content": "ideographic language",
+    "meaning_zh": "表意文字语言",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "语言学术语"
+  },
+  {
+    "item_code": "w_036644",
+    "content": "ideological relieve",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_036649",
+    "content": "ideology soluble greet",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合无明确含义"
+  },
+  {
+    "item_code": "w_036650",
+    "content": "ideomatic",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似idiomatic拼写错误"
+  },
+  {
+    "item_code": "w_036652",
+    "content": "ides",
+    "meaning_zh": "集成开发环境",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "计算机主题指IDEs"
+  },
+  {
+    "item_code": "w_036654",
+    "content": "idiographic",
+    "meaning_zh": "个案研究的；描述个体特征的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "心理学学术词"
+  },
+  {
+    "item_code": "w_036659",
+    "content": "idiopathic helmet",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "医学词与helmet不搭"
+  },
+  {
+    "item_code": "w_036665",
+    "content": "idiot socket melon",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合疑似噪声"
+  },
+  {
+    "item_code": "w_036673",
+    "content": "idle zesty",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "形容词组合无固定含义"
+  },
+  {
+    "item_code": "w_036687",
+    "content": "idyllic poem",
+    "meaning_zh": "田园诗；描写恬静乡村生活的诗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文学搭配含义明确"
+  }
+]

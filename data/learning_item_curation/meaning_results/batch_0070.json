@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_005656",
+    "content": "audience applicant coach",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组拼接噪声"
+  },
+  {
+    "item_code": "w_005657",
+    "content": "audience members",
+    "meaning_zh": "观众成员；听众",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_005659",
+    "content": "audience walkout",
+    "meaning_zh": "观众退场抗议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定场景表达"
+  },
+  {
+    "item_code": "w_005666",
+    "content": "audio-visual product",
+    "meaning_zh": "音像制品；视听产品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_005669",
+    "content": "audiolingual method",
+    "meaning_zh": "听说教学法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "语言教学术语"
+  },
+  {
+    "item_code": "w_005681",
+    "content": "auditing-based oversight",
+    "meaning_zh": "基于审计的监管",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "管理监管术语"
+  },
+  {
+    "item_code": "w_005692",
+    "content": "auger exuberant",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语搭配异常"
+  },
+  {
+    "item_code": "w_005695",
+    "content": "augmented assignment",
+    "meaning_zh": "增强赋值",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程术语"
+  },
+  {
+    "item_code": "w_005721",
+    "content": "auspicious date",
+    "meaning_zh": "吉日；黄道吉日",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见文化表达"
+  },
+  {
+    "item_code": "w_005731",
+    "content": "Australian football",
+    "meaning_zh": "澳式足球",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "运动名称"
+  },
+  {
+    "item_code": "w_005739",
+    "content": "authentic fail refute",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组拼接噪声"
+  },
+  {
+    "item_code": "w_005740",
+    "content": "authentic predilection steep",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组拼接噪声"
+  },
+  {
+    "item_code": "w_005746",
+    "content": "Authenticity Programme",
+    "meaning_zh": "真实性项目；真品认证计划",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "项目名称或专有表达"
+  },
+  {
+    "item_code": "w_005748",
+    "content": "author autobiography",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语并列噪声"
+  },
+  {
+    "item_code": "w_005756",
+    "content": "authoritarian infest",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语搭配异常"
+  },
+  {
+    "item_code": "w_005772",
+    "content": "authorized busker",
+    "meaning_zh": "获准街头表演者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_005775",
+    "content": "autism cognition",
+    "meaning_zh": "自闭症认知",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "心理学相关短语"
+  },
+  {
+    "item_code": "w_005778",
+    "content": "auto automation",
+    "meaning_zh": "汽车自动化；自动化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义依语境变化"
+  },
+  {
+    "item_code": "w_005786",
+    "content": "auto replacement",
+    "meaning_zh": "汽车更换；自动替换",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义依语境变化"
+  },
+  {
+    "item_code": "w_005788",
+    "content": "auto show model",
+    "meaning_zh": "车展模特",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见行业表达"
+  }
+]

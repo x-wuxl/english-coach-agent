@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_014001",
+    "content": "cilia fatigue",
+    "meaning_zh": "纤毛疲劳",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学术语短语"
+  },
+  {
+    "item_code": "w_014020",
+    "content": "cinema multiplex comedy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组拼接噪声"
+  },
+  {
+    "item_code": "w_014021",
+    "content": "cinema with six screens",
+    "meaning_zh": "有六个放映厅的电影院",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "描述性短语"
+  },
+  {
+    "item_code": "w_014026",
+    "content": "cinematographic art",
+    "meaning_zh": "电影艺术",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见影视术语"
+  },
+  {
+    "item_code": "w_014028",
+    "content": "cinerarium inspire exposure",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无自然搭配"
+  },
+  {
+    "item_code": "w_014031",
+    "content": "cinnamicalcohol",
+    "meaning_zh": "肉桂醇",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "化学术语变体"
+  },
+  {
+    "item_code": "w_014036",
+    "content": "cipher dextrous",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词义不相关"
+  },
+  {
+    "item_code": "w_014040",
+    "content": "circadian innate",
+    "meaning_zh": "先天的昼夜节律",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "生物节律搭配"
+  },
+  {
+    "item_code": "w_014047",
+    "content": "circle round square diamond",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个词堆叠"
+  },
+  {
+    "item_code": "w_014053",
+    "content": "circuit object",
+    "meaning_zh": "电路对象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术短语"
+  },
+  {
+    "item_code": "w_014054",
+    "content": "circuit tomography",
+    "meaning_zh": "电路层析成像",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专业技术术语"
+  },
+  {
+    "item_code": "w_014055",
+    "content": "circuit-breaker mechanism",
+    "meaning_zh": "断路器机制；熔断机制",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见专业表达"
+  },
+  {
+    "item_code": "w_014057",
+    "content": "circuitous in coit divestiture",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似乱码噪声"
+  },
+  {
+    "item_code": "w_014066",
+    "content": "circular-screen movie",
+    "meaning_zh": "环幕电影",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "影视术语"
+  },
+  {
+    "item_code": "w_014067",
+    "content": "circularity",
+    "meaning_zh": "圆形度；循环性；循环论证",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象名词"
+  },
+  {
+    "item_code": "w_014069",
+    "content": "circulate deduct",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "动词拼接噪声"
+  },
+  {
+    "item_code": "w_014070",
+    "content": "circulate to",
+    "meaning_zh": "传阅给；流通到",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "动词介词搭配"
+  },
+  {
+    "item_code": "w_014076",
+    "content": "circulation history",
+    "meaning_zh": "流通历史；发行历史",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "名词搭配"
+  },
+  {
+    "item_code": "w_014080",
+    "content": "circum",
+    "meaning_zh": "周围；环绕",
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "词根非完整词"
+  },
+  {
+    "item_code": "w_014095",
+    "content": "circumscripe",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  }
+]

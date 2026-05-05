@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_051214",
+    "content": "of the family",
+    "meaning_zh": "家里的；家族中的；全家的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语片段，例句可判断"
+  },
+  {
+    "item_code": "w_051231",
+    "content": "off one's radar",
+    "meaning_zh": "不在某人关注范围内；被某人忽视",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_051232",
+    "content": "off season",
+    "meaning_zh": "淡季；休赛期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_051243",
+    "content": "off the starting line",
+    "meaning_zh": "从起跑线出发；开始行动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_051250",
+    "content": "off-campus student",
+    "meaning_zh": "校外住宿学生；走读生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "校园常见术语"
+  },
+  {
+    "item_code": "w_051254",
+    "content": "off-hour hobby",
+    "meaning_zh": "业余爱好；非工作时间的爱好",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "搭配含义直接"
+  },
+  {
+    "item_code": "w_051256",
+    "content": "off-kilter",
+    "meaning_zh": "失衡的；不正常的；不协调的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词"
+  },
+  {
+    "item_code": "w_051259",
+    "content": "off-payroll income",
+    "meaning_zh": "工资外收入；编外收入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "财务搭配"
+  },
+  {
+    "item_code": "w_051274",
+    "content": "offend one's ear",
+    "meaning_zh": "刺耳；使人听着不舒服",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_051275",
+    "content": "offend one's eye",
+    "meaning_zh": "碍眼；使人看着不舒服",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_051278",
+    "content": "offended",
+    "meaning_zh": "被冒犯的；生气的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持冒犯义"
+  },
+  {
+    "item_code": "w_051283",
+    "content": "offensive bowel",
+    "meaning_zh": "有恶臭的排便",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "low",
+    "reason": "搭配少见，可能医学语境"
+  },
+  {
+    "item_code": "w_051284",
+    "content": "offensive scandal",
+    "meaning_zh": "令人反感的丑闻",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配含义可推断"
+  },
+  {
+    "item_code": "w_051287",
+    "content": "offer ... a hand",
+    "meaning_zh": "帮……一把；向……提供帮助",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_051288",
+    "content": "offer a discount",
+    "meaning_zh": "提供折扣；打折",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商务搭配"
+  },
+  {
+    "item_code": "w_051289",
+    "content": "offer advice",
+    "meaning_zh": "提出建议；提供意见",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_051290",
+    "content": "offer advice about ...",
+    "meaning_zh": "就……提出建议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_051291",
+    "content": "offer advice on ...",
+    "meaning_zh": "就……提出建议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_051293",
+    "content": "offer financial aid",
+    "meaning_zh": "提供经济援助；提供助学金",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育资助搭配"
+  },
+  {
+    "item_code": "w_051294",
+    "content": "offer reduction",
+    "meaning_zh": "提供减价；给予折扣",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解但少见"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_000433",
+    "content": "a panda",
+    "meaning_zh": "一只熊猫",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指熊猫"
+  },
+  {
+    "item_code": "w_000434",
+    "content": "a pane of glass",
+    "meaning_zh": "一块玻璃；一片窗玻璃",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_000437",
+    "content": "a passing fad",
+    "meaning_zh": "一时的风尚；短暂的流行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配含义明确"
+  },
+  {
+    "item_code": "w_000438",
+    "content": "a passive viewer",
+    "meaning_zh": "被动的观看者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见描述性短语"
+  },
+  {
+    "item_code": "w_000439",
+    "content": "a past-tense condition",
+    "meaning_zh": "过去时条件句；过去时条件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语法术语短语"
+  },
+  {
+    "item_code": "w_000440",
+    "content": "a patent attorney",
+    "meaning_zh": "专利律师；专利代理人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律职业术语"
+  },
+  {
+    "item_code": "w_000441",
+    "content": "a patriotic Chu poet",
+    "meaning_zh": "一位爱国的楚国诗人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "文化背景短语"
+  },
+  {
+    "item_code": "w_000444",
+    "content": "a pear",
+    "meaning_zh": "一个梨",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指水果梨"
+  },
+  {
+    "item_code": "w_000446",
+    "content": "a pencil",
+    "meaning_zh": "一支铅笔",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指铅笔"
+  },
+  {
+    "item_code": "w_000447",
+    "content": "a pencil box",
+    "meaning_zh": "一个铅笔盒",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "小学常见短语"
+  },
+  {
+    "item_code": "w_000448",
+    "content": "a perforated eardrum",
+    "meaning_zh": "鼓膜穿孔",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学常见表达"
+  },
+  {
+    "item_code": "w_000449",
+    "content": "a phone call away",
+    "meaning_zh": "打个电话就能联系到；近在电话之间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_000450",
+    "content": "a physical newspaper",
+    "meaning_zh": "纸质报纸；实体报纸",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "与电子报纸相对"
+  },
+  {
+    "item_code": "w_000455",
+    "content": "a piece of clothing",
+    "meaning_zh": "一件衣服",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础量词短语"
+  },
+  {
+    "item_code": "w_000458",
+    "content": "a pillar industry",
+    "meaning_zh": "支柱产业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济常用搭配"
+  },
+  {
+    "item_code": "w_000459",
+    "content": "a pink slip",
+    "meaning_zh": "解雇通知书",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_000460",
+    "content": "a place of interest",
+    "meaning_zh": "名胜；旅游景点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "考试常见短语"
+  },
+  {
+    "item_code": "w_000461",
+    "content": "a plan of action",
+    "meaning_zh": "行动计划",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_000463",
+    "content": "a plant-powered device",
+    "meaning_zh": "植物供能设备",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "科技类复合短语"
+  },
+  {
+    "item_code": "w_000464",
+    "content": "a plate of",
+    "meaning_zh": "一盘；一碟",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句为食物量词"
+  }
+]

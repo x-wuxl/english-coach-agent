@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_011483",
+    "content": "by relays",
+    "meaning_zh": "轮流地；以接力方式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定表达但语境不足"
+  },
+  {
+    "item_code": "w_011489",
+    "content": "by sb.'s estimate",
+    "meaning_zh": "据某人估计",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词短语"
+  },
+  {
+    "item_code": "w_011490",
+    "content": "by school bus",
+    "meaning_zh": "乘校车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见交通表达"
+  },
+  {
+    "item_code": "w_011492",
+    "content": "by sheer chance",
+    "meaning_zh": "纯属偶然",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_011505",
+    "content": "by the middle of",
+    "meaning_zh": "到……中期；在……中旬前",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "时间介词短语"
+  },
+  {
+    "item_code": "w_011518",
+    "content": "by unscrupulous means",
+    "meaning_zh": "通过不择手段",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定方式表达"
+  },
+  {
+    "item_code": "w_011547",
+    "content": "byte string",
+    "meaning_zh": "字节字符串",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_011548",
+    "content": "bytecode",
+    "meaning_zh": "字节码",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_011549",
+    "content": "bytes-like object",
+    "meaning_zh": "类字节对象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程术语"
+  },
+  {
+    "item_code": "w_011555",
+    "content": "byzantine inert",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_011556",
+    "content": "bête noire",
+    "meaning_zh": "最讨厌的人或事；克星",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见外来固定表达"
+  },
+  {
+    "item_code": "w_011557",
+    "content": "B站UP主TUO图欧君整理出品，网址：https://space.bilibili.com/36184593",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "来源信息噪声"
+  },
+  {
+    "item_code": "w_011559",
+    "content": "C and D",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写含义不明"
+  },
+  {
+    "item_code": "w_011573",
+    "content": "cab-hailing apps",
+    "meaning_zh": "网约车应用；叫车软件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见应用表达"
+  },
+  {
+    "item_code": "w_011579",
+    "content": "cabbage lettuce",
+    "meaning_zh": "卷心莴苣；结球生菜",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "植物名称"
+  },
+  {
+    "item_code": "w_011587",
+    "content": "cabin key",
+    "meaning_zh": "客舱钥匙；舱房钥匙",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "名词搭配语境不足"
+  },
+  {
+    "item_code": "w_011588",
+    "content": "cabin shed",
+    "meaning_zh": "小木屋棚屋",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "普通名词搭配"
+  },
+  {
+    "item_code": "w_011593",
+    "content": "cable cane",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  },
+  {
+    "item_code": "w_011608",
+    "content": "cacophonus",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_011612",
+    "content": "cactus plant",
+    "meaning_zh": "仙人掌植物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "植物名称"
+  }
+]

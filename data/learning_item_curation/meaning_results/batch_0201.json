@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_018724",
+    "content": "cynicure",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_018728",
+    "content": "cypochro annoy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无可靠含义"
+  },
+  {
+    "item_code": "w_018730",
+    "content": "cyroid",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_018773",
+    "content": "d'Incarville",
+    "meaning_zh": "汤执中；法国传教士兼植物学家",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有名词"
+  },
+  {
+    "item_code": "w_018778",
+    "content": "D/N",
+    "meaning_zh": "借记单",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "商务缩写"
+  },
+  {
+    "item_code": "w_018783",
+    "content": "dabble backslide",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_018799",
+    "content": "dagger performance paddle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_018803",
+    "content": "daily circulation",
+    "meaning_zh": "日发行量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见出版搭配"
+  },
+  {
+    "item_code": "w_018805",
+    "content": "daily goods",
+    "meaning_zh": "日用品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活词组"
+  },
+  {
+    "item_code": "w_018807",
+    "content": "daily magazines",
+    "meaning_zh": "日刊杂志；每日出版的杂志",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "出版类搭配"
+  },
+  {
+    "item_code": "w_018811",
+    "content": "daily press",
+    "meaning_zh": "日报；每日新闻媒体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见媒体表达"
+  },
+  {
+    "item_code": "w_018812",
+    "content": "daily quarterly monthly",
+    "meaning_zh": "每日的；每季度的；每月的",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "词语列表非词条"
+  },
+  {
+    "item_code": "w_018813",
+    "content": "daily relaxation",
+    "meaning_zh": "日常放松",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活搭配"
+  },
+  {
+    "item_code": "w_018815",
+    "content": "daily routines",
+    "meaning_zh": "日常作息；日常事务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_018817",
+    "content": "daily workout",
+    "meaning_zh": "日常锻炼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见运动搭配"
+  },
+  {
+    "item_code": "w_018826",
+    "content": "Daisuke Inoue",
+    "meaning_zh": "井上大佑；卡拉OK发明者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人名专有名词"
+  },
+  {
+    "item_code": "w_018832",
+    "content": "dam inconsistent moisture",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_018834",
+    "content": "damage one's reputation",
+    "meaning_zh": "损害某人的名誉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_018849",
+    "content": "dampen our moods",
+    "meaning_zh": "使我们的心情低落",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_018854",
+    "content": "Dan Dervish",
+    "meaning_zh": "丹·德维什",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "人名专有名词"
+  }
+]

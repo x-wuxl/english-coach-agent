@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_067285",
+    "content": "slippery quash",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成立，疑似噪声"
+  },
+  {
+    "item_code": "w_067287",
+    "content": "slipshod undermine",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成立，疑似噪声"
+  },
+  {
+    "item_code": "w_067290",
+    "content": "slit mature",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成立，疑似噪声"
+  },
+  {
+    "item_code": "w_067298",
+    "content": "slogan voucher",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成立，疑似噪声"
+  },
+  {
+    "item_code": "w_067303",
+    "content": "slope plight",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成立，疑似噪声"
+  },
+  {
+    "item_code": "w_067305",
+    "content": "sloping cone",
+    "meaning_zh": "倾斜的锥体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作几何描述短语"
+  },
+  {
+    "item_code": "w_067308",
+    "content": "sloppy obstruct",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成立，疑似噪声"
+  },
+  {
+    "item_code": "w_067311",
+    "content": "slot ... into",
+    "meaning_zh": "把……放入；把……安排进",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_067313",
+    "content": "slot in",
+    "meaning_zh": "插入；安排进去；融入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词"
+  },
+  {
+    "item_code": "w_067314",
+    "content": "slot it in",
+    "meaning_zh": "把它安排进去；把它插进去",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见口语搭配"
+  },
+  {
+    "item_code": "w_067319",
+    "content": "slouch peripatetic",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成立，疑似噪声"
+  },
+  {
+    "item_code": "w_067330",
+    "content": "slovenly regiment",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成立，疑似噪声"
+  },
+  {
+    "item_code": "w_067332",
+    "content": "slow down declines",
+    "meaning_zh": "减缓下降",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解为动宾短语"
+  },
+  {
+    "item_code": "w_067333",
+    "content": "slow down in turns",
+    "meaning_zh": "轮流减速",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作短语理解"
+  },
+  {
+    "item_code": "w_067342",
+    "content": "slow-growing animals",
+    "meaning_zh": "生长缓慢的动物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常规形容词短语"
+  },
+  {
+    "item_code": "w_067354",
+    "content": "sluggard vaporize",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成立，疑似噪声"
+  },
+  {
+    "item_code": "w_067358",
+    "content": "sluggish flatter vagrant",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成立，疑似噪声"
+  },
+  {
+    "item_code": "w_067360",
+    "content": "sluggish perpetual insucient",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含拼写错误且不成词组"
+  },
+  {
+    "item_code": "w_067366",
+    "content": "slum historian",
+    "meaning_zh": "贫民窟历史学家；研究贫民窟的历史学家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作名词短语理解"
+  },
+  {
+    "item_code": "w_067368",
+    "content": "slumber cleave forge",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成立，疑似噪声"
+  }
+]

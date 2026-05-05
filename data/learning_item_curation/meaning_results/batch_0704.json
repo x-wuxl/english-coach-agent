@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_069357",
+    "content": "stare recognize",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配"
+  },
+  {
+    "item_code": "w_069358",
+    "content": "stare resignation track",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配"
+  },
+  {
+    "item_code": "w_069377",
+    "content": "start a club",
+    "meaning_zh": "创办俱乐部",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_069379",
+    "content": "start a restaurant",
+    "meaning_zh": "开一家餐馆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_069382",
+    "content": "start filming",
+    "meaning_zh": "开始拍摄",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_069385",
+    "content": "Start of Spring",
+    "meaning_zh": "立春",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "节气名称"
+  },
+  {
+    "item_code": "w_069388",
+    "content": "start one's own business",
+    "meaning_zh": "创业；自己开公司",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_069390",
+    "content": "start publication",
+    "meaning_zh": "开始出版；开始发行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "出版语境搭配"
+  },
+  {
+    "item_code": "w_069391",
+    "content": "start schooling",
+    "meaning_zh": "开始上学；入学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育语境搭配"
+  },
+  {
+    "item_code": "w_069399",
+    "content": "start-up friendly city",
+    "meaning_zh": "创业友好型城市",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商业常用表达"
+  },
+  {
+    "item_code": "w_069400",
+    "content": "start-up funding",
+    "meaning_zh": "创业启动资金",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务术语"
+  },
+  {
+    "item_code": "w_069401",
+    "content": "started to buy things",
+    "meaning_zh": "开始买东西",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础短语"
+  },
+  {
+    "item_code": "w_069402",
+    "content": "started to speak",
+    "meaning_zh": "开始说话；开始讲",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  },
+  {
+    "item_code": "w_069403",
+    "content": "started to study English",
+    "meaning_zh": "开始学习英语",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础短语"
+  },
+  {
+    "item_code": "w_069413",
+    "content": "startle millionaire",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配"
+  },
+  {
+    "item_code": "w_069414",
+    "content": "startle push cart stopover",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词串噪声"
+  },
+  {
+    "item_code": "w_069418",
+    "content": "startling news",
+    "meaning_zh": "令人震惊的消息",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_069423",
+    "content": "starve oneself to death",
+    "meaning_zh": "绝食而死；饿死自己",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_069426",
+    "content": "starve vitiate",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配"
+  },
+  {
+    "item_code": "w_069433",
+    "content": "State Department Building",
+    "meaning_zh": "美国国务院大楼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词"
+  }
+]

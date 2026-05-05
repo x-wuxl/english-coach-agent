@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_060551",
+    "content": "receive one's doctor's degree",
+    "meaning_zh": "获得博士学位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_060552",
+    "content": "receive voluntary donation",
+    "meaning_zh": "接受自愿捐赠",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_060559",
+    "content": "receiving operator",
+    "meaning_zh": "接收操作员；接线员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "术语含义需语境"
+  },
+  {
+    "item_code": "w_060562",
+    "content": "recent history",
+    "meaning_zh": "近代史；近期历史",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_060563",
+    "content": "recent picture",
+    "meaning_zh": "近照",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句明确"
+  },
+  {
+    "item_code": "w_060564",
+    "content": "recent recently current",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "同义词堆叠噪声"
+  },
+  {
+    "item_code": "w_060565",
+    "content": "recent success",
+    "meaning_zh": "近期的成功；最近的成就",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_060566",
+    "content": "recentivate prototype",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_060568",
+    "content": "recent survey",
+    "meaning_zh": "最近的调查",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句明确"
+  },
+  {
+    "item_code": "w_060572",
+    "content": "reception capacity",
+    "meaning_zh": "接待能力；接收容量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境决定侧重"
+  },
+  {
+    "item_code": "w_060573",
+    "content": "reception costs",
+    "meaning_zh": "接待费用；招待费",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见费用表达"
+  },
+  {
+    "item_code": "w_060598",
+    "content": "recherché",
+    "meaning_zh": "精心挑选的；异乎寻常的；矫揉造作的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "GRE常见难词"
+  },
+  {
+    "item_code": "w_060604",
+    "content": "recipient annoy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_060607",
+    "content": "reciprocal weld succumb",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无自然搭配"
+  },
+  {
+    "item_code": "w_060617",
+    "content": "recite stray span",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无自然搭配"
+  },
+  {
+    "item_code": "w_060620",
+    "content": "reckless exploitation",
+    "meaning_zh": "肆意开发；鲁莽剥削",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见环保语境"
+  },
+  {
+    "item_code": "w_060621",
+    "content": "reckless personal spending",
+    "meaning_zh": "鲁莽的个人消费；挥霍无度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_060623",
+    "content": "recklessly probation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "语法不成搭配"
+  },
+  {
+    "item_code": "w_060627",
+    "content": "reckon ... to be",
+    "meaning_zh": "认为……是；把……看作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型"
+  },
+  {
+    "item_code": "w_060629",
+    "content": "reckon brim",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无自然搭配"
+  }
+]

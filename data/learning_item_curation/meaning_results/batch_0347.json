@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_032893",
+    "content": "guidance and support",
+    "meaning_zh": "指导与支持",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_032899",
+    "content": "guide interpreter",
+    "meaning_zh": "导游兼口译员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职业类搭配"
+  },
+  {
+    "item_code": "w_032904",
+    "content": "guided bushwalk",
+    "meaning_zh": "有导游带领的丛林徒步",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅游活动搭配"
+  },
+  {
+    "item_code": "w_032910",
+    "content": "guidelines for education",
+    "meaning_zh": "教育指导方针",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育主题搭配"
+  },
+  {
+    "item_code": "w_032915",
+    "content": "guild inspect",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_032916",
+    "content": "guild membership",
+    "meaning_zh": "行会会员资格",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_032917",
+    "content": "guild obloquy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_032924",
+    "content": "guilt aphorism",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_032925",
+    "content": "guilt-prone",
+    "meaning_zh": "容易内疚的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见复合形容词"
+  },
+  {
+    "item_code": "w_032930",
+    "content": "guilty theorist deflection",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "语义不明确"
+  },
+  {
+    "item_code": "w_032950",
+    "content": "gum digging",
+    "meaning_zh": "挖采树胶",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "特定活动搭配"
+  },
+  {
+    "item_code": "w_032958",
+    "content": "gun violence",
+    "meaning_zh": "枪支暴力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "社会议题常用语"
+  },
+  {
+    "item_code": "w_032968",
+    "content": "gurmand",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_032973",
+    "content": "gush advert",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_032981",
+    "content": "gut container summary",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "语义不明确"
+  },
+  {
+    "item_code": "w_032982",
+    "content": "gut harness",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_032993",
+    "content": "guy youngster",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_032994",
+    "content": "guys",
+    "meaning_zh": "家伙们；你们；各位",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句吻合"
+  },
+  {
+    "item_code": "w_032997",
+    "content": "gym pass",
+    "meaning_zh": "健身房通行证",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生活场景常用语"
+  },
+  {
+    "item_code": "w_033015",
+    "content": "gynecology powder",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  }
+]

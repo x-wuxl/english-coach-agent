@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_009032",
+    "content": "Big Wild Goose Pagoda",
+    "meaning_zh": "大雁塔",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有地名"
+  },
+  {
+    "item_code": "w_009047",
+    "content": "bigot connoisseur",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组搭配异常"
+  },
+  {
+    "item_code": "w_009053",
+    "content": "bike ride",
+    "meaning_zh": "骑自行车；骑车出行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活短语"
+  },
+  {
+    "item_code": "w_009061",
+    "content": "bilateral bruise",
+    "meaning_zh": "双侧瘀伤",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学描述短语"
+  },
+  {
+    "item_code": "w_009072",
+    "content": "bilingual lecturing",
+    "meaning_zh": "双语授课",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育场景搭配"
+  },
+  {
+    "item_code": "w_009074",
+    "content": "bilioenteric",
+    "meaning_zh": "胆肠的；胆道与肠道有关的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学术语"
+  },
+  {
+    "item_code": "w_009081",
+    "content": "bill conceal pursue",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词表噪声"
+  },
+  {
+    "item_code": "w_009089",
+    "content": "billboard campaign",
+    "meaning_zh": "广告牌宣传活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "营销常见搭配"
+  },
+  {
+    "item_code": "w_009090",
+    "content": "billboard design",
+    "meaning_zh": "广告牌设计",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "设计类常见搭配"
+  },
+  {
+    "item_code": "w_009117",
+    "content": "bimonthly magazine",
+    "meaning_zh": "双月刊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "期刊表达有歧义"
+  },
+  {
+    "item_code": "w_009122",
+    "content": "binary file",
+    "meaning_zh": "二进制文件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_009124",
+    "content": "binary sequence",
+    "meaning_zh": "二进制序列",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_009128",
+    "content": "bind binder booklet",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词表噪声"
+  },
+  {
+    "item_code": "w_009136",
+    "content": "binocular phosphorus syphilis",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语无合理搭配"
+  },
+  {
+    "item_code": "w_009141",
+    "content": "bio-economy",
+    "meaning_zh": "生物经济",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见复合词"
+  },
+  {
+    "item_code": "w_009154",
+    "content": "biochemical change",
+    "meaning_zh": "生化变化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "科学常见搭配"
+  },
+  {
+    "item_code": "w_009155",
+    "content": "biochemical weapon",
+    "meaning_zh": "生化武器",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见术语"
+  },
+  {
+    "item_code": "w_009161",
+    "content": "biocontrol agents",
+    "meaning_zh": "生物防治剂；生物防治因子",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "农业生物术语"
+  },
+  {
+    "item_code": "w_009162",
+    "content": "bioda",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_009165",
+    "content": "biodegradable packaging",
+    "meaning_zh": "可生物降解包装",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保常见搭配"
+  }
+]

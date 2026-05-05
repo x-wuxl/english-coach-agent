@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_038886",
+    "content": "information hiding",
+    "meaning_zh": "信息隐藏；信息隐蔽",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_038887",
+    "content": "information of housing",
+    "meaning_zh": "住房信息",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语表达略生硬"
+  },
+  {
+    "item_code": "w_038888",
+    "content": "information of new products",
+    "meaning_zh": "新产品信息",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按整体短语释义"
+  },
+  {
+    "item_code": "w_038889",
+    "content": "information of ordering goods",
+    "meaning_zh": "订货信息；商品订购信息",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按商务场景理解"
+  },
+  {
+    "item_code": "w_038893",
+    "content": "information sectors",
+    "meaning_zh": "信息行业；信息产业部门",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "行业类固定搭配"
+  },
+  {
+    "item_code": "w_038900",
+    "content": "information-rich site",
+    "meaning_zh": "信息丰富的网站",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务英语常见表达"
+  },
+  {
+    "item_code": "w_038906",
+    "content": "informed citizenry",
+    "meaning_zh": "见多识广的公民群体；知情的公民",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治社会类搭配"
+  },
+  {
+    "item_code": "w_038907",
+    "content": "informed source",
+    "meaning_zh": "消息灵通人士；可靠消息来源",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "新闻语境常见搭配"
+  },
+  {
+    "item_code": "w_038916",
+    "content": "infrared imaging technology",
+    "meaning_zh": "红外成像技术",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术术语明确"
+  },
+  {
+    "item_code": "w_038921",
+    "content": "infrared-automated",
+    "meaning_zh": "红外自动控制的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "复合形容词无例句"
+  },
+  {
+    "item_code": "w_038931",
+    "content": "infringe a law",
+    "meaning_zh": "违法；违反法律",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动宾搭配明确"
+  },
+  {
+    "item_code": "w_038948",
+    "content": "ingenuity descendant clement",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠疑似噪声"
+  },
+  {
+    "item_code": "w_038950",
+    "content": "ingenuous seduce",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_038953",
+    "content": "ingenuus",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非英语常用词"
+  },
+  {
+    "item_code": "w_038961",
+    "content": "ingrained innkeeper",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无自然搭配意义"
+  },
+  {
+    "item_code": "w_038967",
+    "content": "ingredient boil fry",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠疑似噪声"
+  },
+  {
+    "item_code": "w_038972",
+    "content": "ingénue",
+    "meaning_zh": "天真少女；扮演天真少女的女演员",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "GRE常见外来词"
+  },
+  {
+    "item_code": "w_038981",
+    "content": "inhale air",
+    "meaning_zh": "吸入空气",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动宾搭配明确"
+  },
+  {
+    "item_code": "w_038982",
+    "content": "inhale fresh air",
+    "meaning_zh": "呼吸新鲜空气；吸入新鲜空气",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_038988",
+    "content": "inherent excavate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  }
+]

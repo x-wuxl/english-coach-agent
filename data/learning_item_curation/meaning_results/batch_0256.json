@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_024307",
+    "content": "enable ... to",
+    "meaning_zh": "使……能够",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_024309",
+    "content": "enable enable",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "重复噪声"
+  },
+  {
+    "item_code": "w_024318",
+    "content": "enamored pout retainer",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无意义词串"
+  },
+  {
+    "item_code": "w_024320",
+    "content": "enamoured",
+    "meaning_zh": "倾心的；迷恋的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "英式拼写"
+  },
+  {
+    "item_code": "w_024364",
+    "content": "encounter opposition",
+    "meaning_zh": "遭遇反对",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_024365",
+    "content": "encounter trouble",
+    "meaning_zh": "遇到麻烦",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_024368",
+    "content": "encourage discourage food",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无意义词串"
+  },
+  {
+    "item_code": "w_024381",
+    "content": "encumber mastery",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无意义搭配"
+  },
+  {
+    "item_code": "w_024412",
+    "content": "endangered plants and animals",
+    "meaning_zh": "濒危动植物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "主题常见表达"
+  },
+  {
+    "item_code": "w_024423",
+    "content": "endeavor depressed subsidy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无意义词串"
+  },
+  {
+    "item_code": "w_024424",
+    "content": "endeavor to do sth.",
+    "meaning_zh": "努力做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_024427",
+    "content": "endemic derelict",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无意义搭配"
+  },
+  {
+    "item_code": "w_024428",
+    "content": "endemic paralyze",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无意义搭配"
+  },
+  {
+    "item_code": "w_024432",
+    "content": "endermic proximate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无意义搭配"
+  },
+  {
+    "item_code": "w_024472",
+    "content": "endorse modern oblivious",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无意义词串"
+  },
+  {
+    "item_code": "w_024473",
+    "content": "endorse processor",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无意义搭配"
+  },
+  {
+    "item_code": "w_024474",
+    "content": "endorse specious iniquity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无意义词串"
+  },
+  {
+    "item_code": "w_024480",
+    "content": "endoscope bride",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无意义搭配"
+  },
+  {
+    "item_code": "w_024498",
+    "content": "endow ... with",
+    "meaning_zh": "赋予……以",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_024507",
+    "content": "endur",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "拼写残缺"
+  }
+]

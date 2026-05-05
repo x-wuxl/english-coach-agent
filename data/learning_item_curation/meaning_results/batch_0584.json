@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_057145",
+    "content": "practicing physician",
+    "meaning_zh": "执业医师",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指医生执业身份"
+  },
+  {
+    "item_code": "w_057158",
+    "content": "prairie elevate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声搭配"
+  },
+  {
+    "item_code": "w_057163",
+    "content": "praise and critique",
+    "meaning_zh": "表扬与批评；赞扬和评析",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见并列表达"
+  },
+  {
+    "item_code": "w_057178",
+    "content": "pray for something",
+    "meaning_zh": "为某事祈祷；祈求某物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_057179",
+    "content": "pray that",
+    "meaning_zh": "祈祷……；希望……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见从句搭配"
+  },
+  {
+    "item_code": "w_057186",
+    "content": "pre med propagate electricity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无明确含义"
+  },
+  {
+    "item_code": "w_057187",
+    "content": "pre medical judunum",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含疑似拼写错误"
+  },
+  {
+    "item_code": "w_057190",
+    "content": "pre-bubble peak",
+    "meaning_zh": "泡沫前峰值",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "经济语境可解释"
+  },
+  {
+    "item_code": "w_057194",
+    "content": "pre-earthquake behaviour",
+    "meaning_zh": "震前行为；地震前行为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "结构清晰含义明确"
+  },
+  {
+    "item_code": "w_057197",
+    "content": "pre-employment and on-the-job training",
+    "meaning_zh": "入职前和在职培训",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见培训表达"
+  },
+  {
+    "item_code": "w_057201",
+    "content": "pre-establishment national treatment",
+    "meaning_zh": "准入前国民待遇",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经贸法律术语"
+  },
+  {
+    "item_code": "w_057206",
+    "content": "pre-movie ad",
+    "meaning_zh": "映前广告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见影院场景表达"
+  },
+  {
+    "item_code": "w_057209",
+    "content": "pre-pregnancy physical examinations",
+    "meaning_zh": "孕前体检",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学健康常用表达"
+  },
+  {
+    "item_code": "w_057211",
+    "content": "pre-prioritize",
+    "meaning_zh": "预先确定优先级",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "派生词含义可判断"
+  },
+  {
+    "item_code": "w_057218",
+    "content": "pre-tax return",
+    "meaning_zh": "税前收益率；税前回报",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务金融常用术语"
+  },
+  {
+    "item_code": "w_057223",
+    "content": "pread",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似残缺或拼写错误"
+  },
+  {
+    "item_code": "w_057234",
+    "content": "precarious recalcitrant inane",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌非搭配"
+  },
+  {
+    "item_code": "w_057237",
+    "content": "precaution specification",
+    "meaning_zh": "预防措施规范；安全注意规范",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术规范语境可解释"
+  },
+  {
+    "item_code": "w_057244",
+    "content": "precedent-setting test",
+    "meaning_zh": "开创先例的测试；具有先例意义的考验",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "复合修饰结构明确"
+  },
+  {
+    "item_code": "w_057249",
+    "content": "precept platform",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配难判断"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_050347",
+    "content": "nonoverriding descriptor",
+    "meaning_zh": "非覆盖型描述符",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "计算机术语搭配"
+  },
+  {
+    "item_code": "w_050378",
+    "content": "nonsense clumsy protract",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌噪声"
+  },
+  {
+    "item_code": "w_050379",
+    "content": "nonsense gale tenesmus",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌噪声"
+  },
+  {
+    "item_code": "w_050389",
+    "content": "nonspecific episode duodenum",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌噪声"
+  },
+  {
+    "item_code": "w_050404",
+    "content": "nontrivial",
+    "meaning_zh": "非平凡的；重要的；不简单的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见技术词"
+  },
+  {
+    "item_code": "w_050430",
+    "content": "Norma Jean",
+    "meaning_zh": "诺玛·珍",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "人名专有名词"
+  },
+  {
+    "item_code": "w_050434",
+    "content": "normal noise threshold",
+    "meaning_zh": "正常噪声阈值",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术性名词短语"
+  },
+  {
+    "item_code": "w_050435",
+    "content": "normal physically strength",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配语法异常"
+  },
+  {
+    "item_code": "w_050448",
+    "content": "normalized operation",
+    "meaning_zh": "规范化操作；归一化操作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见术语搭配"
+  },
+  {
+    "item_code": "w_050464",
+    "content": "North Beach Festival",
+    "meaning_zh": "北滩节",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "活动专有名词"
+  },
+  {
+    "item_code": "w_050466",
+    "content": "North Polar icecap",
+    "meaning_zh": "北极冰盖",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地理名词短语"
+  },
+  {
+    "item_code": "w_050470",
+    "content": "north wing of building",
+    "meaning_zh": "建筑物北翼；楼房北侧部分",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "方位建筑短语"
+  },
+  {
+    "item_code": "w_050475",
+    "content": "northeastern Hunan province",
+    "meaning_zh": "湖南省东北部",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地理方位短语"
+  },
+  {
+    "item_code": "w_050486",
+    "content": "northwood",
+    "meaning_zh": "北方森林；诺斯伍德",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "low",
+    "reason": "可能为地名或姓氏"
+  },
+  {
+    "item_code": "w_050489",
+    "content": "nosdive",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_050502",
+    "content": "nostalgic for",
+    "meaning_zh": "怀念；对……有乡愁",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配用法"
+  },
+  {
+    "item_code": "w_050507",
+    "content": "not ... any but",
+    "meaning_zh": "不是任何……而是……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "low",
+    "reason": "结构不完整"
+  },
+  {
+    "item_code": "w_050514",
+    "content": "not ... but rather",
+    "meaning_zh": "不是……而是……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定对比结构"
+  },
+  {
+    "item_code": "w_050515",
+    "content": "not ... till",
+    "meaning_zh": "直到……才……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定结构"
+  },
+  {
+    "item_code": "w_050530",
+    "content": "not as ... as",
+    "meaning_zh": "不如……那样……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见比较结构"
+  }
+]

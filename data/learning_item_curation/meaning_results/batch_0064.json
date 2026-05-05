@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_005075",
+    "content": "asthma rash",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似症状词噪声"
+  },
+  {
+    "item_code": "w_005111",
+    "content": "astronomical object",
+    "meaning_zh": "天体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "天文学常用术语"
+  },
+  {
+    "item_code": "w_005118",
+    "content": "astronomy class",
+    "meaning_zh": "天文学课",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见课程表达"
+  },
+  {
+    "item_code": "w_005119",
+    "content": "astronomy community",
+    "meaning_zh": "天文学界；天文爱好者群体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学科群体表达"
+  },
+  {
+    "item_code": "w_005120",
+    "content": "astronomy society",
+    "meaning_zh": "天文学会；天文协会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "组织名称常用表达"
+  },
+  {
+    "item_code": "w_005125",
+    "content": "asu",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写含义不明"
+  },
+  {
+    "item_code": "w_005135",
+    "content": "asynchronous context manager",
+    "meaning_zh": "异步上下文管理器",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_005136",
+    "content": "asynchronous generator",
+    "meaning_zh": "异步生成器",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_005137",
+    "content": "asynchronous generator iterator",
+    "meaning_zh": "异步生成器迭代器",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_005138",
+    "content": "asynchronous iterable",
+    "meaning_zh": "异步可迭代对象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_005139",
+    "content": "asynchronous iterator",
+    "meaning_zh": "异步迭代器",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_005144",
+    "content": "at a ... speed",
+    "meaning_zh": "以……的速度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配框架"
+  },
+  {
+    "item_code": "w_005151",
+    "content": "at a great depth",
+    "meaning_zh": "在很深的地方；在很深处",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词短语"
+  },
+  {
+    "item_code": "w_005155",
+    "content": "at a low level",
+    "meaning_zh": "处于较低水平；在低层次上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见程度表达"
+  },
+  {
+    "item_code": "w_005157",
+    "content": "at a low speed",
+    "meaning_zh": "以低速",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "速度搭配"
+  },
+  {
+    "item_code": "w_005164",
+    "content": "at a reasonable cost",
+    "meaning_zh": "以合理的成本；价格合理地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "成本搭配"
+  },
+  {
+    "item_code": "w_005165",
+    "content": "at a safe speed",
+    "meaning_zh": "以安全速度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  },
+  {
+    "item_code": "w_005166",
+    "content": "at a significant cost",
+    "meaning_zh": "付出巨大代价；以高昂成本",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "代价搭配"
+  },
+  {
+    "item_code": "w_005167",
+    "content": "at a speed",
+    "meaning_zh": "以某种速度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  },
+  {
+    "item_code": "w_005175",
+    "content": "at an altitude of",
+    "meaning_zh": "在……的高度；海拔为……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_019038",
+    "content": "Dayan Pagoda",
+    "meaning_zh": "大雁塔",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有景点名称"
+  },
+  {
+    "item_code": "w_019043",
+    "content": "dayfi",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词"
+  },
+  {
+    "item_code": "w_019045",
+    "content": "daylight hours",
+    "meaning_zh": "白昼时间；日照时段",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时间表达"
+  },
+  {
+    "item_code": "w_019047",
+    "content": "days",
+    "meaning_zh": "天；日子",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句均指天数"
+  },
+  {
+    "item_code": "w_019050",
+    "content": "daytime phone number",
+    "meaning_zh": "日间联系电话",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "表格常用表达"
+  },
+  {
+    "item_code": "w_019051",
+    "content": "dayton",
+    "meaning_zh": "代顿",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "多指地名或人名"
+  },
+  {
+    "item_code": "w_019060",
+    "content": "de",
+    "meaning_zh": "外语姓名或地名中的“德/的”",
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "外语介词片段"
+  },
+  {
+    "item_code": "w_019071",
+    "content": "dead code",
+    "meaning_zh": "死代码；无效代码",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_019083",
+    "content": "deadhead cab",
+    "meaning_zh": "空驶出租车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "交通行业表达"
+  },
+  {
+    "item_code": "w_019087",
+    "content": "deadly dull",
+    "meaning_zh": "极其乏味",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定形容搭配"
+  },
+  {
+    "item_code": "w_019100",
+    "content": "deal with a challenge",
+    "meaning_zh": "应对挑战",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_019101",
+    "content": "deal with adults",
+    "meaning_zh": "与成年人打交道",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_019109",
+    "content": "dealt",
+    "meaning_zh": "处理；发牌；做生意",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "deal的过去式"
+  },
+  {
+    "item_code": "w_019119",
+    "content": "dearth of",
+    "meaning_zh": "缺乏；不足",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_019138",
+    "content": "debate on ... with",
+    "meaning_zh": "与某人就……辩论",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配框架"
+  },
+  {
+    "item_code": "w_019139",
+    "content": "debate over",
+    "meaning_zh": "关于……的争论",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词搭配"
+  },
+  {
+    "item_code": "w_019147",
+    "content": "debilitate terminus",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_019166",
+    "content": "debt mountain",
+    "meaning_zh": "巨额债务；债务高山",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "比喻性财经表达"
+  },
+  {
+    "item_code": "w_019168",
+    "content": "debt of thanks",
+    "meaning_zh": "感激之情；人情债",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_019177",
+    "content": "debugging",
+    "meaning_zh": "调试；排错",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  }
+]

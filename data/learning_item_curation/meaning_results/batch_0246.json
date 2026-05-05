@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_023269",
+    "content": "eb",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写残片含义不明"
+  },
+  {
+    "item_code": "w_023275",
+    "content": "eboliant",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_023280",
+    "content": "eccentric arrest",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见固定搭配"
+  },
+  {
+    "item_code": "w_023290",
+    "content": "echo harmonica",
+    "meaning_zh": "回声口琴",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "乐器名称"
+  },
+  {
+    "item_code": "w_023305",
+    "content": "eclectic revolt",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  },
+  {
+    "item_code": "w_023308",
+    "content": "eclipse exquisite",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不自然"
+  },
+  {
+    "item_code": "w_023314",
+    "content": "eco-demonstration region",
+    "meaning_zh": "生态示范区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态政策术语"
+  },
+  {
+    "item_code": "w_023315",
+    "content": "eco-environment",
+    "meaning_zh": "生态环境",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见复合词"
+  },
+  {
+    "item_code": "w_023317",
+    "content": "eco-friendly burial",
+    "meaning_zh": "生态葬；环保葬",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见环保表达"
+  },
+  {
+    "item_code": "w_023318",
+    "content": "eco-safety barrier",
+    "meaning_zh": "生态安全屏障",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态治理术语"
+  },
+  {
+    "item_code": "w_023323",
+    "content": "ecologic environment",
+    "meaning_zh": "生态环境",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态主题常用搭配"
+  },
+  {
+    "item_code": "w_023324",
+    "content": "ecologica",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似非标准词形"
+  },
+  {
+    "item_code": "w_023326",
+    "content": "ecological anthropologist",
+    "meaning_zh": "生态人类学家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学科职业名称"
+  },
+  {
+    "item_code": "w_023328",
+    "content": "ecological civilization",
+    "meaning_zh": "生态文明",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政策术语"
+  },
+  {
+    "item_code": "w_023329",
+    "content": "ecological corridor",
+    "meaning_zh": "生态廊道",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态学术语"
+  },
+  {
+    "item_code": "w_023331",
+    "content": "ecological degradation",
+    "meaning_zh": "生态退化；生态恶化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环境类常用搭配"
+  },
+  {
+    "item_code": "w_023335",
+    "content": "ecological integrity",
+    "meaning_zh": "生态完整性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态学术语"
+  },
+  {
+    "item_code": "w_023336",
+    "content": "ecological migration",
+    "meaning_zh": "生态移民；生态迁移",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态政策表达"
+  },
+  {
+    "item_code": "w_023338",
+    "content": "ecological red line",
+    "meaning_zh": "生态红线",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环境治理术语"
+  },
+  {
+    "item_code": "w_023342",
+    "content": "ecological wealth",
+    "meaning_zh": "生态财富",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态经济表达"
+  }
+]

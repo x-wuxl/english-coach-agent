@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_077434",
+    "content": "undercapitalized",
+    "meaning_zh": "资本不足的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商业常用术语"
+  },
+  {
+    "item_code": "w_077445",
+    "content": "underdeveloped western regions",
+    "meaning_zh": "欠发达的西部地区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定名词短语"
+  },
+  {
+    "item_code": "w_077448",
+    "content": "underdog regress",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_077455",
+    "content": "underestimate one's abilities",
+    "meaning_zh": "低估自己的能力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_077456",
+    "content": "underestimate one's own capabilities",
+    "meaning_zh": "低估自己的能力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_077468",
+    "content": "undergo an enormous change",
+    "meaning_zh": "经历巨大变化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_077469",
+    "content": "undergo hard privations",
+    "meaning_zh": "经受艰苦困苦",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动宾搭配明确"
+  },
+  {
+    "item_code": "w_077476",
+    "content": "underground publication",
+    "meaning_zh": "地下出版物；秘密刊物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_077480",
+    "content": "underground train",
+    "meaning_zh": "地铁列车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通常用表达"
+  },
+  {
+    "item_code": "w_077482",
+    "content": "underground water system",
+    "meaning_zh": "地下水系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地理术语短语"
+  },
+  {
+    "item_code": "w_077498",
+    "content": "underneath beneath",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "同义词堆叠疑似噪声"
+  },
+  {
+    "item_code": "w_077522",
+    "content": "undersea landslide",
+    "meaning_zh": "海底滑坡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地质术语明确"
+  },
+  {
+    "item_code": "w_077523",
+    "content": "undersea world",
+    "meaning_zh": "海底世界",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_077533",
+    "content": "understand one's situation",
+    "meaning_zh": "了解自己的处境",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_077546",
+    "content": "undertake endeavor",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配缺失疑似噪声"
+  },
+  {
+    "item_code": "w_077547",
+    "content": "undertake one's duties",
+    "meaning_zh": "履行职责；承担职责",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_077548",
+    "content": "undertake one's responsibilities",
+    "meaning_zh": "承担责任；履行责任",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_077549",
+    "content": "undertake responsibility for",
+    "meaning_zh": "对……承担责任",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配明确"
+  },
+  {
+    "item_code": "w_077565",
+    "content": "underwater creature",
+    "meaning_zh": "水下生物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_077610",
+    "content": "undivided lottery jackpot",
+    "meaning_zh": "未被分割的彩票头奖奖金",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可判断"
+  }
+]

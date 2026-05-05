@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_057968",
+    "content": "procedure precursor",
+    "meaning_zh": "程序的前置步骤；先导条件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可按搭配理解"
+  },
+  {
+    "item_code": "w_057971",
+    "content": "proceed obey",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成立"
+  },
+  {
+    "item_code": "w_057982",
+    "content": "processed vanilla",
+    "meaning_zh": "加工过的香草；香草制品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_057999",
+    "content": "proculent",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_058002",
+    "content": "procure ideal jobs",
+    "meaning_zh": "获得理想工作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动宾短语清晰"
+  },
+  {
+    "item_code": "w_058007",
+    "content": "prodigious disaffected accessory",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串噪声"
+  },
+  {
+    "item_code": "w_058014",
+    "content": "produce convert",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成立"
+  },
+  {
+    "item_code": "w_058015",
+    "content": "produce pollution",
+    "meaning_zh": "造成污染；产生污染",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_058018",
+    "content": "producer's myopia",
+    "meaning_zh": "生产者短视；生产者近视症",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "术语含义可判断"
+  },
+  {
+    "item_code": "w_058021",
+    "content": "product advertisement",
+    "meaning_zh": "产品广告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商业搭配"
+  },
+  {
+    "item_code": "w_058023",
+    "content": "product identity",
+    "meaning_zh": "产品识别；产品形象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见营销术语"
+  },
+  {
+    "item_code": "w_058028",
+    "content": "product poster",
+    "meaning_zh": "产品海报；产品宣传海报",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_058040",
+    "content": "productive fishery",
+    "meaning_zh": "高产渔场；产量高的渔业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "搭配含义明确"
+  },
+  {
+    "item_code": "w_058041",
+    "content": "productive meeting",
+    "meaning_zh": "富有成效的会议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_058043",
+    "content": "productive writer",
+    "meaning_zh": "多产的作家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_058046",
+    "content": "productivity ingredient decay",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串噪声"
+  },
+  {
+    "item_code": "w_058050",
+    "content": "profane cache",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不可靠"
+  },
+  {
+    "item_code": "w_058053",
+    "content": "profess obtain return",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机动词串"
+  },
+  {
+    "item_code": "w_058059",
+    "content": "professional attitude and motivation",
+    "meaning_zh": "职业态度和动机；专业态度和积极性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_058060",
+    "content": "professional band",
+    "meaning_zh": "专业乐队",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  }
+]

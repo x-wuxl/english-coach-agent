@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_031556",
+    "content": "globalisation of trade",
+    "meaning_zh": "贸易全球化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术短语"
+  },
+  {
+    "item_code": "w_031560",
+    "content": "globalization 4.0",
+    "meaning_zh": "全球化4.0；第四次全球化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专门概念"
+  },
+  {
+    "item_code": "w_031561",
+    "content": "globalization of culture",
+    "meaning_zh": "文化全球化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术短语"
+  },
+  {
+    "item_code": "w_031571",
+    "content": "globular appreciative",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无可靠搭配"
+  },
+  {
+    "item_code": "w_031597",
+    "content": "glossa granual",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_031601",
+    "content": "glossary cage",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无可靠搭配"
+  },
+  {
+    "item_code": "w_031602",
+    "content": "glossary handbook",
+    "meaning_zh": "词汇手册；术语表手册",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解名词短语"
+  },
+  {
+    "item_code": "w_031603",
+    "content": "glossia",
+    "meaning_zh": "舌；语言",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "较生僻术语"
+  },
+  {
+    "item_code": "w_031607",
+    "content": "glossy advertisement",
+    "meaning_zh": "印刷精美的广告；光鲜的广告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_031608",
+    "content": "glossy truant sanguine",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌噪声"
+  },
+  {
+    "item_code": "w_031612",
+    "content": "glove purse boot",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定表达"
+  },
+  {
+    "item_code": "w_031618",
+    "content": "glowing tribute",
+    "meaning_zh": "热情洋溢的赞扬；高度赞誉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_031634",
+    "content": "glutaric acidemia",
+    "meaning_zh": "戊二酸血症",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学术语"
+  },
+  {
+    "item_code": "w_031638",
+    "content": "glute",
+    "meaning_zh": "臀肌",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "健身常用词"
+  },
+  {
+    "item_code": "w_031642",
+    "content": "glutton prosecution",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无可靠搭配"
+  },
+  {
+    "item_code": "w_031665",
+    "content": "glycosuria hyalan",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_031670",
+    "content": "GM agricultural products",
+    "meaning_zh": "转基因农产品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "GM指转基因"
+  },
+  {
+    "item_code": "w_031671",
+    "content": "GM crops",
+    "meaning_zh": "转基因作物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "GM指转基因"
+  },
+  {
+    "item_code": "w_031676",
+    "content": "GMT",
+    "meaning_zh": "格林尼治标准时间",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时间缩写"
+  },
+  {
+    "item_code": "w_031710",
+    "content": "go along the street",
+    "meaning_zh": "沿着街道走",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见指路表达"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_014391",
+    "content": "clear and efficient energy",
+    "meaning_zh": "清洁高效能源",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑似能源搭配"
+  },
+  {
+    "item_code": "w_014397",
+    "content": "clear voice",
+    "meaning_zh": "清晰的声音；清亮的嗓音",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容搭配"
+  },
+  {
+    "item_code": "w_014398",
+    "content": "Clear Your Plate Campaign",
+    "meaning_zh": "光盘行动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定活动名称"
+  },
+  {
+    "item_code": "w_014402",
+    "content": "clear-winged",
+    "meaning_zh": "透明翅的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_014405",
+    "content": "clearer",
+    "meaning_zh": "更清楚的；更清晰地",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指说话更清楚"
+  },
+  {
+    "item_code": "w_014416",
+    "content": "cleave imposter",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不自然疑似噪声"
+  },
+  {
+    "item_code": "w_014418",
+    "content": "cleek",
+    "meaning_zh": "高尔夫球杆；钩子",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见词含义"
+  },
+  {
+    "item_code": "w_014421",
+    "content": "cleft condense molecule",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无自然搭配疑似噪声"
+  },
+  {
+    "item_code": "w_014426",
+    "content": "cleptamaniac",
+    "meaning_zh": "盗窃癖患者",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为kleptomaniac变体"
+  },
+  {
+    "item_code": "w_014431",
+    "content": "clerical supplies",
+    "meaning_zh": "办公用品；文书用品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务办公搭配"
+  },
+  {
+    "item_code": "w_014432",
+    "content": "clerical support",
+    "meaning_zh": "文书支持；行政辅助",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见岗位表达"
+  },
+  {
+    "item_code": "w_014435",
+    "content": "clerk restate demand",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串不成固定表达"
+  },
+  {
+    "item_code": "w_014437",
+    "content": "clever wise",
+    "meaning_zh": "聪明的；明智的",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "同义词堆叠非词条"
+  },
+  {
+    "item_code": "w_014440",
+    "content": "cli",
+    "meaning_zh": "命令行界面",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用缩写"
+  },
+  {
+    "item_code": "w_014441",
+    "content": "clib",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_014442",
+    "content": "clib respective",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串不自然疑似噪声"
+  },
+  {
+    "item_code": "w_014444",
+    "content": "cliche gorge",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无自然搭配疑似噪声"
+  },
+  {
+    "item_code": "w_014446",
+    "content": "cliché",
+    "meaning_zh": "陈词滥调；老套说法",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见考试词"
+  },
+  {
+    "item_code": "w_014449",
+    "content": "clickbait",
+    "meaning_zh": "标题党；点击诱饵",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "网络媒体常用词"
+  },
+  {
+    "item_code": "w_014450",
+    "content": "clicking noise",
+    "meaning_zh": "咔嗒声；点击声",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见声音搭配"
+  }
+]

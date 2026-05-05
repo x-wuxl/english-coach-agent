@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_023145",
+    "content": "earn meager salaries",
+    "meaning_zh": "挣微薄的薪水",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_023150",
+    "content": "earn one's salary",
+    "meaning_zh": "挣工资；配得上薪水",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配含义明确"
+  },
+  {
+    "item_code": "w_023160",
+    "content": "earnings facility",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不常见且无例句"
+  },
+  {
+    "item_code": "w_023176",
+    "content": "earth sinking",
+    "meaning_zh": "地面沉降",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "地质相关搭配"
+  },
+  {
+    "item_code": "w_023184",
+    "content": "eartham",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无可靠上下文"
+  },
+  {
+    "item_code": "w_023192",
+    "content": "earthquake early warning",
+    "meaning_zh": "地震预警",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见术语"
+  },
+  {
+    "item_code": "w_023195",
+    "content": "earthquake monitoring",
+    "meaning_zh": "地震监测",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见术语"
+  },
+  {
+    "item_code": "w_023198",
+    "content": "earthquake-triggered mudflow",
+    "meaning_zh": "地震引发的泥石流",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词短语"
+  },
+  {
+    "item_code": "w_023205",
+    "content": "ease the pain",
+    "meaning_zh": "减轻疼痛；缓解痛苦",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_023208",
+    "content": "easier",
+    "meaning_zh": "更容易的；更简单的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_023210",
+    "content": "easiest",
+    "meaning_zh": "最容易的；最简单的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_023212",
+    "content": "easily broken",
+    "meaning_zh": "容易破碎的；易损坏的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_023213",
+    "content": "easily moved",
+    "meaning_zh": "容易被感动的；易移动的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "无例句可区分义项"
+  },
+  {
+    "item_code": "w_023215",
+    "content": "East Asian countries",
+    "meaning_zh": "东亚国家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地理类短语"
+  },
+  {
+    "item_code": "w_023230",
+    "content": "eastwood",
+    "meaning_zh": "伊斯特伍德（姓氏）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指人名姓氏"
+  },
+  {
+    "item_code": "w_023247",
+    "content": "eat sea food",
+    "meaning_zh": "吃海鲜",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础动宾短语"
+  },
+  {
+    "item_code": "w_023248",
+    "content": "eat seafood",
+    "meaning_zh": "吃海鲜",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础动宾短语"
+  },
+  {
+    "item_code": "w_023255",
+    "content": "eating breakfast",
+    "meaning_zh": "吃早餐；正在吃早餐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_023256",
+    "content": "eating dinner",
+    "meaning_zh": "吃晚饭；正在吃晚饭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_023260",
+    "content": "eating lunch",
+    "meaning_zh": "吃午餐；正在吃午餐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  }
+]

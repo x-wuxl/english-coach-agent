@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_041908",
+    "content": "lack information",
+    "meaning_zh": "缺乏信息",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_041911",
+    "content": "lack physical exercise",
+    "meaning_zh": "缺乏体育锻炼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_041932",
+    "content": "lactose timber",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合无可靠含义"
+  },
+  {
+    "item_code": "w_041938",
+    "content": "ladder lantern",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_041945",
+    "content": "ladies' magazine",
+    "meaning_zh": "女性杂志",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_041956",
+    "content": "lag behind the US",
+    "meaning_zh": "落后于美国",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_041959",
+    "content": "lagoobrius",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_041974",
+    "content": "Lake Dongting",
+    "meaning_zh": "洞庭湖",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有地名"
+  },
+  {
+    "item_code": "w_041979",
+    "content": "Lake Qinghai",
+    "meaning_zh": "青海湖",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有地名"
+  },
+  {
+    "item_code": "w_041981",
+    "content": "Lake Taupo",
+    "meaning_zh": "陶波湖",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有地名"
+  },
+  {
+    "item_code": "w_041982",
+    "content": "Lake Titicaca",
+    "meaning_zh": "的的喀喀湖",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有地名"
+  },
+  {
+    "item_code": "w_041985",
+    "content": "lam minth bacon",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_041989",
+    "content": "lamb investment",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合无可靠含义"
+  },
+  {
+    "item_code": "w_041990",
+    "content": "lamb kebab",
+    "meaning_zh": "烤羊肉串",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见食物名称"
+  },
+  {
+    "item_code": "w_041993",
+    "content": "lambaste ductile fatigue",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无可靠含义"
+  },
+  {
+    "item_code": "w_041994",
+    "content": "lambda",
+    "meaning_zh": "希腊字母λ；匿名函数",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_041995",
+    "content": "Lambert",
+    "meaning_zh": "兰伯特（人名；图形学术语）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专名及技术用语"
+  },
+  {
+    "item_code": "w_041998",
+    "content": "lame argument",
+    "meaning_zh": "站不住脚的论点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_042016",
+    "content": "LAN",
+    "meaning_zh": "局域网",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机缩写"
+  },
+  {
+    "item_code": "w_042017",
+    "content": "Lana",
+    "meaning_zh": "拉娜（女子名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见人名"
+  }
+]

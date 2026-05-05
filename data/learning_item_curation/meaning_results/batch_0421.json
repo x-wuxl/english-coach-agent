@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_040335",
+    "content": "irresponsible remarks",
+    "meaning_zh": "不负责任的言论",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_040349",
+    "content": "irrigate acreage",
+    "meaning_zh": "灌溉耕地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "农业场景搭配"
+  },
+  {
+    "item_code": "w_040350",
+    "content": "irrigate palate joe",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声搭配"
+  },
+  {
+    "item_code": "w_040351",
+    "content": "irrigate snare",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_040355",
+    "content": "irrigation sprinkler",
+    "meaning_zh": "灌溉喷头；喷灌装置",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "农业设备术语"
+  },
+  {
+    "item_code": "w_040362",
+    "content": "irritated revenue collision",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声搭配"
+  },
+  {
+    "item_code": "w_040371",
+    "content": "is a cliché",
+    "meaning_zh": "是陈词滥调",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_040372",
+    "content": "is badly needed",
+    "meaning_zh": "迫切需要",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_040373",
+    "content": "is being compromised",
+    "meaning_zh": "正受到损害；正被削弱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "被动结构常见义"
+  },
+  {
+    "item_code": "w_040375",
+    "content": "is legally sound",
+    "meaning_zh": "在法律上站得住脚；合法有效",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律常用表达"
+  },
+  {
+    "item_code": "w_040376",
+    "content": "is not",
+    "meaning_zh": "不是；不在",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持"
+  },
+  {
+    "item_code": "w_040377",
+    "content": "is of benefit to",
+    "meaning_zh": "对……有益",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_040378",
+    "content": "is officially over",
+    "meaning_zh": "正式结束",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_040379",
+    "content": "is second only to",
+    "meaning_zh": "仅次于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_040380",
+    "content": "Is this ...?",
+    "meaning_zh": "这是……吗？",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础句型"
+  },
+  {
+    "item_code": "w_040381",
+    "content": "Isaac",
+    "meaning_zh": "艾萨克（人名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见人名"
+  },
+  {
+    "item_code": "w_040388",
+    "content": "ischo",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无可靠词条"
+  },
+  {
+    "item_code": "w_040389",
+    "content": "ischu",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无可靠词条"
+  },
+  {
+    "item_code": "w_040395",
+    "content": "island patrol",
+    "meaning_zh": "岛屿巡逻；海岛巡逻",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_040400",
+    "content": "isn",
+    "meaning_zh": "初始序列号",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "计算机缩写"
+  }
+]

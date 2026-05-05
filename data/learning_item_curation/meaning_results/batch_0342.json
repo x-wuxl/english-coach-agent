@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_032325",
+    "content": "grained crystalline materials",
+    "meaning_zh": "有颗粒结构的晶体材料",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "材料学短语"
+  },
+  {
+    "item_code": "w_032330",
+    "content": "gramand plum",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_032331",
+    "content": "gramas",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见英语词"
+  },
+  {
+    "item_code": "w_032332",
+    "content": "gramay",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词"
+  },
+  {
+    "item_code": "w_032348",
+    "content": "grand rally",
+    "meaning_zh": "大型集会；盛大 rally",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_032350",
+    "content": "Grand Tourists",
+    "meaning_zh": "欧洲壮游者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "历史文化术语"
+  },
+  {
+    "item_code": "w_032358",
+    "content": "grandeliquent deprecate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "拼写混乱无搭配"
+  },
+  {
+    "item_code": "w_032363",
+    "content": "grandiliquent",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_032367",
+    "content": "grandiose nicety altruism",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无固定义"
+  },
+  {
+    "item_code": "w_032369",
+    "content": "grandize",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准英语词"
+  },
+  {
+    "item_code": "w_032374",
+    "content": "grandmother grandfather",
+    "meaning_zh": "祖母；祖父",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础亲属词组合"
+  },
+  {
+    "item_code": "w_032377",
+    "content": "grandpa grandchild",
+    "meaning_zh": "爷爷；孙子女",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础亲属词组合"
+  },
+  {
+    "item_code": "w_032382",
+    "content": "grandstand metal tyrant gasification",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无固定义"
+  },
+  {
+    "item_code": "w_032390",
+    "content": "grant one's request",
+    "meaning_zh": "答应某人的请求",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词搭配"
+  },
+  {
+    "item_code": "w_032395",
+    "content": "granual",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似granular误拼"
+  },
+  {
+    "item_code": "w_032414",
+    "content": "grapefruit fiber",
+    "meaning_zh": "葡萄柚纤维",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "食品营养短语"
+  },
+  {
+    "item_code": "w_032425",
+    "content": "graphic representation of forces",
+    "meaning_zh": "力的图示表示",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "物理表达短语"
+  },
+  {
+    "item_code": "w_032436",
+    "content": "grasp confused",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_032437",
+    "content": "grasp new skills",
+    "meaning_zh": "掌握新技能",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_032438",
+    "content": "grasp the language",
+    "meaning_zh": "掌握这门语言",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习表达"
+  }
+]

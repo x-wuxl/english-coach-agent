@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_038998",
+    "content": "inhibit faint sensation compatible",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词混杂非固定表达"
+  },
+  {
+    "item_code": "w_039010",
+    "content": "ini",
+    "meaning_zh": "INI配置文件格式",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机配置文件术语"
+  },
+  {
+    "item_code": "w_039014",
+    "content": "inimitable adjourn",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "两个无关词混杂"
+  },
+  {
+    "item_code": "w_039018",
+    "content": "initial consecutive calendar",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词混杂非固定表达"
+  },
+  {
+    "item_code": "w_039024",
+    "content": "initializer",
+    "meaning_zh": "初始化器；初始值设定项",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机编程术语"
+  },
+  {
+    "item_code": "w_039026",
+    "content": "initially originally beginning",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "近义词堆叠非词条"
+  },
+  {
+    "item_code": "w_039028",
+    "content": "initiate distribute",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "两个动词混杂"
+  },
+  {
+    "item_code": "w_039029",
+    "content": "initiate extremely tuition discriminate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词混杂非固定表达"
+  },
+  {
+    "item_code": "w_039034",
+    "content": "initiative spirit",
+    "meaning_zh": "主动精神；进取精神",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_039046",
+    "content": "injure badly",
+    "meaning_zh": "严重伤害",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动副搭配"
+  },
+  {
+    "item_code": "w_039047",
+    "content": "injure public morality",
+    "meaning_zh": "损害公共道德；败坏社会风气",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按整体搭配释义"
+  },
+  {
+    "item_code": "w_039049",
+    "content": "injured bruise",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语搭配不自然"
+  },
+  {
+    "item_code": "w_039060",
+    "content": "inkling rest epithet",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词混杂非固定表达"
+  },
+  {
+    "item_code": "w_039063",
+    "content": "inlaid with ...",
+    "meaning_zh": "镶嵌着……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_039065",
+    "content": "inland city",
+    "meaning_zh": "内陆城市",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_039066",
+    "content": "inland people",
+    "meaning_zh": "内陆地区的人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "普通名词搭配"
+  },
+  {
+    "item_code": "w_039067",
+    "content": "inland provinces",
+    "meaning_zh": "内陆省份",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_039078",
+    "content": "inner belief",
+    "meaning_zh": "内心信念",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_039081",
+    "content": "inner glass",
+    "meaning_zh": "内层玻璃",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按字面搭配释义"
+  },
+  {
+    "item_code": "w_039085",
+    "content": "inner torment",
+    "meaning_zh": "内心折磨；内心痛苦",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  }
+]

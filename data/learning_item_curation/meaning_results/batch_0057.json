@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_004430",
+    "content": "arid creek wax",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词组噪声"
+  },
+  {
+    "item_code": "w_004433",
+    "content": "ariel",
+    "meaning_zh": "艾丽尔（人名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见专有名词"
+  },
+  {
+    "item_code": "w_004437",
+    "content": "arise from of",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "搭配形式错误"
+  },
+  {
+    "item_code": "w_004450",
+    "content": "arithmetic procession",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_004456",
+    "content": "arithracite betray",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声组合"
+  },
+  {
+    "item_code": "w_004472",
+    "content": "armament retention",
+    "meaning_zh": "军备保留；武器留存",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "军事主题短语"
+  },
+  {
+    "item_code": "w_004475",
+    "content": "armchair stool",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_004496",
+    "content": "arms sale to Taiwan",
+    "meaning_zh": "对台军售",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治军事固定表达"
+  },
+  {
+    "item_code": "w_004500",
+    "content": "army fatigues",
+    "meaning_zh": "军用作训服；军装",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见军事服装名词"
+  },
+  {
+    "item_code": "w_004501",
+    "content": "army of volunteers",
+    "meaning_zh": "志愿军；志愿者队伍",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "整体短语含义明确"
+  },
+  {
+    "item_code": "w_004503",
+    "content": "Arnold",
+    "meaning_zh": "阿诺德（人名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见人名"
+  },
+  {
+    "item_code": "w_004504",
+    "content": "aroak",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_004505",
+    "content": "aroke",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_004507",
+    "content": "aroma mount antiseptics compassion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词组噪声"
+  },
+  {
+    "item_code": "w_004511",
+    "content": "Aron Ralston",
+    "meaning_zh": "阿伦·拉尔斯顿（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人物专有名词"
+  },
+  {
+    "item_code": "w_004514",
+    "content": "around 7 o'clock",
+    "meaning_zh": "7点左右",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持时间表达"
+  },
+  {
+    "item_code": "w_004517",
+    "content": "around the globe",
+    "meaning_zh": "全世界；全球各地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_004522",
+    "content": "arouse controversy",
+    "meaning_zh": "引发争议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_004524",
+    "content": "arouse interests",
+    "meaning_zh": "激发兴趣；引起关注",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_004525",
+    "content": "arouse one's anxiety",
+    "meaning_zh": "引起某人的焦虑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  }
+]

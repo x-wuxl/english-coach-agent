@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_000488",
+    "content": "a promising future",
+    "meaning_zh": "光明的未来；有希望的前途",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_000489",
+    "content": "a public school",
+    "meaning_zh": "公立学校",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指公立学校"
+  },
+  {
+    "item_code": "w_000490",
+    "content": "a puffed-out first-timer",
+    "meaning_zh": "气喘吁吁的新手",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可推断"
+  },
+  {
+    "item_code": "w_000491",
+    "content": "a puppet",
+    "meaning_zh": "木偶；傀儡；受人操纵者",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持比喻义"
+  },
+  {
+    "item_code": "w_000492",
+    "content": "a puzzle",
+    "meaning_zh": "谜；难题；令人费解的事",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见义项明确"
+  },
+  {
+    "item_code": "w_000494",
+    "content": "a quarter after",
+    "meaning_zh": "几点过一刻；十五分",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "时间表达"
+  },
+  {
+    "item_code": "w_000495",
+    "content": "a quarter after six",
+    "meaning_zh": "六点十五分",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定时间表达"
+  },
+  {
+    "item_code": "w_000496",
+    "content": "a quarter past ...",
+    "meaning_zh": "几点过一刻；几点十五分",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "时间表达模板"
+  },
+  {
+    "item_code": "w_000497",
+    "content": "a quarter past seven",
+    "meaning_zh": "七点十五分",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持时间义"
+  },
+  {
+    "item_code": "w_000498",
+    "content": "a quarter to",
+    "meaning_zh": "差一刻到几点；差十五分到几点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持时间义"
+  },
+  {
+    "item_code": "w_000499",
+    "content": "a quarter to ...",
+    "meaning_zh": "差一刻到几点；差十五分到几点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "时间表达模板"
+  },
+  {
+    "item_code": "w_000500",
+    "content": "a quarter to eight",
+    "meaning_zh": "七点四十五分；差一刻八点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定时间表达"
+  },
+  {
+    "item_code": "w_000501",
+    "content": "a quarter to six",
+    "meaning_zh": "五点四十五分；差一刻六点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定时间表达"
+  },
+  {
+    "item_code": "w_000502",
+    "content": "a quiet neighborhood",
+    "meaning_zh": "安静的街区；清静的社区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活短语"
+  },
+  {
+    "item_code": "w_000503",
+    "content": "a quiz show",
+    "meaning_zh": "知识竞赛节目；问答节目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见节目类型"
+  },
+  {
+    "item_code": "w_000505",
+    "content": "a rather startling assertion",
+    "meaning_zh": "相当惊人的断言",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术短语明确"
+  },
+  {
+    "item_code": "w_000506",
+    "content": "a real estate agent",
+    "meaning_zh": "房地产经纪人；房产中介",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职业名称"
+  },
+  {
+    "item_code": "w_000507",
+    "content": "a reality show",
+    "meaning_zh": "真人秀节目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见节目类型"
+  },
+  {
+    "item_code": "w_000508",
+    "content": "a reasonable excuse",
+    "meaning_zh": "合理的借口；正当的理由",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_000509",
+    "content": "a red packet",
+    "meaning_zh": "红包",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见文化词汇"
+  }
+]

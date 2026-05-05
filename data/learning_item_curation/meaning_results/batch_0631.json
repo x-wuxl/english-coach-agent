@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_061945",
+    "content": "resignation letter",
+    "meaning_zh": "辞职信",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_061949",
+    "content": "resilience cousin",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无法判断"
+  },
+  {
+    "item_code": "w_061955",
+    "content": "resist its dark side",
+    "meaning_zh": "抵制其阴暗面",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可判断"
+  },
+  {
+    "item_code": "w_061957",
+    "content": "resist the dark side",
+    "meaning_zh": "抵制黑暗面",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语含义"
+  },
+  {
+    "item_code": "w_061958",
+    "content": "resist the earthquake",
+    "meaning_zh": "抵御地震",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_061959",
+    "content": "resist the impact",
+    "meaning_zh": "抵御冲击；承受影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_061973",
+    "content": "resoluble plaque dignity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_061975",
+    "content": "resolute attic",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无法判断"
+  },
+  {
+    "item_code": "w_061976",
+    "content": "resolute miserly",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无法判断"
+  },
+  {
+    "item_code": "w_061982",
+    "content": "resolve on",
+    "meaning_zh": "决定；下定决心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  },
+  {
+    "item_code": "w_061983",
+    "content": "resolve the conflict",
+    "meaning_zh": "解决冲突",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_061988",
+    "content": "resonant fester",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无法判断"
+  },
+  {
+    "item_code": "w_061989",
+    "content": "resonant resonate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词形拼接噪声"
+  },
+  {
+    "item_code": "w_061993",
+    "content": "resonus",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_061999",
+    "content": "resort transfer",
+    "meaning_zh": "度假村接送；度假区换乘",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "旅游场景搭配"
+  },
+  {
+    "item_code": "w_062002",
+    "content": "resound resounding",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词形拼接噪声"
+  },
+  {
+    "item_code": "w_062005",
+    "content": "resource basis",
+    "meaning_zh": "资源基础",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "学术常见搭配"
+  },
+  {
+    "item_code": "w_062008",
+    "content": "resource-dependent industry",
+    "meaning_zh": "资源依赖型产业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专业常见术语"
+  },
+  {
+    "item_code": "w_062009",
+    "content": "resource-saving and environment-friendly",
+    "meaning_zh": "资源节约型和环境友好型的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策常用表达"
+  },
+  {
+    "item_code": "w_062010",
+    "content": "resource-saving and environment-friendly society",
+    "meaning_zh": "资源节约型和环境友好型社会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策常用术语"
+  }
+]

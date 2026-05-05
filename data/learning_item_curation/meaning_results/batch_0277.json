@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_026286",
+    "content": "extend the market share",
+    "meaning_zh": "扩大市场份额",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商务搭配"
+  },
+  {
+    "item_code": "w_026288",
+    "content": "extend trouble conscious",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词语拼接无固定义"
+  },
+  {
+    "item_code": "w_026289",
+    "content": "extend welcome",
+    "meaning_zh": "表示欢迎；致欢迎辞",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解为固定表达"
+  },
+  {
+    "item_code": "w_026296",
+    "content": "extensible",
+    "meaning_zh": "可扩展的；可延伸的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_026298",
+    "content": "extension decease ascent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "随机词语组合"
+  },
+  {
+    "item_code": "w_026299",
+    "content": "extension module",
+    "meaning_zh": "扩展模块",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_026301",
+    "content": "extension of license",
+    "meaning_zh": "许可证延期；执照延期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见法律行政表达"
+  },
+  {
+    "item_code": "w_026303",
+    "content": "extensive exploitation",
+    "meaning_zh": "大规模开发；广泛利用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见资源话题搭配"
+  },
+  {
+    "item_code": "w_026304",
+    "content": "extensive gauge auction definite",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "随机词语组合"
+  },
+  {
+    "item_code": "w_026307",
+    "content": "extensive underground water resources",
+    "meaning_zh": "丰富的地下水资源；广泛分布的地下水资源",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环境资源类搭配"
+  },
+  {
+    "item_code": "w_026316",
+    "content": "exterior interior",
+    "meaning_zh": "外部；内部",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "反义词并列"
+  },
+  {
+    "item_code": "w_026319",
+    "content": "exterminate foolproof",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词语拼接无固定义"
+  },
+  {
+    "item_code": "w_026320",
+    "content": "exterminate melanin paragraph",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "随机词语组合"
+  },
+  {
+    "item_code": "w_026328",
+    "content": "external informative overhead",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词语拼接无固定义"
+  },
+  {
+    "item_code": "w_026329",
+    "content": "external insanitary solicit lacerate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "随机词语组合"
+  },
+  {
+    "item_code": "w_026330",
+    "content": "external result",
+    "meaning_zh": "外部结果；外在结果",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解"
+  },
+  {
+    "item_code": "w_026336",
+    "content": "extinct denture",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词语拼接无固定义"
+  },
+  {
+    "item_code": "w_026337",
+    "content": "extinct hail",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词语拼接无固定义"
+  },
+  {
+    "item_code": "w_026342",
+    "content": "extinguish orifice",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词语拼接无固定义"
+  },
+  {
+    "item_code": "w_026343",
+    "content": "extinguish pedagogue",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词语拼接无固定义"
+  }
+]

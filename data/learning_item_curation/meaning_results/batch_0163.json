@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_014973",
+    "content": "coleric",
+    "meaning_zh": "易怒的；暴躁的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑似choleric变体"
+  },
+  {
+    "item_code": "w_014977",
+    "content": "colic quake",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_014982",
+    "content": "collaborate improvise",
+    "meaning_zh": "合作并即兴创作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "动词组合可理解"
+  },
+  {
+    "item_code": "w_014983",
+    "content": "collaborate incitent disgrace",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无可靠含义"
+  },
+  {
+    "item_code": "w_014991",
+    "content": "collagen Cologne",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似多个词误合并"
+  },
+  {
+    "item_code": "w_014995",
+    "content": "collapse glutinous stench extant",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个无关词堆叠"
+  },
+  {
+    "item_code": "w_015007",
+    "content": "collate ... into ...",
+    "meaning_zh": "把……整理成……；把……汇编成……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配结构"
+  },
+  {
+    "item_code": "w_015015",
+    "content": "collect diary",
+    "meaning_zh": "收集日记；收集日记本",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "基础动宾搭配"
+  },
+  {
+    "item_code": "w_015016",
+    "content": "collect maps and data",
+    "meaning_zh": "收集地图和数据",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾短语"
+  },
+  {
+    "item_code": "w_015025",
+    "content": "collecting erasers",
+    "meaning_zh": "收集橡皮",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "小学常见表达"
+  },
+  {
+    "item_code": "w_015033",
+    "content": "collective scrutiny",
+    "meaning_zh": "集体审查；共同监督",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "名词短语含义明确"
+  },
+  {
+    "item_code": "w_015035",
+    "content": "collectively owned land",
+    "meaning_zh": "集体所有土地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律经济常用短语"
+  },
+  {
+    "item_code": "w_015041",
+    "content": "college career",
+    "meaning_zh": "大学生涯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "校园常见表达"
+  },
+  {
+    "item_code": "w_015045",
+    "content": "college entrance exam",
+    "meaning_zh": "大学入学考试；高考",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句语境明确"
+  },
+  {
+    "item_code": "w_015047",
+    "content": "college equivalency",
+    "meaning_zh": "大学同等学历；大学同等资格",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育术语"
+  },
+  {
+    "item_code": "w_015048",
+    "content": "college freshman",
+    "meaning_zh": "大学一年级学生；大学新生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见校园词组"
+  },
+  {
+    "item_code": "w_015051",
+    "content": "college journal",
+    "meaning_zh": "大学期刊；学院刊物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术场景短语"
+  },
+  {
+    "item_code": "w_015052",
+    "content": "college of humanities",
+    "meaning_zh": "人文学院",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "院系名称常用表达"
+  },
+  {
+    "item_code": "w_015067",
+    "content": "colliery flood",
+    "meaning_zh": "煤矿水灾；矿井洪水",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "矿业灾害术语"
+  },
+  {
+    "item_code": "w_015073",
+    "content": "collision with",
+    "meaning_zh": "与……碰撞；与……冲突",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词搭配"
+  }
+]

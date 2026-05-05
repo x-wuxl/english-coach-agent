@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_017131",
+    "content": "copperplate map",
+    "meaning_zh": "铜版地图；铜版印刷地图",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专业名词短语"
+  },
+  {
+    "item_code": "w_017135",
+    "content": "coprocessor",
+    "meaning_zh": "协处理器",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_017158",
+    "content": "cordate",
+    "meaning_zh": "心形的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词义"
+  },
+  {
+    "item_code": "w_017165",
+    "content": "cordially invite sb. to",
+    "meaning_zh": "诚挚邀请某人做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_017175",
+    "content": "core socialist values",
+    "meaning_zh": "社会主义核心价值观",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定政治术语"
+  },
+  {
+    "item_code": "w_017187",
+    "content": "cork zerography",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_017189",
+    "content": "corkage fee",
+    "meaning_zh": "开瓶费",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "餐饮常用术语"
+  },
+  {
+    "item_code": "w_017191",
+    "content": "corkscrew dissolute",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_017197",
+    "content": "corn flakes pie",
+    "meaning_zh": "玉米片派",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "食物名词短语"
+  },
+  {
+    "item_code": "w_017211",
+    "content": "cornerstone corridor gymnasium",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个词无明确搭配"
+  },
+  {
+    "item_code": "w_017220",
+    "content": "cornucopia stipulate bravura",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个词无明确搭配"
+  },
+  {
+    "item_code": "w_017233",
+    "content": "coronation decadence",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配生硬难判断"
+  },
+  {
+    "item_code": "w_017237",
+    "content": "coroutine",
+    "meaning_zh": "协程",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_017238",
+    "content": "coroutine function",
+    "meaning_zh": "协程函数",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程术语"
+  },
+  {
+    "item_code": "w_017246",
+    "content": "corporate deleveraging",
+    "meaning_zh": "企业去杠杆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济金融术语"
+  },
+  {
+    "item_code": "w_017249",
+    "content": "corporate innovative",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_017253",
+    "content": "corporate prosperity",
+    "meaning_zh": "企业繁荣；公司兴旺",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_017256",
+    "content": "corporate workplace",
+    "meaning_zh": "企业职场；公司工作场所",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职场常用表达"
+  },
+  {
+    "item_code": "w_017258",
+    "content": "corporate-tax rates",
+    "meaning_zh": "公司税率；企业税率",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "税务术语"
+  },
+  {
+    "item_code": "w_017272",
+    "content": "correct patch",
+    "meaning_zh": "正确的补丁；正确修补",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义依赖语境"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_076891",
+    "content": "Two Centenary Goals",
+    "meaning_zh": "两个一百年奋斗目标",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "中国政治术语"
+  },
+  {
+    "item_code": "w_076893",
+    "content": "two engines",
+    "meaning_zh": "两个引擎；双引擎",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见比喻搭配"
+  },
+  {
+    "item_code": "w_076894",
+    "content": "two hundred and thirty-second",
+    "meaning_zh": "第二百三十二",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "低价值序数词"
+  },
+  {
+    "item_code": "w_076895",
+    "content": "two hundred and thirty-two",
+    "meaning_zh": "二百三十二",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "低价值数字表达"
+  },
+  {
+    "item_code": "w_076896",
+    "content": "two hundred thirty-second",
+    "meaning_zh": "第二百三十二",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "低价值序数词"
+  },
+  {
+    "item_code": "w_076897",
+    "content": "two hundred thirty-two",
+    "meaning_zh": "二百三十二",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "低价值数字表达"
+  },
+  {
+    "item_code": "w_076899",
+    "content": "two systems",
+    "meaning_zh": "两种制度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见制度表达"
+  },
+  {
+    "item_code": "w_076902",
+    "content": "two-and three-dimensional maps",
+    "meaning_zh": "二维和三维地图",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地图技术搭配"
+  },
+  {
+    "item_code": "w_076904",
+    "content": "two-bedroom apartment",
+    "meaning_zh": "两居室公寓",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "住房常用表达"
+  },
+  {
+    "item_code": "w_076906",
+    "content": "two-car",
+    "meaning_zh": "可容纳两辆车的；有两辆车的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "需依附名词使用"
+  },
+  {
+    "item_code": "w_076907",
+    "content": "two-child policy",
+    "meaning_zh": "二孩政策",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "社会政策术语"
+  },
+  {
+    "item_code": "w_076909",
+    "content": "two-day off",
+    "meaning_zh": "两天假；休息两天",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略不规范"
+  },
+  {
+    "item_code": "w_076910",
+    "content": "two-day weekend",
+    "meaning_zh": "双休日；两天周末",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见休假表达"
+  },
+  {
+    "item_code": "w_076912",
+    "content": "two-dimensional barcode payment",
+    "meaning_zh": "二维码支付",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "支付技术术语"
+  },
+  {
+    "item_code": "w_076914",
+    "content": "two-for-one offer",
+    "meaning_zh": "买一送一优惠",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "促销固定表达"
+  },
+  {
+    "item_code": "w_076919",
+    "content": "two-paycheck status",
+    "meaning_zh": "双收入状态；夫妻双薪状态",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "家庭收入表达"
+  },
+  {
+    "item_code": "w_076924",
+    "content": "two-way charging policy",
+    "meaning_zh": "双向收费政策",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "收费政策术语"
+  },
+  {
+    "item_code": "w_076941",
+    "content": "type alias",
+    "meaning_zh": "类型别名",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程术语"
+  },
+  {
+    "item_code": "w_076942",
+    "content": "type hint",
+    "meaning_zh": "类型提示",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程术语"
+  },
+  {
+    "item_code": "w_076944",
+    "content": "type-based dispatch",
+    "meaning_zh": "基于类型的分派",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程术语"
+  }
+]

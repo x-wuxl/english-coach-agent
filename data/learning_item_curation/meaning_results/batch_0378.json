@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_035873",
+    "content": "hover around",
+    "meaning_zh": "徘徊在……附近；维持在……左右",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语搭配"
+  },
+  {
+    "item_code": "w_035882",
+    "content": "How do you do!",
+    "meaning_zh": "你好；初次见面",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定问候语"
+  },
+  {
+    "item_code": "w_035887",
+    "content": "How is ... going?",
+    "meaning_zh": "……进展如何？",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见询问句型"
+  },
+  {
+    "item_code": "w_035888",
+    "content": "How is it going?",
+    "meaning_zh": "最近怎么样？；进展如何？",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配问候语"
+  },
+  {
+    "item_code": "w_035897",
+    "content": "How much for ...?",
+    "meaning_zh": "……多少钱？",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见购物句型"
+  },
+  {
+    "item_code": "w_035905",
+    "content": "How old is he?",
+    "meaning_zh": "他多大了？",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配年龄问句"
+  },
+  {
+    "item_code": "w_035906",
+    "content": "How old is she?",
+    "meaning_zh": "她多大了？",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见年龄问句"
+  },
+  {
+    "item_code": "w_035907",
+    "content": "how pate tension",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声无法判断"
+  },
+  {
+    "item_code": "w_035909",
+    "content": "How tall are you?",
+    "meaning_zh": "你多高？",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配身高问句"
+  },
+  {
+    "item_code": "w_035910",
+    "content": "How tall is he?",
+    "meaning_zh": "他多高？",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见身高问句"
+  },
+  {
+    "item_code": "w_035911",
+    "content": "How tall is she?",
+    "meaning_zh": "她多高？",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见身高问句"
+  },
+  {
+    "item_code": "w_035918",
+    "content": "howl cord",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似错误搭配"
+  },
+  {
+    "item_code": "w_035924",
+    "content": "HR cost",
+    "meaning_zh": "人力资源成本",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商业常用术语"
+  },
+  {
+    "item_code": "w_035929",
+    "content": "HTML",
+    "meaning_zh": "超文本标记语言",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机缩写术语"
+  },
+  {
+    "item_code": "w_035930",
+    "content": "HTTP",
+    "meaning_zh": "超文本传输协议",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机缩写术语"
+  },
+  {
+    "item_code": "w_035932",
+    "content": "Huangguoshu Waterfall",
+    "meaning_zh": "黄果树瀑布",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有地名"
+  },
+  {
+    "item_code": "w_035936",
+    "content": "Hubert Hudson",
+    "meaning_zh": "休伯特·哈德森",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "人名音译"
+  },
+  {
+    "item_code": "w_035938",
+    "content": "hubris venom",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似错误拼接"
+  },
+  {
+    "item_code": "w_035945",
+    "content": "huddle up against",
+    "meaning_zh": "挤靠在……旁；蜷缩贴着……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动作短语"
+  },
+  {
+    "item_code": "w_035946",
+    "content": "huddle up to",
+    "meaning_zh": "挤到……身边；依偎着……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动作短语"
+  }
+]

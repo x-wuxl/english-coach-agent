@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_044487",
+    "content": "lung and eye irritations",
+    "meaning_zh": "肺部和眼部刺激症状",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学相关搭配"
+  },
+  {
+    "item_code": "w_044488",
+    "content": "lung liver appendix",
+    "meaning_zh": "肺；肝脏；阑尾",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "散列词不成词条"
+  },
+  {
+    "item_code": "w_044489",
+    "content": "lung lobe",
+    "meaning_zh": "肺叶",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见医学术语"
+  },
+  {
+    "item_code": "w_044490",
+    "content": "lung tighter suffice",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "散列词无整体义"
+  },
+  {
+    "item_code": "w_044504",
+    "content": "lush transfigure",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_044506",
+    "content": "Lusitano",
+    "meaning_zh": "卢西塔诺马；葡萄牙语或葡萄牙人",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有名词"
+  },
+  {
+    "item_code": "w_044513",
+    "content": "lustrous gust",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_044515",
+    "content": "lusty rinse",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_044525",
+    "content": "Lux Aurumque",
+    "meaning_zh": "光与金",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "拉丁语作品名"
+  },
+  {
+    "item_code": "w_044530",
+    "content": "luxurious celebration",
+    "meaning_zh": "奢华的庆典",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_044531",
+    "content": "luxurious things",
+    "meaning_zh": "奢侈品；奢华的东西",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_044532",
+    "content": "luxurious tour",
+    "meaning_zh": "豪华旅行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅游常见搭配"
+  },
+  {
+    "item_code": "w_044533",
+    "content": "luxurious watches",
+    "meaning_zh": "豪华手表；奢侈手表",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商品搭配"
+  },
+  {
+    "item_code": "w_044535",
+    "content": "luxury oaf",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_044536",
+    "content": "luxury spending",
+    "meaning_zh": "奢侈消费",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济消费搭配"
+  },
+  {
+    "item_code": "w_044537",
+    "content": "luxury villa",
+    "meaning_zh": "豪华别墅",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见房产搭配"
+  },
+  {
+    "item_code": "w_044538",
+    "content": "luxury wealthy prosperity poverty",
+    "meaning_zh": "奢侈；富有的；繁荣；贫困",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "散列词不成词条"
+  },
+  {
+    "item_code": "w_044548",
+    "content": "lymph relapse",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  },
+  {
+    "item_code": "w_044560",
+    "content": "lymphocyte exanimate enamel",
+    "meaning_zh": "淋巴细胞；无生命的；牙釉质",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "散列词不成词条"
+  },
+  {
+    "item_code": "w_044574",
+    "content": "lynchpin",
+    "meaning_zh": "关键人物；关键因素",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商务隐喻"
+  }
+]

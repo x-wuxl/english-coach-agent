@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_049116",
+    "content": "national drug agency",
+    "meaning_zh": "国家药品监管机构",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见机构类短语"
+  },
+  {
+    "item_code": "w_049117",
+    "content": "national education plan",
+    "meaning_zh": "国家教育计划",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政策类短语"
+  },
+  {
+    "item_code": "w_049119",
+    "content": "national flag",
+    "meaning_zh": "国旗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础常用短语"
+  },
+  {
+    "item_code": "w_049121",
+    "content": "national gene pool",
+    "meaning_zh": "国家基因库",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "科技类专门表达"
+  },
+  {
+    "item_code": "w_049122",
+    "content": "National Geographic Headquarters",
+    "meaning_zh": "国家地理总部",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有机构地点名"
+  },
+  {
+    "item_code": "w_049123",
+    "content": "National Health Commission",
+    "meaning_zh": "国家卫生健康委员会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "官方机构名称"
+  },
+  {
+    "item_code": "w_049124",
+    "content": "National Healthcare Security Administration",
+    "meaning_zh": "国家医疗保障局",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "官方机构名称"
+  },
+  {
+    "item_code": "w_049130",
+    "content": "national identity and value",
+    "meaning_zh": "国家认同与价值观",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "抽象概念短语"
+  },
+  {
+    "item_code": "w_049131",
+    "content": "National Immigration Forum",
+    "meaning_zh": "全国移民论坛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有组织名称"
+  },
+  {
+    "item_code": "w_049132",
+    "content": "national inspection exemption",
+    "meaning_zh": "国家免检",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "质检政策术语"
+  },
+  {
+    "item_code": "w_049133",
+    "content": "national institution",
+    "meaning_zh": "国家机构",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政治类短语"
+  },
+  {
+    "item_code": "w_049138",
+    "content": "national park system",
+    "meaning_zh": "国家公园体系",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见环保类短语"
+  },
+  {
+    "item_code": "w_049141",
+    "content": "national press",
+    "meaning_zh": "全国性媒体；全国性报刊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "新闻语境常用"
+  },
+  {
+    "item_code": "w_049143",
+    "content": "national publicity film",
+    "meaning_zh": "国家形象宣传片",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定宣传类表达"
+  },
+  {
+    "item_code": "w_049147",
+    "content": "national spending on ...",
+    "meaning_zh": "国家在……上的支出",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见支出搭配"
+  },
+  {
+    "item_code": "w_049148",
+    "content": "national spending on sth.",
+    "meaning_zh": "国家在某事上的支出",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见支出搭配"
+  },
+  {
+    "item_code": "w_049149",
+    "content": "national supervision system",
+    "meaning_zh": "国家监督体系；国家监察体制",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "政治制度类短语"
+  },
+  {
+    "item_code": "w_049151",
+    "content": "national tournament",
+    "meaning_zh": "全国锦标赛；全国比赛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "体育竞赛常用"
+  },
+  {
+    "item_code": "w_049152",
+    "content": "National Trades' Union",
+    "meaning_zh": "全国工会联盟",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有组织名称"
+  },
+  {
+    "item_code": "w_049158",
+    "content": "nationality citizenship language",
+    "meaning_zh": "国籍、公民身份、语言",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "词语堆叠价值低"
+  }
+]

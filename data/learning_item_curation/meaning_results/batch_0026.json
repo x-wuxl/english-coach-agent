@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_001148",
+    "content": "accomplish one's purpose",
+    "meaning_zh": "达到目的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_001153",
+    "content": "accord controversies",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常"
+  },
+  {
+    "item_code": "w_001160",
+    "content": "according to Labour Law",
+    "meaning_zh": "根据劳动法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词短语"
+  },
+  {
+    "item_code": "w_001161",
+    "content": "according to my requirement",
+    "meaning_zh": "按照我的要求",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词短语"
+  },
+  {
+    "item_code": "w_001178",
+    "content": "accountable for",
+    "meaning_zh": "对……负责",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_001184",
+    "content": "accounting and statistics",
+    "meaning_zh": "会计与统计",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学科并列短语"
+  },
+  {
+    "item_code": "w_001189",
+    "content": "accouterment",
+    "meaning_zh": "装备；配备品",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "正式词汇"
+  },
+  {
+    "item_code": "w_001206",
+    "content": "accumulate arrangement presentation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠噪声"
+  },
+  {
+    "item_code": "w_001207",
+    "content": "accumulate scoff",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常"
+  },
+  {
+    "item_code": "w_001216",
+    "content": "accurate weather forecast",
+    "meaning_zh": "准确的天气预报",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_001224",
+    "content": "accuse a point",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常"
+  },
+  {
+    "item_code": "w_001225",
+    "content": "accuse comedy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常"
+  },
+  {
+    "item_code": "w_001227",
+    "content": "accuse sb. of",
+    "meaning_zh": "指控某人……；谴责某人……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_001228",
+    "content": "accuse sb. of doing",
+    "meaning_zh": "指控某人做了某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词句型"
+  },
+  {
+    "item_code": "w_001235",
+    "content": "accustom ... to",
+    "meaning_zh": "使……习惯于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_001237",
+    "content": "accustom review",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常"
+  },
+  {
+    "item_code": "w_001240",
+    "content": "accustomed condensation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常"
+  },
+  {
+    "item_code": "w_001244",
+    "content": "ace acrobat",
+    "meaning_zh": "顶尖杂技演员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作名词短语"
+  },
+  {
+    "item_code": "w_001245",
+    "content": "Ace Travel",
+    "meaning_zh": "王牌旅行社",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑似机构名称"
+  },
+  {
+    "item_code": "w_001249",
+    "content": "aceptic",
+    "meaning_zh": "无菌的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为aseptic变体"
+  }
+]

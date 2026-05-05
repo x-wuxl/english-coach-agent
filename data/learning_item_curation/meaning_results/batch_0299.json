@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_028354",
+    "content": "flex stifle",
+    "meaning_zh": "屈曲膝关节",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "解剖动作搭配"
+  },
+  {
+    "item_code": "w_028356",
+    "content": "flexes retina",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无法判断"
+  },
+  {
+    "item_code": "w_028357",
+    "content": "flexi",
+    "meaning_zh": "灵活的；弹性工作制的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见非正式用法"
+  },
+  {
+    "item_code": "w_028360",
+    "content": "flexible educational system",
+    "meaning_zh": "灵活的教育制度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教育搭配"
+  },
+  {
+    "item_code": "w_028361",
+    "content": "flexible negligence",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无法判断"
+  },
+  {
+    "item_code": "w_028364",
+    "content": "flexible working arrangement",
+    "meaning_zh": "灵活工作安排",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常见表达"
+  },
+  {
+    "item_code": "w_028366",
+    "content": "flexible working option",
+    "meaning_zh": "灵活工作选择",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职场常见表达"
+  },
+  {
+    "item_code": "w_028374",
+    "content": "flexy",
+    "meaning_zh": "柔韧的；灵活的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "flexible变体"
+  },
+  {
+    "item_code": "w_028383",
+    "content": "flight directly cancel",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "语法错误疑似噪声"
+  },
+  {
+    "item_code": "w_028385",
+    "content": "flight irregularity",
+    "meaning_zh": "航班异常；航班不正常",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "航空常见术语"
+  },
+  {
+    "item_code": "w_028387",
+    "content": "flight regularity",
+    "meaning_zh": "航班正常率；航班规律性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "航空统计表达"
+  },
+  {
+    "item_code": "w_028404",
+    "content": "flipped",
+    "meaning_zh": "翻转；抛起；突然发怒",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持多义"
+  },
+  {
+    "item_code": "w_028414",
+    "content": "float division",
+    "meaning_zh": "浮点除法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_028420",
+    "content": "floating point",
+    "meaning_zh": "浮点；浮点数",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_028425",
+    "content": "flock self abasement",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常疑似噪声"
+  },
+  {
+    "item_code": "w_028432",
+    "content": "flood reserve premises",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无法判断"
+  },
+  {
+    "item_code": "w_028438",
+    "content": "floodlit grounds",
+    "meaning_zh": "有泛光灯照明的场地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见场地描述"
+  },
+  {
+    "item_code": "w_028444",
+    "content": "floor division",
+    "meaning_zh": "向下取整除法；地板除",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_028449",
+    "content": "floor senior",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无法判断"
+  },
+  {
+    "item_code": "w_028460",
+    "content": "floppy issue",
+    "meaning_zh": "软盘问题；松软无力的问题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义依语境变化"
+  }
+]

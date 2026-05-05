@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_017508",
+    "content": "counteract this problem",
+    "meaning_zh": "抵消或解决这个问题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_017522",
+    "content": "counterfeit and substandard goods",
+    "meaning_zh": "假冒伪劣商品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_017530",
+    "content": "countermand ignominy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词汇拼接噪声"
+  },
+  {
+    "item_code": "w_017538",
+    "content": "counterproductive apocryphal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词汇拼接噪声"
+  },
+  {
+    "item_code": "w_017551",
+    "content": "counting fee",
+    "meaning_zh": "清点费；计数费",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作费用类搭配"
+  },
+  {
+    "item_code": "w_017555",
+    "content": "countless immortal works",
+    "meaning_zh": "无数不朽作品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_017556",
+    "content": "countless warnings",
+    "meaning_zh": "无数警告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_017562",
+    "content": "country's economy",
+    "meaning_zh": "国家经济",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_017567",
+    "content": "countryside living",
+    "meaning_zh": "乡村生活",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活话题"
+  },
+  {
+    "item_code": "w_017569",
+    "content": "county library",
+    "meaning_zh": "县图书馆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见机构名称"
+  },
+  {
+    "item_code": "w_017570",
+    "content": "county syrup tabies",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写或噪声"
+  },
+  {
+    "item_code": "w_017571",
+    "content": "county tourism",
+    "meaning_zh": "县域旅游",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "旅游领域搭配"
+  },
+  {
+    "item_code": "w_017574",
+    "content": "coup d'etats",
+    "meaning_zh": "政变",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定外来短语复数"
+  },
+  {
+    "item_code": "w_017575",
+    "content": "coup d'état",
+    "meaning_zh": "政变",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定外来短语"
+  },
+  {
+    "item_code": "w_017576",
+    "content": "coup de grâce",
+    "meaning_zh": "致命一击；最后一击",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定外来短语"
+  },
+  {
+    "item_code": "w_017578",
+    "content": "coup plotter",
+    "meaning_zh": "政变策划者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治类常见搭配"
+  },
+  {
+    "item_code": "w_017581",
+    "content": "couple ... with",
+    "meaning_zh": "把……与……结合起来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词结构"
+  },
+  {
+    "item_code": "w_017583",
+    "content": "couple face",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_017592",
+    "content": "coupling effects",
+    "meaning_zh": "耦合效应；联动影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术技术搭配"
+  },
+  {
+    "item_code": "w_017593",
+    "content": "coupling technology",
+    "meaning_zh": "耦合技术；连接技术",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术类常见搭配"
+  }
+]

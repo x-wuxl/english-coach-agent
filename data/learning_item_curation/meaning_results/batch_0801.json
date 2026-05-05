@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_079047",
+    "content": "verbatum",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "疑似verbatim误拼"
+  },
+  {
+    "item_code": "w_079057",
+    "content": "vere",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常用词形，含义不明"
+  },
+  {
+    "item_code": "w_079067",
+    "content": "verify dessert chef",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "随机搭配，无教学价值"
+  },
+  {
+    "item_code": "w_079068",
+    "content": "verify requisite",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "搭配生硬，含义不明"
+  },
+  {
+    "item_code": "w_079073",
+    "content": "veritable virulent batches",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "随机词组，含义不明"
+  },
+  {
+    "item_code": "w_079088",
+    "content": "versatile compact disk",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "疑似术语误写"
+  },
+  {
+    "item_code": "w_079089",
+    "content": "versatile coordinate response",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "随机搭配，含义不明"
+  },
+  {
+    "item_code": "w_079090",
+    "content": "versatile decimal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "搭配异常，含义不明"
+  },
+  {
+    "item_code": "w_079091",
+    "content": "versatile treacherous",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "随机并列形容词"
+  },
+  {
+    "item_code": "w_079098",
+    "content": "verst baffling",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "随机搭配，含义不明"
+  },
+  {
+    "item_code": "w_079101",
+    "content": "vertebra metabolism animation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "随机词串，含义不明"
+  },
+  {
+    "item_code": "w_079109",
+    "content": "vertical benign",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "搭配异常，含义不明"
+  },
+  {
+    "item_code": "w_079114",
+    "content": "vertical well",
+    "meaning_zh": "垂直井",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见地质工程术语"
+  },
+  {
+    "item_code": "w_079115",
+    "content": "vertical wind",
+    "meaning_zh": "垂直风；上升或下降气流",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "气象语境术语"
+  },
+  {
+    "item_code": "w_079122",
+    "content": "verve malicious",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "随机搭配，含义不明"
+  },
+  {
+    "item_code": "w_079127",
+    "content": "very little",
+    "meaning_zh": "很少；几乎没有",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义一致"
+  },
+  {
+    "item_code": "w_079136",
+    "content": "vessel distent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "distent疑似误拼"
+  },
+  {
+    "item_code": "w_079141",
+    "content": "vested interest group",
+    "meaning_zh": "既得利益集团",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_079152",
+    "content": "veteran drudgery",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "随机搭配，含义不明"
+  },
+  {
+    "item_code": "w_079153",
+    "content": "veteran sponsor retreat",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "随机词串，含义不明"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_005891",
+    "content": "available custom",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_005904",
+    "content": "avenge purification",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "语义组合异常"
+  },
+  {
+    "item_code": "w_005911",
+    "content": "average family income",
+    "meaning_zh": "平均家庭收入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见统计表达"
+  },
+  {
+    "item_code": "w_005920",
+    "content": "average scientists",
+    "meaning_zh": "普通科学家；一般科学家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "字面含义可判断"
+  },
+  {
+    "item_code": "w_005930",
+    "content": "averse to doing sth.",
+    "meaning_zh": "不愿做某事；反感做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_005936",
+    "content": "avialis insufficiency",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写或噪声"
+  },
+  {
+    "item_code": "w_005939",
+    "content": "avian intelligence",
+    "meaning_zh": "鸟类智力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见主题表达"
+  },
+  {
+    "item_code": "w_005940",
+    "content": "avian migrant",
+    "meaning_zh": "候鸟；迁徙鸟类",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "主题语义明确"
+  },
+  {
+    "item_code": "w_005944",
+    "content": "aviation distal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "语义组合异常"
+  },
+  {
+    "item_code": "w_005954",
+    "content": "avocado broccoli",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_005962",
+    "content": "avoid one's duties",
+    "meaning_zh": "逃避职责；不履行职责",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_005963",
+    "content": "avoid one's responsibilities",
+    "meaning_zh": "逃避责任；不承担责任",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_005968",
+    "content": "avoidance of lightning strikes",
+    "meaning_zh": "避免雷击；防雷",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "主题语义明确"
+  },
+  {
+    "item_code": "w_005980",
+    "content": "awaitable",
+    "meaning_zh": "可等待对象；可异步等待的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_006004",
+    "content": "awesome weird gross",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "形容词堆叠噪声"
+  },
+  {
+    "item_code": "w_006010",
+    "content": "awkward console events warrant",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串无稳定含义"
+  },
+  {
+    "item_code": "w_006020",
+    "content": "axel",
+    "meaning_zh": "阿克塞尔跳；阿克塞尔",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专名或花滑术语"
+  },
+  {
+    "item_code": "w_006025",
+    "content": "aximally",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_006030",
+    "content": "axis retire conference",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串无稳定含义"
+  },
+  {
+    "item_code": "w_006039",
+    "content": "azamith",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_028566",
+    "content": "fluorescent supervene",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合无可靠含义"
+  },
+  {
+    "item_code": "w_028576",
+    "content": "flush furniture",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不常见且无语境"
+  },
+  {
+    "item_code": "w_028587",
+    "content": "flutter a handkerchief",
+    "meaning_zh": "挥动手帕；使手帕飘动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_028596",
+    "content": "fly her kite",
+    "meaning_zh": "放她的风筝",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按字面短语判断"
+  },
+  {
+    "item_code": "w_028602",
+    "content": "fly-killing lamp",
+    "meaning_zh": "灭蝇灯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "明确器物名称"
+  },
+  {
+    "item_code": "w_028605",
+    "content": "flyer administration",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然无语境"
+  },
+  {
+    "item_code": "w_028607",
+    "content": "flying capacity",
+    "meaning_zh": "飞行能力；航空运力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作航空相关搭配"
+  },
+  {
+    "item_code": "w_028616",
+    "content": "flyweight",
+    "meaning_zh": "享元模式；轻量级",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机主题术语"
+  },
+  {
+    "item_code": "w_028621",
+    "content": "foam dropout ration",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_028630",
+    "content": "focals",
+    "meaning_zh": "焦点；焦距镜片",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "复数形式可释义"
+  },
+  {
+    "item_code": "w_028635",
+    "content": "focus of ads",
+    "meaning_zh": "广告的重点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_028636",
+    "content": "focus of the project",
+    "meaning_zh": "项目的重点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_028652",
+    "content": "fog folder",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不常见像噪声"
+  },
+  {
+    "item_code": "w_028657",
+    "content": "foggy morning",
+    "meaning_zh": "有雾的早晨",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词短语"
+  },
+  {
+    "item_code": "w_028663",
+    "content": "foil icterus parrot friction",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显随机词串"
+  },
+  {
+    "item_code": "w_028664",
+    "content": "foil jacket",
+    "meaning_zh": "铝箔外套；箔层护套",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作材料部件名"
+  },
+  {
+    "item_code": "w_028685",
+    "content": "folk acrobatics",
+    "meaning_zh": "民间杂技",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "明确文化类短语"
+  },
+  {
+    "item_code": "w_028688",
+    "content": "folk fable",
+    "meaning_zh": "民间寓言",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "明确文学类短语"
+  },
+  {
+    "item_code": "w_028689",
+    "content": "folk jazz",
+    "meaning_zh": "民谣爵士乐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "音乐风格名称"
+  },
+  {
+    "item_code": "w_028692",
+    "content": "folk orchestra",
+    "meaning_zh": "民族管弦乐队；民间乐团",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "音乐团体名称"
+  }
+]

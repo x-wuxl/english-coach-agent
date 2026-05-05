@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_006065",
+    "content": "babble backfire",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词串噪声"
+  },
+  {
+    "item_code": "w_006077",
+    "content": "baby cot",
+    "meaning_zh": "婴儿床",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活用品"
+  },
+  {
+    "item_code": "w_006081",
+    "content": "baby hatch",
+    "meaning_zh": "弃婴安全岛；婴儿保温箱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定社会术语"
+  },
+  {
+    "item_code": "w_006085",
+    "content": "baby-care room",
+    "meaning_zh": "母婴室；婴儿护理室",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "公共设施名称"
+  },
+  {
+    "item_code": "w_006101",
+    "content": "bachelor and graduate degrees",
+    "meaning_zh": "本科和研究生学位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育领域短语"
+  },
+  {
+    "item_code": "w_006102",
+    "content": "bachelor crisis",
+    "meaning_zh": "单身男性危机；光棍危机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "社会议题表达"
+  },
+  {
+    "item_code": "w_006109",
+    "content": "bachelor unmarried fiance",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠噪声"
+  },
+  {
+    "item_code": "w_006114",
+    "content": "Bacillus Calmette-Guérin vaccine",
+    "meaning_zh": "卡介苗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学专有名词"
+  },
+  {
+    "item_code": "w_006120",
+    "content": "back brush",
+    "meaning_zh": "长柄背刷；背部刷",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "洗浴用品名称"
+  },
+  {
+    "item_code": "w_006125",
+    "content": "back from the brink",
+    "meaning_zh": "从危急边缘恢复；转危为安",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_006133",
+    "content": "back problem",
+    "meaning_zh": "背部问题；背痛毛病",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "健康常用搭配"
+  },
+  {
+    "item_code": "w_006136",
+    "content": "back row ticket",
+    "meaning_zh": "后排票",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "票务常用表达"
+  },
+  {
+    "item_code": "w_006143",
+    "content": "back trouble",
+    "meaning_zh": "背部毛病；背痛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "健康常用搭配"
+  },
+  {
+    "item_code": "w_006163",
+    "content": "backed",
+    "meaning_zh": "支持；后退；堵塞",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句对应常见义"
+  },
+  {
+    "item_code": "w_006166",
+    "content": "backfire concentrate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词串噪声"
+  },
+  {
+    "item_code": "w_006171",
+    "content": "background briefing",
+    "meaning_zh": "背景吹风会；背景情况说明会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "新闻政治术语"
+  },
+  {
+    "item_code": "w_006176",
+    "content": "background privilege",
+    "meaning_zh": "背景特权；出身特权",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解搭配"
+  },
+  {
+    "item_code": "w_006179",
+    "content": "background wall",
+    "meaning_zh": "背景墙",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "装修摄影常用语"
+  },
+  {
+    "item_code": "w_006192",
+    "content": "backpack tour",
+    "meaning_zh": "背包旅行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅游常用表达"
+  },
+  {
+    "item_code": "w_006201",
+    "content": "backspace",
+    "meaning_zh": "退格键；退格",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用词"
+  }
+]

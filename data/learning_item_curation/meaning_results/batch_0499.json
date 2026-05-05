@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_048135",
+    "content": "more harm than good",
+    "meaning_zh": "弊大于利",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句明确固定表达"
+  },
+  {
+    "item_code": "w_048138",
+    "content": "more lenient penalties",
+    "meaning_zh": "更宽松的处罚；更轻的刑罚",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见法律搭配"
+  },
+  {
+    "item_code": "w_048150",
+    "content": "Mori girl",
+    "meaning_zh": "森女；森系女孩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "日系风格称谓"
+  },
+  {
+    "item_code": "w_048156",
+    "content": "morning and evening peak",
+    "meaning_zh": "早晚高峰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通场景常用搭配"
+  },
+  {
+    "item_code": "w_048157",
+    "content": "morning beauty rituals",
+    "meaning_zh": "晨间美容护理流程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生活美容搭配"
+  },
+  {
+    "item_code": "w_048165",
+    "content": "morning's event",
+    "meaning_zh": "早上的活动；上午的事件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_048174",
+    "content": "morphine participation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常含义不明"
+  },
+  {
+    "item_code": "w_048186",
+    "content": "morrow",
+    "meaning_zh": "次日；翌日",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "古雅常见词义"
+  },
+  {
+    "item_code": "w_048189",
+    "content": "Morse operator",
+    "meaning_zh": "摩尔斯电码操作员；报务员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "通信术语"
+  },
+  {
+    "item_code": "w_048215",
+    "content": "mosaic outline",
+    "meaning_zh": "马赛克轮廓；拼贴图案轮廓",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作美术搭配"
+  },
+  {
+    "item_code": "w_048222",
+    "content": "mosque philistine",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接疑似噪声"
+  },
+  {
+    "item_code": "w_048230",
+    "content": "most egregiously in education",
+    "meaning_zh": "在教育领域最为恶劣地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "副词短语可理解"
+  },
+  {
+    "item_code": "w_048242",
+    "content": "most vigorous",
+    "meaning_zh": "最有活力的；最强健的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容词最高级"
+  },
+  {
+    "item_code": "w_048244",
+    "content": "Most-Improved Student Award",
+    "meaning_zh": "进步最大学生奖",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "奖项名称"
+  },
+  {
+    "item_code": "w_048249",
+    "content": "motel routine",
+    "meaning_zh": "汽车旅馆的日常流程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "普通名词搭配"
+  },
+  {
+    "item_code": "w_048251",
+    "content": "moth eton knack calculated",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词无序疑似噪声"
+  },
+  {
+    "item_code": "w_048255",
+    "content": "mother in law",
+    "meaning_zh": "岳母；婆婆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "亲属称谓"
+  },
+  {
+    "item_code": "w_048256",
+    "content": "mother river",
+    "meaning_zh": "母亲河",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句明确"
+  },
+  {
+    "item_code": "w_048276",
+    "content": "motivate ... to do",
+    "meaning_zh": "激励……做某事；促使……做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词句型"
+  },
+  {
+    "item_code": "w_048277",
+    "content": "motivate a company",
+    "meaning_zh": "激励一家公司；推动公司行动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解"
+  }
+]

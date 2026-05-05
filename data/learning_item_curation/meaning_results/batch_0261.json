@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_024761",
+    "content": "enter the next round",
+    "meaning_zh": "进入下一轮",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定比赛表达"
+  },
+  {
+    "item_code": "w_024783",
+    "content": "enterprise operator",
+    "meaning_zh": "企业经营者；企业运营者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商务搭配"
+  },
+  {
+    "item_code": "w_024784",
+    "content": "enterprise planning department",
+    "meaning_zh": "企业规划部门",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "部门名称搭配"
+  },
+  {
+    "item_code": "w_024788",
+    "content": "entertain great ambitions",
+    "meaning_zh": "怀有远大抱负",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "entertain表怀有"
+  },
+  {
+    "item_code": "w_024789",
+    "content": "entertain sb. to sth.",
+    "meaning_zh": "用某物款待某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词搭配"
+  },
+  {
+    "item_code": "w_024793",
+    "content": "entertainment activities",
+    "meaning_zh": "娱乐活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_024796",
+    "content": "entertainment contest",
+    "meaning_zh": "娱乐比赛；文娱竞赛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义可按搭配判断"
+  },
+  {
+    "item_code": "w_024797",
+    "content": "entertainment director",
+    "meaning_zh": "娱乐总监；文娱主管",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职位名称搭配"
+  },
+  {
+    "item_code": "w_024798",
+    "content": "entertainment facilities",
+    "meaning_zh": "娱乐设施",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见场所搭配"
+  },
+  {
+    "item_code": "w_024799",
+    "content": "entertainment field",
+    "meaning_zh": "娱乐领域；娱乐行业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "行业领域表达"
+  },
+  {
+    "item_code": "w_024801",
+    "content": "entertainment quarter",
+    "meaning_zh": "娱乐区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "quarter表城区"
+  },
+  {
+    "item_code": "w_024802",
+    "content": "entertainment venue",
+    "meaning_zh": "娱乐场所",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见场所搭配"
+  },
+  {
+    "item_code": "w_024803",
+    "content": "entertainment ways",
+    "meaning_zh": "娱乐方式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配略生硬但可理解"
+  },
+  {
+    "item_code": "w_024813",
+    "content": "enthusiasm dappled",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_024815",
+    "content": "enthusiasm in learning English",
+    "meaning_zh": "学习英语的热情",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学习主题明确"
+  },
+  {
+    "item_code": "w_024819",
+    "content": "enthusiastic enthusiasm",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "重复搭配低价值"
+  },
+  {
+    "item_code": "w_024822",
+    "content": "entice delicacy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词形搭配错误"
+  },
+  {
+    "item_code": "w_024829",
+    "content": "entitle fascination",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配无可靠含义"
+  },
+  {
+    "item_code": "w_024835",
+    "content": "entity snuff pension",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无关词拼接噪声"
+  },
+  {
+    "item_code": "w_024848",
+    "content": "entrancitive",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  }
+]

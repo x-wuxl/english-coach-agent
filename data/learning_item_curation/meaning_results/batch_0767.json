@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_074907",
+    "content": "timetable schedule",
+    "meaning_zh": "时间表；日程安排",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见日程表达"
+  },
+  {
+    "item_code": "w_074911",
+    "content": "timid vida",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_074917",
+    "content": "timorus reiterate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "拼写异常且不成搭配"
+  },
+  {
+    "item_code": "w_074919",
+    "content": "timpanitis broom",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_074922",
+    "content": "Tin How Temple",
+    "meaning_zh": "天后庙",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词寺庙名"
+  },
+  {
+    "item_code": "w_074938",
+    "content": "tinker away",
+    "meaning_zh": "不停地修补；反复摆弄",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词短语"
+  },
+  {
+    "item_code": "w_074943",
+    "content": "tinned canned pear",
+    "meaning_zh": "罐装梨",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "同义词叠加表达"
+  },
+  {
+    "item_code": "w_074949",
+    "content": "tint weather",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "不成常见搭配"
+  },
+  {
+    "item_code": "w_074952",
+    "content": "Tiny Times",
+    "meaning_zh": "《小时代》",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "作品专有名词"
+  },
+  {
+    "item_code": "w_074956",
+    "content": "tip pooling",
+    "meaning_zh": "小费合并分配；小费共享",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "服务业常见术语"
+  },
+  {
+    "item_code": "w_074973",
+    "content": "tire digest",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_074978",
+    "content": "tired and nervous",
+    "meaning_zh": "疲惫而紧张",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通形容词短语"
+  },
+  {
+    "item_code": "w_075007",
+    "content": "tive",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词缀残片"
+  },
+  {
+    "item_code": "w_075009",
+    "content": "tkinter",
+    "meaning_zh": "Python 图形界面库",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机专有术语"
+  },
+  {
+    "item_code": "w_075015",
+    "content": "to a ... extent",
+    "meaning_zh": "在……程度上；到……程度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达模板"
+  },
+  {
+    "item_code": "w_075023",
+    "content": "to a limited extent",
+    "meaning_zh": "在有限程度上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见程度表达"
+  },
+  {
+    "item_code": "w_075025",
+    "content": "to adopt various approaches",
+    "meaning_zh": "采用各种方法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见写作搭配"
+  },
+  {
+    "item_code": "w_075027",
+    "content": "to aim for sth.",
+    "meaning_zh": "力求某事；以某事为目标",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_075029",
+    "content": "to all intents",
+    "meaning_zh": "实际上；几乎等于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定表达的省略形式"
+  },
+  {
+    "item_code": "w_075032",
+    "content": "to approach challenges",
+    "meaning_zh": "应对挑战；处理挑战",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  }
+]

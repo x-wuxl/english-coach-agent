@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_021412",
+    "content": "disposal of toxic waste",
+    "meaning_zh": "有毒废物的处理",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见环保搭配"
+  },
+  {
+    "item_code": "w_021414",
+    "content": "dispose examine",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词语堆叠无固定含义"
+  },
+  {
+    "item_code": "w_021416",
+    "content": "dispose recuperate allegiance",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词语堆叠无固定含义"
+  },
+  {
+    "item_code": "w_021426",
+    "content": "disprove the nine",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "搭配不自然含义不明"
+  },
+  {
+    "item_code": "w_021433",
+    "content": "dispute expense aspect distress",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词语堆叠无固定含义"
+  },
+  {
+    "item_code": "w_021442",
+    "content": "disregard of laws",
+    "meaning_zh": "无视法律；漠视法律",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_021443",
+    "content": "disregard the public rules",
+    "meaning_zh": "无视公共规则",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词短语含义明确"
+  },
+  {
+    "item_code": "w_021454",
+    "content": "disruption of ecological balance",
+    "meaning_zh": "生态平衡的破坏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见环保表达"
+  },
+  {
+    "item_code": "w_021458",
+    "content": "dissatisfaction with",
+    "meaning_zh": "对……不满",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词搭配"
+  },
+  {
+    "item_code": "w_021461",
+    "content": "dissatisfied surprise",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "搭配不自然含义不明"
+  },
+  {
+    "item_code": "w_021466",
+    "content": "dissect basin",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "搭配不自然含义不明"
+  },
+  {
+    "item_code": "w_021467",
+    "content": "dissect remiss",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "搭配不自然含义不明"
+  },
+  {
+    "item_code": "w_021474",
+    "content": "disseminate tacocardia interposition enzyme",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词语堆叠且含拼写疑点"
+  },
+  {
+    "item_code": "w_021485",
+    "content": "dissertation embody",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "搭配不自然含义不明"
+  },
+  {
+    "item_code": "w_021494",
+    "content": "dissipate ingenious",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "搭配不自然含义不明"
+  },
+  {
+    "item_code": "w_021495",
+    "content": "dissipate uterus",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "搭配不自然含义不明"
+  },
+  {
+    "item_code": "w_021501",
+    "content": "dissolute perilous",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词语堆叠无固定含义"
+  },
+  {
+    "item_code": "w_021512",
+    "content": "dissuade playground workmanship",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词语堆叠无固定含义"
+  },
+  {
+    "item_code": "w_021513",
+    "content": "dissuade sap",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "搭配不自然含义不明"
+  },
+  {
+    "item_code": "w_021516",
+    "content": "distal malays juggernaut",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词语堆叠无固定含义"
+  }
+]

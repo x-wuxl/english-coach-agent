@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_000773",
+    "content": "abiding doff figurative",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌无可靠含义"
+  },
+  {
+    "item_code": "w_000776",
+    "content": "ability capable act",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌无可靠含义"
+  },
+  {
+    "item_code": "w_000777",
+    "content": "ability of expression",
+    "meaning_zh": "表达能力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习搭配"
+  },
+  {
+    "item_code": "w_000778",
+    "content": "ability to do",
+    "meaning_zh": "做某事的能力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见语法搭配"
+  },
+  {
+    "item_code": "w_000779",
+    "content": "ability to do sth.",
+    "meaning_zh": "做某事的能力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见语法搭配"
+  },
+  {
+    "item_code": "w_000780",
+    "content": "ability to organize",
+    "meaning_zh": "组织能力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见能力表达"
+  },
+  {
+    "item_code": "w_000787",
+    "content": "abject proprietary bash",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌无可靠含义"
+  },
+  {
+    "item_code": "w_000789",
+    "content": "abjor",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误或噪声"
+  },
+  {
+    "item_code": "w_000796",
+    "content": "able defect",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无可靠含义"
+  },
+  {
+    "item_code": "w_000807",
+    "content": "abnormal mentality",
+    "meaning_zh": "异常心理；不正常心态",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_000816",
+    "content": "abolish forecast",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无可靠含义"
+  },
+  {
+    "item_code": "w_000827",
+    "content": "aboriginal aborigine",
+    "meaning_zh": "土著的；土著人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "近义词组合"
+  },
+  {
+    "item_code": "w_000829",
+    "content": "aboriginal tribe",
+    "meaning_zh": "土著部落",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_000838",
+    "content": "abound with",
+    "meaning_zh": "充满；富于；大量存在",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_000869",
+    "content": "abrogate pertinent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌无可靠含义"
+  },
+  {
+    "item_code": "w_000874",
+    "content": "ABS",
+    "meaning_zh": "防抱死制动系统；资产支持证券；绝对值函数",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缩写依领域多义"
+  },
+  {
+    "item_code": "w_000888",
+    "content": "absent trial",
+    "meaning_zh": "缺席审判",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律常见表达"
+  },
+  {
+    "item_code": "w_000890",
+    "content": "absent windbag",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无可靠含义"
+  },
+  {
+    "item_code": "w_000903",
+    "content": "absolute indifference",
+    "meaning_zh": "完全漠不关心；绝对冷漠",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象表达"
+  },
+  {
+    "item_code": "w_000919",
+    "content": "absorb its essence",
+    "meaning_zh": "吸收其精华",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_074766",
+    "content": "ticket booking and pickup",
+    "meaning_zh": "订票和取票",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见票务表达"
+  },
+  {
+    "item_code": "w_074767",
+    "content": "ticket gate",
+    "meaning_zh": "检票口；检票闸机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见交通场景"
+  },
+  {
+    "item_code": "w_074770",
+    "content": "ticket purchasing plug-in",
+    "meaning_zh": "购票插件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "票务技术表达"
+  },
+  {
+    "item_code": "w_074771",
+    "content": "ticket scalping",
+    "meaning_zh": "倒卖票；票务黄牛行为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_074772",
+    "content": "ticket shop",
+    "meaning_zh": "售票处；票务店",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见场所表达"
+  },
+  {
+    "item_code": "w_074779",
+    "content": "tickle gape",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无可靠搭配"
+  },
+  {
+    "item_code": "w_074782",
+    "content": "ticklish magnitude",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声"
+  },
+  {
+    "item_code": "w_074803",
+    "content": "tidy the desk",
+    "meaning_zh": "整理书桌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾短语"
+  },
+  {
+    "item_code": "w_074811",
+    "content": "tie my shoes",
+    "meaning_zh": "系我的鞋带",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_074823",
+    "content": "tiered power tariffs",
+    "meaning_zh": "阶梯电价",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策经济术语"
+  },
+  {
+    "item_code": "w_074824",
+    "content": "tiered pricing for electricity",
+    "meaning_zh": "阶梯电价",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策经济术语"
+  },
+  {
+    "item_code": "w_074829",
+    "content": "tight a bolt",
+    "meaning_zh": "拧紧螺栓",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "应为tighten"
+  },
+  {
+    "item_code": "w_074830",
+    "content": "tight fisted presumptuous proclaim",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌噪声"
+  },
+  {
+    "item_code": "w_074841",
+    "content": "tights stocking sock raincoat",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词表堆砌噪声"
+  },
+  {
+    "item_code": "w_074856",
+    "content": "timber beam paint",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌噪声"
+  },
+  {
+    "item_code": "w_074857",
+    "content": "timber bridge deck",
+    "meaning_zh": "木桥桥面",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "工程结构表达"
+  },
+  {
+    "item_code": "w_074869",
+    "content": "time flexibility",
+    "meaning_zh": "时间灵活性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象名词"
+  },
+  {
+    "item_code": "w_074871",
+    "content": "Time is fleeting",
+    "meaning_zh": "时光飞逝",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句式"
+  },
+  {
+    "item_code": "w_074873",
+    "content": "time management ability",
+    "meaning_zh": "时间管理能力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见能力表达"
+  },
+  {
+    "item_code": "w_074883",
+    "content": "time-honored brand",
+    "meaning_zh": "老字号品牌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商业表达"
+  }
+]

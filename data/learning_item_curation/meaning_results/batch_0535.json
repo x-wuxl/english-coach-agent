@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_051938",
+    "content": "online dispute",
+    "meaning_zh": "网络纠纷；线上争议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见网络场景短语"
+  },
+  {
+    "item_code": "w_051939",
+    "content": "online donation",
+    "meaning_zh": "网络捐赠；线上募捐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见公益场景短语"
+  },
+  {
+    "item_code": "w_051941",
+    "content": "online fake news",
+    "meaning_zh": "网络假新闻；网上虚假信息",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见媒体治理表达"
+  },
+  {
+    "item_code": "w_051942",
+    "content": "online finance",
+    "meaning_zh": "互联网金融；网络金融",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见财经术语"
+  },
+  {
+    "item_code": "w_051943",
+    "content": "online flea market",
+    "meaning_zh": "网上跳蚤市场；二手交易平台",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配含义明确"
+  },
+  {
+    "item_code": "w_051946",
+    "content": "online game curfew",
+    "meaning_zh": "网络游戏宵禁；网游限时规定",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策场景表达明确"
+  },
+  {
+    "item_code": "w_051947",
+    "content": "online game moral committee",
+    "meaning_zh": "网络游戏道德委员会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专门机构名称"
+  },
+  {
+    "item_code": "w_051949",
+    "content": "online gossip",
+    "meaning_zh": "网络八卦；网上流言",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社交媒体表达"
+  },
+  {
+    "item_code": "w_051950",
+    "content": "online greeting",
+    "meaning_zh": "网上问候；在线祝福",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "线上交流表达"
+  },
+  {
+    "item_code": "w_051951",
+    "content": "online insurance",
+    "meaning_zh": "互联网保险；在线保险",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见金融保险术语"
+  },
+  {
+    "item_code": "w_051952",
+    "content": "online job search",
+    "meaning_zh": "网上求职；在线找工作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见就业场景短语"
+  },
+  {
+    "item_code": "w_051953",
+    "content": "online lottery sale",
+    "meaning_zh": "网上彩票销售",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "含义直接明确"
+  },
+  {
+    "item_code": "w_051954",
+    "content": "online meeting",
+    "meaning_zh": "线上会议；网络会议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "高频办公表达"
+  },
+  {
+    "item_code": "w_051955",
+    "content": "online payment system",
+    "meaning_zh": "在线支付系统；网络支付系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见支付术语"
+  },
+  {
+    "item_code": "w_051956",
+    "content": "online purchases",
+    "meaning_zh": "网上购物；网购商品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见消费表达"
+  },
+  {
+    "item_code": "w_051957",
+    "content": "online recruitment site",
+    "meaning_zh": "在线招聘网站；招聘平台",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "求职招聘场景明确"
+  },
+  {
+    "item_code": "w_051958",
+    "content": "online retails of medicine",
+    "meaning_zh": "药品网络零售；网上售药",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略不自然但可判"
+  },
+  {
+    "item_code": "w_051959",
+    "content": "online ride-hailing",
+    "meaning_zh": "网约车；网络叫车服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见交通服务术语"
+  },
+  {
+    "item_code": "w_051960",
+    "content": "online rumors",
+    "meaning_zh": "网络谣言；网上传言",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见网络治理表达"
+  },
+  {
+    "item_code": "w_051961",
+    "content": "online sensation",
+    "meaning_zh": "网络轰动事件；网络红人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可指事件或人物"
+  }
+]

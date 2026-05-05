@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_012075",
+    "content": "capital of the empire",
+    "meaning_zh": "帝国首都",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "整体短语含义明确"
+  },
+  {
+    "item_code": "w_012084",
+    "content": "capitalism implicit console",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_012100",
+    "content": "capricate",
+    "meaning_zh": "跳跃；蹦跳",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见词但可释义"
+  },
+  {
+    "item_code": "w_012109",
+    "content": "captain sailor steward",
+    "meaning_zh": "船长、水手、乘务员",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "词汇串非固定表达"
+  },
+  {
+    "item_code": "w_012111",
+    "content": "caption catalog chapter",
+    "meaning_zh": "说明文字、目录、章节",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "词汇串非固定表达"
+  },
+  {
+    "item_code": "w_012122",
+    "content": "capture hond",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_012123",
+    "content": "capture one's imagination",
+    "meaning_zh": "激发某人的想象力；吸引某人的兴趣",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配含义明确"
+  },
+  {
+    "item_code": "w_012125",
+    "content": "capulate",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_012131",
+    "content": "car burglars",
+    "meaning_zh": "盗车贼；偷车内财物的人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_012132",
+    "content": "car care product",
+    "meaning_zh": "汽车养护产品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_012134",
+    "content": "car exhaust fume",
+    "meaning_zh": "汽车尾气",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保话题常见表达"
+  },
+  {
+    "item_code": "w_012135",
+    "content": "car free day",
+    "meaning_zh": "无车日",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见环保活动名称"
+  },
+  {
+    "item_code": "w_012138",
+    "content": "car museum",
+    "meaning_zh": "汽车博物馆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "名词短语含义明确"
+  },
+  {
+    "item_code": "w_012142",
+    "content": "car quota",
+    "meaning_zh": "汽车配额；购车指标",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策语境常见表达"
+  },
+  {
+    "item_code": "w_012150",
+    "content": "car-free day",
+    "meaning_zh": "无车日",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定活动名称"
+  },
+  {
+    "item_code": "w_012170",
+    "content": "carbohydrate stripe",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无法判断"
+  },
+  {
+    "item_code": "w_012171",
+    "content": "carbohydrate-rich",
+    "meaning_zh": "富含碳水化合物的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词含义明确"
+  },
+  {
+    "item_code": "w_012178",
+    "content": "carbon dioxide concentration",
+    "meaning_zh": "二氧化碳浓度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "科学话题常见短语"
+  },
+  {
+    "item_code": "w_012180",
+    "content": "carbon dioxide observatory satellite",
+    "meaning_zh": "二氧化碳观测卫星",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术名词短语明确"
+  },
+  {
+    "item_code": "w_012181",
+    "content": "carbon dioxide release",
+    "meaning_zh": "二氧化碳释放；二氧化碳排放",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环境语境常见表达"
+  }
+]

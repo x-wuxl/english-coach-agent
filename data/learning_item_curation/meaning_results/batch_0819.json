@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_081015",
+    "content": "Wilhelm Conrad Rontgen",
+    "meaning_zh": "威廉·康拉德·伦琴（物理学家）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "著名科学家人名"
+  },
+  {
+    "item_code": "w_081016",
+    "content": "Wilhelm Weber",
+    "meaning_zh": "威廉·韦伯（物理学家）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "科学家人名"
+  },
+  {
+    "item_code": "w_081018",
+    "content": "will never do",
+    "meaning_zh": "永远不会做；再也不会做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句体现否定将来"
+  },
+  {
+    "item_code": "w_081019",
+    "content": "will not",
+    "meaning_zh": "将不会；不愿意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见助动词否定"
+  },
+  {
+    "item_code": "w_081020",
+    "content": "willed",
+    "meaning_zh": "用意志力使；决意",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句为动词过去式"
+  },
+  {
+    "item_code": "w_081033",
+    "content": "willy nilly magnificent fabulous",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词串拼接噪声"
+  },
+  {
+    "item_code": "w_081035",
+    "content": "Wilson",
+    "meaning_zh": "威尔逊（姓氏或人名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句为人名"
+  },
+  {
+    "item_code": "w_081036",
+    "content": "Wilson Mizner",
+    "meaning_zh": "威尔逊·米兹纳（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有人名"
+  },
+  {
+    "item_code": "w_081038",
+    "content": "wilt badger",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无固定搭配"
+  },
+  {
+    "item_code": "w_081045",
+    "content": "win a gift",
+    "meaning_zh": "赢得礼物；获得奖品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_081046",
+    "content": "win a majority",
+    "meaning_zh": "赢得多数票；获得多数支持",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "选举常用搭配"
+  },
+  {
+    "item_code": "w_081051",
+    "content": "win one's fame overnight",
+    "meaning_zh": "一夜成名",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_081054",
+    "content": "win recognition",
+    "meaning_zh": "获得认可；赢得承认",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_081056",
+    "content": "win scholarship",
+    "meaning_zh": "获得奖学金",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "留学常用搭配"
+  },
+  {
+    "item_code": "w_081067",
+    "content": "wind and sand breaks",
+    "meaning_zh": "防风固沙林带；防风沙屏障",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为防风沙术语"
+  },
+  {
+    "item_code": "w_081073",
+    "content": "wind erosion landform",
+    "meaning_zh": "风蚀地貌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地理术语"
+  },
+  {
+    "item_code": "w_081076",
+    "content": "wind one's way",
+    "meaning_zh": "蜿蜒前进；曲折行进",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_081077",
+    "content": "wind power",
+    "meaning_zh": "风力发电；风能",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句为能源含义"
+  },
+  {
+    "item_code": "w_081081",
+    "content": "wind sb.'s way",
+    "meaning_zh": "蜿蜒前进；曲折行进",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "应为固定搭配变体"
+  },
+  {
+    "item_code": "w_081085",
+    "content": "wind the clock",
+    "meaning_zh": "给钟上发条",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  }
+]

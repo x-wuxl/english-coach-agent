@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_058439",
+    "content": "prosperity of local economy",
+    "meaning_zh": "地方经济繁荣",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见经济类表达"
+  },
+  {
+    "item_code": "w_058454",
+    "content": "prostrate vertigo",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似错误搭配"
+  },
+  {
+    "item_code": "w_058468",
+    "content": "protect forests from overexploitation",
+    "meaning_zh": "保护森林免遭过度开发",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保类常见表达"
+  },
+  {
+    "item_code": "w_058469",
+    "content": "protect rare animals",
+    "meaning_zh": "保护珍稀动物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保类常见表达"
+  },
+  {
+    "item_code": "w_058470",
+    "content": "protect rights of women",
+    "meaning_zh": "保护妇女权利",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "权利保护常见表达"
+  },
+  {
+    "item_code": "w_058481",
+    "content": "protection against",
+    "meaning_zh": "防护；保护免受",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指预防疾病"
+  },
+  {
+    "item_code": "w_058485",
+    "content": "protectionist movement",
+    "meaning_zh": "保护主义运动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治经济术语"
+  },
+  {
+    "item_code": "w_058489",
+    "content": "protective suits",
+    "meaning_zh": "防护服",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_058510",
+    "content": "prothin",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_058513",
+    "content": "protion",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_058529",
+    "content": "prototype ameliorate energy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无明确含义"
+  },
+  {
+    "item_code": "w_058530",
+    "content": "prototype and patch",
+    "meaning_zh": "原型开发与补丁修补",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "计算机语境可解释"
+  },
+  {
+    "item_code": "w_058545",
+    "content": "protégé",
+    "meaning_zh": "门生；受提携者",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见外来词"
+  },
+  {
+    "item_code": "w_058552",
+    "content": "prove proof",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然搭配"
+  },
+  {
+    "item_code": "w_058567",
+    "content": "provide a full refund",
+    "meaning_zh": "提供全额退款",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "消费场景常见表达"
+  },
+  {
+    "item_code": "w_058568",
+    "content": "provide catering services",
+    "meaning_zh": "提供餐饮服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "服务类常见表达"
+  },
+  {
+    "item_code": "w_058572",
+    "content": "provide influence",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_058573",
+    "content": "provide information about products",
+    "meaning_zh": "提供产品信息",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务场景常见表达"
+  },
+  {
+    "item_code": "w_058574",
+    "content": "provide medical services",
+    "meaning_zh": "提供医疗服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医疗场景常见表达"
+  },
+  {
+    "item_code": "w_058576",
+    "content": "provide sb. with entertainment",
+    "meaning_zh": "为某人提供娱乐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "provide句型表达"
+  }
+]

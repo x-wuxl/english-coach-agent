@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_006322",
+    "content": "bal",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写残片含义不明"
+  },
+  {
+    "item_code": "w_006325",
+    "content": "balance inquiry",
+    "meaning_zh": "余额查询",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见金融服务短语"
+  },
+  {
+    "item_code": "w_006328",
+    "content": "balance one's budget",
+    "meaning_zh": "平衡预算；使收支平衡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动宾表达"
+  },
+  {
+    "item_code": "w_006332",
+    "content": "balance step pace",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常含义不明"
+  },
+  {
+    "item_code": "w_006335",
+    "content": "balanced bilingualism",
+    "meaning_zh": "均衡双语能力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "语言学常见术语"
+  },
+  {
+    "item_code": "w_006337",
+    "content": "balanced ecosystem",
+    "meaning_zh": "平衡的生态系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态学常见搭配"
+  },
+  {
+    "item_code": "w_006341",
+    "content": "balcon",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_006343",
+    "content": "balcony discharge instruction",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常含义不明"
+  },
+  {
+    "item_code": "w_006344",
+    "content": "balcony tenant evaluation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常含义不明"
+  },
+  {
+    "item_code": "w_006355",
+    "content": "Bali Myna",
+    "meaning_zh": "巴厘椋鸟",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "物种专有名词"
+  },
+  {
+    "item_code": "w_006356",
+    "content": "balihu",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准词含义不明"
+  },
+  {
+    "item_code": "w_006367",
+    "content": "ballad sanctimonious",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无固定义"
+  },
+  {
+    "item_code": "w_006372",
+    "content": "ballet attire",
+    "meaning_zh": "芭蕾舞服装",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_006378",
+    "content": "Ballon d'Or curse",
+    "meaning_zh": "金球奖魔咒",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "体育文化表达"
+  },
+  {
+    "item_code": "w_006380",
+    "content": "balloon banquet",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常含义不明"
+  },
+  {
+    "item_code": "w_006405",
+    "content": "balustrate",
+    "meaning_zh": "装有栏杆的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "建筑相关罕见词"
+  },
+  {
+    "item_code": "w_006406",
+    "content": "bam",
+    "meaning_zh": "砰的一声；猛然地",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "拟声词用法"
+  },
+  {
+    "item_code": "w_006409",
+    "content": "bamboo-sun",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准词含义不明"
+  },
+  {
+    "item_code": "w_006414",
+    "content": "ban banned book",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无固定义"
+  },
+  {
+    "item_code": "w_006417",
+    "content": "banal unimpeachable entangle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无固定义"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_056840",
+    "content": "positive mental attitude",
+    "meaning_zh": "积极心态",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_056841",
+    "content": "positive negative impression",
+    "meaning_zh": "正面或负面印象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配略不完整"
+  },
+  {
+    "item_code": "w_056846",
+    "content": "positive side",
+    "meaning_zh": "积极的一面；有利方面",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_056851",
+    "content": "positronic",
+    "meaning_zh": "正电子的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "物理术语"
+  },
+  {
+    "item_code": "w_056854",
+    "content": "possess a car",
+    "meaning_zh": "拥有一辆车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词短语"
+  },
+  {
+    "item_code": "w_056859",
+    "content": "possessive excrete",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无合理搭配"
+  },
+  {
+    "item_code": "w_056864",
+    "content": "possity",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_056868",
+    "content": "post design",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  },
+  {
+    "item_code": "w_056869",
+    "content": "post doctor",
+    "meaning_zh": "博士后",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常指博士后"
+  },
+  {
+    "item_code": "w_056871",
+    "content": "post garage",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无合理搭配"
+  },
+  {
+    "item_code": "w_056874",
+    "content": "post mortem idle oven",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声"
+  },
+  {
+    "item_code": "w_056879",
+    "content": "post-disaster reconstruction",
+    "meaning_zh": "灾后重建",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会议题表达"
+  },
+  {
+    "item_code": "w_056891",
+    "content": "post-sale service",
+    "meaning_zh": "售后服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商务表达"
+  },
+  {
+    "item_code": "w_056896",
+    "content": "postage contentment",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无合理搭配"
+  },
+  {
+    "item_code": "w_056897",
+    "content": "postage defect",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  },
+  {
+    "item_code": "w_056900",
+    "content": "postage-paid envelope",
+    "meaning_zh": "邮资已付信封",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见邮政表达"
+  },
+  {
+    "item_code": "w_056910",
+    "content": "postconditions",
+    "meaning_zh": "后置条件",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_056915",
+    "content": "postdoctoral terminal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无合理搭配"
+  },
+  {
+    "item_code": "w_056917",
+    "content": "poster wreck",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无合理搭配"
+  },
+  {
+    "item_code": "w_056929",
+    "content": "postgraduate recommendation",
+    "meaning_zh": "研究生推荐；保研推荐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "考研语境可判断"
+  }
+]

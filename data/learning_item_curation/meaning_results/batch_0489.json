@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_046959",
+    "content": "micro-computer lab",
+    "meaning_zh": "微型计算机实验室",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教学场景短语"
+  },
+  {
+    "item_code": "w_046960",
+    "content": "micro-credit company",
+    "meaning_zh": "小额信贷公司",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融领域固定表达"
+  },
+  {
+    "item_code": "w_046974",
+    "content": "microbiological life",
+    "meaning_zh": "微生物生命",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生物学短语"
+  },
+  {
+    "item_code": "w_047012",
+    "content": "microfilm lubricate magnifier",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠难判断"
+  },
+  {
+    "item_code": "w_047038",
+    "content": "microscopic organism",
+    "meaning_zh": "微生物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见科学术语"
+  },
+  {
+    "item_code": "w_047047",
+    "content": "Microsoft's Internet Explorer",
+    "meaning_zh": "微软的Internet Explorer浏览器",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "软件专有名词"
+  },
+  {
+    "item_code": "w_047070",
+    "content": "Mid-Autumn Day",
+    "meaning_zh": "中秋节",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句明确节日含义"
+  },
+  {
+    "item_code": "w_047073",
+    "content": "mid-lake pavilion",
+    "meaning_zh": "湖心亭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地点景观短语"
+  },
+  {
+    "item_code": "w_047077",
+    "content": "mid-shift",
+    "meaning_zh": "中班；中间班次",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "复合词含义明确"
+  },
+  {
+    "item_code": "w_047086",
+    "content": "middle center central",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "近义词堆叠非词条"
+  },
+  {
+    "item_code": "w_047091",
+    "content": "middle of the century",
+    "meaning_zh": "世纪中叶",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时间表达"
+  },
+  {
+    "item_code": "w_047096",
+    "content": "middle-class occupation",
+    "meaning_zh": "中产阶级职业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "社会学搭配"
+  },
+  {
+    "item_code": "w_047101",
+    "content": "middleman landlord",
+    "meaning_zh": "中间人地主；转租地主",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "历史社会语境用语"
+  },
+  {
+    "item_code": "w_047110",
+    "content": "Midori",
+    "meaning_zh": "美登里（人名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常作日语人名"
+  },
+  {
+    "item_code": "w_047131",
+    "content": "might very well",
+    "meaning_zh": "很可能；完全可能",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见情态表达"
+  },
+  {
+    "item_code": "w_047132",
+    "content": "might yet do",
+    "meaning_zh": "仍有可能做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见情态结构"
+  },
+  {
+    "item_code": "w_047133",
+    "content": "might-have-been outcome",
+    "meaning_zh": "本可能发生的结果",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "虚拟语气相关表达"
+  },
+  {
+    "item_code": "w_047136",
+    "content": "migrain",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_047144",
+    "content": "migrate away",
+    "meaning_zh": "迁离；迁徙离开",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词短语含义明确"
+  },
+  {
+    "item_code": "w_047145",
+    "content": "migrate to the cities",
+    "meaning_zh": "迁往城市",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会话题表达"
+  }
+]

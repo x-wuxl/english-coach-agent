@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_019952",
+    "content": "deplete merchandise",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配生硬疑似噪声"
+  },
+  {
+    "item_code": "w_019957",
+    "content": "deplore vitality",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_019962",
+    "content": "depolate nepropathy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误噪声"
+  },
+  {
+    "item_code": "w_019974",
+    "content": "deposit camping",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不明疑似噪声"
+  },
+  {
+    "item_code": "w_019975",
+    "content": "deposit ferry",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不明疑似噪声"
+  },
+  {
+    "item_code": "w_019978",
+    "content": "deposit of jewels",
+    "meaning_zh": "珠宝存放；珠宝储藏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可按短语整体理解"
+  },
+  {
+    "item_code": "w_019985",
+    "content": "depositional hiatus",
+    "meaning_zh": "沉积间断",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地质学术语"
+  },
+  {
+    "item_code": "w_019988",
+    "content": "depository platform",
+    "meaning_zh": "存管平台；存储平台",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "术语含义依语境"
+  },
+  {
+    "item_code": "w_020016",
+    "content": "deprive robe collocation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含标签词疑似噪声"
+  },
+  {
+    "item_code": "w_020025",
+    "content": "depths",
+    "meaning_zh": "深处；最深处；极点",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持常见义"
+  },
+  {
+    "item_code": "w_020028",
+    "content": "depurit stout",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误噪声"
+  },
+  {
+    "item_code": "w_020029",
+    "content": "deputant",
+    "meaning_zh": "代理人；代表",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见词义可判断"
+  },
+  {
+    "item_code": "w_020034",
+    "content": "deputy devastate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_020035",
+    "content": "deputy lou men warehouse",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串混乱疑似噪声"
+  },
+  {
+    "item_code": "w_020046",
+    "content": "deregulate runway",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_020049",
+    "content": "derek",
+    "meaning_zh": "德里克（人名）",
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "专有人名学习价值低"
+  },
+  {
+    "item_code": "w_020063",
+    "content": "derive necrosis",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_020073",
+    "content": "dermatitis treaty",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_020099",
+    "content": "descend decline",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "近义词堆叠疑似噪声"
+  },
+  {
+    "item_code": "w_020120",
+    "content": "descriptive prose",
+    "meaning_zh": "描写性散文；描述性散文",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文学常见术语"
+  }
+]

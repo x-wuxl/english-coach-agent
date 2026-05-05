@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_006421",
+    "content": "banana ride",
+    "meaning_zh": "香蕉船游乐项目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可能指水上项目"
+  },
+  {
+    "item_code": "w_006424",
+    "content": "bananza",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_006427",
+    "content": "band aid cast pain",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串噪声"
+  },
+  {
+    "item_code": "w_006432",
+    "content": "bandage plaster",
+    "meaning_zh": "绷带；创可贴",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "急救用品词组"
+  },
+  {
+    "item_code": "w_006445",
+    "content": "banfer",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_006447",
+    "content": "bang against",
+    "meaning_zh": "砰地撞上；撞击",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_006448",
+    "content": "bang for one's buck",
+    "meaning_zh": "物有所值；投入回报",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语"
+  },
+  {
+    "item_code": "w_006450",
+    "content": "bang into",
+    "meaning_zh": "撞上；偶然遇见",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_006471",
+    "content": "Bank of Canton",
+    "meaning_zh": "广东银行；广州银行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有机构名"
+  },
+  {
+    "item_code": "w_006473",
+    "content": "bank on sb.",
+    "meaning_zh": "依靠某人；指望某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_006474",
+    "content": "bank on sth.",
+    "meaning_zh": "指望某事；依赖某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_006486",
+    "content": "bankrupt hacker",
+    "meaning_zh": "破产的黑客",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_006488",
+    "content": "bankruptcy reveal",
+    "meaning_zh": "破产披露；揭露破产情况",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "商业语境短语"
+  },
+  {
+    "item_code": "w_006491",
+    "content": "banned book",
+    "meaning_zh": "禁书",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_006493",
+    "content": "banner napkin nutrition",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串噪声"
+  },
+  {
+    "item_code": "w_006494",
+    "content": "bannister",
+    "meaning_zh": "楼梯扶手；栏杆",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见拼写变体"
+  },
+  {
+    "item_code": "w_006495",
+    "content": "Banpo Neolithic Village",
+    "meaning_zh": "半坡新石器村落",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "考古遗址名"
+  },
+  {
+    "item_code": "w_006498",
+    "content": "banquet mode",
+    "meaning_zh": "宴会模式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "场景模式短语"
+  },
+  {
+    "item_code": "w_006503",
+    "content": "banter calcify hori",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串含残片"
+  },
+  {
+    "item_code": "w_006507",
+    "content": "bapsin",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_063185",
+    "content": "rowed a boat",
+    "meaning_zh": "划船",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词短语"
+  },
+  {
+    "item_code": "w_063192",
+    "content": "royal court envoy",
+    "meaning_zh": "宫廷使节；王室特使",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "名词短语"
+  },
+  {
+    "item_code": "w_063195",
+    "content": "Royal Swedish Academy",
+    "meaning_zh": "瑞典皇家科学院",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "机构专名"
+  },
+  {
+    "item_code": "w_063196",
+    "content": "royal vegetarian auction",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常疑似噪声"
+  },
+  {
+    "item_code": "w_063201",
+    "content": "royalty inn",
+    "meaning_zh": "皇家旅馆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑似酒店名称"
+  },
+  {
+    "item_code": "w_063203",
+    "content": "rpc",
+    "meaning_zh": "远程过程调用",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机缩写"
+  },
+  {
+    "item_code": "w_063204",
+    "content": "rs",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写含义不明"
+  },
+  {
+    "item_code": "w_063209",
+    "content": "rub inorganic recollect",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌疑似噪声"
+  },
+  {
+    "item_code": "w_063212",
+    "content": "rub operate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常疑似噪声"
+  },
+  {
+    "item_code": "w_063217",
+    "content": "rubber duck debugging",
+    "meaning_zh": "橡皮鸭调试法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程术语"
+  },
+  {
+    "item_code": "w_063224",
+    "content": "rubbish garbage pile collection",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌疑似噪声"
+  },
+  {
+    "item_code": "w_063227",
+    "content": "rube",
+    "meaning_zh": "乡巴佬；土包子",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见贬义名词"
+  },
+  {
+    "item_code": "w_063254",
+    "content": "ruffin",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似人名或噪声"
+  },
+  {
+    "item_code": "w_063258",
+    "content": "rug comfortable",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常疑似噪声"
+  },
+  {
+    "item_code": "w_063259",
+    "content": "rug gout agzilla",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含未知词疑似噪声"
+  },
+  {
+    "item_code": "w_063261",
+    "content": "rugby baseball basketball",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "运动词堆砌"
+  },
+  {
+    "item_code": "w_063266",
+    "content": "ruin the credit",
+    "meaning_zh": "破坏信用；毁掉信誉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_063267",
+    "content": "ruin their image",
+    "meaning_zh": "毁坏他们的形象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_063300",
+    "content": "rump prints",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配少见含义不明"
+  },
+  {
+    "item_code": "w_063301",
+    "content": "rumpel embolden bait",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌疑似噪声"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_062644",
+    "content": "rigor linear staircase",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无自然含义"
+  },
+  {
+    "item_code": "w_062645",
+    "content": "rigoral retrograde carp concur",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_062647",
+    "content": "rigorous flare",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_062648",
+    "content": "rigorous loan finance",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配难以判断"
+  },
+  {
+    "item_code": "w_062652",
+    "content": "rill",
+    "meaning_zh": "小溪；细流",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "标准英语词汇"
+  },
+  {
+    "item_code": "w_062654",
+    "content": "rim vassal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无常见固定含义"
+  },
+  {
+    "item_code": "w_062656",
+    "content": "rimity",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准常用词"
+  },
+  {
+    "item_code": "w_062666",
+    "content": "ring in your ears",
+    "meaning_zh": "耳鸣；在耳边回响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_062679",
+    "content": "ringing roar",
+    "meaning_zh": "响亮的吼声；轰鸣声",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解搭配"
+  },
+  {
+    "item_code": "w_062689",
+    "content": "rinse button",
+    "meaning_zh": "冲洗按钮",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见功能按钮名"
+  },
+  {
+    "item_code": "w_062690",
+    "content": "rinse sanitary sanitation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词汇堆叠"
+  },
+  {
+    "item_code": "w_062695",
+    "content": "riot fertilizer",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配无可靠含义"
+  },
+  {
+    "item_code": "w_062701",
+    "content": "rip drain",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不明确"
+  },
+  {
+    "item_code": "w_062706",
+    "content": "rip sth. out of",
+    "meaning_zh": "把某物从……中猛地扯出",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_062712",
+    "content": "ripe saver",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然学习项"
+  },
+  {
+    "item_code": "w_062713",
+    "content": "ripe toximia dystrophy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_062715",
+    "content": "ripen husky jarring",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无义"
+  },
+  {
+    "item_code": "w_062716",
+    "content": "ripen hypotension observation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无自然固定含义"
+  },
+  {
+    "item_code": "w_062724",
+    "content": "rippled",
+    "meaning_zh": "泛起涟漪的；有波纹的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "标准派生词"
+  },
+  {
+    "item_code": "w_062734",
+    "content": "rise to stardom",
+    "meaning_zh": "成名；走红；成为明星",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  }
+]

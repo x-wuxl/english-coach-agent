@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_025425",
+    "content": "EU ministerial councils",
+    "meaning_zh": "欧盟部长理事会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政治机构表达"
+  },
+  {
+    "item_code": "w_025446",
+    "content": "euphemism gymnastics utensil gadfi",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词串"
+  },
+  {
+    "item_code": "w_025449",
+    "content": "euphonius",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_025450",
+    "content": "euphonius prospect",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_025453",
+    "content": "euphoria alter pointer oaf",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无明确整体含义"
+  },
+  {
+    "item_code": "w_025459",
+    "content": "euremia",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写或冷僻噪声"
+  },
+  {
+    "item_code": "w_025460",
+    "content": "euretic proponent typhus",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词串"
+  },
+  {
+    "item_code": "w_025473",
+    "content": "European royal",
+    "meaning_zh": "欧洲王室成员；欧洲皇室的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_025483",
+    "content": "evacuate alliance relief",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无明确整体含义"
+  },
+  {
+    "item_code": "w_025484",
+    "content": "evacuate diplomats",
+    "meaning_zh": "撤离外交官",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见新闻搭配"
+  },
+  {
+    "item_code": "w_025486",
+    "content": "evacuation of one's nationals",
+    "meaning_zh": "撤离本国公民",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见撤侨表达"
+  },
+  {
+    "item_code": "w_025505",
+    "content": "Evans",
+    "meaning_zh": "埃文斯；伊文思",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句中为姓氏"
+  },
+  {
+    "item_code": "w_025507",
+    "content": "evaporate salute",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无明确整体含义"
+  },
+  {
+    "item_code": "w_025520",
+    "content": "even be tempted to",
+    "meaning_zh": "甚至想要；甚至忍不住想",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句式片段"
+  },
+  {
+    "item_code": "w_025521",
+    "content": "even combative standard-setters",
+    "meaning_zh": "甚至好斗的规则制定者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可判断"
+  },
+  {
+    "item_code": "w_025535",
+    "content": "evening market",
+    "meaning_zh": "夜市；晚间市场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_025536",
+    "content": "evening meals",
+    "meaning_zh": "晚餐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_025543",
+    "content": "evenly even integer",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼接噪声"
+  },
+  {
+    "item_code": "w_025546",
+    "content": "event appeal",
+    "meaning_zh": "活动吸引力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "商务语境可判断"
+  },
+  {
+    "item_code": "w_025547",
+    "content": "event tourism",
+    "meaning_zh": "节事旅游；活动旅游",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅游业常用术语"
+  }
+]

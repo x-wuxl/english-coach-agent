@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_027248",
+    "content": "feed sb",
+    "meaning_zh": "给某人喂食；养活某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_027249",
+    "content": "feed sb. a line",
+    "meaning_zh": "用话哄骗某人；向某人灌输说辞",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_027252",
+    "content": "feed the shark",
+    "meaning_zh": "喂鲨鱼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可按字面理解"
+  },
+  {
+    "item_code": "w_027257",
+    "content": "feedback session",
+    "meaning_zh": "反馈会议；反馈环节",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_027261",
+    "content": "feeding our cat",
+    "meaning_zh": "喂我们的猫",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "日常动作短语"
+  },
+  {
+    "item_code": "w_027262",
+    "content": "feeding our dog",
+    "meaning_zh": "喂我们的狗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "日常动作短语"
+  },
+  {
+    "item_code": "w_027269",
+    "content": "feel an interest in",
+    "meaning_zh": "对……感兴趣",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_027273",
+    "content": "feel at one's ease",
+    "meaning_zh": "感到自在；感到放松",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_027274",
+    "content": "feel at sea",
+    "meaning_zh": "感到茫然；不知所措",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语"
+  },
+  {
+    "item_code": "w_027279",
+    "content": "feel bored with",
+    "meaning_zh": "对……感到厌烦",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_027282",
+    "content": "feel comfortable with",
+    "meaning_zh": "对……感到自在；适应……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_027283",
+    "content": "feel compelled to",
+    "meaning_zh": "感到不得不；觉得有必要",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_027285",
+    "content": "feel cozy",
+    "meaning_zh": "感到舒适温暖；感到惬意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_027287",
+    "content": "feel disappointed at ...",
+    "meaning_zh": "对……感到失望",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_027289",
+    "content": "feel drowsy",
+    "meaning_zh": "感到昏昏欲睡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_027290",
+    "content": "feel entitled to sth.",
+    "meaning_zh": "觉得有权得到某物；认为自己理应享有",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_027297",
+    "content": "feel honoured to do",
+    "meaning_zh": "很荣幸做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见礼貌表达"
+  },
+  {
+    "item_code": "w_027300",
+    "content": "feel in the mood",
+    "meaning_zh": "有心情；有兴致",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_027301",
+    "content": "feel interest in",
+    "meaning_zh": "对……感兴趣",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略不自然"
+  },
+  {
+    "item_code": "w_027308",
+    "content": "feel lonely or stressful",
+    "meaning_zh": "感到孤独或有压力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语可理解"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_015183",
+    "content": "comb through something for",
+    "meaning_zh": "仔细搜寻某物以寻找",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词短语"
+  },
+  {
+    "item_code": "w_015186",
+    "content": "combat the virus",
+    "meaning_zh": "抗击病毒",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_015189",
+    "content": "combative prosperity refreshment",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无固定含义"
+  },
+  {
+    "item_code": "w_015191",
+    "content": "combination availability",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配生硬无固定含义"
+  },
+  {
+    "item_code": "w_015195",
+    "content": "combinatorial",
+    "meaning_zh": "组合的；组合数学的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_015198",
+    "content": "combine A with B",
+    "meaning_zh": "把A和B结合起来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型搭配"
+  },
+  {
+    "item_code": "w_015199",
+    "content": "combine hyperactivity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_015200",
+    "content": "combine to do sth.",
+    "meaning_zh": "合力做某事；共同导致某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_015203",
+    "content": "combined issue",
+    "meaning_zh": "合刊；合并期刊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "出版语境常见"
+  },
+  {
+    "item_code": "w_015210",
+    "content": "combustible swill",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配怪异无常用义"
+  },
+  {
+    "item_code": "w_015233",
+    "content": "come away empty-handed",
+    "meaning_zh": "空手而归；一无所获",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_015239",
+    "content": "come bottom in",
+    "meaning_zh": "在……中垫底",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "英式常见表达"
+  },
+  {
+    "item_code": "w_015242",
+    "content": "come clean with sb.",
+    "meaning_zh": "向某人坦白",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语"
+  },
+  {
+    "item_code": "w_015243",
+    "content": "come close to",
+    "meaning_zh": "接近；差点儿",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语"
+  },
+  {
+    "item_code": "w_015253",
+    "content": "come from nowhere",
+    "meaning_zh": "突然出现；不知从何而来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_015258",
+    "content": "come in a body",
+    "meaning_zh": "集体前来；成群而来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "较少见固定表达"
+  },
+  {
+    "item_code": "w_015261",
+    "content": "come in for blame",
+    "meaning_zh": "受到责备；招致批评",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语用法"
+  },
+  {
+    "item_code": "w_015278",
+    "content": "come into sb.'s possession",
+    "meaning_zh": "为某人所有；落入某人手中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_015295",
+    "content": "come out ahead",
+    "meaning_zh": "最终领先；最终获利",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见习语"
+  },
+  {
+    "item_code": "w_015306",
+    "content": "come sb.'s way",
+    "meaning_zh": "降临到某人身上；被某人获得",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  }
+]

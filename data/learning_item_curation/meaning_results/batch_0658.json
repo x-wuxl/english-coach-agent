@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_064895",
+    "content": "seed player",
+    "meaning_zh": "种子选手",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "应为体育搭配"
+  },
+  {
+    "item_code": "w_064898",
+    "content": "seed shears",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配疑似噪声"
+  },
+  {
+    "item_code": "w_064915",
+    "content": "seek access to government",
+    "meaning_zh": "寻求接触政府的机会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按整体搭配理解"
+  },
+  {
+    "item_code": "w_064918",
+    "content": "seek favor from ...",
+    "meaning_zh": "向……寻求帮助；讨好……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_064920",
+    "content": "seek help from sb.",
+    "meaning_zh": "向某人求助",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_064922",
+    "content": "seek permission from ...",
+    "meaning_zh": "请求……许可；征得……同意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_064924",
+    "content": "seek sb.'s assistance",
+    "meaning_zh": "寻求某人的帮助",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_064926",
+    "content": "seek solutions to",
+    "meaning_zh": "寻找……的解决办法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_064928",
+    "content": "seek the sun",
+    "meaning_zh": "寻找阳光；向阳",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义依语境略变"
+  },
+  {
+    "item_code": "w_064929",
+    "content": "seek thrills",
+    "meaning_zh": "寻求刺激",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_064935",
+    "content": "seem irrelevant to",
+    "meaning_zh": "似乎与……无关",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型搭配"
+  },
+  {
+    "item_code": "w_064943",
+    "content": "seen in that light",
+    "meaning_zh": "从那个角度看；这样看来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_064948",
+    "content": "sees",
+    "meaning_zh": "看见；理解；认为",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "see的第三人称"
+  },
+  {
+    "item_code": "w_064952",
+    "content": "seething anger",
+    "meaning_zh": "强烈的愤怒；压抑的怒火",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_064953",
+    "content": "segal kin",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声无法判断"
+  },
+  {
+    "item_code": "w_064955",
+    "content": "segment eulogize",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠疑似噪声"
+  },
+  {
+    "item_code": "w_064957",
+    "content": "segment workout insert bind",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠疑似噪声"
+  },
+  {
+    "item_code": "w_064972",
+    "content": "seismic hazard zones",
+    "meaning_zh": "地震危险区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地质术语"
+  },
+  {
+    "item_code": "w_064975",
+    "content": "seismically active area",
+    "meaning_zh": "地震活动活跃地区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地质术语"
+  },
+  {
+    "item_code": "w_064984",
+    "content": "seize give",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠疑似噪声"
+  }
+]

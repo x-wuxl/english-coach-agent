@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_059471",
+    "content": "quadrumanus",
+    "meaning_zh": "四手的；四手动物",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见动物学词"
+  },
+  {
+    "item_code": "w_059474",
+    "content": "quadrupet",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_059478",
+    "content": "quafure",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词"
+  },
+  {
+    "item_code": "w_059495",
+    "content": "qualifications for the job",
+    "meaning_zh": "任职资格；工作资质",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见求职表达"
+  },
+  {
+    "item_code": "w_059498",
+    "content": "qualified admiration",
+    "meaning_zh": "有保留的钦佩；有限度的赞赏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配含义明确"
+  },
+  {
+    "item_code": "w_059499",
+    "content": "qualified approbation",
+    "meaning_zh": "有保留的认可；有限度的赞同",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "qualified表有条件的"
+  },
+  {
+    "item_code": "w_059500",
+    "content": "qualified name",
+    "meaning_zh": "限定名；全限定名称",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_059507",
+    "content": "qualify reduce",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词义拼接"
+  },
+  {
+    "item_code": "w_059512",
+    "content": "qualities of teachers",
+    "meaning_zh": "教师的素质；教师应具备的品质",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "雅思话题表达"
+  },
+  {
+    "item_code": "w_059522",
+    "content": "quality revolution",
+    "meaning_zh": "质量革命；质量变革",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_059526",
+    "content": "quam",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "拉丁词学习价值低"
+  },
+  {
+    "item_code": "w_059535",
+    "content": "quantify the risks of",
+    "meaning_zh": "量化……的风险",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术写作常用搭配"
+  },
+  {
+    "item_code": "w_059539",
+    "content": "quantitative bridge assessment",
+    "meaning_zh": "桥梁定量评估",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "工程评估术语"
+  },
+  {
+    "item_code": "w_059543",
+    "content": "quantity of electrical charge",
+    "meaning_zh": "电荷量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "物理术语"
+  },
+  {
+    "item_code": "w_059551",
+    "content": "quantum satellite",
+    "meaning_zh": "量子卫星",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "科技术语"
+  },
+  {
+    "item_code": "w_059554",
+    "content": "quarantine pest",
+    "meaning_zh": "检疫性有害生物；检疫害虫",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "农业检疫术语"
+  },
+  {
+    "item_code": "w_059555",
+    "content": "quarantined shipment",
+    "meaning_zh": "被隔离检疫的货物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "检疫物流表达"
+  },
+  {
+    "item_code": "w_059560",
+    "content": "quarrel over",
+    "meaning_zh": "因……争吵；为……争执",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_059561",
+    "content": "quarrel profit acquisition",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成表达"
+  },
+  {
+    "item_code": "w_059567",
+    "content": "quarry in vaguel",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含拼写错误且不通"
+  }
+]

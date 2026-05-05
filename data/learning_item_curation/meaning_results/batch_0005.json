@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_000166",
+    "content": "a colony of seals",
+    "meaning_zh": "一群海豹",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定集体名词搭配"
+  },
+  {
+    "item_code": "w_000168",
+    "content": "a common shoppers' term",
+    "meaning_zh": "购物者常用术语",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_000169",
+    "content": "a commuter train",
+    "meaning_zh": "通勤列车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见交通搭配"
+  },
+  {
+    "item_code": "w_000170",
+    "content": "a complicated question",
+    "meaning_zh": "复杂的问题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_000171",
+    "content": "a computer maniac",
+    "meaning_zh": "电脑狂热者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "名词短语含义明确"
+  },
+  {
+    "item_code": "w_000172",
+    "content": "a conflict with ...",
+    "meaning_zh": "与……的冲突",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词搭配"
+  },
+  {
+    "item_code": "w_000173",
+    "content": "a consulting firm",
+    "meaning_zh": "咨询公司",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商业搭配"
+  },
+  {
+    "item_code": "w_000174",
+    "content": "a consumer psychologist",
+    "meaning_zh": "消费心理学家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专业名词短语"
+  },
+  {
+    "item_code": "w_000176",
+    "content": "a cook",
+    "meaning_zh": "厨师",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持释义"
+  },
+  {
+    "item_code": "w_000179",
+    "content": "a cornucopia of",
+    "meaning_zh": "丰富的；大量的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_000183",
+    "content": "a crayon",
+    "meaning_zh": "蜡笔",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础名词"
+  },
+  {
+    "item_code": "w_000184",
+    "content": "a critical mass of",
+    "meaning_zh": "足够数量的；临界规模的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定学术表达"
+  },
+  {
+    "item_code": "w_000185",
+    "content": "a cross-section of",
+    "meaning_zh": "代表性样本；横截面",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_000187",
+    "content": "a cult lice reconcile",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声组合"
+  },
+  {
+    "item_code": "w_000188",
+    "content": "a culture of consumption",
+    "meaning_zh": "消费文化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会话题表达"
+  },
+  {
+    "item_code": "w_000190",
+    "content": "a cushion of",
+    "meaning_zh": "缓冲；保护层",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "需结合后接内容"
+  },
+  {
+    "item_code": "w_000191",
+    "content": "a cushion of air",
+    "meaning_zh": "气垫；一层缓冲空气",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定物理表达"
+  },
+  {
+    "item_code": "w_000192",
+    "content": "a custom",
+    "meaning_zh": "习俗；惯例",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "可数名词常见义"
+  },
+  {
+    "item_code": "w_000193",
+    "content": "a custom car",
+    "meaning_zh": "定制汽车；改装车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见汽车搭配"
+  },
+  {
+    "item_code": "w_000196",
+    "content": "a deeper appreciation of",
+    "meaning_zh": "对……更深的理解；更加欣赏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_064261",
+    "content": "school regulations",
+    "meaning_zh": "校规；学校规章制度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教育搭配"
+  },
+  {
+    "item_code": "w_064264",
+    "content": "school setting",
+    "meaning_zh": "学校环境；校园场景",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教育场景表达"
+  },
+  {
+    "item_code": "w_064270",
+    "content": "school-bus driver",
+    "meaning_zh": "校车司机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合名词含义明确"
+  },
+  {
+    "item_code": "w_064272",
+    "content": "school-selection fee",
+    "meaning_zh": "择校费",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育术语含义明确"
+  },
+  {
+    "item_code": "w_064295",
+    "content": "sci-tech innovation board",
+    "meaning_zh": "科创板",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融专有术语"
+  },
+  {
+    "item_code": "w_064300",
+    "content": "science and technology page",
+    "meaning_zh": "科技版；科技栏目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "媒体栏目表达"
+  },
+  {
+    "item_code": "w_064301",
+    "content": "science auditorium",
+    "meaning_zh": "科学礼堂；理科报告厅",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "校园建筑搭配"
+  },
+  {
+    "item_code": "w_064304",
+    "content": "science fiction fare",
+    "meaning_zh": "科幻作品；科幻题材内容",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "fare指文娱内容"
+  },
+  {
+    "item_code": "w_064305",
+    "content": "science fiction writers",
+    "meaning_zh": "科幻作家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职业群体表达"
+  },
+  {
+    "item_code": "w_064307",
+    "content": "Science of Economic Law",
+    "meaning_zh": "经济法学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法学学科名称"
+  },
+  {
+    "item_code": "w_064309",
+    "content": "Science of Military Law",
+    "meaning_zh": "军事法学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法学学科名称"
+  },
+  {
+    "item_code": "w_064310",
+    "content": "Science of Procedure Laws",
+    "meaning_zh": "诉讼法学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法学学科名称"
+  },
+  {
+    "item_code": "w_064313",
+    "content": "sciences degree",
+    "meaning_zh": "理科学位；科学类学位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解"
+  },
+  {
+    "item_code": "w_064315",
+    "content": "scientific and technical books",
+    "meaning_zh": "科技书籍；科学技术类图书",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见图书类别"
+  },
+  {
+    "item_code": "w_064316",
+    "content": "scientific base",
+    "meaning_zh": "科学基础；科学依据",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "无例句但含义明确"
+  },
+  {
+    "item_code": "w_064319",
+    "content": "scientific endeavor",
+    "meaning_zh": "科学事业；科研努力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常见表达"
+  },
+  {
+    "item_code": "w_064321",
+    "content": "scientific explorations",
+    "meaning_zh": "科学探索",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_064327",
+    "content": "scientific study",
+    "meaning_zh": "科学研究",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持该含义"
+  },
+  {
+    "item_code": "w_064332",
+    "content": "scintilate",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_064335",
+    "content": "scintillate aspect",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  }
+]

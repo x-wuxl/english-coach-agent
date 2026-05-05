@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_044098",
+    "content": "look to do sth.",
+    "meaning_zh": "打算做某事；期望做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_044101",
+    "content": "look up from sth.",
+    "meaning_zh": "从某物上抬头看",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动作表达"
+  },
+  {
+    "item_code": "w_044114",
+    "content": "lookout points",
+    "meaning_zh": "瞭望点；观景点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定名词搭配"
+  },
+  {
+    "item_code": "w_044115",
+    "content": "lookout post",
+    "meaning_zh": "瞭望哨；观察站",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定名词搭配"
+  },
+  {
+    "item_code": "w_044117",
+    "content": "lookup",
+    "meaning_zh": "查询；查找",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_044127",
+    "content": "loose chin",
+    "meaning_zh": "松弛的下巴",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配较少见"
+  },
+  {
+    "item_code": "w_044128",
+    "content": "loose conduct",
+    "meaning_zh": "不检点的行为；放荡的行为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作道德评价"
+  },
+  {
+    "item_code": "w_044132",
+    "content": "loose meditate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_044137",
+    "content": "loosen contend",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_044146",
+    "content": "Lopez",
+    "meaning_zh": "洛佩斯（人名或姓氏）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见专有名词"
+  },
+  {
+    "item_code": "w_044148",
+    "content": "lopsided indispensable",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合不自然"
+  },
+  {
+    "item_code": "w_044157",
+    "content": "Lord forbid that ...",
+    "meaning_zh": "但愿不会……；千万别……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定祈愿表达"
+  },
+  {
+    "item_code": "w_044159",
+    "content": "lord prejudice boom",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_044167",
+    "content": "lorry crane",
+    "meaning_zh": "汽车起重机；卡车吊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "工程设备术语"
+  },
+  {
+    "item_code": "w_044168",
+    "content": "lory",
+    "meaning_zh": "吸蜜鹦鹉",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "鸟类名词"
+  },
+  {
+    "item_code": "w_044171",
+    "content": "lose a job",
+    "meaning_zh": "失业；丢掉工作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_044182",
+    "content": "lose freedom",
+    "meaning_zh": "失去自由",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_044201",
+    "content": "lose privacy",
+    "meaning_zh": "失去隐私",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_044207",
+    "content": "lose some weight",
+    "meaning_zh": "减肥；减轻体重",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义一致"
+  },
+  {
+    "item_code": "w_044225",
+    "content": "Lost & Found",
+    "meaning_zh": "失物招领处",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定场所名称"
+  }
+]

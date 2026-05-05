@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_057708",
+    "content": "prey material transaction",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_057721",
+    "content": "price to equity",
+    "meaning_zh": "股价权益比",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑似金融比率术语"
+  },
+  {
+    "item_code": "w_057724",
+    "content": "price-curbing policy",
+    "meaning_zh": "抑制价格的政策；限价政策",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政策类搭配"
+  },
+  {
+    "item_code": "w_057726",
+    "content": "price-hiking function",
+    "meaning_zh": "推高价格的作用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按整体搭配判断"
+  },
+  {
+    "item_code": "w_057729",
+    "content": "priceless intellectual treasure",
+    "meaning_zh": "无价的知识财富；宝贵的思想财富",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象名词搭配"
+  },
+  {
+    "item_code": "w_057730",
+    "content": "priceless spiritual treasure",
+    "meaning_zh": "无价的精神财富",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象名词搭配"
+  },
+  {
+    "item_code": "w_057735",
+    "content": "prick pledge",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_057761",
+    "content": "primarily proposal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "语法搭配异常"
+  },
+  {
+    "item_code": "w_057766",
+    "content": "primary contractor",
+    "meaning_zh": "主要承包商；总承包商",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "工程商务常见说法"
+  },
+  {
+    "item_code": "w_057791",
+    "content": "prime us to",
+    "meaning_zh": "使我们准备好；促使我们倾向于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "prime作动词搭配"
+  },
+  {
+    "item_code": "w_057792",
+    "content": "prime-time ratings",
+    "meaning_zh": "黄金时段收视率",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "媒体领域常见搭配"
+  },
+  {
+    "item_code": "w_057798",
+    "content": "primitive diaphrasis discourse",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含异常词疑似噪声"
+  },
+  {
+    "item_code": "w_057799",
+    "content": "primitive microbe",
+    "meaning_zh": "原始微生物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生物学常见搭配"
+  },
+  {
+    "item_code": "w_057807",
+    "content": "prince civ",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写残片不完整"
+  },
+  {
+    "item_code": "w_057813",
+    "content": "principal dam extraction",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不可靠"
+  },
+  {
+    "item_code": "w_057820",
+    "content": "prine",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_057822",
+    "content": "print advertisement",
+    "meaning_zh": "平面广告；印刷广告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "广告领域常见搭配"
+  },
+  {
+    "item_code": "w_057827",
+    "content": "print statement",
+    "meaning_zh": "打印语句；输出语句",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程术语"
+  },
+  {
+    "item_code": "w_057828",
+    "content": "print the photos out",
+    "meaning_zh": "把照片打印出来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_057829",
+    "content": "print version",
+    "meaning_zh": "印刷版；纸质版",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "出版场景常见搭配"
+  }
+]

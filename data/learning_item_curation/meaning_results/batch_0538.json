@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_052179",
+    "content": "opsissa",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词"
+  },
+  {
+    "item_code": "w_052209",
+    "content": "optimal hemostasis",
+    "meaning_zh": "最佳止血；理想止血状态",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学固定搭配"
+  },
+  {
+    "item_code": "w_052217",
+    "content": "optimistic task",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_052222",
+    "content": "optimize mutual constraint",
+    "meaning_zh": "优化相互约束",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术性动词短语"
+  },
+  {
+    "item_code": "w_052223",
+    "content": "optimize structure",
+    "meaning_zh": "优化结构",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_052224",
+    "content": "optimize the teaching stuff",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写或搭配错误"
+  },
+  {
+    "item_code": "w_052227",
+    "content": "option stunt",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词组噪声"
+  },
+  {
+    "item_code": "w_052229",
+    "content": "optional argument",
+    "meaning_zh": "可选参数",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_052230",
+    "content": "optional class",
+    "meaning_zh": "选修课",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育场景常用"
+  },
+  {
+    "item_code": "w_052232",
+    "content": "optional courses",
+    "meaning_zh": "选修课程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育场景常用"
+  },
+  {
+    "item_code": "w_052234",
+    "content": "optional passion crook",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词组噪声"
+  },
+  {
+    "item_code": "w_052236",
+    "content": "optional tour",
+    "meaning_zh": "自选游览项目；可选旅游行程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅游场景常用"
+  },
+  {
+    "item_code": "w_052240",
+    "content": "optometrist temperate perform",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词组噪声"
+  },
+  {
+    "item_code": "w_052254",
+    "content": "oral and written English",
+    "meaning_zh": "英语口语和写作；英语听说读写中的口头和书面表达",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "英语学习常用表达"
+  },
+  {
+    "item_code": "w_052259",
+    "content": "oral task",
+    "meaning_zh": "口语任务；口头表达任务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "考试场景常用"
+  },
+  {
+    "item_code": "w_052260",
+    "content": "oral tube toothbrush",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词组噪声"
+  },
+  {
+    "item_code": "w_052264",
+    "content": "orange alert",
+    "meaning_zh": "橙色预警",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "预警等级表达"
+  },
+  {
+    "item_code": "w_052284",
+    "content": "orbivers",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词"
+  },
+  {
+    "item_code": "w_052300",
+    "content": "orchy",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常用或疑似噪声"
+  },
+  {
+    "item_code": "w_052304",
+    "content": "ordeal distort",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_067806",
+    "content": "social security premium rate",
+    "meaning_zh": "社会保险缴费率",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政策术语"
+  },
+  {
+    "item_code": "w_067816",
+    "content": "social subsistence fee",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "low",
+    "reason": "搭配不常见"
+  },
+  {
+    "item_code": "w_067817",
+    "content": "social trust",
+    "meaning_zh": "社会信任",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "社会学常用概念"
+  },
+  {
+    "item_code": "w_067825",
+    "content": "social-media response campaign",
+    "meaning_zh": "社交媒体回应活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "按整体短语释义"
+  },
+  {
+    "item_code": "w_067830",
+    "content": "socialism redevelopment",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "表达不自然"
+  },
+  {
+    "item_code": "w_067836",
+    "content": "socialist new countryside",
+    "meaning_zh": "社会主义新农村",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定政策表达"
+  },
+  {
+    "item_code": "w_067841",
+    "content": "socialize with",
+    "meaning_zh": "与……交往；与……社交",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_067842",
+    "content": "socialize with ...",
+    "meaning_zh": "与……交往；与……社交",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "省略号为搭配占位"
+  },
+  {
+    "item_code": "w_067845",
+    "content": "socially concerned",
+    "meaning_zh": "关注社会问题的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "形容词短语"
+  },
+  {
+    "item_code": "w_067848",
+    "content": "societal changes",
+    "meaning_zh": "社会变化；社会变迁",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_067850",
+    "content": "Society Shake",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似专名或噪声"
+  },
+  {
+    "item_code": "w_067856",
+    "content": "sociological pallor",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "异常搭配"
+  },
+  {
+    "item_code": "w_067858",
+    "content": "sociologist bout bouquet",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显词串噪声"
+  },
+  {
+    "item_code": "w_067874",
+    "content": "soda starch",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不明"
+  },
+  {
+    "item_code": "w_067881",
+    "content": "sodium curiosity substitute",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显词串噪声"
+  },
+  {
+    "item_code": "w_067887",
+    "content": "SOE reform",
+    "meaning_zh": "国有企业改革；国企改革",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "SOE为国有企业"
+  },
+  {
+    "item_code": "w_067894",
+    "content": "soft hard rough",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "形容词堆砌噪声"
+  },
+  {
+    "item_code": "w_067933",
+    "content": "soil so spade turf",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显词串噪声"
+  },
+  {
+    "item_code": "w_067941",
+    "content": "solacism",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_067955",
+    "content": "solar stimulate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  }
+]

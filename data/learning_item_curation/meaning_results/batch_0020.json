@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_000625",
+    "content": "a thrilling experience",
+    "meaning_zh": "一次激动人心的经历",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_000626",
+    "content": "a ticking time bomb",
+    "meaning_zh": "一颗定时炸弹；潜在危机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定比喻表达"
+  },
+  {
+    "item_code": "w_000628",
+    "content": "a tight budget",
+    "meaning_zh": "紧张的预算；预算有限",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  },
+  {
+    "item_code": "w_000629",
+    "content": "a time filler",
+    "meaning_zh": "消磨时间的事物；填补空档的内容",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见搭配但较口语"
+  },
+  {
+    "item_code": "w_000630",
+    "content": "a time-honored brand",
+    "meaning_zh": "老字号品牌；历史悠久的品牌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商业表达"
+  },
+  {
+    "item_code": "w_000631",
+    "content": "a tiny minority",
+    "meaning_zh": "极少数",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见数量表达"
+  },
+  {
+    "item_code": "w_000632",
+    "content": "a tomato",
+    "meaning_zh": "番茄；西红柿",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础名词"
+  },
+  {
+    "item_code": "w_000633",
+    "content": "a ton of",
+    "meaning_zh": "大量的；许多的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定数量短语"
+  },
+  {
+    "item_code": "w_000636",
+    "content": "a touch of something",
+    "meaning_zh": "少许某物；一点儿某种感觉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_000637",
+    "content": "a tough job market",
+    "meaning_zh": "严峻的就业市场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会话题搭配"
+  },
+  {
+    "item_code": "w_000638",
+    "content": "a tour guide",
+    "meaning_zh": "导游",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  },
+  {
+    "item_code": "w_000639",
+    "content": "a tourist attraction",
+    "meaning_zh": "旅游景点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅游表达"
+  },
+  {
+    "item_code": "w_000640",
+    "content": "a trace of",
+    "meaning_zh": "少量；一丝；一点痕迹",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  },
+  {
+    "item_code": "w_000643",
+    "content": "a train schedule",
+    "meaning_zh": "火车时刻表",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见交通表达"
+  },
+  {
+    "item_code": "w_000645",
+    "content": "a tribute ingredient endurance",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不自然疑似噪声"
+  },
+  {
+    "item_code": "w_000647",
+    "content": "a trumpet solo",
+    "meaning_zh": "小号独奏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "音乐术语搭配"
+  },
+  {
+    "item_code": "w_000649",
+    "content": "a TV cookery show",
+    "meaning_zh": "电视烹饪节目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见节目类型"
+  },
+  {
+    "item_code": "w_000651",
+    "content": "a typical nucleus",
+    "meaning_zh": "典型的细胞核；典型的原子核",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "需语境区分学科"
+  },
+  {
+    "item_code": "w_000652",
+    "content": "a unique solution",
+    "meaning_zh": "独特的解决方案；唯一解",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见及数学含义"
+  },
+  {
+    "item_code": "w_000656",
+    "content": "a vase",
+    "meaning_zh": "花瓶",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  }
+]

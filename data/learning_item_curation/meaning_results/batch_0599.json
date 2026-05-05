@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_058781",
+    "content": "Public Display of Affection",
+    "meaning_zh": "公开示爱；当众亲昵行为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达PDA"
+  },
+  {
+    "item_code": "w_058782",
+    "content": "Public English Test System",
+    "meaning_zh": "全国英语等级考试",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "考试专有名称"
+  },
+  {
+    "item_code": "w_058789",
+    "content": "public hospital reform",
+    "meaning_zh": "公立医院改革",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策类常见搭配"
+  },
+  {
+    "item_code": "w_058799",
+    "content": "public literature",
+    "meaning_zh": "公共文学；大众文学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境不足但可判断"
+  },
+  {
+    "item_code": "w_058803",
+    "content": "public parks or gardens",
+    "meaning_zh": "公共公园或花园",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_058808",
+    "content": "public rental housing",
+    "meaning_zh": "公共租赁住房；公租房",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策类固定说法"
+  },
+  {
+    "item_code": "w_058809",
+    "content": "public reserved fund",
+    "meaning_zh": "公积金",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达不标准但常指公积金"
+  },
+  {
+    "item_code": "w_058817",
+    "content": "public service advertisement",
+    "meaning_zh": "公益广告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_058823",
+    "content": "public theater",
+    "meaning_zh": "公共剧院；大众剧场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "无例句语境略泛"
+  },
+  {
+    "item_code": "w_058831",
+    "content": "public visit",
+    "meaning_zh": "公开访问；公众参观",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "需语境区分含义"
+  },
+  {
+    "item_code": "w_058832",
+    "content": "public-health campaigns",
+    "meaning_zh": "公共卫生宣传活动；公共卫生活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "公共卫生常见搭配"
+  },
+  {
+    "item_code": "w_058839",
+    "content": "publicity leaflet",
+    "meaning_zh": "宣传单；宣传册",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见物品名词"
+  },
+  {
+    "item_code": "w_058846",
+    "content": "publicly traded companies",
+    "meaning_zh": "上市公司；公开交易公司",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "财经固定表达"
+  },
+  {
+    "item_code": "w_058849",
+    "content": "publish the news",
+    "meaning_zh": "发布新闻；刊登消息",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词短语搭配"
+  },
+  {
+    "item_code": "w_058854",
+    "content": "pucilanemus",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_058858",
+    "content": "pucritude",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_058864",
+    "content": "puecilanemus conflagration",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含拼写错误且语义不清"
+  },
+  {
+    "item_code": "w_058897",
+    "content": "pull ... into orbit",
+    "meaning_zh": "把……拉入轨道",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "科技语境动词短语"
+  },
+  {
+    "item_code": "w_058900",
+    "content": "pull ahead of",
+    "meaning_zh": "超过；领先于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词"
+  },
+  {
+    "item_code": "w_058909",
+    "content": "pull into the station",
+    "meaning_zh": "驶入车站；进站",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通场景固定搭配"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_078765",
+    "content": "valvular cerebrum",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_078771",
+    "content": "van lori",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_078777",
+    "content": "vandalism vandal",
+    "meaning_zh": "故意破坏行为；破坏公物者",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "词形混合非固定搭配"
+  },
+  {
+    "item_code": "w_078790",
+    "content": "vanity can be satisfied",
+    "meaning_zh": "虚荣心得到满足",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达片段"
+  },
+  {
+    "item_code": "w_078804",
+    "content": "var",
+    "meaning_zh": "变量；变量声明关键字",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_078805",
+    "content": "var-keyword",
+    "meaning_zh": "可变关键字参数",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程参数术语"
+  },
+  {
+    "item_code": "w_078806",
+    "content": "var-positional",
+    "meaning_zh": "可变位置参数",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程参数术语"
+  },
+  {
+    "item_code": "w_078807",
+    "content": "vari",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似残词"
+  },
+  {
+    "item_code": "w_078810",
+    "content": "variable annotation",
+    "meaning_zh": "变量注解；变量类型标注",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程常用术语"
+  },
+  {
+    "item_code": "w_078812",
+    "content": "variala tutor guidance",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含疑似拼写错误"
+  },
+  {
+    "item_code": "w_078815",
+    "content": "variant genes",
+    "meaning_zh": "变异基因",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生物学术语"
+  },
+  {
+    "item_code": "w_078829",
+    "content": "varieties of",
+    "meaning_zh": "各种各样的；多种的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_078831",
+    "content": "variety of exhibitions",
+    "meaning_zh": "各种展览；多种展览",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "雅思常见表达"
+  },
+  {
+    "item_code": "w_078832",
+    "content": "variety plan",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明确"
+  },
+  {
+    "item_code": "w_078835",
+    "content": "varigated",
+    "meaning_zh": "杂色的；斑驳的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "应为variegated"
+  },
+  {
+    "item_code": "w_078838",
+    "content": "various activities",
+    "meaning_zh": "各种活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_078839",
+    "content": "various aspects of",
+    "meaning_zh": "……的各个方面",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_078840",
+    "content": "various brands",
+    "meaning_zh": "各种品牌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_078841",
+    "content": "various dishes",
+    "meaning_zh": "各种菜肴",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_078842",
+    "content": "various high-tech fields",
+    "meaning_zh": "各种高科技领域",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见科技表达"
+  }
+]

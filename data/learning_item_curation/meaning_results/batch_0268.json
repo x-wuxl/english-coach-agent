@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_025553",
+    "content": "eventually disappear",
+    "meaning_zh": "最终消失",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_025558",
+    "content": "ever-accelerated",
+    "meaning_zh": "不断加速的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_025564",
+    "content": "ever-increasing cost of drugs",
+    "meaning_zh": "不断上涨的药品成本",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定修饰搭配"
+  },
+  {
+    "item_code": "w_025565",
+    "content": "ever-increasing pressure",
+    "meaning_zh": "不断增加的压力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_025569",
+    "content": "ever-shortening",
+    "meaning_zh": "不断缩短的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_025571",
+    "content": "ever-victorious general",
+    "meaning_zh": "常胜将军",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定称谓表达"
+  },
+  {
+    "item_code": "w_025578",
+    "content": "everlasting trifle",
+    "meaning_zh": "无休止的琐事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配较少见"
+  },
+  {
+    "item_code": "w_025583",
+    "content": "every bit as bad",
+    "meaning_zh": "同样糟糕；一点也不差地坏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定比较表达"
+  },
+  {
+    "item_code": "w_025584",
+    "content": "every bit as good",
+    "meaning_zh": "同样好；丝毫不逊色",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定比较表达"
+  },
+  {
+    "item_code": "w_025586",
+    "content": "every few weeks",
+    "meaning_zh": "每隔几周",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时间表达"
+  },
+  {
+    "item_code": "w_025587",
+    "content": "every four years",
+    "meaning_zh": "每四年；每隔四年",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时间表达"
+  },
+  {
+    "item_code": "w_025600",
+    "content": "Everything goes well.",
+    "meaning_zh": "一切顺利",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义一致"
+  },
+  {
+    "item_code": "w_025602",
+    "content": "eves",
+    "meaning_zh": "前夕；傍晚",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "eve的复数形式"
+  },
+  {
+    "item_code": "w_025603",
+    "content": "evesdrop infuse",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写和拼接噪声"
+  },
+  {
+    "item_code": "w_025605",
+    "content": "evict consummate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无自然搭配关系"
+  },
+  {
+    "item_code": "w_025608",
+    "content": "evidence review",
+    "meaning_zh": "证据审查；证据综述",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常用搭配"
+  },
+  {
+    "item_code": "w_025611",
+    "content": "evident in",
+    "meaning_zh": "在……中明显可见",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_025616",
+    "content": "evil ritual",
+    "meaning_zh": "邪恶仪式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通名词搭配"
+  },
+  {
+    "item_code": "w_025624",
+    "content": "evolution of human society",
+    "meaning_zh": "人类社会的演变",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常用表达"
+  },
+  {
+    "item_code": "w_025627",
+    "content": "evolutionary and population biology",
+    "meaning_zh": "进化生物学与种群生物学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学科术语"
+  }
+]

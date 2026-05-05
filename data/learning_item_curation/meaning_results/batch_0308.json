@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_029277",
+    "content": "Four Books",
+    "meaning_zh": "四书",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词，例句不匹配"
+  },
+  {
+    "item_code": "w_029279",
+    "content": "Four Comprehensives",
+    "meaning_zh": "四个全面",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "中国特色政治术语"
+  },
+  {
+    "item_code": "w_029280",
+    "content": "four consecutive weeks",
+    "meaning_zh": "连续四周",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时间短语"
+  },
+  {
+    "item_code": "w_029281",
+    "content": "Four Great Inventions",
+    "meaning_zh": "四大发明",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定文化表达"
+  },
+  {
+    "item_code": "w_029282",
+    "content": "four nights",
+    "meaning_zh": "四晚；四个夜晚",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见住宿时间表达"
+  },
+  {
+    "item_code": "w_029283",
+    "content": "four nil",
+    "meaning_zh": "四比零",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "体育比分表达"
+  },
+  {
+    "item_code": "w_029285",
+    "content": "four stall half baked",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声搭配"
+  },
+  {
+    "item_code": "w_029289",
+    "content": "Four-pronged comprehensive strategy",
+    "meaning_zh": "四个全面战略布局",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "中国特色政治术语"
+  },
+  {
+    "item_code": "w_029292",
+    "content": "four-wheel-drive tour",
+    "meaning_zh": "四驱车旅行；四驱车游览",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅行场景常见短语"
+  },
+  {
+    "item_code": "w_029294",
+    "content": "four-year college",
+    "meaning_zh": "四年制大学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育制度常见表达"
+  },
+  {
+    "item_code": "w_029295",
+    "content": "four-year degree",
+    "meaning_zh": "四年制学位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育场景常见表达"
+  },
+  {
+    "item_code": "w_029322",
+    "content": "fracture repatriate reprieve",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定含义的词串"
+  },
+  {
+    "item_code": "w_029324",
+    "content": "fracture zone dynamics",
+    "meaning_zh": "断裂带动力学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "地质学技术术语"
+  },
+  {
+    "item_code": "w_029326",
+    "content": "fractures",
+    "meaning_zh": "骨折；裂缝；断裂",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "fracture的复数形式"
+  },
+  {
+    "item_code": "w_029329",
+    "content": "fragile fluki misdemeanor",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含疑似噪声词"
+  },
+  {
+    "item_code": "w_029330",
+    "content": "fragile recoveries",
+    "meaning_zh": "脆弱的复苏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济语境常见搭配"
+  },
+  {
+    "item_code": "w_029331",
+    "content": "fragile trauma electronics",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定含义的词串"
+  },
+  {
+    "item_code": "w_029339",
+    "content": "fragmented industry",
+    "meaning_zh": "分散型行业；碎片化行业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商业分析常见搭配"
+  },
+  {
+    "item_code": "w_029341",
+    "content": "fragrance grant finance",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定含义的词串"
+  },
+  {
+    "item_code": "w_029342",
+    "content": "fragrance hairbrush",
+    "meaning_zh": "香氛发刷",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解为商品名"
+  }
+]

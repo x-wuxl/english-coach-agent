@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_059226",
+    "content": "put away your books",
+    "meaning_zh": "把书收起来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句明确含义"
+  },
+  {
+    "item_code": "w_059234",
+    "content": "put finishing touches to",
+    "meaning_zh": "对……作最后润色",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_059236",
+    "content": "put forward a plan",
+    "meaning_zh": "提出计划",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_059238",
+    "content": "put great emphasis on",
+    "meaning_zh": "非常重视；高度强调",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_059245",
+    "content": "put in one's oar",
+    "meaning_zh": "插嘴；多管闲事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语表达"
+  },
+  {
+    "item_code": "w_059250",
+    "content": "put in touch with",
+    "meaning_zh": "使与……取得联系",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_059253",
+    "content": "put into great play",
+    "meaning_zh": "充分发挥；投入运用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略不常见"
+  },
+  {
+    "item_code": "w_059257",
+    "content": "put it best ...",
+    "meaning_zh": "说得最恰当",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达片段"
+  },
+  {
+    "item_code": "w_059258",
+    "content": "put it cleverly ...",
+    "meaning_zh": "说得很巧妙",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达片段"
+  },
+  {
+    "item_code": "w_059259",
+    "content": "put it well ...",
+    "meaning_zh": "说得很好；表达得恰当",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达片段"
+  },
+  {
+    "item_code": "w_059260",
+    "content": "put much emphasis on",
+    "meaning_zh": "十分重视；着重强调",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_059268",
+    "content": "put on performances",
+    "meaning_zh": "上演演出；进行表演",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_059269",
+    "content": "put on the clamps",
+    "meaning_zh": "加以限制；严加控制",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "近似习语用法"
+  },
+  {
+    "item_code": "w_059273",
+    "content": "put on your jacket",
+    "meaning_zh": "穿上你的夹克",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础动词短语"
+  },
+  {
+    "item_code": "w_059275",
+    "content": "put one's finger",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "短语不完整"
+  },
+  {
+    "item_code": "w_059285",
+    "content": "put out some feelers",
+    "meaning_zh": "试探情况；放出探询",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语表达"
+  },
+  {
+    "item_code": "w_059292",
+    "content": "put pressure on somebody",
+    "meaning_zh": "向某人施压",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_059295",
+    "content": "put sb. at risk",
+    "meaning_zh": "使某人处于危险中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_059298",
+    "content": "put sb. in charge",
+    "meaning_zh": "让某人负责；任命某人主管",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_059307",
+    "content": "put someone on notice",
+    "meaning_zh": "正式警告某人；通知某人注意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  }
+]

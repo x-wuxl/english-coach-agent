@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_006625",
+    "content": "Barry Humphries",
+    "meaning_zh": "巴里·汉弗莱斯（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词人名"
+  },
+  {
+    "item_code": "w_006626",
+    "content": "Barry Minto",
+    "meaning_zh": "巴里·明托（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可判断为人名"
+  },
+  {
+    "item_code": "w_006650",
+    "content": "base case",
+    "meaning_zh": "基本情况；基例",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机递归术语"
+  },
+  {
+    "item_code": "w_006664",
+    "content": "baseball stadium",
+    "meaning_zh": "棒球场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_006670",
+    "content": "based on guessing",
+    "meaning_zh": "基于猜测；靠猜测得出",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_006674",
+    "content": "baseline ball",
+    "meaning_zh": "底线球",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "体育术语但少语境"
+  },
+  {
+    "item_code": "w_006683",
+    "content": "BASIC countries",
+    "meaning_zh": "基础四国",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "国际组织简称"
+  },
+  {
+    "item_code": "w_006685",
+    "content": "basic courses",
+    "meaning_zh": "基础课程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育常用搭配"
+  },
+  {
+    "item_code": "w_006686",
+    "content": "basic daily necessities",
+    "meaning_zh": "基本生活必需品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_006690",
+    "content": "basic family economics",
+    "meaning_zh": "基本家庭经济学；家庭基本经济状况",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缺少具体语境"
+  },
+  {
+    "item_code": "w_006702",
+    "content": "basic structures",
+    "meaning_zh": "基本结构",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_006706",
+    "content": "basically modernize education",
+    "meaning_zh": "基本实现教育现代化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策表达常见"
+  },
+  {
+    "item_code": "w_006718",
+    "content": "basket support",
+    "meaning_zh": "篮筐支架；篮子支撑架",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "需语境区分"
+  },
+  {
+    "item_code": "w_006720",
+    "content": "basketball clubs",
+    "meaning_zh": "篮球俱乐部",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见体育搭配"
+  },
+  {
+    "item_code": "w_006731",
+    "content": "basset",
+    "meaning_zh": "巴塞特猎犬；矮脚猎犬",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见犬种名"
+  },
+  {
+    "item_code": "w_006732",
+    "content": "bassette buckle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词条"
+  },
+  {
+    "item_code": "w_006745",
+    "content": "batch insure",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_006748",
+    "content": "batches",
+    "meaning_zh": "批；批次；一批人或物",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见复数名词"
+  },
+  {
+    "item_code": "w_006753",
+    "content": "bathe the dog",
+    "meaning_zh": "给狗洗澡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "日常动作短语"
+  },
+  {
+    "item_code": "w_006762",
+    "content": "bathroom light",
+    "meaning_zh": "浴室灯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "家居常用搭配"
+  }
+]

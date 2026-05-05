@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_026344",
+    "content": "extinguished",
+    "meaning_zh": "被扑灭的；熄灭的；消亡的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指扑灭火"
+  },
+  {
+    "item_code": "w_026348",
+    "content": "extirpate weed",
+    "meaning_zh": "根除杂草",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动宾搭配"
+  },
+  {
+    "item_code": "w_026353",
+    "content": "extort bask purloin",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无固定搭配，疑似噪声"
+  },
+  {
+    "item_code": "w_026356",
+    "content": "extortive donation",
+    "meaning_zh": "强迫捐款；勒索性捐赠",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语较生硬但可判断"
+  },
+  {
+    "item_code": "w_026362",
+    "content": "extra game",
+    "meaning_zh": "加赛；附加赛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见体育表达"
+  },
+  {
+    "item_code": "w_026366",
+    "content": "extra reading",
+    "meaning_zh": "课外阅读；补充阅读",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习搭配"
+  },
+  {
+    "item_code": "w_026367",
+    "content": "extra ticket",
+    "meaning_zh": "多余的票；额外的票",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_026369",
+    "content": "extra-abdominal",
+    "meaning_zh": "腹外的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学形容词"
+  },
+  {
+    "item_code": "w_026385",
+    "content": "extract cocaine",
+    "meaning_zh": "提取可卡因",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动宾搭配"
+  },
+  {
+    "item_code": "w_026386",
+    "content": "extract confessions by torture",
+    "meaning_zh": "刑讯逼供",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定法律表达"
+  },
+  {
+    "item_code": "w_026387",
+    "content": "extract consign commingle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无固定搭配，疑似噪声"
+  },
+  {
+    "item_code": "w_026390",
+    "content": "extract the cellulose",
+    "meaning_zh": "提取纤维素",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "科技动宾搭配"
+  },
+  {
+    "item_code": "w_026397",
+    "content": "extracurricular classes",
+    "meaning_zh": "课外课程；课外班",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教育表达"
+  },
+  {
+    "item_code": "w_026401",
+    "content": "extradition request",
+    "meaning_zh": "引渡请求",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律术语搭配"
+  },
+  {
+    "item_code": "w_026406",
+    "content": "extralinguistic",
+    "meaning_zh": "语言外的；非语言的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "语言学术语"
+  },
+  {
+    "item_code": "w_026409",
+    "content": "extraneous considerable divert",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词语堆叠，疑似噪声"
+  },
+  {
+    "item_code": "w_026415",
+    "content": "extraordinary distributor",
+    "meaning_zh": "非凡的经销商；特别的分销商",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配少见但可理解"
+  },
+  {
+    "item_code": "w_026416",
+    "content": "extrapancreatic",
+    "meaning_zh": "胰腺外的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学形容词"
+  },
+  {
+    "item_code": "w_026418",
+    "content": "extrapolate deplete temperate filter",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词语堆叠，疑似噪声"
+  },
+  {
+    "item_code": "w_026419",
+    "content": "extrapolate from",
+    "meaning_zh": "从……推断；根据……外推",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  }
+]

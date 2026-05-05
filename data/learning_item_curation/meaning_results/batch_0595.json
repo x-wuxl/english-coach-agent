@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_058342",
+    "content": "property ownership certificate",
+    "meaning_zh": "产权证；房产所有权证",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见法律证件短语"
+  },
+  {
+    "item_code": "w_058345",
+    "content": "property upgrade",
+    "meaning_zh": "房产升级；物业升级",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见搭配但语境不足"
+  },
+  {
+    "item_code": "w_058358",
+    "content": "propitiate seminal awning",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词组噪声"
+  },
+  {
+    "item_code": "w_058365",
+    "content": "proportional contrast",
+    "meaning_zh": "比例对比；成比例的反差",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作专业搭配"
+  },
+  {
+    "item_code": "w_058370",
+    "content": "proportionally balanced",
+    "meaning_zh": "按比例平衡的；比例协调的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "含义清晰的形容搭配"
+  },
+  {
+    "item_code": "w_058372",
+    "content": "proportionate wreath situate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词组噪声"
+  },
+  {
+    "item_code": "w_058375",
+    "content": "proposal for doing sth.",
+    "meaning_zh": "做某事的提议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型搭配"
+  },
+  {
+    "item_code": "w_058377",
+    "content": "proposal to do",
+    "meaning_zh": "做某事的提议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型搭配"
+  },
+  {
+    "item_code": "w_058379",
+    "content": "propose a resolution",
+    "meaning_zh": "提出一项决议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见正式搭配"
+  },
+  {
+    "item_code": "w_058382",
+    "content": "propose an amendment",
+    "meaning_zh": "提出修正案",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见法律议会搭配"
+  },
+  {
+    "item_code": "w_058384",
+    "content": "propose productivity proximity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词组噪声"
+  },
+  {
+    "item_code": "w_058386",
+    "content": "propose to doing",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配形式错误"
+  },
+  {
+    "item_code": "w_058402",
+    "content": "prorated system",
+    "meaning_zh": "按比例分摊制度；按比例计费系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专业搭配语境不足"
+  },
+  {
+    "item_code": "w_058407",
+    "content": "prosaic defeat",
+    "meaning_zh": "平淡无奇的失败",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配少见但可理解"
+  },
+  {
+    "item_code": "w_058415",
+    "content": "prosecute naked handicap",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词组噪声"
+  },
+  {
+    "item_code": "w_058416",
+    "content": "prosecute polish physician",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词组噪声"
+  },
+  {
+    "item_code": "w_058418",
+    "content": "prosecution for bribery",
+    "meaning_zh": "因贿赂被起诉；对贿赂行为的起诉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见法律表达"
+  },
+  {
+    "item_code": "w_058419",
+    "content": "prosecution image cement",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词组噪声"
+  },
+  {
+    "item_code": "w_058434",
+    "content": "prospects for",
+    "meaning_zh": "……的前景；……的可能性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词搭配"
+  },
+  {
+    "item_code": "w_058437",
+    "content": "prosper facility constipation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词组噪声"
+  }
+]

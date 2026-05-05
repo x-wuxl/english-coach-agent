@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_022336",
+    "content": "draft of paper",
+    "meaning_zh": "论文草稿",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_022338",
+    "content": "draft version",
+    "meaning_zh": "草稿版本；初稿",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见版本表达"
+  },
+  {
+    "item_code": "w_022350",
+    "content": "drag one's feet on",
+    "meaning_zh": "在某事上拖延；故意磨蹭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语"
+  },
+  {
+    "item_code": "w_022360",
+    "content": "dragon boat racing",
+    "meaning_zh": "龙舟赛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见文化词"
+  },
+  {
+    "item_code": "w_022363",
+    "content": "dragon-boat racing",
+    "meaning_zh": "龙舟赛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "连字符写法"
+  },
+  {
+    "item_code": "w_022367",
+    "content": "drain away",
+    "meaning_zh": "逐渐流走；逐渐消失",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词"
+  },
+  {
+    "item_code": "w_022368",
+    "content": "drain button",
+    "meaning_zh": "排水按钮",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "设备部件搭配"
+  },
+  {
+    "item_code": "w_022373",
+    "content": "drainage oil",
+    "meaning_zh": "地沟油",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见中式术语"
+  },
+  {
+    "item_code": "w_022381",
+    "content": "Drama Festival",
+    "meaning_zh": "戏剧节",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "活动名称"
+  },
+  {
+    "item_code": "w_022384",
+    "content": "dramatic anniversary",
+    "meaning_zh": "意义重大的周年纪念",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配略少见"
+  },
+  {
+    "item_code": "w_022385",
+    "content": "dramatic breakthrough",
+    "meaning_zh": "重大突破；惊人突破",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_022386",
+    "content": "dramatic element",
+    "meaning_zh": "戏剧元素；戏剧性元素",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文学艺术搭配"
+  },
+  {
+    "item_code": "w_022387",
+    "content": "dramatic irrigation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_022389",
+    "content": "dramatic lofty flirt",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声短语"
+  },
+  {
+    "item_code": "w_022390",
+    "content": "dramatic personae",
+    "meaning_zh": "剧中人物；登场人物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "近似固定表达"
+  },
+  {
+    "item_code": "w_022391",
+    "content": "dramatic technological changes",
+    "meaning_zh": "巨大的技术变革",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_022401",
+    "content": "drank cold drinks",
+    "meaning_zh": "喝了冷饮",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础动词短语"
+  },
+  {
+    "item_code": "w_022408",
+    "content": "drastic climatic variation",
+    "meaning_zh": "剧烈的气候变化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常见搭配"
+  },
+  {
+    "item_code": "w_022409",
+    "content": "drastic experiment",
+    "meaning_zh": "激进的实验；极端实验",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境不足但可判断"
+  },
+  {
+    "item_code": "w_022410",
+    "content": "drastic technological change",
+    "meaning_zh": "剧烈的技术变革",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  }
+]

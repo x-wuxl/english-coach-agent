@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_023346",
+    "content": "ecology authentic",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_023349",
+    "content": "econography",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写或噪声"
+  },
+  {
+    "item_code": "w_023354",
+    "content": "economic and cultural exchange",
+    "meaning_zh": "经济文化交流",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_023369",
+    "content": "economic fugitive",
+    "meaning_zh": "经济逃犯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律经济类搭配"
+  },
+  {
+    "item_code": "w_023373",
+    "content": "economic hegemony",
+    "meaning_zh": "经济霸权",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治经济常用语"
+  },
+  {
+    "item_code": "w_023381",
+    "content": "economic perspective",
+    "meaning_zh": "经济视角；经济观点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术写作常见搭配"
+  },
+  {
+    "item_code": "w_023386",
+    "content": "economic puppet",
+    "meaning_zh": "经济傀儡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义可由搭配判断"
+  },
+  {
+    "item_code": "w_023403",
+    "content": "economic tour",
+    "meaning_zh": "经济考察；经济之旅",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配较少见"
+  },
+  {
+    "item_code": "w_023404",
+    "content": "economic uncertainties",
+    "meaning_zh": "经济不确定性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "财经语境常见表达"
+  },
+  {
+    "item_code": "w_023410",
+    "content": "economically affordable housing",
+    "meaning_zh": "经济适用房；保障性住房",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "住房政策常见表达"
+  },
+  {
+    "item_code": "w_023412",
+    "content": "economics history",
+    "meaning_zh": "经济学史",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解为学科史"
+  },
+  {
+    "item_code": "w_023418",
+    "content": "economize paddle pack",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无可靠含义"
+  },
+  {
+    "item_code": "w_023421",
+    "content": "economy class seating",
+    "meaning_zh": "经济舱座位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "航空场景常见搭配"
+  },
+  {
+    "item_code": "w_023426",
+    "content": "ecoterism",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似ecotourism误拼"
+  },
+  {
+    "item_code": "w_023429",
+    "content": "ecsimoli",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声词"
+  },
+  {
+    "item_code": "w_023431",
+    "content": "ecstasy unexceptionable cow",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机拼接噪声"
+  },
+  {
+    "item_code": "w_023446",
+    "content": "ecumenical plotter",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_023452",
+    "content": "eddie",
+    "meaning_zh": "埃迪",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见人名"
+  },
+  {
+    "item_code": "w_023460",
+    "content": "Edgar Evans",
+    "meaning_zh": "埃德加·埃文斯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有人名"
+  },
+  {
+    "item_code": "w_023463",
+    "content": "edged",
+    "meaning_zh": "有边的；带刃的；以某种边缘装饰的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词含义"
+  }
+]

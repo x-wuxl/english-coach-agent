@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_069597",
+    "content": "steady voltage source",
+    "meaning_zh": "稳定电压源",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术短语"
+  },
+  {
+    "item_code": "w_069604",
+    "content": "stealth menace",
+    "meaning_zh": "隐蔽威胁",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作整体搭配"
+  },
+  {
+    "item_code": "w_069611",
+    "content": "steam stew",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词组噪声"
+  },
+  {
+    "item_code": "w_069615",
+    "content": "steamboat steamer",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "重复拼接噪声"
+  },
+  {
+    "item_code": "w_069616",
+    "content": "Steamboat Willie",
+    "meaning_zh": "《汽船威利》",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动画片名"
+  },
+  {
+    "item_code": "w_069618",
+    "content": "steamed dumplings",
+    "meaning_zh": "蒸饺",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见食物短语"
+  },
+  {
+    "item_code": "w_069630",
+    "content": "steel girder bridge",
+    "meaning_zh": "钢梁桥",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "工程术语"
+  },
+  {
+    "item_code": "w_069634",
+    "content": "steel stick strap",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词组噪声"
+  },
+  {
+    "item_code": "w_069635",
+    "content": "Steele",
+    "meaning_zh": "斯蒂尔",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见人名姓氏"
+  },
+  {
+    "item_code": "w_069644",
+    "content": "steep-sided and symmetrical cone",
+    "meaning_zh": "侧面陡峭且对称的锥体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "描述性短语"
+  },
+  {
+    "item_code": "w_069659",
+    "content": "steiny",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见词形"
+  },
+  {
+    "item_code": "w_069666",
+    "content": "stem cell treatment",
+    "meaning_zh": "干细胞治疗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学术语"
+  },
+  {
+    "item_code": "w_069679",
+    "content": "step acetosis",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似错误拼接"
+  },
+  {
+    "item_code": "w_069683",
+    "content": "step forth",
+    "meaning_zh": "走上前；挺身而出",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定表达变体"
+  },
+  {
+    "item_code": "w_069687",
+    "content": "step into sb.'s shoes",
+    "meaning_zh": "接替某人的位置；设身处地为某人着想",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见习语"
+  },
+  {
+    "item_code": "w_069690",
+    "content": "step on the accelerator",
+    "meaning_zh": "踩油门；加速推进",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_069691",
+    "content": "step on the brake",
+    "meaning_zh": "踩刹车；放慢进度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_069727",
+    "content": "stereotype instinct",
+    "meaning_zh": "刻板印象本能",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "概念性短语"
+  },
+  {
+    "item_code": "w_069733",
+    "content": "sterile distraught",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词汇拼接"
+  },
+  {
+    "item_code": "w_069734",
+    "content": "sterile eligible flutter",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词汇拼接"
+  }
+]

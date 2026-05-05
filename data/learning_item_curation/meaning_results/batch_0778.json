@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_075823",
+    "content": "trail-blazing move",
+    "meaning_zh": "开创性举措",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配含义明确"
+  },
+  {
+    "item_code": "w_075834",
+    "content": "train practice practice",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "重复拼接噪声"
+  },
+  {
+    "item_code": "w_075838",
+    "content": "train system",
+    "meaning_zh": "列车系统；培训体系",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义依语境而定"
+  },
+  {
+    "item_code": "w_075846",
+    "content": "training budget",
+    "meaning_zh": "培训预算",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务搭配常见"
+  },
+  {
+    "item_code": "w_075847",
+    "content": "training consultancy",
+    "meaning_zh": "培训咨询；培训咨询公司",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务服务搭配"
+  },
+  {
+    "item_code": "w_075850",
+    "content": "training run",
+    "meaning_zh": "训练跑；试运行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见义项有两类"
+  },
+  {
+    "item_code": "w_075861",
+    "content": "trait immemorial therapeutics ideology",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无自然搭配关系"
+  },
+  {
+    "item_code": "w_075863",
+    "content": "traitorous",
+    "meaning_zh": "背叛的；叛国的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "单词含义明确"
+  },
+  {
+    "item_code": "w_075867",
+    "content": "trama",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_075868",
+    "content": "trama undo array",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似随机拼接"
+  },
+  {
+    "item_code": "w_075872",
+    "content": "tramp detach",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无自然搭配关系"
+  },
+  {
+    "item_code": "w_075880",
+    "content": "tranquil virgin",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配生硬低价值"
+  },
+  {
+    "item_code": "w_075882",
+    "content": "tranquility exacting deterioration",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似随机拼接"
+  },
+  {
+    "item_code": "w_075883",
+    "content": "tranquility secretary",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无自然搭配关系"
+  },
+  {
+    "item_code": "w_075892",
+    "content": "trans-European",
+    "meaning_zh": "泛欧洲的；横跨欧洲的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词明确"
+  },
+  {
+    "item_code": "w_075893",
+    "content": "Trans-Pacific Partnership",
+    "meaning_zh": "跨太平洋伙伴关系协定",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词"
+  },
+  {
+    "item_code": "w_075900",
+    "content": "transaction poor wrinkle colonist",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似随机拼接"
+  },
+  {
+    "item_code": "w_075904",
+    "content": "transagent",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见词难判断"
+  },
+  {
+    "item_code": "w_075905",
+    "content": "transagents",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见复数难判断"
+  },
+  {
+    "item_code": "w_075908",
+    "content": "transatlantic migrate",
+    "meaning_zh": "跨大西洋迁移",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解但少见"
+  }
+]

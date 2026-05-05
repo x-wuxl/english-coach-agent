@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_021898",
+    "content": "doctor food label",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_021903",
+    "content": "doctor-patient disputes",
+    "meaning_zh": "医患纠纷",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_021907",
+    "content": "doctorette",
+    "meaning_zh": "女医生",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见派生词"
+  },
+  {
+    "item_code": "w_021909",
+    "content": "doctorial tutor",
+    "meaning_zh": "博士生导师",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为doctoral tutor"
+  },
+  {
+    "item_code": "w_021920",
+    "content": "documentary commercial",
+    "meaning_zh": "纪录片式广告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按整体搭配理解"
+  },
+  {
+    "item_code": "w_021942",
+    "content": "dog sledding",
+    "meaning_zh": "狗拉雪橇运动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见活动名称"
+  },
+  {
+    "item_code": "w_021943",
+    "content": "dog trainer",
+    "meaning_zh": "驯犬师",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职业名称"
+  },
+  {
+    "item_code": "w_021950",
+    "content": "dogget impertinent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配无可靠含义"
+  },
+  {
+    "item_code": "w_021951",
+    "content": "doggiard draft",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_021956",
+    "content": "dogma aver",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无整体义"
+  },
+  {
+    "item_code": "w_021960",
+    "content": "dogorol",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_021966",
+    "content": "doing exercise",
+    "meaning_zh": "锻炼；做运动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_021967",
+    "content": "doing her exercises",
+    "meaning_zh": "做练习；做运动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_021968",
+    "content": "doing her homework",
+    "meaning_zh": "做作业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_021969",
+    "content": "doing jigsaw puzzles",
+    "meaning_zh": "拼拼图",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见活动表达"
+  },
+  {
+    "item_code": "w_021970",
+    "content": "doing morning exercises",
+    "meaning_zh": "做早操",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见校园表达"
+  },
+  {
+    "item_code": "w_021985",
+    "content": "dollar trap",
+    "meaning_zh": "美元陷阱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按财经搭配理解"
+  },
+  {
+    "item_code": "w_021996",
+    "content": "dolorous demagogue",
+    "meaning_zh": "悲伤的煽动家",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "生硬拼接低价值"
+  },
+  {
+    "item_code": "w_021998",
+    "content": "dolphin stroke",
+    "meaning_zh": "海豚泳姿；蝶泳腿动作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "游泳术语"
+  },
+  {
+    "item_code": "w_022008",
+    "content": "domestic airport",
+    "meaning_zh": "国内机场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅行词组"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_044312",
+    "content": "low-carbon lifestyle",
+    "meaning_zh": "低碳生活方式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见环保表达"
+  },
+  {
+    "item_code": "w_044313",
+    "content": "Low-Carbon Tour",
+    "meaning_zh": "低碳旅游",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅游环保表达"
+  },
+  {
+    "item_code": "w_044314",
+    "content": "low-carbon urbanization way",
+    "meaning_zh": "低碳城市化方式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配略生硬但可判断"
+  },
+  {
+    "item_code": "w_044323",
+    "content": "low-income citizen",
+    "meaning_zh": "低收入市民",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会经济表达"
+  },
+  {
+    "item_code": "w_044324",
+    "content": "low-income household",
+    "meaning_zh": "低收入家庭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会经济表达"
+  },
+  {
+    "item_code": "w_044328",
+    "content": "low-level language",
+    "meaning_zh": "低级语言；底层语言",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_044334",
+    "content": "low-risk investment",
+    "meaning_zh": "低风险投资",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融常见搭配"
+  },
+  {
+    "item_code": "w_044340",
+    "content": "low-wage overseas labor",
+    "meaning_zh": "低薪海外劳工",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "劳工经济表达"
+  },
+  {
+    "item_code": "w_044350",
+    "content": "lower quarter consequence",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_044352",
+    "content": "lower secondary education",
+    "meaning_zh": "初中教育；初级中等教育",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育阶段术语"
+  },
+  {
+    "item_code": "w_044353",
+    "content": "lower the rate of",
+    "meaning_zh": "降低……的比率",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_044354",
+    "content": "lower-income job",
+    "meaning_zh": "低收入工作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见收入描述"
+  },
+  {
+    "item_code": "w_044358",
+    "content": "lowest",
+    "meaning_zh": "最低的；最少的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容词最高级"
+  },
+  {
+    "item_code": "w_044360",
+    "content": "lowest mark for admission",
+    "meaning_zh": "录取最低分",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "考试录取表达"
+  },
+  {
+    "item_code": "w_044362",
+    "content": "lowland lake",
+    "meaning_zh": "低地湖泊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地理术语搭配"
+  },
+  {
+    "item_code": "w_044369",
+    "content": "loyalty marketing",
+    "meaning_zh": "忠诚度营销；会员营销",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "营销术语"
+  },
+  {
+    "item_code": "w_044373",
+    "content": "lrish",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似Irish拼写错误"
+  },
+  {
+    "item_code": "w_044376",
+    "content": "ltalian cuisine",
+    "meaning_zh": "意大利菜",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "疑似Italian拼写错误"
+  },
+  {
+    "item_code": "w_044377",
+    "content": "ltalian specialities",
+    "meaning_zh": "意大利特色菜",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "疑似Italian拼写错误"
+  },
+  {
+    "item_code": "w_044388",
+    "content": "lucasidosis envelope",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  }
+]

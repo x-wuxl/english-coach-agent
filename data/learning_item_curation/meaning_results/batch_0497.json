@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_047897",
+    "content": "mon mo",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写残片含义不明"
+  },
+  {
+    "item_code": "w_047912",
+    "content": "monetary concerning",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然含义不明"
+  },
+  {
+    "item_code": "w_047915",
+    "content": "monetary purpose",
+    "meaning_zh": "金钱目的；货币用途",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作经济类搭配"
+  },
+  {
+    "item_code": "w_047918",
+    "content": "monetary uniformity",
+    "meaning_zh": "货币统一；货币一致性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "经济金融类搭配"
+  },
+  {
+    "item_code": "w_047928",
+    "content": "money to spare",
+    "meaning_zh": "多余的钱；闲钱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_047930",
+    "content": "money-consuming",
+    "meaning_zh": "耗钱的；费钱的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_047939",
+    "content": "mongrel stasis",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词组含义不明"
+  },
+  {
+    "item_code": "w_047945",
+    "content": "monitor retailer",
+    "meaning_zh": "显示器零售商",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解为商业名词"
+  },
+  {
+    "item_code": "w_047946",
+    "content": "monitor satellite transmits",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "语法残缺含义不明"
+  },
+  {
+    "item_code": "w_047947",
+    "content": "monitor the visitors",
+    "meaning_zh": "监控访客；观察来访者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动宾搭配清楚"
+  },
+  {
+    "item_code": "w_047957",
+    "content": "monkey patching",
+    "meaning_zh": "猴子补丁；运行时动态修改代码",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_047958",
+    "content": "monkey show",
+    "meaning_zh": "猴戏；耍猴表演",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作表演类短语"
+  },
+  {
+    "item_code": "w_047963",
+    "content": "monks and nuns",
+    "meaning_zh": "僧侣和修女",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "并列名词短语"
+  },
+  {
+    "item_code": "w_047968",
+    "content": "monochromatic homily proclivity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串含义不明"
+  },
+  {
+    "item_code": "w_047994",
+    "content": "monologue comic talk",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似释义拼接噪声"
+  },
+  {
+    "item_code": "w_047999",
+    "content": "monominar",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_048008",
+    "content": "monopolistic practice",
+    "meaning_zh": "垄断行为；垄断做法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济法律常见搭配"
+  },
+  {
+    "item_code": "w_048012",
+    "content": "monopoly in sth.",
+    "meaning_zh": "对某事物的垄断",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词搭配"
+  },
+  {
+    "item_code": "w_048013",
+    "content": "monopoly invoice stroke",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串含义不明"
+  },
+  {
+    "item_code": "w_048014",
+    "content": "monopoly of sth.",
+    "meaning_zh": "对某物的垄断；某物的专卖权",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  }
+]

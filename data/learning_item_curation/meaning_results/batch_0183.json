@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_016828",
+    "content": "contra indicate",
+    "meaning_zh": "显示禁忌；不宜使用",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为contraindicate"
+  },
+  {
+    "item_code": "w_016839",
+    "content": "contractor storage",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不自然"
+  },
+  {
+    "item_code": "w_016843",
+    "content": "contradict yourself",
+    "meaning_zh": "自相矛盾",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_016864",
+    "content": "contrasting view",
+    "meaning_zh": "相反观点；对立看法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "雅思常用表达"
+  },
+  {
+    "item_code": "w_016869",
+    "content": "contribute contribution charity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串噪声"
+  },
+  {
+    "item_code": "w_016870",
+    "content": "contribute previous",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成立"
+  },
+  {
+    "item_code": "w_016871",
+    "content": "contribute significantly to",
+    "meaning_zh": "显著促成；对……有重大贡献",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常用搭配"
+  },
+  {
+    "item_code": "w_016888",
+    "content": "contrived canvas",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配意义不明"
+  },
+  {
+    "item_code": "w_016890",
+    "content": "control cope",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串噪声"
+  },
+  {
+    "item_code": "w_016891",
+    "content": "control for",
+    "meaning_zh": "控制……因素；排除……影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "统计研究常用"
+  },
+  {
+    "item_code": "w_016895",
+    "content": "control regulate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "近义词堆叠"
+  },
+  {
+    "item_code": "w_016904",
+    "content": "controversial feasible",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成立"
+  },
+  {
+    "item_code": "w_016905",
+    "content": "controversial plan",
+    "meaning_zh": "有争议的计划",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_016920",
+    "content": "convalescent stainless cleavage epidemiology",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无关词堆叠"
+  },
+  {
+    "item_code": "w_016927",
+    "content": "convene integrity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成立"
+  },
+  {
+    "item_code": "w_016932",
+    "content": "convenient effort",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配意义不明"
+  },
+  {
+    "item_code": "w_016933",
+    "content": "convenient eternal empire knuckle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无关词堆叠"
+  },
+  {
+    "item_code": "w_016935",
+    "content": "convenient to do",
+    "meaning_zh": "做……方便",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型"
+  },
+  {
+    "item_code": "w_016937",
+    "content": "conveniently located",
+    "meaning_zh": "位置便利；交通方便",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持"
+  },
+  {
+    "item_code": "w_016942",
+    "content": "conventional food",
+    "meaning_zh": "传统食品；常规食品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见搭配"
+  }
+]

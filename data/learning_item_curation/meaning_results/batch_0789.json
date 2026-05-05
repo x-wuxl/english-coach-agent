@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_077295",
+    "content": "unconscious rust",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常疑似噪声"
+  },
+  {
+    "item_code": "w_077317",
+    "content": "uncoordinate",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_077321",
+    "content": "uncouf",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_077334",
+    "content": "uncut version",
+    "meaning_zh": "未删减版；完整版",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见影视出版表达"
+  },
+  {
+    "item_code": "w_077359",
+    "content": "under authorization of ...",
+    "meaning_zh": "经……授权；在……授权下",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定介词短语"
+  },
+  {
+    "item_code": "w_077369",
+    "content": "under low-stress conditions",
+    "meaning_zh": "在低压力条件下",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "条件状语短语"
+  },
+  {
+    "item_code": "w_077374",
+    "content": "under obligation to do",
+    "meaning_zh": "有义务做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见责任表达"
+  },
+  {
+    "item_code": "w_077377",
+    "content": "under one's direction",
+    "meaning_zh": "在某人的指导下；在某人的指挥下",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词搭配"
+  },
+  {
+    "item_code": "w_077380",
+    "content": "under repairs",
+    "meaning_zh": "正在修理中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见形式为under repair"
+  },
+  {
+    "item_code": "w_077381",
+    "content": "under sb.'s direction",
+    "meaning_zh": "在某人的指导下；在某人的指挥下",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词搭配"
+  },
+  {
+    "item_code": "w_077383",
+    "content": "under state hypnotic stamina",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常疑似噪声"
+  },
+  {
+    "item_code": "w_077386",
+    "content": "under such circumstances",
+    "meaning_zh": "在这种情况下",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句吻合"
+  },
+  {
+    "item_code": "w_077387",
+    "content": "under supervision",
+    "meaning_zh": "在监督下；在监管下",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见管理表达"
+  },
+  {
+    "item_code": "w_077388",
+    "content": "under suspicion",
+    "meaning_zh": "受到怀疑；有嫌疑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句吻合"
+  },
+  {
+    "item_code": "w_077393",
+    "content": "under the condition",
+    "meaning_zh": "在该条件下；在……条件下",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略不完整"
+  },
+  {
+    "item_code": "w_077395",
+    "content": "under the depressor",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缺少语境难判断"
+  },
+  {
+    "item_code": "w_077402",
+    "content": "under the pressure",
+    "meaning_zh": "在压力下；受……压力影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句吻合"
+  },
+  {
+    "item_code": "w_077405",
+    "content": "under the same conditions",
+    "meaning_zh": "在相同条件下",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见条件短语"
+  },
+  {
+    "item_code": "w_077409",
+    "content": "under the surface of",
+    "meaning_zh": "在……表面之下；隐藏在……之下",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "可表字面或引申"
+  },
+  {
+    "item_code": "w_077413",
+    "content": "under value",
+    "meaning_zh": "低估价值；低于价值",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见形式为undervalue"
+  }
+]

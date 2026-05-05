@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_072547",
+    "content": "talent service center",
+    "meaning_zh": "人才服务中心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定机构名称"
+  },
+  {
+    "item_code": "w_072550",
+    "content": "talent-strong country",
+    "meaning_zh": "人才强国",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策类固定表达"
+  },
+  {
+    "item_code": "w_072554",
+    "content": "tales",
+    "meaning_zh": "故事；传说；谎话",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指故事童话"
+  },
+  {
+    "item_code": "w_072566",
+    "content": "talk doing ...",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "表达残缺且不规范"
+  },
+  {
+    "item_code": "w_072574",
+    "content": "talk quietly",
+    "meaning_zh": "轻声交谈",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_072576",
+    "content": "talk sb. into doing",
+    "meaning_zh": "说服某人做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_072606",
+    "content": "tamarand",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_072617",
+    "content": "tampon opera",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_072622",
+    "content": "Tang suit",
+    "meaning_zh": "唐装",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "服饰固定名称"
+  },
+  {
+    "item_code": "w_072628",
+    "content": "tangerine skin",
+    "meaning_zh": "橘皮；陈皮",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_072633",
+    "content": "tangible chlorine light",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "语义不通疑似噪声"
+  },
+  {
+    "item_code": "w_072643",
+    "content": "tanic",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_072659",
+    "content": "tantamount riveting",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_072665",
+    "content": "Taoist priest",
+    "meaning_zh": "道士；道教道长",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "宗教身份名称"
+  },
+  {
+    "item_code": "w_072670",
+    "content": "tap faucet",
+    "meaning_zh": "水龙头",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "同义词并列搭配"
+  },
+  {
+    "item_code": "w_072673",
+    "content": "tap one's potential",
+    "meaning_zh": "挖掘某人的潜力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_072676",
+    "content": "tapasin",
+    "meaning_zh": "tapasin蛋白",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "生物学术语"
+  },
+  {
+    "item_code": "w_072687",
+    "content": "taper porcelain",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_072692",
+    "content": "tapped water",
+    "meaning_zh": "自来水",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为tap water变体"
+  },
+  {
+    "item_code": "w_072701",
+    "content": "tardy applicable check",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "语义不通疑似噪声"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_027375",
+    "content": "female supporting role",
+    "meaning_zh": "女配角",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见影视角色表达"
+  },
+  {
+    "item_code": "w_027376",
+    "content": "female warrior role",
+    "meaning_zh": "女战士角色",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "角色类短语"
+  },
+  {
+    "item_code": "w_027378",
+    "content": "feminine culture",
+    "meaning_zh": "女性文化；阴柔文化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "性别文化相关搭配"
+  },
+  {
+    "item_code": "w_027379",
+    "content": "feminine liberation",
+    "meaning_zh": "女性解放",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "近似女性解放表达"
+  },
+  {
+    "item_code": "w_027380",
+    "content": "feminine masculine figure",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_027383",
+    "content": "feminism movement",
+    "meaning_zh": "女权主义运动；女性主义运动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会运动表达"
+  },
+  {
+    "item_code": "w_027385",
+    "content": "feminist psychology",
+    "meaning_zh": "女性主义心理学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学科术语"
+  },
+  {
+    "item_code": "w_027390",
+    "content": "femur toe",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "解剖词搭配异常"
+  },
+  {
+    "item_code": "w_027395",
+    "content": "fencing instructor",
+    "meaning_zh": "击剑教练",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职业短语"
+  },
+  {
+    "item_code": "w_027401",
+    "content": "fender anarchist",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词义组合无常用义"
+  },
+  {
+    "item_code": "w_027408",
+    "content": "ferdy",
+    "meaning_zh": "费迪（人名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作人名"
+  },
+  {
+    "item_code": "w_027414",
+    "content": "fernal",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写残片"
+  },
+  {
+    "item_code": "w_027417",
+    "content": "ferocious bale derassinate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声组合"
+  },
+  {
+    "item_code": "w_027419",
+    "content": "Ferrari automobile",
+    "meaning_zh": "法拉利汽车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "品牌名加类别"
+  },
+  {
+    "item_code": "w_027420",
+    "content": "ferrell",
+    "meaning_zh": "费雷尔（姓氏）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见姓氏"
+  },
+  {
+    "item_code": "w_027425",
+    "content": "ferris",
+    "meaning_zh": "费里斯（姓氏或人名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见专有名词"
+  },
+  {
+    "item_code": "w_027426",
+    "content": "ferris feminine mole",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声组合"
+  },
+  {
+    "item_code": "w_027434",
+    "content": "ferry lifeboat",
+    "meaning_zh": "渡轮救生艇",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "船舶相关组合"
+  },
+  {
+    "item_code": "w_027438",
+    "content": "fertile layman",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无常用义"
+  },
+  {
+    "item_code": "w_027439",
+    "content": "fertile puberty",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  }
+]

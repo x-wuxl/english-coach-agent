@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_075104",
+    "content": "to part with",
+    "meaning_zh": "放弃；割舍；交出",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_075105",
+    "content": "to party with",
+    "meaning_zh": "和某人一起聚会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见口语短语"
+  },
+  {
+    "item_code": "w_075107",
+    "content": "to play chess",
+    "meaning_zh": "下国际象棋",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持短语义"
+  },
+  {
+    "item_code": "w_075108",
+    "content": "to promote maximal engagement",
+    "meaning_zh": "促进最大程度参与",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "学术搭配可理解"
+  },
+  {
+    "item_code": "w_075109",
+    "content": "to provide equal opportunities",
+    "meaning_zh": "提供平等机会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见议论文搭配"
+  },
+  {
+    "item_code": "w_075110",
+    "content": "to rank the first",
+    "meaning_zh": "排名第一",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略生硬但可辨"
+  },
+  {
+    "item_code": "w_075111",
+    "content": "to receive baptism",
+    "meaning_zh": "接受洗礼；受洗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "宗教相关固定表达"
+  },
+  {
+    "item_code": "w_075112",
+    "content": "to reduce pollution",
+    "meaning_zh": "减少污染",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保常见搭配"
+  },
+  {
+    "item_code": "w_075113",
+    "content": "to remove structural barriers",
+    "meaning_zh": "消除结构性障碍",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "社会议题常见搭配"
+  },
+  {
+    "item_code": "w_075118",
+    "content": "to sb.'s astonishment",
+    "meaning_zh": "令某人惊讶的是",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_075119",
+    "content": "to sb.'s credit",
+    "meaning_zh": "值得某人赞扬的是；为某人增光的是",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_075120",
+    "content": "to sb.'s delight",
+    "meaning_zh": "令某人高兴的是",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_075121",
+    "content": "to sb.'s disappointment",
+    "meaning_zh": "令某人失望的是",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_075122",
+    "content": "to sb.'s relief",
+    "meaning_zh": "令某人宽慰的是",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_075123",
+    "content": "to sb.'s satisfaction",
+    "meaning_zh": "令某人满意的是",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_075124",
+    "content": "to sb.'s surprise",
+    "meaning_zh": "令某人惊讶的是",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_075125",
+    "content": "to sb.'s taste",
+    "meaning_zh": "合某人口味；符合某人喜好",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_075127",
+    "content": "to scale back",
+    "meaning_zh": "缩减；减少规模",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_075128",
+    "content": "to seek new breakthroughs",
+    "meaning_zh": "寻求新的突破",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见书面搭配"
+  },
+  {
+    "item_code": "w_075129",
+    "content": "to set goals",
+    "meaning_zh": "设定目标",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习搭配"
+  }
+]

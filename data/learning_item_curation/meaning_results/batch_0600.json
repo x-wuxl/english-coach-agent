@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_058917",
+    "content": "pull out a nail",
+    "meaning_zh": "拔出钉子",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾短语"
+  },
+  {
+    "item_code": "w_058941",
+    "content": "pulmonary offense proposal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无固定含义"
+  },
+  {
+    "item_code": "w_058950",
+    "content": "pulsar navigation satellite",
+    "meaning_zh": "脉冲星导航卫星",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术术语"
+  },
+  {
+    "item_code": "w_058954",
+    "content": "pulse of current",
+    "meaning_zh": "电流脉冲",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "物理电学搭配"
+  },
+  {
+    "item_code": "w_058955",
+    "content": "pulse travel time",
+    "meaning_zh": "脉冲传播时间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术术语"
+  },
+  {
+    "item_code": "w_058960",
+    "content": "pulverised rock",
+    "meaning_zh": "粉碎的岩石",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见地质表达"
+  },
+  {
+    "item_code": "w_058966",
+    "content": "Puma Ranch",
+    "meaning_zh": "美洲狮牧场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑似专有名称"
+  },
+  {
+    "item_code": "w_058973",
+    "content": "pump up ... through",
+    "meaning_zh": "通过……把……抽上来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语结构不完整"
+  },
+  {
+    "item_code": "w_058977",
+    "content": "pumps",
+    "meaning_zh": "浅口女鞋；舞鞋；泵",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指鞋类"
+  },
+  {
+    "item_code": "w_058979",
+    "content": "pun asymmetrical",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无固定含义"
+  },
+  {
+    "item_code": "w_058993",
+    "content": "punctual nip",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无固定含义"
+  },
+  {
+    "item_code": "w_058999",
+    "content": "puncture soviet oat",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_059000",
+    "content": "puncture toe rack tank",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_059005",
+    "content": "pungent flounder",
+    "meaning_zh": "气味刺鼻的比目鱼",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "可直译但低价值"
+  },
+  {
+    "item_code": "w_059014",
+    "content": "punishment for",
+    "meaning_zh": "对……的惩罚",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持搭配"
+  },
+  {
+    "item_code": "w_059021",
+    "content": "puny faction",
+    "meaning_zh": "弱小的派系",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "可直译但低价值"
+  },
+  {
+    "item_code": "w_059024",
+    "content": "pupate",
+    "meaning_zh": "化蛹",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生物学词汇"
+  },
+  {
+    "item_code": "w_059029",
+    "content": "pupils with special talent",
+    "meaning_zh": "有特殊才能的学生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育类常见表达"
+  },
+  {
+    "item_code": "w_059035",
+    "content": "puppy contractor womb",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_059037",
+    "content": "pural",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  }
+]

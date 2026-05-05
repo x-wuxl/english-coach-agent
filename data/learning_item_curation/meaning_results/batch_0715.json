@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_070469",
+    "content": "stuffed nose",
+    "meaning_zh": "鼻塞",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见症状表达"
+  },
+  {
+    "item_code": "w_070471",
+    "content": "stuffing far",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_070488",
+    "content": "Stung",
+    "meaning_zh": "被蜇；刺痛；被刺伤",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句明确"
+  },
+  {
+    "item_code": "w_070491",
+    "content": "stunning mountains",
+    "meaning_zh": "壮丽的群山",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容搭配"
+  },
+  {
+    "item_code": "w_070492",
+    "content": "stunning move",
+    "meaning_zh": "惊人之举；出人意料的举动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可判断"
+  },
+  {
+    "item_code": "w_070505",
+    "content": "stupid competent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_070508",
+    "content": "stupify",
+    "meaning_zh": "使麻木；使惊呆",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "stupefy变体拼写"
+  },
+  {
+    "item_code": "w_070510",
+    "content": "stupor colloid",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_070511",
+    "content": "stupor poach",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_070516",
+    "content": "sturdy fetch",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_070522",
+    "content": "style-defining",
+    "meaning_zh": "定义风格的；奠定风格的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_070523",
+    "content": "styled",
+    "meaning_zh": "有特定风格的；设计成某种样式的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见派生词"
+  },
+  {
+    "item_code": "w_070527",
+    "content": "stylish modern flat",
+    "meaning_zh": "时尚现代的公寓",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见描述短语"
+  },
+  {
+    "item_code": "w_070537",
+    "content": "su",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写残片不明"
+  },
+  {
+    "item_code": "w_070542",
+    "content": "sub lethal banish sensitivity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_070549",
+    "content": "sub-milimetre",
+    "meaning_zh": "亚毫米的；小于一毫米的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "应为sub-millimetre"
+  },
+  {
+    "item_code": "w_070550",
+    "content": "sub-national cooperation",
+    "meaning_zh": "地方层级合作；次国家级合作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治经济常用语"
+  },
+  {
+    "item_code": "w_070588",
+    "content": "subcutaneous whoop",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_070594",
+    "content": "subdivision of the market",
+    "meaning_zh": "市场细分",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商业常见表达"
+  },
+  {
+    "item_code": "w_070599",
+    "content": "subdued color",
+    "meaning_zh": "柔和的颜色；暗淡的颜色",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见颜色描述"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_045225",
+    "content": "make people stronger",
+    "meaning_zh": "使人更强壮；使人更坚强",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "明显为动词短语"
+  },
+  {
+    "item_code": "w_045227",
+    "content": "make pizzas",
+    "meaning_zh": "制作披萨",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见制作类短语"
+  },
+  {
+    "item_code": "w_045230",
+    "content": "make plans for",
+    "meaning_zh": "为……制定计划",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_045231",
+    "content": "make plastic pieces",
+    "meaning_zh": "制作塑料件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "具体制作短语"
+  },
+  {
+    "item_code": "w_045232",
+    "content": "make points",
+    "meaning_zh": "提出观点；得分",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "无例句存在多义"
+  },
+  {
+    "item_code": "w_045233",
+    "content": "make points with sb.",
+    "meaning_zh": "博得某人好感",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语性搭配"
+  },
+  {
+    "item_code": "w_045237",
+    "content": "make profits of",
+    "meaning_zh": "赚取……利润",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商业常用搭配"
+  },
+  {
+    "item_code": "w_045239",
+    "content": "make progress in ...",
+    "meaning_zh": "在……方面取得进步",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_045240",
+    "content": "make provision",
+    "meaning_zh": "做准备；作出规定",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配常需宾语"
+  },
+  {
+    "item_code": "w_045245",
+    "content": "make reflection on",
+    "meaning_zh": "对……进行反思",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略不自然"
+  },
+  {
+    "item_code": "w_045246",
+    "content": "make reflection on ...",
+    "meaning_zh": "对……进行反思",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略不自然"
+  },
+  {
+    "item_code": "w_045247",
+    "content": "make reflections on",
+    "meaning_zh": "对……进行反思",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解为固定表达"
+  },
+  {
+    "item_code": "w_045250",
+    "content": "make rules and regulations",
+    "meaning_zh": "制定规章制度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见管理类搭配"
+  },
+  {
+    "item_code": "w_045251",
+    "content": "make sacrifice",
+    "meaning_zh": "做出牺牲",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_045254",
+    "content": "make sb. alert",
+    "meaning_zh": "使某人保持警觉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "使役结构清晰"
+  },
+  {
+    "item_code": "w_045256",
+    "content": "make sb. drowsy",
+    "meaning_zh": "使某人昏昏欲睡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "使役结构清晰"
+  },
+  {
+    "item_code": "w_045257",
+    "content": "make sb. eat crow",
+    "meaning_zh": "迫使某人认错；使某人被迫收回前言",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语"
+  },
+  {
+    "item_code": "w_045258",
+    "content": "make sb. feel better",
+    "meaning_zh": "使某人感觉好些",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见使役短语"
+  },
+  {
+    "item_code": "w_045259",
+    "content": "make sb. look good",
+    "meaning_zh": "使某人显得出色；给某人增光",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_045261",
+    "content": "make sb. the scapegoat",
+    "meaning_zh": "使某人成为替罪羊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  }
+]

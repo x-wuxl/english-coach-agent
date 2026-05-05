@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_000065",
+    "content": "a base debacle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "low",
+    "reason": "搭配少见，含义不稳"
+  },
+  {
+    "item_code": "w_000066",
+    "content": "a basic human urge",
+    "meaning_zh": "一种基本的人类冲动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_000071",
+    "content": "a beach holiday",
+    "meaning_zh": "海滨度假",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅行表达"
+  },
+  {
+    "item_code": "w_000072",
+    "content": "a beach person",
+    "meaning_zh": "喜欢海滩的人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "按整体含义解释"
+  },
+  {
+    "item_code": "w_000079",
+    "content": "a belt of trees",
+    "meaning_zh": "一带树林",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_000080",
+    "content": "a better understanding of",
+    "meaning_zh": "对……有更深入的理解",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持"
+  },
+  {
+    "item_code": "w_000082",
+    "content": "a big potato",
+    "meaning_zh": "大人物；要人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "非正式习语"
+  },
+  {
+    "item_code": "w_000088",
+    "content": "a blitz on sth.",
+    "meaning_zh": "对某事的突击行动；对某事的集中打击",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_000089",
+    "content": "a block of marble",
+    "meaning_zh": "一块大理石",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见量词搭配"
+  },
+  {
+    "item_code": "w_000090",
+    "content": "a blockbuster film",
+    "meaning_zh": "一部大片；一部卖座电影",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见影视表达"
+  },
+  {
+    "item_code": "w_000091",
+    "content": "a blood vessel",
+    "meaning_zh": "血管",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见医学词组"
+  },
+  {
+    "item_code": "w_000092",
+    "content": "a blouse",
+    "meaning_zh": "女式衬衫",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持"
+  },
+  {
+    "item_code": "w_000093",
+    "content": "a blow to",
+    "meaning_zh": "对……的打击",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_000094",
+    "content": "a boarding pass",
+    "meaning_zh": "登机牌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅行词组"
+  },
+  {
+    "item_code": "w_000098",
+    "content": "a book",
+    "meaning_zh": "一本书",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持"
+  },
+  {
+    "item_code": "w_000099",
+    "content": "a boon to",
+    "meaning_zh": "对……有益的事物；对……的恩惠",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_000100",
+    "content": "a bosom friend",
+    "meaning_zh": "知心朋友；密友",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_000101",
+    "content": "a bottle",
+    "meaning_zh": "一个瓶子；一瓶",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持"
+  },
+  {
+    "item_code": "w_000104",
+    "content": "a bottle of ketchup",
+    "meaning_zh": "一瓶番茄酱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见量词搭配"
+  },
+  {
+    "item_code": "w_000106",
+    "content": "a bouquet of flowers",
+    "meaning_zh": "一束花",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见量词搭配"
+  }
+]

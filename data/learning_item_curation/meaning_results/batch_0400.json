@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_038216",
+    "content": "incipient tasty blemish",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词组无自然含义"
+  },
+  {
+    "item_code": "w_038234",
+    "content": "incline toward communication",
+    "meaning_zh": "倾向于沟通",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按搭配整体释义"
+  },
+  {
+    "item_code": "w_038236",
+    "content": "inclined to do",
+    "meaning_zh": "倾向于做；愿意做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_038238",
+    "content": "include including cheap",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词语堆砌无意义"
+  },
+  {
+    "item_code": "w_038241",
+    "content": "included settlers and sojourners",
+    "meaning_zh": "包括定居者和旅居者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语片段可理解"
+  },
+  {
+    "item_code": "w_038247",
+    "content": "inclusive growth for all",
+    "meaning_zh": "惠及所有人的包容性增长",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政策表达"
+  },
+  {
+    "item_code": "w_038252",
+    "content": "incogitant gear",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_038268",
+    "content": "incomium besmirch",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "反义词堆砌无短语义"
+  },
+  {
+    "item_code": "w_038276",
+    "content": "incompatible dumpling",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "搭配荒谬无价值"
+  },
+  {
+    "item_code": "w_038282",
+    "content": "incomplete quadratic equation",
+    "meaning_zh": "不完全二次方程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "数学术语"
+  },
+  {
+    "item_code": "w_038288",
+    "content": "inconceivable disaster",
+    "meaning_zh": "难以想象的灾难",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_038291",
+    "content": "inconclusive research",
+    "meaning_zh": "无定论的研究",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常见搭配"
+  },
+  {
+    "item_code": "w_038293",
+    "content": "incongruent glower",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_038309",
+    "content": "incontinence cordial render lining",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词语堆砌无意义"
+  },
+  {
+    "item_code": "w_038322",
+    "content": "incorporate sth. within sth.",
+    "meaning_zh": "把某物纳入某物之中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词结构"
+  },
+  {
+    "item_code": "w_038325",
+    "content": "incorporated into",
+    "meaning_zh": "被并入；被纳入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动搭配"
+  },
+  {
+    "item_code": "w_038339",
+    "content": "increase in wealth",
+    "meaning_zh": "财富增长",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_038341",
+    "content": "increase markedly",
+    "meaning_zh": "显著增加",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见副词搭配"
+  },
+  {
+    "item_code": "w_038342",
+    "content": "increase over",
+    "meaning_zh": "比……增加；随……增长",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "需结合宾语判断"
+  },
+  {
+    "item_code": "w_038343",
+    "content": "increase rapidly",
+    "meaning_zh": "快速增加",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见副词搭配"
+  }
+]

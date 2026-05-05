@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_029421",
+    "content": "free drink",
+    "meaning_zh": "免费饮料",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见服务搭配"
+  },
+  {
+    "item_code": "w_029428",
+    "content": "free from additive",
+    "meaning_zh": "不含添加剂",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "食品健康常见表达"
+  },
+  {
+    "item_code": "w_029431",
+    "content": "Free Independent Travel",
+    "meaning_zh": "自由行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅游固定表达"
+  },
+  {
+    "item_code": "w_029435",
+    "content": "free meal",
+    "meaning_zh": "免费餐食",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见服务搭配"
+  },
+  {
+    "item_code": "w_029436",
+    "content": "free medication",
+    "meaning_zh": "免费药物；免费用药",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医疗服务搭配"
+  },
+  {
+    "item_code": "w_029439",
+    "content": "free parking",
+    "meaning_zh": "免费停车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见设施表达"
+  },
+  {
+    "item_code": "w_029441",
+    "content": "free pickup",
+    "meaning_zh": "免费接送；免费取货",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "服务场景常见"
+  },
+  {
+    "item_code": "w_029447",
+    "content": "free sightseeing e-coupon",
+    "meaning_zh": "免费观光电子优惠券",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅游促销表达"
+  },
+  {
+    "item_code": "w_029451",
+    "content": "free theme",
+    "meaning_zh": "自由主题；免费主题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "无例句语境略歧义"
+  },
+  {
+    "item_code": "w_029453",
+    "content": "free to do something",
+    "meaning_zh": "可以自由做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础固定句型"
+  },
+  {
+    "item_code": "w_029456",
+    "content": "free trade zone fever",
+    "meaning_zh": "自贸区热潮",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济话题搭配"
+  },
+  {
+    "item_code": "w_029457",
+    "content": "free transportation",
+    "meaning_zh": "免费交通；免费运输",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "出行服务表达"
+  },
+  {
+    "item_code": "w_029464",
+    "content": "free-market liberalism",
+    "meaning_zh": "自由市场自由主义",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治经济术语"
+  },
+  {
+    "item_code": "w_029465",
+    "content": "free-of-charge return",
+    "meaning_zh": "免费退货",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "电商售后表达"
+  },
+  {
+    "item_code": "w_029474",
+    "content": "freebi",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似freebie拼写错误"
+  },
+  {
+    "item_code": "w_029485",
+    "content": "freelance tour guide",
+    "meaning_zh": "自由职业导游",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职业名称"
+  },
+  {
+    "item_code": "w_029494",
+    "content": "freestyle skiing tricks",
+    "meaning_zh": "自由式滑雪技巧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "体育项目表达"
+  },
+  {
+    "item_code": "w_029499",
+    "content": "freeze an account",
+    "meaning_zh": "冻结账户",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融常见搭配"
+  },
+  {
+    "item_code": "w_029504",
+    "content": "freezer lamp switch",
+    "meaning_zh": "冰柜灯开关",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "设备部件名称"
+  },
+  {
+    "item_code": "w_029510",
+    "content": "freight engine",
+    "meaning_zh": "货运机车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "交通设备搭配"
+  }
+]

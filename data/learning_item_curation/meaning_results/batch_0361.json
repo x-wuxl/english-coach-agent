@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_034004",
+    "content": "have right to do",
+    "meaning_zh": "有权做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见搭配缺冠词"
+  },
+  {
+    "item_code": "w_034007",
+    "content": "have sb. doing",
+    "meaning_zh": "让某人一直做某事；容许某人做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定使役结构"
+  },
+  {
+    "item_code": "w_034009",
+    "content": "have sb. in stitches",
+    "meaning_zh": "使某人笑得前仰后合",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语"
+  },
+  {
+    "item_code": "w_034010",
+    "content": "have sb. on tenterhooks",
+    "meaning_zh": "使某人焦急不安",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语"
+  },
+  {
+    "item_code": "w_034012",
+    "content": "have second thought on",
+    "meaning_zh": "对某事重新考虑；对某事犹豫",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达应为复数"
+  },
+  {
+    "item_code": "w_034013",
+    "content": "have second thoughts",
+    "meaning_zh": "重新考虑；改变主意；犹豫",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_034014",
+    "content": "have second thoughts on",
+    "meaning_zh": "对某事重新考虑；对某事犹豫",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_034016",
+    "content": "have sense of achievement",
+    "meaning_zh": "有成就感",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见搭配缺冠词"
+  },
+  {
+    "item_code": "w_034017",
+    "content": "have snowball fights",
+    "meaning_zh": "打雪仗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见活动表达"
+  },
+  {
+    "item_code": "w_034019",
+    "content": "have some effect on",
+    "meaning_zh": "对……有一定影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_034020",
+    "content": "have some fun",
+    "meaning_zh": "玩得开心；找点乐子",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持"
+  },
+  {
+    "item_code": "w_034021",
+    "content": "have some privileges",
+    "meaning_zh": "享有一些特权",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通搭配"
+  },
+  {
+    "item_code": "w_034022",
+    "content": "have some talk",
+    "meaning_zh": "谈一谈；进行交谈",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配略不自然"
+  },
+  {
+    "item_code": "w_034023",
+    "content": "have somebody in mind",
+    "meaning_zh": "心中有某个人选；想到某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_034025",
+    "content": "have something doing",
+    "meaning_zh": "使某物一直处于某种动作中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "使役结构"
+  },
+  {
+    "item_code": "w_034026",
+    "content": "have something going",
+    "meaning_zh": "有某事在进行；进展顺利",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "口语搭配"
+  },
+  {
+    "item_code": "w_034030",
+    "content": "have sports",
+    "meaning_zh": "进行体育运动；上体育课",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "教材常见表达"
+  },
+  {
+    "item_code": "w_034032",
+    "content": "have sth. at hand",
+    "meaning_zh": "手头有某物；把某物放在手边",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_034035",
+    "content": "have sth. doing",
+    "meaning_zh": "使某物一直处于某种动作中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定使役结构"
+  },
+  {
+    "item_code": "w_034037",
+    "content": "have sth. for breakfast",
+    "meaning_zh": "早餐吃某物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  }
+]

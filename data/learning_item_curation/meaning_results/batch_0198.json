@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_018378",
+    "content": "culture and civilization",
+    "meaning_zh": "文化与文明",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见主题搭配"
+  },
+  {
+    "item_code": "w_018381",
+    "content": "culture context",
+    "meaning_zh": "文化语境；文化背景",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为文化语境搭配"
+  },
+  {
+    "item_code": "w_018384",
+    "content": "culture soft power",
+    "meaning_zh": "文化软实力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为常见搭配"
+  },
+  {
+    "item_code": "w_018386",
+    "content": "cultures and customs",
+    "meaning_zh": "文化与习俗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见并列表达"
+  },
+  {
+    "item_code": "w_018391",
+    "content": "cumbersome physical form",
+    "meaning_zh": "笨重的实体形态",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语整体释义"
+  },
+  {
+    "item_code": "w_018393",
+    "content": "cumley indecorous quell",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声组合"
+  },
+  {
+    "item_code": "w_018394",
+    "content": "cumming",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_018398",
+    "content": "cumulative chart",
+    "meaning_zh": "累计图表",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "统计图表术语"
+  },
+  {
+    "item_code": "w_018399",
+    "content": "cumulative fatigue loading",
+    "meaning_zh": "累积疲劳载荷",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "工程技术术语"
+  },
+  {
+    "item_code": "w_018400",
+    "content": "cumulative final",
+    "meaning_zh": "综合期末考试",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "留学考试常用语"
+  },
+  {
+    "item_code": "w_018401",
+    "content": "cumulative graph",
+    "meaning_zh": "累计图",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "统计图表术语"
+  },
+  {
+    "item_code": "w_018405",
+    "content": "cundity",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_018421",
+    "content": "curable dehydrate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合异常"
+  },
+  {
+    "item_code": "w_018426",
+    "content": "curb deception",
+    "meaning_zh": "遏制欺骗行为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "动宾搭配"
+  },
+  {
+    "item_code": "w_018427",
+    "content": "curb environmental pollution",
+    "meaning_zh": "遏制环境污染",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见写作搭配"
+  },
+  {
+    "item_code": "w_018428",
+    "content": "curb on",
+    "meaning_zh": "对……的限制；抑制",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词搭配"
+  },
+  {
+    "item_code": "w_018437",
+    "content": "cure for",
+    "meaning_zh": "治疗……的方法；治愈……的药物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指治疗方法"
+  },
+  {
+    "item_code": "w_018439",
+    "content": "cure protection",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合异常"
+  },
+  {
+    "item_code": "w_018445",
+    "content": "curf",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_018461",
+    "content": "curly black hair",
+    "meaning_zh": "黑色卷发",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见外貌描述"
+  }
+]

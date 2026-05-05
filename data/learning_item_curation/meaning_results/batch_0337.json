@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_031821",
+    "content": "go off-line",
+    "meaning_zh": "离线；下线",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  },
+  {
+    "item_code": "w_031822",
+    "content": "go on a binge",
+    "meaning_zh": "狂欢作乐；暴饮暴食",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_031831",
+    "content": "go on business trips",
+    "meaning_zh": "出差",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅行表达"
+  },
+  {
+    "item_code": "w_031832",
+    "content": "go on circuit",
+    "meaning_zh": "巡回活动；巡回工作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境不足但可判断"
+  },
+  {
+    "item_code": "w_031840",
+    "content": "go on self-drive trips",
+    "meaning_zh": "自驾游",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅游表达"
+  },
+  {
+    "item_code": "w_031842",
+    "content": "go on the Internet",
+    "meaning_zh": "上网",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "小学常用表达"
+  },
+  {
+    "item_code": "w_031856",
+    "content": "go out to play",
+    "meaning_zh": "出去玩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  },
+  {
+    "item_code": "w_031870",
+    "content": "go right through sb.",
+    "meaning_zh": "穿透某人；使某人感到刺骨",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "多义需语境"
+  },
+  {
+    "item_code": "w_031871",
+    "content": "go rock climbing",
+    "meaning_zh": "去攀岩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "运动表达"
+  },
+  {
+    "item_code": "w_031872",
+    "content": "go rock-climbing",
+    "meaning_zh": "去攀岩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "运动表达"
+  },
+  {
+    "item_code": "w_031877",
+    "content": "go sb.'s way",
+    "meaning_zh": "对某人有利；按某人的意愿发展",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语表达"
+  },
+  {
+    "item_code": "w_031882",
+    "content": "go sky high",
+    "meaning_zh": "飞涨；猛增",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语表达"
+  },
+  {
+    "item_code": "w_031888",
+    "content": "go stir crazy",
+    "meaning_zh": "憋得发疯；焦躁不安",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语表达"
+  },
+  {
+    "item_code": "w_031891",
+    "content": "go surfing",
+    "meaning_zh": "去冲浪",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "运动表达"
+  },
+  {
+    "item_code": "w_031899",
+    "content": "go the rounds of",
+    "meaning_zh": "在……中传开；巡回访问",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  },
+  {
+    "item_code": "w_031902",
+    "content": "go through the changes",
+    "meaning_zh": "经历变化；经历一系列过程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境不足但可判断"
+  },
+  {
+    "item_code": "w_031910",
+    "content": "go to any lengths",
+    "meaning_zh": "不惜一切代价；竭尽全力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语表达"
+  },
+  {
+    "item_code": "w_031913",
+    "content": "go to cinemas",
+    "meaning_zh": "去看电影；去电影院",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "日常表达"
+  },
+  {
+    "item_code": "w_031919",
+    "content": "go to gym",
+    "meaning_zh": "去健身房；去健身",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略不规范"
+  },
+  {
+    "item_code": "w_031922",
+    "content": "go to lengths",
+    "meaning_zh": "竭尽全力；不遗余力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  }
+]

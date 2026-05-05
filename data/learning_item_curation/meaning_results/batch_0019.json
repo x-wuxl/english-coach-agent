@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_000600",
+    "content": "a substantial salary",
+    "meaning_zh": "丰厚的薪水",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见薪资搭配"
+  },
+  {
+    "item_code": "w_000602",
+    "content": "a sudden downpour",
+    "meaning_zh": "突如其来的倾盆大雨",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见天气表达"
+  },
+  {
+    "item_code": "w_000603",
+    "content": "a sudden soft passage",
+    "meaning_zh": "突然变轻柔的乐段",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑似音乐语境"
+  },
+  {
+    "item_code": "w_000604",
+    "content": "a sum of",
+    "meaning_zh": "一笔；总数为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语不完整但常见"
+  },
+  {
+    "item_code": "w_000605",
+    "content": "a supervision system",
+    "meaning_zh": "监督制度；监管系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见制度表达"
+  },
+  {
+    "item_code": "w_000606",
+    "content": "a sure-fire way",
+    "meaning_zh": "万无一失的方法；必定有效的方法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_000607",
+    "content": "a swarm of",
+    "meaning_zh": "一大群",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指蜂群"
+  },
+  {
+    "item_code": "w_000608",
+    "content": "a sweater",
+    "meaning_zh": "毛衣",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础名词"
+  },
+  {
+    "item_code": "w_000609",
+    "content": "a sweeping ruling",
+    "meaning_zh": "影响广泛的裁决",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律语境搭配"
+  },
+  {
+    "item_code": "w_000611",
+    "content": "a symmetry polished",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_000612",
+    "content": "a T-shirt",
+    "meaning_zh": "T恤",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础服装名词"
+  },
+  {
+    "item_code": "w_000614",
+    "content": "a talk show",
+    "meaning_zh": "访谈节目；脱口秀",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见节目类型"
+  },
+  {
+    "item_code": "w_000615",
+    "content": "a tall agile guy",
+    "meaning_zh": "一个高大敏捷的男人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "描述人物特征"
+  },
+  {
+    "item_code": "w_000616",
+    "content": "a taxi",
+    "meaning_zh": "出租车",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础交通名词"
+  },
+  {
+    "item_code": "w_000618",
+    "content": "a tear gas grenade",
+    "meaning_zh": "催泪瓦斯手榴弹；催泪弹",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专门物品名称"
+  },
+  {
+    "item_code": "w_000619",
+    "content": "a technical term",
+    "meaning_zh": "专业术语；技术术语",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_000620",
+    "content": "a termite colony",
+    "meaning_zh": "白蚁群落；白蚁巢群",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生物学常见搭配"
+  },
+  {
+    "item_code": "w_000621",
+    "content": "a terrestrial globe",
+    "meaning_zh": "地球仪",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定物品名称"
+  },
+  {
+    "item_code": "w_000622",
+    "content": "a test extricate implode",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词序混乱疑似噪声"
+  },
+  {
+    "item_code": "w_000624",
+    "content": "a three-year law degree",
+    "meaning_zh": "三年制法学学位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育领域表达"
+  }
+]

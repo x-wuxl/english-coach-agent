@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_027310",
+    "content": "feel no interest in",
+    "meaning_zh": "对……不感兴趣",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_027313",
+    "content": "feel privileged to do",
+    "meaning_zh": "荣幸地做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见礼貌表达"
+  },
+  {
+    "item_code": "w_027314",
+    "content": "feel proud",
+    "meaning_zh": "感到自豪",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见情感表达"
+  },
+  {
+    "item_code": "w_027315",
+    "content": "feel relaxed",
+    "meaning_zh": "感到放松",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_027316",
+    "content": "feel relaxed and refreshed",
+    "meaning_zh": "感到放松而精神焕发",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见状态表达"
+  },
+  {
+    "item_code": "w_027317",
+    "content": "feel satisfied",
+    "meaning_zh": "感到满意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见情感表达"
+  },
+  {
+    "item_code": "w_027319",
+    "content": "feel sorry about",
+    "meaning_zh": "对……感到抱歉；为……感到难过",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_027325",
+    "content": "feel tired and reluctant",
+    "meaning_zh": "感到疲惫且不情愿",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解"
+  },
+  {
+    "item_code": "w_027326",
+    "content": "feel uncomfortable",
+    "meaning_zh": "感到不舒服；感到不自在",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_027328",
+    "content": "feel unwell",
+    "meaning_zh": "感到身体不适",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_027334",
+    "content": "feeling and concern",
+    "meaning_zh": "情感和关切",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义较泛"
+  },
+  {
+    "item_code": "w_027335",
+    "content": "feeling of isolation",
+    "meaning_zh": "孤立感；隔绝感",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_027339",
+    "content": "fees charged",
+    "meaning_zh": "收取的费用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务语境明确"
+  },
+  {
+    "item_code": "w_027347",
+    "content": "felicit",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写残缺"
+  },
+  {
+    "item_code": "w_027364",
+    "content": "felony oscillate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合无合理含义"
+  },
+  {
+    "item_code": "w_027366",
+    "content": "felt happy",
+    "meaning_zh": "感到高兴",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见状态表达"
+  },
+  {
+    "item_code": "w_027367",
+    "content": "felt obviate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合不成立"
+  },
+  {
+    "item_code": "w_027372",
+    "content": "female guard of honor",
+    "meaning_zh": "女仪仗队员；女仪仗队",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "名词短语可判断"
+  },
+  {
+    "item_code": "w_027373",
+    "content": "female job screeners",
+    "meaning_zh": "女性招聘筛选人员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境不足但可判断"
+  },
+  {
+    "item_code": "w_027374",
+    "content": "female prime minister",
+    "meaning_zh": "女首相；女总理",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  }
+]

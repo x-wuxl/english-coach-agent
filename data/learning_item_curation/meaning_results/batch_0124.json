@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_010664",
+    "content": "bring new life to",
+    "meaning_zh": "使……焕发生机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_010669",
+    "content": "bring out one's best",
+    "meaning_zh": "激发某人最佳状态",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_010670",
+    "content": "bring prices down",
+    "meaning_zh": "降低价格",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_010678",
+    "content": "bring sth. crashing down",
+    "meaning_zh": "使某物轰然倒塌；使某事彻底崩溃",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_010681",
+    "content": "bring sth. into sth.",
+    "meaning_zh": "把某物带入；将某物引入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "通用句型搭配"
+  },
+  {
+    "item_code": "w_010684",
+    "content": "bring sth. to effect",
+    "meaning_zh": "使某事生效；实现某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达较少见"
+  },
+  {
+    "item_code": "w_010685",
+    "content": "bring tea",
+    "meaning_zh": "把茶拿来；端茶",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_010699",
+    "content": "bring vigor into",
+    "meaning_zh": "为……注入活力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_010711",
+    "content": "bristlecone pine tree",
+    "meaning_zh": "狐尾松；刺果松",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "植物名称"
+  },
+  {
+    "item_code": "w_010717",
+    "content": "British agriculture",
+    "meaning_zh": "英国农业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "主题名词短语"
+  },
+  {
+    "item_code": "w_010723",
+    "content": "brittle taciturn suffocate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无结构词串噪声"
+  },
+  {
+    "item_code": "w_010726",
+    "content": "broach gloss",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词表残片"
+  },
+  {
+    "item_code": "w_010728",
+    "content": "broad claims",
+    "meaning_zh": "宽泛的主张；笼统的说法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_010730",
+    "content": "broad divisions",
+    "meaning_zh": "大的分类；主要分界",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_010741",
+    "content": "broadcast commentary",
+    "meaning_zh": "广播解说；播报评论",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "媒体场景搭配"
+  },
+  {
+    "item_code": "w_010750",
+    "content": "broaden one's knowledge",
+    "meaning_zh": "拓宽某人的知识面",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习表达"
+  },
+  {
+    "item_code": "w_010751",
+    "content": "broaden one's mind",
+    "meaning_zh": "开阔某人的思维；拓宽眼界",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_010752",
+    "content": "broaden one's minds",
+    "meaning_zh": "开阔某人的思维；拓宽眼界",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "复数形式不自然"
+  },
+  {
+    "item_code": "w_010753",
+    "content": "broaden one's outlook",
+    "meaning_zh": "开阔某人的眼界",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_010754",
+    "content": "broaden one's view",
+    "meaning_zh": "拓宽某人的视野",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  }
+]

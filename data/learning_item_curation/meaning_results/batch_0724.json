@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_071420",
+    "content": "surgerical",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "拼写错误，应为surgical"
+  },
+  {
+    "item_code": "w_071422",
+    "content": "surgery devoted intrude",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词组无固定含义"
+  },
+  {
+    "item_code": "w_071425",
+    "content": "surgical device",
+    "meaning_zh": "外科器械；手术设备",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见医学搭配"
+  },
+  {
+    "item_code": "w_071429",
+    "content": "surloin",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "拼写错误，应为sirloin"
+  },
+  {
+    "item_code": "w_071434",
+    "content": "surname nickname",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "并列词堆叠非词条"
+  },
+  {
+    "item_code": "w_071436",
+    "content": "surpass male description",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词组无固定含义"
+  },
+  {
+    "item_code": "w_071439",
+    "content": "surplus labor force",
+    "meaning_zh": "剩余劳动力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见经济学搭配"
+  },
+  {
+    "item_code": "w_071440",
+    "content": "surplus revolt",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词组无固定含义"
+  },
+  {
+    "item_code": "w_071441",
+    "content": "surplus tournament interfere",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词语堆叠无含义"
+  },
+  {
+    "item_code": "w_071444",
+    "content": "surprise quiz",
+    "meaning_zh": "突击测验",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见校园表达"
+  },
+  {
+    "item_code": "w_071446",
+    "content": "surprised surprising wonder",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "近义词堆叠非词条"
+  },
+  {
+    "item_code": "w_071453",
+    "content": "surrender extra defect barrier",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词语堆叠无含义"
+  },
+  {
+    "item_code": "w_071454",
+    "content": "surrender oneself",
+    "meaning_zh": "投降；自首",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词短语"
+  },
+  {
+    "item_code": "w_071457",
+    "content": "surrender pier",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词组无固定含义"
+  },
+  {
+    "item_code": "w_071463",
+    "content": "surrogate accrete votary",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词语堆叠无含义"
+  },
+  {
+    "item_code": "w_071464",
+    "content": "surrogate country",
+    "meaning_zh": "替代国；代理国",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专业语境搭配"
+  },
+  {
+    "item_code": "w_071465",
+    "content": "surrogate exam-taker",
+    "meaning_zh": "替考者；代考人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "考试语境明确"
+  },
+  {
+    "item_code": "w_071478",
+    "content": "survey otherwise",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词组无固定含义"
+  },
+  {
+    "item_code": "w_071479",
+    "content": "surveyed unemployment rate",
+    "meaning_zh": "调查失业率",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见统计指标"
+  },
+  {
+    "item_code": "w_071482",
+    "content": "surveys methods",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "疑为survey methods误写"
+  }
+]

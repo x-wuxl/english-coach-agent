@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_063313",
+    "content": "run a restaurant",
+    "meaning_zh": "经营一家餐馆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_063316",
+    "content": "run a taut ship",
+    "meaning_zh": "严格管理；管理有方",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "近似固定表达"
+  },
+  {
+    "item_code": "w_063326",
+    "content": "run against the grain",
+    "meaning_zh": "违背常理；不合本性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语"
+  },
+  {
+    "item_code": "w_063333",
+    "content": "run at top speed",
+    "meaning_zh": "全速奔跑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见速度搭配"
+  },
+  {
+    "item_code": "w_063336",
+    "content": "run away from sb.",
+    "meaning_zh": "从某人身边逃走；躲避某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词"
+  },
+  {
+    "item_code": "w_063337",
+    "content": "run away from sth.",
+    "meaning_zh": "逃避某事；远离某物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词"
+  },
+  {
+    "item_code": "w_063342",
+    "content": "run contrary to",
+    "meaning_zh": "与……相反；违背……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_063343",
+    "content": "run contrary to ...",
+    "meaning_zh": "与……相反；违背……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_063348",
+    "content": "run down the stairs",
+    "meaning_zh": "跑下楼梯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础动作短语"
+  },
+  {
+    "item_code": "w_063355",
+    "content": "run for president",
+    "meaning_zh": "竞选总统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见竞选搭配"
+  },
+  {
+    "item_code": "w_063359",
+    "content": "run in debt",
+    "meaning_zh": "欠债；负债",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配略不常见"
+  },
+  {
+    "item_code": "w_063372",
+    "content": "run one's own business",
+    "meaning_zh": "经营自己的生意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_063377",
+    "content": "run parallel to",
+    "meaning_zh": "与……平行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  },
+  {
+    "item_code": "w_063378",
+    "content": "run parallel with",
+    "meaning_zh": "与……平行；与……同时发生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_063381",
+    "content": "run risk of",
+    "meaning_zh": "冒……的风险",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见为run the risk of"
+  },
+  {
+    "item_code": "w_063386",
+    "content": "run school farm",
+    "meaning_zh": "经营学校农场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "省略冠词搭配"
+  },
+  {
+    "item_code": "w_063397",
+    "content": "run up bills",
+    "meaning_zh": "积欠账单；累积费用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词"
+  },
+  {
+    "item_code": "w_063402",
+    "content": "run with the crowd",
+    "meaning_zh": "随大流；从众",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语"
+  },
+  {
+    "item_code": "w_063403",
+    "content": "run yellow lights",
+    "meaning_zh": "闯黄灯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通场景搭配"
+  },
+  {
+    "item_code": "w_063411",
+    "content": "runaway success",
+    "meaning_zh": "巨大的成功；出人意料的成功",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  }
+]

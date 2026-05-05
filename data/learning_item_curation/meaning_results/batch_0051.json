@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_003754",
+    "content": "antibody cholesterol",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配"
+  },
+  {
+    "item_code": "w_003755",
+    "content": "antibody molecule",
+    "meaning_zh": "抗体分子",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生物学术语"
+  },
+  {
+    "item_code": "w_003776",
+    "content": "anticongestive",
+    "meaning_zh": "抗充血的；减轻鼻塞的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学相关词"
+  },
+  {
+    "item_code": "w_003781",
+    "content": "antidate",
+    "meaning_zh": "倒填日期；早于",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常见义"
+  },
+  {
+    "item_code": "w_003782",
+    "content": "antidate jabber worship",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_003786",
+    "content": "antidiscrimination laws",
+    "meaning_zh": "反歧视法律",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见法律搭配"
+  },
+  {
+    "item_code": "w_003797",
+    "content": "antifrees",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_003831",
+    "content": "antipazi",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_003832",
+    "content": "antipazy",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_003833",
+    "content": "antipod",
+    "meaning_zh": "对跖点；正相反的事物",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见词但可释义"
+  },
+  {
+    "item_code": "w_003850",
+    "content": "antiquated contradict figurine",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_003852",
+    "content": "antique calorie",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配"
+  },
+  {
+    "item_code": "w_003854",
+    "content": "antique shopping",
+    "meaning_zh": "购买古董；逛古董店",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_003868",
+    "content": "antisociobiologist",
+    "meaning_zh": "反社会生物学者",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专业派生词"
+  },
+  {
+    "item_code": "w_003870",
+    "content": "antispit",
+    "meaning_zh": "防吐痰的；防飞沫的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按构词可判断"
+  },
+  {
+    "item_code": "w_003890",
+    "content": "Antonio",
+    "meaning_zh": "安东尼奥",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见人名"
+  },
+  {
+    "item_code": "w_003897",
+    "content": "anuity",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_003902",
+    "content": "anwi",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_003906",
+    "content": "anxiety diversify",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配"
+  },
+  {
+    "item_code": "w_003908",
+    "content": "anxiety tense fear",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似同义词堆叠"
+  }
+]

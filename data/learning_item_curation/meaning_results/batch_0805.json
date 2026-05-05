@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_079471",
+    "content": "visit monuments",
+    "meaning_zh": "参观纪念碑；游览古迹",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_079472",
+    "content": "visit one's grandparents",
+    "meaning_zh": "看望某人的祖父母",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见探亲表达"
+  },
+  {
+    "item_code": "w_079473",
+    "content": "visit the Mogao Caves",
+    "meaning_zh": "参观莫高窟",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "景点参观表达"
+  },
+  {
+    "item_code": "w_079474",
+    "content": "visit the museum",
+    "meaning_zh": "参观博物馆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  },
+  {
+    "item_code": "w_079478",
+    "content": "visited grandparents",
+    "meaning_zh": "看望了祖父母",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "过去式动宾搭配"
+  },
+  {
+    "item_code": "w_079482",
+    "content": "visiting student",
+    "meaning_zh": "访问学生；交流生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教育术语"
+  },
+  {
+    "item_code": "w_079492",
+    "content": "visual form of language",
+    "meaning_zh": "语言的视觉形式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术表达清晰"
+  },
+  {
+    "item_code": "w_079493",
+    "content": "visual input",
+    "meaning_zh": "视觉输入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见认知术语"
+  },
+  {
+    "item_code": "w_079495",
+    "content": "visual landmark",
+    "meaning_zh": "视觉地标；醒目的视觉参照物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见空间认知术语"
+  },
+  {
+    "item_code": "w_079496",
+    "content": "visual perception span",
+    "meaning_zh": "视觉感知广度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专业术语可判断"
+  },
+  {
+    "item_code": "w_079497",
+    "content": "visual regression",
+    "meaning_zh": "视觉回归；视觉回视",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "术语含义依语境"
+  },
+  {
+    "item_code": "w_079504",
+    "content": "visually wheelchair accessible benefit",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组噪声无法判断"
+  },
+  {
+    "item_code": "w_079509",
+    "content": "vital heart",
+    "meaning_zh": "重要核心；要害",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配较少但可判断"
+  },
+  {
+    "item_code": "w_079527",
+    "content": "vito",
+    "meaning_zh": "维托（人名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见人名"
+  },
+  {
+    "item_code": "w_079528",
+    "content": "vito mobile",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声或品牌残片"
+  },
+  {
+    "item_code": "w_079529",
+    "content": "vitouchery",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_079544",
+    "content": "Vivian",
+    "meaning_zh": "薇薇安（人名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见人名"
+  },
+  {
+    "item_code": "w_079546",
+    "content": "vivid malfunction",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无法判断"
+  },
+  {
+    "item_code": "w_079564",
+    "content": "vocal rheumatism",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无法判断"
+  },
+  {
+    "item_code": "w_079572",
+    "content": "vocation dent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声无法判断"
+  }
+]

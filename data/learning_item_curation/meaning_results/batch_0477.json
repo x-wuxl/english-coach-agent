@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_045576",
+    "content": "manmade dam",
+    "meaning_zh": "人造水坝",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_045578",
+    "content": "mannan-oligosaccharides",
+    "meaning_zh": "甘露寡糖",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生物化学术语"
+  },
+  {
+    "item_code": "w_045586",
+    "content": "mannered heckle squeamish",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配"
+  },
+  {
+    "item_code": "w_045601",
+    "content": "Manson",
+    "meaning_zh": "曼森（姓氏或人名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有名词"
+  },
+  {
+    "item_code": "w_045609",
+    "content": "manual cosmos filter",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词串噪声"
+  },
+  {
+    "item_code": "w_045610",
+    "content": "manual coupon shift",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词串噪声"
+  },
+  {
+    "item_code": "w_045612",
+    "content": "manual gear",
+    "meaning_zh": "手动挡；手动变速器",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见汽车术语"
+  },
+  {
+    "item_code": "w_045614",
+    "content": "manual marker mode mold",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词串噪声"
+  },
+  {
+    "item_code": "w_045621",
+    "content": "manufactured habits",
+    "meaning_zh": "人为塑造的习惯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解搭配"
+  },
+  {
+    "item_code": "w_045625",
+    "content": "manufacturing and production",
+    "meaning_zh": "制造与生产",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商业表达"
+  },
+  {
+    "item_code": "w_045635",
+    "content": "manuscript lurid",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_045636",
+    "content": "manuscript margin newsletter",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词串噪声"
+  },
+  {
+    "item_code": "w_045637",
+    "content": "manuscript patrol document",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词串噪声"
+  },
+  {
+    "item_code": "w_045643",
+    "content": "many thanks to...for doing",
+    "meaning_zh": "非常感谢……做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定感谢表达"
+  },
+  {
+    "item_code": "w_045644",
+    "content": "many-act play",
+    "meaning_zh": "多幕剧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "戏剧术语"
+  },
+  {
+    "item_code": "w_045661",
+    "content": "Marathon fever",
+    "meaning_zh": "马拉松热潮",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会现象表达"
+  },
+  {
+    "item_code": "w_045664",
+    "content": "marathon supply",
+    "meaning_zh": "马拉松补给",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "赛事语境搭配"
+  },
+  {
+    "item_code": "w_045667",
+    "content": "marble boat",
+    "meaning_zh": "石舫；大理石船",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可指景观建筑"
+  },
+  {
+    "item_code": "w_045669",
+    "content": "marble snore",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配"
+  },
+  {
+    "item_code": "w_045671",
+    "content": "Marc",
+    "meaning_zh": "马克（男子名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句为人名"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_018941",
+    "content": "dart dartboard",
+    "meaning_zh": "飞镖和飞镖盘",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "相关名词组合"
+  },
+  {
+    "item_code": "w_018942",
+    "content": "dart impending hammer ghosh",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词串"
+  },
+  {
+    "item_code": "w_018952",
+    "content": "dash the writing off",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "表达不自然"
+  },
+  {
+    "item_code": "w_018963",
+    "content": "data encapsulation",
+    "meaning_zh": "数据封装",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_018964",
+    "content": "data error checking",
+    "meaning_zh": "数据错误检查；数据差错校验",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术搭配"
+  },
+  {
+    "item_code": "w_018969",
+    "content": "data structure",
+    "meaning_zh": "数据结构",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_018971",
+    "content": "data type",
+    "meaning_zh": "数据类型",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_018972",
+    "content": "data-rich industries",
+    "meaning_zh": "数据密集型行业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_018978",
+    "content": "date back from",
+    "meaning_zh": "追溯到；始于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定表达变体"
+  },
+  {
+    "item_code": "w_018982",
+    "content": "date from to",
+    "meaning_zh": "日期从……到……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "省略占位成分"
+  },
+  {
+    "item_code": "w_018987",
+    "content": "dated a wash commitment",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词串"
+  },
+  {
+    "item_code": "w_018996",
+    "content": "daughter lank exculpate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词串"
+  },
+  {
+    "item_code": "w_018998",
+    "content": "Daulia",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_019005",
+    "content": "David Blaine",
+    "meaning_zh": "大卫·布莱恩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人名专有名词"
+  },
+  {
+    "item_code": "w_019008",
+    "content": "Davy",
+    "meaning_zh": "戴维",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "例句为固定表达"
+  },
+  {
+    "item_code": "w_019021",
+    "content": "Day for the Aged",
+    "meaning_zh": "老人节",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "节日名称"
+  },
+  {
+    "item_code": "w_019025",
+    "content": "day of arrival",
+    "meaning_zh": "到达当天；抵达日期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见日期表达"
+  },
+  {
+    "item_code": "w_019031",
+    "content": "day show",
+    "meaning_zh": "日间演出；日间节目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见场景搭配"
+  },
+  {
+    "item_code": "w_019035",
+    "content": "day-shift worker",
+    "meaning_zh": "白班工人；日班员工",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职业搭配"
+  },
+  {
+    "item_code": "w_019037",
+    "content": "day-to-day experience",
+    "meaning_zh": "日常经验；日常经历",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  }
+]

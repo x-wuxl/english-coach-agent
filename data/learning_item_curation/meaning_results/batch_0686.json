@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_067539",
+    "content": "snake case",
+    "meaning_zh": "蛇形命名法；下划线命名法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_067541",
+    "content": "snake one's way",
+    "meaning_zh": "蜿蜒前行；曲折穿行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_067547",
+    "content": "snap poll",
+    "meaning_zh": "快速民意调查；即时民调",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见新闻表达"
+  },
+  {
+    "item_code": "w_067549",
+    "content": "snap-connect",
+    "meaning_zh": "卡扣式连接；快速扣接",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术搭配"
+  },
+  {
+    "item_code": "w_067550",
+    "content": "snap-happy",
+    "meaning_zh": "爱拍照的；拍照成瘾的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_067551",
+    "content": "snapdragon",
+    "meaning_zh": "金鱼草",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见植物名"
+  },
+  {
+    "item_code": "w_067559",
+    "content": "snarl monarch",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声搭配"
+  },
+  {
+    "item_code": "w_067567",
+    "content": "sneak away",
+    "meaning_zh": "偷偷离开；溜走",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词"
+  },
+  {
+    "item_code": "w_067568",
+    "content": "sneak out",
+    "meaning_zh": "偷偷溜出去；偷偷带出",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词"
+  },
+  {
+    "item_code": "w_067571",
+    "content": "sneaker shoelace underwear underpants",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串非单一词条"
+  },
+  {
+    "item_code": "w_067577",
+    "content": "sneer congenial",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定含义"
+  },
+  {
+    "item_code": "w_067578",
+    "content": "sneer projection",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定含义"
+  },
+  {
+    "item_code": "w_067582",
+    "content": "sneeze forum",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声搭配"
+  },
+  {
+    "item_code": "w_067583",
+    "content": "sneeze shovel progress",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串非单一词条"
+  },
+  {
+    "item_code": "w_067589",
+    "content": "sniff defeat",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定含义"
+  },
+  {
+    "item_code": "w_067603",
+    "content": "snob purple rascal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串非单一词条"
+  },
+  {
+    "item_code": "w_067608",
+    "content": "snooker compete",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无自然搭配"
+  },
+  {
+    "item_code": "w_067624",
+    "content": "snow storm",
+    "meaning_zh": "暴风雪；雪暴",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  },
+  {
+    "item_code": "w_067627",
+    "content": "snow-capped mountain",
+    "meaning_zh": "雪山；山顶积雪的山",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见地貌表达"
+  },
+  {
+    "item_code": "w_067630",
+    "content": "snow-stricken",
+    "meaning_zh": "遭受雪灾的；受大雪影响的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  }
+]

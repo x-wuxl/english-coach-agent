@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_065363",
+    "content": "senior people",
+    "meaning_zh": "老年人；资深人士",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_065367",
+    "content": "sensation contain outmoted mockish",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声组合"
+  },
+  {
+    "item_code": "w_065369",
+    "content": "sensational biliary conductivity sauce",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声组合"
+  },
+  {
+    "item_code": "w_065373",
+    "content": "sense active",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_065375",
+    "content": "sense of benefit",
+    "meaning_zh": "受益感；获益感",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解固定表达"
+  },
+  {
+    "item_code": "w_065378",
+    "content": "sense of distrust",
+    "meaning_zh": "不信任感",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象名词短语"
+  },
+  {
+    "item_code": "w_065379",
+    "content": "sense of gain",
+    "meaning_zh": "获得感",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_065388",
+    "content": "sense of solidarity",
+    "meaning_zh": "团结感；团结意识",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象名词短语"
+  },
+  {
+    "item_code": "w_065395",
+    "content": "sensible exercise",
+    "meaning_zh": "合理的锻炼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容词名词搭配"
+  },
+  {
+    "item_code": "w_065397",
+    "content": "sensible reason",
+    "meaning_zh": "合理的理由",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_065402",
+    "content": "sensitive pinpoint front paragon",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声组合"
+  },
+  {
+    "item_code": "w_065403",
+    "content": "sensitive project difference",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_065404",
+    "content": "sensitive site",
+    "meaning_zh": "敏感地点；敏感部位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境不足但可判断"
+  },
+  {
+    "item_code": "w_065405",
+    "content": "sensitive stomach",
+    "meaning_zh": "肠胃敏感；易受刺激的胃",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见健康表达"
+  },
+  {
+    "item_code": "w_065407",
+    "content": "sensitive-faced",
+    "meaning_zh": "面容敏感细腻的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_065410",
+    "content": "sensitivity to odours",
+    "meaning_zh": "对气味敏感",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_065413",
+    "content": "sensitize fraction",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_065419",
+    "content": "sensory cue",
+    "meaning_zh": "感官线索；感觉提示",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "心理学常见搭配"
+  },
+  {
+    "item_code": "w_065420",
+    "content": "sensory mechanism",
+    "meaning_zh": "感觉机制；感官机制",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常见搭配"
+  },
+  {
+    "item_code": "w_065435",
+    "content": "sentence somebody to death",
+    "meaning_zh": "判某人死刑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词短语"
+  }
+]

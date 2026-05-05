@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_068533",
+    "content": "specification attraction",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_068538",
+    "content": "specify repetition",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_068540",
+    "content": "specimen optics",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_068547",
+    "content": "spectacle lounge",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_068551",
+    "content": "spectacular thing",
+    "meaning_zh": "壮观的事物；精彩的事情",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "普通形容词搭配"
+  },
+  {
+    "item_code": "w_068552",
+    "content": "spectacular tough",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_068556",
+    "content": "spectators' seats",
+    "meaning_zh": "观众席",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见场馆表达"
+  },
+  {
+    "item_code": "w_068574",
+    "content": "spectrum inception suture",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_068575",
+    "content": "spectrum technician",
+    "meaning_zh": "频谱技术员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可能为技术岗位"
+  },
+  {
+    "item_code": "w_068578",
+    "content": "speculate dispatch",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_068582",
+    "content": "speculation Guinea substrate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_068584",
+    "content": "speculative fever",
+    "meaning_zh": "投机热",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融常见表达"
+  },
+  {
+    "item_code": "w_068595",
+    "content": "speed palpitation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  },
+  {
+    "item_code": "w_068604",
+    "content": "speedy development",
+    "meaning_zh": "快速发展",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_068614",
+    "content": "spend ... doing",
+    "meaning_zh": "花费……做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型"
+  },
+  {
+    "item_code": "w_068615",
+    "content": "spend ... doing ...",
+    "meaning_zh": "花费……做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型"
+  },
+  {
+    "item_code": "w_068616",
+    "content": "spend ... doing sth.",
+    "meaning_zh": "花费……做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型"
+  },
+  {
+    "item_code": "w_068617",
+    "content": "spend ... in doing",
+    "meaning_zh": "花费……做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型"
+  },
+  {
+    "item_code": "w_068621",
+    "content": "spend budget",
+    "meaning_zh": "支出预算；花费预算",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "商务语境可用"
+  },
+  {
+    "item_code": "w_068623",
+    "content": "spend money unwisely",
+    "meaning_zh": "乱花钱；不明智地花钱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "含义明确"
+  }
+]

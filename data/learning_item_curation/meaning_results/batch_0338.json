@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_031927",
+    "content": "go to restaurants",
+    "meaning_zh": "去餐馆吃饭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活搭配"
+  },
+  {
+    "item_code": "w_031931",
+    "content": "go to some lengths",
+    "meaning_zh": "尽力；不遗余力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_031935",
+    "content": "go to the countryside",
+    "meaning_zh": "去乡下；去农村",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见地点搭配"
+  },
+  {
+    "item_code": "w_031936",
+    "content": "go to the dentist",
+    "meaning_zh": "去看牙医",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_031939",
+    "content": "go to the expense",
+    "meaning_zh": "花费钱财；不惜花钱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常用于固定搭配"
+  },
+  {
+    "item_code": "w_031940",
+    "content": "go to the fair",
+    "meaning_zh": "去集市；去展会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见活动搭配"
+  },
+  {
+    "item_code": "w_031941",
+    "content": "go to the gym",
+    "meaning_zh": "去健身房",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活搭配"
+  },
+  {
+    "item_code": "w_031942",
+    "content": "go to the hospital",
+    "meaning_zh": "去医院",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_031943",
+    "content": "go to the library",
+    "meaning_zh": "去图书馆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_031944",
+    "content": "go to the limit",
+    "meaning_zh": "达到极限；做到最大限度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_031945",
+    "content": "go to the mall",
+    "meaning_zh": "去商场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_031946",
+    "content": "go to the mountains",
+    "meaning_zh": "去山区；去山里",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见地点搭配"
+  },
+  {
+    "item_code": "w_031947",
+    "content": "go to the movie",
+    "meaning_zh": "去看电影；去电影院",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "例句指电影院"
+  },
+  {
+    "item_code": "w_031949",
+    "content": "go to the park",
+    "meaning_zh": "去公园",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_031950",
+    "content": "go to the seaside",
+    "meaning_zh": "去海边",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_031953",
+    "content": "go to the zoo",
+    "meaning_zh": "去动物园",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_031955",
+    "content": "go to war with",
+    "meaning_zh": "与……开战",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_031966",
+    "content": "go veggie",
+    "meaning_zh": "开始吃素；成为素食者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "口语固定表达"
+  },
+  {
+    "item_code": "w_031967",
+    "content": "go water skiing",
+    "meaning_zh": "去滑水",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "运动搭配"
+  },
+  {
+    "item_code": "w_031968",
+    "content": "go water-skiing",
+    "meaning_zh": "去滑水",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "运动搭配"
+  }
+]

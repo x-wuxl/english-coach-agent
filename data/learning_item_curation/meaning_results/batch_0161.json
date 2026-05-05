@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_014663",
+    "content": "clump omen",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似无意义词组"
+  },
+  {
+    "item_code": "w_014667",
+    "content": "clumsy obsess cope",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个散词拼接"
+  },
+  {
+    "item_code": "w_014671",
+    "content": "cluster around",
+    "meaning_zh": "聚集在……周围",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_014672",
+    "content": "cluster together",
+    "meaning_zh": "聚集在一起；成群聚集",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_014673",
+    "content": "clut",
+    "meaning_zh": "颜色查找表",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "计算机缩写术语"
+  },
+  {
+    "item_code": "w_014712",
+    "content": "coach fair",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义无法可靠判断"
+  },
+  {
+    "item_code": "w_014713",
+    "content": "coach trainer referee",
+    "meaning_zh": "教练、训练员、裁判",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "散词列表非固定表达"
+  },
+  {
+    "item_code": "w_014733",
+    "content": "coal boss",
+    "meaning_zh": "煤老板；煤矿老板",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_014734",
+    "content": "coal conversion industry",
+    "meaning_zh": "煤炭转化产业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "能源产业术语"
+  },
+  {
+    "item_code": "w_014736",
+    "content": "coal mine flood",
+    "meaning_zh": "煤矿水灾；矿井透水",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "矿业灾害术语"
+  },
+  {
+    "item_code": "w_014747",
+    "content": "coarse cereal",
+    "meaning_zh": "粗粮；粗谷物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见食品搭配"
+  },
+  {
+    "item_code": "w_014757",
+    "content": "coastal erosion and flooding",
+    "meaning_zh": "海岸侵蚀和洪水",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环境类常见表达"
+  },
+  {
+    "item_code": "w_014758",
+    "content": "coastal flooding",
+    "meaning_zh": "沿海洪水；海岸洪涝",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环境类常见表达"
+  },
+  {
+    "item_code": "w_014762",
+    "content": "coastal plateau",
+    "meaning_zh": "沿海高原；海岸高原",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地理术语"
+  },
+  {
+    "item_code": "w_014764",
+    "content": "coastal subsidence",
+    "meaning_zh": "沿海地面沉降；海岸下沉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地理环境术语"
+  },
+  {
+    "item_code": "w_014775",
+    "content": "coating tolerant thermography",
+    "meaning_zh": "耐涂层热成像检测",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专业检测术语"
+  },
+  {
+    "item_code": "w_014811",
+    "content": "coco",
+    "meaning_zh": "椰子树；椰子",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见词但语境不足"
+  },
+  {
+    "item_code": "w_014825",
+    "content": "code of laws",
+    "meaning_zh": "法典；成文法汇编",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律常见表达"
+  },
+  {
+    "item_code": "w_014826",
+    "content": "code point",
+    "meaning_zh": "码点；代码点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机编码术语"
+  },
+  {
+    "item_code": "w_014827",
+    "content": "code segment",
+    "meaning_zh": "代码段",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常见术语"
+  }
+]

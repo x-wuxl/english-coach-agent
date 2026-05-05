@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_002192",
+    "content": "agent higher",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_002193",
+    "content": "agent of decay",
+    "meaning_zh": "腐蚀因素；导致衰败的因素",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定名词短语"
+  },
+  {
+    "item_code": "w_002203",
+    "content": "aggrandize enthrall dodge",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个单词堆叠噪声"
+  },
+  {
+    "item_code": "w_002205",
+    "content": "aggravate plummet",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "两个动词堆叠噪声"
+  },
+  {
+    "item_code": "w_002220",
+    "content": "aggressive dapper",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "形容词堆叠无明确义"
+  },
+  {
+    "item_code": "w_002221",
+    "content": "aggressive patriotism",
+    "meaning_zh": "激进的爱国主义；咄咄逼人的爱国主义",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政治表达"
+  },
+  {
+    "item_code": "w_002222",
+    "content": "aggressive semiconductor coil",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常疑似噪声"
+  },
+  {
+    "item_code": "w_002231",
+    "content": "agile ferment dysplasia convention",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个无关词堆叠"
+  },
+  {
+    "item_code": "w_002234",
+    "content": "aging of the population",
+    "meaning_zh": "人口老龄化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会话题表达"
+  },
+  {
+    "item_code": "w_002237",
+    "content": "aging timber structure",
+    "meaning_zh": "老化的木结构",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "建筑类名词短语"
+  },
+  {
+    "item_code": "w_002239",
+    "content": "agitage",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_002241",
+    "content": "agitate for",
+    "meaning_zh": "鼓动支持；煽动争取",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_002243",
+    "content": "agitated dismay",
+    "meaning_zh": "焦虑不安的沮丧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "情绪类短语"
+  },
+  {
+    "item_code": "w_002247",
+    "content": "Agnes Grey",
+    "meaning_zh": "《艾格尼丝·格雷》",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文学作品名"
+  },
+  {
+    "item_code": "w_002265",
+    "content": "agraphesthesia",
+    "meaning_zh": "书写觉缺失",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学术语"
+  },
+  {
+    "item_code": "w_002266",
+    "content": "agraphobia",
+    "meaning_zh": "性侵恐惧症",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见心理学术语"
+  },
+  {
+    "item_code": "w_002273",
+    "content": "agree that ...",
+    "meaning_zh": "同意……；认为……属实",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型"
+  },
+  {
+    "item_code": "w_002276",
+    "content": "agree to one's plan",
+    "meaning_zh": "同意某人的计划",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_002277",
+    "content": "agree to one's suggestion",
+    "meaning_zh": "同意某人的建议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_002280",
+    "content": "agree with one's analysis",
+    "meaning_zh": "同意某人的分析",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_020567",
+    "content": "dictate our perception",
+    "meaning_zh": "支配我们的看法；影响我们的认知",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_020568",
+    "content": "dictate rave",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合异常"
+  },
+  {
+    "item_code": "w_020576",
+    "content": "dictionary view",
+    "meaning_zh": "字典视图",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_020580",
+    "content": "did exercises",
+    "meaning_zh": "做了练习；锻炼了",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_020581",
+    "content": "did not",
+    "meaning_zh": "没有；未",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持否定用法"
+  },
+  {
+    "item_code": "w_020582",
+    "content": "did they use to",
+    "meaning_zh": "他们过去常常……吗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑问句型片段"
+  },
+  {
+    "item_code": "w_020585",
+    "content": "didactic crouch indoctrinate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词表噪声"
+  },
+  {
+    "item_code": "w_020592",
+    "content": "didn't use to",
+    "meaning_zh": "过去不常；以前不",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持句型"
+  },
+  {
+    "item_code": "w_020594",
+    "content": "die a death",
+    "meaning_zh": "彻底失败；不了了之",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_020603",
+    "content": "die of fever",
+    "meaning_zh": "死于发烧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词搭配"
+  },
+  {
+    "item_code": "w_020607",
+    "content": "die-hard fan",
+    "meaning_zh": "铁杆粉丝；死忠粉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_020610",
+    "content": "diehard precipice affable",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词表噪声"
+  },
+  {
+    "item_code": "w_020617",
+    "content": "diet and health",
+    "meaning_zh": "饮食与健康",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "主题短语"
+  },
+  {
+    "item_code": "w_020618",
+    "content": "diet regimen",
+    "meaning_zh": "饮食方案；膳食计划",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见医学搭配"
+  },
+  {
+    "item_code": "w_020619",
+    "content": "diet tea",
+    "meaning_zh": "减肥茶",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商品表达"
+  },
+  {
+    "item_code": "w_020620",
+    "content": "diet unhealthy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "语序异常"
+  },
+  {
+    "item_code": "w_020622",
+    "content": "dietary expert",
+    "meaning_zh": "饮食专家；营养专家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_020624",
+    "content": "dietary problems",
+    "meaning_zh": "饮食问题；膳食问题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_020629",
+    "content": "diethyria",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_020631",
+    "content": "dieting tips",
+    "meaning_zh": "节食建议；减肥小贴士",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  }
+]

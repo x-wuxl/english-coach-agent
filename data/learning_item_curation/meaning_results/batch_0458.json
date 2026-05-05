@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_043996",
+    "content": "long-term patterns",
+    "meaning_zh": "长期模式；长期规律",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_044006",
+    "content": "longest-living",
+    "meaning_zh": "寿命最长的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_044007",
+    "content": "longest-reigning monarch",
+    "meaning_zh": "在位时间最长的君主",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见历史表达"
+  },
+  {
+    "item_code": "w_044009",
+    "content": "longevity and happiness",
+    "meaning_zh": "长寿与幸福",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "并列名词短语"
+  },
+  {
+    "item_code": "w_044022",
+    "content": "longitudinal wave energy",
+    "meaning_zh": "纵波能量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "物理技术术语"
+  },
+  {
+    "item_code": "w_044040",
+    "content": "look at sb. cross-eyed",
+    "meaning_zh": "斜眼看某人；不悦地看某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_044043",
+    "content": "look back at",
+    "meaning_zh": "回头看；回顾",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持回顾义"
+  },
+  {
+    "item_code": "w_044046",
+    "content": "look back on something",
+    "meaning_zh": "回顾某事；回忆某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_044050",
+    "content": "look closer",
+    "meaning_zh": "仔细看；靠近点看",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见口语表达"
+  },
+  {
+    "item_code": "w_044051",
+    "content": "look cool",
+    "meaning_zh": "看起来很酷",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础系表结构"
+  },
+  {
+    "item_code": "w_044052",
+    "content": "look cross-eyed at sb.",
+    "meaning_zh": "斜眼看某人；不悦地看某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_044053",
+    "content": "look cute",
+    "meaning_zh": "看起来可爱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础系表结构"
+  },
+  {
+    "item_code": "w_044055",
+    "content": "look different",
+    "meaning_zh": "看起来不同",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础系表结构"
+  },
+  {
+    "item_code": "w_044061",
+    "content": "look familiar",
+    "meaning_zh": "看起来熟悉；眼熟",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持眼熟义"
+  },
+  {
+    "item_code": "w_044062",
+    "content": "look far less like",
+    "meaning_zh": "看起来远不像",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "比较结构短语"
+  },
+  {
+    "item_code": "w_044069",
+    "content": "look forward to doing",
+    "meaning_zh": "期待做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "高频固定搭配"
+  },
+  {
+    "item_code": "w_044071",
+    "content": "look funny",
+    "meaning_zh": "看起来滑稽；看起来奇怪",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础系表结构"
+  },
+  {
+    "item_code": "w_044083",
+    "content": "look on at sth.",
+    "meaning_zh": "旁观某事；观看某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_044089",
+    "content": "look right through him",
+    "meaning_zh": "对他视而不见；仿佛没看见他",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_044092",
+    "content": "look so pretty",
+    "meaning_zh": "看起来很漂亮",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础系表结构"
+  }
+]

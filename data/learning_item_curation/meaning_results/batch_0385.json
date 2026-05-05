@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_036689",
+    "content": "iec",
+    "meaning_zh": "国际电工委员会",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机相关缩写"
+  },
+  {
+    "item_code": "w_036690",
+    "content": "ieee",
+    "meaning_zh": "电气与电子工程师协会",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术组织缩写"
+  },
+  {
+    "item_code": "w_036692",
+    "content": "ier",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写残片含义不明"
+  },
+  {
+    "item_code": "w_036701",
+    "content": "ify",
+    "meaning_zh": "使……化（后缀）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见构词后缀"
+  },
+  {
+    "item_code": "w_036718",
+    "content": "ignorance avenue",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_036720",
+    "content": "ignorant astronomy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_036723",
+    "content": "iii",
+    "meaning_zh": "三；第三（罗马数字）",
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "纯序数符号低价值"
+  },
+  {
+    "item_code": "w_036732",
+    "content": "ilius sedative boost",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声短语"
+  },
+  {
+    "item_code": "w_036735",
+    "content": "ill bread apparition coquette",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串无稳定含义"
+  },
+  {
+    "item_code": "w_036738",
+    "content": "ill in hospital",
+    "meaning_zh": "住院生病",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语整体含义"
+  },
+  {
+    "item_code": "w_036746",
+    "content": "ill-fitted clothes",
+    "meaning_zh": "不合身的衣服",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_036751",
+    "content": "ill-paying",
+    "meaning_zh": "报酬低的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_036760",
+    "content": "illegal ad",
+    "meaning_zh": "非法广告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律类常见搭配"
+  },
+  {
+    "item_code": "w_036761",
+    "content": "illegal ads",
+    "meaning_zh": "非法广告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复数搭配"
+  },
+  {
+    "item_code": "w_036762",
+    "content": "illegal bank",
+    "meaning_zh": "非法银行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "金融法律搭配"
+  },
+  {
+    "item_code": "w_036763",
+    "content": "illegal buildings",
+    "meaning_zh": "违法建筑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会话题搭配"
+  },
+  {
+    "item_code": "w_036764",
+    "content": "illegal charge",
+    "meaning_zh": "非法收费",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见法律搭配"
+  },
+  {
+    "item_code": "w_036767",
+    "content": "illegal food additive",
+    "meaning_zh": "非法食品添加剂",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "食品安全搭配"
+  },
+  {
+    "item_code": "w_036771",
+    "content": "illegal practice of medicine",
+    "meaning_zh": "非法行医",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定法律表达"
+  },
+  {
+    "item_code": "w_036774",
+    "content": "illegal wild animals transaction",
+    "meaning_zh": "非法野生动物交易",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略生硬但可理解"
+  }
+]

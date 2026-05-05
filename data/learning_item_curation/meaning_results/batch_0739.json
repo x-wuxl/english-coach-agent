@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_072816",
+    "content": "taxi-hailing app",
+    "meaning_zh": "打车软件；叫车应用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见出行应用短语"
+  },
+  {
+    "item_code": "w_072817",
+    "content": "taxi-hailing apps",
+    "meaning_zh": "打车软件；叫车应用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复数形式，含义明确"
+  },
+  {
+    "item_code": "w_072832",
+    "content": "tea and coffee facilities",
+    "meaning_zh": "茶和咖啡冲泡设施",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "酒店住宿常用表达"
+  },
+  {
+    "item_code": "w_072833",
+    "content": "tea art",
+    "meaning_zh": "茶艺",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定文化表达"
+  },
+  {
+    "item_code": "w_072844",
+    "content": "teach ... to do",
+    "meaning_zh": "教……做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_072848",
+    "content": "teacher's certificate or license",
+    "meaning_zh": "教师资格证；教师执照",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育类证书表达"
+  },
+  {
+    "item_code": "w_072852",
+    "content": "teacher's office",
+    "meaning_zh": "教师办公室",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "校园常用地点"
+  },
+  {
+    "item_code": "w_072856",
+    "content": "teachers' office",
+    "meaning_zh": "教师办公室",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "校园常用地点"
+  },
+  {
+    "item_code": "w_072857",
+    "content": "teachers' room",
+    "meaning_zh": "教师办公室；教师休息室",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "校园场所表达"
+  },
+  {
+    "item_code": "w_072864",
+    "content": "teaching facilities",
+    "meaning_zh": "教学设施",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育场景常用短语"
+  },
+  {
+    "item_code": "w_072865",
+    "content": "teaching faculty",
+    "meaning_zh": "教师队伍；教学人员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育机构常用表达"
+  },
+  {
+    "item_code": "w_072871",
+    "content": "teacup saucer",
+    "meaning_zh": "茶杯托盘；茶杯碟",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "物品搭配含义明确"
+  },
+  {
+    "item_code": "w_072881",
+    "content": "team selection",
+    "meaning_zh": "队员选拔；团队选择",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "团队场景常用短语"
+  },
+  {
+    "item_code": "w_072890",
+    "content": "teaming",
+    "meaning_zh": "合作；组队",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指联手合作"
+  },
+  {
+    "item_code": "w_072896",
+    "content": "teapot saucepan",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似无意义拼接"
+  },
+  {
+    "item_code": "w_072900",
+    "content": "tear ... away from",
+    "meaning_zh": "把……从……拉开；使……离开",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词短语"
+  },
+  {
+    "item_code": "w_072903",
+    "content": "tear away from",
+    "meaning_zh": "挣脱；忍痛离开",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词短语"
+  },
+  {
+    "item_code": "w_072914",
+    "content": "teardown",
+    "meaning_zh": "拆卸；拆解；拆除",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词含义"
+  },
+  {
+    "item_code": "w_072918",
+    "content": "teas",
+    "meaning_zh": "多杯茶；茶类",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指多杯茶"
+  },
+  {
+    "item_code": "w_072926",
+    "content": "teaspoon meal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似无意义拼接"
+  }
+]

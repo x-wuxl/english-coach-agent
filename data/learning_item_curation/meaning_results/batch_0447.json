@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_042731",
+    "content": "legal importer",
+    "meaning_zh": "合法进口商",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见法律商务搭配"
+  },
+  {
+    "item_code": "w_042732",
+    "content": "legal intact change",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_042733",
+    "content": "legal intensify",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词性搭配异常"
+  },
+  {
+    "item_code": "w_042735",
+    "content": "legal journalism",
+    "meaning_zh": "法律新闻；法律新闻学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解为领域术语"
+  },
+  {
+    "item_code": "w_042737",
+    "content": "legal learning",
+    "meaning_zh": "法律学习；法学学习",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义可判断"
+  },
+  {
+    "item_code": "w_042743",
+    "content": "legal property rights",
+    "meaning_zh": "合法财产权；法定产权",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见法律表达"
+  },
+  {
+    "item_code": "w_042765",
+    "content": "legible concert",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_042766",
+    "content": "legible dysphagia recrudes",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声组合"
+  },
+  {
+    "item_code": "w_042775",
+    "content": "legislation jelly bay drought",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声组合"
+  },
+  {
+    "item_code": "w_042777",
+    "content": "legislative approval",
+    "meaning_zh": "立法批准；议会批准",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政治法律搭配"
+  },
+  {
+    "item_code": "w_042778",
+    "content": "legislative committee",
+    "meaning_zh": "立法委员会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见机构名称"
+  },
+  {
+    "item_code": "w_042785",
+    "content": "legitimate courier",
+    "meaning_zh": "合法快递员；正规信使",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解但少见"
+  },
+  {
+    "item_code": "w_042786",
+    "content": "legitimate migrate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词性搭配异常"
+  },
+  {
+    "item_code": "w_042787",
+    "content": "legitimate nurture",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_042788",
+    "content": "legitimate purpose",
+    "meaning_zh": "合法目的；正当目的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见法律表达"
+  },
+  {
+    "item_code": "w_042797",
+    "content": "lehman",
+    "meaning_zh": "雷曼",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "多为专有名词或姓氏"
+  },
+  {
+    "item_code": "w_042805",
+    "content": "leisure circular",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_042806",
+    "content": "leisure facility",
+    "meaning_zh": "休闲设施",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活场景搭配"
+  },
+  {
+    "item_code": "w_042808",
+    "content": "leisure recreation",
+    "meaning_zh": "休闲娱乐；休闲活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见同义搭配"
+  },
+  {
+    "item_code": "w_042812",
+    "content": "lem",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写含义不明"
+  }
+]

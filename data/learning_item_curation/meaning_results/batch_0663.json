@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_065440",
+    "content": "sentiment district",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配，疑似噪声"
+  },
+  {
+    "item_code": "w_065458",
+    "content": "separate A from B",
+    "meaning_zh": "把A和B分开；区分A和B",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_065459",
+    "content": "separate exit",
+    "meaning_zh": "单独出口；独立出口",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_065460",
+    "content": "separate paycheck",
+    "meaning_zh": "单独的薪水支票；单独发放的工资",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解搭配"
+  },
+  {
+    "item_code": "w_065468",
+    "content": "separation hazard",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义不稳定，疑似噪声"
+  },
+  {
+    "item_code": "w_065478",
+    "content": "septet",
+    "meaning_zh": "七重奏；七人组",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见词典义"
+  },
+  {
+    "item_code": "w_065480",
+    "content": "septic aspirant",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合异常"
+  },
+  {
+    "item_code": "w_065481",
+    "content": "septic condemn",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合异常"
+  },
+  {
+    "item_code": "w_065491",
+    "content": "sequel syndrome",
+    "meaning_zh": "后遗症综合征",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学短语可推断"
+  },
+  {
+    "item_code": "w_065501",
+    "content": "sequester pry homage",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个词无合理搭配"
+  },
+  {
+    "item_code": "w_065506",
+    "content": "ser",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写含义不明确"
+  },
+  {
+    "item_code": "w_065517",
+    "content": "serene proselytize",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合异常"
+  },
+  {
+    "item_code": "w_065526",
+    "content": "serialization",
+    "meaning_zh": "序列化；连载",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_065530",
+    "content": "series connection of condensers",
+    "meaning_zh": "电容器串联",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "电学专业短语"
+  },
+  {
+    "item_code": "w_065535",
+    "content": "serious cancer",
+    "meaning_zh": "严重的癌症",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_065536",
+    "content": "serious consequence",
+    "meaning_zh": "严重后果",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_065537",
+    "content": "serious headache",
+    "meaning_zh": "严重头痛；严重的问题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见字面和引申义"
+  },
+  {
+    "item_code": "w_065539",
+    "content": "seriously injury",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "语法错误，疑似噪声"
+  },
+  {
+    "item_code": "w_065557",
+    "content": "serpentine deliberate partial",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个词无合理搭配"
+  },
+  {
+    "item_code": "w_065560",
+    "content": "serrate lamentable amble",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个词无合理搭配"
+  }
+]

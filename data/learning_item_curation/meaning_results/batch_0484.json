@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_046291",
+    "content": "meday",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_046296",
+    "content": "medi",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写残片"
+  },
+  {
+    "item_code": "w_046299",
+    "content": "media literacy skills",
+    "meaning_zh": "媒体素养技能",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教育表达"
+  },
+  {
+    "item_code": "w_046301",
+    "content": "media promotion",
+    "meaning_zh": "媒体推广；媒介宣传",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见营销表达"
+  },
+  {
+    "item_code": "w_046309",
+    "content": "median elevate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_046318",
+    "content": "mediate in",
+    "meaning_zh": "调解；调停",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_046325",
+    "content": "medical attention medicaid",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组拼接噪声"
+  },
+  {
+    "item_code": "w_046327",
+    "content": "medical books",
+    "meaning_zh": "医学书籍",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "含义直接明确"
+  },
+  {
+    "item_code": "w_046339",
+    "content": "medical level",
+    "meaning_zh": "医疗水平",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境少但可判断"
+  },
+  {
+    "item_code": "w_046340",
+    "content": "medical or compassionate reasons",
+    "meaning_zh": "医疗或特殊困难原因",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见正式表达"
+  },
+  {
+    "item_code": "w_046345",
+    "content": "medical reform",
+    "meaning_zh": "医疗改革",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会议题"
+  },
+  {
+    "item_code": "w_046355",
+    "content": "medicare patient appointment surgery",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组拼接噪声"
+  },
+  {
+    "item_code": "w_046358",
+    "content": "medication replace signature",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组拼接噪声"
+  },
+  {
+    "item_code": "w_046361",
+    "content": "medicinal twitch electrician",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组拼接噪声"
+  },
+  {
+    "item_code": "w_046364",
+    "content": "medicine industry",
+    "meaning_zh": "医药行业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见行业表达"
+  },
+  {
+    "item_code": "w_046365",
+    "content": "medicine markup",
+    "meaning_zh": "药品加价；药品利润加成",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专业搭配可判断"
+  },
+  {
+    "item_code": "w_046370",
+    "content": "medieval period",
+    "meaning_zh": "中世纪时期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见历史表达"
+  },
+  {
+    "item_code": "w_046373",
+    "content": "mediocre closet",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_046376",
+    "content": "meditate batch",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_046378",
+    "content": "meditation area",
+    "meaning_zh": "冥想区；静修区域",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见场所表达"
+  }
+]

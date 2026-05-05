@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_078843",
+    "content": "various legends",
+    "meaning_zh": "各种传说",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_078844",
+    "content": "various services and activities",
+    "meaning_zh": "各种服务和活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_078845",
+    "content": "various states",
+    "meaning_zh": "各种状态；不同州",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "无例句语义略泛"
+  },
+  {
+    "item_code": "w_078846",
+    "content": "various subjects",
+    "meaning_zh": "各门学科；各种主题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习表达"
+  },
+  {
+    "item_code": "w_078848",
+    "content": "various parts of China",
+    "meaning_zh": "中国各地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配含义明确"
+  },
+  {
+    "item_code": "w_078851",
+    "content": "varrix subtract",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声组合"
+  },
+  {
+    "item_code": "w_078852",
+    "content": "varse footage imagery",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_078858",
+    "content": "vary the volume",
+    "meaning_zh": "调节音量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_078873",
+    "content": "vase ashtray",
+    "meaning_zh": "花瓶式烟灰缸",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "器物名词组合"
+  },
+  {
+    "item_code": "w_078876",
+    "content": "vaseline retire",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合无合理义"
+  },
+  {
+    "item_code": "w_078890",
+    "content": "Vaspin",
+    "meaning_zh": "内脏脂肪组织来源的丝氨酸蛋白酶抑制剂",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "生物医学术语"
+  },
+  {
+    "item_code": "w_078894",
+    "content": "vast arrays of",
+    "meaning_zh": "大量的；大批的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见数量表达"
+  },
+  {
+    "item_code": "w_078901",
+    "content": "vault beseech serendipity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词堆砌"
+  },
+  {
+    "item_code": "w_078906",
+    "content": "vaunt prate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词组合"
+  },
+  {
+    "item_code": "w_078914",
+    "content": "vector roller diver",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "组合含义不明"
+  },
+  {
+    "item_code": "w_078923",
+    "content": "vegetable burger",
+    "meaning_zh": "蔬菜汉堡；素食汉堡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见食品名称"
+  },
+  {
+    "item_code": "w_078929",
+    "content": "vegetable salad",
+    "meaning_zh": "蔬菜沙拉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见食品名称"
+  },
+  {
+    "item_code": "w_078933",
+    "content": "vegetamacy",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似不存在词"
+  },
+  {
+    "item_code": "w_078940",
+    "content": "vegetative flee suspicion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词堆砌"
+  },
+  {
+    "item_code": "w_078950",
+    "content": "vehicle ride",
+    "meaning_zh": "乘车；车辆行程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解"
+  }
+]

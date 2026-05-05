@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_079815",
+    "content": "wake awake",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词形混杂"
+  },
+  {
+    "item_code": "w_079821",
+    "content": "waked",
+    "meaning_zh": "醒来；唤醒",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "wake的过去式"
+  },
+  {
+    "item_code": "w_079826",
+    "content": "wale",
+    "meaning_zh": "鞭痕；凸条纹",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见词典义"
+  },
+  {
+    "item_code": "w_079833",
+    "content": "walk back and forth",
+    "meaning_zh": "来回走动；踱步",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动作表达"
+  },
+  {
+    "item_code": "w_079838",
+    "content": "walk my dog",
+    "meaning_zh": "遛我的狗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句明确"
+  },
+  {
+    "item_code": "w_079844",
+    "content": "walk on stilts",
+    "meaning_zh": "踩高跷行走",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动作表达"
+  },
+  {
+    "item_code": "w_079848",
+    "content": "walk over to",
+    "meaning_zh": "走到……跟前",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语搭配"
+  },
+  {
+    "item_code": "w_079852",
+    "content": "walk to school",
+    "meaning_zh": "步行去上学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句明确"
+  },
+  {
+    "item_code": "w_079865",
+    "content": "walking hibernation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义不稳定"
+  },
+  {
+    "item_code": "w_079869",
+    "content": "walking the dog",
+    "meaning_zh": "遛狗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_079871",
+    "content": "walking wallets",
+    "meaning_zh": "移动钱包；有钱可花的人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "比喻表达"
+  },
+  {
+    "item_code": "w_079875",
+    "content": "walks of lifer",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_079882",
+    "content": "wall of kindness",
+    "meaning_zh": "爱心墙；善意墙",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "公益固定表达"
+  },
+  {
+    "item_code": "w_079894",
+    "content": "walnut strain",
+    "meaning_zh": "核桃品种；核桃菌株",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缺少具体语境"
+  },
+  {
+    "item_code": "w_079897",
+    "content": "Walter Cunningham",
+    "meaning_zh": "沃尔特·坎宁安",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人名"
+  },
+  {
+    "item_code": "w_079913",
+    "content": "want a pick-me-up",
+    "meaning_zh": "想要提神的东西",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "口语固定表达"
+  },
+  {
+    "item_code": "w_079914",
+    "content": "want a smoke",
+    "meaning_zh": "想抽支烟",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "口语固定表达"
+  },
+  {
+    "item_code": "w_079917",
+    "content": "want numb warmonger",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_079939",
+    "content": "ward off evil spirits",
+    "meaning_zh": "驱邪；避邪",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_079944",
+    "content": "wardrobe closet oven",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词语堆叠"
+  }
+]

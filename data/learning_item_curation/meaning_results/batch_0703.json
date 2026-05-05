@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_069243",
+    "content": "stand back of ...",
+    "meaning_zh": "支持；做……的后盾",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定搭配但较少见"
+  },
+  {
+    "item_code": "w_069253",
+    "content": "stand in a queue",
+    "meaning_zh": "排队等候",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_069259",
+    "content": "stand in one's path",
+    "meaning_zh": "挡住某人的路；阻碍某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见比喻表达"
+  },
+  {
+    "item_code": "w_069261",
+    "content": "stand in sb.'s way",
+    "meaning_zh": "妨碍某人；阻碍某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_069266",
+    "content": "stand on one foot",
+    "meaning_zh": "单脚站立",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础动作表达"
+  },
+  {
+    "item_code": "w_069268",
+    "content": "stand on one's own",
+    "meaning_zh": "独立自主；自立",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见习语"
+  },
+  {
+    "item_code": "w_069269",
+    "content": "stand on the sidelines",
+    "meaning_zh": "袖手旁观；置身事外",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见比喻用法"
+  },
+  {
+    "item_code": "w_069294",
+    "content": "standard data acquisition system",
+    "meaning_zh": "标准数据采集系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术术语短语"
+  },
+  {
+    "item_code": "w_069298",
+    "content": "standard of happiness",
+    "meaning_zh": "幸福标准",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_069300",
+    "content": "standard of teaching",
+    "meaning_zh": "教学水平；教学标准",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育场景短语"
+  },
+  {
+    "item_code": "w_069304",
+    "content": "standard suite",
+    "meaning_zh": "标准套房",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "酒店常用表达"
+  },
+  {
+    "item_code": "w_069305",
+    "content": "standard teaching",
+    "meaning_zh": "标准化教学；规范教学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配含义依语境"
+  },
+  {
+    "item_code": "w_069315",
+    "content": "standardized portion",
+    "meaning_zh": "标准化份量；标准份额",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见搭配需语境"
+  },
+  {
+    "item_code": "w_069324",
+    "content": "standing-only ticket",
+    "meaning_zh": "站票",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通票务表达"
+  },
+  {
+    "item_code": "w_069332",
+    "content": "stanstill",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似standstill拼写错误"
+  },
+  {
+    "item_code": "w_069339",
+    "content": "stapler cabin corporation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声短语"
+  },
+  {
+    "item_code": "w_069345",
+    "content": "star worship",
+    "meaning_zh": "追星；明星崇拜",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会文化表达"
+  },
+  {
+    "item_code": "w_069347",
+    "content": "star-rated hotel",
+    "meaning_zh": "星级酒店",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "酒店常用表达"
+  },
+  {
+    "item_code": "w_069348",
+    "content": "star-rated hotels",
+    "meaning_zh": "星级酒店",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复数名词短语"
+  },
+  {
+    "item_code": "w_069356",
+    "content": "stare off",
+    "meaning_zh": "凝视远方；出神地望着",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语需具体语境"
+  }
+]

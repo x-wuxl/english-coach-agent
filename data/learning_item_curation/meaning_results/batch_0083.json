@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_007115",
+    "content": "be consumed by",
+    "meaning_zh": "被……吞噬；全神贯注于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_007119",
+    "content": "be content to do",
+    "meaning_zh": "愿意做某事；满足于做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_007121",
+    "content": "be contented with",
+    "meaning_zh": "对……感到满足；对……满意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_007122",
+    "content": "be contented with sb.",
+    "meaning_zh": "对某人感到满意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "搭配含义明确"
+  },
+  {
+    "item_code": "w_007123",
+    "content": "be contented with sth.",
+    "meaning_zh": "对某事物感到满足；对某事物满意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "搭配含义明确"
+  },
+  {
+    "item_code": "w_007128",
+    "content": "be converted into",
+    "meaning_zh": "被转化为；被改造成",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_007144",
+    "content": "be critical to",
+    "meaning_zh": "对……至关重要",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_007145",
+    "content": "be criticized of",
+    "meaning_zh": "因……受到批评",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "搭配疑似错误"
+  },
+  {
+    "item_code": "w_007151",
+    "content": "be dazzled by",
+    "meaning_zh": "被……弄得眼花缭乱；被……迷住",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_007157",
+    "content": "be deemed as",
+    "meaning_zh": "被视为；被认为是",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解"
+  },
+  {
+    "item_code": "w_007159",
+    "content": "be defined by",
+    "meaning_zh": "由……定义；取决于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_007163",
+    "content": "be depleted of",
+    "meaning_zh": "被耗尽；缺乏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_007164",
+    "content": "be depressed about",
+    "meaning_zh": "因……感到沮丧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_007169",
+    "content": "be designed for ...",
+    "meaning_zh": "为……设计；适用于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_007171",
+    "content": "be designed to do",
+    "meaning_zh": "旨在做某事；被设计用来做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_007183",
+    "content": "be diligent in",
+    "meaning_zh": "勤于；在……方面勤奋",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_007188",
+    "content": "be discontent with",
+    "meaning_zh": "对……不满",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_007189",
+    "content": "be discriminated against",
+    "meaning_zh": "受到歧视",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_007192",
+    "content": "be displaced by",
+    "meaning_zh": "被……取代；被……迫使离开",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_007194",
+    "content": "be dissatisfied at",
+    "meaning_zh": "对……不满意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配较少见"
+  }
+]

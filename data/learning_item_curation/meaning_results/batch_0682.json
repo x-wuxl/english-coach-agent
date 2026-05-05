@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_067214",
+    "content": "slice sandwich flour",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无固定含义"
+  },
+  {
+    "item_code": "w_067215",
+    "content": "slice the bread",
+    "meaning_zh": "切面包",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_067221",
+    "content": "slide along",
+    "meaning_zh": "沿着滑动；滑行前进",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词"
+  },
+  {
+    "item_code": "w_067223",
+    "content": "slide doll",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_067233",
+    "content": "sliding friction force",
+    "meaning_zh": "滑动摩擦力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "物理术语"
+  },
+  {
+    "item_code": "w_067235",
+    "content": "slight apprehension",
+    "meaning_zh": "轻微的担忧；有点不安",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_067237",
+    "content": "slight problems",
+    "meaning_zh": "小问题；轻微问题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_067238",
+    "content": "slight reproduce",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配错误无可靠含义"
+  },
+  {
+    "item_code": "w_067239",
+    "content": "slight tiff",
+    "meaning_zh": "小争吵；小口角",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "可理解形容词搭配"
+  },
+  {
+    "item_code": "w_067243",
+    "content": "slim thin",
+    "meaning_zh": "苗条的；瘦的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "近义词组合"
+  },
+  {
+    "item_code": "w_067244",
+    "content": "slim toss",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_067246",
+    "content": "slime-based",
+    "meaning_zh": "以黏液为基础的；黏液基的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_067250",
+    "content": "sling appreciable",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合无固定含义"
+  },
+  {
+    "item_code": "w_067258",
+    "content": "slip courteous",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配错误无可靠含义"
+  },
+  {
+    "item_code": "w_067260",
+    "content": "slip from ... to",
+    "meaning_zh": "从……下降到；从……滑落到",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见变化表达"
+  },
+  {
+    "item_code": "w_067262",
+    "content": "slip in debt",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "应为slip into debt"
+  },
+  {
+    "item_code": "w_067264",
+    "content": "slip into debt",
+    "meaning_zh": "陷入债务；开始负债",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_067273",
+    "content": "slip sb. five",
+    "meaning_zh": "偷偷给某人五美元；塞给某人五块钱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "口语表达"
+  },
+  {
+    "item_code": "w_067280",
+    "content": "slipper meningitis condenser",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无固定含义"
+  },
+  {
+    "item_code": "w_067284",
+    "content": "slippery nomenclature murmur",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无固定含义"
+  }
+]

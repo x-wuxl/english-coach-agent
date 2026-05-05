@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_073760",
+    "content": "the hacking trial",
+    "meaning_zh": "黑客攻击案审判",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律新闻常见短语"
+  },
+  {
+    "item_code": "w_073762",
+    "content": "the haka",
+    "meaning_zh": "哈卡舞；毛利战舞",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文化专有表达"
+  },
+  {
+    "item_code": "w_073766",
+    "content": "the high court",
+    "meaning_zh": "高等法院",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "司法机构名称"
+  },
+  {
+    "item_code": "w_073769",
+    "content": "the highest",
+    "meaning_zh": "最高的；最高水平的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指最高级"
+  },
+  {
+    "item_code": "w_073775",
+    "content": "the housing sector",
+    "meaning_zh": "住房领域；房地产行业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济领域常用搭配"
+  },
+  {
+    "item_code": "w_073778",
+    "content": "the importation of terminology",
+    "meaning_zh": "术语的引入；术语借用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术语境搭配"
+  },
+  {
+    "item_code": "w_073779",
+    "content": "the Inca Empire",
+    "meaning_zh": "印加帝国",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "历史专有名词"
+  },
+  {
+    "item_code": "w_073783",
+    "content": "the inexorable decline",
+    "meaning_zh": "不可阻挡的衰退；不可逆转的衰落",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_073784",
+    "content": "the inner self",
+    "meaning_zh": "内在自我",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "心理语境常用语"
+  },
+  {
+    "item_code": "w_073785",
+    "content": "the inspection of",
+    "meaning_zh": "对……的检查；对……的视察",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "介词搭配明确"
+  },
+  {
+    "item_code": "w_073786",
+    "content": "the intangible assets",
+    "meaning_zh": "无形资产",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "财经术语"
+  },
+  {
+    "item_code": "w_073787",
+    "content": "the Interior Ministry",
+    "meaning_zh": "内政部",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政府机构名称"
+  },
+  {
+    "item_code": "w_073789",
+    "content": "the International Space Station",
+    "meaning_zh": "国际空间站",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "航天专有名词"
+  },
+  {
+    "item_code": "w_073791",
+    "content": "the Internet supervision",
+    "meaning_zh": "互联网监管；网络监督",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "社会议题搭配"
+  },
+  {
+    "item_code": "w_073792",
+    "content": "the Internet violence",
+    "meaning_zh": "网络暴力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "社会议题常用语"
+  },
+  {
+    "item_code": "w_073793",
+    "content": "the interplay between",
+    "meaning_zh": "……之间的相互作用；……之间的相互影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术搭配明确"
+  },
+  {
+    "item_code": "w_073794",
+    "content": "the invisible poor",
+    "meaning_zh": "隐形贫困人口",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "社会学表达"
+  },
+  {
+    "item_code": "w_073795",
+    "content": "the island of Crete",
+    "meaning_zh": "克里特岛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地名专有表达"
+  },
+  {
+    "item_code": "w_073796",
+    "content": "the Jet Propulsion Laboratory",
+    "meaning_zh": "喷气推进实验室",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "NASA机构名称"
+  },
+  {
+    "item_code": "w_073799",
+    "content": "the just-released report",
+    "meaning_zh": "刚发布的报告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "新闻语境短语"
+  }
+]

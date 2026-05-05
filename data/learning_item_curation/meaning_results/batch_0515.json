@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_049872",
+    "content": "nibble course",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_049875",
+    "content": "Nice meeting you.",
+    "meaning_zh": "很高兴认识你",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见见面表达"
+  },
+  {
+    "item_code": "w_049891",
+    "content": "Nicole",
+    "meaning_zh": "妮可；尼科尔",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见女子名"
+  },
+  {
+    "item_code": "w_049892",
+    "content": "Nicole Richie",
+    "meaning_zh": "妮可·里奇（美国艺人）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "名人专有名词"
+  },
+  {
+    "item_code": "w_049895",
+    "content": "nicotine withdrawal symptom",
+    "meaning_zh": "尼古丁戒断症状",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学健康搭配"
+  },
+  {
+    "item_code": "w_049898",
+    "content": "nictolopia reserve",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "拼写疑误且不成搭配"
+  },
+  {
+    "item_code": "w_049901",
+    "content": "niece discern",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无自然整体含义"
+  },
+  {
+    "item_code": "w_049909",
+    "content": "niggard edema disk",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似随机词串"
+  },
+  {
+    "item_code": "w_049912",
+    "content": "nigger-minstrel",
+    "meaning_zh": "黑人滑稽歌舞艺人（含冒犯性）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "历史贬义用语"
+  },
+  {
+    "item_code": "w_049921",
+    "content": "night fair",
+    "meaning_zh": "夜市；夜间集市",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解为夜间集市"
+  },
+  {
+    "item_code": "w_049922",
+    "content": "night intelligence",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常规搭配"
+  },
+  {
+    "item_code": "w_049926",
+    "content": "Night Safari",
+    "meaning_zh": "夜间野生动物园",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "景点名称或固定表达"
+  },
+  {
+    "item_code": "w_049933",
+    "content": "night university",
+    "meaning_zh": "夜大学；夜间大学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育类固定搭配"
+  },
+  {
+    "item_code": "w_049948",
+    "content": "nights",
+    "meaning_zh": "在夜间；夜晚；几夜",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持多义"
+  },
+  {
+    "item_code": "w_049951",
+    "content": "nighttime services",
+    "meaning_zh": "夜间服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见服务类搭配"
+  },
+  {
+    "item_code": "w_049953",
+    "content": "nightwalker ward",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_049969",
+    "content": "nine-year-old",
+    "meaning_zh": "九岁的孩子；九岁的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见年龄表达"
+  },
+  {
+    "item_code": "w_049982",
+    "content": "niosome",
+    "meaning_zh": "非离子表面活性剂囊泡",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "药剂学技术术语"
+  },
+  {
+    "item_code": "w_049984",
+    "content": "nip style dirge",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似随机词串"
+  },
+  {
+    "item_code": "w_049992",
+    "content": "nirvana rippled",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无自然整体含义"
+  }
+]

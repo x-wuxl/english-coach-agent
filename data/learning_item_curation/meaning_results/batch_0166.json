@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_015307",
+    "content": "come second to",
+    "meaning_zh": "次于；不如",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  },
+  {
+    "item_code": "w_015314",
+    "content": "come to a solution",
+    "meaning_zh": "找到解决办法；达成解决方案",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_015317",
+    "content": "come to anything",
+    "meaning_zh": "有结果；有成就",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "多用于否定句"
+  },
+  {
+    "item_code": "w_015319",
+    "content": "come to conclusion",
+    "meaning_zh": "得出结论",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缺少冠词但可理解"
+  },
+  {
+    "item_code": "w_015320",
+    "content": "come to do something",
+    "meaning_zh": "逐渐开始做某事；最终做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句式"
+  },
+  {
+    "item_code": "w_015333",
+    "content": "come to one's notice",
+    "meaning_zh": "被某人注意到",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_015334",
+    "content": "come to one's rescue",
+    "meaning_zh": "来救助某人；为某人解围",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_015339",
+    "content": "come to prominence",
+    "meaning_zh": "崭露头角；成名",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_015341",
+    "content": "come to sb.'s rescue",
+    "meaning_zh": "来救助某人；为某人解围",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_015348",
+    "content": "come to work",
+    "meaning_zh": "来上班；开始起作用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境可能多义"
+  },
+  {
+    "item_code": "w_015349",
+    "content": "come top",
+    "meaning_zh": "名列第一；获得第一名",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "英式常见表达"
+  },
+  {
+    "item_code": "w_015350",
+    "content": "come top in",
+    "meaning_zh": "在……中名列第一",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "英式常见表达"
+  },
+  {
+    "item_code": "w_015353",
+    "content": "come under scrutiny",
+    "meaning_zh": "受到审查；受到密切关注",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常见搭配"
+  },
+  {
+    "item_code": "w_015357",
+    "content": "come up from behind",
+    "meaning_zh": "从后面追上；后来居上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_015373",
+    "content": "comedy genre",
+    "meaning_zh": "喜剧类型；喜剧流派",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "影视分类术语"
+  },
+  {
+    "item_code": "w_015374",
+    "content": "comedy gloomy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声搭配"
+  },
+  {
+    "item_code": "w_015375",
+    "content": "comedy show",
+    "meaning_zh": "喜剧节目；喜剧表演",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_015378",
+    "content": "comes",
+    "meaning_zh": "来；到来；出现",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配三单形式"
+  },
+  {
+    "item_code": "w_015383",
+    "content": "comet organism",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不可靠"
+  },
+  {
+    "item_code": "w_015387",
+    "content": "comfort fund",
+    "meaning_zh": "慰问基金；救济基金",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专门搭配少见"
+  }
+]

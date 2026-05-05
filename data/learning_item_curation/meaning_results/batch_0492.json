@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_047382",
+    "content": "minor part",
+    "meaning_zh": "小角色；次要作用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指戏剧小角色"
+  },
+  {
+    "item_code": "w_047387",
+    "content": "minority council",
+    "meaning_zh": "少数族裔委员会；少数派委员会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见机构类搭配"
+  },
+  {
+    "item_code": "w_047388",
+    "content": "minority entry",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  },
+  {
+    "item_code": "w_047391",
+    "content": "minority people",
+    "meaning_zh": "少数民族；少数群体成员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见群体表达"
+  },
+  {
+    "item_code": "w_047396",
+    "content": "mint impecunious",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_047398",
+    "content": "minth",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_047399",
+    "content": "mints",
+    "meaning_zh": "薄荷糖；铸币厂；铸造硬币",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "mint的复数或动词"
+  },
+  {
+    "item_code": "w_047406",
+    "content": "minuscule mangle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_047409",
+    "content": "Minute Waltz",
+    "meaning_zh": "《一分钟圆舞曲》",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "音乐作品名"
+  },
+  {
+    "item_code": "w_047417",
+    "content": "mir",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义无法可靠判断"
+  },
+  {
+    "item_code": "w_047431",
+    "content": "mirth disarray",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_047444",
+    "content": "misapprehand",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_047456",
+    "content": "misc",
+    "meaning_zh": "杂项；其他",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "miscellaneous缩写"
+  },
+  {
+    "item_code": "w_047488",
+    "content": "miserable minor",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  },
+  {
+    "item_code": "w_047502",
+    "content": "misguide the consumers",
+    "meaning_zh": "误导消费者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商业表达"
+  },
+  {
+    "item_code": "w_047510",
+    "content": "misignation",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_047520",
+    "content": "mislead ... into doing",
+    "meaning_zh": "误导……去做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型搭配"
+  },
+  {
+    "item_code": "w_047521",
+    "content": "mislead consumers",
+    "meaning_zh": "误导消费者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商业表达"
+  },
+  {
+    "item_code": "w_047522",
+    "content": "mislead the consumers",
+    "meaning_zh": "误导消费者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商业表达"
+  },
+  {
+    "item_code": "w_047524",
+    "content": "misleading statement",
+    "meaning_zh": "误导性陈述",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见法律或写作表达"
+  }
+]

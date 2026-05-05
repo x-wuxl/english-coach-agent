@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_054165",
+    "content": "pattern of presentation",
+    "meaning_zh": "呈现方式；展示模式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_054174",
+    "content": "Paul Stoker",
+    "meaning_zh": "保罗·斯托克（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "人名，学习价值低"
+  },
+  {
+    "item_code": "w_054180",
+    "content": "pause to do",
+    "meaning_zh": "停下来去做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_054182",
+    "content": "pave ovary resistant",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无固定含义"
+  },
+  {
+    "item_code": "w_054183",
+    "content": "pave plank rebuild",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠噪声"
+  },
+  {
+    "item_code": "w_054188",
+    "content": "pavement sidewalk",
+    "meaning_zh": "人行道",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "近义词组合"
+  },
+  {
+    "item_code": "w_054199",
+    "content": "pay a heavy price",
+    "meaning_zh": "付出沉重代价",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_054200",
+    "content": "pay a mortgage",
+    "meaning_zh": "偿还抵押贷款；还房贷",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见金融搭配"
+  },
+  {
+    "item_code": "w_054202",
+    "content": "pay a price for",
+    "meaning_zh": "为……付出代价",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_054204",
+    "content": "pay and condition",
+    "meaning_zh": "薪酬和条件；待遇",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑似待遇搭配"
+  },
+  {
+    "item_code": "w_054207",
+    "content": "pay back the money",
+    "meaning_zh": "还钱；偿还款项",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_054210",
+    "content": "pay compliments to sb.",
+    "meaning_zh": "称赞某人；向某人致意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_054212",
+    "content": "pay deal",
+    "meaning_zh": "薪酬协议；加薪协议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见职场表达"
+  },
+  {
+    "item_code": "w_054217",
+    "content": "pay for admission",
+    "meaning_zh": "支付入场费；付费入学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境略依赖"
+  },
+  {
+    "item_code": "w_054218",
+    "content": "pay for contract",
+    "meaning_zh": "为合同付款",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解"
+  },
+  {
+    "item_code": "w_054219",
+    "content": "pay for music downloads",
+    "meaning_zh": "为音乐下载付费",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "含义直接明确"
+  },
+  {
+    "item_code": "w_054222",
+    "content": "pay increase",
+    "meaning_zh": "加薪；工资增长",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_054223",
+    "content": "pay less attention to",
+    "meaning_zh": "较少关注；不太注意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_054224",
+    "content": "pay little attention to",
+    "meaning_zh": "很少关注；几乎不注意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_054225",
+    "content": "pay money for sth.",
+    "meaning_zh": "花钱买某物；为某物付款",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础动词搭配"
+  }
+]

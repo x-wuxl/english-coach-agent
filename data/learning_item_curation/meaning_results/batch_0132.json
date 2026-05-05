@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_011626",
+    "content": "caesium fountain atomic clock",
+    "meaning_zh": "铯喷泉原子钟",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专业术语搭配"
+  },
+  {
+    "item_code": "w_011627",
+    "content": "cafa",
+    "meaning_zh": "中央美术学院（缩写）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见院校缩写"
+  },
+  {
+    "item_code": "w_011629",
+    "content": "cafe restaurant",
+    "meaning_zh": "咖啡餐厅；咖啡馆餐厅",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见场所搭配"
+  },
+  {
+    "item_code": "w_011632",
+    "content": "caffeine capsule disinfectant dispense",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个词拼接噪声"
+  },
+  {
+    "item_code": "w_011636",
+    "content": "cage of regulations",
+    "meaning_zh": "规章制度的束缚",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "比喻性短语"
+  },
+  {
+    "item_code": "w_011646",
+    "content": "cajol",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_011652",
+    "content": "CAL",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写含义不明确"
+  },
+  {
+    "item_code": "w_011659",
+    "content": "calamity accommodate fascinate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个词拼接噪声"
+  },
+  {
+    "item_code": "w_011680",
+    "content": "calculate longitude",
+    "meaning_zh": "计算经度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_011682",
+    "content": "calculate the budget",
+    "meaning_zh": "计算预算",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_011690",
+    "content": "calculator brochure",
+    "meaning_zh": "计算器宣传册；计算器说明册",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "名词搭配"
+  },
+  {
+    "item_code": "w_011693",
+    "content": "calculus course",
+    "meaning_zh": "微积分课程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "课程名称搭配"
+  },
+  {
+    "item_code": "w_011715",
+    "content": "caliph",
+    "meaning_zh": "哈里发",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "历史宗教称谓"
+  },
+  {
+    "item_code": "w_011720",
+    "content": "call ... friend",
+    "meaning_zh": "称……为朋友",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "省略式表达"
+  },
+  {
+    "item_code": "w_011728",
+    "content": "call a place up",
+    "meaning_zh": "给某地打电话",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "电话表达短语"
+  },
+  {
+    "item_code": "w_011730",
+    "content": "call about sth.",
+    "meaning_zh": "打电话询问某事；为某事打电话",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见电话表达"
+  },
+  {
+    "item_code": "w_011737",
+    "content": "call direct",
+    "meaning_zh": "直接拨打电话",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "电话用语"
+  },
+  {
+    "item_code": "w_011743",
+    "content": "call for one's attention",
+    "meaning_zh": "引起某人的注意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_011746",
+    "content": "call graph",
+    "meaning_zh": "调用图",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_011751",
+    "content": "call my friend",
+    "meaning_zh": "给我的朋友打电话",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句确认含义"
+  }
+]

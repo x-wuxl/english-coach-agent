@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_027446",
+    "content": "fertility rite",
+    "meaning_zh": "生育仪式；祈求丰产的仪式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定文化人类学表达"
+  },
+  {
+    "item_code": "w_027449",
+    "content": "fertilize waffle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配无可靠含义"
+  },
+  {
+    "item_code": "w_027453",
+    "content": "fertilizer expert",
+    "meaning_zh": "肥料专家；化肥专家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_027457",
+    "content": "fervent advocacy",
+    "meaning_zh": "热烈倡导；热情支持",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_027459",
+    "content": "fervet",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_027460",
+    "content": "fervett legacy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_027469",
+    "content": "festival decoration",
+    "meaning_zh": "节日装饰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_027471",
+    "content": "festive lantern",
+    "meaning_zh": "节日灯笼；喜庆灯饰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_027478",
+    "content": "fetch lay lower",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌无含义"
+  },
+  {
+    "item_code": "w_027480",
+    "content": "fetched",
+    "meaning_zh": "取来；接来",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句表示接某人"
+  },
+  {
+    "item_code": "w_027489",
+    "content": "fetotoxin",
+    "meaning_zh": "胎儿毒素；胎儿毒性物质",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学技术术语"
+  },
+  {
+    "item_code": "w_027494",
+    "content": "feudal autocracy",
+    "meaning_zh": "封建专制；封建专制制度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治历史常用短语"
+  },
+  {
+    "item_code": "w_027501",
+    "content": "feverish world",
+    "meaning_zh": "狂热躁动的世界",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "比喻性形容词搭配"
+  },
+  {
+    "item_code": "w_027509",
+    "content": "fiancé",
+    "meaning_zh": "未婚夫",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见外来词"
+  },
+  {
+    "item_code": "w_027510",
+    "content": "fiancée",
+    "meaning_zh": "未婚妻",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见外来词"
+  },
+  {
+    "item_code": "w_027511",
+    "content": "fiancéé",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_027513",
+    "content": "fiasco adulate amicable",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌无含义"
+  },
+  {
+    "item_code": "w_027523",
+    "content": "fibre-digesting organ",
+    "meaning_zh": "消化纤维的器官",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生物学描述短语"
+  },
+  {
+    "item_code": "w_027530",
+    "content": "fibrillation hike",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配无可靠含义"
+  },
+  {
+    "item_code": "w_027550",
+    "content": "fibrosis mouse",
+    "meaning_zh": "纤维化小鼠",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学实验模型短语"
+  }
+]

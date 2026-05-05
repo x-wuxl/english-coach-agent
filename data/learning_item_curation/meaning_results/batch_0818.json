@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_080891",
+    "content": "whole pattern",
+    "meaning_zh": "整体模式；完整图案",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见搭配，需看语境"
+  },
+  {
+    "item_code": "w_080899",
+    "content": "wholesale currency",
+    "meaning_zh": "大额货币交易；批发货币",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "金融类搭配"
+  },
+  {
+    "item_code": "w_080902",
+    "content": "wholesale industry",
+    "meaning_zh": "批发行业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见行业术语"
+  },
+  {
+    "item_code": "w_080904",
+    "content": "wholesales dealer",
+    "meaning_zh": "批发商",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为wholesale dealer"
+  },
+  {
+    "item_code": "w_080940",
+    "content": "wide dearth of integrity",
+    "meaning_zh": "广泛缺乏诚信",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "low",
+    "reason": "表达不自然"
+  },
+  {
+    "item_code": "w_080943",
+    "content": "wide range of approaches",
+    "meaning_zh": "多种方法；广泛的方法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_080947",
+    "content": "wide-angle video camera",
+    "meaning_zh": "广角摄像机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见设备名称"
+  },
+  {
+    "item_code": "w_080955",
+    "content": "widen sights",
+    "meaning_zh": "拓宽视野",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配略不自然"
+  },
+  {
+    "item_code": "w_080956",
+    "content": "widen their horizon",
+    "meaning_zh": "拓宽他们的视野",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达变体"
+  },
+  {
+    "item_code": "w_080957",
+    "content": "widen their sights",
+    "meaning_zh": "拓宽他们的视野",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可按整体理解"
+  },
+  {
+    "item_code": "w_080963",
+    "content": "widow widower",
+    "meaning_zh": "寡妇；鳏夫",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "并列词条"
+  },
+  {
+    "item_code": "w_080966",
+    "content": "widower taint mist",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌噪声"
+  },
+  {
+    "item_code": "w_080984",
+    "content": "Wild Goose Pagoda",
+    "meaning_zh": "大雁塔",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有地名"
+  },
+  {
+    "item_code": "w_080985",
+    "content": "Wild Man of Shennongjia",
+    "meaning_zh": "神农架野人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有称谓"
+  },
+  {
+    "item_code": "w_080990",
+    "content": "wildcard",
+    "meaning_zh": "通配符；外卡",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_081000",
+    "content": "wildlife habitat",
+    "meaning_zh": "野生动物栖息地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态常见搭配"
+  },
+  {
+    "item_code": "w_081003",
+    "content": "wildlife species",
+    "meaning_zh": "野生动物物种",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态常见搭配"
+  },
+  {
+    "item_code": "w_081009",
+    "content": "wiley",
+    "meaning_zh": "威利；Wiley出版社",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "多为专名或品牌"
+  },
+  {
+    "item_code": "w_081010",
+    "content": "wiley clasp extemporize",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌噪声"
+  },
+  {
+    "item_code": "w_081013",
+    "content": "wilful visid",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含拼写错误噪声"
+  }
+]

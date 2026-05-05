@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_001616",
+    "content": "address the difficulty",
+    "meaning_zh": "解决困难；应对难题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_001617",
+    "content": "address the letter",
+    "meaning_zh": "在信上写地址",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "address作动词"
+  },
+  {
+    "item_code": "w_001623",
+    "content": "ade",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写或残片含义不明"
+  },
+  {
+    "item_code": "w_001647",
+    "content": "adept driver",
+    "meaning_zh": "熟练的司机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容词搭配明确"
+  },
+  {
+    "item_code": "w_001656",
+    "content": "adhere tangent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常含义不明"
+  },
+  {
+    "item_code": "w_001658",
+    "content": "adhere to the rule",
+    "meaning_zh": "遵守规则",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配adhere to"
+  },
+  {
+    "item_code": "w_001659",
+    "content": "adhere to the tradition",
+    "meaning_zh": "遵循传统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配adhere to"
+  },
+  {
+    "item_code": "w_001697",
+    "content": "adjust authorize",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语并列异常"
+  },
+  {
+    "item_code": "w_001698",
+    "content": "adjust oneself",
+    "meaning_zh": "调整自己；适应",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "反身动词搭配"
+  },
+  {
+    "item_code": "w_001700",
+    "content": "adjust speed and strategy",
+    "meaning_zh": "调整速度和策略",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动宾结构明确"
+  },
+  {
+    "item_code": "w_001702",
+    "content": "adjust to doing sth.",
+    "meaning_zh": "适应做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型"
+  },
+  {
+    "item_code": "w_001703",
+    "content": "adjust to nature",
+    "meaning_zh": "适应自然",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "adjust to搭配"
+  },
+  {
+    "item_code": "w_001718",
+    "content": "administration departments",
+    "meaning_zh": "行政部门",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见机构名称"
+  },
+  {
+    "item_code": "w_001720",
+    "content": "administration officer",
+    "meaning_zh": "行政人员；行政官员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职位名称"
+  },
+  {
+    "item_code": "w_001721",
+    "content": "administration party",
+    "meaning_zh": "执政党",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "政治语境搭配"
+  },
+  {
+    "item_code": "w_001725",
+    "content": "administrative deputy president",
+    "meaning_zh": "行政副校长；行政副总裁",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "职务名称依语境"
+  },
+  {
+    "item_code": "w_001729",
+    "content": "administrative transparency",
+    "meaning_zh": "行政透明度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "治理常用表达"
+  },
+  {
+    "item_code": "w_001738",
+    "content": "admire the full moon",
+    "meaning_zh": "赏月；欣赏满月",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动宾搭配明确"
+  },
+  {
+    "item_code": "w_001739",
+    "content": "admire the view",
+    "meaning_zh": "欣赏景色",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动宾搭配明确"
+  },
+  {
+    "item_code": "w_001740",
+    "content": "admire trust",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常含义不明"
+  }
+]

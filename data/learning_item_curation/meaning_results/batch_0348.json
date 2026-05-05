@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_033032",
+    "content": "haberdashery",
+    "meaning_zh": "男装用品；缝纫用品店",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见词义明确"
+  },
+  {
+    "item_code": "w_033039",
+    "content": "habitable city",
+    "meaning_zh": "宜居城市",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_033040",
+    "content": "habitable space",
+    "meaning_zh": "可居住空间；宜居空间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_033045",
+    "content": "habitation hallway",
+    "meaning_zh": "住宅走廊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配较少见"
+  },
+  {
+    "item_code": "w_033047",
+    "content": "habitual thought",
+    "meaning_zh": "习惯性思维；惯性思维",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "搭配含义明确"
+  },
+  {
+    "item_code": "w_033053",
+    "content": "habitué",
+    "meaning_zh": "常客；经常出入者",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见词义明确"
+  },
+  {
+    "item_code": "w_033064",
+    "content": "hackneed",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_033071",
+    "content": "had an affectionate nickname",
+    "meaning_zh": "有一个亲切的昵称",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_033077",
+    "content": "had breakfast",
+    "meaning_zh": "吃过早餐；吃了早饭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持"
+  },
+  {
+    "item_code": "w_033078",
+    "content": "had fun with friends",
+    "meaning_zh": "和朋友玩得开心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_033099",
+    "content": "haggle acquire",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠不自然"
+  },
+  {
+    "item_code": "w_033108",
+    "content": "hail from MIT's",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "短语残缺"
+  },
+  {
+    "item_code": "w_033112",
+    "content": "hail them as Americans",
+    "meaning_zh": "称他们为美国人；把他们誉为美国人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "需依赖上下文"
+  },
+  {
+    "item_code": "w_033116",
+    "content": "hair band",
+    "meaning_zh": "发带",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础常用词"
+  },
+  {
+    "item_code": "w_033121",
+    "content": "hair dryer hairline mascara",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个词堆叠"
+  },
+  {
+    "item_code": "w_033130",
+    "content": "haircut hairdo",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个词堆叠"
+  },
+  {
+    "item_code": "w_033139",
+    "content": "hairlip",
+    "meaning_zh": "唇裂；兔唇",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "词义明确但旧称"
+  },
+  {
+    "item_code": "w_033143",
+    "content": "hairsey",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_033152",
+    "content": "haleontology",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_033157",
+    "content": "half of",
+    "meaning_zh": "一半的；其中一半",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持"
+  }
+]

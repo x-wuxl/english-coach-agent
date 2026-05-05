@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_045887",
+    "content": "Maryann Jones",
+    "meaning_zh": "玛丽安·琼斯（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "专有名词学习价值低"
+  },
+  {
+    "item_code": "w_045893",
+    "content": "masculine monitor",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无法判断"
+  },
+  {
+    "item_code": "w_045898",
+    "content": "mash sauce",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无法判断"
+  },
+  {
+    "item_code": "w_045903",
+    "content": "mask the fact",
+    "meaning_zh": "掩盖事实",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_045915",
+    "content": "masquerade pleat",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无法判断"
+  },
+  {
+    "item_code": "w_045917",
+    "content": "mass affluent class",
+    "meaning_zh": "大众富裕阶层",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会经济术语"
+  },
+  {
+    "item_code": "w_045921",
+    "content": "mass demonstration",
+    "meaning_zh": "大规模示威；群众游行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_045922",
+    "content": "mass entrepreneurship",
+    "meaning_zh": "大众创业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政策经济表达"
+  },
+  {
+    "item_code": "w_045923",
+    "content": "mass evacuation",
+    "meaning_zh": "大规模疏散；大规模撤离",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见灾害应急表达"
+  },
+  {
+    "item_code": "w_045933",
+    "content": "mass protest",
+    "meaning_zh": "大规模抗议；群众抗议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政治社会表达"
+  },
+  {
+    "item_code": "w_045936",
+    "content": "mass texting",
+    "meaning_zh": "群发短信；批量发短信",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见通信表达"
+  },
+  {
+    "item_code": "w_045938",
+    "content": "mass transport system",
+    "meaning_zh": "公共交通系统；大众运输系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见交通术语"
+  },
+  {
+    "item_code": "w_045942",
+    "content": "mass-market labels",
+    "meaning_zh": "大众市场品牌；面向大众的品牌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商业时尚表达"
+  },
+  {
+    "item_code": "w_045945",
+    "content": "mass-produced clothing",
+    "meaning_zh": "批量生产的服装；大规模生产的服装",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见制造业表达"
+  },
+  {
+    "item_code": "w_045952",
+    "content": "massage husk",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无法判断"
+  },
+  {
+    "item_code": "w_045953",
+    "content": "massage probe rehabilitate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串噪声无法判断"
+  },
+  {
+    "item_code": "w_045954",
+    "content": "massage service",
+    "meaning_zh": "按摩服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见服务类表达"
+  },
+  {
+    "item_code": "w_045961",
+    "content": "massive amounts of sth.",
+    "meaning_zh": "大量的某物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见数量表达"
+  },
+  {
+    "item_code": "w_045962",
+    "content": "massive attention",
+    "meaning_zh": "广泛关注；大量关注",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解但不典型"
+  },
+  {
+    "item_code": "w_045963",
+    "content": "massive deforestation",
+    "meaning_zh": "大规模森林砍伐；严重毁林",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见环保议题表达"
+  }
+]

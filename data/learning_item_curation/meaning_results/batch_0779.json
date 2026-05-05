@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_075911",
+    "content": "transcend infiltrate horde",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组噪声无法成义"
+  },
+  {
+    "item_code": "w_075912",
+    "content": "transcend over temporal limitations",
+    "meaning_zh": "超越时间限制",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按整体短语理解"
+  },
+  {
+    "item_code": "w_075922",
+    "content": "transcript mystery mesh",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组噪声无法成义"
+  },
+  {
+    "item_code": "w_075936",
+    "content": "transfer correspondence",
+    "meaning_zh": "转寄信件；转交通信",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配含义可判断"
+  },
+  {
+    "item_code": "w_075955",
+    "content": "transform A into B",
+    "meaning_zh": "把A转变为B",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_075979",
+    "content": "transient discontent",
+    "meaning_zh": "暂时的不满",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "搭配含义明确"
+  },
+  {
+    "item_code": "w_075981",
+    "content": "transigent",
+    "meaning_zh": "愿意妥协的；让步的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见词但含义明确"
+  },
+  {
+    "item_code": "w_075984",
+    "content": "transistor pap",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组噪声无法成义"
+  },
+  {
+    "item_code": "w_075986",
+    "content": "transit ads",
+    "meaning_zh": "公共交通广告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见广告搭配"
+  },
+  {
+    "item_code": "w_075989",
+    "content": "transit teamwork",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_075996",
+    "content": "transitivity",
+    "meaning_zh": "传递性",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_075999",
+    "content": "transitory flyer",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_076025",
+    "content": "transmits",
+    "meaning_zh": "传送；传播；发射",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词变形"
+  },
+  {
+    "item_code": "w_076028",
+    "content": "transmitting and receiving instruments",
+    "meaning_zh": "收发设备；发射和接收仪器",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术搭配明确"
+  },
+  {
+    "item_code": "w_076035",
+    "content": "transnational cooperation",
+    "meaning_zh": "跨国合作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_076043",
+    "content": "transparent dynamics organelle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组噪声无法成义"
+  },
+  {
+    "item_code": "w_076044",
+    "content": "transparent sanction",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_076051",
+    "content": "transplant into",
+    "meaning_zh": "移植到；移入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_076057",
+    "content": "transport information",
+    "meaning_zh": "交通信息；运输信息",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "雅思常见场景"
+  },
+  {
+    "item_code": "w_076060",
+    "content": "transport tool",
+    "meaning_zh": "交通工具；运输工具",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  }
+]

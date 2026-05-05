@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_044955",
+    "content": "make a human pyramid",
+    "meaning_zh": "搭人塔；叠罗汉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动作短语"
+  },
+  {
+    "item_code": "w_044965",
+    "content": "make a model plane",
+    "meaning_zh": "制作飞机模型",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "小学常见搭配"
+  },
+  {
+    "item_code": "w_044968",
+    "content": "make a nominal charge",
+    "meaning_zh": "收取象征性费用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见费用搭配"
+  },
+  {
+    "item_code": "w_044970",
+    "content": "make a pact",
+    "meaning_zh": "达成协议；订立契约",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动宾搭配"
+  },
+  {
+    "item_code": "w_044975",
+    "content": "make a play",
+    "meaning_zh": "采取行动；设法争取",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缺少具体语境"
+  },
+  {
+    "item_code": "w_044977",
+    "content": "make a point about",
+    "meaning_zh": "就……提出观点；说明……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_044979",
+    "content": "make a positive difference",
+    "meaning_zh": "产生积极影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_044983",
+    "content": "make a provisional booking",
+    "meaning_zh": "暂时预订；临时预订",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅行预订表达"
+  },
+  {
+    "item_code": "w_044984",
+    "content": "make a quick buck",
+    "meaning_zh": "赚快钱；轻松赚钱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语表达"
+  },
+  {
+    "item_code": "w_044985",
+    "content": "make a quick getaway",
+    "meaning_zh": "迅速逃离；匆忙离开",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见逃离搭配"
+  },
+  {
+    "item_code": "w_044987",
+    "content": "make a raid on",
+    "meaning_zh": "对……进行突袭；突击搜查",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定军事警务搭配"
+  },
+  {
+    "item_code": "w_044989",
+    "content": "make a recovery from",
+    "meaning_zh": "从……中恢复；康复",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见恢复搭配"
+  },
+  {
+    "item_code": "w_044990",
+    "content": "make a reference to",
+    "meaning_zh": "提及……；参考……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常见表达"
+  },
+  {
+    "item_code": "w_044994",
+    "content": "make a restriction",
+    "meaning_zh": "作出限制；施加限制",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配不够自然"
+  },
+  {
+    "item_code": "w_044998",
+    "content": "make a sentence",
+    "meaning_zh": "造句",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "小学英语常见"
+  },
+  {
+    "item_code": "w_045000",
+    "content": "make a sightseeing tour",
+    "meaning_zh": "进行观光游览",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配较少见"
+  },
+  {
+    "item_code": "w_045005",
+    "content": "make a stab at",
+    "meaning_zh": "尝试做……；试着回答",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语表达"
+  },
+  {
+    "item_code": "w_045010",
+    "content": "make a top priority",
+    "meaning_zh": "将……列为最优先事项",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见优先级表达"
+  },
+  {
+    "item_code": "w_045011",
+    "content": "make a trade",
+    "meaning_zh": "进行交易；做买卖",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商业常见搭配"
+  },
+  {
+    "item_code": "w_045012",
+    "content": "make a tribute to",
+    "meaning_zh": "向……致敬；赞颂……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定致敬表达"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_080277",
+    "content": "wayne taper",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_080279",
+    "content": "waystral",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_080281",
+    "content": "wayward doze bridle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_080285",
+    "content": "we decide diffuse habitation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然表达"
+  },
+  {
+    "item_code": "w_080286",
+    "content": "we will",
+    "meaning_zh": "我们将会；我们会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句语义明确"
+  },
+  {
+    "item_code": "w_080291",
+    "content": "We-Media",
+    "meaning_zh": "自媒体",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见媒体术语"
+  },
+  {
+    "item_code": "w_080300",
+    "content": "weak reference",
+    "meaning_zh": "弱引用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_080301",
+    "content": "weak weakness",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然搭配"
+  },
+  {
+    "item_code": "w_080304",
+    "content": "weakend",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_080312",
+    "content": "weakness of will",
+    "meaning_zh": "意志薄弱；自制力不足",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见哲学表达"
+  },
+  {
+    "item_code": "w_080317",
+    "content": "wealth divide",
+    "meaning_zh": "贫富差距；财富鸿沟",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会议题"
+  },
+  {
+    "item_code": "w_080318",
+    "content": "wealth investment product",
+    "meaning_zh": "理财产品；财富投资产品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "金融搭配可判断"
+  },
+  {
+    "item_code": "w_080320",
+    "content": "wealthy aristocratic families",
+    "meaning_zh": "富有的贵族家庭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "词组含义明确"
+  },
+  {
+    "item_code": "w_080321",
+    "content": "wealthy prince",
+    "meaning_zh": "富有的王子",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "词组含义明确"
+  },
+  {
+    "item_code": "w_080326",
+    "content": "wear a suit",
+    "meaning_zh": "穿西装；穿套装",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_080327",
+    "content": "wear a white gown",
+    "meaning_zh": "穿白色长袍；穿白色礼服",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "词组含义明确"
+  },
+  {
+    "item_code": "w_080334",
+    "content": "wear one's learning lightly",
+    "meaning_zh": "有学问却不炫耀；学识渊博而谦逊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_080335",
+    "content": "wear out your welcome",
+    "meaning_zh": "逗留过久而不再受欢迎",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语"
+  },
+  {
+    "item_code": "w_080337",
+    "content": "wear their learning lightly",
+    "meaning_zh": "有学问却不炫耀；学识渊博而谦逊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达变体"
+  },
+  {
+    "item_code": "w_080348",
+    "content": "wears",
+    "meaning_zh": "穿着；戴着；磨损",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句语义明确"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_052913",
+    "content": "overall health-care spending",
+    "meaning_zh": "总体医疗保健支出",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_052921",
+    "content": "overbearing a vowel",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_052941",
+    "content": "overcome difficulty",
+    "meaning_zh": "克服困难",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_052942",
+    "content": "overcome the problem",
+    "meaning_zh": "解决问题；克服问题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_052962",
+    "content": "overdraft benefit",
+    "meaning_zh": "透支优惠；透支权益",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "银行场景搭配"
+  },
+  {
+    "item_code": "w_052964",
+    "content": "overdraw allowance",
+    "meaning_zh": "透支额度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "近似银行搭配"
+  },
+  {
+    "item_code": "w_052969",
+    "content": "overduct",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "罕见疑似噪声"
+  },
+  {
+    "item_code": "w_052971",
+    "content": "overdue books",
+    "meaning_zh": "逾期未还的书",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "图书馆常见表达"
+  },
+  {
+    "item_code": "w_052972",
+    "content": "overdue input",
+    "meaning_zh": "逾期提交的输入内容",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义可由搭配判断"
+  },
+  {
+    "item_code": "w_052980",
+    "content": "overestimate difficulties",
+    "meaning_zh": "高估困难",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_053008",
+    "content": "overhand smash",
+    "meaning_zh": "高手扣杀；上手扣球",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "体育术语搭配"
+  },
+  {
+    "item_code": "w_053029",
+    "content": "overjoyed at sth.",
+    "meaning_zh": "因某事欣喜若狂",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定形容词搭配"
+  },
+  {
+    "item_code": "w_053033",
+    "content": "overland Silk Road",
+    "meaning_zh": "陆上丝绸之路",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "历史地理专名"
+  },
+  {
+    "item_code": "w_053035",
+    "content": "overlap the cut",
+    "meaning_zh": "使切口重叠",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按搭配可判断"
+  },
+  {
+    "item_code": "w_053037",
+    "content": "overlapping project",
+    "meaning_zh": "重叠项目；交叉项目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见项目描述"
+  },
+  {
+    "item_code": "w_053052",
+    "content": "overnight mail",
+    "meaning_zh": "隔夜邮件；次日达邮件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "邮寄服务常见表达"
+  },
+  {
+    "item_code": "w_053053",
+    "content": "overnight package",
+    "meaning_zh": "隔夜包裹；次日达包裹",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "快递场景常见表达"
+  },
+  {
+    "item_code": "w_053081",
+    "content": "overridden",
+    "meaning_zh": "被重写的；被覆盖的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_053084",
+    "content": "overriding descriptor",
+    "meaning_zh": "覆盖型描述符",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程术语"
+  },
+  {
+    "item_code": "w_053093",
+    "content": "overseas NGOs",
+    "meaning_zh": "海外非政府组织",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政治社会表达"
+  }
+]

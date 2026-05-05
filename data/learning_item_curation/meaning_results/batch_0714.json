@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_070416",
+    "content": "Student Counselling Centre",
+    "meaning_zh": "学生咨询中心；学生心理辅导中心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "校园服务机构"
+  },
+  {
+    "item_code": "w_070420",
+    "content": "student leader",
+    "meaning_zh": "学生领袖；学生干部",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见校园称谓"
+  },
+  {
+    "item_code": "w_070423",
+    "content": "student orientation",
+    "meaning_zh": "新生入学培训；新生导向活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "留学常见活动"
+  },
+  {
+    "item_code": "w_070424",
+    "content": "student pool",
+    "meaning_zh": "学生群体；生源池",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常指可选学生群"
+  },
+  {
+    "item_code": "w_070429",
+    "content": "student welfare officer",
+    "meaning_zh": "学生福利事务官；学生关怀专员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "校园职务名称"
+  },
+  {
+    "item_code": "w_070432",
+    "content": "students home",
+    "meaning_zh": "学生宿舍；学生之家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略不规范"
+  },
+  {
+    "item_code": "w_070433",
+    "content": "students' affairs division",
+    "meaning_zh": "学生事务处；学生事务部门",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "高校部门名称"
+  },
+  {
+    "item_code": "w_070434",
+    "content": "Students' Recreational Center",
+    "meaning_zh": "学生活动中心；学生娱乐中心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "校园设施名称"
+  },
+  {
+    "item_code": "w_070439",
+    "content": "studio interface",
+    "meaning_zh": "工作室界面；录音室接口",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境不足"
+  },
+  {
+    "item_code": "w_070440",
+    "content": "studio musician",
+    "meaning_zh": "录音室乐手；棚内音乐人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "音乐行业术语"
+  },
+  {
+    "item_code": "w_070443",
+    "content": "studious criticism",
+    "meaning_zh": "认真细致的批评；审慎的评论",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配少见但可解"
+  },
+  {
+    "item_code": "w_070447",
+    "content": "study aids",
+    "meaning_zh": "学习辅助工具；助学资料",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学习场景常用"
+  },
+  {
+    "item_code": "w_070448",
+    "content": "study destination",
+    "meaning_zh": "留学目的地；学习地点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "留学常用表达"
+  },
+  {
+    "item_code": "w_070451",
+    "content": "study kitchen",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_070453",
+    "content": "study load",
+    "meaning_zh": "学习负担；课业量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学业语境常用"
+  },
+  {
+    "item_code": "w_070454",
+    "content": "study overseas",
+    "meaning_zh": "出国留学；海外学习",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定留学表达"
+  },
+  {
+    "item_code": "w_070456",
+    "content": "study strategy",
+    "meaning_zh": "学习策略；备考策略",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学习场景常用"
+  },
+  {
+    "item_code": "w_070461",
+    "content": "studying English",
+    "meaning_zh": "学习英语；正在学英语",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  },
+  {
+    "item_code": "w_070462",
+    "content": "studying overseas",
+    "meaning_zh": "海外学习；留学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定留学表达"
+  },
+  {
+    "item_code": "w_070464",
+    "content": "stuff ... with sth.",
+    "meaning_zh": "用某物填满；把某物塞进",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词搭配"
+  }
+]

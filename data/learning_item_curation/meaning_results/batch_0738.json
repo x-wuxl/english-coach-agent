@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_072702",
+    "content": "tardy device",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不常见"
+  },
+  {
+    "item_code": "w_072705",
+    "content": "target areas for",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "短语不完整"
+  },
+  {
+    "item_code": "w_072714",
+    "content": "targeted poverty alleviation",
+    "meaning_zh": "精准扶贫",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政策术语"
+  },
+  {
+    "item_code": "w_072715",
+    "content": "targeted poverty reduction",
+    "meaning_zh": "精准减贫",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政策术语"
+  },
+  {
+    "item_code": "w_072737",
+    "content": "tassel-eared",
+    "meaning_zh": "耳端有毛簇的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_072741",
+    "content": "taste much better",
+    "meaning_zh": "味道好得多",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句语义明确"
+  },
+  {
+    "item_code": "w_072744",
+    "content": "taste traditional food",
+    "meaning_zh": "品尝传统食物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_072753",
+    "content": "tasty treat",
+    "meaning_zh": "美味点心；美味小吃",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_072754",
+    "content": "tasty-looking",
+    "meaning_zh": "看起来好吃的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_072756",
+    "content": "tatary",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_072757",
+    "content": "tatch",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_072758",
+    "content": "tate",
+    "meaning_zh": "泰特；立山",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句为专有名词"
+  },
+  {
+    "item_code": "w_072759",
+    "content": "tatre",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_072765",
+    "content": "tattoo basin blender",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组随机堆砌"
+  },
+  {
+    "item_code": "w_072770",
+    "content": "taunt preposterous lionize",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组随机堆砌"
+  },
+  {
+    "item_code": "w_072782",
+    "content": "tax and fee cuts",
+    "meaning_zh": "减税降费",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政策表达"
+  },
+  {
+    "item_code": "w_072793",
+    "content": "tax number",
+    "meaning_zh": "税号；纳税人识别号",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见税务术语"
+  },
+  {
+    "item_code": "w_072795",
+    "content": "tax reimbursement plan",
+    "meaning_zh": "税款报销计划",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "税务财务搭配"
+  },
+  {
+    "item_code": "w_072801",
+    "content": "tax-exemption status",
+    "meaning_zh": "免税资格；免税状态",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见税务术语"
+  },
+  {
+    "item_code": "w_072802",
+    "content": "tax-for-profit reform",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "表达不规范"
+  }
+]

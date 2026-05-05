@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_036891",
+    "content": "immense diction",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然，含义不明"
+  },
+  {
+    "item_code": "w_036895",
+    "content": "immerge oneself into",
+    "meaning_zh": "使自己沉浸于；投入到",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语搭配，immerge较少见"
+  },
+  {
+    "item_code": "w_036897",
+    "content": "immerse ... in",
+    "meaning_zh": "使……沉浸于；使专心于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_036899",
+    "content": "immerse oneself",
+    "meaning_zh": "沉浸其中；专心投入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见反身用法"
+  },
+  {
+    "item_code": "w_036904",
+    "content": "immersion in",
+    "meaning_zh": "沉浸于；浸入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词搭配"
+  },
+  {
+    "item_code": "w_036907",
+    "content": "immigrant ghetto racism",
+    "meaning_zh": "移民聚居区的种族歧视",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解的名词短语"
+  },
+  {
+    "item_code": "w_036911",
+    "content": "immigration conviction",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "组合含义不明确"
+  },
+  {
+    "item_code": "w_036914",
+    "content": "immigration wish",
+    "meaning_zh": "移民愿望",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解的名词短语"
+  },
+  {
+    "item_code": "w_036917",
+    "content": "imminent confine royalty convulsion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词汇噪声堆叠"
+  },
+  {
+    "item_code": "w_036919",
+    "content": "immissible",
+    "meaning_zh": "可准许进入的；可容许的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见词但可释义"
+  },
+  {
+    "item_code": "w_036932",
+    "content": "immoral behaviors",
+    "meaning_zh": "不道德行为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_036935",
+    "content": "immortal residual validity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常，含义不明"
+  },
+  {
+    "item_code": "w_036942",
+    "content": "immune consult attend",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似无关词堆叠"
+  },
+  {
+    "item_code": "w_036944",
+    "content": "immune from",
+    "meaning_zh": "免受；不受影响；对……有免疫力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_036945",
+    "content": "immune immunity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "重复近义词，低价值"
+  },
+  {
+    "item_code": "w_036971",
+    "content": "immunoevasin",
+    "meaning_zh": "免疫逃避蛋白",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "生物医学术语"
+  },
+  {
+    "item_code": "w_036981",
+    "content": "immunological",
+    "meaning_zh": "免疫学的；免疫系统的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术词"
+  },
+  {
+    "item_code": "w_036984",
+    "content": "immunology chronicle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不常见，含义不明"
+  },
+  {
+    "item_code": "w_037006",
+    "content": "immutable persistence",
+    "meaning_zh": "不可改变的持久性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解的抽象搭配"
+  },
+  {
+    "item_code": "w_037007",
+    "content": "immutable truth",
+    "meaning_zh": "不变的真理",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  }
+]

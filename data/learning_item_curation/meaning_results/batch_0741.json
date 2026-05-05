@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_073045",
+    "content": "teleology",
+    "meaning_zh": "目的论",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "哲学常见术语"
+  },
+  {
+    "item_code": "w_073059",
+    "content": "telephone rental",
+    "meaning_zh": "电话租赁；电话租用费",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见服务费用表达"
+  },
+  {
+    "item_code": "w_073063",
+    "content": "telephone-number-sized bank accounts",
+    "meaning_zh": "巨额银行存款",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "比喻账户金额巨大"
+  },
+  {
+    "item_code": "w_073064",
+    "content": "telephone-parts factory",
+    "meaning_zh": "电话零部件工厂",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "名词短语含义明确"
+  },
+  {
+    "item_code": "w_073071",
+    "content": "telescope observation",
+    "meaning_zh": "望远镜观测",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术场景常见搭配"
+  },
+  {
+    "item_code": "w_073081",
+    "content": "television business",
+    "meaning_zh": "电视业；电视业务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "行业表达含义明确"
+  },
+  {
+    "item_code": "w_073083",
+    "content": "television commercials",
+    "meaning_zh": "电视广告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见广告表达"
+  },
+  {
+    "item_code": "w_073087",
+    "content": "television watch entertainer performer",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串噪声无法判断"
+  },
+  {
+    "item_code": "w_073102",
+    "content": "tell English stories",
+    "meaning_zh": "讲英语故事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词短语含义明确"
+  },
+  {
+    "item_code": "w_073113",
+    "content": "tell stories",
+    "meaning_zh": "讲故事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持该含义"
+  },
+  {
+    "item_code": "w_073116",
+    "content": "tell the white lie",
+    "meaning_zh": "说善意的谎言",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定搭配变体"
+  },
+  {
+    "item_code": "w_073117",
+    "content": "tell them secrets",
+    "meaning_zh": "告诉他们秘密",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词短语含义明确"
+  },
+  {
+    "item_code": "w_073131",
+    "content": "temper refinement",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无法判断"
+  },
+  {
+    "item_code": "w_073140",
+    "content": "temperate forest",
+    "meaning_zh": "温带森林",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态术语含义明确"
+  },
+  {
+    "item_code": "w_073142",
+    "content": "temperate latitudes",
+    "meaning_zh": "温带纬度地区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地理术语含义明确"
+  },
+  {
+    "item_code": "w_073151",
+    "content": "tempering justice with mercy",
+    "meaning_zh": "以仁慈调和公正；宽严相济",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达含义明确"
+  },
+  {
+    "item_code": "w_073154",
+    "content": "tempestuous sanitary haven",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无法判断"
+  },
+  {
+    "item_code": "w_073160",
+    "content": "temple walls",
+    "meaning_zh": "寺庙墙壁",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "名词短语含义明确"
+  },
+  {
+    "item_code": "w_073170",
+    "content": "temporary remedy",
+    "meaning_zh": "临时补救办法；权宜之计",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配含义明确"
+  },
+  {
+    "item_code": "w_073172",
+    "content": "temporary satellite",
+    "meaning_zh": "临时卫星；暂时被捕获的卫星",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "天文学语境可能含义"
+  }
+]

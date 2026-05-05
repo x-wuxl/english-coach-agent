@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_066117",
+    "content": "ship shape baffle claim",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个词拼接噪声"
+  },
+  {
+    "item_code": "w_066140",
+    "content": "shipyard sonar",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不常见"
+  },
+  {
+    "item_code": "w_066143",
+    "content": "shirk one's duties",
+    "meaning_zh": "逃避职责",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_066144",
+    "content": "shirk one's responsibilities",
+    "meaning_zh": "逃避责任",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_066146",
+    "content": "Shirley",
+    "meaning_zh": "雪莉（人名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见人名"
+  },
+  {
+    "item_code": "w_066150",
+    "content": "shista somayasis",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_066153",
+    "content": "shiver multiply",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词义无自然关联"
+  },
+  {
+    "item_code": "w_066155",
+    "content": "shiverus valediction gaul",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个词拼接噪声"
+  },
+  {
+    "item_code": "w_066159",
+    "content": "shoal demonstrate fury",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词义无自然关联"
+  },
+  {
+    "item_code": "w_066162",
+    "content": "shock the whole world",
+    "meaning_zh": "震惊全世界",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_066167",
+    "content": "shocked unhappy bear",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个词拼接噪声"
+  },
+  {
+    "item_code": "w_066187",
+    "content": "shoot a movie scene",
+    "meaning_zh": "拍摄电影场景",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "影视常用搭配"
+  },
+  {
+    "item_code": "w_066188",
+    "content": "shoot a scene",
+    "meaning_zh": "拍摄一个场景",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "影视常用搭配"
+  },
+  {
+    "item_code": "w_066192",
+    "content": "shoot past",
+    "meaning_zh": "飞驰而过；快速经过",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_066193",
+    "content": "shoot sb. a look",
+    "meaning_zh": "向某人投去一瞥",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_066208",
+    "content": "shop for clothes",
+    "meaning_zh": "买衣服",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "日常购物表达"
+  },
+  {
+    "item_code": "w_066225",
+    "content": "shopping bonanza",
+    "meaning_zh": "购物狂欢；购物盛会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商业表达"
+  },
+  {
+    "item_code": "w_066228",
+    "content": "shopping day",
+    "meaning_zh": "购物日",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语"
+  },
+  {
+    "item_code": "w_066232",
+    "content": "shopping problem",
+    "meaning_zh": "购物问题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义依语境略泛"
+  },
+  {
+    "item_code": "w_066233",
+    "content": "shopping scam",
+    "meaning_zh": "购物骗局",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见风险表达"
+  }
+]

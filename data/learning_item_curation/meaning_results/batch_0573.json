@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_056050",
+    "content": "play hopscotch",
+    "meaning_zh": "玩跳房子游戏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见儿童游戏短语"
+  },
+  {
+    "item_code": "w_056051",
+    "content": "play in cooperation with",
+    "meaning_zh": "与……合作演奏；与……配合行动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按整体搭配理解"
+  },
+  {
+    "item_code": "w_056052",
+    "content": "play instruments",
+    "meaning_zh": "演奏乐器",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见音乐搭配"
+  },
+  {
+    "item_code": "w_056053",
+    "content": "play into sb.'s hands",
+    "meaning_zh": "正中某人下怀；对某人有利",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语"
+  },
+  {
+    "item_code": "w_056056",
+    "content": "play mahjong",
+    "meaning_zh": "打麻将",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  },
+  {
+    "item_code": "w_056059",
+    "content": "play notice",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配错误疑为噪声"
+  },
+  {
+    "item_code": "w_056063",
+    "content": "play on a swing",
+    "meaning_zh": "荡秋千",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见活动表达"
+  },
+  {
+    "item_code": "w_056064",
+    "content": "play on the swing",
+    "meaning_zh": "荡秋千",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见活动表达"
+  },
+  {
+    "item_code": "w_056066",
+    "content": "play one's heart out",
+    "meaning_zh": "全力以赴地演奏；拼尽全力比赛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_056068",
+    "content": "play online games",
+    "meaning_zh": "玩网络游戏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  },
+  {
+    "item_code": "w_056072",
+    "content": "play role in",
+    "meaning_zh": "在……中起作用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为play a role in"
+  },
+  {
+    "item_code": "w_056074",
+    "content": "play sport",
+    "meaning_zh": "参加体育运动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "英式常见搭配"
+  },
+  {
+    "item_code": "w_056076",
+    "content": "play squash",
+    "meaning_zh": "打壁球",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "运动项目搭配"
+  },
+  {
+    "item_code": "w_056080",
+    "content": "play the devil's advocate",
+    "meaning_zh": "故意唱反调；故意提出反面观点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语"
+  },
+  {
+    "item_code": "w_056081",
+    "content": "play the drums",
+    "meaning_zh": "打鼓；演奏架子鼓",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见乐器表达"
+  },
+  {
+    "item_code": "w_056082",
+    "content": "play the flute",
+    "meaning_zh": "吹长笛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见乐器表达"
+  },
+  {
+    "item_code": "w_056084",
+    "content": "play the music",
+    "meaning_zh": "播放音乐；演奏音乐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见音乐表达"
+  },
+  {
+    "item_code": "w_056087",
+    "content": "play the pipa",
+    "meaning_zh": "弹琵琶",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见乐器表达"
+  },
+  {
+    "item_code": "w_056095",
+    "content": "play water polo",
+    "meaning_zh": "打水球",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "运动项目搭配"
+  },
+  {
+    "item_code": "w_056096",
+    "content": "play with dibs",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配罕见难判断"
+  }
+]

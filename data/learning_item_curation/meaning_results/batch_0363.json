@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_034075",
+    "content": "have the habit of",
+    "meaning_zh": "有……的习惯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_034081",
+    "content": "have the nod",
+    "meaning_zh": "获得批准；被选中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语整体含义"
+  },
+  {
+    "item_code": "w_034082",
+    "content": "have the old heave-ho",
+    "meaning_zh": "被解雇；被抛弃",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "非正式习语"
+  },
+  {
+    "item_code": "w_034083",
+    "content": "have the right-of-way",
+    "meaning_zh": "享有通行权；有优先通行权",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通常用表达"
+  },
+  {
+    "item_code": "w_034084",
+    "content": "have the wherewithal",
+    "meaning_zh": "有必要的资金；有必要的手段",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_034085",
+    "content": "have the willies",
+    "meaning_zh": "感到毛骨悚然；心里发怵",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "口语习语"
+  },
+  {
+    "item_code": "w_034086",
+    "content": "have the word",
+    "meaning_zh": "得到消息；接到命令",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缺少语境"
+  },
+  {
+    "item_code": "w_034087",
+    "content": "have their game time",
+    "meaning_zh": "有他们的游戏时间；有比赛时间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按短语判断"
+  },
+  {
+    "item_code": "w_034088",
+    "content": "have time for ...",
+    "meaning_zh": "有时间做……；有空理会……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_034090",
+    "content": "have time to do",
+    "meaning_zh": "有时间做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  },
+  {
+    "item_code": "w_034091",
+    "content": "have to create incentives",
+    "meaning_zh": "必须创造激励措施",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语意义明确"
+  },
+  {
+    "item_code": "w_034095",
+    "content": "have trouble in doing",
+    "meaning_zh": "做某事有困难",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "高频固定搭配"
+  },
+  {
+    "item_code": "w_034099",
+    "content": "have turned the corner",
+    "meaning_zh": "已渡过难关；情况开始好转",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语完成时形式"
+  },
+  {
+    "item_code": "w_034100",
+    "content": "have underway",
+    "meaning_zh": "使……进行中；让……启动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配略不完整"
+  },
+  {
+    "item_code": "w_034101",
+    "content": "have use for reference",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "表达不自然"
+  },
+  {
+    "item_code": "w_034103",
+    "content": "have what they want",
+    "meaning_zh": "拥有他们想要的东西",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语意义明确"
+  },
+  {
+    "item_code": "w_034111",
+    "content": "haven't got",
+    "meaning_zh": "没有",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  },
+  {
+    "item_code": "w_034114",
+    "content": "having ... class",
+    "meaning_zh": "正在上……课",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "小学常用表达"
+  },
+  {
+    "item_code": "w_034115",
+    "content": "having dinner",
+    "meaning_zh": "正在吃晚饭；吃晚饭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  },
+  {
+    "item_code": "w_034129",
+    "content": "haxa",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词"
+  }
+]

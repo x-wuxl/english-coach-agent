@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_034432",
+    "content": "heichine",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词"
+  },
+  {
+    "item_code": "w_034433",
+    "content": "heichine psychogenetics",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声短语"
+  },
+  {
+    "item_code": "w_034434",
+    "content": "heiching dirty",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声短语"
+  },
+  {
+    "item_code": "w_034438",
+    "content": "height of the season",
+    "meaning_zh": "旺季高峰期；最繁忙时节",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_034445",
+    "content": "Heinrich Friedrich Emil Lenz",
+    "meaning_zh": "海因里希·弗里德里希·埃米尔·楞次",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "物理学家人名"
+  },
+  {
+    "item_code": "w_034454",
+    "content": "Helen Cooper",
+    "meaning_zh": "海伦·库珀",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "英语人名"
+  },
+  {
+    "item_code": "w_034497",
+    "content": "Help oneself to sth.",
+    "meaning_zh": "自取某物；随便吃用某物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用固定搭配"
+  },
+  {
+    "item_code": "w_034498",
+    "content": "help relax and unwind",
+    "meaning_zh": "帮助放松身心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用动词短语"
+  },
+  {
+    "item_code": "w_034501",
+    "content": "help sb. toward",
+    "meaning_zh": "帮助某人朝某目标前进",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配不完整"
+  },
+  {
+    "item_code": "w_034502",
+    "content": "help sb. toward ...",
+    "meaning_zh": "帮助某人朝某目标前进",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配不完整"
+  },
+  {
+    "item_code": "w_034505",
+    "content": "help the poor",
+    "meaning_zh": "帮助穷人；救助贫困者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  },
+  {
+    "item_code": "w_034516",
+    "content": "help yourselves",
+    "meaning_zh": "请自便；请随便吃用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句不匹配"
+  },
+  {
+    "item_code": "w_034537",
+    "content": "hemaglobin",
+    "meaning_zh": "血红蛋白",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为hemoglobin误拼"
+  },
+  {
+    "item_code": "w_034549",
+    "content": "hematology narrative",
+    "meaning_zh": "血液学叙述；血液学病例描述",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学术语搭配"
+  },
+  {
+    "item_code": "w_034557",
+    "content": "hemature rupture",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_034572",
+    "content": "hemisphere octagon peak",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合无明确意义"
+  },
+  {
+    "item_code": "w_034588",
+    "content": "hemoglobin plump beam",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合无明确意义"
+  },
+  {
+    "item_code": "w_034593",
+    "content": "hemolysis predominant conscience",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合无明确意义"
+  },
+  {
+    "item_code": "w_034595",
+    "content": "hemolyticuremic",
+    "meaning_zh": "溶血性尿毒症的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学复合术语"
+  },
+  {
+    "item_code": "w_034618",
+    "content": "hemroid",
+    "meaning_zh": "痔疮",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为hemorrhoid误拼"
+  }
+]

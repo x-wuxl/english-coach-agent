@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_021740",
+    "content": "dnes",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非英语词或噪声"
+  },
+  {
+    "item_code": "w_021751",
+    "content": "do a chemistry experiment",
+    "meaning_zh": "做化学实验",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习搭配"
+  },
+  {
+    "item_code": "w_021753",
+    "content": "do a face-to-face interview",
+    "meaning_zh": "进行面对面面试；进行面对面采访",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "按整体短语释义"
+  },
+  {
+    "item_code": "w_021755",
+    "content": "do a flip-flop",
+    "meaning_zh": "突然改变立场；出尔反尔",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "习语含义较常见"
+  },
+  {
+    "item_code": "w_021757",
+    "content": "do a presentation on",
+    "meaning_zh": "就……做演示；就……做报告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术场景常用"
+  },
+  {
+    "item_code": "w_021759",
+    "content": "do an about face",
+    "meaning_zh": "彻底改变立场；转变态度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_021760",
+    "content": "do anticipate",
+    "meaning_zh": "确实预料到；确实期待",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "do作强调用法"
+  },
+  {
+    "item_code": "w_021761",
+    "content": "do athletics",
+    "meaning_zh": "参加田径运动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "运动搭配"
+  },
+  {
+    "item_code": "w_021764",
+    "content": "do background reading",
+    "meaning_zh": "阅读背景资料；做背景阅读",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术场景常用"
+  },
+  {
+    "item_code": "w_021765",
+    "content": "do better in ...",
+    "meaning_zh": "在……方面做得更好；在……中表现更好",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见考试表达"
+  },
+  {
+    "item_code": "w_021768",
+    "content": "do card tricks",
+    "meaning_zh": "表演纸牌魔术",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见活动搭配"
+  },
+  {
+    "item_code": "w_021773",
+    "content": "do delay",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_021775",
+    "content": "do exhibitions",
+    "meaning_zh": "办展览；参与展览",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解"
+  },
+  {
+    "item_code": "w_021776",
+    "content": "do eye exercises",
+    "meaning_zh": "做眼保健操",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教材常见表达"
+  },
+  {
+    "item_code": "w_021778",
+    "content": "do further study",
+    "meaning_zh": "继续深造；进一步学习",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "留学场景常用"
+  },
+  {
+    "item_code": "w_021779",
+    "content": "do general research",
+    "meaning_zh": "做一般性研究；进行初步调研",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "研究场景搭配"
+  },
+  {
+    "item_code": "w_021780",
+    "content": "do good deeds",
+    "meaning_zh": "做好事；行善",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_021783",
+    "content": "do gymnastics",
+    "meaning_zh": "做体操；练体操",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  },
+  {
+    "item_code": "w_021787",
+    "content": "do harm to sb.",
+    "meaning_zh": "伤害某人；对某人有害",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_021793",
+    "content": "do jogging",
+    "meaning_zh": "慢跑；进行慢跑锻炼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "运动搭配"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_078316",
+    "content": "unusually informed",
+    "meaning_zh": "消息异常灵通的；见识特别广的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容知识或消息丰富"
+  },
+  {
+    "item_code": "w_078325",
+    "content": "unwanted ethos",
+    "meaning_zh": "不受欢迎的风气；令人反感的价值观",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解但少见"
+  },
+  {
+    "item_code": "w_078355",
+    "content": "up for a raise",
+    "meaning_zh": "有望加薪；符合加薪条件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职场表达"
+  },
+  {
+    "item_code": "w_078375",
+    "content": "upbeat view",
+    "meaning_zh": "乐观看法；积极观点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容观点"
+  },
+  {
+    "item_code": "w_078382",
+    "content": "update one's knowledge",
+    "meaning_zh": "更新知识；补充新知识",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习搭配"
+  },
+  {
+    "item_code": "w_078383",
+    "content": "update their belongings",
+    "meaning_zh": "更新个人物品；更换随身物品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配略生硬"
+  },
+  {
+    "item_code": "w_078385",
+    "content": "updated edition",
+    "meaning_zh": "修订版；新版",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "出版常见搭配"
+  },
+  {
+    "item_code": "w_078390",
+    "content": "upgrade industry",
+    "meaning_zh": "推动产业升级；升级产业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作经济类搭配"
+  },
+  {
+    "item_code": "w_078391",
+    "content": "upgrade oneself",
+    "meaning_zh": "提升自我；自我升级",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见自我提升表达"
+  },
+  {
+    "item_code": "w_078405",
+    "content": "uplifting motives",
+    "meaning_zh": "高尚的动机；鼓舞人心的动机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义可推断"
+  },
+  {
+    "item_code": "w_078407",
+    "content": "upload the photos",
+    "meaning_zh": "上传照片",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "网络常见表达"
+  },
+  {
+    "item_code": "w_078411",
+    "content": "upon one's honor",
+    "meaning_zh": "以名誉担保；凭良心发誓",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_078420",
+    "content": "upper top",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_078423",
+    "content": "uppercase",
+    "meaning_zh": "大写字母；大写的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_078426",
+    "content": "uppermost polarize",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组明显不成立"
+  },
+  {
+    "item_code": "w_078437",
+    "content": "uproot weed",
+    "meaning_zh": "连根拔除杂草",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动作搭配明确"
+  },
+  {
+    "item_code": "w_078439",
+    "content": "UPS",
+    "meaning_zh": "不间断电源；联合包裹服务公司",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "例句不匹配"
+  },
+  {
+    "item_code": "w_078441",
+    "content": "upscale clientele",
+    "meaning_zh": "高端客户群；高消费顾客",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商业常见搭配"
+  },
+  {
+    "item_code": "w_078442",
+    "content": "upsearch",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词"
+  },
+  {
+    "item_code": "w_078445",
+    "content": "upset winner",
+    "meaning_zh": "爆冷获胜者；意外胜出的选手",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "体育竞赛常见义"
+  }
+]

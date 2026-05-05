@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_059145",
+    "content": "push one's way through",
+    "meaning_zh": "挤过去；奋力穿过",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  },
+  {
+    "item_code": "w_059146",
+    "content": "push oneself too hard",
+    "meaning_zh": "过分逼迫自己；过度努力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_059150",
+    "content": "push sb. too far",
+    "meaning_zh": "把某人逼得太紧；过分刺激某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语"
+  },
+  {
+    "item_code": "w_059151",
+    "content": "push shift",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_059157",
+    "content": "push your way through",
+    "meaning_zh": "挤过去；奋力穿过",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  },
+  {
+    "item_code": "w_059171",
+    "content": "puss lunar",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法判断疑似噪声"
+  },
+  {
+    "item_code": "w_059178",
+    "content": "put ... at risk",
+    "meaning_zh": "使……处于危险中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语"
+  },
+  {
+    "item_code": "w_059179",
+    "content": "put ... at stake",
+    "meaning_zh": "使……处于危险中；拿……冒险",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_059183",
+    "content": "put ... down to",
+    "meaning_zh": "把……归因于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  },
+  {
+    "item_code": "w_059184",
+    "content": "put ... in motion",
+    "meaning_zh": "使……运转；启动……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_059186",
+    "content": "put ... in perspective",
+    "meaning_zh": "正确看待……；客观衡量……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_059192",
+    "content": "put ... into effect",
+    "meaning_zh": "实施……；使……生效",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_059193",
+    "content": "put ... into operation",
+    "meaning_zh": "使……投入运行；实施……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_059196",
+    "content": "put ... into storage",
+    "meaning_zh": "把……存放起来；入库",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_059199",
+    "content": "put ... on display",
+    "meaning_zh": "展出……；陈列……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_059207",
+    "content": "put ... to death",
+    "meaning_zh": "处死……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  },
+  {
+    "item_code": "w_059214",
+    "content": "put a halt to",
+    "meaning_zh": "停止；制止",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  },
+  {
+    "item_code": "w_059220",
+    "content": "put air in",
+    "meaning_zh": "给……充气",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语义明确但较口语"
+  },
+  {
+    "item_code": "w_059221",
+    "content": "put an effort into",
+    "meaning_zh": "努力投入……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略不典型"
+  },
+  {
+    "item_code": "w_059222",
+    "content": "put an emphasis on",
+    "meaning_zh": "强调……；重视……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_010079",
+    "content": "borrow a book",
+    "meaning_zh": "借一本书",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_010080",
+    "content": "borrow sth. from sb.",
+    "meaning_zh": "向某人借某物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型搭配"
+  },
+  {
+    "item_code": "w_010084",
+    "content": "borrowing privilege",
+    "meaning_zh": "借阅权限；借书权利",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "图书馆常用术语"
+  },
+  {
+    "item_code": "w_010086",
+    "content": "borse",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_010094",
+    "content": "bosom inflation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_010096",
+    "content": "Bosphorous",
+    "meaning_zh": "博斯普鲁斯海峡",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有地名变体"
+  },
+  {
+    "item_code": "w_010105",
+    "content": "botanical protrude",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_010109",
+    "content": "botany wrath",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_010115",
+    "content": "both ... not ...",
+    "meaning_zh": "并非两者都",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "部分否定结构"
+  },
+  {
+    "item_code": "w_010118",
+    "content": "bother disturb",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "并列近义词非词条"
+  },
+  {
+    "item_code": "w_010119",
+    "content": "bother to do sth.",
+    "meaning_zh": "费心做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_010128",
+    "content": "bottle water",
+    "meaning_zh": "把水装瓶",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "动宾搭配"
+  },
+  {
+    "item_code": "w_010129",
+    "content": "bottle wine",
+    "meaning_zh": "把葡萄酒装瓶",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "动宾搭配"
+  },
+  {
+    "item_code": "w_010132",
+    "content": "bottled cook recipe",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词序混乱难判断"
+  },
+  {
+    "item_code": "w_010142",
+    "content": "bottom upwards downward",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组混乱无明确义"
+  },
+  {
+    "item_code": "w_010151",
+    "content": "bought groceries",
+    "meaning_zh": "买了食品杂货",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_010152",
+    "content": "bought some gifts",
+    "meaning_zh": "买了一些礼物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_010160",
+    "content": "bounce bizarre",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_010171",
+    "content": "bound method",
+    "meaning_zh": "绑定方法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_010175",
+    "content": "boundary precaution",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  }
+]

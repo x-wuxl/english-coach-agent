@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_020872",
+    "content": "dip sulphur",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不常见疑似噪声"
+  },
+  {
+    "item_code": "w_020884",
+    "content": "diploma course",
+    "meaning_zh": "文凭课程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "留学考试常见搭配"
+  },
+  {
+    "item_code": "w_020885",
+    "content": "diploma craze",
+    "meaning_zh": "文凭热；学历热",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "整体表达含义明确"
+  },
+  {
+    "item_code": "w_020898",
+    "content": "diplomatic tie",
+    "meaning_zh": "外交关系",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政治外交搭配"
+  },
+  {
+    "item_code": "w_020899",
+    "content": "diplomatic volatile",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "表达不合语法"
+  },
+  {
+    "item_code": "w_020910",
+    "content": "dire wag",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配无明确含义"
+  },
+  {
+    "item_code": "w_020925",
+    "content": "direct line number",
+    "meaning_zh": "直拨电话号码",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "电话场景常见表达"
+  },
+  {
+    "item_code": "w_020930",
+    "content": "direct property loss",
+    "meaning_zh": "直接财产损失",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律保险常见搭配"
+  },
+  {
+    "item_code": "w_020932",
+    "content": "direct sb. to do",
+    "meaning_zh": "指示某人做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词句型含义明确"
+  },
+  {
+    "item_code": "w_020937",
+    "content": "direct tuition",
+    "meaning_zh": "直接教学；直接辅导",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "教育语境可判断"
+  },
+  {
+    "item_code": "w_020938",
+    "content": "direct tuition or schooling",
+    "meaning_zh": "直接教学或学校教育",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "教育语境可判断"
+  },
+  {
+    "item_code": "w_020940",
+    "content": "direct-sale store",
+    "meaning_zh": "直营店；直销店",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商业零售常见表达"
+  },
+  {
+    "item_code": "w_020941",
+    "content": "direct-to-consumer advertising",
+    "meaning_zh": "面向消费者的广告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "营销术语含义明确"
+  },
+  {
+    "item_code": "w_020950",
+    "content": "director predict",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不自然疑似噪声"
+  },
+  {
+    "item_code": "w_020951",
+    "content": "director script scriptwriter",
+    "meaning_zh": "导演；剧本；编剧",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "词汇堆叠非固定表达"
+  },
+  {
+    "item_code": "w_020953",
+    "content": "directorate",
+    "meaning_zh": "董事会；管理层；主管部门",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "正式管理类词汇"
+  },
+  {
+    "item_code": "w_020956",
+    "content": "directory pretulus",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含疑似拼写噪声"
+  },
+  {
+    "item_code": "w_020967",
+    "content": "dis",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写或残片含义不明"
+  },
+  {
+    "item_code": "w_020972",
+    "content": "disable people",
+    "meaning_zh": "使人失去能力",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "疑为disabled误写"
+  },
+  {
+    "item_code": "w_020974",
+    "content": "disabled people",
+    "meaning_zh": "残疾人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见人群表达"
+  }
+]

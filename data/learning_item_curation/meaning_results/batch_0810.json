@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_080051",
+    "content": "washing my hair",
+    "meaning_zh": "洗头",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活动作短语"
+  },
+  {
+    "item_code": "w_080052",
+    "content": "washing my windows",
+    "meaning_zh": "擦窗户；清洗窗户",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活动作短语"
+  },
+  {
+    "item_code": "w_080059",
+    "content": "Washington-based",
+    "meaning_zh": "总部设在华盛顿的；驻华盛顿的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_080065",
+    "content": "wasp-waist physiques",
+    "meaning_zh": "蜂腰体型；细腰身材",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容身材的搭配"
+  },
+  {
+    "item_code": "w_080070",
+    "content": "waste ... doing sth.",
+    "meaning_zh": "浪费……做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型"
+  },
+  {
+    "item_code": "w_080075",
+    "content": "waste cervix",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配明显异常"
+  },
+  {
+    "item_code": "w_080077",
+    "content": "waste dumps",
+    "meaning_zh": "垃圾堆放场；废料堆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保场景常见搭配"
+  },
+  {
+    "item_code": "w_080079",
+    "content": "waste imports",
+    "meaning_zh": "废弃物进口；垃圾进口",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保贸易搭配"
+  },
+  {
+    "item_code": "w_080083",
+    "content": "waste pay",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配疑似噪声"
+  },
+  {
+    "item_code": "w_080084",
+    "content": "waste separation",
+    "meaning_zh": "垃圾分类；废弃物分类",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保高频搭配"
+  },
+  {
+    "item_code": "w_080086",
+    "content": "waste time doing",
+    "meaning_zh": "浪费时间做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型"
+  },
+  {
+    "item_code": "w_080087",
+    "content": "waste time doing sth.",
+    "meaning_zh": "浪费时间做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型"
+  },
+  {
+    "item_code": "w_080103",
+    "content": "watch a match",
+    "meaning_zh": "观看比赛；看比赛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_080105",
+    "content": "watch a show",
+    "meaning_zh": "看演出；看节目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_080106",
+    "content": "watch cartoons",
+    "meaning_zh": "看动画片",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_080110",
+    "content": "watch films",
+    "meaning_zh": "看电影",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_080113",
+    "content": "watch Korean soaps",
+    "meaning_zh": "看韩国肥皂剧；看韩剧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "soaps指肥皂剧"
+  },
+  {
+    "item_code": "w_080120",
+    "content": "watch the news",
+    "meaning_zh": "看新闻",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  },
+  {
+    "item_code": "w_080125",
+    "content": "watched TV",
+    "meaning_zh": "看了电视",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持过去时"
+  },
+  {
+    "item_code": "w_080144",
+    "content": "water collection tank",
+    "meaning_zh": "集水箱；储水箱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "设备名称搭配"
+  }
+]

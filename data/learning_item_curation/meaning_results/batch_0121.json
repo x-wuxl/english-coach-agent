@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_010388",
+    "content": "breach an agreement",
+    "meaning_zh": "违反协议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见法律商务搭配"
+  },
+  {
+    "item_code": "w_010407",
+    "content": "break a nose",
+    "meaning_zh": "打断鼻子；弄伤鼻子",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_010411",
+    "content": "break attendance records",
+    "meaning_zh": "打破出勤记录；创到场人数纪录",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "record搭配明确"
+  },
+  {
+    "item_code": "w_010418",
+    "content": "break broken wound",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_010420",
+    "content": "break dilute",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_010424",
+    "content": "break for",
+    "meaning_zh": "暂停去做某事；休息一下去",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指暂停离开"
+  },
+  {
+    "item_code": "w_010426",
+    "content": "break ground for sth.",
+    "meaning_zh": "为某事破土动工",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定工程表达"
+  },
+  {
+    "item_code": "w_010430",
+    "content": "break into a smile",
+    "meaning_zh": "突然露出笑容",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_010435",
+    "content": "break loose from ...",
+    "meaning_zh": "从……挣脱；摆脱……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词"
+  },
+  {
+    "item_code": "w_010436",
+    "content": "break my leg",
+    "meaning_zh": "摔断我的腿；弄断我的腿",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按字面短语判断"
+  },
+  {
+    "item_code": "w_010447",
+    "content": "break one's words",
+    "meaning_zh": "食言；违背诺言",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "应为word常见表达"
+  },
+  {
+    "item_code": "w_010448",
+    "content": "break out in blossom",
+    "meaning_zh": "开花；突然绽放",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达可理解但少见"
+  },
+  {
+    "item_code": "w_010450",
+    "content": "break out in tears",
+    "meaning_zh": "突然哭起来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_010452",
+    "content": "break out into tears",
+    "meaning_zh": "突然哭起来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_010453",
+    "content": "break out laughing",
+    "meaning_zh": "突然大笑起来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_010456",
+    "content": "break public regulations",
+    "meaning_zh": "违反公共规定",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_010457",
+    "content": "break record",
+    "meaning_zh": "打破纪录",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见为break a record"
+  },
+  {
+    "item_code": "w_010458",
+    "content": "break records",
+    "meaning_zh": "打破纪录",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_010460",
+    "content": "break sb.'s heart",
+    "meaning_zh": "使某人心碎；伤某人的心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_010461",
+    "content": "break several records",
+    "meaning_zh": "打破多项纪录",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "record搭配明确"
+  }
+]

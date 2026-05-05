@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_011866",
+    "content": "campaign donation",
+    "meaning_zh": "竞选捐款；竞选献金",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政治搭配"
+  },
+  {
+    "item_code": "w_011869",
+    "content": "campaigned to",
+    "meaning_zh": "为做某事而活动；发起运动以",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "动词搭配但不完整"
+  },
+  {
+    "item_code": "w_011877",
+    "content": "campground tent camper",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词串非固定表达"
+  },
+  {
+    "item_code": "w_011879",
+    "content": "camphor prosperous reluctance",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无固定搭配"
+  },
+  {
+    "item_code": "w_011884",
+    "content": "camping resort",
+    "meaning_zh": "露营度假村；露营营地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅行住宿搭配"
+  },
+  {
+    "item_code": "w_011890",
+    "content": "campus digitalization",
+    "meaning_zh": "校园数字化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育技术术语"
+  },
+  {
+    "item_code": "w_011891",
+    "content": "campus employment office",
+    "meaning_zh": "校园就业办公室",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "校园服务机构"
+  },
+  {
+    "item_code": "w_011892",
+    "content": "campus job",
+    "meaning_zh": "校内工作；校园兼职",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "留学常见表达"
+  },
+  {
+    "item_code": "w_011893",
+    "content": "campus loan",
+    "meaning_zh": "校园贷款",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "校园金融表达"
+  },
+  {
+    "item_code": "w_011894",
+    "content": "campus love",
+    "meaning_zh": "校园恋爱；校园爱情",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见校园话题"
+  },
+  {
+    "item_code": "w_011895",
+    "content": "campus newspaper",
+    "meaning_zh": "校报；校园报纸",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "校园媒体搭配"
+  },
+  {
+    "item_code": "w_011897",
+    "content": "campus recruitment quota",
+    "meaning_zh": "校园招聘名额",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "招聘场景搭配"
+  },
+  {
+    "item_code": "w_011898",
+    "content": "campus violence",
+    "meaning_zh": "校园暴力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育社会话题"
+  },
+  {
+    "item_code": "w_011902",
+    "content": "can be counterintuitive",
+    "meaning_zh": "可能有悖直觉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_011912",
+    "content": "can't be knocked off",
+    "meaning_zh": "不会被撞掉；无法被击败",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "需语境确定具体义"
+  },
+  {
+    "item_code": "w_011914",
+    "content": "can't hate",
+    "meaning_zh": "没法讨厌；不得不喜欢",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "口语含义依语境"
+  },
+  {
+    "item_code": "w_011919",
+    "content": "can't resist doing",
+    "meaning_zh": "忍不住做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型"
+  },
+  {
+    "item_code": "w_011922",
+    "content": "can't wait to",
+    "meaning_zh": "迫不及待要；非常期待",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持该义"
+  },
+  {
+    "item_code": "w_011923",
+    "content": "can't wait to do",
+    "meaning_zh": "迫不及待做某事；非常期待做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型"
+  },
+  {
+    "item_code": "w_011930",
+    "content": "canard demodic",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无固定搭配"
+  }
+]

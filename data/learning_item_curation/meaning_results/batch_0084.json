@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_007201",
+    "content": "be done away with",
+    "meaning_zh": "被废除；被去掉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  },
+  {
+    "item_code": "w_007206",
+    "content": "be double-faced",
+    "meaning_zh": "两面派的；虚伪的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容表达"
+  },
+  {
+    "item_code": "w_007210",
+    "content": "be drafted into",
+    "meaning_zh": "被征召加入；被选派参加",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_007213",
+    "content": "be dressed",
+    "meaning_zh": "穿着衣服；打扮好",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_007216",
+    "content": "be drummed into",
+    "meaning_zh": "被反复灌输",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_007220",
+    "content": "be due to do",
+    "meaning_zh": "预计要做；预定要做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型"
+  },
+  {
+    "item_code": "w_007227",
+    "content": "be easily swayed",
+    "meaning_zh": "容易动摇；易受影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_007228",
+    "content": "be easy of access",
+    "meaning_zh": "容易接近；便于进入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_007230",
+    "content": "be effective from",
+    "meaning_zh": "自……起生效",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法规商务常用"
+  },
+  {
+    "item_code": "w_007233",
+    "content": "be eligible to",
+    "meaning_zh": "有资格做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_007236",
+    "content": "be embossed with",
+    "meaning_zh": "压印有；浮雕有",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "工艺描述"
+  },
+  {
+    "item_code": "w_007248",
+    "content": "be entitled to do",
+    "meaning_zh": "有权做；有资格做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型"
+  },
+  {
+    "item_code": "w_007252",
+    "content": "be environmentally sound",
+    "meaning_zh": "环保的；对环境无害的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保主题表达"
+  },
+  {
+    "item_code": "w_007253",
+    "content": "be equal in",
+    "meaning_zh": "在……方面相等",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_007260",
+    "content": "be excited about",
+    "meaning_zh": "对……感到兴奋",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_007261",
+    "content": "be excluded from",
+    "meaning_zh": "被排除在外；被禁止参加",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_007262",
+    "content": "be excluded from ...",
+    "meaning_zh": "被排除在……之外",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_007265",
+    "content": "be exclusive to",
+    "meaning_zh": "为……所独有；仅限于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_007266",
+    "content": "be excused from",
+    "meaning_zh": "被准许免除；获准不参加",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句辅助判断"
+  },
+  {
+    "item_code": "w_007268",
+    "content": "be exhausted from",
+    "meaning_zh": "因……而精疲力尽",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  }
+]

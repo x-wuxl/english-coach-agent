@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_000367",
+    "content": "a major solution",
+    "meaning_zh": "重要解决方案",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_000368",
+    "content": "a mango",
+    "meaning_zh": "芒果",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  },
+  {
+    "item_code": "w_000370",
+    "content": "a master's degree",
+    "meaning_zh": "硕士学位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  },
+  {
+    "item_code": "w_000375",
+    "content": "a mature bond",
+    "meaning_zh": "到期债券",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "金融搭配"
+  },
+  {
+    "item_code": "w_000377",
+    "content": "a means of",
+    "meaning_zh": "一种……的手段；一种……的方法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  },
+  {
+    "item_code": "w_000379",
+    "content": "a medical practitioner",
+    "meaning_zh": "执业医师；医生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职业称谓"
+  },
+  {
+    "item_code": "w_000381",
+    "content": "a memorial ceremony",
+    "meaning_zh": "纪念仪式；追悼会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_000382",
+    "content": "a memorial idolatrise",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声搭配"
+  },
+  {
+    "item_code": "w_000384",
+    "content": "a minor rash of",
+    "meaning_zh": "少量突发的……；小规模的一连串……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语残缺但可判断"
+  },
+  {
+    "item_code": "w_000385",
+    "content": "a minority of",
+    "meaning_zh": "少数的；少部分的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见数量短语"
+  },
+  {
+    "item_code": "w_000386",
+    "content": "a minute inspection",
+    "meaning_zh": "细致检查；仔细检查",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "minute表细致"
+  },
+  {
+    "item_code": "w_000390",
+    "content": "a mobile home",
+    "meaning_zh": "活动房屋；拖车式住房",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见复合名词"
+  },
+  {
+    "item_code": "w_000391",
+    "content": "a mode of behavior",
+    "meaning_zh": "行为方式；行为模式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_000392",
+    "content": "a modest policy victory",
+    "meaning_zh": "有限的政策胜利；小幅政策成果",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "语义清晰"
+  },
+  {
+    "item_code": "w_000393",
+    "content": "a money order",
+    "meaning_zh": "汇票；邮政汇票",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见金融词组"
+  },
+  {
+    "item_code": "w_000396",
+    "content": "a more rounded assessment",
+    "meaning_zh": "更全面的评估",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_000398",
+    "content": "a mouth",
+    "meaning_zh": "嘴；口",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础名词"
+  },
+  {
+    "item_code": "w_000399",
+    "content": "a multi-faceted target audience",
+    "meaning_zh": "多元化的目标受众",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见营销表达"
+  },
+  {
+    "item_code": "w_000401",
+    "content": "a music box",
+    "meaning_zh": "音乐盒",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见复合名词"
+  },
+  {
+    "item_code": "w_000402",
+    "content": "a naive argument",
+    "meaning_zh": "幼稚的论点；天真的论证",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  }
+]

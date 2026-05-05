@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_002932",
+    "content": "amateur team",
+    "meaning_zh": "业余队",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_002946",
+    "content": "ambassador mediterranean deodorant",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_002955",
+    "content": "ambiguous fluctuate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语搭配不自然"
+  },
+  {
+    "item_code": "w_002956",
+    "content": "ambiguous preference",
+    "meaning_zh": "模糊的偏好；不明确的偏好",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作常见搭配"
+  },
+  {
+    "item_code": "w_002957",
+    "content": "ambit",
+    "meaning_zh": "范围；界限",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见高级词义"
+  },
+  {
+    "item_code": "w_002959",
+    "content": "ambition for",
+    "meaning_zh": "对……的抱负；对……的雄心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定介词搭配"
+  },
+  {
+    "item_code": "w_002961",
+    "content": "ambitious goal",
+    "meaning_zh": "宏伟目标；远大目标",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_002964",
+    "content": "ambivalent inaugurate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语搭配不自然"
+  },
+  {
+    "item_code": "w_002971",
+    "content": "ambulance brew familial",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_002978",
+    "content": "amd",
+    "meaning_zh": "超威半导体；AMD公司",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机品牌缩写"
+  },
+  {
+    "item_code": "w_002984",
+    "content": "ameliorate irate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语搭配不自然"
+  },
+  {
+    "item_code": "w_002998",
+    "content": "America's Federal Trade Commission",
+    "meaning_zh": "美国联邦贸易委员会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "机构专有名词"
+  },
+  {
+    "item_code": "w_002999",
+    "content": "America's Got Talent",
+    "meaning_zh": "美国达人秀",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "节目专有名词"
+  },
+  {
+    "item_code": "w_003000",
+    "content": "America's National Research Council",
+    "meaning_zh": "美国国家研究委员会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "机构专有名词"
+  },
+  {
+    "item_code": "w_003002",
+    "content": "American favorites",
+    "meaning_zh": "美国人喜爱的事物；美国热门事物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境不足但可判断"
+  },
+  {
+    "item_code": "w_003005",
+    "content": "American middle-class family",
+    "meaning_zh": "美国中产阶级家庭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_003009",
+    "content": "American Teenager",
+    "meaning_zh": "美国青少年",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作普通短语"
+  },
+  {
+    "item_code": "w_003013",
+    "content": "americanize continental cosmopolitan",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词表噪声"
+  },
+  {
+    "item_code": "w_003014",
+    "content": "Americaphile",
+    "meaning_zh": "亲美者；喜爱美国文化的人",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "明确派生词"
+  },
+  {
+    "item_code": "w_003020",
+    "content": "amiable cart regimen",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  }
+]

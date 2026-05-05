@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_057615",
+    "content": "pressure for change",
+    "meaning_zh": "要求变革的压力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_057616",
+    "content": "pressure on",
+    "meaning_zh": "对……施压；对……的压力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "需接宾语"
+  },
+  {
+    "item_code": "w_057618",
+    "content": "pressure prejudiced",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然搭配"
+  },
+  {
+    "item_code": "w_057622",
+    "content": "prestige client dismay hinder",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词列"
+  },
+  {
+    "item_code": "w_057623",
+    "content": "prestige value",
+    "meaning_zh": "声望价值；品牌 prestige 价值",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "商务常见概念"
+  },
+  {
+    "item_code": "w_057625",
+    "content": "prestigious school",
+    "meaning_zh": "名校；有声望的学校",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教育搭配"
+  },
+  {
+    "item_code": "w_057626",
+    "content": "prestigious schools",
+    "meaning_zh": "名校；有声望的学校",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复数常见搭配"
+  },
+  {
+    "item_code": "w_057633",
+    "content": "presume eradicate oblige",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词列"
+  },
+  {
+    "item_code": "w_057650",
+    "content": "pretend noticeable evaluation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词列"
+  },
+  {
+    "item_code": "w_057661",
+    "content": "pretty heavy workload",
+    "meaning_zh": "相当繁重的工作量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "自然口语搭配"
+  },
+  {
+    "item_code": "w_057664",
+    "content": "pretzelis",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_057665",
+    "content": "pretzelis damper",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含疑似噪声词"
+  },
+  {
+    "item_code": "w_057677",
+    "content": "prevalent intentional mold conjunction",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词列"
+  },
+  {
+    "item_code": "w_057678",
+    "content": "prevalent renowned",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然搭配"
+  },
+  {
+    "item_code": "w_057687",
+    "content": "prevent avoid occur",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词列"
+  },
+  {
+    "item_code": "w_057688",
+    "content": "prevent donate abandon",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词列"
+  },
+  {
+    "item_code": "w_057690",
+    "content": "prevent further worsen",
+    "meaning_zh": "防止进一步恶化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语法略不完整"
+  },
+  {
+    "item_code": "w_057697",
+    "content": "preview depreciation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然搭配"
+  },
+  {
+    "item_code": "w_057699",
+    "content": "previous immunotherapy diagram",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然搭配"
+  },
+  {
+    "item_code": "w_057702",
+    "content": "previously maturate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然表达"
+  }
+]

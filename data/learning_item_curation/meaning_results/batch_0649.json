@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_063968",
+    "content": "satisfy basic needs",
+    "meaning_zh": "满足基本需求",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_063969",
+    "content": "satisfy one's demands",
+    "meaning_zh": "满足某人的要求",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_063970",
+    "content": "satisfy one's needs",
+    "meaning_zh": "满足某人的需求",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_063971",
+    "content": "satisfy one's requirements",
+    "meaning_zh": "满足某人的要求",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_063972",
+    "content": "satisfy our demand",
+    "meaning_zh": "满足我们的需求",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_063973",
+    "content": "satisfy the basic demand",
+    "meaning_zh": "满足基本需求",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_063974",
+    "content": "satisfy the need of",
+    "meaning_zh": "满足……的需求",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型片段"
+  },
+  {
+    "item_code": "w_063976",
+    "content": "satisfying answer",
+    "meaning_zh": "令人满意的答案",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形名搭配"
+  },
+  {
+    "item_code": "w_063990",
+    "content": "saturation pursuit",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_063994",
+    "content": "saturnine sedentary",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_063999",
+    "content": "saucer session",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_064006",
+    "content": "sauna weather",
+    "meaning_zh": "桑拿天；闷热潮湿的天气",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见比喻表达"
+  },
+  {
+    "item_code": "w_064008",
+    "content": "saunter wrinkle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_064011",
+    "content": "sauté",
+    "meaning_zh": "炒；煎炒",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "烹饪常用词"
+  },
+  {
+    "item_code": "w_064014",
+    "content": "savage torture",
+    "meaning_zh": "残酷的折磨；野蛮的酷刑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形名搭配"
+  },
+  {
+    "item_code": "w_064023",
+    "content": "save a back-up copy",
+    "meaning_zh": "保存备份副本",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见技术表达"
+  },
+  {
+    "item_code": "w_064033",
+    "content": "save sb.'s life",
+    "meaning_zh": "救某人的命",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_064035",
+    "content": "save the costs",
+    "meaning_zh": "节省成本",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_064039",
+    "content": "saver ticket",
+    "meaning_zh": "优惠票；折扣票",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "票务常见表达"
+  },
+  {
+    "item_code": "w_064044",
+    "content": "savings-account model",
+    "meaning_zh": "储蓄账户模式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "复合名词表达"
+  }
+]

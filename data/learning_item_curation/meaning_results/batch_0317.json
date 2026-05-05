@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_030028",
+    "content": "furtive strident outset grumble",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配含义"
+  },
+  {
+    "item_code": "w_030045",
+    "content": "fussy chronic enimical inure",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串含拼写疑误"
+  },
+  {
+    "item_code": "w_030046",
+    "content": "fussy eater",
+    "meaning_zh": "挑食的人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_030047",
+    "content": "fuster",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_030050",
+    "content": "fusty parenthesis",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配含义"
+  },
+  {
+    "item_code": "w_030052",
+    "content": "futile gown",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配含义"
+  },
+  {
+    "item_code": "w_030055",
+    "content": "future career",
+    "meaning_zh": "未来职业；未来事业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句语义明确"
+  },
+  {
+    "item_code": "w_030069",
+    "content": "fuzzy in turn deceive",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配含义"
+  },
+  {
+    "item_code": "w_030070",
+    "content": "fuzzy zone",
+    "meaning_zh": "模糊地带；界限不清的区域",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作常见搭配"
+  },
+  {
+    "item_code": "w_030071",
+    "content": "fête",
+    "meaning_zh": "庆祝活动；游园会",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "TEM8常见词"
+  },
+  {
+    "item_code": "w_030073",
+    "content": "G'day mates!",
+    "meaning_zh": "大家好；朋友们好",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "澳式问候语"
+  },
+  {
+    "item_code": "w_030084",
+    "content": "gadfai kermujin",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声词串"
+  },
+  {
+    "item_code": "w_030087",
+    "content": "gadget glue",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定学习价值"
+  },
+  {
+    "item_code": "w_030088",
+    "content": "gadgeteer",
+    "meaning_zh": "小发明爱好者；小器械设计者",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "词义明确"
+  },
+  {
+    "item_code": "w_030095",
+    "content": "gaff strand",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配含义"
+  },
+  {
+    "item_code": "w_030106",
+    "content": "gain a reputation as",
+    "meaning_zh": "获得作为……的名声",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_030111",
+    "content": "gain celebrity overnight",
+    "meaning_zh": "一夜成名",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "整体含义明确"
+  },
+  {
+    "item_code": "w_030112",
+    "content": "gain control over",
+    "meaning_zh": "控制；掌控",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_030113",
+    "content": "gain credit for sth.",
+    "meaning_zh": "因某事获得认可；因某事受到赞扬",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_030115",
+    "content": "gain favor",
+    "meaning_zh": "赢得好感；受到青睐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  }
+]

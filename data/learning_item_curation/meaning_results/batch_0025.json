@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_001040",
+    "content": "accelerate progress",
+    "meaning_zh": "加快进展",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_001044",
+    "content": "accelerated depreciation allowance",
+    "meaning_zh": "加速折旧扣除额",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务会计术语"
+  },
+  {
+    "item_code": "w_001055",
+    "content": "accept A as B",
+    "meaning_zh": "接受A为B；认为A是B",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型搭配"
+  },
+  {
+    "item_code": "w_001056",
+    "content": "accept a request",
+    "meaning_zh": "接受请求；答应请求",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_001058",
+    "content": "accept an invitation",
+    "meaning_zh": "接受邀请",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_001059",
+    "content": "accept incident",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常含义不明"
+  },
+  {
+    "item_code": "w_001060",
+    "content": "accept one's apology",
+    "meaning_zh": "接受某人的道歉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_001061",
+    "content": "accept one's invitation",
+    "meaning_zh": "接受某人的邀请",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_001062",
+    "content": "accept sb.'s apology",
+    "meaning_zh": "接受某人的道歉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见考试搭配"
+  },
+  {
+    "item_code": "w_001063",
+    "content": "accept the post",
+    "meaning_zh": "接受职位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_001070",
+    "content": "acceptance multimedia",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常含义不明"
+  },
+  {
+    "item_code": "w_001080",
+    "content": "access disability",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常含义不明"
+  },
+  {
+    "item_code": "w_001088",
+    "content": "accessible nominal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_001093",
+    "content": "accessor",
+    "meaning_zh": "访问器；存取器",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_001104",
+    "content": "accident chance",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常含义不明"
+  },
+  {
+    "item_code": "w_001116",
+    "content": "acclaim macerate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似无关词拼接"
+  },
+  {
+    "item_code": "w_001127",
+    "content": "accolade ascent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似无关词拼接"
+  },
+  {
+    "item_code": "w_001129",
+    "content": "accommodate more people",
+    "meaning_zh": "容纳更多人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_001133",
+    "content": "accommodation cost",
+    "meaning_zh": "住宿费用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "雅思常见表达"
+  },
+  {
+    "item_code": "w_001135",
+    "content": "accommodation package",
+    "meaning_zh": "住宿套餐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "雅思住宿场景"
+  }
+]

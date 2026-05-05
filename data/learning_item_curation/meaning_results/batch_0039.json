@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_002564",
+    "content": "algeba",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_002572",
+    "content": "algiba",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_002577",
+    "content": "aliane",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写或专名"
+  },
+  {
+    "item_code": "w_002579",
+    "content": "aliasing",
+    "meaning_zh": "混叠；别名化",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_002620",
+    "content": "alkali land",
+    "meaning_zh": "碱地；盐碱地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地理农业术语"
+  },
+  {
+    "item_code": "w_002639",
+    "content": "all aspects",
+    "meaning_zh": "各个方面；所有方面",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语"
+  },
+  {
+    "item_code": "w_002644",
+    "content": "All goes well.",
+    "meaning_zh": "一切顺利",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用句子表达"
+  },
+  {
+    "item_code": "w_002650",
+    "content": "all on one's own",
+    "meaning_zh": "独自地；全靠自己",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_002651",
+    "content": "all on your own",
+    "meaning_zh": "独自地；全靠你自己",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_002662",
+    "content": "all stripes",
+    "meaning_zh": "各种类型；各色各样",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见于of all stripes"
+  },
+  {
+    "item_code": "w_002673",
+    "content": "all through the year",
+    "meaning_zh": "全年；一年到头",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "时间短语"
+  },
+  {
+    "item_code": "w_002674",
+    "content": "all throughout the country",
+    "meaning_zh": "遍及全国；全国各地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地点范围短语"
+  },
+  {
+    "item_code": "w_002675",
+    "content": "all throughout the world",
+    "meaning_zh": "遍及全世界；世界各地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地点范围短语"
+  },
+  {
+    "item_code": "w_002681",
+    "content": "all varieties of",
+    "meaning_zh": "各种各样的；各种类型的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_002687",
+    "content": "all-expenses-paid seminar",
+    "meaning_zh": "费用全包的研讨会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务学习短语"
+  },
+  {
+    "item_code": "w_002697",
+    "content": "all-round ability",
+    "meaning_zh": "全面能力；综合能力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育常用搭配"
+  },
+  {
+    "item_code": "w_002698",
+    "content": "all-round good students",
+    "meaning_zh": "全面发展的优秀学生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育常用表达"
+  },
+  {
+    "item_code": "w_002699",
+    "content": "all-round talent",
+    "meaning_zh": "全面型人才；全才",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人才评价表达"
+  },
+  {
+    "item_code": "w_002700",
+    "content": "all-round title",
+    "meaning_zh": "全能冠军称号；全能头衔",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "多用于体育语境"
+  },
+  {
+    "item_code": "w_002702",
+    "content": "all-talking film",
+    "meaning_zh": "全有声电影",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "电影史术语"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_056097",
+    "content": "play with doll's house",
+    "meaning_zh": "玩娃娃屋",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见儿童活动短语"
+  },
+  {
+    "item_code": "w_056099",
+    "content": "play with friends",
+    "meaning_zh": "和朋友一起玩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_056100",
+    "content": "play with magic cubes",
+    "meaning_zh": "玩魔方",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见玩具活动表达"
+  },
+  {
+    "item_code": "w_056101",
+    "content": "play with plasticene",
+    "meaning_zh": "玩橡皮泥",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为plasticine拼写"
+  },
+  {
+    "item_code": "w_056102",
+    "content": "play with toys",
+    "meaning_zh": "玩玩具",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见基础短语"
+  },
+  {
+    "item_code": "w_056103",
+    "content": "play your heart out",
+    "meaning_zh": "尽情地玩；全力演奏；全力比赛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "习语含义依语境变化"
+  },
+  {
+    "item_code": "w_056104",
+    "content": "play-face",
+    "meaning_zh": "嬉戏表情",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "动物行为术语"
+  },
+  {
+    "item_code": "w_056111",
+    "content": "played chess",
+    "meaning_zh": "下了棋；曾经下棋",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_056112",
+    "content": "played computer games",
+    "meaning_zh": "玩了电脑游戏；曾玩电脑游戏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础动词短语"
+  },
+  {
+    "item_code": "w_056113",
+    "content": "played the piano",
+    "meaning_zh": "弹了钢琴；曾弹钢琴",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_056116",
+    "content": "playful catch",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不常见且无例句"
+  },
+  {
+    "item_code": "w_056122",
+    "content": "playground swing",
+    "meaning_zh": "操场秋千；游乐场秋千",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见设施名词短语"
+  },
+  {
+    "item_code": "w_056125",
+    "content": "playing baseball",
+    "meaning_zh": "打棒球；正在打棒球",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_056130",
+    "content": "playing the guitar",
+    "meaning_zh": "弹吉他；正在弹吉他",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_056131",
+    "content": "playing the piano",
+    "meaning_zh": "弹钢琴；正在弹钢琴",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_056140",
+    "content": "playwright chore",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常且无例句"
+  },
+  {
+    "item_code": "w_056147",
+    "content": "plead against",
+    "meaning_zh": "反对；为反对某事辩护",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "法律辩护相关短语"
+  },
+  {
+    "item_code": "w_056153",
+    "content": "pleasant living environment",
+    "meaning_zh": "舒适的居住环境",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见写作搭配"
+  },
+  {
+    "item_code": "w_056154",
+    "content": "pleasant surprise",
+    "meaning_zh": "惊喜；令人愉快的意外",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_056170",
+    "content": "plebeian scrawl",
+    "meaning_zh": "粗俗潦草的字迹",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按形容词名词搭配"
+  }
+]

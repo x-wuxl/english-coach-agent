@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_049050",
+    "content": "narcotic mint stack",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无可靠含义"
+  },
+  {
+    "item_code": "w_049053",
+    "content": "narrate controversy deficiency",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无可靠含义"
+  },
+  {
+    "item_code": "w_049057",
+    "content": "narrative prose",
+    "meaning_zh": "叙事散文",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见文学术语"
+  },
+  {
+    "item_code": "w_049059",
+    "content": "narrator premier project projection",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无可靠含义"
+  },
+  {
+    "item_code": "w_049061",
+    "content": "narrow ahead",
+    "meaning_zh": "前方变窄",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见道路警示表达"
+  },
+  {
+    "item_code": "w_049064",
+    "content": "narrow the distance between",
+    "meaning_zh": "缩小……之间的距离；拉近……之间的差距",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_049071",
+    "content": "nary",
+    "meaning_zh": "没有一个；毫无",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见词但有明确含义"
+  },
+  {
+    "item_code": "w_049073",
+    "content": "nasagami",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声或拼写错误"
+  },
+  {
+    "item_code": "w_049078",
+    "content": "nascent baron pity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无可靠含义"
+  },
+  {
+    "item_code": "w_049085",
+    "content": "nastics",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似残缺词或拼写错误"
+  },
+  {
+    "item_code": "w_049088",
+    "content": "nasty furniture bulletin indemnity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无可靠含义"
+  },
+  {
+    "item_code": "w_049089",
+    "content": "nasty sigmoid",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然无可靠含义"
+  },
+  {
+    "item_code": "w_049090",
+    "content": "nasty taste touch",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无可靠含义"
+  },
+  {
+    "item_code": "w_049091",
+    "content": "nat",
+    "meaning_zh": "网络地址转换",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "计算机常见缩写"
+  },
+  {
+    "item_code": "w_049094",
+    "content": "Nathaniel Ward",
+    "meaning_zh": "纳撒尼尔·沃德",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "人名专有名词"
+  },
+  {
+    "item_code": "w_049096",
+    "content": "Nation Weather Service",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑为National拼写缺失"
+  },
+  {
+    "item_code": "w_049100",
+    "content": "nationable",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准词疑似错误"
+  },
+  {
+    "item_code": "w_049108",
+    "content": "national cohesion",
+    "meaning_zh": "民族凝聚力；国家凝聚力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政治社会表达"
+  },
+  {
+    "item_code": "w_049109",
+    "content": "national college entrance examination",
+    "meaning_zh": "全国高等学校招生考试；高考",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教育术语"
+  },
+  {
+    "item_code": "w_049115",
+    "content": "National Day floral displays",
+    "meaning_zh": "国庆节花卉布置；国庆花坛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见活动景观表达"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_075540",
+    "content": "tourist distribution center",
+    "meaning_zh": "游客集散中心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅游服务设施"
+  },
+  {
+    "item_code": "w_075541",
+    "content": "tourist drought",
+    "meaning_zh": "游客荒；旅游客源不足",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配较少见但可判断"
+  },
+  {
+    "item_code": "w_075544",
+    "content": "tourist information centre",
+    "meaning_zh": "旅游咨询中心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定旅游服务表达"
+  },
+  {
+    "item_code": "w_075550",
+    "content": "tourist sight",
+    "meaning_zh": "旅游景点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅游搭配"
+  },
+  {
+    "item_code": "w_075551",
+    "content": "tourist souvenir",
+    "meaning_zh": "旅游纪念品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅游搭配"
+  },
+  {
+    "item_code": "w_075553",
+    "content": "tourist streams",
+    "meaning_zh": "游客流；旅游客流",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅游研究常用表达"
+  },
+  {
+    "item_code": "w_075555",
+    "content": "tourist trail",
+    "meaning_zh": "游览线路；旅游步道",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅游路线表达"
+  },
+  {
+    "item_code": "w_075562",
+    "content": "tournament training",
+    "meaning_zh": "锦标赛训练；赛前训练",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "体育训练搭配"
+  },
+  {
+    "item_code": "w_075566",
+    "content": "tout infraction",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然难判断"
+  },
+  {
+    "item_code": "w_075581",
+    "content": "towering debt",
+    "meaning_zh": "巨额债务；高筑的债务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容债务巨大"
+  },
+  {
+    "item_code": "w_075598",
+    "content": "toxic chemical constituent",
+    "meaning_zh": "有毒化学成分",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "化学环保常用搭配"
+  },
+  {
+    "item_code": "w_075599",
+    "content": "toxic compound",
+    "meaning_zh": "有毒化合物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "化学术语搭配"
+  },
+  {
+    "item_code": "w_075600",
+    "content": "toxic emission",
+    "meaning_zh": "有毒排放物；有毒气体排放",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保语境常见"
+  },
+  {
+    "item_code": "w_075601",
+    "content": "toxic friend",
+    "meaning_zh": "有毒朋友；带来负面影响的朋友",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人际关系常用说法"
+  },
+  {
+    "item_code": "w_075602",
+    "content": "toxic running track",
+    "meaning_zh": "有毒跑道",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "校园环保相关表达"
+  },
+  {
+    "item_code": "w_075618",
+    "content": "toy bear",
+    "meaning_zh": "玩具熊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "儿童词汇常见"
+  },
+  {
+    "item_code": "w_075621",
+    "content": "toy gun",
+    "meaning_zh": "玩具枪",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见物品名称"
+  },
+  {
+    "item_code": "w_075639",
+    "content": "traceback",
+    "meaning_zh": "回溯；错误追踪信息",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_075651",
+    "content": "track & field events",
+    "meaning_zh": "田径项目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "体育固定表达"
+  },
+  {
+    "item_code": "w_075661",
+    "content": "tracking protection",
+    "meaning_zh": "跟踪保护；防跟踪功能",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "隐私技术术语"
+  }
+]

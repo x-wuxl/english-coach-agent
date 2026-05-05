@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_001956",
+    "content": "aerial antenna",
+    "meaning_zh": "天线；空中天线",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定名词短语"
+  },
+  {
+    "item_code": "w_001957",
+    "content": "aerial display",
+    "meaning_zh": "飞行表演；空中展示",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_001973",
+    "content": "aerodite",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_001976",
+    "content": "aerodynamic construction",
+    "meaning_zh": "空气动力学结构；气动构造",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专业搭配"
+  },
+  {
+    "item_code": "w_001977",
+    "content": "aerodynamic shape",
+    "meaning_zh": "符合空气动力学的外形；流线型",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见技术搭配"
+  },
+  {
+    "item_code": "w_001979",
+    "content": "aerodyte",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_001996",
+    "content": "aerospace economy",
+    "meaning_zh": "航空航天经济",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "领域术语"
+  },
+  {
+    "item_code": "w_002021",
+    "content": "affect children's happiness",
+    "meaning_zh": "影响儿童幸福感",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动宾短语"
+  },
+  {
+    "item_code": "w_002022",
+    "content": "affect mood",
+    "meaning_zh": "影响情绪",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_002023",
+    "content": "affect school achievements",
+    "meaning_zh": "影响学业成绩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育场景搭配"
+  },
+  {
+    "item_code": "w_002028",
+    "content": "affection between blood relations",
+    "meaning_zh": "血亲之间的感情；血缘亲情",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语整体释义"
+  },
+  {
+    "item_code": "w_002046",
+    "content": "affix value to sth.",
+    "meaning_zh": "给某物赋予价值；把价值附加于某物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配较少见"
+  },
+  {
+    "item_code": "w_002049",
+    "content": "afflict lateral inoperable",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无合理搭配"
+  },
+  {
+    "item_code": "w_002053",
+    "content": "affliction sanctify",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词汇拼接"
+  },
+  {
+    "item_code": "w_002057",
+    "content": "affluent footloose",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词汇拼接"
+  },
+  {
+    "item_code": "w_002058",
+    "content": "affluent polymer quiver",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_002059",
+    "content": "affluvium insulate lampoon",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_002061",
+    "content": "afford free",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_002064",
+    "content": "afford toys",
+    "meaning_zh": "买得起玩具；负担得起玩具",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾短语"
+  },
+  {
+    "item_code": "w_002068",
+    "content": "affordable housing project",
+    "meaning_zh": "保障性住房项目；经济适用房项目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政策术语"
+  }
+]

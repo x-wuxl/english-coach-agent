@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_065867",
+    "content": "shake gently roughly",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成形"
+  },
+  {
+    "item_code": "w_065874",
+    "content": "shake one's belief",
+    "meaning_zh": "动摇某人的信念",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配含义明确"
+  },
+  {
+    "item_code": "w_065882",
+    "content": "Shakespeare Memorial Theatre",
+    "meaning_zh": "莎士比亚纪念剧院",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词"
+  },
+  {
+    "item_code": "w_065883",
+    "content": "Shakespeare's sonnets",
+    "meaning_zh": "莎士比亚十四行诗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文学作品类表达"
+  },
+  {
+    "item_code": "w_065892",
+    "content": "shallow copy",
+    "meaning_zh": "浅拷贝",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_065893",
+    "content": "shallow stout hearted forfeit",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无明确义"
+  },
+  {
+    "item_code": "w_065898",
+    "content": "sham elate limber coerce",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无明确义"
+  },
+  {
+    "item_code": "w_065904",
+    "content": "shame parade",
+    "meaning_zh": "公开羞辱活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可推断"
+  },
+  {
+    "item_code": "w_065907",
+    "content": "shameful relay moss",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无明确义"
+  },
+  {
+    "item_code": "w_065913",
+    "content": "Shanghai Gold Benchmark Price",
+    "meaning_zh": "上海金基准价",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融专有术语"
+  },
+  {
+    "item_code": "w_065915",
+    "content": "Shanghai Spirit",
+    "meaning_zh": "上海精神",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有政治术语"
+  },
+  {
+    "item_code": "w_065916",
+    "content": "Shanghai-HK Stock Connect",
+    "meaning_zh": "沪港通",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融专有术语"
+  },
+  {
+    "item_code": "w_065917",
+    "content": "Shanghai-Hong Kong Stock Connect",
+    "meaning_zh": "沪港通",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融专有术语"
+  },
+  {
+    "item_code": "w_065924",
+    "content": "shape one's inclination",
+    "meaning_zh": "影响某人的倾向",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动宾搭配含义明确"
+  },
+  {
+    "item_code": "w_065925",
+    "content": "shape shaped",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "重复变形无学习价值"
+  },
+  {
+    "item_code": "w_065937",
+    "content": "share fridge",
+    "meaning_zh": "共享冰箱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可推断"
+  },
+  {
+    "item_code": "w_065938",
+    "content": "share happiness and sadness",
+    "meaning_zh": "分享快乐与悲伤；同甘共苦",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_065939",
+    "content": "share ideas",
+    "meaning_zh": "交流想法；分享观点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_065944",
+    "content": "share same interest",
+    "meaning_zh": "有相同兴趣",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_065947",
+    "content": "share the beauty",
+    "meaning_zh": "分享美好；共享美景",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义依语境"
+  }
+]

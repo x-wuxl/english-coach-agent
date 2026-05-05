@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_016501",
+    "content": "conservative durable",
+    "meaning_zh": "保守且耐用的",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配生硬价值低"
+  },
+  {
+    "item_code": "w_016504",
+    "content": "conservative ideas",
+    "meaning_zh": "保守思想；保守观念",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政治表达"
+  },
+  {
+    "item_code": "w_016505",
+    "content": "Conservative leadership race",
+    "meaning_zh": "保守党党首竞选",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治新闻常见短语"
+  },
+  {
+    "item_code": "w_016511",
+    "content": "conserve natural habitats",
+    "meaning_zh": "保护自然栖息地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保常见搭配"
+  },
+  {
+    "item_code": "w_016512",
+    "content": "conserve purvey testimony",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "明显噪声搭配"
+  },
+  {
+    "item_code": "w_016516",
+    "content": "consider ... done",
+    "meaning_zh": "认为……已完成；就当……办妥了",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型搭配"
+  },
+  {
+    "item_code": "w_016517",
+    "content": "consider ... important",
+    "meaning_zh": "认为……重要",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见宾补结构"
+  },
+  {
+    "item_code": "w_016518",
+    "content": "consider ... to be",
+    "meaning_zh": "认为……是",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型搭配"
+  },
+  {
+    "item_code": "w_016519",
+    "content": "consider about",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "搭配不规范"
+  },
+  {
+    "item_code": "w_016521",
+    "content": "consider consideration",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词形堆叠噪声"
+  },
+  {
+    "item_code": "w_016524",
+    "content": "consider to be",
+    "meaning_zh": "认为是",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "省略宾语的句型"
+  },
+  {
+    "item_code": "w_016526",
+    "content": "considerable revenue",
+    "meaning_zh": "可观的收入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商务搭配"
+  },
+  {
+    "item_code": "w_016531",
+    "content": "consideration for",
+    "meaning_zh": "对……的考虑；对……的体谅",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词搭配"
+  },
+  {
+    "item_code": "w_016533",
+    "content": "considered to be",
+    "meaning_zh": "被认为是",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_016549",
+    "content": "consistency of positioning",
+    "meaning_zh": "定位的一致性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作学术表达"
+  },
+  {
+    "item_code": "w_016551",
+    "content": "consistent enforce paraphrase",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "明显噪声搭配"
+  },
+  {
+    "item_code": "w_016562",
+    "content": "consolidate consensus",
+    "meaning_zh": "巩固共识",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_016563",
+    "content": "consolidate dealer burglar",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "明显噪声搭配"
+  },
+  {
+    "item_code": "w_016569",
+    "content": "consonant kindred",
+    "meaning_zh": "一致的；同类的",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "并列词义不成搭配"
+  },
+  {
+    "item_code": "w_016576",
+    "content": "conspicuous improvements",
+    "meaning_zh": "显著的改进",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  }
+]

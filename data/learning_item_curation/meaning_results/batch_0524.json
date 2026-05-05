@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_050916",
+    "content": "objective pedestrian",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成立"
+  },
+  {
+    "item_code": "w_050932",
+    "content": "oblige sb. to do",
+    "meaning_zh": "迫使某人做某事；使某人有义务做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_050936",
+    "content": "obliging morose",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词语组合"
+  },
+  {
+    "item_code": "w_050945",
+    "content": "obliterate resonate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词语组合"
+  },
+  {
+    "item_code": "w_050959",
+    "content": "obscond",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_050961",
+    "content": "obscure himaplegia",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含拼写错误且不成词组"
+  },
+  {
+    "item_code": "w_050972",
+    "content": "observant shop worn diaphanus",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词语组合"
+  },
+  {
+    "item_code": "w_050974",
+    "content": "observation and meditation",
+    "meaning_zh": "观察与沉思",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_050980",
+    "content": "observe an anniversary",
+    "meaning_zh": "纪念周年；庆祝周年",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_050981",
+    "content": "observe equilibrate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词语组合"
+  },
+  {
+    "item_code": "w_050982",
+    "content": "observe objects",
+    "meaning_zh": "观察物体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通动宾搭配"
+  },
+  {
+    "item_code": "w_050983",
+    "content": "observe observation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语重复且不自然"
+  },
+  {
+    "item_code": "w_050984",
+    "content": "observe personnel",
+    "meaning_zh": "观察人员；监督人员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解但语境不足"
+  },
+  {
+    "item_code": "w_050985",
+    "content": "observe the law",
+    "meaning_zh": "遵守法律",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_050988",
+    "content": "observing",
+    "meaning_zh": "观察；遵守；庆祝",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句体现主要义项"
+  },
+  {
+    "item_code": "w_050990",
+    "content": "obsess eradicate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词语组合"
+  },
+  {
+    "item_code": "w_050991",
+    "content": "obsess over",
+    "meaning_zh": "过度纠结于；痴迷于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词"
+  },
+  {
+    "item_code": "w_050997",
+    "content": "obsessive paranoia haranoid",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含错误词且不成词组"
+  },
+  {
+    "item_code": "w_051005",
+    "content": "obsolete disregard",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词语组合"
+  },
+  {
+    "item_code": "w_051006",
+    "content": "obsolete fault finder rye",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词语组合"
+  }
+]

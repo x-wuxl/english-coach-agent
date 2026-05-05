@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_017273",
+    "content": "correct the mistakes",
+    "meaning_zh": "改正错误",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_017276",
+    "content": "correction pen",
+    "meaning_zh": "修正笔；涂改笔",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习用品"
+  },
+  {
+    "item_code": "w_017285",
+    "content": "correlate a grieve preponderant",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词组不成立"
+  },
+  {
+    "item_code": "w_017300",
+    "content": "correspondent relationship",
+    "meaning_zh": "代理行关系；往来关系",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "商务金融搭配"
+  },
+  {
+    "item_code": "w_017304",
+    "content": "corresponding diagnosis",
+    "meaning_zh": "相应诊断",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "普通专业搭配"
+  },
+  {
+    "item_code": "w_017305",
+    "content": "corresponding side",
+    "meaning_zh": "对应边",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "几何常见术语"
+  },
+  {
+    "item_code": "w_017314",
+    "content": "corrosion activity",
+    "meaning_zh": "腐蚀活性；腐蚀作用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "科技类搭配"
+  },
+  {
+    "item_code": "w_017316",
+    "content": "corrosive effect",
+    "meaning_zh": "腐蚀作用；侵蚀影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_017319",
+    "content": "corrugated buck probity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词组不成立"
+  },
+  {
+    "item_code": "w_017321",
+    "content": "corrupt spouse",
+    "meaning_zh": "腐败的配偶；堕落的配偶",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语义可判断"
+  },
+  {
+    "item_code": "w_017323",
+    "content": "corrupted bureaucrats",
+    "meaning_zh": "腐败的官僚；被腐化的官员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政治表达"
+  },
+  {
+    "item_code": "w_017326",
+    "content": "corruption conviction",
+    "meaning_zh": "腐败罪定罪；贪腐定罪",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律新闻搭配"
+  },
+  {
+    "item_code": "w_017327",
+    "content": "corruption phenomenon",
+    "meaning_zh": "腐败现象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会话题"
+  },
+  {
+    "item_code": "w_017341",
+    "content": "corum",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_017350",
+    "content": "cosmetic deodorant",
+    "meaning_zh": "化妆品除臭剂；体香剂",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "日化用品搭配"
+  },
+  {
+    "item_code": "w_017351",
+    "content": "cosmetic provincial spore",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词组不成立"
+  },
+  {
+    "item_code": "w_017354",
+    "content": "cosmetics counter",
+    "meaning_zh": "化妆品专柜",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "购物常见表达"
+  },
+  {
+    "item_code": "w_017363",
+    "content": "cosmological map",
+    "meaning_zh": "宇宙学地图",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术术语搭配"
+  },
+  {
+    "item_code": "w_017376",
+    "content": "cost charge",
+    "meaning_zh": "成本费用；费用收取",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "商务语境可用"
+  },
+  {
+    "item_code": "w_017389",
+    "content": "costal gum",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "搭配含义不明"
+  }
+]

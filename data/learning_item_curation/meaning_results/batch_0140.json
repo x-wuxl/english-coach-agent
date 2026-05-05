@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_012594",
+    "content": "catastrophe commonsensical upgrade",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成常用表达"
+  },
+  {
+    "item_code": "w_012595",
+    "content": "catastrophe surprise course",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成常用表达"
+  },
+  {
+    "item_code": "w_012605",
+    "content": "catch a flu",
+    "meaning_zh": "染上流感；感冒",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见搭配变体"
+  },
+  {
+    "item_code": "w_012607",
+    "content": "catch an illness",
+    "meaning_zh": "患病；染上疾病",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_012614",
+    "content": "catch one's attention",
+    "meaning_zh": "引起某人的注意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_012616",
+    "content": "catch oneself doing sth.",
+    "meaning_zh": "突然发觉自己在做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型"
+  },
+  {
+    "item_code": "w_012619",
+    "content": "catch people's eyes",
+    "meaning_zh": "吸引人们的目光",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_012625",
+    "content": "catch sb.'s eye",
+    "meaning_zh": "吸引某人的目光；引起某人注意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_012627",
+    "content": "catch the attention of",
+    "meaning_zh": "引起……的注意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_012631",
+    "content": "catch the sight of",
+    "meaning_zh": "看见；瞥见",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "近似固定搭配"
+  },
+  {
+    "item_code": "w_012640",
+    "content": "catch-size limit",
+    "meaning_zh": "捕捞尺寸限制；渔获尺寸限制",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "渔业术语"
+  },
+  {
+    "item_code": "w_012644",
+    "content": "catching and throwing skill",
+    "meaning_zh": "接球和投掷技能",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技能类短语"
+  },
+  {
+    "item_code": "w_012655",
+    "content": "categorical obligatory surpass",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成常用表达"
+  },
+  {
+    "item_code": "w_012662",
+    "content": "categorize professional",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_012672",
+    "content": "cater to somebody",
+    "meaning_zh": "迎合某人；满足某人的需要",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_012673",
+    "content": "cater to something",
+    "meaning_zh": "迎合某事物；满足某种需要",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_012675",
+    "content": "cater to the needs",
+    "meaning_zh": "满足需求；迎合需要",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_012679",
+    "content": "catering ventures",
+    "meaning_zh": "餐饮企业；餐饮创业项目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "商业类短语"
+  },
+  {
+    "item_code": "w_012683",
+    "content": "cath",
+    "meaning_zh": "导管；导管插入术",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学缩写"
+  },
+  {
+    "item_code": "w_012684",
+    "content": "cath anesthesia",
+    "meaning_zh": "导管麻醉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学术语"
+  }
+]

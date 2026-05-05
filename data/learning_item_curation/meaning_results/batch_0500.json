@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_048278",
+    "content": "motivate students' interest",
+    "meaning_zh": "激发学生的兴趣",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教学搭配"
+  },
+  {
+    "item_code": "w_048282",
+    "content": "motivation and interactivity",
+    "meaning_zh": "动机和互动性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育主题搭配"
+  },
+  {
+    "item_code": "w_048283",
+    "content": "motivation for doing sth.",
+    "meaning_zh": "做某事的动机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配结构"
+  },
+  {
+    "item_code": "w_048296",
+    "content": "motor vehicle exhaust",
+    "meaning_zh": "机动车尾气",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环境话题常用语"
+  },
+  {
+    "item_code": "w_048297",
+    "content": "motor vehicle pollution",
+    "meaning_zh": "机动车污染",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环境话题常用语"
+  },
+  {
+    "item_code": "w_048299",
+    "content": "motor-boat race",
+    "meaning_zh": "摩托艇比赛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "体育赛事名词"
+  },
+  {
+    "item_code": "w_048302",
+    "content": "motorbike motorcycle",
+    "meaning_zh": "摩托车",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "同义词并列"
+  },
+  {
+    "item_code": "w_048307",
+    "content": "motorcycle lane",
+    "meaning_zh": "摩托车道",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通场景搭配"
+  },
+  {
+    "item_code": "w_048308",
+    "content": "motorcycle troops",
+    "meaning_zh": "摩托化部队；摩托车部队",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "军事搭配较少见"
+  },
+  {
+    "item_code": "w_048313",
+    "content": "motorist reverse",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠噪声"
+  },
+  {
+    "item_code": "w_048317",
+    "content": "motorway overtake bridge",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠噪声"
+  },
+  {
+    "item_code": "w_048322",
+    "content": "motto elastic",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠噪声"
+  },
+  {
+    "item_code": "w_048323",
+    "content": "motto rationale relevance",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠噪声"
+  },
+  {
+    "item_code": "w_048332",
+    "content": "Mount Kilauea",
+    "meaning_zh": "基拉韦厄火山",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有地名"
+  },
+  {
+    "item_code": "w_048337",
+    "content": "Mount Taishan",
+    "meaning_zh": "泰山",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有地名"
+  },
+  {
+    "item_code": "w_048338",
+    "content": "mount the steps",
+    "meaning_zh": "登上台阶",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词搭配"
+  },
+  {
+    "item_code": "w_048349",
+    "content": "mountain resort",
+    "meaning_zh": "山地度假胜地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅游场景搭配"
+  },
+  {
+    "item_code": "w_048367",
+    "content": "mounting pressure",
+    "meaning_zh": "不断增加的压力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_048373",
+    "content": "mournful agitate aloof",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠噪声"
+  },
+  {
+    "item_code": "w_048376",
+    "content": "mourning apparel",
+    "meaning_zh": "丧服",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定名词搭配"
+  }
+]

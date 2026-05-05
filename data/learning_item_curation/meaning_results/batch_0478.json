@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_045672",
+    "content": "Marc LeBlanc",
+    "meaning_zh": "人名：马克·勒布朗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有姓名"
+  },
+  {
+    "item_code": "w_045678",
+    "content": "Marcia",
+    "meaning_zh": "人名：玛西娅",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见英文名"
+  },
+  {
+    "item_code": "w_045682",
+    "content": "Marek Kaminski",
+    "meaning_zh": "人名：马雷克·卡明斯基",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有姓名"
+  },
+  {
+    "item_code": "w_045691",
+    "content": "marginal flit",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声短语"
+  },
+  {
+    "item_code": "w_045692",
+    "content": "marginal social benefit",
+    "meaning_zh": "边际社会收益",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济学术语"
+  },
+  {
+    "item_code": "w_045698",
+    "content": "mari",
+    "meaning_zh": "人名：玛丽",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句作人名"
+  },
+  {
+    "item_code": "w_045701",
+    "content": "Mariah",
+    "meaning_zh": "人名：玛丽亚",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见英文名"
+  },
+  {
+    "item_code": "w_045706",
+    "content": "Marie Logan",
+    "meaning_zh": "人名：玛丽·洛根",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有姓名"
+  },
+  {
+    "item_code": "w_045710",
+    "content": "marijuana grass healing",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑噪声"
+  },
+  {
+    "item_code": "w_045723",
+    "content": "marine debris",
+    "meaning_zh": "海洋垃圾；海洋碎屑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保常用术语"
+  },
+  {
+    "item_code": "w_045725",
+    "content": "Marine Dispatch Service",
+    "meaning_zh": "海事调度服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "服务名称"
+  },
+  {
+    "item_code": "w_045726",
+    "content": "marine Easter augment",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无可靠含义"
+  },
+  {
+    "item_code": "w_045727",
+    "content": "marine invertebrates",
+    "meaning_zh": "海洋无脊椎动物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生物学术语"
+  },
+  {
+    "item_code": "w_045737",
+    "content": "marital fraud",
+    "meaning_zh": "婚姻欺诈",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律相关表达"
+  },
+  {
+    "item_code": "w_045740",
+    "content": "marital status certificate",
+    "meaning_zh": "婚姻状况证明",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "证件类表达"
+  },
+  {
+    "item_code": "w_045742",
+    "content": "maritime nuclear power plant",
+    "meaning_zh": "海上核电站",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "能源技术术语"
+  },
+  {
+    "item_code": "w_045743",
+    "content": "maritime propulsion",
+    "meaning_zh": "船舶推进；海上推进",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "航海工程术语"
+  },
+  {
+    "item_code": "w_045748",
+    "content": "Mark Hastings",
+    "meaning_zh": "人名：马克·黑斯廷斯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有姓名"
+  },
+  {
+    "item_code": "w_045749",
+    "content": "mark homework",
+    "meaning_zh": "批改作业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教学常用搭配"
+  },
+  {
+    "item_code": "w_045757",
+    "content": "marked indication",
+    "meaning_zh": "明显迹象；明确指示",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常规搭配含义"
+  }
+]

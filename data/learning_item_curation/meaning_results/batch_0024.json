@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_000957",
+    "content": "Abu",
+    "meaning_zh": "阿布（人名或专名成分）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见专名成分"
+  },
+  {
+    "item_code": "w_000960",
+    "content": "abundant encounter agree",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词拼接噪声"
+  },
+  {
+    "item_code": "w_000962",
+    "content": "abundant resource",
+    "meaning_zh": "丰富的资源",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_000982",
+    "content": "academic and vocational course",
+    "meaning_zh": "学术与职业课程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育类搭配"
+  },
+  {
+    "item_code": "w_000991",
+    "content": "academic convention",
+    "meaning_zh": "学术惯例；学术规范",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术场景常用"
+  },
+  {
+    "item_code": "w_000992",
+    "content": "academic corruption",
+    "meaning_zh": "学术腐败",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定学术表达"
+  },
+  {
+    "item_code": "w_000993",
+    "content": "academic credit system",
+    "meaning_zh": "学分制；学分制度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育制度术语"
+  },
+  {
+    "item_code": "w_000997",
+    "content": "academic English",
+    "meaning_zh": "学术英语",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见考试术语"
+  },
+  {
+    "item_code": "w_000999",
+    "content": "academic grade",
+    "meaning_zh": "学业成绩；学术等级",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义依语境略变"
+  },
+  {
+    "item_code": "w_001000",
+    "content": "academic interests",
+    "meaning_zh": "学术兴趣；研究兴趣",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "留学申请常用"
+  },
+  {
+    "item_code": "w_001001",
+    "content": "academic issue",
+    "meaning_zh": "学术问题；学业问题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育场景常用"
+  },
+  {
+    "item_code": "w_001003",
+    "content": "academic misconduct",
+    "meaning_zh": "学术不端",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定学术术语"
+  },
+  {
+    "item_code": "w_001004",
+    "content": "academic plagiarism",
+    "meaning_zh": "学术剽窃；学术抄袭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定学术术语"
+  },
+  {
+    "item_code": "w_001005",
+    "content": "academic plan",
+    "meaning_zh": "学业计划；学习计划",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育场景常用"
+  },
+  {
+    "item_code": "w_001009",
+    "content": "academic schedule",
+    "meaning_zh": "学业安排；课程时间表",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育场景常用"
+  },
+  {
+    "item_code": "w_001020",
+    "content": "Academy of Arts",
+    "meaning_zh": "艺术学院；艺术院校",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "机构名称表达"
+  },
+  {
+    "item_code": "w_001022",
+    "content": "academy sciences",
+    "meaning_zh": "科学院",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑似缺少of"
+  },
+  {
+    "item_code": "w_001023",
+    "content": "Académie des Beaux-Arts",
+    "meaning_zh": "法国美术学院",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法语机构专名"
+  },
+  {
+    "item_code": "w_001027",
+    "content": "acapeligo",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_001039",
+    "content": "accelerate conveyance",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_075476",
+    "content": "totally dread imagination despise",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配噪声"
+  },
+  {
+    "item_code": "w_075477",
+    "content": "totalogical",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_075483",
+    "content": "totology",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_075488",
+    "content": "touch ball",
+    "meaning_zh": "触球",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "体育常见搭配"
+  },
+  {
+    "item_code": "w_075494",
+    "content": "touch one's heart",
+    "meaning_zh": "打动某人；触动某人的心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_075509",
+    "content": "tough material",
+    "meaning_zh": "坚韧的材料；耐用材料",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_075510",
+    "content": "tough nails",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "固定表达残片"
+  },
+  {
+    "item_code": "w_075511",
+    "content": "tough resistance",
+    "meaning_zh": "顽强抵抗；强烈反抗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_075512",
+    "content": "tough training",
+    "meaning_zh": "艰苦训练；严格训练",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_075524",
+    "content": "tour-bus accident",
+    "meaning_zh": "旅游巴士事故",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合名词短语"
+  },
+  {
+    "item_code": "w_075525",
+    "content": "toured",
+    "meaning_zh": "游览；巡回访问",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  },
+  {
+    "item_code": "w_075526",
+    "content": "toured capitulate wastrol",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配噪声"
+  },
+  {
+    "item_code": "w_075529",
+    "content": "tourism boom",
+    "meaning_zh": "旅游业繁荣；旅游热潮",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见经济搭配"
+  },
+  {
+    "item_code": "w_075530",
+    "content": "tourism campaign",
+    "meaning_zh": "旅游推广活动；旅游宣传活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅游搭配"
+  },
+  {
+    "item_code": "w_075531",
+    "content": "tourism consumption",
+    "meaning_zh": "旅游消费",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见经济术语"
+  },
+  {
+    "item_code": "w_075532",
+    "content": "tourism facilities",
+    "meaning_zh": "旅游设施",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅游搭配"
+  },
+  {
+    "item_code": "w_075533",
+    "content": "tourism wave",
+    "meaning_zh": "旅游热潮",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境化搭配"
+  },
+  {
+    "item_code": "w_075535",
+    "content": "tourist admission fee",
+    "meaning_zh": "游客入场费；景点门票费",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅游场景短语"
+  },
+  {
+    "item_code": "w_075538",
+    "content": "tourist class",
+    "meaning_zh": "经济舱；普通舱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通旅行术语"
+  },
+  {
+    "item_code": "w_075539",
+    "content": "tourist class seating",
+    "meaning_zh": "经济舱座位；普通舱座位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通旅行术语"
+  }
+]

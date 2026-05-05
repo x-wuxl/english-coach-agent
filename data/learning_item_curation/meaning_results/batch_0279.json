@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_026422",
+    "content": "extras",
+    "meaning_zh": "额外项目；附加费用；临时演员",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见复数名词"
+  },
+  {
+    "item_code": "w_026426",
+    "content": "extraterrestrial tribal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "组合生硬含义不清"
+  },
+  {
+    "item_code": "w_026439",
+    "content": "extreme game",
+    "meaning_zh": "极限运动项目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "应按短语理解"
+  },
+  {
+    "item_code": "w_026440",
+    "content": "extreme games",
+    "meaning_zh": "极限运动；极限运动会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见运动类表达"
+  },
+  {
+    "item_code": "w_026445",
+    "content": "extremely concession sensible",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌不成义"
+  },
+  {
+    "item_code": "w_026450",
+    "content": "extremity military sparkle egu",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含噪声且不成义"
+  },
+  {
+    "item_code": "w_026458",
+    "content": "extroverted behaviour",
+    "meaning_zh": "外向的行为表现",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见心理描述短语"
+  },
+  {
+    "item_code": "w_026471",
+    "content": "exume",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_026482",
+    "content": "eye or respiratory irritants",
+    "meaning_zh": "刺激眼睛或呼吸道的物质",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环境健康类表达"
+  },
+  {
+    "item_code": "w_026484",
+    "content": "eye-catching development",
+    "meaning_zh": "引人注目的发展",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_026491",
+    "content": "eyebrow wax",
+    "meaning_zh": "眉毛脱毛蜡；眉毛修蜡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "美容护理术语"
+  },
+  {
+    "item_code": "w_026499",
+    "content": "eyelid eyebrow lip tongue",
+    "meaning_zh": "眼睑；眉毛；嘴唇；舌头",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "多个词堆叠非词条"
+  },
+  {
+    "item_code": "w_026510",
+    "content": "f-string",
+    "meaning_zh": "格式化字符串",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程术语"
+  },
+  {
+    "item_code": "w_026513",
+    "content": "F/O",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写含义不明确"
+  },
+  {
+    "item_code": "w_026518",
+    "content": "fabric quality",
+    "meaning_zh": "面料质量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商品描述"
+  },
+  {
+    "item_code": "w_026519",
+    "content": "fabric tournament",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常含义不清"
+  },
+  {
+    "item_code": "w_026520",
+    "content": "fabric weaving",
+    "meaning_zh": "织物编织；织布",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "纺织类常见表达"
+  },
+  {
+    "item_code": "w_026522",
+    "content": "fabricate academic",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不完整"
+  },
+  {
+    "item_code": "w_026523",
+    "content": "fabricate academic credentials",
+    "meaning_zh": "伪造学历证明；编造学术资历",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动宾搭配"
+  },
+  {
+    "item_code": "w_026524",
+    "content": "fabricate sermon",
+    "meaning_zh": "编造布道内容",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解但不常见"
+  }
+]

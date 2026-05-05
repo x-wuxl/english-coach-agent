@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_060046",
+    "content": "ramshako",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准拼写"
+  },
+  {
+    "item_code": "w_060050",
+    "content": "rancher sausage",
+    "meaning_zh": "牧场风味香肠",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "食品类搭配"
+  },
+  {
+    "item_code": "w_060059",
+    "content": "random harrow",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_060060",
+    "content": "random instinct",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_060085",
+    "content": "rank grass",
+    "meaning_zh": "茂密杂草；疯长的草",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_060088",
+    "content": "ranker",
+    "meaning_zh": "排名者；普通士兵",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见派生词"
+  },
+  {
+    "item_code": "w_060098",
+    "content": "rap strip lean",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词串噪声"
+  },
+  {
+    "item_code": "w_060100",
+    "content": "rapacious inept",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_060106",
+    "content": "rapid bulky",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然搭配"
+  },
+  {
+    "item_code": "w_060110",
+    "content": "rapidly increasing income",
+    "meaning_zh": "快速增长的收入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见经济表达"
+  },
+  {
+    "item_code": "w_060117",
+    "content": "rapposhmon",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_060118",
+    "content": "rapprocheman",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_060129",
+    "content": "rare books division",
+    "meaning_zh": "珍本图书部",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "图书馆部门名称"
+  },
+  {
+    "item_code": "w_060132",
+    "content": "rare medium bake",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "表达混乱"
+  },
+  {
+    "item_code": "w_060134",
+    "content": "rare trees",
+    "meaning_zh": "稀有树种",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见环保表达"
+  },
+  {
+    "item_code": "w_060146",
+    "content": "rash satire",
+    "meaning_zh": "轻率的讽刺",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解形容词搭配"
+  },
+  {
+    "item_code": "w_060152",
+    "content": "raspy gossamer",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "语义搭配异常"
+  },
+  {
+    "item_code": "w_060155",
+    "content": "rat tribe",
+    "meaning_zh": "鼠族；居住条件差的低收入群体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "社会现象译名"
+  },
+  {
+    "item_code": "w_060162",
+    "content": "rate of chemical reaction",
+    "meaning_zh": "化学反应速率",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "化学术语"
+  },
+  {
+    "item_code": "w_060163",
+    "content": "rate of deforestation",
+    "meaning_zh": "森林砍伐速度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环境类常见表达"
+  }
+]

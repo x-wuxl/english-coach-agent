@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_033678",
+    "content": "have a big send-off",
+    "meaning_zh": "举行盛大的送别仪式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_033679",
+    "content": "have a birthday party",
+    "meaning_zh": "举办生日聚会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_033680",
+    "content": "have a black eye",
+    "meaning_zh": "眼眶青肿",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见习语"
+  },
+  {
+    "item_code": "w_033682",
+    "content": "have a blowout",
+    "meaning_zh": "爆胎；大吃大喝；举行狂欢",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "多义短语"
+  },
+  {
+    "item_code": "w_033684",
+    "content": "have a break from",
+    "meaning_zh": "从……中休息一下",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_033685",
+    "content": "have a bright idea",
+    "meaning_zh": "有个好主意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_033686",
+    "content": "have a capacity for",
+    "meaning_zh": "有……的能力；有……的潜力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_033688",
+    "content": "have a chance to",
+    "meaning_zh": "有机会做……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句吻合"
+  },
+  {
+    "item_code": "w_033689",
+    "content": "have a Charley horse",
+    "meaning_zh": "腿抽筋；肌肉痉挛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "美式固定说法"
+  },
+  {
+    "item_code": "w_033690",
+    "content": "have a check",
+    "meaning_zh": "检查一下；核对一下",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境略泛"
+  },
+  {
+    "item_code": "w_033691",
+    "content": "have a check-up",
+    "meaning_zh": "做体检",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医疗常用搭配"
+  },
+  {
+    "item_code": "w_033692",
+    "content": "have a close call",
+    "meaning_zh": "险些出事；侥幸脱险",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见习语"
+  },
+  {
+    "item_code": "w_033693",
+    "content": "have a close shave",
+    "meaning_zh": "险些出事；侥幸脱险",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语"
+  },
+  {
+    "item_code": "w_033695",
+    "content": "have a conniption",
+    "meaning_zh": "大发脾气；情绪失控",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "美式口语"
+  },
+  {
+    "item_code": "w_033696",
+    "content": "have a conniption fit",
+    "meaning_zh": "大发脾气；暴跳如雷",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定口语表达"
+  },
+  {
+    "item_code": "w_033697",
+    "content": "have a cosy life",
+    "meaning_zh": "过舒适安逸的生活",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "搭配含义明确"
+  },
+  {
+    "item_code": "w_033702",
+    "content": "have a different focus",
+    "meaning_zh": "有不同的重点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术表达常见"
+  },
+  {
+    "item_code": "w_033703",
+    "content": "have a difficult time",
+    "meaning_zh": "经历困难；过得艰难",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_033704",
+    "content": "have a downside",
+    "meaning_zh": "有缺点；有不利面",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_033706",
+    "content": "have a familiar ring",
+    "meaning_zh": "听起来耳熟",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语"
+  }
+]

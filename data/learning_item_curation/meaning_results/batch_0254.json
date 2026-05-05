@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_024125",
+    "content": "embryo breeding",
+    "meaning_zh": "胚胎育种",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生物学专业短语"
+  },
+  {
+    "item_code": "w_024129",
+    "content": "embryology portal",
+    "meaning_zh": "胚胎学门户网站",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专业领域名词短语"
+  },
+  {
+    "item_code": "w_024138",
+    "content": "emerge acknowledge",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合无固定义"
+  },
+  {
+    "item_code": "w_024143",
+    "content": "emergency fire door",
+    "meaning_zh": "紧急防火门",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见安全设施短语"
+  },
+  {
+    "item_code": "w_024145",
+    "content": "emergency response to heat",
+    "meaning_zh": "高温应急响应",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "按整体含义解释"
+  },
+  {
+    "item_code": "w_024150",
+    "content": "emergency treatment",
+    "meaning_zh": "急救；应急治疗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见医学短语"
+  },
+  {
+    "item_code": "w_024152",
+    "content": "emerges",
+    "meaning_zh": "出现；浮现；显露",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "emerge的三单形式"
+  },
+  {
+    "item_code": "w_024165",
+    "content": "emigrate meteorology",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合无固定义"
+  },
+  {
+    "item_code": "w_024166",
+    "content": "emigrate scowl",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合无固定义"
+  },
+  {
+    "item_code": "w_024171",
+    "content": "Emilio",
+    "meaning_zh": "埃米利奥",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见人名"
+  },
+  {
+    "item_code": "w_024175",
+    "content": "eminent implacable barrage",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个单词堆叠噪声"
+  },
+  {
+    "item_code": "w_024182",
+    "content": "emission of exhaust fumes",
+    "meaning_zh": "废气排放；尾气排放",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保主题常见搭配"
+  },
+  {
+    "item_code": "w_024184",
+    "content": "emission rights",
+    "meaning_zh": "排放权",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保经济术语"
+  },
+  {
+    "item_code": "w_024186",
+    "content": "emission-reduction regulations",
+    "meaning_zh": "减排规定；减排法规",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保政策短语"
+  },
+  {
+    "item_code": "w_024187",
+    "content": "emissions cheating scandal",
+    "meaning_zh": "排放作弊丑闻",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "新闻环保固定表达"
+  },
+  {
+    "item_code": "w_024196",
+    "content": "emoliant",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_024202",
+    "content": "emotion quotient",
+    "meaning_zh": "情商",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见心理学表达"
+  },
+  {
+    "item_code": "w_024204",
+    "content": "emotional characteristic",
+    "meaning_zh": "情绪特征；情感特征",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "心理描述短语"
+  },
+  {
+    "item_code": "w_024205",
+    "content": "emotional eating",
+    "meaning_zh": "情绪性进食",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "心理健康常用术语"
+  },
+  {
+    "item_code": "w_024206",
+    "content": "emotional empathy",
+    "meaning_zh": "情绪共情；情感共鸣",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "心理学常见术语"
+  }
+]

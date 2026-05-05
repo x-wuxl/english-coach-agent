@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_028049",
+    "content": "first-years students",
+    "meaning_zh": "一年级学生；大学新生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑似first-year拼写变体"
+  },
+  {
+    "item_code": "w_028053",
+    "content": "firstly deal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_028054",
+    "content": "firstname",
+    "meaning_zh": "名；名字",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表单字段"
+  },
+  {
+    "item_code": "w_028059",
+    "content": "fiscal appetite negotiation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配疑似噪声"
+  },
+  {
+    "item_code": "w_028062",
+    "content": "fiscal flexibility",
+    "meaning_zh": "财政灵活性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "财政经济常用表达"
+  },
+  {
+    "item_code": "w_028064",
+    "content": "fiscal responsibility system",
+    "meaning_zh": "财政责任制度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "制度类固定表达"
+  },
+  {
+    "item_code": "w_028074",
+    "content": "fish industry",
+    "meaning_zh": "渔业；水产行业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "行业类常见搭配"
+  },
+  {
+    "item_code": "w_028081",
+    "content": "fisher flatulence",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "语义不明疑似噪声"
+  },
+  {
+    "item_code": "w_028090",
+    "content": "fishing lesson",
+    "meaning_zh": "钓鱼课；捕鱼课程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可按字面短语理解"
+  },
+  {
+    "item_code": "w_028101",
+    "content": "fissure vent",
+    "meaning_zh": "裂隙喷口",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地质学术语"
+  },
+  {
+    "item_code": "w_028109",
+    "content": "fit ... into ...",
+    "meaning_zh": "把……装进……；把……安排进……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型表达"
+  },
+  {
+    "item_code": "w_028112",
+    "content": "fit health",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_028129",
+    "content": "fitness room",
+    "meaning_zh": "健身房",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "场所类常见表达"
+  },
+  {
+    "item_code": "w_028131",
+    "content": "Fitness-for-All programs",
+    "meaning_zh": "全民健身项目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策项目类表达"
+  },
+  {
+    "item_code": "w_028132",
+    "content": "fitted",
+    "meaning_zh": "合身的；装配好的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词义"
+  },
+  {
+    "item_code": "w_028133",
+    "content": "fitted clothes",
+    "meaning_zh": "合身的衣服；修身服装",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "服装类常见搭配"
+  },
+  {
+    "item_code": "w_028134",
+    "content": "fitted sheet alarm",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "组合异常疑似噪声"
+  },
+  {
+    "item_code": "w_028140",
+    "content": "fituchery",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_028142",
+    "content": "Five concepts of development",
+    "meaning_zh": "五大发展理念",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治术语固定译法"
+  },
+  {
+    "item_code": "w_028143",
+    "content": "five-character quatrain",
+    "meaning_zh": "五言绝句",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "诗歌术语固定译法"
+  }
+]

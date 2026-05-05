@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_051100",
+    "content": "ocean plant",
+    "meaning_zh": "海洋植物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "名词短语"
+  },
+  {
+    "item_code": "w_051109",
+    "content": "oceanic acidification",
+    "meaning_zh": "海洋酸化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环境科学术语"
+  },
+  {
+    "item_code": "w_051120",
+    "content": "ochre",
+    "meaning_zh": "赭石；赭色",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见词义"
+  },
+  {
+    "item_code": "w_051129",
+    "content": "octet",
+    "meaning_zh": "八位字节",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_051135",
+    "content": "ocularmucocutaneous",
+    "meaning_zh": "眼、黏膜和皮肤的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学复合形容词"
+  },
+  {
+    "item_code": "w_051142",
+    "content": "odd-and-even license plate rule",
+    "meaning_zh": "车牌单双号限行规则",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定政策表达"
+  },
+  {
+    "item_code": "w_051143",
+    "content": "odd-even car ban",
+    "meaning_zh": "单双号限行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通管制表达"
+  },
+  {
+    "item_code": "w_051154",
+    "content": "Ode to Joy",
+    "meaning_zh": "欢乐颂",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "作品名"
+  },
+  {
+    "item_code": "w_051173",
+    "content": "Oersted's experiment",
+    "meaning_zh": "奥斯特实验",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "物理实验名"
+  },
+  {
+    "item_code": "w_051181",
+    "content": "of all levels",
+    "meaning_zh": "各级的；各种水平的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词短语"
+  },
+  {
+    "item_code": "w_051183",
+    "content": "of Chinese origin",
+    "meaning_zh": "中国血统的；源自中国的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见来源表达"
+  },
+  {
+    "item_code": "w_051184",
+    "content": "of common concern",
+    "meaning_zh": "共同关心的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_051187",
+    "content": "of great interest",
+    "meaning_zh": "很有趣的；备受关注的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_051189",
+    "content": "of great significance",
+    "meaning_zh": "具有重大意义的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_051190",
+    "content": "of great urgency",
+    "meaning_zh": "十分紧急的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_051195",
+    "content": "of medium build",
+    "meaning_zh": "中等身材的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "外貌描述"
+  },
+  {
+    "item_code": "w_051196",
+    "content": "of medium height",
+    "meaning_zh": "中等身高的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "外貌描述"
+  },
+  {
+    "item_code": "w_051201",
+    "content": "of one's day",
+    "meaning_zh": "某人所处时代的；当时的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_051209",
+    "content": "of scale",
+    "meaning_zh": "规模的",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "非独立学习项"
+  },
+  {
+    "item_code": "w_051210",
+    "content": "of some kind",
+    "meaning_zh": "某种；某类",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_022078",
+    "content": "Don't pick flowers.",
+    "meaning_zh": "不要摘花",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "完整祈使句"
+  },
+  {
+    "item_code": "w_022079",
+    "content": "Don't throw stones.",
+    "meaning_zh": "不要扔石头",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义一致"
+  },
+  {
+    "item_code": "w_022085",
+    "content": "donate donor",
+    "meaning_zh": "捐赠；捐赠者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "相关词组合"
+  },
+  {
+    "item_code": "w_022087",
+    "content": "donate stubborn",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无关词拼接"
+  },
+  {
+    "item_code": "w_022110",
+    "content": "door to",
+    "meaning_zh": "在……隔壁",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "疑似缺少next"
+  },
+  {
+    "item_code": "w_022113",
+    "content": "door-to-door household survey",
+    "meaning_zh": "挨家挨户的住户调查",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定调查表达"
+  },
+  {
+    "item_code": "w_022114",
+    "content": "door-to-door interviews",
+    "meaning_zh": "挨家挨户的访谈",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见调查搭配"
+  },
+  {
+    "item_code": "w_022117",
+    "content": "doorbell unlock",
+    "meaning_zh": "门铃解锁",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "智能门禁相关"
+  },
+  {
+    "item_code": "w_022139",
+    "content": "dormant mercenary trenchant scrutinize",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词无搭配关系"
+  },
+  {
+    "item_code": "w_022148",
+    "content": "dormitory officer",
+    "meaning_zh": "宿舍管理员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "校园常用职务"
+  },
+  {
+    "item_code": "w_022159",
+    "content": "dosage dose",
+    "meaning_zh": "剂量；一剂",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "近义词组合"
+  },
+  {
+    "item_code": "w_022161",
+    "content": "doses of",
+    "meaning_zh": "若干剂量的；大量的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见数量搭配"
+  },
+  {
+    "item_code": "w_022164",
+    "content": "dot notation",
+    "meaning_zh": "点表示法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_022173",
+    "content": "dottle",
+    "meaning_zh": "烟斗中未燃尽的烟草",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "罕见名词"
+  },
+  {
+    "item_code": "w_022176",
+    "content": "Double 11",
+    "meaning_zh": "双十一",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句不匹配"
+  },
+  {
+    "item_code": "w_022177",
+    "content": "Double 11 Day",
+    "meaning_zh": "双十一购物节",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "节日名称"
+  },
+  {
+    "item_code": "w_022182",
+    "content": "double brick",
+    "meaning_zh": "双砖墙结构",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "建筑术语"
+  },
+  {
+    "item_code": "w_022183",
+    "content": "double contract",
+    "meaning_zh": "双重合同；阴阳合同",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "商业法律表达"
+  },
+  {
+    "item_code": "w_022191",
+    "content": "Double Income No Kids",
+    "meaning_zh": "丁克家庭；双收入无子女家庭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "社会学缩写全称"
+  },
+  {
+    "item_code": "w_022193",
+    "content": "Double Ninth Day",
+    "meaning_zh": "重阳节",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "传统节日名称"
+  }
+]

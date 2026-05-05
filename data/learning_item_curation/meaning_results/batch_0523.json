@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_050805",
+    "content": "nursery persecute nib",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼接噪声"
+  },
+  {
+    "item_code": "w_050812",
+    "content": "nurture sophism",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼接噪声"
+  },
+  {
+    "item_code": "w_050813",
+    "content": "nurture spectator",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼接噪声"
+  },
+  {
+    "item_code": "w_050822",
+    "content": "nutrient discard",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_050828",
+    "content": "nutrition loss",
+    "meaning_zh": "营养流失；营养损失",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见营养类搭配"
+  },
+  {
+    "item_code": "w_050829",
+    "content": "nutrition supplement",
+    "meaning_zh": "营养补充剂；营养补充",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见健康类搭配"
+  },
+  {
+    "item_code": "w_050832",
+    "content": "nutritional benefit",
+    "meaning_zh": "营养益处；营养价值",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "雅思常见表达"
+  },
+  {
+    "item_code": "w_050834",
+    "content": "nutritional food",
+    "meaning_zh": "营养食品；有营养的食物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达可理解但不常用"
+  },
+  {
+    "item_code": "w_050850",
+    "content": "nylon statistics",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_050872",
+    "content": "oath tremble",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_050874",
+    "content": "oatmeal oats",
+    "meaning_zh": "燕麦片；燕麦",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "近义词拼接"
+  },
+  {
+    "item_code": "w_050889",
+    "content": "obey the law",
+    "meaning_zh": "遵守法律；守法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_050891",
+    "content": "obey traffic rules",
+    "meaning_zh": "遵守交通规则",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见规则类搭配"
+  },
+  {
+    "item_code": "w_050896",
+    "content": "obituary quotation",
+    "meaning_zh": "讣告引文；悼词摘录",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义可由搭配判断"
+  },
+  {
+    "item_code": "w_050897",
+    "content": "obituary-esque",
+    "meaning_zh": "像讣告的；带有悼亡色彩的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "派生形容词"
+  },
+  {
+    "item_code": "w_050899",
+    "content": "object diagram",
+    "meaning_zh": "对象图",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_050904",
+    "content": "object to doing sth.",
+    "meaning_zh": "反对做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_050907",
+    "content": "object-oriented language",
+    "meaning_zh": "面向对象语言",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_050908",
+    "content": "object-oriented programming",
+    "meaning_zh": "面向对象编程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_050913",
+    "content": "objection to doing sth.",
+    "meaning_zh": "反对做某事；对做某事的异议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  }
+]

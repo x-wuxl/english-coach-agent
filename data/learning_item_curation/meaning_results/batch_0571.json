@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_055850",
+    "content": "plain ugly",
+    "meaning_zh": "非常难看；丑陋不堪",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定口语表达"
+  },
+  {
+    "item_code": "w_055864",
+    "content": "plan a bicycle trip",
+    "meaning_zh": "计划一次自行车旅行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_055865",
+    "content": "plan a trip to",
+    "meaning_zh": "计划去……旅行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅行表达"
+  },
+  {
+    "item_code": "w_055868",
+    "content": "plan group work",
+    "meaning_zh": "规划小组活动；安排小组作业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学习场景常见搭配"
+  },
+  {
+    "item_code": "w_055878",
+    "content": "plane science",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常疑似噪声"
+  },
+  {
+    "item_code": "w_055881",
+    "content": "planeroid",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_055884",
+    "content": "planet science",
+    "meaning_zh": "行星科学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解为学科名称"
+  },
+  {
+    "item_code": "w_055885",
+    "content": "planet society",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_055886",
+    "content": "planet's orbit",
+    "meaning_zh": "行星轨道",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "天文学常见表达"
+  },
+  {
+    "item_code": "w_055890",
+    "content": "planetary motions",
+    "meaning_zh": "行星运动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "天文学常见表达"
+  },
+  {
+    "item_code": "w_055895",
+    "content": "planks of wood",
+    "meaning_zh": "木板；木条",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_055900",
+    "content": "planned housing estate",
+    "meaning_zh": "规划住宅区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "城市规划相关表达"
+  },
+  {
+    "item_code": "w_055904",
+    "content": "planning documents pledged that",
+    "meaning_zh": "规划文件承诺……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "句子片段但可理解"
+  },
+  {
+    "item_code": "w_055906",
+    "content": "plant a tree",
+    "meaning_zh": "种一棵树；植树",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配含义"
+  },
+  {
+    "item_code": "w_055907",
+    "content": "plant and animal species",
+    "meaning_zh": "动植物物种",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态话题常见表达"
+  },
+  {
+    "item_code": "w_055910",
+    "content": "plant flowers",
+    "meaning_zh": "种花；栽花",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_055919",
+    "content": "plantation copious",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无可靠含义"
+  },
+  {
+    "item_code": "w_055924",
+    "content": "planting flowers",
+    "meaning_zh": "种花；栽花",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见活动表达"
+  },
+  {
+    "item_code": "w_055945",
+    "content": "plastic bag ban",
+    "meaning_zh": "塑料袋禁令；禁塑令",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保话题常见表达"
+  },
+  {
+    "item_code": "w_055952",
+    "content": "plastic prolix",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无可靠含义"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_000336",
+    "content": "a lasting love",
+    "meaning_zh": "持久的爱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_000337",
+    "content": "a laundry list of",
+    "meaning_zh": "一长串；大量的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_000338",
+    "content": "a lavish lifestyle",
+    "meaning_zh": "奢华的生活方式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_000339",
+    "content": "a layer of ash",
+    "meaning_zh": "一层灰烬",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_000340",
+    "content": "a leading position",
+    "meaning_zh": "领先地位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_000341",
+    "content": "a leading sporting nation",
+    "meaning_zh": "体育强国",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "整体含义明确"
+  },
+  {
+    "item_code": "w_000343",
+    "content": "a learned person",
+    "meaning_zh": "有学问的人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_000344",
+    "content": "a learning society",
+    "meaning_zh": "学习型社会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见术语"
+  },
+  {
+    "item_code": "w_000345",
+    "content": "a legacy product",
+    "meaning_zh": "旧版产品；遗留产品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术商务常用语"
+  },
+  {
+    "item_code": "w_000346",
+    "content": "a legislature building",
+    "meaning_zh": "立法机关大楼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "含义明确"
+  },
+  {
+    "item_code": "w_000347",
+    "content": "a line segment",
+    "meaning_zh": "线段",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "数学术语"
+  },
+  {
+    "item_code": "w_000348",
+    "content": "a lion",
+    "meaning_zh": "狮子",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  },
+  {
+    "item_code": "w_000351",
+    "content": "a liter of milk",
+    "meaning_zh": "一升牛奶",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "数量短语"
+  },
+  {
+    "item_code": "w_000354",
+    "content": "a little log cabin",
+    "meaning_zh": "一间小木屋",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_000355",
+    "content": "a living fossil",
+    "meaning_zh": "活化石",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_000357",
+    "content": "a local newspaper",
+    "meaning_zh": "地方报纸；当地报纸",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_000360",
+    "content": "a longstanding commitment",
+    "meaning_zh": "长期承诺",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_000364",
+    "content": "a lottery ticket",
+    "meaning_zh": "彩票",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  },
+  {
+    "item_code": "w_000365",
+    "content": "a low-carbon economy",
+    "meaning_zh": "低碳经济",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见术语"
+  },
+  {
+    "item_code": "w_000366",
+    "content": "a lucky charm",
+    "meaning_zh": "幸运符；护身符",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  }
+]

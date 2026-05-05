@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_041259",
+    "content": "keep good shape",
+    "meaning_zh": "保持良好状态；保持好身材",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语，常见表达略省介词"
+  },
+  {
+    "item_code": "w_041261",
+    "content": "keep growing",
+    "meaning_zh": "持续增长；继续成长",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_041262",
+    "content": "keep happiest moment",
+    "meaning_zh": "珍藏最幸福的时刻",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "表达不自然，疑似噪声"
+  },
+  {
+    "item_code": "w_041267",
+    "content": "keep in harmony with",
+    "meaning_zh": "与……保持和谐；与……协调一致",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_041269",
+    "content": "keep in mind that",
+    "meaning_zh": "记住；牢记",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配固定表达"
+  },
+  {
+    "item_code": "w_041274",
+    "content": "keep it secret",
+    "meaning_zh": "保密；不告诉别人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配常见短语"
+  },
+  {
+    "item_code": "w_041281",
+    "content": "keep on the file",
+    "meaning_zh": "存档；留作记录",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为keep on file"
+  },
+  {
+    "item_code": "w_041282",
+    "content": "keep on track",
+    "meaning_zh": "保持正轨；按计划进行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_041285",
+    "content": "keep one's attention on",
+    "meaning_zh": "把注意力集中在……上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_041293",
+    "content": "keep one's eye out",
+    "meaning_zh": "留意；密切注意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语"
+  },
+  {
+    "item_code": "w_041297",
+    "content": "keep one's finger crossed",
+    "meaning_zh": "祈求好运；盼望成功",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常作fingers crossed"
+  },
+  {
+    "item_code": "w_041302",
+    "content": "keep one's nerves",
+    "meaning_zh": "保持镇定；沉住气",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常作keep one's nerve"
+  },
+  {
+    "item_code": "w_041308",
+    "content": "keep optimistic",
+    "meaning_zh": "保持乐观",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_041313",
+    "content": "keep pace with times",
+    "meaning_zh": "与时俱进；跟上时代步伐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑少the但含义明确"
+  },
+  {
+    "item_code": "w_041315",
+    "content": "keep records",
+    "meaning_zh": "做记录；保存记录",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_041317",
+    "content": "keep sb. at school",
+    "meaning_zh": "让某人留在学校",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配含义较依语境"
+  },
+  {
+    "item_code": "w_041319",
+    "content": "keep sb. busy",
+    "meaning_zh": "使某人忙碌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见使役搭配"
+  },
+  {
+    "item_code": "w_041327",
+    "content": "keep sb. in stitches",
+    "meaning_zh": "使某人笑个不停",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语"
+  },
+  {
+    "item_code": "w_041329",
+    "content": "keep sb. informed about",
+    "meaning_zh": "随时告知某人关于……的情况",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_041331",
+    "content": "keep sb. on tenterhooks",
+    "meaning_zh": "使某人焦急不安；使某人忐忑等待",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语"
+  }
+]

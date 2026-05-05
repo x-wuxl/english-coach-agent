@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_033278",
+    "content": "hand-calligraphy",
+    "meaning_zh": "手写书法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "复合表达，含义可判断"
+  },
+  {
+    "item_code": "w_033290",
+    "content": "hand-tightened",
+    "meaning_zh": "用手拧紧的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见复合形容词"
+  },
+  {
+    "item_code": "w_033294",
+    "content": "handbag wallet",
+    "meaning_zh": "手提包和钱包",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "疑似词汇拼接"
+  },
+  {
+    "item_code": "w_033303",
+    "content": "handed",
+    "meaning_zh": "递给；用某只手的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句对应常见义"
+  },
+  {
+    "item_code": "w_033307",
+    "content": "handful of",
+    "meaning_zh": "一把；少数几个",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持短语义"
+  },
+  {
+    "item_code": "w_033311",
+    "content": "handicap handicapped hiv",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个无关词拼接"
+  },
+  {
+    "item_code": "w_033313",
+    "content": "handicapped toilet",
+    "meaning_zh": "无障碍厕所；残障人士厕所",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定公共设施表达"
+  },
+  {
+    "item_code": "w_033321",
+    "content": "handkerchief ornament overflow",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个无关词拼接"
+  },
+  {
+    "item_code": "w_033324",
+    "content": "handle registration",
+    "meaning_zh": "办理登记；处理注册",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_033329",
+    "content": "handling senior",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_033331",
+    "content": "handmade clothes",
+    "meaning_zh": "手工制作的衣服",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_033332",
+    "content": "handmade presents",
+    "meaning_zh": "手工制作的礼物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_033333",
+    "content": "handoff",
+    "meaning_zh": "交接；切换；移交",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术主题常见义"
+  },
+  {
+    "item_code": "w_033336",
+    "content": "handpect",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_033343",
+    "content": "Hands up.",
+    "meaning_zh": "举起手来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持固定表达"
+  },
+  {
+    "item_code": "w_033350",
+    "content": "handsome pretty",
+    "meaning_zh": "英俊的；漂亮的",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "近义词拼接"
+  },
+  {
+    "item_code": "w_033351",
+    "content": "handsome profit",
+    "meaning_zh": "可观的利润",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_033358",
+    "content": "handwritten copy",
+    "meaning_zh": "手写副本；手稿",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_033361",
+    "content": "handyman service",
+    "meaning_zh": "杂工服务；维修服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生活服务常用语"
+  },
+  {
+    "item_code": "w_033365",
+    "content": "hang about with",
+    "meaning_zh": "与……厮混；和……闲逛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语动词"
+  }
+]

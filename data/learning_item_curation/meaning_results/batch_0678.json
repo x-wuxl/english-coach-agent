@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_066822",
+    "content": "single-bladed ax",
+    "meaning_zh": "单刃斧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见工具短语"
+  },
+  {
+    "item_code": "w_066825",
+    "content": "single-coloured clothes",
+    "meaning_zh": "单色衣服；纯色衣物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "服装搭配明确"
+  },
+  {
+    "item_code": "w_066837",
+    "content": "single-speed cycle",
+    "meaning_zh": "单速自行车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通工具短语"
+  },
+  {
+    "item_code": "w_066844",
+    "content": "singu",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似残词或噪声"
+  },
+  {
+    "item_code": "w_066847",
+    "content": "singularity installation knitwear",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无可靠含义"
+  },
+  {
+    "item_code": "w_066853",
+    "content": "sink dishwasher",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_066865",
+    "content": "Sinologist",
+    "meaning_zh": "汉学家；中国学研究者",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专门学科称谓"
+  },
+  {
+    "item_code": "w_066867",
+    "content": "sinui",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法判断含义"
+  },
+  {
+    "item_code": "w_066869",
+    "content": "sinuous goggle flout",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串噪声"
+  },
+  {
+    "item_code": "w_066871",
+    "content": "sinus mass",
+    "meaning_zh": "鼻窦肿块",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学术语搭配"
+  },
+  {
+    "item_code": "w_066873",
+    "content": "sinusoidal alternating current",
+    "meaning_zh": "正弦交流电",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "电学术语明确"
+  },
+  {
+    "item_code": "w_066875",
+    "content": "sinyo disenchant rapt",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串噪声"
+  },
+  {
+    "item_code": "w_066876",
+    "content": "sion",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词尾残片"
+  },
+  {
+    "item_code": "w_066879",
+    "content": "sip tap dentistry",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无可靠含义"
+  },
+  {
+    "item_code": "w_066880",
+    "content": "sip telling",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_066884",
+    "content": "Sir Ernest Shackleton",
+    "meaning_zh": "欧内斯特·沙克尔顿爵士",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "历史人物专名"
+  },
+  {
+    "item_code": "w_066890",
+    "content": "sissel",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似人名或噪声"
+  },
+  {
+    "item_code": "w_066891",
+    "content": "sissy",
+    "meaning_zh": "胆小鬼；娘娘腔",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见贬义词"
+  },
+  {
+    "item_code": "w_066892",
+    "content": "sist scarcely equation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串噪声"
+  },
+  {
+    "item_code": "w_066894",
+    "content": "sister university",
+    "meaning_zh": "姊妹大学；友好合作大学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育合作术语"
+  }
+]

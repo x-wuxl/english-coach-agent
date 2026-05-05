@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_040054",
+    "content": "intuitively compelling",
+    "meaning_zh": "直觉上有说服力的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_040068",
+    "content": "invade attachment protocol",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_040069",
+    "content": "invade one's privacy",
+    "meaning_zh": "侵犯某人的隐私",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_040072",
+    "content": "invading soldiers",
+    "meaning_zh": "入侵的士兵；侵略军",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_040075",
+    "content": "invalid repel",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_040091",
+    "content": "inventer",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似inventor拼写错误"
+  },
+  {
+    "item_code": "w_040093",
+    "content": "invention patent",
+    "meaning_zh": "发明专利",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律术语"
+  },
+  {
+    "item_code": "w_040098",
+    "content": "inventory forward agreement",
+    "meaning_zh": "库存远期协议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "金融术语可直译"
+  },
+  {
+    "item_code": "w_040100",
+    "content": "inventory succinct",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_040107",
+    "content": "invert a fraction",
+    "meaning_zh": "将分数倒置",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "数学常用表达"
+  },
+  {
+    "item_code": "w_040109",
+    "content": "invertebrate animals",
+    "meaning_zh": "无脊椎动物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生物学术语"
+  },
+  {
+    "item_code": "w_040122",
+    "content": "investigation into",
+    "meaning_zh": "对……的调查",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词搭配"
+  },
+  {
+    "item_code": "w_040132",
+    "content": "investment fever",
+    "meaning_zh": "投资热潮",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见财经表达"
+  },
+  {
+    "item_code": "w_040133",
+    "content": "investment films",
+    "meaning_zh": "投资影片；投资电影",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义依语境略变"
+  },
+  {
+    "item_code": "w_040135",
+    "content": "investment immigration",
+    "meaning_zh": "投资移民",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政策术语"
+  },
+  {
+    "item_code": "w_040142",
+    "content": "inveterate evasive",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_040149",
+    "content": "invigorate enterprises",
+    "meaning_zh": "振兴企业；增强企业活力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_040159",
+    "content": "invisible income",
+    "meaning_zh": "隐性收入；无形收入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见经济表达"
+  },
+  {
+    "item_code": "w_040164",
+    "content": "invitation meet",
+    "meaning_zh": "邀请赛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "体育赛事表达"
+  },
+  {
+    "item_code": "w_040165",
+    "content": "invitational match",
+    "meaning_zh": "邀请赛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "体育常用表达"
+  }
+]

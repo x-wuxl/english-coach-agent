@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_028746",
+    "content": "fond affection",
+    "meaning_zh": "深厚的感情；喜爱之情",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见搭配含义明确"
+  },
+  {
+    "item_code": "w_028748",
+    "content": "fond predispose graze",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_028749",
+    "content": "Fonda-ize",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "罕见派生词难判断"
+  },
+  {
+    "item_code": "w_028754",
+    "content": "font forward format",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_028756",
+    "content": "foo",
+    "meaning_zh": "编程中的占位名称",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_028760",
+    "content": "food allowance",
+    "meaning_zh": "伙食补贴；餐费津贴",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_028761",
+    "content": "food begging behavior",
+    "meaning_zh": "乞食行为；索食行为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动物行为术语"
+  },
+  {
+    "item_code": "w_028780",
+    "content": "food-growing",
+    "meaning_zh": "种植粮食的；粮食生产的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词含义明确"
+  },
+  {
+    "item_code": "w_028806",
+    "content": "football sock",
+    "meaning_zh": "足球袜",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见物品名称"
+  },
+  {
+    "item_code": "w_028809",
+    "content": "footbeat",
+    "meaning_zh": "脚步声；步伐节奏",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "词义较明确但少见"
+  },
+  {
+    "item_code": "w_028826",
+    "content": "footstep grown hiss",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_028834",
+    "content": "for 44 years",
+    "meaning_zh": "长达44年；44年来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句体现持续时间"
+  },
+  {
+    "item_code": "w_028845",
+    "content": "for another three years",
+    "meaning_zh": "再持续三年；另外三年",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "时间短语含义明确"
+  },
+  {
+    "item_code": "w_028848",
+    "content": "for both demur",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_028853",
+    "content": "for decades",
+    "meaning_zh": "几十年来；持续数十年",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时间短语"
+  },
+  {
+    "item_code": "w_028866",
+    "content": "for good or bad",
+    "meaning_zh": "无论好坏；不管结果如何",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达含义明确"
+  },
+  {
+    "item_code": "w_028875",
+    "content": "for lease",
+    "meaning_zh": "供出租；待出租",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "租赁场景常用语"
+  },
+  {
+    "item_code": "w_028876",
+    "content": "for loops",
+    "meaning_zh": "for循环",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程常用术语"
+  },
+  {
+    "item_code": "w_028883",
+    "content": "for one's convenience",
+    "meaning_zh": "为方便某人；在某人方便时",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_028888",
+    "content": "for one's sake of",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "表达不规范"
+  }
+]

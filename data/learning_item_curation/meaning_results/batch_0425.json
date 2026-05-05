@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_040605",
+    "content": "jan",
+    "meaning_zh": "一月（January的缩写）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见月份缩写"
+  },
+  {
+    "item_code": "w_040606",
+    "content": "Jan Groot",
+    "meaning_zh": "人名：扬·格鲁特",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有人名"
+  },
+  {
+    "item_code": "w_040607",
+    "content": "Jan Hasek",
+    "meaning_zh": "人名：扬·哈谢克",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有人名"
+  },
+  {
+    "item_code": "w_040608",
+    "content": "Jan Tchamani",
+    "meaning_zh": "人名：扬·查马尼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有人名"
+  },
+  {
+    "item_code": "w_040618",
+    "content": "Janice Jones",
+    "meaning_zh": "人名：贾妮丝·琼斯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有人名"
+  },
+  {
+    "item_code": "w_040624",
+    "content": "January February March",
+    "meaning_zh": "一月、二月、三月",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "月份词组"
+  },
+  {
+    "item_code": "w_040628",
+    "content": "Japanese pagoda",
+    "meaning_zh": "日本宝塔",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "建筑名词短语"
+  },
+  {
+    "item_code": "w_040634",
+    "content": "jargon heterodox",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_040640",
+    "content": "Jason Glen",
+    "meaning_zh": "人名：杰森·格伦",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有人名"
+  },
+  {
+    "item_code": "w_040644",
+    "content": "jaundist",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_040647",
+    "content": "jaunty unctuous",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_040652",
+    "content": "jaw limb joint",
+    "meaning_zh": "颌、肢体、关节",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "身体部位词组"
+  },
+  {
+    "item_code": "w_040654",
+    "content": "jawline",
+    "meaning_zh": "下颌线；脸部轮廓线",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见身体特征词"
+  },
+  {
+    "item_code": "w_040658",
+    "content": "Jayce Coziar",
+    "meaning_zh": "人名：杰斯·科齐尔",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有人名"
+  },
+  {
+    "item_code": "w_040660",
+    "content": "jaywalk quantity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_040665",
+    "content": "jazz blues",
+    "meaning_zh": "爵士乐与布鲁斯音乐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "音乐类型搭配"
+  },
+  {
+    "item_code": "w_040667",
+    "content": "jazz orchestra",
+    "meaning_zh": "爵士乐团",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "音乐名词短语"
+  },
+  {
+    "item_code": "w_040670",
+    "content": "jdbc",
+    "meaning_zh": "Java数据库连接",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机缩写术语"
+  },
+  {
+    "item_code": "w_040671",
+    "content": "jdk",
+    "meaning_zh": "Java开发工具包",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机缩写术语"
+  },
+  {
+    "item_code": "w_040673",
+    "content": "jealous envious envy",
+    "meaning_zh": "嫉妒的、羡慕的、嫉妒",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "近义词组合"
+  }
+]

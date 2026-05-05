@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_075033",
+    "content": "to attend Mass",
+    "meaning_zh": "参加弥撒",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定宗教活动表达"
+  },
+  {
+    "item_code": "w_075034",
+    "content": "to avoid substantial height",
+    "meaning_zh": "避免过高",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配含义较直观"
+  },
+  {
+    "item_code": "w_075039",
+    "content": "to be held",
+    "meaning_zh": "将被举行；将举办",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句均指会议举行"
+  },
+  {
+    "item_code": "w_075041",
+    "content": "to be saddled with",
+    "meaning_zh": "被迫承担；背负",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_075043",
+    "content": "to become increasingly popular",
+    "meaning_zh": "变得越来越受欢迎",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见趋势表达"
+  },
+  {
+    "item_code": "w_075045",
+    "content": "to boycott products",
+    "meaning_zh": "抵制产品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_075046",
+    "content": "to chant poems",
+    "meaning_zh": "吟诵诗歌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见文学表达"
+  },
+  {
+    "item_code": "w_075047",
+    "content": "to clamp down",
+    "meaning_zh": "严厉打击；取缔",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词"
+  },
+  {
+    "item_code": "w_075048",
+    "content": "to collect medicinal herbs",
+    "meaning_zh": "采集草药",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_075050",
+    "content": "to conduct research",
+    "meaning_zh": "开展研究；进行研究",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常用搭配"
+  },
+  {
+    "item_code": "w_075051",
+    "content": "to curb their impact",
+    "meaning_zh": "遏制其影响；减轻其影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_075052",
+    "content": "to cut firewood",
+    "meaning_zh": "砍柴",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "日常动作表达"
+  },
+  {
+    "item_code": "w_075053",
+    "content": "to ditch print",
+    "meaning_zh": "放弃纸质印刷品；弃用纸媒",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境少但含义明确"
+  },
+  {
+    "item_code": "w_075054",
+    "content": "to eliminate extreme poverty",
+    "meaning_zh": "消除极端贫困",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策常用表达"
+  },
+  {
+    "item_code": "w_075055",
+    "content": "to endorse this sentiment",
+    "meaning_zh": "赞同这种看法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_075057",
+    "content": "to expand domestic demand",
+    "meaning_zh": "扩大内需",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济政策常用语"
+  },
+  {
+    "item_code": "w_075058",
+    "content": "to farm and harvest",
+    "meaning_zh": "耕种和收获",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "农业动作表达"
+  },
+  {
+    "item_code": "w_075059",
+    "content": "to fashion state policies",
+    "meaning_zh": "制定国家政策；塑造国家政策",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "fashion作制定解"
+  },
+  {
+    "item_code": "w_075060",
+    "content": "to find silver linings",
+    "meaning_zh": "看到好的一面；寻找希望",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见习语表达"
+  },
+  {
+    "item_code": "w_075061",
+    "content": "to fish for compliments",
+    "meaning_zh": "拐弯抹角地讨夸奖",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_004358",
+    "content": "archless",
+    "meaning_zh": "无拱形的；无足弓的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见词但可判断"
+  },
+  {
+    "item_code": "w_004360",
+    "content": "archvillain",
+    "meaning_zh": "头号反派；大恶棍",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见构词含义明确"
+  },
+  {
+    "item_code": "w_004371",
+    "content": "ardor disciple",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_004374",
+    "content": "arduous journey",
+    "meaning_zh": "艰难的旅程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_004377",
+    "content": "are born out of",
+    "meaning_zh": "源于；产生于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达含义明确"
+  },
+  {
+    "item_code": "w_004378",
+    "content": "are dumb enough to",
+    "meaning_zh": "蠢到会；傻到足以",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "口语表达片段"
+  },
+  {
+    "item_code": "w_004379",
+    "content": "are hybrids of these",
+    "meaning_zh": "是这些的混合体",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "上下文依赖较强"
+  },
+  {
+    "item_code": "w_004380",
+    "content": "are not",
+    "meaning_zh": "不是；不",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持否定用法"
+  },
+  {
+    "item_code": "w_004381",
+    "content": "are still getting started",
+    "meaning_zh": "仍处于起步阶段",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达可整体理解"
+  },
+  {
+    "item_code": "w_004382",
+    "content": "are wired to",
+    "meaning_zh": "天生倾向于；被设定为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见比喻表达"
+  },
+  {
+    "item_code": "w_004387",
+    "content": "area of a rectangle",
+    "meaning_zh": "矩形的面积",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "数学短语含义明确"
+  },
+  {
+    "item_code": "w_004388",
+    "content": "areas",
+    "meaning_zh": "地区；区域；领域",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句覆盖常见义项"
+  },
+  {
+    "item_code": "w_004394",
+    "content": "arena custody",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无常见义"
+  },
+  {
+    "item_code": "w_004400",
+    "content": "arg",
+    "meaning_zh": "参数；变量",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用缩写"
+  },
+  {
+    "item_code": "w_004401",
+    "content": "argeneme",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声或误拼"
+  },
+  {
+    "item_code": "w_004411",
+    "content": "arguable vehicle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_004413",
+    "content": "arguary",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准词疑似误拼"
+  },
+  {
+    "item_code": "w_004417",
+    "content": "argue argument fight",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无整体义"
+  },
+  {
+    "item_code": "w_004420",
+    "content": "argue sb. into doing",
+    "meaning_zh": "说服某人做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配含义明确"
+  },
+  {
+    "item_code": "w_004424",
+    "content": "argument smug calibrate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无整体义"
+  }
+]

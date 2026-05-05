@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_074601",
+    "content": "throat beard bone",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无固定义"
+  },
+  {
+    "item_code": "w_074604",
+    "content": "throaty crack",
+    "meaning_zh": "低沉沙哑的破裂声",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "形容词短语可解释"
+  },
+  {
+    "item_code": "w_074634",
+    "content": "throng discrete",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然无固定义"
+  },
+  {
+    "item_code": "w_074639",
+    "content": "through one's tears",
+    "meaning_zh": "含着眼泪；透过泪水",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词短语"
+  },
+  {
+    "item_code": "w_074640",
+    "content": "through ruthless advertising",
+    "meaning_zh": "通过强势广告宣传",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "普通介词短语"
+  },
+  {
+    "item_code": "w_074645",
+    "content": "throughout the year",
+    "meaning_zh": "全年；一年到头",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时间短语"
+  },
+  {
+    "item_code": "w_074666",
+    "content": "throw mortarboard",
+    "meaning_zh": "抛毕业帽",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "毕业场景动作短语"
+  },
+  {
+    "item_code": "w_074677",
+    "content": "throw out some feelers",
+    "meaning_zh": "试探一下；放出试探性消息",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见习语表达"
+  },
+  {
+    "item_code": "w_074680",
+    "content": "throw the hammer",
+    "meaning_zh": "掷链球",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "体育项目表达"
+  },
+  {
+    "item_code": "w_074681",
+    "content": "throw the spotlight on",
+    "meaning_zh": "使聚焦于；突出强调",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见比喻短语"
+  },
+  {
+    "item_code": "w_074684",
+    "content": "throwaway bio-degradable plastic bags",
+    "meaning_zh": "一次性可生物降解塑料袋",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保主题名词短语"
+  },
+  {
+    "item_code": "w_074685",
+    "content": "throwaway biodegradable plastic bags",
+    "meaning_zh": "一次性可生物降解塑料袋",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保主题名词短语"
+  },
+  {
+    "item_code": "w_074698",
+    "content": "thumb coma",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无可靠义"
+  },
+  {
+    "item_code": "w_074699",
+    "content": "thumb finger nail",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无固定义"
+  },
+  {
+    "item_code": "w_074705",
+    "content": "thumbtack descendant descent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无固定义"
+  },
+  {
+    "item_code": "w_074710",
+    "content": "thunder widow",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无可靠义"
+  },
+  {
+    "item_code": "w_074736",
+    "content": "thyroid beak allure",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无固定义"
+  },
+  {
+    "item_code": "w_074754",
+    "content": "tick all the boxes",
+    "meaning_zh": "符合所有要求；满足所有条件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见习语表达"
+  },
+  {
+    "item_code": "w_074758",
+    "content": "tick cupboard",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无可靠义"
+  },
+  {
+    "item_code": "w_074761",
+    "content": "tick-box test",
+    "meaning_zh": "勾选框测试；选择框测试",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "测试类名词短语"
+  }
+]

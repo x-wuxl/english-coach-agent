@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_051009",
+    "content": "obstacle address fix",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无固定含义"
+  },
+  {
+    "item_code": "w_051012",
+    "content": "obstemious",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_051013",
+    "content": "obstemious sulk",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "拼写疑误且搭配异常"
+  },
+  {
+    "item_code": "w_051014",
+    "content": "obstetric",
+    "meaning_zh": "产科的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见医学形容词"
+  },
+  {
+    "item_code": "w_051019",
+    "content": "obstinate orthodox archetype",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词堆叠无搭配"
+  },
+  {
+    "item_code": "w_051025",
+    "content": "obstruction resignation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无固定含义"
+  },
+  {
+    "item_code": "w_051030",
+    "content": "obtain immediate feedback",
+    "meaning_zh": "获得即时反馈",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习搭配"
+  },
+  {
+    "item_code": "w_051031",
+    "content": "obtain protection from ...",
+    "meaning_zh": "获得保护以免受……影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_051032",
+    "content": "obtain the first-grade scholarship",
+    "meaning_zh": "获得一等奖学金",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见校园表达"
+  },
+  {
+    "item_code": "w_051045",
+    "content": "obviously statistical impossibilities",
+    "meaning_zh": "明显在统计上不可能的情况",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可判断"
+  },
+  {
+    "item_code": "w_051048",
+    "content": "occasion drastic certify",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词堆叠无搭配"
+  },
+  {
+    "item_code": "w_051050",
+    "content": "occasional heritage",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_051051",
+    "content": "occasional sleeplessness",
+    "meaning_zh": "偶尔失眠",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见健康表达"
+  },
+  {
+    "item_code": "w_051053",
+    "content": "occasionally rarely",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "近义副词堆叠"
+  },
+  {
+    "item_code": "w_051062",
+    "content": "occult valiant secular",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词堆叠无搭配"
+  },
+  {
+    "item_code": "w_051068",
+    "content": "occupation luxurious reverse palatable",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词堆叠无搭配"
+  },
+  {
+    "item_code": "w_051077",
+    "content": "occupy one's time",
+    "meaning_zh": "占用某人的时间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_051087",
+    "content": "occurrence of disaster",
+    "meaning_zh": "灾难的发生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_051091",
+    "content": "ocean condition",
+    "meaning_zh": "海洋状况；海况",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "雅思常见话题词"
+  },
+  {
+    "item_code": "w_051095",
+    "content": "ocean ecosystem",
+    "meaning_zh": "海洋生态系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见环境术语"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_072929",
+    "content": "tea producing area",
+    "meaning_zh": "产茶区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定名词短语"
+  },
+  {
+    "item_code": "w_072931",
+    "content": "tech-studded",
+    "meaning_zh": "充满科技元素的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_072937",
+    "content": "technical and technological skills",
+    "meaning_zh": "技术与科技技能",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技能类搭配"
+  },
+  {
+    "item_code": "w_072938",
+    "content": "technical backbone",
+    "meaning_zh": "技术骨干",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职场表达"
+  },
+  {
+    "item_code": "w_072939",
+    "content": "technical constraints",
+    "meaning_zh": "技术限制；技术约束",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见技术搭配"
+  },
+  {
+    "item_code": "w_072940",
+    "content": "technical infrastructure",
+    "meaning_zh": "技术基础设施",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见技术搭配"
+  },
+  {
+    "item_code": "w_072943",
+    "content": "technical limitations",
+    "meaning_zh": "技术局限；技术限制",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见技术搭配"
+  },
+  {
+    "item_code": "w_072945",
+    "content": "technical offence",
+    "meaning_zh": "技术犯规",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "体育术语"
+  },
+  {
+    "item_code": "w_072947",
+    "content": "technical vocabulary",
+    "meaning_zh": "专业词汇；技术词汇",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学习常用搭配"
+  },
+  {
+    "item_code": "w_072964",
+    "content": "technological upheaval",
+    "meaning_zh": "技术变革；科技剧变",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常用表达"
+  },
+  {
+    "item_code": "w_072968",
+    "content": "technology and information systems",
+    "meaning_zh": "技术与信息系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学科领域表达"
+  },
+  {
+    "item_code": "w_072969",
+    "content": "technology art",
+    "meaning_zh": "科技艺术",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "艺术领域搭配"
+  },
+  {
+    "item_code": "w_072970",
+    "content": "technology industry",
+    "meaning_zh": "科技行业；技术产业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见行业表达"
+  },
+  {
+    "item_code": "w_072971",
+    "content": "technology of mobile Internet",
+    "meaning_zh": "移动互联网技术",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术领域表达"
+  },
+  {
+    "item_code": "w_072984",
+    "content": "tedious debate",
+    "meaning_zh": "冗长乏味的辩论",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容词名词搭配"
+  },
+  {
+    "item_code": "w_072985",
+    "content": "tedious fellow",
+    "meaning_zh": "乏味的人；令人厌烦的家伙",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容人的搭配"
+  },
+  {
+    "item_code": "w_072986",
+    "content": "tedious marsh",
+    "meaning_zh": "令人厌烦的沼泽",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配生硬低价值"
+  },
+  {
+    "item_code": "w_072996",
+    "content": "Teen Talk",
+    "meaning_zh": "青少年谈话；青少年话题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑似栏目名"
+  },
+  {
+    "item_code": "w_073002",
+    "content": "tees",
+    "meaning_zh": "T恤衫；球座",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "tee的复数常义"
+  },
+  {
+    "item_code": "w_073021",
+    "content": "telecom fraud",
+    "meaning_zh": "电信诈骗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会话题"
+  }
+]

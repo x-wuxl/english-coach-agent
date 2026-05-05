@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_008927",
+    "content": "beyond one's reach",
+    "meaning_zh": "力所不能及；够不到",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  },
+  {
+    "item_code": "w_008934",
+    "content": "beyond the capabilities of",
+    "meaning_zh": "超出……的能力范围",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_008935",
+    "content": "beyond the capability of",
+    "meaning_zh": "超出……的能力范围",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_008936",
+    "content": "beyond the dreams of",
+    "meaning_zh": "超出……的梦想；远非……所能想象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_008946",
+    "content": "biannial",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_008948",
+    "content": "Biarni",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似专名或噪声"
+  },
+  {
+    "item_code": "w_008971",
+    "content": "bicept",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_008974",
+    "content": "bicolic",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_008983",
+    "content": "bicycle pedal cyclist",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠噪声"
+  },
+  {
+    "item_code": "w_008984",
+    "content": "bicycle sharing",
+    "meaning_zh": "共享单车；自行车共享",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会话题"
+  },
+  {
+    "item_code": "w_008989",
+    "content": "bid ... goodbye",
+    "meaning_zh": "向……告别",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_008990",
+    "content": "bid assurance",
+    "meaning_zh": "投标保证；投标担保",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "商务招标用语"
+  },
+  {
+    "item_code": "w_008996",
+    "content": "bid up price",
+    "meaning_zh": "竞相抬高价格；哄抬价格",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济常见表达"
+  },
+  {
+    "item_code": "w_009011",
+    "content": "bifurcate euphemism surrender",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无关词堆叠"
+  },
+  {
+    "item_code": "w_009019",
+    "content": "big cuts",
+    "meaning_zh": "大幅削减",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常见搭配"
+  },
+  {
+    "item_code": "w_009024",
+    "content": "big megabucks",
+    "meaning_zh": "一大笔钱；巨额财富",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "口语夸张表达"
+  },
+  {
+    "item_code": "w_009027",
+    "content": "big sales",
+    "meaning_zh": "大甩卖；热销；大量销售",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "需语境区分"
+  },
+  {
+    "item_code": "w_009028",
+    "content": "big scenes",
+    "meaning_zh": "大场面；重要场景",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见搭配但泛泛"
+  },
+  {
+    "item_code": "w_009029",
+    "content": "big seas",
+    "meaning_zh": "波涛汹涌的海面；大浪",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "航海语境常见"
+  },
+  {
+    "item_code": "w_009031",
+    "content": "big V",
+    "meaning_zh": "大V；有影响力的认证账号",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "网络社交术语"
+  }
+]

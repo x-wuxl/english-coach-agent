@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_034255",
+    "content": "health concern",
+    "meaning_zh": "健康问题；健康隐患",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见健康类搭配"
+  },
+  {
+    "item_code": "w_034259",
+    "content": "health issue",
+    "meaning_zh": "健康问题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见健康类搭配"
+  },
+  {
+    "item_code": "w_034268",
+    "content": "healthful diet",
+    "meaning_zh": "有益健康的饮食",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见饮食搭配"
+  },
+  {
+    "item_code": "w_034272",
+    "content": "healthy eating habit",
+    "meaning_zh": "健康的饮食习惯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见饮食表达"
+  },
+  {
+    "item_code": "w_034273",
+    "content": "healthy fit condition",
+    "meaning_zh": "健康良好的状态",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略生硬但可理解"
+  },
+  {
+    "item_code": "w_034275",
+    "content": "healthy habits",
+    "meaning_zh": "健康习惯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活类搭配"
+  },
+  {
+    "item_code": "w_034291",
+    "content": "hear the horns",
+    "meaning_zh": "听见号角声；听见喇叭声",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按短语整体理解"
+  },
+  {
+    "item_code": "w_034310",
+    "content": "heartbreak sane compromise",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似随机词组噪声"
+  },
+  {
+    "item_code": "w_034323",
+    "content": "heartleft",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准词疑似噪声"
+  },
+  {
+    "item_code": "w_034325",
+    "content": "hearton",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准词疑似噪声"
+  },
+  {
+    "item_code": "w_034352",
+    "content": "heating bill",
+    "meaning_zh": "取暖费账单；供暖费用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活费用表达"
+  },
+  {
+    "item_code": "w_034354",
+    "content": "heating operation mode",
+    "meaning_zh": "供暖运行模式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "设备运行类术语"
+  },
+  {
+    "item_code": "w_034358",
+    "content": "heatonist",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准词疑似噪声"
+  },
+  {
+    "item_code": "w_034364",
+    "content": "Heaven forbid that ...",
+    "meaning_zh": "但愿不要发生；千万别",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_034367",
+    "content": "Heaven's Lake",
+    "meaning_zh": "天池",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有地名"
+  },
+  {
+    "item_code": "w_034388",
+    "content": "heavy-lift carrier rocket",
+    "meaning_zh": "重型运载火箭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "航天术语"
+  },
+  {
+    "item_code": "w_034404",
+    "content": "hedge flatten",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然难判断"
+  },
+  {
+    "item_code": "w_034418",
+    "content": "heeheehee",
+    "meaning_zh": "嘿嘿嘿；嘻嘻笑声",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "拟声笑声表达"
+  },
+  {
+    "item_code": "w_034420",
+    "content": "heel philosopher",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然难判断"
+  },
+  {
+    "item_code": "w_034423",
+    "content": "heem",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准词疑似噪声"
+  }
+]

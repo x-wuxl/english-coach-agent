@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_014346",
+    "content": "clay porcelain potter",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串不成常用短语"
+  },
+  {
+    "item_code": "w_014347",
+    "content": "clay slot wrench",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_014348",
+    "content": "claycate",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准词疑似噪声"
+  },
+  {
+    "item_code": "w_014353",
+    "content": "clean my room",
+    "meaning_zh": "打扫我的房间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_014355",
+    "content": "clean out the garage",
+    "meaning_zh": "彻底清理车库",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_014356",
+    "content": "clean products",
+    "meaning_zh": "清洁产品；环保无害产品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境不足有多义"
+  },
+  {
+    "item_code": "w_014357",
+    "content": "clean renewable energy",
+    "meaning_zh": "清洁可再生能源",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "能源领域常见表达"
+  },
+  {
+    "item_code": "w_014358",
+    "content": "clean the garden",
+    "meaning_zh": "打扫花园；清理花园",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_014360",
+    "content": "clean the windows",
+    "meaning_zh": "擦窗户",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_014361",
+    "content": "clean up garbage",
+    "meaning_zh": "清理垃圾",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见环保表达"
+  },
+  {
+    "item_code": "w_014362",
+    "content": "clean wash bath",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串不成常用短语"
+  },
+  {
+    "item_code": "w_014367",
+    "content": "cleaned the window",
+    "meaning_zh": "擦了窗户；清洁了窗户",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_014369",
+    "content": "cleanery",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "罕见词疑似噪声"
+  },
+  {
+    "item_code": "w_014370",
+    "content": "cleanery noble",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立疑似噪声"
+  },
+  {
+    "item_code": "w_014374",
+    "content": "cleaning his apartment",
+    "meaning_zh": "打扫他的公寓",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_014375",
+    "content": "cleaning his garage",
+    "meaning_zh": "清理他的车库",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_014376",
+    "content": "cleaning his living room",
+    "meaning_zh": "打扫他的客厅",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_014377",
+    "content": "cleaning his room",
+    "meaning_zh": "打扫他的房间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_014378",
+    "content": "cleaning his yard",
+    "meaning_zh": "清理他的院子",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_014380",
+    "content": "cleaning the room",
+    "meaning_zh": "打扫房间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  }
+]

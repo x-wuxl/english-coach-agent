@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_072156",
+    "content": "take a stab",
+    "meaning_zh": "尝试；试着做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句表明为尝试"
+  },
+  {
+    "item_code": "w_072157",
+    "content": "take a stab at",
+    "meaning_zh": "尝试；试着做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配含义明确"
+  },
+  {
+    "item_code": "w_072160",
+    "content": "take a stroll around",
+    "meaning_zh": "在……周围散步；逛一逛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句为逛公园"
+  },
+  {
+    "item_code": "w_072177",
+    "content": "take ages",
+    "meaning_zh": "花很长时间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_072182",
+    "content": "take an approach to",
+    "meaning_zh": "采取……方法；用……方式处理",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_072183",
+    "content": "take an assumption",
+    "meaning_zh": "作出假设",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配不如make常见"
+  },
+  {
+    "item_code": "w_072185",
+    "content": "take an interest",
+    "meaning_zh": "产生兴趣；感兴趣",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_072187",
+    "content": "take an inventory",
+    "meaning_zh": "清点库存；盘点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商务表达"
+  },
+  {
+    "item_code": "w_072188",
+    "content": "take an underground",
+    "meaning_zh": "乘地铁",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达不如the常见"
+  },
+  {
+    "item_code": "w_072189",
+    "content": "take an underground train",
+    "meaning_zh": "乘地铁",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通搭配明确"
+  },
+  {
+    "item_code": "w_072190",
+    "content": "take an X-ray",
+    "meaning_zh": "拍X光片；做X光检查",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医疗常用表达"
+  },
+  {
+    "item_code": "w_072191",
+    "content": "take another new turn",
+    "meaning_zh": "出现又一次新的转变",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可判断"
+  },
+  {
+    "item_code": "w_072200",
+    "content": "take breaks",
+    "meaning_zh": "休息；中途休息",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础常用搭配"
+  },
+  {
+    "item_code": "w_072202",
+    "content": "take bring carry",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串噪声无整体义"
+  },
+  {
+    "item_code": "w_072203",
+    "content": "take Bus 42",
+    "meaning_zh": "乘坐42路公交车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通表达明确"
+  },
+  {
+    "item_code": "w_072204",
+    "content": "take cab",
+    "meaning_zh": "乘出租车；打车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缺冠词但含义明确"
+  },
+  {
+    "item_code": "w_072208",
+    "content": "take care over",
+    "meaning_zh": "对……小心谨慎；认真处理",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配含义明确"
+  },
+  {
+    "item_code": "w_072211",
+    "content": "take charge for",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "介词错误含义不稳"
+  },
+  {
+    "item_code": "w_072216",
+    "content": "take clear stock of",
+    "meaning_zh": "清楚评估；认真审视",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "基于take stock of"
+  },
+  {
+    "item_code": "w_072219",
+    "content": "take comfort from sth.",
+    "meaning_zh": "从某事中得到安慰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配含义明确"
+  }
+]

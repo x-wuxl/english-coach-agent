@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_015581",
+    "content": "commonplace object",
+    "meaning_zh": "常见物品；普通物件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_015582",
+    "content": "commonplace violate prescribe",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无可靠含义"
+  },
+  {
+    "item_code": "w_015591",
+    "content": "communal tables",
+    "meaning_zh": "公用餐桌；公共桌子",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_015613",
+    "content": "communiqué",
+    "meaning_zh": "公报；官方公告",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见正式词"
+  },
+  {
+    "item_code": "w_015615",
+    "content": "communism whip terminology",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无可靠含义"
+  },
+  {
+    "item_code": "w_015617",
+    "content": "communist gerntology",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含拼写错误且不成词组"
+  },
+  {
+    "item_code": "w_015621",
+    "content": "community defeat",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_015624",
+    "content": "community minister",
+    "meaning_zh": "社区事务部长；社区牧师",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境可能有两义"
+  },
+  {
+    "item_code": "w_015625",
+    "content": "community of shared interests",
+    "meaning_zh": "利益共同体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_015626",
+    "content": "community of shared life",
+    "meaning_zh": "生命共同体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_015633",
+    "content": "commutator",
+    "meaning_zh": "换向器；交换子",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术术语"
+  },
+  {
+    "item_code": "w_015635",
+    "content": "commute times",
+    "meaning_zh": "通勤时间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_015637",
+    "content": "commuter aisle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_015639",
+    "content": "commuter purification affiliate discard",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无可靠含义"
+  },
+  {
+    "item_code": "w_015641",
+    "content": "commuter's ticket",
+    "meaning_zh": "通勤票；月票",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见交通用语"
+  },
+  {
+    "item_code": "w_015643",
+    "content": "commuting and travel",
+    "meaning_zh": "通勤和出行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见主题表达"
+  },
+  {
+    "item_code": "w_015649",
+    "content": "compact computer",
+    "meaning_zh": "小型计算机；紧凑型电脑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_015662",
+    "content": "company facility",
+    "meaning_zh": "公司设施；企业设施",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常见搭配"
+  },
+  {
+    "item_code": "w_015663",
+    "content": "company health plan",
+    "meaning_zh": "公司健康保险计划；企业医疗方案",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职场常见表达"
+  },
+  {
+    "item_code": "w_015664",
+    "content": "company housing",
+    "meaning_zh": "公司住房；企业宿舍",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职场常见表达"
+  }
+]

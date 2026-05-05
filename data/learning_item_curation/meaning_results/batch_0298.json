@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_028243",
+    "content": "flank hallucination",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_028246",
+    "content": "flannel washcloth shampoo",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串无固定含义"
+  },
+  {
+    "item_code": "w_028248",
+    "content": "flap by carbonate democracy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声词串"
+  },
+  {
+    "item_code": "w_028249",
+    "content": "flap over",
+    "meaning_zh": "翻折过去；拍动着越过",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作动词短语"
+  },
+  {
+    "item_code": "w_028253",
+    "content": "flash a smile",
+    "meaning_zh": "露出一丝微笑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_028254",
+    "content": "flash back to",
+    "meaning_zh": "突然回想起；闪回到",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词"
+  },
+  {
+    "item_code": "w_028266",
+    "content": "flashlight tidy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无意义"
+  },
+  {
+    "item_code": "w_028272",
+    "content": "flat heels",
+    "meaning_zh": "平跟鞋；平跟",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "服饰常见表达"
+  },
+  {
+    "item_code": "w_028275",
+    "content": "flat sequence",
+    "meaning_zh": "扁平序列",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "计算机术语搭配"
+  },
+  {
+    "item_code": "w_028276",
+    "content": "flat stroke",
+    "meaning_zh": "平击；平直笔画",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "需按领域理解"
+  },
+  {
+    "item_code": "w_028291",
+    "content": "flattened disk system",
+    "meaning_zh": "扁平盘状系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "偏天文描述短语"
+  },
+  {
+    "item_code": "w_028294",
+    "content": "flatter voracious remorse",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声词串"
+  },
+  {
+    "item_code": "w_028302",
+    "content": "flaunt wealth",
+    "meaning_zh": "炫耀财富",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_028308",
+    "content": "flavor of",
+    "meaning_zh": "……的味道；……的风味",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见介词搭配"
+  },
+  {
+    "item_code": "w_028326",
+    "content": "fleck alphabet",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串无固定含义"
+  },
+  {
+    "item_code": "w_028329",
+    "content": "fledged",
+    "meaning_zh": "羽翼已丰的；成熟的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词"
+  },
+  {
+    "item_code": "w_028333",
+    "content": "fledgling pier",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_028341",
+    "content": "fleeting corroborate eboliant symbiosis",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声词串"
+  },
+  {
+    "item_code": "w_028342",
+    "content": "fleeting moment",
+    "meaning_zh": "短暂的一刻",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_028347",
+    "content": "flesh farthest",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无意义"
+  }
+]

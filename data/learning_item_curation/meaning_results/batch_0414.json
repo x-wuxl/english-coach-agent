@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_039630",
+    "content": "interior bedroom wall",
+    "meaning_zh": "卧室内墙",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "房屋装修搭配"
+  },
+  {
+    "item_code": "w_039634",
+    "content": "interior facilities",
+    "meaning_zh": "室内设施；内部设施",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见设施搭配"
+  },
+  {
+    "item_code": "w_039641",
+    "content": "interlacing branches",
+    "meaning_zh": "交错的树枝",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "自然描写搭配"
+  },
+  {
+    "item_code": "w_039644",
+    "content": "interlibrary service",
+    "meaning_zh": "馆际服务；图书馆间服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "图书馆术语"
+  },
+  {
+    "item_code": "w_039661",
+    "content": "intermediate stop",
+    "meaning_zh": "中途停靠站；中间停靠",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通常用搭配"
+  },
+  {
+    "item_code": "w_039667",
+    "content": "interminable uncouf abstruse",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含疑似拼写噪声"
+  },
+  {
+    "item_code": "w_039674",
+    "content": "intermittent supplement",
+    "meaning_zh": "间歇性补充；不定期补给",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解但少见"
+  },
+  {
+    "item_code": "w_039679",
+    "content": "intern abstract anthology article",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌难判断"
+  },
+  {
+    "item_code": "w_039682",
+    "content": "internal body clock",
+    "meaning_zh": "体内生物钟",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生物学常用表达"
+  },
+  {
+    "item_code": "w_039687",
+    "content": "internal compass",
+    "meaning_zh": "内在方向感；内置罗盘",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可指本能或装置"
+  },
+  {
+    "item_code": "w_039689",
+    "content": "internal editor",
+    "meaning_zh": "内部编辑器；内部编辑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义依语境区分"
+  },
+  {
+    "item_code": "w_039695",
+    "content": "internal mail",
+    "meaning_zh": "内部邮件；单位内部邮递",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "办公通信搭配"
+  },
+  {
+    "item_code": "w_039696",
+    "content": "internal metal skeleton",
+    "meaning_zh": "内部金属骨架",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "结构描述搭配"
+  },
+  {
+    "item_code": "w_039702",
+    "content": "internal shock",
+    "meaning_zh": "内部冲击；内心震动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "需语境确定义项"
+  },
+  {
+    "item_code": "w_039712",
+    "content": "International Accounting Standards Boards",
+    "meaning_zh": "国际会计准则理事会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "机构名但疑似复数误写"
+  },
+  {
+    "item_code": "w_039713",
+    "content": "international affair",
+    "meaning_zh": "国际事务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治常用表达"
+  },
+  {
+    "item_code": "w_039719",
+    "content": "International Civil Aviation Organisation",
+    "meaning_zh": "国际民用航空组织",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "国际组织专名"
+  },
+  {
+    "item_code": "w_039721",
+    "content": "international communities",
+    "meaning_zh": "国际社会；国际共同体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "时政常用表达"
+  },
+  {
+    "item_code": "w_039722",
+    "content": "international concern",
+    "meaning_zh": "国际关注；国际关切",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "时政常用搭配"
+  },
+  {
+    "item_code": "w_039724",
+    "content": "international container shipping service",
+    "meaning_zh": "国际集装箱运输服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "航运物流术语"
+  }
+]

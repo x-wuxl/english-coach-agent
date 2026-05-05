@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_029159",
+    "content": "former arduous catalog",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无固定含义"
+  },
+  {
+    "item_code": "w_029167",
+    "content": "formula for",
+    "meaning_zh": "……的公式；……的化学式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持化学式用法"
+  },
+  {
+    "item_code": "w_029178",
+    "content": "forsake darkness for light",
+    "meaning_zh": "弃暗投明",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达整体释义"
+  },
+  {
+    "item_code": "w_029184",
+    "content": "forthcoming halt shampoo",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无固定含义"
+  },
+  {
+    "item_code": "w_029187",
+    "content": "forthright lament",
+    "meaning_zh": "直率的哀叹",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "普通组合非固定搭配"
+  },
+  {
+    "item_code": "w_029192",
+    "content": "fortified cereals",
+    "meaning_zh": "强化营养谷物；添加营养素的麦片",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见食品营养搭配"
+  },
+  {
+    "item_code": "w_029195",
+    "content": "fortify budget",
+    "meaning_zh": "加强预算；增加预算保障",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作财务搭配理解"
+  },
+  {
+    "item_code": "w_029199",
+    "content": "fortnight weekly weekday",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "时间词堆叠无含义"
+  },
+  {
+    "item_code": "w_029201",
+    "content": "fortnite",
+    "meaning_zh": "《堡垒之夜》",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "游戏专有名词"
+  },
+  {
+    "item_code": "w_029231",
+    "content": "forwards backward approach",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "表达混乱难以判断"
+  },
+  {
+    "item_code": "w_029235",
+    "content": "fossil cardiovascular",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "领域词堆叠不成义"
+  },
+  {
+    "item_code": "w_029236",
+    "content": "fossil evidence",
+    "meaning_zh": "化石证据",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常见搭配"
+  },
+  {
+    "item_code": "w_029237",
+    "content": "fossil fragment",
+    "meaning_zh": "化石碎片；化石残片",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "考古生物常见搭配"
+  },
+  {
+    "item_code": "w_029249",
+    "content": "foster commute load",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无固定含义"
+  },
+  {
+    "item_code": "w_029250",
+    "content": "foster crumple",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "动词并列不成搭配"
+  },
+  {
+    "item_code": "w_029257",
+    "content": "foul plummy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "形容词堆叠无固定含义"
+  },
+  {
+    "item_code": "w_029261",
+    "content": "foundation paralysis",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难以判断"
+  },
+  {
+    "item_code": "w_029266",
+    "content": "founding director",
+    "meaning_zh": "创始董事；创办负责人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "组织职务常见搭配"
+  },
+  {
+    "item_code": "w_029269",
+    "content": "founding generation",
+    "meaning_zh": "建国一代；创始一代",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "历史政治常见表达"
+  },
+  {
+    "item_code": "w_029273",
+    "content": "fountain funnel",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "名词堆叠无固定含义"
+  }
+]

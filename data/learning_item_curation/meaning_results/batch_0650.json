@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_064050",
+    "content": "savory rational",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_064051",
+    "content": "savory seasoning",
+    "meaning_zh": "咸鲜调味料；香辛调料",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见食品搭配"
+  },
+  {
+    "item_code": "w_064055",
+    "content": "savvy debris",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_064057",
+    "content": "saw a movie",
+    "meaning_zh": "看了一场电影",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_064058",
+    "content": "saw flowers",
+    "meaning_zh": "看见了花",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础短语"
+  },
+  {
+    "item_code": "w_064063",
+    "content": "sawmell",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_064068",
+    "content": "Saxon churl",
+    "meaning_zh": "撒克逊农夫；粗野的撒克逊人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "历史语境表达"
+  },
+  {
+    "item_code": "w_064072",
+    "content": "say cheese",
+    "meaning_zh": "拍照时说“茄子”",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句吻合"
+  },
+  {
+    "item_code": "w_064075",
+    "content": "say goodbye to sb.",
+    "meaning_zh": "向某人告别",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_064087",
+    "content": "sb.'s terms",
+    "meaning_zh": "某人的条件；某人的说法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见搭配含义"
+  },
+  {
+    "item_code": "w_064098",
+    "content": "scaffold span",
+    "meaning_zh": "脚手架跨度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "工程类搭配"
+  },
+  {
+    "item_code": "w_064107",
+    "content": "scale back on",
+    "meaning_zh": "缩减；减少",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  },
+  {
+    "item_code": "w_064117",
+    "content": "scaler",
+    "meaning_zh": "除垢器；缩放工具；剥鳞器",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "多领域术语"
+  },
+  {
+    "item_code": "w_064125",
+    "content": "scalp biotic",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_064132",
+    "content": "scan innocuous",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_064133",
+    "content": "scan payment",
+    "meaning_zh": "扫码支付",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见支付表达"
+  },
+  {
+    "item_code": "w_064142",
+    "content": "scanner kitchenware",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_064145",
+    "content": "scant repute",
+    "meaning_zh": "名声不佳；声誉微薄",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "少见书面搭配"
+  },
+  {
+    "item_code": "w_064147",
+    "content": "scanty evidence",
+    "meaning_zh": "证据不足；少量证据",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见书面搭配"
+  },
+  {
+    "item_code": "w_064151",
+    "content": "scarce mineral",
+    "meaning_zh": "稀缺矿物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  }
+]

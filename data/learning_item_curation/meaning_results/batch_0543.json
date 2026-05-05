@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_052680",
+    "content": "out season",
+    "meaning_zh": "淡季；过季",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑似out of season省略"
+  },
+  {
+    "item_code": "w_052684",
+    "content": "out-door club",
+    "meaning_zh": "户外俱乐部",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "整体为户外活动组织"
+  },
+  {
+    "item_code": "w_052693",
+    "content": "outback farm",
+    "meaning_zh": "澳大利亚内陆农场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "outback指澳洲内陆"
+  },
+  {
+    "item_code": "w_052697",
+    "content": "outbound direct investment",
+    "meaning_zh": "对外直接投资",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济术语常见搭配"
+  },
+  {
+    "item_code": "w_052698",
+    "content": "outbound investment",
+    "meaning_zh": "对外投资",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济金融常见术语"
+  },
+  {
+    "item_code": "w_052700",
+    "content": "outbound travel",
+    "meaning_zh": "出境旅游",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅游领域常见搭配"
+  },
+  {
+    "item_code": "w_052701",
+    "content": "outbound trip",
+    "meaning_zh": "出境旅行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅游出行情境明确"
+  },
+  {
+    "item_code": "w_052715",
+    "content": "outdated curriculum",
+    "meaning_zh": "过时的课程体系",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育语境常见搭配"
+  },
+  {
+    "item_code": "w_052717",
+    "content": "outdated items of food",
+    "meaning_zh": "过期食品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达不自然但可理解"
+  },
+  {
+    "item_code": "w_052725",
+    "content": "outdoor barbeque",
+    "meaning_zh": "户外烧烤",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生活场景常见搭配"
+  },
+  {
+    "item_code": "w_052726",
+    "content": "outdoor billboards",
+    "meaning_zh": "户外广告牌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "广告领域常见表达"
+  },
+  {
+    "item_code": "w_052727",
+    "content": "outdoor diplomacy",
+    "meaning_zh": "户外外交",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配少见但含义可推断"
+  },
+  {
+    "item_code": "w_052728",
+    "content": "outdoor movie theater",
+    "meaning_zh": "露天电影院",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "娱乐场所固定表达"
+  },
+  {
+    "item_code": "w_052729",
+    "content": "outdoor shows",
+    "meaning_zh": "户外演出",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "演出活动常见搭配"
+  },
+  {
+    "item_code": "w_052735",
+    "content": "outer glass",
+    "meaning_zh": "外层玻璃",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "结构部件含义明确"
+  },
+  {
+    "item_code": "w_052736",
+    "content": "outer inner external",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成立且像噪声"
+  },
+  {
+    "item_code": "w_052750",
+    "content": "outgoing decision",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不常见含义不明"
+  },
+  {
+    "item_code": "w_052758",
+    "content": "outing dress",
+    "meaning_zh": "外出服",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "服装搭配较旧但可理解"
+  },
+  {
+    "item_code": "w_052766",
+    "content": "outlet for",
+    "meaning_zh": "发泄或表达的途径",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "outlet for固定用法"
+  },
+  {
+    "item_code": "w_052767",
+    "content": "outley",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误或噪声"
+  }
+]

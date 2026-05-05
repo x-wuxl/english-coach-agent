@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_041830",
+    "content": "label improvement",
+    "meaning_zh": "标签改进；标识改进",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "明显为名词短语"
+  },
+  {
+    "item_code": "w_041835",
+    "content": "labial",
+    "meaning_zh": "唇的；唇音的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见语言学术语"
+  },
+  {
+    "item_code": "w_041837",
+    "content": "labile bromide",
+    "meaning_zh": "不稳定溴化物；活泼溴化物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "化学术语短语"
+  },
+  {
+    "item_code": "w_041840",
+    "content": "labium vito",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声或拼写错误"
+  },
+  {
+    "item_code": "w_041842",
+    "content": "labor along",
+    "meaning_zh": "吃力地前进；艰难地继续",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "动词短语含义明确"
+  },
+  {
+    "item_code": "w_041843",
+    "content": "labor contract system",
+    "meaning_zh": "劳动合同制度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见制度表达"
+  },
+  {
+    "item_code": "w_041847",
+    "content": "labor fair",
+    "meaning_zh": "招聘会；劳动力招聘会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务就业场景常见"
+  },
+  {
+    "item_code": "w_041848",
+    "content": "labor label",
+    "meaning_zh": "工会标签；劳工标识",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "劳工相关术语"
+  },
+  {
+    "item_code": "w_041852",
+    "content": "labor rates",
+    "meaning_zh": "人工费率；劳动力价格",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商业经济常用短语"
+  },
+  {
+    "item_code": "w_041854",
+    "content": "labor skill",
+    "meaning_zh": "劳动技能；工作技能",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可判断"
+  },
+  {
+    "item_code": "w_041860",
+    "content": "laboratories report",
+    "meaning_zh": "实验室报告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "low",
+    "reason": "疑为拼写或搭配错误"
+  },
+  {
+    "item_code": "w_041862",
+    "content": "laboratory premier",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常含义不明"
+  },
+  {
+    "item_code": "w_041881",
+    "content": "labour shortage",
+    "meaning_zh": "劳动力短缺",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务英语常见短语"
+  },
+  {
+    "item_code": "w_041884",
+    "content": "labour-right",
+    "meaning_zh": "劳工权利；劳动权利",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "连字符名词短语"
+  },
+  {
+    "item_code": "w_041888",
+    "content": "labretto",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_041891",
+    "content": "labyrintine",
+    "meaning_zh": "迷宫般的；复杂难懂的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为labyrinthine"
+  },
+  {
+    "item_code": "w_041892",
+    "content": "lacadasical",
+    "meaning_zh": "懒散的；漫不经心的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为lackadaisical"
+  },
+  {
+    "item_code": "w_041895",
+    "content": "laced",
+    "meaning_zh": "系带的；掺有某物的；带花边的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词义项"
+  },
+  {
+    "item_code": "w_041899",
+    "content": "lacerate nauseate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语并列非固定表达"
+  },
+  {
+    "item_code": "w_041906",
+    "content": "lachrymose elephantine",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语并列非固定表达"
+  }
+]

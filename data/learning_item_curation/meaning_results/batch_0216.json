@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_020370",
+    "content": "devaluation attach",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_020379",
+    "content": "develop a film",
+    "meaning_zh": "冲洗胶卷",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定摄影搭配"
+  },
+  {
+    "item_code": "w_020381",
+    "content": "develop a modernized economy",
+    "meaning_zh": "发展现代化经济",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见经济表达"
+  },
+  {
+    "item_code": "w_020382",
+    "content": "develop and deploy",
+    "meaning_zh": "开发并部署",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术场景常用搭配"
+  },
+  {
+    "item_code": "w_020383",
+    "content": "develop children's intelligence",
+    "meaning_zh": "开发儿童智力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育话题常见搭配"
+  },
+  {
+    "item_code": "w_020384",
+    "content": "develop film",
+    "meaning_zh": "冲洗胶卷",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定摄影搭配"
+  },
+  {
+    "item_code": "w_020387",
+    "content": "develop habits",
+    "meaning_zh": "养成习惯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_020388",
+    "content": "develop interpersonal relations",
+    "meaning_zh": "发展人际关系",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社交表达"
+  },
+  {
+    "item_code": "w_020389",
+    "content": "develop interpersonal relationship",
+    "meaning_zh": "发展人际关系",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社交表达"
+  },
+  {
+    "item_code": "w_020390",
+    "content": "develop interpersonal relationships",
+    "meaning_zh": "发展人际关系",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社交表达"
+  },
+  {
+    "item_code": "w_020391",
+    "content": "develop public transport",
+    "meaning_zh": "发展公共交通",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通话题常见搭配"
+  },
+  {
+    "item_code": "w_020392",
+    "content": "develop renewable resources",
+    "meaning_zh": "开发可再生资源",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "资源话题常见搭配"
+  },
+  {
+    "item_code": "w_020393",
+    "content": "develop self-awareness",
+    "meaning_zh": "培养自我意识",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "心理成长常见表达"
+  },
+  {
+    "item_code": "w_020394",
+    "content": "develop the economy",
+    "meaning_zh": "发展经济",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见经济表达"
+  },
+  {
+    "item_code": "w_020395",
+    "content": "develop their intelligence",
+    "meaning_zh": "开发他们的智力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育话题常见搭配"
+  },
+  {
+    "item_code": "w_020399",
+    "content": "developed technology",
+    "meaning_zh": "成熟的技术；先进技术",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可指成熟或先进"
+  },
+  {
+    "item_code": "w_020400",
+    "content": "developed region",
+    "meaning_zh": "发达地区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见地理经济表达"
+  },
+  {
+    "item_code": "w_020407",
+    "content": "development of logistics",
+    "meaning_zh": "物流发展",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "物流话题常见表达"
+  },
+  {
+    "item_code": "w_020408",
+    "content": "development of personality",
+    "meaning_zh": "人格发展；个性发展",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "心理教育常见表达"
+  },
+  {
+    "item_code": "w_020409",
+    "content": "development plan",
+    "meaning_zh": "开发计划；发展规划",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机语境可指开发"
+  }
+]

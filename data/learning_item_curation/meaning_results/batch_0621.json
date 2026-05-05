@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_060951",
+    "content": "referee blackmail",
+    "meaning_zh": "裁判勒索",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配生硬疑似噪声"
+  },
+  {
+    "item_code": "w_060952",
+    "content": "referee who accepts bribes",
+    "meaning_zh": "受贿的裁判",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "描述性短语含义明确"
+  },
+  {
+    "item_code": "w_060956",
+    "content": "reference count",
+    "meaning_zh": "引用计数",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_060959",
+    "content": "reference letter from employer",
+    "meaning_zh": "雇主推荐信",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "留学申请常用表达"
+  },
+  {
+    "item_code": "w_060963",
+    "content": "reference reading room",
+    "meaning_zh": "参考阅览室",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "图书馆场景短语"
+  },
+  {
+    "item_code": "w_060966",
+    "content": "reference stacks",
+    "meaning_zh": "参考书库",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "图书馆术语"
+  },
+  {
+    "item_code": "w_060973",
+    "content": "referral hematoma",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似错误医学搭配"
+  },
+  {
+    "item_code": "w_060979",
+    "content": "refined art",
+    "meaning_zh": "高雅艺术；精致艺术",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_060981",
+    "content": "refined scholar",
+    "meaning_zh": "文雅的学者；有修养的学者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见人物描述"
+  },
+  {
+    "item_code": "w_061007",
+    "content": "reflow",
+    "meaning_zh": "重排；回流焊；重新流动",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机及工程术语"
+  },
+  {
+    "item_code": "w_061010",
+    "content": "refluent rivalry",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配疑似噪声"
+  },
+  {
+    "item_code": "w_061018",
+    "content": "reform of medical system",
+    "meaning_zh": "医疗体制改革",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "考研话题常用短语"
+  },
+  {
+    "item_code": "w_061019",
+    "content": "reform promoters",
+    "meaning_zh": "改革推动者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治社会话题短语"
+  },
+  {
+    "item_code": "w_061020",
+    "content": "reformat",
+    "meaning_zh": "重新格式化；重新编排格式",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用动词"
+  },
+  {
+    "item_code": "w_061028",
+    "content": "reforms on government vehicles",
+    "meaning_zh": "公车改革",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "公共政策常用表达"
+  },
+  {
+    "item_code": "w_061043",
+    "content": "refrain ablate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语并列无明确关系"
+  },
+  {
+    "item_code": "w_061054",
+    "content": "refreshing quail",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常疑似噪声"
+  },
+  {
+    "item_code": "w_061069",
+    "content": "refund approximately impartial mad",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无意义词串"
+  },
+  {
+    "item_code": "w_061070",
+    "content": "refund one's postage",
+    "meaning_zh": "退还某人的邮费",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动宾短语含义明确"
+  },
+  {
+    "item_code": "w_061073",
+    "content": "refurbish renovate rubble",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "近义词混杂含噪声"
+  }
+]

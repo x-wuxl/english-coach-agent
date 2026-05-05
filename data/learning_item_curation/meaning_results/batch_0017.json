@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_000543",
+    "content": "a seriously flawed understanding",
+    "meaning_zh": "严重错误的理解",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "整体短语含义明确"
+  },
+  {
+    "item_code": "w_000544",
+    "content": "a set number of",
+    "meaning_zh": "固定数量的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配含义明确"
+  },
+  {
+    "item_code": "w_000546",
+    "content": "a set of earphones",
+    "meaning_zh": "一副耳机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "名词短语含义明确"
+  },
+  {
+    "item_code": "w_000548",
+    "content": "a share of",
+    "meaning_zh": "一份；一定比例的份额",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持市场份额义"
+  },
+  {
+    "item_code": "w_000551",
+    "content": "a shopping spree",
+    "meaning_zh": "疯狂购物；购物狂欢",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_000552",
+    "content": "a short notice",
+    "meaning_zh": "短时间通知；临时通知",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见搭配略不完整"
+  },
+  {
+    "item_code": "w_000553",
+    "content": "a shortage of",
+    "meaning_zh": "缺乏；短缺",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句均支持短缺义"
+  },
+  {
+    "item_code": "w_000554",
+    "content": "a side effect",
+    "meaning_zh": "副作用；附带后果",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习词组"
+  },
+  {
+    "item_code": "w_000555",
+    "content": "a sightseeing tour",
+    "meaning_zh": "观光游览；观光旅行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅游主题短语明确"
+  },
+  {
+    "item_code": "w_000556",
+    "content": "a significant issue",
+    "meaning_zh": "重大问题；重要议题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术语境常见表达"
+  },
+  {
+    "item_code": "w_000557",
+    "content": "a silver jubilee",
+    "meaning_zh": "二十五周年纪念",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定文化表达"
+  },
+  {
+    "item_code": "w_000559",
+    "content": "a simple fix",
+    "meaning_zh": "简单的解决办法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见问题解决表达"
+  },
+  {
+    "item_code": "w_000560",
+    "content": "a single lineage",
+    "meaning_zh": "单一谱系；单一血统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术语境含义明确"
+  },
+  {
+    "item_code": "w_000561",
+    "content": "a single-parent family",
+    "meaning_zh": "单亲家庭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "标准社会话题表达"
+  },
+  {
+    "item_code": "w_000562",
+    "content": "a single-parental family",
+    "meaning_zh": "单亲家庭",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "表达不自然应为single-parent"
+  },
+  {
+    "item_code": "w_000567",
+    "content": "a slice of lemon",
+    "meaning_zh": "一片柠檬",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "量词短语含义明确"
+  },
+  {
+    "item_code": "w_000568",
+    "content": "a slightly larger group",
+    "meaning_zh": "稍大一些的群体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "比较短语含义明确"
+  },
+  {
+    "item_code": "w_000570",
+    "content": "a small fire",
+    "meaning_zh": "小火灾；小火",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础名词短语"
+  },
+  {
+    "item_code": "w_000571",
+    "content": "a small-scale study",
+    "meaning_zh": "小规模研究",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术搭配常见"
+  },
+  {
+    "item_code": "w_000572",
+    "content": "a sober-sided classical-music critic",
+    "meaning_zh": "严肃的古典音乐评论家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合修饰短语明确"
+  }
+]

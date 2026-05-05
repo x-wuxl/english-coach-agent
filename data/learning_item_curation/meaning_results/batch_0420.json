@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_040170",
+    "content": "invite affluent",
+    "meaning_zh": "邀请富裕人士",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语可按整体理解"
+  },
+  {
+    "item_code": "w_040172",
+    "content": "invite reagent launch",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配混乱难判断"
+  },
+  {
+    "item_code": "w_040176",
+    "content": "inviting views",
+    "meaning_zh": "迷人的景色",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容景观搭配"
+  },
+  {
+    "item_code": "w_040184",
+    "content": "involuntary mood",
+    "meaning_zh": "不由自主的情绪",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义可理解但少见"
+  },
+  {
+    "item_code": "w_040192",
+    "content": "involve aid",
+    "meaning_zh": "涉及援助；需要帮助",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "动宾搭配可理解"
+  },
+  {
+    "item_code": "w_040213",
+    "content": "ion equation",
+    "meaning_zh": "离子方程式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "化学术语"
+  },
+  {
+    "item_code": "w_040217",
+    "content": "ionised groundwater",
+    "meaning_zh": "电离地下水；离子化地下水",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术性环境术语"
+  },
+  {
+    "item_code": "w_040230",
+    "content": "iphan",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_040265",
+    "content": "irksom",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_040271",
+    "content": "iron forge",
+    "meaning_zh": "铁匠铺；炼铁炉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见工业相关名词"
+  },
+  {
+    "item_code": "w_040274",
+    "content": "iron output",
+    "meaning_zh": "铁产量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "产量搭配明确"
+  },
+  {
+    "item_code": "w_040277",
+    "content": "iron washing",
+    "meaning_zh": "洗铁；铁矿洗选",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "矿业语境可理解"
+  },
+  {
+    "item_code": "w_040279",
+    "content": "iron-cap prince",
+    "meaning_zh": "铁帽子王",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "清代爵位术语"
+  },
+  {
+    "item_code": "w_040295",
+    "content": "irrational boom",
+    "meaning_zh": "非理性繁荣；非理性热潮",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济现象搭配"
+  },
+  {
+    "item_code": "w_040297",
+    "content": "irrational price",
+    "meaning_zh": "不合理价格；非理性价格",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "价格描述明确"
+  },
+  {
+    "item_code": "w_040306",
+    "content": "irregular malaria",
+    "meaning_zh": "不规则疟疾；非典型疟疾",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学搭配较少见"
+  },
+  {
+    "item_code": "w_040309",
+    "content": "irregularly distribute",
+    "meaning_zh": "不规则分布",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_040313",
+    "content": "irrelevant agitate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语搭配不成立"
+  },
+  {
+    "item_code": "w_040325",
+    "content": "irresistible concentrate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配生硬难判断"
+  },
+  {
+    "item_code": "w_040330",
+    "content": "irrespective barring acceptable",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词堆叠无明确义"
+  }
+]

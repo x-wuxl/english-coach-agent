@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_071488",
+    "content": "survival parachute",
+    "meaning_zh": "救生降落伞",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_071491",
+    "content": "survive in",
+    "meaning_zh": "在……中生存；在……中过活",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_071493",
+    "content": "survive the quake",
+    "meaning_zh": "在地震中幸存",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动宾搭配"
+  },
+  {
+    "item_code": "w_071499",
+    "content": "Susan Bold",
+    "meaning_zh": "苏珊·博尔德（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有名词人名"
+  },
+  {
+    "item_code": "w_071503",
+    "content": "susceptible sale concern",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无固定含义"
+  },
+  {
+    "item_code": "w_071507",
+    "content": "sushi waffle carp",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无教学价值"
+  },
+  {
+    "item_code": "w_071509",
+    "content": "suspect enthusiasm impractical",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无固定含义"
+  },
+  {
+    "item_code": "w_071511",
+    "content": "suspect personnel",
+    "meaning_zh": "嫌疑人员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_071518",
+    "content": "suspend abnormal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_071520",
+    "content": "suspend corrosion survey",
+    "meaning_zh": "暂停腐蚀调查",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作动宾短语"
+  },
+  {
+    "item_code": "w_071521",
+    "content": "suspend spectator barter",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无固定含义"
+  },
+  {
+    "item_code": "w_071529",
+    "content": "suspenseful tension",
+    "meaning_zh": "悬疑紧张感",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语义可判断"
+  },
+  {
+    "item_code": "w_071532",
+    "content": "suspension of fishing license",
+    "meaning_zh": "吊销捕鱼许可证；暂停捕鱼执照",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律行政常用表达"
+  },
+  {
+    "item_code": "w_071541",
+    "content": "sustain cranium",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_071546",
+    "content": "sustainable development strategy",
+    "meaning_zh": "可持续发展战略",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_071550",
+    "content": "sustainable urban development",
+    "meaning_zh": "可持续城市发展",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_071557",
+    "content": "suture streak bomb",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无教学价值"
+  },
+  {
+    "item_code": "w_071565",
+    "content": "swagger bolge",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写或噪声"
+  },
+  {
+    "item_code": "w_071567",
+    "content": "swale erosion",
+    "meaning_zh": "洼地侵蚀；浅沟侵蚀",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "地貌术语搭配"
+  },
+  {
+    "item_code": "w_071569",
+    "content": "swallow California's argument whole",
+    "meaning_zh": "全盘接受加州的论点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语swallow whole"
+  }
+]

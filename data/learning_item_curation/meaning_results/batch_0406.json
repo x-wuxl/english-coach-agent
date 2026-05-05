@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_038791",
+    "content": "infinite tirade",
+    "meaning_zh": "无休止的长篇斥责",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作搭配理解"
+  },
+  {
+    "item_code": "w_038797",
+    "content": "infinitive affection diploma",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_038804",
+    "content": "inflame obsequious",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然搭配"
+  },
+  {
+    "item_code": "w_038810",
+    "content": "inflammation chloride tempest",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_038813",
+    "content": "inflatable doll",
+    "meaning_zh": "充气娃娃",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定名词短语"
+  },
+  {
+    "item_code": "w_038819",
+    "content": "inflation expectation",
+    "meaning_zh": "通货膨胀预期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济学常用搭配"
+  },
+  {
+    "item_code": "w_038820",
+    "content": "inflation fears",
+    "meaning_zh": "对通货膨胀的担忧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "财经新闻常用表达"
+  },
+  {
+    "item_code": "w_038821",
+    "content": "inflation greeting rival",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_038823",
+    "content": "inflation-prone currency",
+    "meaning_zh": "易受通胀影响的货币",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济类复合短语"
+  },
+  {
+    "item_code": "w_038824",
+    "content": "inflation-proof bank savings",
+    "meaning_zh": "抗通胀的银行储蓄",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "金融类短语"
+  },
+  {
+    "item_code": "w_038834",
+    "content": "inflict ... upon",
+    "meaning_zh": "把…强加于；使…遭受",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_038836",
+    "content": "inflict pain on ...",
+    "meaning_zh": "给…造成痛苦",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_038845",
+    "content": "influence on adults",
+    "meaning_zh": "对成年人的影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "含义明确的短语"
+  },
+  {
+    "item_code": "w_038846",
+    "content": "influence upon",
+    "meaning_zh": "对…的影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词搭配"
+  },
+  {
+    "item_code": "w_038847",
+    "content": "influence upon ...",
+    "meaning_zh": "对…的影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词搭配"
+  },
+  {
+    "item_code": "w_038848",
+    "content": "influence with",
+    "meaning_zh": "用…影响；对…有影响力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配需补足语境"
+  },
+  {
+    "item_code": "w_038849",
+    "content": "influence with ...",
+    "meaning_zh": "用…影响；对…有影响力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配需补足语境"
+  },
+  {
+    "item_code": "w_038857",
+    "content": "info-highway",
+    "meaning_zh": "信息高速公路",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "信息技术术语"
+  },
+  {
+    "item_code": "w_038868",
+    "content": "informal exhaust diabetes",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_038869",
+    "content": "informal occasion",
+    "meaning_zh": "非正式场合",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  }
+]

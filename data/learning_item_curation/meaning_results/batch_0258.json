@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_024609",
+    "content": "engross clot appeal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词组"
+  },
+  {
+    "item_code": "w_024610",
+    "content": "engross horse",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_024614",
+    "content": "enguistic",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_024617",
+    "content": "enhance environmental awareness",
+    "meaning_zh": "增强环保意识",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见写作搭配"
+  },
+  {
+    "item_code": "w_024618",
+    "content": "enhance human well-being",
+    "meaning_zh": "增进人类福祉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见议论文表达"
+  },
+  {
+    "item_code": "w_024619",
+    "content": "enhance one's awareness",
+    "meaning_zh": "增强某人的意识",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_024620",
+    "content": "enhance one's reputation",
+    "meaning_zh": "提升某人的声誉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_024621",
+    "content": "enhance social position",
+    "meaning_zh": "提高社会地位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_024628",
+    "content": "enjedicious",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_024631",
+    "content": "enjoy a comfortable life",
+    "meaning_zh": "享受舒适的生活",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_024632",
+    "content": "enjoy a great reputation",
+    "meaning_zh": "享有很高声誉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_024633",
+    "content": "enjoy a peaceful land",
+    "meaning_zh": "享有和平的家园",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配略生硬"
+  },
+  {
+    "item_code": "w_024634",
+    "content": "enjoy a striking popularity",
+    "meaning_zh": "广受欢迎",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略不自然"
+  },
+  {
+    "item_code": "w_024635",
+    "content": "enjoy a superb reputation",
+    "meaning_zh": "享有极高声誉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见声誉搭配"
+  },
+  {
+    "item_code": "w_024636",
+    "content": "enjoy barbeque",
+    "meaning_zh": "享用烧烤",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见休闲表达"
+  },
+  {
+    "item_code": "w_024637",
+    "content": "enjoy crazy games",
+    "meaning_zh": "喜欢刺激的游戏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语义可判断"
+  },
+  {
+    "item_code": "w_024638",
+    "content": "enjoy different hobbies",
+    "meaning_zh": "享受不同的爱好",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配一般"
+  },
+  {
+    "item_code": "w_024641",
+    "content": "enjoy entertainment",
+    "meaning_zh": "享受娱乐活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_024642",
+    "content": "enjoy fresh air",
+    "meaning_zh": "享受新鲜空气",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_024644",
+    "content": "enjoy leisure time",
+    "meaning_zh": "享受闲暇时光",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  }
+]

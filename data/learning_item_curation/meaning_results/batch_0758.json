@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_074053",
+    "content": "the steep increase",
+    "meaning_zh": "急剧增长；大幅增加",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_074055",
+    "content": "the Stone Forest",
+    "meaning_zh": "石林",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见景点名称"
+  },
+  {
+    "item_code": "w_074056",
+    "content": "the stow radical interplay",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声短语"
+  },
+  {
+    "item_code": "w_074057",
+    "content": "the Strait Times",
+    "meaning_zh": "《海峡时报》",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有报刊名疑似拼写差异"
+  },
+  {
+    "item_code": "w_074058",
+    "content": "the Straits of Malacca",
+    "meaning_zh": "马六甲海峡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地理专有名词"
+  },
+  {
+    "item_code": "w_074059",
+    "content": "the stress on",
+    "meaning_zh": "对……的强调；对……的重视",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_074060",
+    "content": "the student action coalition",
+    "meaning_zh": "学生行动联盟",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "组织名称短语"
+  },
+  {
+    "item_code": "w_074061",
+    "content": "the Students Union",
+    "meaning_zh": "学生会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "校园组织名称"
+  },
+  {
+    "item_code": "w_074062",
+    "content": "the students' union",
+    "meaning_zh": "学生会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见校园词汇"
+  },
+  {
+    "item_code": "w_074064",
+    "content": "the summit",
+    "meaning_zh": "山顶；峰会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指山顶"
+  },
+  {
+    "item_code": "w_074067",
+    "content": "the symbol of",
+    "meaning_zh": "……的象征；……的标志",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_074070",
+    "content": "the Terracotta Army",
+    "meaning_zh": "兵马俑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文化专有名词"
+  },
+  {
+    "item_code": "w_074072",
+    "content": "the theme of sth.",
+    "meaning_zh": "某事物的主题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达模板"
+  },
+  {
+    "item_code": "w_074074",
+    "content": "the third largest",
+    "meaning_zh": "第三大的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含排序大小"
+  },
+  {
+    "item_code": "w_074075",
+    "content": "the Thousand Talents Program",
+    "meaning_zh": "千人计划",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "项目专有名词"
+  },
+  {
+    "item_code": "w_074077",
+    "content": "The Three-Body Problem",
+    "meaning_zh": "《三体》；三体问题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "书名兼术语"
+  },
+  {
+    "item_code": "w_074078",
+    "content": "the three-step development strategy",
+    "meaning_zh": "三步走发展战略",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策术语"
+  },
+  {
+    "item_code": "w_074081",
+    "content": "the tort system",
+    "meaning_zh": "侵权法制度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律术语"
+  },
+  {
+    "item_code": "w_074082",
+    "content": "the traditional hospitality",
+    "meaning_zh": "传统待客之道；传统好客精神",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见文化表达"
+  },
+  {
+    "item_code": "w_074083",
+    "content": "the Transportation Security Administration",
+    "meaning_zh": "美国运输安全管理局",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "美国机构名称"
+  }
+]

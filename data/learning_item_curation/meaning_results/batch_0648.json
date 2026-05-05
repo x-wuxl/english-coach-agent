@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_063839",
+    "content": "Sandra Cisneros",
+    "meaning_zh": "桑德拉·希斯内罗斯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "作家人名"
+  },
+  {
+    "item_code": "w_063842",
+    "content": "sandstorm and construction dust",
+    "meaning_zh": "沙尘暴和建筑扬尘",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保类搭配"
+  },
+  {
+    "item_code": "w_063847",
+    "content": "Sandy Beach",
+    "meaning_zh": "沙滩；桑迪海滩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作普通短语或地名"
+  },
+  {
+    "item_code": "w_063856",
+    "content": "sanguin",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_063864",
+    "content": "sanitarian voltage",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_063865",
+    "content": "sanitarium",
+    "meaning_zh": "疗养院；休养所",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见词义明确"
+  },
+  {
+    "item_code": "w_063870",
+    "content": "sanitary stimulation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_063871",
+    "content": "sanitary utensils",
+    "meaning_zh": "卫生洁具；卫生用具",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定行业表达"
+  },
+  {
+    "item_code": "w_063889",
+    "content": "sapina",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_063899",
+    "content": "sarat de tour idol",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声文本"
+  },
+  {
+    "item_code": "w_063910",
+    "content": "sardine school shark tuna",
+    "meaning_zh": "沙丁鱼；鱼群；鲨鱼；金枪鱼",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "词汇堆叠非词条"
+  },
+  {
+    "item_code": "w_063919",
+    "content": "sartorial harness",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  },
+  {
+    "item_code": "w_063921",
+    "content": "Sasha Obama",
+    "meaning_zh": "萨莎·奥巴马",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人名"
+  },
+  {
+    "item_code": "w_063922",
+    "content": "sasson amendment consultation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声文本"
+  },
+  {
+    "item_code": "w_063925",
+    "content": "SAT test score",
+    "meaning_zh": "SAT考试成绩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "留学考试术语"
+  },
+  {
+    "item_code": "w_063931",
+    "content": "satchel saw",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_063944",
+    "content": "satiate people's psychological demand",
+    "meaning_zh": "满足人们的心理需求",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动宾短语"
+  },
+  {
+    "item_code": "w_063961",
+    "content": "satisfaction information of customers",
+    "meaning_zh": "客户满意度信息",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务调查表达"
+  },
+  {
+    "item_code": "w_063962",
+    "content": "satisfaction please pleased acceptable",
+    "meaning_zh": "满意；使高兴；高兴的；可接受的",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "词汇堆叠非词条"
+  },
+  {
+    "item_code": "w_063965",
+    "content": "satisfactory satisfied content",
+    "meaning_zh": "令人满意的；满意的；满足的",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "近义词堆叠非词条"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_007550",
+    "content": "be incapacitated with",
+    "meaning_zh": "因…而丧失能力；因…无法正常活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定被动搭配"
+  },
+  {
+    "item_code": "w_007551",
+    "content": "be incentivised to",
+    "meaning_zh": "受到激励去…；被鼓励去…",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "英式拼写常用搭配"
+  },
+  {
+    "item_code": "w_007554",
+    "content": "be inclusive of",
+    "meaning_zh": "包括；包含",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_007565",
+    "content": "be indispensable for",
+    "meaning_zh": "对…必不可少；对…不可或缺",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "高频学术搭配"
+  },
+  {
+    "item_code": "w_007569",
+    "content": "be ingrained in",
+    "meaning_zh": "深深植根于；根深蒂固于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见比喻搭配"
+  },
+  {
+    "item_code": "w_007570",
+    "content": "be ingrained into",
+    "meaning_zh": "被深深灌输进；深深融入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动搭配"
+  },
+  {
+    "item_code": "w_007572",
+    "content": "be injected into",
+    "meaning_zh": "被注入；被引入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动搭配"
+  },
+  {
+    "item_code": "w_007574",
+    "content": "be injurious to",
+    "meaning_zh": "对…有害",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "正式形容词搭配"
+  },
+  {
+    "item_code": "w_007576",
+    "content": "be innovative with",
+    "meaning_zh": "在…方面有创新；善于创新使用…",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义依宾语变化"
+  },
+  {
+    "item_code": "w_007578",
+    "content": "be inseparable to",
+    "meaning_zh": "与…密不可分",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见搭配为from"
+  },
+  {
+    "item_code": "w_007582",
+    "content": "be integrated with",
+    "meaning_zh": "与…整合；与…结合",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见技术学术搭配"
+  },
+  {
+    "item_code": "w_007585",
+    "content": "be intended to",
+    "meaning_zh": "旨在；意在；打算",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见目的表达"
+  },
+  {
+    "item_code": "w_007586",
+    "content": "be intended to do",
+    "meaning_zh": "旨在做；意在做；打算做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见目的表达"
+  },
+  {
+    "item_code": "w_007590",
+    "content": "be intimately linked",
+    "meaning_zh": "密切相关；紧密相连",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常用搭配"
+  },
+  {
+    "item_code": "w_007594",
+    "content": "be intrigued by",
+    "meaning_zh": "被…吸引；对…很感兴趣",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见情感搭配"
+  },
+  {
+    "item_code": "w_007595",
+    "content": "be introduced into",
+    "meaning_zh": "被引入；被引进",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动搭配"
+  },
+  {
+    "item_code": "w_007596",
+    "content": "be invalided out",
+    "meaning_zh": "因病退役；因伤离职",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  },
+  {
+    "item_code": "w_007597",
+    "content": "be invisible to",
+    "meaning_zh": "对…不可见；不被…察觉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_007602",
+    "content": "be irrespective of",
+    "meaning_zh": "不考虑；不受…影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达形式不典型"
+  },
+  {
+    "item_code": "w_007607",
+    "content": "be joined to",
+    "meaning_zh": "连接到；与…相连",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动搭配"
+  }
+]

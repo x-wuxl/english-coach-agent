@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_071675",
+    "content": "swell eb delusion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_071677",
+    "content": "swell with anger",
+    "meaning_zh": "怒气上涌；气得满腔怒火",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配含义明确"
+  },
+  {
+    "item_code": "w_071681",
+    "content": "swelling symptom syndrome",
+    "meaning_zh": "肿胀症状综合征",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学名词性短语"
+  },
+  {
+    "item_code": "w_071684",
+    "content": "sweltering pilot transgress",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无合理整体含义"
+  },
+  {
+    "item_code": "w_071687",
+    "content": "swerve glacius",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含疑似噪声词"
+  },
+  {
+    "item_code": "w_071688",
+    "content": "swerve ophthalmology",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语搭配不成立"
+  },
+  {
+    "item_code": "w_071693",
+    "content": "swig tequila vermouf",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含拼写噪声"
+  },
+  {
+    "item_code": "w_071698",
+    "content": "swim to ...",
+    "meaning_zh": "游向……；游到……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_071703",
+    "content": "swimming facilities",
+    "meaning_zh": "游泳设施",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_071720",
+    "content": "swinging rings",
+    "meaning_zh": "吊环",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "体育器械名称"
+  },
+  {
+    "item_code": "w_071730",
+    "content": "switch gang",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "罕见搭配无例句"
+  },
+  {
+    "item_code": "w_071731",
+    "content": "switch hours with",
+    "meaning_zh": "与……调换工作时间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职场表达"
+  },
+  {
+    "item_code": "w_071732",
+    "content": "switch jobs",
+    "meaning_zh": "换工作；调换岗位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_071751",
+    "content": "sword neurology",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语搭配不成立"
+  },
+  {
+    "item_code": "w_071763",
+    "content": "sycophant forward",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无合理整体含义"
+  },
+  {
+    "item_code": "w_071768",
+    "content": "Sydney Tower",
+    "meaning_zh": "悉尼塔",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有地名"
+  },
+  {
+    "item_code": "w_071772",
+    "content": "syllabus memorize",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配生硬不自然"
+  },
+  {
+    "item_code": "w_071773",
+    "content": "syllabus right",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无可靠整体含义"
+  },
+  {
+    "item_code": "w_071781",
+    "content": "symbol instantaneously fling",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似随机词串"
+  },
+  {
+    "item_code": "w_071782",
+    "content": "symbol of high quality",
+    "meaning_zh": "高品质的象征",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  }
+]

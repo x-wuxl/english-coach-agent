@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_049240",
+    "content": "natural sight",
+    "meaning_zh": "自然景观",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见搭配义可判断"
+  },
+  {
+    "item_code": "w_049242",
+    "content": "natural therapy",
+    "meaning_zh": "自然疗法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定医学相关搭配"
+  },
+  {
+    "item_code": "w_049257",
+    "content": "nature and science",
+    "meaning_zh": "自然与科学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "主题短语含义直接"
+  },
+  {
+    "item_code": "w_049259",
+    "content": "nature habitat",
+    "meaning_zh": "自然栖息地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为natural habitat"
+  },
+  {
+    "item_code": "w_049262",
+    "content": "nature shows",
+    "meaning_zh": "自然类节目；自然纪录片",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见节目类型表达"
+  },
+  {
+    "item_code": "w_049271",
+    "content": "naughty mumps",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合无可靠含义"
+  },
+  {
+    "item_code": "w_049272",
+    "content": "naughty prevail",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合无可靠含义"
+  },
+  {
+    "item_code": "w_049277",
+    "content": "nauseous near sighted obesity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个词堆叠像噪声"
+  },
+  {
+    "item_code": "w_049283",
+    "content": "naval parade",
+    "meaning_zh": "海军阅兵；海上阅兵",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "军事场景常见搭配"
+  },
+  {
+    "item_code": "w_049285",
+    "content": "naval trial",
+    "meaning_zh": "海军审判；海军试验",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缺少语境存在歧义"
+  },
+  {
+    "item_code": "w_049293",
+    "content": "navigate deficit",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难以判断"
+  },
+  {
+    "item_code": "w_049294",
+    "content": "navigate or",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "残缺短语像噪声"
+  },
+  {
+    "item_code": "w_049300",
+    "content": "navigation tools",
+    "meaning_zh": "导航工具",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见工具类搭配"
+  },
+  {
+    "item_code": "w_049302",
+    "content": "navigational abilities",
+    "meaning_zh": "导航能力；定向能力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见能力类搭配"
+  },
+  {
+    "item_code": "w_049303",
+    "content": "navigational ability",
+    "meaning_zh": "导航能力；定向能力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见能力类搭配"
+  },
+  {
+    "item_code": "w_049304",
+    "content": "navigational accomplishment",
+    "meaning_zh": "航海成就；导航成就",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解但不常见"
+  },
+  {
+    "item_code": "w_049305",
+    "content": "navigational skill",
+    "meaning_zh": "导航技能；定向技能",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见技能类搭配"
+  },
+  {
+    "item_code": "w_049310",
+    "content": "navy elongate outskirts discrepancy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个词堆叠像噪声"
+  },
+  {
+    "item_code": "w_049317",
+    "content": "naïve",
+    "meaning_zh": "天真的；幼稚的；缺乏经验的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见GRE词义"
+  },
+  {
+    "item_code": "w_049318",
+    "content": "naïveté",
+    "meaning_zh": "天真；幼稚；轻信",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象名词义"
+  }
+]

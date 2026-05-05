@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_066424",
+    "content": "shrink from",
+    "meaning_zh": "畏缩；回避",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_066426",
+    "content": "shrink from doing ...",
+    "meaning_zh": "畏缩不敢做；回避做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型搭配"
+  },
+  {
+    "item_code": "w_066427",
+    "content": "shrink from doing something",
+    "meaning_zh": "畏缩不敢做某事；回避做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型搭配"
+  },
+  {
+    "item_code": "w_066428",
+    "content": "shrink from something",
+    "meaning_zh": "回避某事；畏惧某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词搭配"
+  },
+  {
+    "item_code": "w_066440",
+    "content": "shrug spice",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无常见搭配"
+  },
+  {
+    "item_code": "w_066448",
+    "content": "shuffle deck",
+    "meaning_zh": "洗牌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "省略冠词搭配"
+  },
+  {
+    "item_code": "w_066449",
+    "content": "shuffle the deck",
+    "meaning_zh": "洗牌；重新安排",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_066454",
+    "content": "shun one's duties",
+    "meaning_zh": "逃避职责",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_066455",
+    "content": "shun one's responsibilities",
+    "meaning_zh": "逃避责任",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_066457",
+    "content": "shunt depravity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无常见搭配"
+  },
+  {
+    "item_code": "w_066471",
+    "content": "shut someone in",
+    "meaning_zh": "把某人关在里面",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_066472",
+    "content": "shut something in",
+    "meaning_zh": "把某物关在里面；封闭某物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_066475",
+    "content": "shut things down",
+    "meaning_zh": "关闭事物；使停止运转",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_066483",
+    "content": "shutter toilet",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无常见搭配"
+  },
+  {
+    "item_code": "w_066486",
+    "content": "shuttle airbag",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无可靠含义"
+  },
+  {
+    "item_code": "w_066487",
+    "content": "shuttle fable",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无常见搭配"
+  },
+  {
+    "item_code": "w_066498",
+    "content": "siberite",
+    "meaning_zh": "西伯利亚红电气石",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见矿物术语"
+  },
+  {
+    "item_code": "w_066502",
+    "content": "sibling stepchild",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定表达"
+  },
+  {
+    "item_code": "w_066504",
+    "content": "sibpair",
+    "meaning_zh": "一对兄弟姐妹",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "遗传学术语"
+  },
+  {
+    "item_code": "w_066509",
+    "content": "Sichuan restaurant",
+    "meaning_zh": "川菜馆；四川餐厅",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  }
+]

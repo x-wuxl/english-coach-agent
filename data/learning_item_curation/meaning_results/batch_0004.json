@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_000139",
+    "content": "a cast list",
+    "meaning_zh": "演员名单",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见影视戏剧搭配"
+  },
+  {
+    "item_code": "w_000141",
+    "content": "a causal relationship",
+    "meaning_zh": "因果关系",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_000142",
+    "content": "a cello solo",
+    "meaning_zh": "大提琴独奏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "音乐场景常见搭配"
+  },
+  {
+    "item_code": "w_000143",
+    "content": "a cellphone",
+    "meaning_zh": "手机",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_000145",
+    "content": "a certain level of",
+    "meaning_zh": "一定程度的；某种水平的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见程度表达"
+  },
+  {
+    "item_code": "w_000146",
+    "content": "a certain university",
+    "meaning_zh": "某所大学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "certain表不特指"
+  },
+  {
+    "item_code": "w_000148",
+    "content": "a chance of lifetime",
+    "meaning_zh": "千载难逢的机会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为固定表达缺冠词"
+  },
+  {
+    "item_code": "w_000149",
+    "content": "a chess set",
+    "meaning_zh": "一副国际象棋",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_000151",
+    "content": "a chocolate",
+    "meaning_zh": "一块巧克力；巧克力糖",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "例句不匹配"
+  },
+  {
+    "item_code": "w_000152",
+    "content": "a chorus of",
+    "meaning_zh": "一片；齐声的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常接声音或反应"
+  },
+  {
+    "item_code": "w_000153",
+    "content": "a chorus of protest",
+    "meaning_zh": "一片抗议声",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配含义明确"
+  },
+  {
+    "item_code": "w_000155",
+    "content": "a chronic state of",
+    "meaning_zh": "长期处于……状态",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "chronic表长期持续"
+  },
+  {
+    "item_code": "w_000156",
+    "content": "a chunk of",
+    "meaning_zh": "一大块；一部分",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持块状含义"
+  },
+  {
+    "item_code": "w_000157",
+    "content": "a cinema",
+    "meaning_zh": "电影院",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础名词含义明确"
+  },
+  {
+    "item_code": "w_000158",
+    "content": "a class project",
+    "meaning_zh": "班级项目；课堂课题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育场景常见搭配"
+  },
+  {
+    "item_code": "w_000159",
+    "content": "a claw",
+    "meaning_zh": "爪；螯",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词义项"
+  },
+  {
+    "item_code": "w_000161",
+    "content": "a cluster of flower",
+    "meaning_zh": "一簇花",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达疑应为flowers"
+  },
+  {
+    "item_code": "w_000162",
+    "content": "a coat",
+    "meaning_zh": "外套；大衣",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_000163",
+    "content": "a code of ethics",
+    "meaning_zh": "道德规范；职业道德准则",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见正式表达"
+  },
+  {
+    "item_code": "w_000164",
+    "content": "a coherent essay",
+    "meaning_zh": "条理清晰的文章",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "写作评价常见搭配"
+  }
+]

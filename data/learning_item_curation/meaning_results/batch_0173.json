@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_015892",
+    "content": "comprehensive economic strength",
+    "meaning_zh": "综合经济实力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见经济类搭配"
+  },
+  {
+    "item_code": "w_015893",
+    "content": "comprehensive fraud",
+    "meaning_zh": "全面欺诈；综合性欺诈",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义可推断但不常见"
+  },
+  {
+    "item_code": "w_015894",
+    "content": "comprehensive picket",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_015901",
+    "content": "compress institution",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_015916",
+    "content": "compulsive dorsem incur",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含乱码疑似噪声"
+  },
+  {
+    "item_code": "w_015921",
+    "content": "compulsory courses",
+    "meaning_zh": "必修课程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教育类搭配"
+  },
+  {
+    "item_code": "w_015924",
+    "content": "compulsory evacuation",
+    "meaning_zh": "强制撤离；强制疏散",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见公共安全表达"
+  },
+  {
+    "item_code": "w_015926",
+    "content": "compulsory occasion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_015927",
+    "content": "compulsory scanty",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词性搭配错误"
+  },
+  {
+    "item_code": "w_015929",
+    "content": "compunction override",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_015939",
+    "content": "computer controlled car",
+    "meaning_zh": "计算机控制的汽车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "含义明确的技术短语"
+  },
+  {
+    "item_code": "w_015944",
+    "content": "computer gaming",
+    "meaning_zh": "电脑游戏；电子游戏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见娱乐类表达"
+  },
+  {
+    "item_code": "w_015950",
+    "content": "computer office",
+    "meaning_zh": "计算机办公室；电脑办公区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义可推断但泛用性低"
+  },
+  {
+    "item_code": "w_015952",
+    "content": "computer power button",
+    "meaning_zh": "电脑电源按钮",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见设备部件名称"
+  },
+  {
+    "item_code": "w_015958",
+    "content": "computer skills",
+    "meaning_zh": "计算机技能；电脑操作能力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见能力类表达"
+  },
+  {
+    "item_code": "w_015959",
+    "content": "computer studies",
+    "meaning_zh": "计算机课程；计算机学习",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学科名称"
+  },
+  {
+    "item_code": "w_015980",
+    "content": "conbinet",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_015984",
+    "content": "concave forge impede",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串疑似噪声"
+  },
+  {
+    "item_code": "w_015990",
+    "content": "conceal fortnite detection",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含专名且搭配异常"
+  },
+  {
+    "item_code": "w_015991",
+    "content": "conceal sth. from sb.",
+    "meaning_zh": "向某人隐瞒某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  }
+]

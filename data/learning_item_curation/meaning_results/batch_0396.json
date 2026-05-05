@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_037785",
+    "content": "in sb.'s possession",
+    "meaning_zh": "为某人所有；在某人手中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定介词短语"
+  },
+  {
+    "item_code": "w_037786",
+    "content": "in sb.'s presence",
+    "meaning_zh": "当着某人的面；有某人在场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定介词短语"
+  },
+  {
+    "item_code": "w_037787",
+    "content": "in sb.'s shoes",
+    "meaning_zh": "处于某人的境地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见习语"
+  },
+  {
+    "item_code": "w_037788",
+    "content": "in sb.'s way",
+    "meaning_zh": "挡某人的路；妨碍某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_037789",
+    "content": "in sb.'s words",
+    "meaning_zh": "用某人的话说",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_037794",
+    "content": "in second place",
+    "meaning_zh": "位居第二；获得第二名",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句明确"
+  },
+  {
+    "item_code": "w_037800",
+    "content": "in several instances",
+    "meaning_zh": "在若干情况下；有几次",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见书面表达"
+  },
+  {
+    "item_code": "w_037801",
+    "content": "in sharp contrast to",
+    "meaning_zh": "与……形成鲜明对比",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_037806",
+    "content": "in significant measure",
+    "meaning_zh": "在很大程度上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "正式表达"
+  },
+  {
+    "item_code": "w_037809",
+    "content": "in small amount",
+    "meaning_zh": "少量地；少量的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略不自然"
+  },
+  {
+    "item_code": "w_037817",
+    "content": "in someone's honour",
+    "meaning_zh": "为向某人表示敬意；为纪念某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_037818",
+    "content": "in sorrow",
+    "meaning_zh": "悲伤地；在悲痛中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词短语"
+  },
+  {
+    "item_code": "w_037822",
+    "content": "in stark contrast to",
+    "meaning_zh": "与……形成强烈对比",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_037823",
+    "content": "in state bar breas",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声"
+  },
+  {
+    "item_code": "w_037840",
+    "content": "in sync with",
+    "meaning_zh": "与……同步；与……一致",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_037846",
+    "content": "in that position",
+    "meaning_zh": "处于那个位置；处于那种境地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "语义明确"
+  },
+  {
+    "item_code": "w_037848",
+    "content": "in the 1860s",
+    "meaning_zh": "在19世纪60年代",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "年代表达"
+  },
+  {
+    "item_code": "w_037849",
+    "content": "in the 1970s",
+    "meaning_zh": "在20世纪70年代",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "年代表达"
+  },
+  {
+    "item_code": "w_037853",
+    "content": "in the aftermath of",
+    "meaning_zh": "在……之后；作为……的后果",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见书面表达"
+  },
+  {
+    "item_code": "w_037857",
+    "content": "in the array of",
+    "meaning_zh": "在一系列……中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配较少见"
+  }
+]

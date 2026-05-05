@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_037300",
+    "content": "in ... faculty",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "表达残缺，含义不明"
+  },
+  {
+    "item_code": "w_037304",
+    "content": "in ... respects",
+    "meaning_zh": "在……方面",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配表达"
+  },
+  {
+    "item_code": "w_037306",
+    "content": "in 1989",
+    "meaning_zh": "在1989年",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "具体年份表达，例句不匹配"
+  },
+  {
+    "item_code": "w_037307",
+    "content": "in a  ... situation",
+    "meaning_zh": "处于……境况；在……情况下",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见情境搭配"
+  },
+  {
+    "item_code": "w_037312",
+    "content": "in a ... vein",
+    "meaning_zh": "以……风格；以……方式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达模板"
+  },
+  {
+    "item_code": "w_037313",
+    "content": "in a ... voice",
+    "meaning_zh": "用……的声音",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见声音描写"
+  },
+  {
+    "item_code": "w_037319",
+    "content": "in a contemplative mood",
+    "meaning_zh": "处于沉思的心情中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_037324",
+    "content": "in a favorable light",
+    "meaning_zh": "以有利的角度；正面地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_037326",
+    "content": "in a form",
+    "meaning_zh": "以一种形式；在表格中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "例句指表格，内容较泛"
+  },
+  {
+    "item_code": "w_037327",
+    "content": "in a fortnight",
+    "meaning_zh": "两周后；在两周内",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时间表达"
+  },
+  {
+    "item_code": "w_037328",
+    "content": "in a furious way",
+    "meaning_zh": "愤怒地；猛烈地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "方式状语短语"
+  },
+  {
+    "item_code": "w_037332",
+    "content": "in a high voice",
+    "meaning_zh": "用高声；用尖声",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见声音描写"
+  },
+  {
+    "item_code": "w_037336",
+    "content": "in a mechanistic fashion",
+    "meaning_zh": "以机械化的方式；机械地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术表达常见"
+  },
+  {
+    "item_code": "w_037344",
+    "content": "in a reasonable way",
+    "meaning_zh": "以合理的方式；合理地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "方式状语短语"
+  },
+  {
+    "item_code": "w_037349",
+    "content": "in a sequence of",
+    "meaning_zh": "按一连串……；以……的顺序",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "顺序表达"
+  },
+  {
+    "item_code": "w_037352",
+    "content": "in a slump",
+    "meaning_zh": "处于萧条中；处于低迷状态",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济或状态常用"
+  },
+  {
+    "item_code": "w_037354",
+    "content": "in a span of",
+    "meaning_zh": "在……的一段时间内",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时间范围表达"
+  },
+  {
+    "item_code": "w_037358",
+    "content": "in a tired voice",
+    "meaning_zh": "用疲惫的声音",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见声音描写"
+  },
+  {
+    "item_code": "w_037360",
+    "content": "in a valley",
+    "meaning_zh": "在山谷中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地点短语明确"
+  },
+  {
+    "item_code": "w_037372",
+    "content": "in adherence to",
+    "meaning_zh": "遵守；依据；忠于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "正式固定表达"
+  }
+]

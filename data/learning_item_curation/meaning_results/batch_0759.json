@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_074084",
+    "content": "the Tree Planting Day",
+    "meaning_zh": "植树节",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "节日专名"
+  },
+  {
+    "item_code": "w_074085",
+    "content": "the trend of",
+    "meaning_zh": "……的趋势",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_074086",
+    "content": "the Triumphal Arch",
+    "meaning_zh": "凯旋门",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "建筑专名"
+  },
+  {
+    "item_code": "w_074088",
+    "content": "the Trump Administration",
+    "meaning_zh": "特朗普政府",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治专名"
+  },
+  {
+    "item_code": "w_074097",
+    "content": "the underlying reason",
+    "meaning_zh": "根本原因；潜在原因",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_074101",
+    "content": "the united front",
+    "meaning_zh": "统一战线",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治术语"
+  },
+  {
+    "item_code": "w_074105",
+    "content": "the unknown",
+    "meaning_zh": "未知事物；无名者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持"
+  },
+  {
+    "item_code": "w_074110",
+    "content": "the Uros",
+    "meaning_zh": "乌鲁族；乌鲁人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "民族专名"
+  },
+  {
+    "item_code": "w_074112",
+    "content": "the US Open",
+    "meaning_zh": "美国网球公开赛；美国公开赛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "赛事专名"
+  },
+  {
+    "item_code": "w_074115",
+    "content": "the Valley of Mexico",
+    "meaning_zh": "墨西哥谷",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地名专名"
+  },
+  {
+    "item_code": "w_074117",
+    "content": "the Vatican City State",
+    "meaning_zh": "梵蒂冈城国",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "国家专名"
+  },
+  {
+    "item_code": "w_074118",
+    "content": "the Vermont case",
+    "meaning_zh": "佛蒙特州案例",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "具体案例称呼"
+  },
+  {
+    "item_code": "w_074119",
+    "content": "the Victorian era",
+    "meaning_zh": "维多利亚时代",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "历史时期"
+  },
+  {
+    "item_code": "w_074120",
+    "content": "the views they afforded",
+    "meaning_zh": "它们所提供的景色",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "语境片段价值低"
+  },
+  {
+    "item_code": "w_074121",
+    "content": "the voice stress analyser",
+    "meaning_zh": "语音压力分析仪",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "设备术语"
+  },
+  {
+    "item_code": "w_074122",
+    "content": "the want ads",
+    "meaning_zh": "招聘广告；分类广告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_074124",
+    "content": "the Warsaw Pact",
+    "meaning_zh": "华沙条约组织；华沙条约",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "历史组织名"
+  },
+  {
+    "item_code": "w_074125",
+    "content": "the way of",
+    "meaning_zh": "……的方式；……的方法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "例句不匹配"
+  },
+  {
+    "item_code": "w_074127",
+    "content": "the week after next",
+    "meaning_zh": "下下周",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "时间表达"
+  },
+  {
+    "item_code": "w_074129",
+    "content": "the Wenhai Scholarship",
+    "meaning_zh": "文海奖学金",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "奖学金专名"
+  }
+]

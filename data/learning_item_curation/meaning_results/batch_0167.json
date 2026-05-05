@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_015391",
+    "content": "comfortable clothes",
+    "meaning_zh": "舒适的衣服",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_015392",
+    "content": "comfortable housing project",
+    "meaning_zh": "安居工程；舒适住房项目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定项目表达"
+  },
+  {
+    "item_code": "w_015401",
+    "content": "comic novel",
+    "meaning_zh": "喜剧小说；滑稽小说",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见文学搭配"
+  },
+  {
+    "item_code": "w_015402",
+    "content": "comic performance",
+    "meaning_zh": "喜剧表演；滑稽表演",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表演搭配"
+  },
+  {
+    "item_code": "w_015409",
+    "content": "coming hysteria",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配生硬含义不明"
+  },
+  {
+    "item_code": "w_015411",
+    "content": "Coming-of-Age Day",
+    "meaning_zh": "成人节",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "节日专有名词"
+  },
+  {
+    "item_code": "w_015417",
+    "content": "command the troop",
+    "meaning_zh": "指挥部队",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_015422",
+    "content": "commander videotape",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无明确义"
+  },
+  {
+    "item_code": "w_015428",
+    "content": "commando of marines",
+    "meaning_zh": "海军陆战队突击队员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "军事相关表达"
+  },
+  {
+    "item_code": "w_015429",
+    "content": "commas",
+    "meaning_zh": "逗号",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句对应标点含义"
+  },
+  {
+    "item_code": "w_015433",
+    "content": "commemorate trumpet",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无明确义"
+  },
+  {
+    "item_code": "w_015441",
+    "content": "commencement prolong",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配错误含义不明"
+  },
+  {
+    "item_code": "w_015442",
+    "content": "commencement turbulence",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配生硬含义不明"
+  },
+  {
+    "item_code": "w_015445",
+    "content": "commend landlord analysis regardless",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个词堆砌无短语义"
+  },
+  {
+    "item_code": "w_015448",
+    "content": "commend victimize filibuster",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个词堆砌无短语义"
+  },
+  {
+    "item_code": "w_015456",
+    "content": "comment about",
+    "meaning_zh": "评论；对……发表意见",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词介词搭配"
+  },
+  {
+    "item_code": "w_015458",
+    "content": "comment complaint",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "名词并列关系不明"
+  },
+  {
+    "item_code": "w_015465",
+    "content": "comments",
+    "meaning_zh": "评论；意见；评语",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句均为评论含义"
+  },
+  {
+    "item_code": "w_015467",
+    "content": "commerce and trade",
+    "meaning_zh": "商业与贸易",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商务表达"
+  },
+  {
+    "item_code": "w_015473",
+    "content": "commercial campground",
+    "meaning_zh": "商业露营地；收费营地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅游住宿搭配"
+  }
+]

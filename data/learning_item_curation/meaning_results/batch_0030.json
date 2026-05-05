@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_001539",
+    "content": "adam brate rapscallion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_001541",
+    "content": "adamant abstract",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似无效组合"
+  },
+  {
+    "item_code": "w_001549",
+    "content": "adapt propriety",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_001550",
+    "content": "adapt respectable",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_001558",
+    "content": "adapted edition",
+    "meaning_zh": "改编版；改写本",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见出版表达"
+  },
+  {
+    "item_code": "w_001570",
+    "content": "add A to B",
+    "meaning_zh": "把A加到B中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定结构"
+  },
+  {
+    "item_code": "w_001571",
+    "content": "add credence to",
+    "meaning_zh": "增加……的可信度；使……更可信",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_001572",
+    "content": "add gradually",
+    "meaning_zh": "逐渐添加；逐步增加",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "普通动词搭配"
+  },
+  {
+    "item_code": "w_001574",
+    "content": "add spice to ...",
+    "meaning_zh": "为……增添趣味；使……更刺激",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_001583",
+    "content": "addage",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似adage拼写错误"
+  },
+  {
+    "item_code": "w_001585",
+    "content": "added-worker effect",
+    "meaning_zh": "附加劳动者效应",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济学术语"
+  },
+  {
+    "item_code": "w_001588",
+    "content": "addic",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似残缺词"
+  },
+  {
+    "item_code": "w_001590",
+    "content": "addict oneself to",
+    "meaning_zh": "沉溺于；使自己迷上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词短语"
+  },
+  {
+    "item_code": "w_001598",
+    "content": "addition editor",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似错误搭配"
+  },
+  {
+    "item_code": "w_001603",
+    "content": "additional copy",
+    "meaning_zh": "额外副本；附加拷贝",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_001604",
+    "content": "additional reading",
+    "meaning_zh": "补充阅读；延伸阅读",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教学常见表达"
+  },
+  {
+    "item_code": "w_001605",
+    "content": "additional train",
+    "meaning_zh": "加开列车；增开列车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "交通场景搭配"
+  },
+  {
+    "item_code": "w_001608",
+    "content": "additive appetizer",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似无效组合"
+  },
+  {
+    "item_code": "w_001611",
+    "content": "address a letter",
+    "meaning_zh": "在信封上写收件人地址",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_001613",
+    "content": "address number",
+    "meaning_zh": "门牌号；地址编号",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见地址用语"
+  }
+]

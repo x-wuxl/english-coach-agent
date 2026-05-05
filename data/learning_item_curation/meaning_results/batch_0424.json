@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_040535",
+    "content": "iterator",
+    "meaning_zh": "迭代器",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_040539",
+    "content": "itinerary exempt proposition appliance",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配像噪声"
+  },
+  {
+    "item_code": "w_040544",
+    "content": "IV needle",
+    "meaning_zh": "静脉注射针；输液针",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学常见表达"
+  },
+  {
+    "item_code": "w_040547",
+    "content": "ivwac",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似无效缩写"
+  },
+  {
+    "item_code": "w_040549",
+    "content": "iwash",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义无法可靠判断"
+  },
+  {
+    "item_code": "w_040551",
+    "content": "J-20 stealth fighter",
+    "meaning_zh": "歼-20隐形战斗机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有军事名称"
+  },
+  {
+    "item_code": "w_040552",
+    "content": "J.K. Rowling",
+    "meaning_zh": "J.K.罗琳",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "知名作家姓名"
+  },
+  {
+    "item_code": "w_040553",
+    "content": "J.K.Rowling",
+    "meaning_zh": "J.K.罗琳",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "知名作家姓名"
+  },
+  {
+    "item_code": "w_040554",
+    "content": "J/A",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写含义不明"
+  },
+  {
+    "item_code": "w_040557",
+    "content": "Jabez Wilson",
+    "meaning_zh": "杰贝兹·威尔逊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "文学人物姓名"
+  },
+  {
+    "item_code": "w_040559",
+    "content": "jack graham bacillus",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼接噪声"
+  },
+  {
+    "item_code": "w_040566",
+    "content": "jacket lining",
+    "meaning_zh": "夹克衬里",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "服装常见搭配"
+  },
+  {
+    "item_code": "w_040572",
+    "content": "jacos",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写或噪声"
+  },
+  {
+    "item_code": "w_040577",
+    "content": "Jade Buddha Temple",
+    "meaning_zh": "玉佛寺",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "寺庙专有名词"
+  },
+  {
+    "item_code": "w_040579",
+    "content": "Jade Rabbit",
+    "meaning_zh": "玉兔",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文化专有表达"
+  },
+  {
+    "item_code": "w_040581",
+    "content": "jaded myopic",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_040587",
+    "content": "jailhouse bully",
+    "meaning_zh": "监狱恶霸",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_040598",
+    "content": "James Dyson",
+    "meaning_zh": "詹姆斯·戴森",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "知名人物姓名"
+  },
+  {
+    "item_code": "w_040601",
+    "content": "James Traeger",
+    "meaning_zh": "詹姆斯·特雷格",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "人物姓名"
+  },
+  {
+    "item_code": "w_040603",
+    "content": "Jamie Ellsworth",
+    "meaning_zh": "杰米·埃尔斯沃思",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "人物姓名"
+  }
+]

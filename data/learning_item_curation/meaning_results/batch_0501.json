@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_048387",
+    "content": "mouth-to-mouth rescue breathing",
+    "meaning_zh": "口对口人工呼吸",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "急救固定表达"
+  },
+  {
+    "item_code": "w_048418",
+    "content": "move somebody to tears",
+    "meaning_zh": "使某人感动落泪",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_048420",
+    "content": "move to another place",
+    "meaning_zh": "搬到另一个地方；迁往他处",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_048427",
+    "content": "movie advertisement",
+    "meaning_zh": "电影广告；电影宣传",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "名词搭配"
+  },
+  {
+    "item_code": "w_048429",
+    "content": "movie king",
+    "meaning_zh": "影帝；电影明星",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "影视称谓搭配"
+  },
+  {
+    "item_code": "w_048432",
+    "content": "movie royalties",
+    "meaning_zh": "电影版权费；电影版税",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "版权收益搭配"
+  },
+  {
+    "item_code": "w_048436",
+    "content": "movie-addict",
+    "meaning_zh": "电影迷",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合名词"
+  },
+  {
+    "item_code": "w_048440",
+    "content": "moving assembly line",
+    "meaning_zh": "移动装配线；流水装配线",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "工业术语"
+  },
+  {
+    "item_code": "w_048452",
+    "content": "MPAcc",
+    "meaning_zh": "会计硕士专业学位",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学位缩写"
+  },
+  {
+    "item_code": "w_048456",
+    "content": "Mr Green",
+    "meaning_zh": "格林先生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句为人名称呼"
+  },
+  {
+    "item_code": "w_048459",
+    "content": "MRI scanner",
+    "meaning_zh": "核磁共振扫描仪",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学设备术语"
+  },
+  {
+    "item_code": "w_048464",
+    "content": "msa",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写含义不明"
+  },
+  {
+    "item_code": "w_048466",
+    "content": "MSc",
+    "meaning_zh": "理学硕士",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学位缩写"
+  },
+  {
+    "item_code": "w_048468",
+    "content": "Mt Eden",
+    "meaning_zh": "伊甸山",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "地名专有名词"
+  },
+  {
+    "item_code": "w_048500",
+    "content": "Mud Festival",
+    "meaning_zh": "泥浆节",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "节日名称"
+  },
+  {
+    "item_code": "w_048501",
+    "content": "mud mortar",
+    "meaning_zh": "泥砂浆；泥浆灰浆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "建筑材料搭配"
+  },
+  {
+    "item_code": "w_048508",
+    "content": "muddy erroneous",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_048509",
+    "content": "muddy street",
+    "meaning_zh": "泥泞的街道",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容词名词搭配"
+  },
+  {
+    "item_code": "w_048519",
+    "content": "mufty",
+    "meaning_zh": "便服；便衣",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "少见词"
+  },
+  {
+    "item_code": "w_048525",
+    "content": "Mukhdalai",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "专名来源不明"
+  }
+]

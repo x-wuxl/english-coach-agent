@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_061452",
+    "content": "remarkable recovery",
+    "meaning_zh": "显著恢复；惊人康复",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_061453",
+    "content": "remarkable repair",
+    "meaning_zh": "显著修复；出色修复",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解"
+  },
+  {
+    "item_code": "w_061463",
+    "content": "remediation goal",
+    "meaning_zh": "修复目标；治理目标",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环境治理常用术语"
+  },
+  {
+    "item_code": "w_061469",
+    "content": "remember forget",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_061471",
+    "content": "remember taste",
+    "meaning_zh": "记住味道",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "动宾搭配可理解"
+  },
+  {
+    "item_code": "w_061472",
+    "content": "remember the brand",
+    "meaning_zh": "记住这个品牌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾短语"
+  },
+  {
+    "item_code": "w_061473",
+    "content": "remember the history",
+    "meaning_zh": "铭记历史",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_061480",
+    "content": "remind character",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_061488",
+    "content": "remind sb. to do",
+    "meaning_zh": "提醒某人做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型"
+  },
+  {
+    "item_code": "w_061490",
+    "content": "reminder of history",
+    "meaning_zh": "历史的见证；对历史的提醒",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_061499",
+    "content": "remit one's donation",
+    "meaning_zh": "汇寄某人的捐款",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "汇款语境明确"
+  },
+  {
+    "item_code": "w_061510",
+    "content": "remold sb. into",
+    "meaning_zh": "将某人重塑为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_061511",
+    "content": "remold sth. into",
+    "meaning_zh": "将某物改造成",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_061520",
+    "content": "remote city",
+    "meaning_zh": "偏远城市",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见地理搭配"
+  },
+  {
+    "item_code": "w_061521",
+    "content": "remote communities",
+    "meaning_zh": "偏远社区；偏远群体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会话题搭配"
+  },
+  {
+    "item_code": "w_061523",
+    "content": "remote interior angle",
+    "meaning_zh": "远内角",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "几何术语"
+  },
+  {
+    "item_code": "w_061524",
+    "content": "remote interior angles",
+    "meaning_zh": "远内角",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "几何术语复数"
+  },
+  {
+    "item_code": "w_061525",
+    "content": "remote mountain area",
+    "meaning_zh": "偏远山区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见地理搭配"
+  },
+  {
+    "item_code": "w_061526",
+    "content": "remote sense technology",
+    "meaning_zh": "遥感技术",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "应为remote sensing"
+  },
+  {
+    "item_code": "w_061536",
+    "content": "removal notice",
+    "meaning_zh": "搬迁通知；移除通知",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境可有多义"
+  }
+]

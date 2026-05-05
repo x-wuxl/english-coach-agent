@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_042620",
+    "content": "leather-silhouette show",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声搭配"
+  },
+  {
+    "item_code": "w_042633",
+    "content": "leave deep traces",
+    "meaning_zh": "留下深刻痕迹",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_042636",
+    "content": "leave no room",
+    "meaning_zh": "不留余地；没有空间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_042646",
+    "content": "leave secondary school",
+    "meaning_zh": "中学毕业；离开中学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育场景常用"
+  },
+  {
+    "item_code": "w_042647",
+    "content": "leave something to somebody",
+    "meaning_zh": "把某物留给某人；把某事交给某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型搭配"
+  },
+  {
+    "item_code": "w_042651",
+    "content": "leave the question open",
+    "meaning_zh": "让问题悬而未决；不作定论",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达清晰"
+  },
+  {
+    "item_code": "w_042652",
+    "content": "leave to one side",
+    "meaning_zh": "暂且搁置；暂不考虑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词"
+  },
+  {
+    "item_code": "w_042658",
+    "content": "leaves a trace",
+    "meaning_zh": "留下痕迹",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_042662",
+    "content": "LeBlanc",
+    "meaning_zh": "勒布朗（姓氏）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有名词姓氏"
+  },
+  {
+    "item_code": "w_042668",
+    "content": "lection",
+    "meaning_zh": "诵读；经文选读；异文",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见但有效词"
+  },
+  {
+    "item_code": "w_042672",
+    "content": "lecture note",
+    "meaning_zh": "讲义；课堂笔记",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学习场景常用"
+  },
+  {
+    "item_code": "w_042688",
+    "content": "leech uncommon",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似标签拼接噪声"
+  },
+  {
+    "item_code": "w_042690",
+    "content": "Leeds University",
+    "meaning_zh": "利兹大学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "大学专有名词"
+  },
+  {
+    "item_code": "w_042700",
+    "content": "left handed fold",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见不明搭配"
+  },
+  {
+    "item_code": "w_042709",
+    "content": "left-of-centre politics",
+    "meaning_zh": "中间偏左的政治立场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治术语搭配"
+  },
+  {
+    "item_code": "w_042713",
+    "content": "leftover flavor",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见不明搭配"
+  },
+  {
+    "item_code": "w_042714",
+    "content": "leftover men and women",
+    "meaning_zh": "大龄未婚男女；剩男剩女",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "中式社会表达"
+  },
+  {
+    "item_code": "w_042715",
+    "content": "leftover neighborhood",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见不明搭配"
+  },
+  {
+    "item_code": "w_042725",
+    "content": "legal channel",
+    "meaning_zh": "合法渠道；法律途径",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见法律搭配"
+  },
+  {
+    "item_code": "w_042728",
+    "content": "legal entitlement",
+    "meaning_zh": "法定权利；合法权益",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务法律术语"
+  }
+]

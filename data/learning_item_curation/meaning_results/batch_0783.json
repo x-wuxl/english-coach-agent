@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_076425",
+    "content": "trophy intend",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_076428",
+    "content": "tropic flora toothpaste",
+    "meaning_zh": "热带植物牙膏",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似商品名噪声"
+  },
+  {
+    "item_code": "w_076429",
+    "content": "tropic rain forest",
+    "meaning_zh": "热带雨林",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见地理生态术语"
+  },
+  {
+    "item_code": "w_076434",
+    "content": "tropical environment",
+    "meaning_zh": "热带环境",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见环境主题搭配"
+  },
+  {
+    "item_code": "w_076436",
+    "content": "tropical heal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写或搭配错误"
+  },
+  {
+    "item_code": "w_076437",
+    "content": "tropical marine climate",
+    "meaning_zh": "热带海洋性气候",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见气候术语"
+  },
+  {
+    "item_code": "w_076441",
+    "content": "tropical savanna forest",
+    "meaning_zh": "热带稀树草原林",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态学术语"
+  },
+  {
+    "item_code": "w_076442",
+    "content": "tropical scrub forest",
+    "meaning_zh": "热带灌丛林",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态学术语"
+  },
+  {
+    "item_code": "w_076445",
+    "content": "tropicssprangletop",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似粘连噪声"
+  },
+  {
+    "item_code": "w_076460",
+    "content": "troubleshooting department",
+    "meaning_zh": "故障排除部门；技术支持部门",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职能部门表达"
+  },
+  {
+    "item_code": "w_076497",
+    "content": "truly social",
+    "meaning_zh": "真正具有社会性的；真正社交的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按常见搭配释义"
+  },
+  {
+    "item_code": "w_076509",
+    "content": "trunk library",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义不明确"
+  },
+  {
+    "item_code": "w_076512",
+    "content": "truss sop",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_076517",
+    "content": "trust land",
+    "meaning_zh": "信托土地；托管土地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律金融常见术语"
+  },
+  {
+    "item_code": "w_076518",
+    "content": "trust product",
+    "meaning_zh": "信托产品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融常见术语"
+  },
+  {
+    "item_code": "w_076537",
+    "content": "truthy",
+    "meaning_zh": "可判定为真的；真值型的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程术语"
+  },
+  {
+    "item_code": "w_076542",
+    "content": "try it on",
+    "meaning_zh": "试穿它；试戴它",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句体现试穿含义"
+  },
+  {
+    "item_code": "w_076543",
+    "content": "try one's best to",
+    "meaning_zh": "尽力做；竭尽全力做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_076551",
+    "content": "try out on",
+    "meaning_zh": "在……身上试用；拿……试验",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词搭配"
+  },
+  {
+    "item_code": "w_076557",
+    "content": "try-your-strength machine",
+    "meaning_zh": "力量测试机；测力游戏机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "游乐设备固定名称"
+  }
+]

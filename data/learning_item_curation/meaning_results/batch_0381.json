@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_036162",
+    "content": "hybrid language",
+    "meaning_zh": "混合语言",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "语言学常见术语"
+  },
+  {
+    "item_code": "w_036164",
+    "content": "hybrid viewfinder",
+    "meaning_zh": "混合取景器",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "相机技术术语"
+  },
+  {
+    "item_code": "w_036170",
+    "content": "hybrow",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_036179",
+    "content": "hydraulic sesame concession",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组明显不自然"
+  },
+  {
+    "item_code": "w_036186",
+    "content": "hydrocarbon perturbation",
+    "meaning_zh": "烃类扰动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作技术搭配"
+  },
+  {
+    "item_code": "w_036201",
+    "content": "hydrogen familiar",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_036216",
+    "content": "hydrolysis of salt",
+    "meaning_zh": "盐的水解",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "化学常见术语"
+  },
+  {
+    "item_code": "w_036223",
+    "content": "hydrophobia efficiency catheter",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词堆叠"
+  },
+  {
+    "item_code": "w_036239",
+    "content": "hydrotherapy clavicle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_036250",
+    "content": "hydroxypropylstarch",
+    "meaning_zh": "羟丙基淀粉",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "化学物质名称"
+  },
+  {
+    "item_code": "w_036255",
+    "content": "hygienic mop rag",
+    "meaning_zh": "卫生拖布；清洁拖把布",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "生活用品搭配"
+  },
+  {
+    "item_code": "w_036256",
+    "content": "hygimony",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_036262",
+    "content": "hympias",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_036264",
+    "content": "hyota",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_036265",
+    "content": "hypatic lodging",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_036268",
+    "content": "hyper acidity",
+    "meaning_zh": "胃酸过多；酸度过高",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常作医学含义"
+  },
+  {
+    "item_code": "w_036269",
+    "content": "hyper market mall",
+    "meaning_zh": "大型超市购物中心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解商业场所"
+  },
+  {
+    "item_code": "w_036282",
+    "content": "hyperbole monologue",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_036284",
+    "content": "hyperborean",
+    "meaning_zh": "极北的；北方极寒地区的人",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "罕见正式词"
+  },
+  {
+    "item_code": "w_036328",
+    "content": "hypersecrete",
+    "meaning_zh": "分泌过多",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学术语"
+  }
+]

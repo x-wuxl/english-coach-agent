@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_079945",
+    "content": "wardrobe collapse",
+    "meaning_zh": "衣柜倒塌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "名词短语含义明确"
+  },
+  {
+    "item_code": "w_079951",
+    "content": "warehousing and transportation department",
+    "meaning_zh": "仓储运输部门",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "部门名称短语"
+  },
+  {
+    "item_code": "w_079965",
+    "content": "warm jacket",
+    "meaning_zh": "保暖夹克；暖和的外套",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见服装搭配"
+  },
+  {
+    "item_code": "w_079970",
+    "content": "warm-blooded creature",
+    "meaning_zh": "温血动物；恒温动物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生物学常用表达"
+  },
+  {
+    "item_code": "w_079976",
+    "content": "warming-up practice",
+    "meaning_zh": "热身练习",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配含义清楚"
+  },
+  {
+    "item_code": "w_079978",
+    "content": "warmly approving",
+    "meaning_zh": "热情赞许的；热烈赞同的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容性短语"
+  },
+  {
+    "item_code": "w_079985",
+    "content": "warn against doing sth.",
+    "meaning_zh": "警告不要做某事；告诫避免做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_079995",
+    "content": "warning against",
+    "meaning_zh": "对……的警告；告诫不要……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "介词搭配常见"
+  },
+  {
+    "item_code": "w_080011",
+    "content": "warrior role",
+    "meaning_zh": "战士角色；勇士角色",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "名词短语含义明确"
+  },
+  {
+    "item_code": "w_080012",
+    "content": "Warsaw",
+    "meaning_zh": "华沙",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指波兰首都"
+  },
+  {
+    "item_code": "w_080017",
+    "content": "wary concern",
+    "meaning_zh": "谨慎的担忧；戒备的关切",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容词名词搭配"
+  },
+  {
+    "item_code": "w_080020",
+    "content": "was knighted in 1967",
+    "meaning_zh": "于1967年被封为爵士",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "被动表达含义明确"
+  },
+  {
+    "item_code": "w_080024",
+    "content": "wash ... face",
+    "meaning_zh": "洗……的脸",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "小学常用句型"
+  },
+  {
+    "item_code": "w_080029",
+    "content": "wash my face",
+    "meaning_zh": "洗脸",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持释义"
+  },
+  {
+    "item_code": "w_080033",
+    "content": "wash only",
+    "meaning_zh": "仅可水洗；只洗涤",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可能为洗护标签"
+  },
+  {
+    "item_code": "w_080035",
+    "content": "wash the clothes",
+    "meaning_zh": "洗衣服",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持释义"
+  },
+  {
+    "item_code": "w_080038",
+    "content": "washable shoes",
+    "meaning_zh": "可清洗的鞋",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商品描述常用搭配"
+  },
+  {
+    "item_code": "w_080043",
+    "content": "washed clothes",
+    "meaning_zh": "洗过的衣服",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "分词短语含义明确"
+  },
+  {
+    "item_code": "w_080049",
+    "content": "washing my car",
+    "meaning_zh": "洗我的车；正在洗车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动名词短语明确"
+  },
+  {
+    "item_code": "w_080050",
+    "content": "washing my clothes",
+    "meaning_zh": "洗我的衣服；正在洗衣服",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动名词短语明确"
+  }
+]

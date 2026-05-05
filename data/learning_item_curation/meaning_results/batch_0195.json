@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_018134",
+    "content": "crotchety persona",
+    "meaning_zh": "脾气古怪的人设；易怒的形象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "整体短语含义明确"
+  },
+  {
+    "item_code": "w_018140",
+    "content": "crow religion expergate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词串"
+  },
+  {
+    "item_code": "w_018145",
+    "content": "crowd incident riot",
+    "meaning_zh": "群体性事件；骚乱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语主题相关"
+  },
+  {
+    "item_code": "w_018154",
+    "content": "crown separacy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然搭配"
+  },
+  {
+    "item_code": "w_018157",
+    "content": "crucial innovative interlace",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词串"
+  },
+  {
+    "item_code": "w_018159",
+    "content": "crucial period",
+    "meaning_zh": "关键时期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_018167",
+    "content": "crud",
+    "meaning_zh": "增删改查；创建、读取、更新、删除",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机主题术语"
+  },
+  {
+    "item_code": "w_018178",
+    "content": "cruel lassitude",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然搭配"
+  },
+  {
+    "item_code": "w_018179",
+    "content": "cruel wicked",
+    "meaning_zh": "残忍邪恶的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "近义形容词组合"
+  },
+  {
+    "item_code": "w_018182",
+    "content": "cruelty grocery replicate repulsion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词串"
+  },
+  {
+    "item_code": "w_018188",
+    "content": "Crum",
+    "meaning_zh": "克拉姆（人名或姓氏）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑似专有名词"
+  },
+  {
+    "item_code": "w_018190",
+    "content": "crumb refine arrangement",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词串"
+  },
+  {
+    "item_code": "w_018195",
+    "content": "crumple literature",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然搭配"
+  },
+  {
+    "item_code": "w_018204",
+    "content": "crushed fiber",
+    "meaning_zh": "碎纤维；压碎的纤维",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专业搭配可理解"
+  },
+  {
+    "item_code": "w_018208",
+    "content": "crust coincidence",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然搭配"
+  },
+  {
+    "item_code": "w_018217",
+    "content": "crutch rudimentary denounce",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词串"
+  },
+  {
+    "item_code": "w_018218",
+    "content": "crutch seas smear",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词串"
+  },
+  {
+    "item_code": "w_018220",
+    "content": "crux hormone",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然搭配"
+  },
+  {
+    "item_code": "w_018226",
+    "content": "cry poor",
+    "meaning_zh": "哭穷；装穷",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见习语表达"
+  },
+  {
+    "item_code": "w_018245",
+    "content": "cryptopatche",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_078659",
+    "content": "vacant melody",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常且无例句"
+  },
+  {
+    "item_code": "w_078661",
+    "content": "vacant property",
+    "meaning_zh": "空置房产；闲置物业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见房产搭配"
+  },
+  {
+    "item_code": "w_078665",
+    "content": "vacation represent device",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无合理含义"
+  },
+  {
+    "item_code": "w_078668",
+    "content": "vaccinate perspications mar",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含疑似拼写噪声"
+  },
+  {
+    "item_code": "w_078671",
+    "content": "vaccine presume",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_078684",
+    "content": "vacuum polish",
+    "meaning_zh": "真空抛光",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作技术搭配"
+  },
+  {
+    "item_code": "w_078689",
+    "content": "vag",
+    "meaning_zh": "阴道（粗俗缩写）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "俚语缩写"
+  },
+  {
+    "item_code": "w_078692",
+    "content": "vagapond",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "疑为vagabond误拼"
+  },
+  {
+    "item_code": "w_078696",
+    "content": "vagary retaliate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无合理含义"
+  },
+  {
+    "item_code": "w_078701",
+    "content": "vaginitis wax",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常且无例句"
+  },
+  {
+    "item_code": "w_078708",
+    "content": "vague overtime",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_078716",
+    "content": "val",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写含义不明确"
+  },
+  {
+    "item_code": "w_078730",
+    "content": "valid paralysis",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常且无例句"
+  },
+  {
+    "item_code": "w_078744",
+    "content": "valuable chance",
+    "meaning_zh": "宝贵机会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_078745",
+    "content": "valuable luxurious",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "并列形容词残片"
+  },
+  {
+    "item_code": "w_078749",
+    "content": "valuble ear splitting",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "含拼写错误和残片"
+  },
+  {
+    "item_code": "w_078753",
+    "content": "value in",
+    "meaning_zh": "重视；看重",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见于value in doing"
+  },
+  {
+    "item_code": "w_078754",
+    "content": "value judge",
+    "meaning_zh": "价值判断",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为value judgment"
+  },
+  {
+    "item_code": "w_078755",
+    "content": "value of amplitude",
+    "meaning_zh": "振幅值",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术表达可理解"
+  },
+  {
+    "item_code": "w_078757",
+    "content": "value variable",
+    "meaning_zh": "值变量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术术语搭配"
+  }
+]

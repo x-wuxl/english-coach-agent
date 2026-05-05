@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_053897",
+    "content": "participation and common interests",
+    "meaning_zh": "参与和共同利益",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语整体含义明确"
+  },
+  {
+    "item_code": "w_053898",
+    "content": "participation rates",
+    "meaning_zh": "参与率；参加率",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_053902",
+    "content": "participatory poverty-reduction",
+    "meaning_zh": "参与式减贫；参与式扶贫",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "发展议题常见术语"
+  },
+  {
+    "item_code": "w_053907",
+    "content": "particular requirement",
+    "meaning_zh": "具体要求；特殊要求",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配含义明确"
+  },
+  {
+    "item_code": "w_053922",
+    "content": "partition whimsical",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组噪声无法判断"
+  },
+  {
+    "item_code": "w_053927",
+    "content": "partnership system",
+    "meaning_zh": "合伙制；伙伴关系制度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "制度类常见搭配"
+  },
+  {
+    "item_code": "w_053931",
+    "content": "partway",
+    "meaning_zh": "在中途；部分地",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见副词"
+  },
+  {
+    "item_code": "w_053936",
+    "content": "Party regulation",
+    "meaning_zh": "党内法规；党规",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治语境明确"
+  },
+  {
+    "item_code": "w_053937",
+    "content": "Party rule",
+    "meaning_zh": "政党统治；党的领导",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "政治短语有多义"
+  },
+  {
+    "item_code": "w_053941",
+    "content": "pass a bill",
+    "meaning_zh": "通过法案",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定法律表达"
+  },
+  {
+    "item_code": "w_053943",
+    "content": "pass an exam",
+    "meaning_zh": "通过考试",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础固定搭配"
+  },
+  {
+    "item_code": "w_053958",
+    "content": "pass something on",
+    "meaning_zh": "传递；转交；传染",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词"
+  },
+  {
+    "item_code": "w_053966",
+    "content": "pass unremarked",
+    "meaning_zh": "未被注意；无人评论地过去",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达含义明确"
+  },
+  {
+    "item_code": "w_053975",
+    "content": "passbook saving",
+    "meaning_zh": "存折储蓄",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融术语明确"
+  },
+  {
+    "item_code": "w_053980",
+    "content": "passenger reserve",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无法判断"
+  },
+  {
+    "item_code": "w_053985",
+    "content": "passenger transoceanic ship",
+    "meaning_zh": "远洋客轮",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "船舶短语可判断"
+  },
+  {
+    "item_code": "w_053986",
+    "content": "passenger warehouse stretch",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组噪声无法判断"
+  },
+  {
+    "item_code": "w_053987",
+    "content": "passenger-carrying drone",
+    "meaning_zh": "载人无人机；载客无人机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "科技术语明确"
+  },
+  {
+    "item_code": "w_053991",
+    "content": "passerby paste",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无法判断"
+  },
+  {
+    "item_code": "w_053995",
+    "content": "passing fad",
+    "meaning_zh": "一时风尚；短暂流行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  }
+]

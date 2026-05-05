@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_004977",
+    "content": "assidulous",
+    "meaning_zh": "勤勉的；刻苦的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见高阶形容词"
+  },
+  {
+    "item_code": "w_004985",
+    "content": "assigned books",
+    "meaning_zh": "指定读物；指定书目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习场景短语"
+  },
+  {
+    "item_code": "w_004990",
+    "content": "assimilate time opticis",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声无法判断"
+  },
+  {
+    "item_code": "w_004993",
+    "content": "assimilates",
+    "meaning_zh": "吸收；同化；理解掌握",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "assimilate变形"
+  },
+  {
+    "item_code": "w_004997",
+    "content": "assist A with B",
+    "meaning_zh": "帮助A做B；在B方面帮助A",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配句型"
+  },
+  {
+    "item_code": "w_004998",
+    "content": "assist assistance",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "词形拼接非词条"
+  },
+  {
+    "item_code": "w_005007",
+    "content": "Assistant Welfare Officer",
+    "meaning_zh": "助理福利干事；助理福利官员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "职位名称"
+  },
+  {
+    "item_code": "w_005016",
+    "content": "associate company subsidiary",
+    "meaning_zh": "联营公司；子公司",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "商务术语组合"
+  },
+  {
+    "item_code": "w_005017",
+    "content": "associate company subsidiary affiliate",
+    "meaning_zh": "联营公司；子公司；附属公司",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "商务术语组合"
+  },
+  {
+    "item_code": "w_005037",
+    "content": "assuage shred",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无明确搭配关系"
+  },
+  {
+    "item_code": "w_005039",
+    "content": "assume an obligation",
+    "meaning_zh": "承担义务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见正式搭配"
+  },
+  {
+    "item_code": "w_005040",
+    "content": "assume assumption",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "词形拼接非词条"
+  },
+  {
+    "item_code": "w_005041",
+    "content": "assume atmosphere",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无明确搭配关系"
+  },
+  {
+    "item_code": "w_005044",
+    "content": "assume one's duties",
+    "meaning_zh": "开始履行职责；就职",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定正式搭配"
+  },
+  {
+    "item_code": "w_005045",
+    "content": "assume one's responsibilities",
+    "meaning_zh": "承担自己的责任",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_005046",
+    "content": "assume responsibility",
+    "meaning_zh": "承担责任",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_005065",
+    "content": "asteroid explosion",
+    "meaning_zh": "小行星爆炸",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "天文学相关短语"
+  },
+  {
+    "item_code": "w_005066",
+    "content": "asteroid strike",
+    "meaning_zh": "小行星撞击",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见科学表达"
+  },
+  {
+    "item_code": "w_005067",
+    "content": "asteroidal body",
+    "meaning_zh": "小行星体；小行星状天体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "天文学术语"
+  },
+  {
+    "item_code": "w_005074",
+    "content": "asthma difference",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无明确搭配关系"
+  }
+]

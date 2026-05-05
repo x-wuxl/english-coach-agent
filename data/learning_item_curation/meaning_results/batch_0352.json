@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_033494",
+    "content": "hardback heading",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_033508",
+    "content": "hardline Republican governor",
+    "meaning_zh": "强硬派共和党州长",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治类常见表达"
+  },
+  {
+    "item_code": "w_033515",
+    "content": "hardly anyone has noticed",
+    "meaning_zh": "几乎没人注意到",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句意清晰"
+  },
+  {
+    "item_code": "w_033518",
+    "content": "hardships of life",
+    "meaning_zh": "生活的艰辛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_033521",
+    "content": "hardware cater",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  },
+  {
+    "item_code": "w_033537",
+    "content": "harler",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_033539",
+    "content": "harm sb.",
+    "meaning_zh": "伤害某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_033540",
+    "content": "harm to society",
+    "meaning_zh": "对社会的危害",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_033542",
+    "content": "harmful practice",
+    "meaning_zh": "有害做法；陋习",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见评价性搭配"
+  },
+  {
+    "item_code": "w_033550",
+    "content": "harmonious relation",
+    "meaning_zh": "和谐关系",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_033563",
+    "content": "harmony rating argue",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词序杂乱无义"
+  },
+  {
+    "item_code": "w_033564",
+    "content": "harmony with",
+    "meaning_zh": "与……和谐相处；与……协调一致",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  },
+  {
+    "item_code": "w_033565",
+    "content": "harms",
+    "meaning_zh": "危害；伤害",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "harm的常见形式"
+  },
+  {
+    "item_code": "w_033572",
+    "content": "Harris",
+    "meaning_zh": "哈里斯",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见姓氏人名"
+  },
+  {
+    "item_code": "w_033579",
+    "content": "harsh photography",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  },
+  {
+    "item_code": "w_033581",
+    "content": "harsh winter",
+    "meaning_zh": "严冬；严酷的冬天",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_033583",
+    "content": "harshly disdainful",
+    "meaning_zh": "严厉而轻蔑的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "形容态度的搭配"
+  },
+  {
+    "item_code": "w_033585",
+    "content": "harson",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_033586",
+    "content": "Hartford Financial Services Group",
+    "meaning_zh": "哈特福德金融服务集团",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "公司专有名词"
+  },
+  {
+    "item_code": "w_033587",
+    "content": "harth",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  }
+]

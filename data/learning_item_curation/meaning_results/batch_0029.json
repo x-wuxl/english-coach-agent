@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_001429",
+    "content": "act in their concerns",
+    "meaning_zh": "为他们关心的问题采取行动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可推断"
+  },
+  {
+    "item_code": "w_001440",
+    "content": "act younger",
+    "meaning_zh": "表现得更年轻",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_001453",
+    "content": "action effort",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_001458",
+    "content": "action sport",
+    "meaning_zh": "极限运动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "运动类固定说法"
+  },
+  {
+    "item_code": "w_001461",
+    "content": "activate account",
+    "meaning_zh": "激活账户",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见账户操作"
+  },
+  {
+    "item_code": "w_001470",
+    "content": "active move movement",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显词串噪声"
+  },
+  {
+    "item_code": "w_001472",
+    "content": "active seismic period",
+    "meaning_zh": "地震活跃期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地震术语搭配"
+  },
+  {
+    "item_code": "w_001483",
+    "content": "acts",
+    "meaning_zh": "行动；表现；装作",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句均为动词用法"
+  },
+  {
+    "item_code": "w_001496",
+    "content": "actuary assurance",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_001499",
+    "content": "acu",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写残片难判断"
+  },
+  {
+    "item_code": "w_001511",
+    "content": "acute chronic upset infection",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显词串噪声"
+  },
+  {
+    "item_code": "w_001512",
+    "content": "acute crisis",
+    "meaning_zh": "严重危机；急性危机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "acute修饰危机"
+  },
+  {
+    "item_code": "w_001516",
+    "content": "acute respiratory infection symptom",
+    "meaning_zh": "急性呼吸道感染症状",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学短语可理解"
+  },
+  {
+    "item_code": "w_001517",
+    "content": "acute sense of smell",
+    "meaning_zh": "敏锐的嗅觉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见acute义项"
+  },
+  {
+    "item_code": "w_001518",
+    "content": "acute tonsilitis",
+    "meaning_zh": "急性扁桃体炎",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学术语"
+  },
+  {
+    "item_code": "w_001522",
+    "content": "acuter",
+    "meaning_zh": "更严重的；更敏锐的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "acute比较级"
+  },
+  {
+    "item_code": "w_001526",
+    "content": "AD adapter",
+    "meaning_zh": "模数转换适配器",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术缩写搭配"
+  },
+  {
+    "item_code": "w_001530",
+    "content": "ad slot",
+    "meaning_zh": "广告位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "广告技术常用语"
+  },
+  {
+    "item_code": "w_001534",
+    "content": "ADA",
+    "meaning_zh": "Ada编程语言；美国残疾人法案",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缩写及技术名词"
+  },
+  {
+    "item_code": "w_001535",
+    "content": "adabism",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "罕见词难可靠判断"
+  }
+]

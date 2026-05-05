@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_042915",
+    "content": "let ... slide",
+    "meaning_zh": "对……不予追究；放任不管",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  },
+  {
+    "item_code": "w_042919",
+    "content": "let imagination run wild",
+    "meaning_zh": "让想象力自由驰骋",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_042932",
+    "content": "let out a scream",
+    "meaning_zh": "发出尖叫",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_042935",
+    "content": "let sb. do sth.",
+    "meaning_zh": "让某人做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础句型"
+  },
+  {
+    "item_code": "w_042950",
+    "content": "Let's be friends.",
+    "meaning_zh": "我们做朋友吧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用句子"
+  },
+  {
+    "item_code": "w_042955",
+    "content": "lethal heat wave",
+    "meaning_zh": "致命热浪",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见环境话题搭配"
+  },
+  {
+    "item_code": "w_042962",
+    "content": "letter call sign",
+    "meaning_zh": "字母呼号；字母代号",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "通信类术语搭配"
+  },
+  {
+    "item_code": "w_042972",
+    "content": "letting",
+    "meaning_zh": "允许；出租",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "let的现在分词"
+  },
+  {
+    "item_code": "w_042982",
+    "content": "leukemia compact",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常疑似噪声"
+  },
+  {
+    "item_code": "w_042995",
+    "content": "lev",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写或残片不明"
+  },
+  {
+    "item_code": "w_043000",
+    "content": "level headed circumlicution",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "拼写异常疑似噪声"
+  },
+  {
+    "item_code": "w_043002",
+    "content": "level of proficiency",
+    "meaning_zh": "熟练程度；能力水平",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_043011",
+    "content": "leven",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词形含义不明"
+  },
+  {
+    "item_code": "w_043014",
+    "content": "lever-based",
+    "meaning_zh": "基于杠杆的；杠杆式的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_043020",
+    "content": "levin",
+    "meaning_zh": "闪电",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见文学词"
+  },
+  {
+    "item_code": "w_043021",
+    "content": "levin petition",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常疑似噪声"
+  },
+  {
+    "item_code": "w_043025",
+    "content": "levity discomfit epitomize",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个单词堆叠"
+  },
+  {
+    "item_code": "w_043037",
+    "content": "lexicographic",
+    "meaning_zh": "按字典顺序的；词典编纂的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_043043",
+    "content": "lexus",
+    "meaning_zh": "雷克萨斯",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "汽车品牌名"
+  },
+  {
+    "item_code": "w_043048",
+    "content": "liability pavilion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常疑似噪声"
+  }
+]

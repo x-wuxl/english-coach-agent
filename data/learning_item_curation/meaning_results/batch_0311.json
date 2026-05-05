@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_029514",
+    "content": "freight typist assumption volleyball",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无有效词条组合"
+  },
+  {
+    "item_code": "w_029531",
+    "content": "frenzy for FTZ",
+    "meaning_zh": "对自由贸易区的狂热",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "FTZ常指自贸区"
+  },
+  {
+    "item_code": "w_029536",
+    "content": "frequency of buses",
+    "meaning_zh": "公交车班次；公交车发车频率",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见雅思交通表达"
+  },
+  {
+    "item_code": "w_029538",
+    "content": "frequent deploy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_029539",
+    "content": "frequent destination",
+    "meaning_zh": "常去的目的地；热门目的地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_029540",
+    "content": "frequent erode",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_029542",
+    "content": "frequent goer",
+    "meaning_zh": "常客；经常去的人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配含义明确"
+  },
+  {
+    "item_code": "w_029544",
+    "content": "frequent wars",
+    "meaning_zh": "频繁的战争",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义直接"
+  },
+  {
+    "item_code": "w_029547",
+    "content": "frequently temporary occasional",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词语堆叠无意义"
+  },
+  {
+    "item_code": "w_029551",
+    "content": "fresh and modern",
+    "meaning_zh": "清新现代的；新颖时尚的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见描述性短语"
+  },
+  {
+    "item_code": "w_029555",
+    "content": "fresh off",
+    "meaning_zh": "刚从……下来；刚结束……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "需接宾语但含义常见"
+  },
+  {
+    "item_code": "w_029562",
+    "content": "freshly-made",
+    "meaning_zh": "新鲜制作的；刚做好的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_029584",
+    "content": "fridge cooker",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "家电词并列不成词条"
+  },
+  {
+    "item_code": "w_029586",
+    "content": "fried chicken and beer",
+    "meaning_zh": "炸鸡和啤酒",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "食物搭配表达"
+  },
+  {
+    "item_code": "w_029590",
+    "content": "fried fountain",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_029593",
+    "content": "friend friendship",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "近义词堆叠非词条"
+  },
+  {
+    "item_code": "w_029597",
+    "content": "friendly atmosphere",
+    "meaning_zh": "友好的氛围；融洽的气氛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见场景表达"
+  },
+  {
+    "item_code": "w_029598",
+    "content": "friendly exchange",
+    "meaning_zh": "友好交流；友好往来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见正式表达"
+  },
+  {
+    "item_code": "w_029599",
+    "content": "friendly exchanges",
+    "meaning_zh": "友好交流；友好往来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复数形式含义明确"
+  },
+  {
+    "item_code": "w_029604",
+    "content": "Friendship Medal",
+    "meaning_zh": "友谊勋章",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有奖章名称"
+  }
+]

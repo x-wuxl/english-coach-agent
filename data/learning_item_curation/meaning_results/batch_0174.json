@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_015993",
+    "content": "concealed drug",
+    "meaning_zh": "藏匿的毒品；夹带的毒品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_015996",
+    "content": "concede epithelium",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合无固定含义"
+  },
+  {
+    "item_code": "w_015999",
+    "content": "conceit status",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合生硬"
+  },
+  {
+    "item_code": "w_016005",
+    "content": "conceive bacterium ignite",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声串词"
+  },
+  {
+    "item_code": "w_016006",
+    "content": "conceive investigate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "动词堆叠无搭配"
+  },
+  {
+    "item_code": "w_016011",
+    "content": "concentrate concentration",
+    "meaning_zh": "集中；浓缩；浓度",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "派生词堆叠"
+  },
+  {
+    "item_code": "w_016012",
+    "content": "concentrate monitoring efforts",
+    "meaning_zh": "集中监测力量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解为搭配"
+  },
+  {
+    "item_code": "w_016015",
+    "content": "concentrate on doing sth.",
+    "meaning_zh": "专心做某事；集中精力做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_016027",
+    "content": "concept of scientific development",
+    "meaning_zh": "科学发展观；科学发展理念",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政治术语"
+  },
+  {
+    "item_code": "w_016030",
+    "content": "conceptual chicken pox",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_016037",
+    "content": "concern for others",
+    "meaning_zh": "关心他人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_016044",
+    "content": "concerned departments",
+    "meaning_zh": "有关部门",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见公文表达"
+  },
+  {
+    "item_code": "w_016046",
+    "content": "concerned worry concern",
+    "meaning_zh": "担心的；担忧；关心",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "近义词堆叠"
+  },
+  {
+    "item_code": "w_016051",
+    "content": "concert season ticket",
+    "meaning_zh": "音乐会季票；系列音乐会套票",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "票务常见短语"
+  },
+  {
+    "item_code": "w_016059",
+    "content": "concessions for",
+    "meaning_zh": "给……的优惠；对……的让步",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "需接宾语的搭配"
+  },
+  {
+    "item_code": "w_016065",
+    "content": "concievably",
+    "meaning_zh": "可以想象地；可能地",
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "拼写错误，应为conceivably"
+  },
+  {
+    "item_code": "w_016067",
+    "content": "conciliate laquacious",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含拼写错误且无搭配"
+  },
+  {
+    "item_code": "w_016073",
+    "content": "concise rotary",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合无固定含义"
+  },
+  {
+    "item_code": "w_016080",
+    "content": "conclude conclusion memory",
+    "meaning_zh": "结束；结论；记忆",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "无效串词"
+  },
+  {
+    "item_code": "w_016082",
+    "content": "conclude with",
+    "meaning_zh": "以……结束",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  }
+]

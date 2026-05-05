@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_020125",
+    "content": "desecrate embark respire",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个无关单词拼接"
+  },
+  {
+    "item_code": "w_020128",
+    "content": "deselination",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_020132",
+    "content": "desert collagen",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不可靠"
+  },
+  {
+    "item_code": "w_020134",
+    "content": "desert locations",
+    "meaning_zh": "沙漠地区；沙漠地点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见地理搭配"
+  },
+  {
+    "item_code": "w_020138",
+    "content": "desertification of land",
+    "meaning_zh": "土地荒漠化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保主题常见表达"
+  },
+  {
+    "item_code": "w_020142",
+    "content": "deserve adapt",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "两个无关动词拼接"
+  },
+  {
+    "item_code": "w_020146",
+    "content": "deserved reward",
+    "meaning_zh": "应得的奖励",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_020156",
+    "content": "design classic",
+    "meaning_zh": "经典设计作品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见设计领域表达"
+  },
+  {
+    "item_code": "w_020158",
+    "content": "design intention",
+    "meaning_zh": "设计意图",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见设计搭配"
+  },
+  {
+    "item_code": "w_020167",
+    "content": "designate notion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_020168",
+    "content": "designate principal block",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组含义不可靠"
+  },
+  {
+    "item_code": "w_020169",
+    "content": "designate stunt",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_020171",
+    "content": "designated driver business",
+    "meaning_zh": "代驾业务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定商业表达"
+  },
+  {
+    "item_code": "w_020172",
+    "content": "designated hospital",
+    "meaning_zh": "指定医院；定点医院",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见医疗表达"
+  },
+  {
+    "item_code": "w_020175",
+    "content": "designed development",
+    "meaning_zh": "有计划的发展；设计开发",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作技术或规划表达"
+  },
+  {
+    "item_code": "w_020177",
+    "content": "designer clothes",
+    "meaning_zh": "名牌服装；设计师品牌服装",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见服饰搭配"
+  },
+  {
+    "item_code": "w_020178",
+    "content": "designer clothing",
+    "meaning_zh": "名牌服装；设计师品牌服装",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见服饰搭配"
+  },
+  {
+    "item_code": "w_020180",
+    "content": "designer model cloves",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声或拼写错误"
+  },
+  {
+    "item_code": "w_020181",
+    "content": "designer sneakers",
+    "meaning_zh": "名牌运动鞋；设计师品牌运动鞋",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见服饰搭配"
+  },
+  {
+    "item_code": "w_020186",
+    "content": "desirable patriots convenience",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个无关词拼接"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_057514",
+    "content": "prescribe prescription medication",
+    "meaning_zh": "开处方药",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义较明确"
+  },
+  {
+    "item_code": "w_057522",
+    "content": "prescription tracking system",
+    "meaning_zh": "处方追踪系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医疗系统术语"
+  },
+  {
+    "item_code": "w_057523",
+    "content": "prescription wagon allowance",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配疑似噪声"
+  },
+  {
+    "item_code": "w_057535",
+    "content": "present perfect",
+    "meaning_zh": "现在完成时",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见语法术语"
+  },
+  {
+    "item_code": "w_057536",
+    "content": "present progressive",
+    "meaning_zh": "现在进行时",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句对应语法术语"
+  },
+  {
+    "item_code": "w_057537",
+    "content": "present react caution excess",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无可靠含义"
+  },
+  {
+    "item_code": "w_057539",
+    "content": "present simple",
+    "meaning_zh": "一般现在时",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见语法术语"
+  },
+  {
+    "item_code": "w_057546",
+    "content": "presentation of prizes",
+    "meaning_zh": "颁奖；授奖仪式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定活动表达"
+  },
+  {
+    "item_code": "w_057553",
+    "content": "presenting result",
+    "meaning_zh": "展示结果；呈现结果",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解但不地道"
+  },
+  {
+    "item_code": "w_057560",
+    "content": "preserve ancient buildings",
+    "meaning_zh": "保护古建筑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见写作搭配"
+  },
+  {
+    "item_code": "w_057561",
+    "content": "preserve and cherish",
+    "meaning_zh": "保护并珍惜",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见并列搭配"
+  },
+  {
+    "item_code": "w_057562",
+    "content": "preserve sth. for",
+    "meaning_zh": "为……保存某物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_057563",
+    "content": "preserve the cultural relics",
+    "meaning_zh": "保护文物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见写作搭配"
+  },
+  {
+    "item_code": "w_057564",
+    "content": "preserve the ecological environment",
+    "meaning_zh": "保护生态环境",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见写作搭配"
+  },
+  {
+    "item_code": "w_057567",
+    "content": "preserved remains",
+    "meaning_zh": "保存下来的遗骸；保存完好的遗迹",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境可指遗骸或遗迹"
+  },
+  {
+    "item_code": "w_057577",
+    "content": "president of Brown University",
+    "meaning_zh": "布朗大学校长",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有机构职务"
+  },
+  {
+    "item_code": "w_057595",
+    "content": "press charges against",
+    "meaning_zh": "对……提出指控；起诉……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定法律表达"
+  },
+  {
+    "item_code": "w_057596",
+    "content": "press commentary",
+    "meaning_zh": "新闻评论；媒体评论",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "媒体领域搭配"
+  },
+  {
+    "item_code": "w_057600",
+    "content": "press digest",
+    "meaning_zh": "新闻摘要；报刊文摘",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "媒体领域术语"
+  },
+  {
+    "item_code": "w_057604",
+    "content": "press into",
+    "meaning_zh": "压入；强迫……加入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语有多种常见义"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_040492",
+    "content": "It's hot.",
+    "meaning_zh": "天气很热；很热",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句表示天气炎热"
+  },
+  {
+    "item_code": "w_040493",
+    "content": "it's little wonder",
+    "meaning_zh": "难怪；不足为奇",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_040494",
+    "content": "it's little wonder ...",
+    "meaning_zh": "难怪；不足为奇",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型"
+  },
+  {
+    "item_code": "w_040495",
+    "content": "it's maya",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含专名且缺上下文"
+  },
+  {
+    "item_code": "w_040497",
+    "content": "it's natural",
+    "meaning_zh": "很自然；理所当然",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句表自然合理"
+  },
+  {
+    "item_code": "w_040498",
+    "content": "it's necessary to do",
+    "meaning_zh": "有必要做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用句型"
+  },
+  {
+    "item_code": "w_040499",
+    "content": "It's no wonder",
+    "meaning_zh": "难怪；不足为奇",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句表难怪"
+  },
+  {
+    "item_code": "w_040500",
+    "content": "it's no wonder ...",
+    "meaning_zh": "难怪；不足为奇",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型"
+  },
+  {
+    "item_code": "w_040503",
+    "content": "It's self-evident that",
+    "meaning_zh": "显而易见的是",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用书面句型"
+  },
+  {
+    "item_code": "w_040504",
+    "content": "it's small wonder",
+    "meaning_zh": "难怪；不足为奇",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_040505",
+    "content": "it's small wonder ...",
+    "meaning_zh": "难怪；不足为奇",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型"
+  },
+  {
+    "item_code": "w_040507",
+    "content": "It's sunny.",
+    "meaning_zh": "天气晴朗；出太阳了",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句表示天气晴朗"
+  },
+  {
+    "item_code": "w_040508",
+    "content": "It's time for ...",
+    "meaning_zh": "到……的时候了",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "小学常用句型"
+  },
+  {
+    "item_code": "w_040511",
+    "content": "It's warm.",
+    "meaning_zh": "天气暖和；很温暖",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句表示温暖"
+  },
+  {
+    "item_code": "w_040512",
+    "content": "it's worthwhile to do",
+    "meaning_zh": "值得做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用句型"
+  },
+  {
+    "item_code": "w_040515",
+    "content": "italic journal journalism journalist",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个词堆叠噪声"
+  },
+  {
+    "item_code": "w_040524",
+    "content": "item crisis",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_040525",
+    "content": "item datum",
+    "meaning_zh": "数据项",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可能为技术搭配"
+  },
+  {
+    "item_code": "w_040526",
+    "content": "item of negligible value",
+    "meaning_zh": "价值微不足道的物品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_040531",
+    "content": "iterable",
+    "meaning_zh": "可迭代对象；可迭代的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_006203",
+    "content": "backstage chorus improvise",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成固定表达"
+  },
+  {
+    "item_code": "w_006217",
+    "content": "backyard bloom",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明确"
+  },
+  {
+    "item_code": "w_006223",
+    "content": "bacteria infection",
+    "meaning_zh": "细菌感染",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学常见搭配"
+  },
+  {
+    "item_code": "w_006225",
+    "content": "bacterial and viral infection",
+    "meaning_zh": "细菌和病毒感染",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学常见表达"
+  },
+  {
+    "item_code": "w_006227",
+    "content": "bacterial larva domain",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成固定表达"
+  },
+  {
+    "item_code": "w_006255",
+    "content": "bad moment",
+    "meaning_zh": "糟糕时刻；不顺的时候",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_006260",
+    "content": "badenage",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_006266",
+    "content": "badly evident residents",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成固定表达"
+  },
+  {
+    "item_code": "w_006269",
+    "content": "badminton bait blade wrestler",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词汇串联噪声"
+  },
+  {
+    "item_code": "w_006270",
+    "content": "badminton clubs",
+    "meaning_zh": "羽毛球俱乐部；羽毛球社团",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "体育社团常见搭配"
+  },
+  {
+    "item_code": "w_006274",
+    "content": "baffl",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似残缺词"
+  },
+  {
+    "item_code": "w_006277",
+    "content": "baft",
+    "meaning_zh": "巴夫塔粗棉布",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见纺织术语"
+  },
+  {
+    "item_code": "w_006279",
+    "content": "bag-mask",
+    "meaning_zh": "面罩球囊；简易呼吸器",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医疗设备术语"
+  },
+  {
+    "item_code": "w_006287",
+    "content": "baggage collection",
+    "meaning_zh": "行李领取；行李提取处",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "机场常见表达"
+  },
+  {
+    "item_code": "w_006288",
+    "content": "baggage counter",
+    "meaning_zh": "行李柜台；托运行李柜台",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅行场景常见"
+  },
+  {
+    "item_code": "w_006292",
+    "content": "baggageroom",
+    "meaning_zh": "行李房；行李寄存室",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑似合写形式"
+  },
+  {
+    "item_code": "w_006300",
+    "content": "Bahmad",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似专名但无依据"
+  },
+  {
+    "item_code": "w_006311",
+    "content": "bake sale",
+    "meaning_zh": "烘焙食品义卖",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "校园活动常见表达"
+  },
+  {
+    "item_code": "w_006313",
+    "content": "baked chicken",
+    "meaning_zh": "烤鸡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "食物常见搭配"
+  },
+  {
+    "item_code": "w_006315",
+    "content": "baked prawns",
+    "meaning_zh": "烤大虾",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "食物常见搭配"
+  }
+]

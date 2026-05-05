@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_042464",
+    "content": "layout of the house",
+    "meaning_zh": "房屋布局",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_042465",
+    "content": "layout zoology",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无明确含义"
+  },
+  {
+    "item_code": "w_042467",
+    "content": "layover exact recess",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_042474",
+    "content": "lazy will",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_042485",
+    "content": "lead a cosy life",
+    "meaning_zh": "过舒适惬意的生活",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定生活表达"
+  },
+  {
+    "item_code": "w_042486",
+    "content": "lead a positive life",
+    "meaning_zh": "过积极向上的生活",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_042488",
+    "content": "lead a strenuous life",
+    "meaning_zh": "过艰苦劳累的生活",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_042489",
+    "content": "lead an active life",
+    "meaning_zh": "过积极活跃的生活",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_042491",
+    "content": "lead dancer",
+    "meaning_zh": "领舞；主舞者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表演术语"
+  },
+  {
+    "item_code": "w_042492",
+    "content": "lead head wander crawl",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_042496",
+    "content": "lead singer",
+    "meaning_zh": "主唱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见音乐术语"
+  },
+  {
+    "item_code": "w_042499",
+    "content": "lead the way to",
+    "meaning_zh": "带路去；通向；引领走向",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_042512",
+    "content": "leading authority",
+    "meaning_zh": "权威专家；主要权威",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_042522",
+    "content": "leaf-eating animal",
+    "meaning_zh": "食叶动物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "含义清晰短语"
+  },
+  {
+    "item_code": "w_042526",
+    "content": "leaflet staff",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_042531",
+    "content": "league team",
+    "meaning_zh": "联赛球队",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见体育搭配"
+  },
+  {
+    "item_code": "w_042534",
+    "content": "leak impede vale restrain",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_042537",
+    "content": "leaking natural gas pipeline",
+    "meaning_zh": "泄漏的天然气管道",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "含义清晰短语"
+  },
+  {
+    "item_code": "w_042542",
+    "content": "lean gratitude",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_042544",
+    "content": "lean meat powder",
+    "meaning_zh": "瘦肉精",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见食品安全术语"
+  }
+]

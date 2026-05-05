@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_057833",
+    "content": "printed reproduction",
+    "meaning_zh": "印刷复制品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_057852",
+    "content": "priority abstain",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成义"
+  },
+  {
+    "item_code": "w_057853",
+    "content": "priority label apparent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语随机拼接"
+  },
+  {
+    "item_code": "w_057864",
+    "content": "pristine forest",
+    "meaning_zh": "原始森林；未受破坏的森林",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见环境类搭配"
+  },
+  {
+    "item_code": "w_057866",
+    "content": "privacy company",
+    "meaning_zh": "隐私保护公司",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作行业类表达"
+  },
+  {
+    "item_code": "w_057867",
+    "content": "privacy officer",
+    "meaning_zh": "隐私保护官；隐私事务负责人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职务名称"
+  },
+  {
+    "item_code": "w_057871",
+    "content": "private beach",
+    "meaning_zh": "私人海滩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅游场景搭配"
+  },
+  {
+    "item_code": "w_057875",
+    "content": "private contents insurance",
+    "meaning_zh": "个人财物保险；家庭财物保险",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "保险类固定表达"
+  },
+  {
+    "item_code": "w_057878",
+    "content": "private equity investment",
+    "meaning_zh": "私募股权投资",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融术语"
+  },
+  {
+    "item_code": "w_057880",
+    "content": "private gardens",
+    "meaning_zh": "私家花园",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活场景搭配"
+  },
+  {
+    "item_code": "w_057896",
+    "content": "privately-run enterprise",
+    "meaning_zh": "私营企业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见经济类表达"
+  },
+  {
+    "item_code": "w_057900",
+    "content": "privation deride mosaic",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语随机拼接"
+  },
+  {
+    "item_code": "w_057907",
+    "content": "privileged ticket",
+    "meaning_zh": "优待票；特权票",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义可判断但少见"
+  },
+  {
+    "item_code": "w_057909",
+    "content": "Privy Council of Britain",
+    "meaning_zh": "英国枢密院",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有机构名称"
+  },
+  {
+    "item_code": "w_057911",
+    "content": "prize-awarding ceremony",
+    "meaning_zh": "颁奖典礼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见活动表达"
+  },
+  {
+    "item_code": "w_057923",
+    "content": "pro-America",
+    "meaning_zh": "亲美的；支持美国的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政治立场词"
+  },
+  {
+    "item_code": "w_057928",
+    "content": "pro-innovation government",
+    "meaning_zh": "支持创新的政府",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策类搭配"
+  },
+  {
+    "item_code": "w_057939",
+    "content": "probassis",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_057945",
+    "content": "probe observer peel",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语随机拼接"
+  },
+  {
+    "item_code": "w_057957",
+    "content": "problematic vaccine",
+    "meaning_zh": "问题疫苗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见公共卫生表达"
+  }
+]

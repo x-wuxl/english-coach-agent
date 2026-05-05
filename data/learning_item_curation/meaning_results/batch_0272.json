@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_025873",
+    "content": "executive guilt column",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组噪声无固定义"
+  },
+  {
+    "item_code": "w_025882",
+    "content": "exemplary hem handed",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无固定义"
+  },
+  {
+    "item_code": "w_025886",
+    "content": "exemplify roar",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_025893",
+    "content": "exercise control over",
+    "meaning_zh": "对……行使控制；控制",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_025903",
+    "content": "exert enormous influence",
+    "meaning_zh": "产生巨大影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_025904",
+    "content": "exert great influence on",
+    "meaning_zh": "对……产生重大影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见考试搭配"
+  },
+  {
+    "item_code": "w_025905",
+    "content": "exert influence",
+    "meaning_zh": "施加影响；产生影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_025908",
+    "content": "exert influence over",
+    "meaning_zh": "对……施加影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词搭配"
+  },
+  {
+    "item_code": "w_025910",
+    "content": "exert oneself to do",
+    "meaning_zh": "努力做某事；尽力做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_025911",
+    "content": "exert pressure on",
+    "meaning_zh": "对……施加压力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_025912",
+    "content": "exert yourself to do",
+    "meaning_zh": "努力做某事；尽力做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_025920",
+    "content": "exhalation nourishment",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无固定义"
+  },
+  {
+    "item_code": "w_025922",
+    "content": "exhale landmark",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_025925",
+    "content": "exhaust a topic",
+    "meaning_zh": "详尽论述某话题；把话题讲透",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "exhaust表详尽处理"
+  },
+  {
+    "item_code": "w_025926",
+    "content": "exhaust baton",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无固定义"
+  },
+  {
+    "item_code": "w_025932",
+    "content": "exhaust the resources",
+    "meaning_zh": "耗尽资源",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_025941",
+    "content": "exhibit confirm",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "动词并列无固定义"
+  },
+  {
+    "item_code": "w_025943",
+    "content": "exhibition buyout",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配少见难判断"
+  },
+  {
+    "item_code": "w_025944",
+    "content": "exhibition hall",
+    "meaning_zh": "展览厅；展馆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_025953",
+    "content": "exhort homely trepidation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无固定义"
+  }
+]

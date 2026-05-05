@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_066516",
+    "content": "sick illness",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_066527",
+    "content": "sickle pinch",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词语组合噪声"
+  },
+  {
+    "item_code": "w_066553",
+    "content": "sided",
+    "meaning_zh": "有边的；偏袒的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常作复合词后缀"
+  },
+  {
+    "item_code": "w_066557",
+    "content": "sideline ball",
+    "meaning_zh": "边线球",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "体育场景搭配"
+  },
+  {
+    "item_code": "w_066568",
+    "content": "sidestep taxes",
+    "meaning_zh": "规避税款",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_066581",
+    "content": "sieve simmer soak",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词语列表噪声"
+  },
+  {
+    "item_code": "w_066595",
+    "content": "sightseeing accompany",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "非自然搭配"
+  },
+  {
+    "item_code": "w_066598",
+    "content": "sightseeing spot",
+    "meaning_zh": "观光景点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅游搭配"
+  },
+  {
+    "item_code": "w_066600",
+    "content": "sightseeing utility gym",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词语组合噪声"
+  },
+  {
+    "item_code": "w_066607",
+    "content": "sign a contract with",
+    "meaning_zh": "与……签订合同",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动宾表达"
+  },
+  {
+    "item_code": "w_066608",
+    "content": "sign a petition",
+    "meaning_zh": "签署请愿书",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_066614",
+    "content": "sign of",
+    "meaning_zh": "……的迹象；……的征兆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义一致"
+  },
+  {
+    "item_code": "w_066619",
+    "content": "sign the contract",
+    "meaning_zh": "签合同；签署合同",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义一致"
+  },
+  {
+    "item_code": "w_066623",
+    "content": "sign up to do",
+    "meaning_zh": "报名做某事；签约同意做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语结构"
+  },
+  {
+    "item_code": "w_066624",
+    "content": "sign up with",
+    "meaning_zh": "向……报名；与……签约",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语结构"
+  },
+  {
+    "item_code": "w_066628",
+    "content": "signage combustion dispensary",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词语列表噪声"
+  },
+  {
+    "item_code": "w_066639",
+    "content": "signature initial",
+    "meaning_zh": "签名首字母；签姓名首字母",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表单签署用语"
+  },
+  {
+    "item_code": "w_066640",
+    "content": "signature phrase",
+    "meaning_zh": "标志性短语；口头禅",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_066646",
+    "content": "significant changes",
+    "meaning_zh": "重大变化；显著变化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形名搭配"
+  },
+  {
+    "item_code": "w_066650",
+    "content": "significant strategy",
+    "meaning_zh": "重要策略；重大策略",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解搭配"
+  }
+]

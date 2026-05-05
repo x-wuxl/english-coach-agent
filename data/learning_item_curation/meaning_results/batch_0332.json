@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_031301",
+    "content": "give concerts",
+    "meaning_zh": "举办音乐会；开演唱会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_031306",
+    "content": "give due attention",
+    "meaning_zh": "给予应有关注",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_031307",
+    "content": "give due attention to",
+    "meaning_zh": "对……给予应有关注",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_031308",
+    "content": "give due weight to",
+    "meaning_zh": "充分考虑；给予应有重视",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_031311",
+    "content": "give full attention to",
+    "meaning_zh": "全神贯注于；充分关注",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_031312",
+    "content": "give full weight",
+    "meaning_zh": "充分重视；充分考虑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常作give full weight to"
+  },
+  {
+    "item_code": "w_031317",
+    "content": "give incentive to",
+    "meaning_zh": "激励；刺激；给……动力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_031321",
+    "content": "give life to",
+    "meaning_zh": "赋予生命；使生动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_031322",
+    "content": "give little thought to",
+    "meaning_zh": "很少考虑；不大在意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_031324",
+    "content": "give of etc.",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "内容残缺含etc噪声"
+  },
+  {
+    "item_code": "w_031325",
+    "content": "give of one's money",
+    "meaning_zh": "捐出自己的钱财",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "give of表示奉献"
+  },
+  {
+    "item_code": "w_031330",
+    "content": "give one one's freedom",
+    "meaning_zh": "释放某人；给某人自由",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_031331",
+    "content": "give one's full play",
+    "meaning_zh": "充分发挥",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为give full play to"
+  },
+  {
+    "item_code": "w_031340",
+    "content": "give out the paychecks",
+    "meaning_zh": "发放工资支票；发工资",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动宾搭配"
+  },
+  {
+    "item_code": "w_031341",
+    "content": "give out with sth.",
+    "meaning_zh": "发出；说出；表演出",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "口语固定表达"
+  },
+  {
+    "item_code": "w_031345",
+    "content": "give piano lessons",
+    "meaning_zh": "教钢琴课",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_031351",
+    "content": "give regards to sb.",
+    "meaning_zh": "向某人问好；代向某人致意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "问候固定表达"
+  },
+  {
+    "item_code": "w_031358",
+    "content": "give sb. a five",
+    "meaning_zh": "与某人击掌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "口语表达"
+  },
+  {
+    "item_code": "w_031360",
+    "content": "give sb. a life",
+    "meaning_zh": "给某人一次活命机会；饶某人一命",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达少见但可判断"
+  },
+  {
+    "item_code": "w_031362",
+    "content": "give sb. a line",
+    "meaning_zh": "给某人写短信；给某人写信",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定口语表达"
+  }
+]

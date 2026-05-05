@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_031052",
+    "content": "get sth. sewed up",
+    "meaning_zh": "把某事安排妥当；确保获得",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_031054",
+    "content": "get stopped",
+    "meaning_zh": "被拦下；被叫停",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境略不足"
+  },
+  {
+    "item_code": "w_031055",
+    "content": "get straight A's",
+    "meaning_zh": "各科都得A；成绩全优",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学习常用表达"
+  },
+  {
+    "item_code": "w_031056",
+    "content": "get straight down to",
+    "meaning_zh": "立即开始做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语不完整"
+  },
+  {
+    "item_code": "w_031058",
+    "content": "get stuck in traffic",
+    "meaning_zh": "堵在路上；遇到交通堵塞",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用交通表达"
+  },
+  {
+    "item_code": "w_031059",
+    "content": "get stuck on sth.",
+    "meaning_zh": "被某事难住；卡在某事上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用固定搭配"
+  },
+  {
+    "item_code": "w_031060",
+    "content": "get stuck to",
+    "meaning_zh": "粘在……上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_031065",
+    "content": "get the best deal",
+    "meaning_zh": "获得最划算的交易；拿到最佳条件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务购物常用"
+  },
+  {
+    "item_code": "w_031073",
+    "content": "get the creeps",
+    "meaning_zh": "感到毛骨悚然；觉得害怕",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语表达"
+  },
+  {
+    "item_code": "w_031074",
+    "content": "get the day off",
+    "meaning_zh": "获准休假一天；放一天假",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "日常常用表达"
+  },
+  {
+    "item_code": "w_031075",
+    "content": "get the devil",
+    "meaning_zh": "挨骂；受严厉责备",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "较旧习语"
+  },
+  {
+    "item_code": "w_031079",
+    "content": "get the glad hand",
+    "meaning_zh": "受到热情欢迎；受到殷勤招呼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语表达"
+  },
+  {
+    "item_code": "w_031084",
+    "content": "get the hard sell",
+    "meaning_zh": "遭遇强行推销；被极力劝买",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "销售场景习语"
+  },
+  {
+    "item_code": "w_031086",
+    "content": "get the high sign",
+    "meaning_zh": "得到暗号；获得许可信号",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语表达"
+  },
+  {
+    "item_code": "w_031088",
+    "content": "get the inside track",
+    "meaning_zh": "取得有利地位；获得内幕优势",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语表达"
+  },
+  {
+    "item_code": "w_031092",
+    "content": "get the lowdown",
+    "meaning_zh": "了解实情；获得内幕消息",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "口语习语"
+  },
+  {
+    "item_code": "w_031094",
+    "content": "get the most from",
+    "meaning_zh": "从……中获得最大收益；充分利用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用搭配"
+  },
+  {
+    "item_code": "w_031097",
+    "content": "get the once-over",
+    "meaning_zh": "受到快速检查；被粗略查看",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语表达"
+  },
+  {
+    "item_code": "w_031101",
+    "content": "get the slip",
+    "meaning_zh": "被甩掉；被解雇",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "习语义项较旧"
+  },
+  {
+    "item_code": "w_031104",
+    "content": "get the willies",
+    "meaning_zh": "感到发毛；感到害怕不安",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "口语习语"
+  }
+]

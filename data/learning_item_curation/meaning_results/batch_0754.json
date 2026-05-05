@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_073888",
+    "content": "the music charts",
+    "meaning_zh": "音乐排行榜",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见音乐表达"
+  },
+  {
+    "item_code": "w_073889",
+    "content": "the mysterious universe",
+    "meaning_zh": "神秘的宇宙",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_073890",
+    "content": "the myth of",
+    "meaning_zh": "关于……的错误观念；……的神话",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定搭配但不完整"
+  },
+  {
+    "item_code": "w_073891",
+    "content": "the Naadam festival",
+    "meaning_zh": "那达慕大会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文化节日名称"
+  },
+  {
+    "item_code": "w_073894",
+    "content": "the national flower",
+    "meaning_zh": "国花",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_073896",
+    "content": "the National Team",
+    "meaning_zh": "国家队",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见体育表达"
+  },
+  {
+    "item_code": "w_073897",
+    "content": "the Nature Conservancy",
+    "meaning_zh": "大自然保护协会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保组织专名"
+  },
+  {
+    "item_code": "w_073899",
+    "content": "The Nemesis of Fugitives",
+    "meaning_zh": "逃犯的克星",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑似标题或称号"
+  },
+  {
+    "item_code": "w_073902",
+    "content": "the New York Philharmonic",
+    "meaning_zh": "纽约爱乐乐团",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "乐团专名"
+  },
+  {
+    "item_code": "w_073905",
+    "content": "the news trade",
+    "meaning_zh": "新闻行业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "行业表达"
+  },
+  {
+    "item_code": "w_073907",
+    "content": "the next few",
+    "meaning_zh": "接下来的几个",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见片语但不完整"
+  },
+  {
+    "item_code": "w_073909",
+    "content": "the Nile Delta",
+    "meaning_zh": "尼罗河三角洲",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地理专名"
+  },
+  {
+    "item_code": "w_073911",
+    "content": "the No. 2 executives",
+    "meaning_zh": "二号高管；副手",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常用表达"
+  },
+  {
+    "item_code": "w_073912",
+    "content": "the Nobel Foundation",
+    "meaning_zh": "诺贝尔基金会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "机构专名"
+  },
+  {
+    "item_code": "w_073914",
+    "content": "the Nobel Prizes",
+    "meaning_zh": "诺贝尔奖",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "奖项专名"
+  },
+  {
+    "item_code": "w_073916",
+    "content": "the Normans",
+    "meaning_zh": "诺曼人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "历史民族名称"
+  },
+  {
+    "item_code": "w_073922",
+    "content": "the OB-GYN department",
+    "meaning_zh": "妇产科",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学科室缩写"
+  },
+  {
+    "item_code": "w_073923",
+    "content": "the Obama Administration",
+    "meaning_zh": "奥巴马政府",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治专名"
+  },
+  {
+    "item_code": "w_073925",
+    "content": "the obstacle to",
+    "meaning_zh": "……的障碍",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_073926",
+    "content": "the odd 30 minutes",
+    "meaning_zh": "零星的30分钟；偶尔的30分钟",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "odd表示零星的"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_043052",
+    "content": "liaison office in Beijing",
+    "meaning_zh": "驻北京联络处",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定名词短语"
+  },
+  {
+    "item_code": "w_043053",
+    "content": "Liam",
+    "meaning_zh": "利亚姆（人名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见英文人名"
+  },
+  {
+    "item_code": "w_043055",
+    "content": "liang",
+    "meaning_zh": "亮（中文人名音译）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "参考例句为人名"
+  },
+  {
+    "item_code": "w_043062",
+    "content": "liberal and conservative views",
+    "meaning_zh": "自由派和保守派观点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治观点搭配"
+  },
+  {
+    "item_code": "w_043070",
+    "content": "liberal trade policy",
+    "meaning_zh": "自由贸易政策",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经贸常见搭配"
+  },
+  {
+    "item_code": "w_043083",
+    "content": "liberate the slaves",
+    "meaning_zh": "解放奴隶",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动宾短语明确"
+  },
+  {
+    "item_code": "w_043097",
+    "content": "librarian favorite",
+    "meaning_zh": "图书管理员最喜欢的东西",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配略不自然"
+  },
+  {
+    "item_code": "w_043102",
+    "content": "library holdings",
+    "meaning_zh": "图书馆馆藏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "图书馆术语"
+  },
+  {
+    "item_code": "w_043103",
+    "content": "library rectum",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_043113",
+    "content": "license plot",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义无法可靠判断"
+  },
+  {
+    "item_code": "w_043114",
+    "content": "license to do sth.",
+    "meaning_zh": "做某事的许可；做某事的执照",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_043115",
+    "content": "license-plate lottery",
+    "meaning_zh": "车牌摇号",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通政策术语"
+  },
+  {
+    "item_code": "w_043117",
+    "content": "licensed perceptionist",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写或噪声"
+  },
+  {
+    "item_code": "w_043126",
+    "content": "lichen oski",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_043131",
+    "content": "lick astound",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_043144",
+    "content": "lie down in ...",
+    "meaning_zh": "躺在……里",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_043146",
+    "content": "lie in honor",
+    "meaning_zh": "遗体供公众瞻仰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定礼仪表达"
+  },
+  {
+    "item_code": "w_043149",
+    "content": "lie on the beach",
+    "meaning_zh": "躺在海滩上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "场景短语明确"
+  },
+  {
+    "item_code": "w_043161",
+    "content": "life alive parent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_043165",
+    "content": "life clamor replenish",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  }
+]

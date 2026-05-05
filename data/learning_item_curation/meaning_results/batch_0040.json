@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_002707",
+    "content": "all-weather friends",
+    "meaning_zh": "全天候朋友；坚定盟友",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_002708",
+    "content": "all-weather playground",
+    "meaning_zh": "全天候操场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_002709",
+    "content": "all-weather system",
+    "meaning_zh": "全天候系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_002711",
+    "content": "all-win",
+    "meaning_zh": "多赢的；皆赢的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义可判断但少见"
+  },
+  {
+    "item_code": "w_002720",
+    "content": "allegiance to",
+    "meaning_zh": "效忠于；忠诚于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持"
+  },
+  {
+    "item_code": "w_002736",
+    "content": "alleviate ache",
+    "meaning_zh": "缓解疼痛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动宾搭配"
+  },
+  {
+    "item_code": "w_002737",
+    "content": "alleviate inborn pathogen",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组搭配异常"
+  },
+  {
+    "item_code": "w_002738",
+    "content": "alleviate interview register",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_002739",
+    "content": "alleviate reflect",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组搭配异常"
+  },
+  {
+    "item_code": "w_002740",
+    "content": "alleviate someone's burdens",
+    "meaning_zh": "减轻某人的负担",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_002748",
+    "content": "allied troop",
+    "meaning_zh": "盟军部队",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "军事常用短语"
+  },
+  {
+    "item_code": "w_002758",
+    "content": "allocative system",
+    "meaning_zh": "资源配置系统；分配系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "术语含义可判断"
+  },
+  {
+    "item_code": "w_002778",
+    "content": "allow annual concur",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_002788",
+    "content": "alloy solitude",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组搭配异常"
+  },
+  {
+    "item_code": "w_002802",
+    "content": "almighty oppress",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组搭配异常"
+  },
+  {
+    "item_code": "w_002809",
+    "content": "aloft berate reticent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_002812",
+    "content": "along the lake",
+    "meaning_zh": "沿着湖边",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "介词短语"
+  },
+  {
+    "item_code": "w_002819",
+    "content": "alor",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_002824",
+    "content": "alpha wolf",
+    "meaning_zh": "头狼；狼群首领",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_002835",
+    "content": "alphainterferon",
+    "meaning_zh": "α干扰素；阿尔法干扰素",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学术语"
+  }
+]

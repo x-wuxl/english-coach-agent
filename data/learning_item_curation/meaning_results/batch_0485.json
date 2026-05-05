@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_046379",
+    "content": "meditation-like",
+    "meaning_zh": "类似冥想的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词含义明确"
+  },
+  {
+    "item_code": "w_046387",
+    "content": "medium refresh",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配"
+  },
+  {
+    "item_code": "w_046393",
+    "content": "medium-sized enterprises",
+    "meaning_zh": "中型企业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商业表达"
+  },
+  {
+    "item_code": "w_046394",
+    "content": "medium-term lending facility",
+    "meaning_zh": "中期借贷便利",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融政策术语"
+  },
+  {
+    "item_code": "w_046398",
+    "content": "medley fracas",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_046406",
+    "content": "meek personable",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_046410",
+    "content": "meet at the gate",
+    "meaning_zh": "在门口见面",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础场景短语"
+  },
+  {
+    "item_code": "w_046411",
+    "content": "meet friends",
+    "meaning_zh": "见朋友；和朋友见面",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_046412",
+    "content": "meet one's demands",
+    "meaning_zh": "满足某人的要求",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_046414",
+    "content": "meet one's expectations",
+    "meaning_zh": "达到某人的期望；符合某人的预期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_046415",
+    "content": "meet one's goal",
+    "meaning_zh": "实现某人的目标；达到目标",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见目标表达"
+  },
+  {
+    "item_code": "w_046416",
+    "content": "meet one's needs",
+    "meaning_zh": "满足某人的需求",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_046417",
+    "content": "meet one's requirements",
+    "meaning_zh": "满足某人的要求；符合某人的条件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_046419",
+    "content": "meet some friends",
+    "meaning_zh": "见几个朋友；和朋友见面",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础场景短语"
+  },
+  {
+    "item_code": "w_046421",
+    "content": "meet the crisis",
+    "meaning_zh": "应对危机；迎接危机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解但较少见"
+  },
+  {
+    "item_code": "w_046446",
+    "content": "mega-size",
+    "meaning_zh": "超大尺寸的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词含义明确"
+  },
+  {
+    "item_code": "w_046449",
+    "content": "megacity behemoth",
+    "meaning_zh": "巨型大城市",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "描述性名词短语"
+  },
+  {
+    "item_code": "w_046454",
+    "content": "megadrought",
+    "meaning_zh": "特大干旱；长期严重干旱",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "气候术语"
+  },
+  {
+    "item_code": "w_046467",
+    "content": "megar",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_046491",
+    "content": "melifluous",
+    "meaning_zh": "声音甜美流畅的；悦耳的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "应为mellifluous"
+  }
+]

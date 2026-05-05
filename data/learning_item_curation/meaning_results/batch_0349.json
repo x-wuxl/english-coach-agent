@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_033160",
+    "content": "half past seven",
+    "meaning_zh": "七点半",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时间表达"
+  },
+  {
+    "item_code": "w_033164",
+    "content": "half-formulated",
+    "meaning_zh": "尚未充分构思的；未完全形成的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_033173",
+    "content": "half-prepared",
+    "meaning_zh": "准备不充分的；半准备好的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_033190",
+    "content": "halitosis doctrin hoop tympanum",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串噪声"
+  },
+  {
+    "item_code": "w_033199",
+    "content": "halliate",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_033200",
+    "content": "halliate battalion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含疑似噪声词"
+  },
+  {
+    "item_code": "w_033201",
+    "content": "halliate contravene",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含疑似噪声词"
+  },
+  {
+    "item_code": "w_033203",
+    "content": "hallmark apocalyptic tantrum",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配"
+  },
+  {
+    "item_code": "w_033210",
+    "content": "hallucinate mania",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_033225",
+    "content": "halt promotion",
+    "meaning_zh": "停止推广；暂停晋升",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "动宾搭配"
+  },
+  {
+    "item_code": "w_033231",
+    "content": "ham glory gauze",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串噪声"
+  },
+  {
+    "item_code": "w_033232",
+    "content": "ham sausage",
+    "meaning_zh": "火腿肠",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见食品名"
+  },
+  {
+    "item_code": "w_033241",
+    "content": "hammer in a nail",
+    "meaning_zh": "把钉子锤进去",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动作短语"
+  },
+  {
+    "item_code": "w_033245",
+    "content": "hammerage",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常罕见或噪声"
+  },
+  {
+    "item_code": "w_033254",
+    "content": "Han Buddhism",
+    "meaning_zh": "汉传佛教",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "宗教文化术语"
+  },
+  {
+    "item_code": "w_033264",
+    "content": "hand in hand with",
+    "meaning_zh": "与……密切相关；与……相伴发生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持搭配义"
+  },
+  {
+    "item_code": "w_033265",
+    "content": "hand in homework",
+    "meaning_zh": "交作业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见校园表达"
+  },
+  {
+    "item_code": "w_033269",
+    "content": "hand right handed",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词序异常噪声"
+  },
+  {
+    "item_code": "w_033272",
+    "content": "hand someone over",
+    "meaning_zh": "把某人交出；移交某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词"
+  },
+  {
+    "item_code": "w_033273",
+    "content": "hand something over",
+    "meaning_zh": "把某物交出；移交某物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_059041",
+    "content": "purchase foreign currency",
+    "meaning_zh": "购买外币",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见金融搭配"
+  },
+  {
+    "item_code": "w_059045",
+    "content": "purchase tickets online",
+    "meaning_zh": "在线购票",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见购票表达"
+  },
+  {
+    "item_code": "w_059048",
+    "content": "purchasing habits of customers",
+    "meaning_zh": "顾客的购买习惯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商业英语常见表达"
+  },
+  {
+    "item_code": "w_059051",
+    "content": "purchasing power of customers",
+    "meaning_zh": "顾客的购买力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济商业常见表达"
+  },
+  {
+    "item_code": "w_059056",
+    "content": "pure function",
+    "meaning_zh": "纯函数",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_059057",
+    "content": "pure lobby talk",
+    "meaning_zh": "纯粹的游说言论；空洞说辞",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作整体表达理解"
+  },
+  {
+    "item_code": "w_059063",
+    "content": "pureland coward",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_059065",
+    "content": "purer preoccupation purear",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_059074",
+    "content": "purify dismissal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_059082",
+    "content": "purity pittance",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无明确学习价值"
+  },
+  {
+    "item_code": "w_059088",
+    "content": "purple violet",
+    "meaning_zh": "紫罗兰色；紫色",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "颜色相关表达"
+  },
+  {
+    "item_code": "w_059094",
+    "content": "purpose approve",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无自然搭配含义"
+  },
+  {
+    "item_code": "w_059110",
+    "content": "pursue a Bachelor's degree",
+    "meaning_zh": "攻读学士学位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教育搭配"
+  },
+  {
+    "item_code": "w_059111",
+    "content": "pursue a goal",
+    "meaning_zh": "追求目标；努力实现目标",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_059112",
+    "content": "pursue luxuries",
+    "meaning_zh": "追求奢侈品；追求奢华",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见价值观表达"
+  },
+  {
+    "item_code": "w_059113",
+    "content": "pursue physiology",
+    "meaning_zh": "研究生理学；攻读生理学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "学科搭配可理解"
+  },
+  {
+    "item_code": "w_059117",
+    "content": "pursuit of",
+    "meaning_zh": "对……的追求",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定介词搭配"
+  },
+  {
+    "item_code": "w_059123",
+    "content": "purée",
+    "meaning_zh": "果泥；菜泥；浓汤",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见食物名词"
+  },
+  {
+    "item_code": "w_059127",
+    "content": "push a product",
+    "meaning_zh": "推销产品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "营销语境常见"
+  },
+  {
+    "item_code": "w_059144",
+    "content": "push one's way in",
+    "meaning_zh": "挤进去；硬闯进去",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语表达"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_019717",
+    "content": "dem",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写残片含义不明"
+  },
+  {
+    "item_code": "w_019718",
+    "content": "demacogue",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "疑为demagogue拼写错误"
+  },
+  {
+    "item_code": "w_019728",
+    "content": "demand exceed supply",
+    "meaning_zh": "需求超过供给",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语搭配但语法略误"
+  },
+  {
+    "item_code": "w_019730",
+    "content": "demand information of customers",
+    "meaning_zh": "客户需求信息",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "商务语境常见搭配"
+  },
+  {
+    "item_code": "w_019732",
+    "content": "demand priority from ...",
+    "meaning_zh": "要求从……获得优先权",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "low",
+    "reason": "表达不常见且缺语境"
+  },
+  {
+    "item_code": "w_019735",
+    "content": "demand to do",
+    "meaning_zh": "要求做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词固定用法"
+  },
+  {
+    "item_code": "w_019747",
+    "content": "demented denial",
+    "meaning_zh": "疯狂的否认",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常规搭配价值低"
+  },
+  {
+    "item_code": "w_019750",
+    "content": "demi-fixed",
+    "meaning_zh": "半固定的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "前缀构词可判断"
+  },
+  {
+    "item_code": "w_019766",
+    "content": "democracy movement",
+    "meaning_zh": "民主运动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治常见短语"
+  },
+  {
+    "item_code": "w_019768",
+    "content": "Democrat and Republican",
+    "meaning_zh": "民主党人与共和党人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "美国政治术语"
+  },
+  {
+    "item_code": "w_019770",
+    "content": "democratic act",
+    "meaning_zh": "民主行为；民主法案",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作普通搭配"
+  },
+  {
+    "item_code": "w_019772",
+    "content": "democratic diastole",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合不合常理"
+  },
+  {
+    "item_code": "w_019774",
+    "content": "Democratic Senator",
+    "meaning_zh": "民主党参议员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "美国政治身份称谓"
+  },
+  {
+    "item_code": "w_019778",
+    "content": "democratic theory",
+    "meaning_zh": "民主理论",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治学常见术语"
+  },
+  {
+    "item_code": "w_019799",
+    "content": "demonstrate criticism",
+    "meaning_zh": "表达批评；显示批判态度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "动宾搭配可理解"
+  },
+  {
+    "item_code": "w_019800",
+    "content": "demonstrate inflict breach",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个动词堆叠无可靠含义"
+  },
+  {
+    "item_code": "w_019809",
+    "content": "demoralize remunerate descent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无整体含义"
+  },
+  {
+    "item_code": "w_019811",
+    "content": "demos on street",
+    "meaning_zh": "街头示威",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "demos指示威活动"
+  },
+  {
+    "item_code": "w_019822",
+    "content": "demurage",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "疑为demurrage拼写错误"
+  },
+  {
+    "item_code": "w_019829",
+    "content": "Dena Morin",
+    "meaning_zh": "德娜·莫林",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "人名学习价值低"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_036337",
+    "content": "hypertension nephew triumph potentiate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "多词噪声组合"
+  },
+  {
+    "item_code": "w_036363",
+    "content": "hypnotherapy snap cafeteria",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "多词噪声组合"
+  },
+  {
+    "item_code": "w_036385",
+    "content": "hypocritical trespass",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_036391",
+    "content": "hypofibrinogenamia",
+    "meaning_zh": "低纤维蛋白原血症",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学术语疑似拼写变体"
+  },
+  {
+    "item_code": "w_036413",
+    "content": "hypoplasia tranquilizer synthesis",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "多词噪声组合"
+  },
+  {
+    "item_code": "w_036423",
+    "content": "hypothecate",
+    "meaning_zh": "抵押；以财产作担保",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "GMAT常见法律金融词"
+  },
+  {
+    "item_code": "w_036430",
+    "content": "hypothesize wilt pregnancy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "多词噪声组合"
+  },
+  {
+    "item_code": "w_036433",
+    "content": "hypothetical placid splice",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "多词噪声组合"
+  },
+  {
+    "item_code": "w_036434",
+    "content": "hypothetical prey intensity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "多词噪声组合"
+  },
+  {
+    "item_code": "w_036436",
+    "content": "hypotitis",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_036444",
+    "content": "hyrus",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_036454",
+    "content": "hyvery juggle knob",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "含非词噪声"
+  },
+  {
+    "item_code": "w_036460",
+    "content": "I can't wait!",
+    "meaning_zh": "我等不及了；我很期待",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用口语表达"
+  },
+  {
+    "item_code": "w_036463",
+    "content": "I dare say ...",
+    "meaning_zh": "我敢说；我想大概",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_036465",
+    "content": "I doubt ...",
+    "meaning_zh": "我怀疑……；我不相信……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用句型"
+  },
+  {
+    "item_code": "w_036466",
+    "content": "I feel ...",
+    "meaning_zh": "我觉得……；我感觉……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础句型"
+  },
+  {
+    "item_code": "w_036467",
+    "content": "I feel fine.",
+    "meaning_zh": "我感觉很好",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  },
+  {
+    "item_code": "w_036468",
+    "content": "I feel great!",
+    "meaning_zh": "我感觉棒极了",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用口语表达"
+  },
+  {
+    "item_code": "w_036469",
+    "content": "I feel okay.",
+    "meaning_zh": "我感觉还可以",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用口语表达"
+  },
+  {
+    "item_code": "w_036472",
+    "content": "I have a stomachache.",
+    "meaning_zh": "我肚子疼；我胃痛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  }
+]

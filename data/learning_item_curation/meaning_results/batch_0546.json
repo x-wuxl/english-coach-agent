@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_053095",
+    "content": "overseas shopping representative",
+    "meaning_zh": "海外代购",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见整体搭配"
+  },
+  {
+    "item_code": "w_053099",
+    "content": "overseas tourism",
+    "meaning_zh": "出境旅游；海外旅游",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅游表达"
+  },
+  {
+    "item_code": "w_053101",
+    "content": "overseas traveling expenditure",
+    "meaning_zh": "海外旅行开支；出境旅游支出",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "按搭配整体释义"
+  },
+  {
+    "item_code": "w_053102",
+    "content": "overseas trip",
+    "meaning_zh": "海外旅行；出国旅行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅行搭配"
+  },
+  {
+    "item_code": "w_053103",
+    "content": "overseas TV series",
+    "meaning_zh": "海外电视剧；境外剧集",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见媒体表达"
+  },
+  {
+    "item_code": "w_053104",
+    "content": "overseas-funded enterprises",
+    "meaning_zh": "外资企业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定经济术语"
+  },
+  {
+    "item_code": "w_053118",
+    "content": "overslept",
+    "meaning_zh": "睡过头了",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_053122",
+    "content": "overspin wire",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不常见难判断"
+  },
+  {
+    "item_code": "w_053138",
+    "content": "overt bound",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_053139",
+    "content": "overt politicking",
+    "meaning_zh": "公开的政治活动；公开拉票",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "词义组合清晰"
+  },
+  {
+    "item_code": "w_053144",
+    "content": "overthrow a regime",
+    "meaning_zh": "推翻政权",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政治搭配"
+  },
+  {
+    "item_code": "w_053155",
+    "content": "overture migratory affirm resurgence",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串无明确含义"
+  },
+  {
+    "item_code": "w_053157",
+    "content": "overturn the corruption conviction",
+    "meaning_zh": "推翻腐败定罪；撤销贪腐罪判决",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律搭配明确"
+  },
+  {
+    "item_code": "w_053174",
+    "content": "overwhelmingly significant phase",
+    "meaning_zh": "极其重要的阶段",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解但搭配生硬"
+  },
+  {
+    "item_code": "w_053177",
+    "content": "overwintering aggregation",
+    "meaning_zh": "越冬聚集；越冬群集",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态术语明确"
+  },
+  {
+    "item_code": "w_053180",
+    "content": "overwrite",
+    "meaning_zh": "覆盖写入；重写",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用词"
+  },
+  {
+    "item_code": "w_053182",
+    "content": "overwrought tycoon",
+    "meaning_zh": "过度紧张的商业大亨",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "词义可组合"
+  },
+  {
+    "item_code": "w_053184",
+    "content": "ovetime",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_053193",
+    "content": "owe ... a spite",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "表达不常见难判断"
+  },
+  {
+    "item_code": "w_053196",
+    "content": "owe A to B",
+    "meaning_zh": "把A归功于B；将A归因于B",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型明确"
+  }
+]

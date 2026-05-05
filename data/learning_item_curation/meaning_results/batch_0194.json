@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_017996",
+    "content": "critical minority",
+    "meaning_zh": "关键少数；批判性少数群体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见搭配但语境不足"
+  },
+  {
+    "item_code": "w_018006",
+    "content": "criticise sb. for sth.",
+    "meaning_zh": "因某事批评某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词搭配"
+  },
+  {
+    "item_code": "w_018007",
+    "content": "criticise sth. for sth.",
+    "meaning_zh": "因某方面批评某事物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词搭配"
+  },
+  {
+    "item_code": "w_018010",
+    "content": "criticize multitude",
+    "meaning_zh": "批评大众",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_018017",
+    "content": "croak crunch",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_018026",
+    "content": "crocodile cruise",
+    "meaning_zh": "鳄鱼观光游船",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "旅游活动搭配"
+  },
+  {
+    "item_code": "w_018032",
+    "content": "crona",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_018038",
+    "content": "crooked argumentation",
+    "meaning_zh": "歪曲的论证；不正当的辩论",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义可推断"
+  },
+  {
+    "item_code": "w_018060",
+    "content": "cross passage",
+    "meaning_zh": "横向通道；连接通道",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专业场景搭配"
+  },
+  {
+    "item_code": "w_018065",
+    "content": "cross the street",
+    "meaning_zh": "过马路；穿过街道",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_018067",
+    "content": "cross-border e-commerce site",
+    "meaning_zh": "跨境电商网站",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常用表达"
+  },
+  {
+    "item_code": "w_018068",
+    "content": "cross-border online shopping",
+    "meaning_zh": "跨境网购",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常用表达"
+  },
+  {
+    "item_code": "w_018069",
+    "content": "cross-border settlement",
+    "meaning_zh": "跨境结算",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融常用术语"
+  },
+  {
+    "item_code": "w_018070",
+    "content": "cross-border trade settlement",
+    "meaning_zh": "跨境贸易结算",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融贸易术语"
+  },
+  {
+    "item_code": "w_018071",
+    "content": "cross-border transaction",
+    "meaning_zh": "跨境交易",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常用术语"
+  },
+  {
+    "item_code": "w_018079",
+    "content": "cross-cultural exchange",
+    "meaning_zh": "跨文化交流",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常用表达"
+  },
+  {
+    "item_code": "w_018080",
+    "content": "cross-cultural interaction",
+    "meaning_zh": "跨文化互动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常用表达"
+  },
+  {
+    "item_code": "w_018116",
+    "content": "crossing roads",
+    "meaning_zh": "横穿马路；道路交叉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作动作或名词短语"
+  },
+  {
+    "item_code": "w_018123",
+    "content": "crossroads warranty",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_018126",
+    "content": "crosswalk underpass path",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无明确含义"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_076326",
+    "content": "trigger a war",
+    "meaning_zh": "引发战争",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_076327",
+    "content": "trigger boycott",
+    "meaning_zh": "引发抵制",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配略省略冠词"
+  },
+  {
+    "item_code": "w_076328",
+    "content": "trigger chemical",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_076329",
+    "content": "trigger chemicals",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_076339",
+    "content": "trillion yuan",
+    "meaning_zh": "万亿元",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金额表达"
+  },
+  {
+    "item_code": "w_076355",
+    "content": "triolic",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_076360",
+    "content": "trip someone up",
+    "meaning_zh": "使某人绊倒；使某人出错",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词"
+  },
+  {
+    "item_code": "w_076366",
+    "content": "tripion",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_076368",
+    "content": "triple figures",
+    "meaning_zh": "三位数",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见数量表达"
+  },
+  {
+    "item_code": "w_076369",
+    "content": "triple-quoted string",
+    "meaning_zh": "三引号字符串",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程术语"
+  },
+  {
+    "item_code": "w_076376",
+    "content": "tripune dove",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_076380",
+    "content": "trist",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "罕见或拼写异常"
+  },
+  {
+    "item_code": "w_076382",
+    "content": "trite punctilious",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组语义不成立"
+  },
+  {
+    "item_code": "w_076392",
+    "content": "triuphant",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似triumphant误拼"
+  },
+  {
+    "item_code": "w_076396",
+    "content": "trivial mistake",
+    "meaning_zh": "小错误；无关紧要的错误",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_076397",
+    "content": "trivial tot",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_076407",
+    "content": "trolley label checkout cashier",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠非词条"
+  },
+  {
+    "item_code": "w_076412",
+    "content": "tronche",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似tranche误拼"
+  },
+  {
+    "item_code": "w_076414",
+    "content": "troop cute",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_076415",
+    "content": "troop deployment and intelligence",
+    "meaning_zh": "军队部署和情报",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "军事主题搭配"
+  }
+]

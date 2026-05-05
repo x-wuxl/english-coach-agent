@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_067744",
+    "content": "social and biological factors",
+    "meaning_zh": "社会和生物因素",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "明显名词短语"
+  },
+  {
+    "item_code": "w_067745",
+    "content": "social and medical care",
+    "meaning_zh": "社会和医疗护理",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医疗社会领域搭配"
+  },
+  {
+    "item_code": "w_067750",
+    "content": "social calendar",
+    "meaning_zh": "社交日程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_067751",
+    "content": "social care services",
+    "meaning_zh": "社会护理服务；社会照护服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "公共服务常用语"
+  },
+  {
+    "item_code": "w_067753",
+    "content": "social civilization",
+    "meaning_zh": "社会文明",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术类名词短语"
+  },
+  {
+    "item_code": "w_067757",
+    "content": "social consequences",
+    "meaning_zh": "社会后果；社会影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_067759",
+    "content": "social credit system",
+    "meaning_zh": "社会信用体系",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定术语"
+  },
+  {
+    "item_code": "w_067760",
+    "content": "social cure",
+    "meaning_zh": "社会疗法；社会性解决方案",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配少见但可判断"
+  },
+  {
+    "item_code": "w_067761",
+    "content": "social disorder",
+    "meaning_zh": "社会混乱；社会失序",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "社会学常见表达"
+  },
+  {
+    "item_code": "w_067762",
+    "content": "social distinction",
+    "meaning_zh": "社会差别；社会身份差异",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "社会学常见概念"
+  },
+  {
+    "item_code": "w_067763",
+    "content": "social effect",
+    "meaning_zh": "社会效应；社会影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_067764",
+    "content": "social emotion",
+    "meaning_zh": "社会情绪；社交情感",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "心理学相关搭配"
+  },
+  {
+    "item_code": "w_067766",
+    "content": "social epidemics",
+    "meaning_zh": "社会性流行现象；社会流行病",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "比喻性社会概念"
+  },
+  {
+    "item_code": "w_067771",
+    "content": "social glue",
+    "meaning_zh": "社会凝聚力；维系社会的纽带",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见比喻表达"
+  },
+  {
+    "item_code": "w_067774",
+    "content": "social index",
+    "meaning_zh": "社会指数；社会指标",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "统计社会领域术语"
+  },
+  {
+    "item_code": "w_067775",
+    "content": "social individual status",
+    "meaning_zh": "个人社会地位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配生硬但可判断"
+  },
+  {
+    "item_code": "w_067778",
+    "content": "social instability",
+    "meaning_zh": "社会不稳定",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会议题表达"
+  },
+  {
+    "item_code": "w_067794",
+    "content": "social policy decisions",
+    "meaning_zh": "社会政策决策",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策领域名词短语"
+  },
+  {
+    "item_code": "w_067796",
+    "content": "social recognition",
+    "meaning_zh": "社会认可；社会承认",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象名词搭配"
+  },
+  {
+    "item_code": "w_067798",
+    "content": "social rule",
+    "meaning_zh": "社会规则；社交规则",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见规则类表达"
+  }
+]

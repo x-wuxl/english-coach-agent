@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_040781",
+    "content": "job alert system",
+    "meaning_zh": "职位提醒系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见求职搭配"
+  },
+  {
+    "item_code": "w_040784",
+    "content": "job attitude",
+    "meaning_zh": "工作态度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职场表达"
+  },
+  {
+    "item_code": "w_040796",
+    "content": "job losses mount",
+    "meaning_zh": "失业人数不断增加",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "新闻常见表达"
+  },
+  {
+    "item_code": "w_040802",
+    "content": "job prospects",
+    "meaning_zh": "就业前景",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教育就业词组"
+  },
+  {
+    "item_code": "w_040807",
+    "content": "job search counselor",
+    "meaning_zh": "求职顾问",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "求职场景职业称谓"
+  },
+  {
+    "item_code": "w_040813",
+    "content": "job training programs",
+    "meaning_zh": "职业培训项目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职教搭配"
+  },
+  {
+    "item_code": "w_040820",
+    "content": "job-search techniques",
+    "meaning_zh": "求职技巧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "连字符求职搭配"
+  },
+  {
+    "item_code": "w_040827",
+    "content": "jobs gap",
+    "meaning_zh": "就业岗位缺口",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "经济就业术语"
+  },
+  {
+    "item_code": "w_040835",
+    "content": "jocular dependable",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无固定搭配疑似噪声"
+  },
+  {
+    "item_code": "w_040838",
+    "content": "Jody Williams",
+    "meaning_zh": "乔迪·威廉姆斯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人名专有名词"
+  },
+  {
+    "item_code": "w_040843",
+    "content": "jog diabolic",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无固定搭配疑似噪声"
+  },
+  {
+    "item_code": "w_040844",
+    "content": "jog somebody's memory",
+    "meaning_zh": "唤起某人的记忆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_040848",
+    "content": "Johann Webber",
+    "meaning_zh": "约翰·韦伯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "人名专有名词"
+  },
+  {
+    "item_code": "w_040851",
+    "content": "John A. Logan",
+    "meaning_zh": "约翰·A·洛根",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人名专有名词"
+  },
+  {
+    "item_code": "w_040852",
+    "content": "John Kennedy",
+    "meaning_zh": "约翰·肯尼迪",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人名专有名词"
+  },
+  {
+    "item_code": "w_040854",
+    "content": "John Mayer",
+    "meaning_zh": "约翰·梅尔",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人名专有名词"
+  },
+  {
+    "item_code": "w_040856",
+    "content": "johnson",
+    "meaning_zh": "约翰逊",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句均为姓氏"
+  },
+  {
+    "item_code": "w_040859",
+    "content": "join alcove auditorium",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词语拼接疑似噪声"
+  },
+  {
+    "item_code": "w_040860",
+    "content": "join clubs",
+    "meaning_zh": "参加俱乐部",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见校园表达"
+  },
+  {
+    "item_code": "w_040863",
+    "content": "join grab",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无固定搭配疑似噪声"
+  }
+]

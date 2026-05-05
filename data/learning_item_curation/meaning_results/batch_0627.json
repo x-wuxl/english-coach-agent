@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_061537",
+    "content": "removal of player",
+    "meaning_zh": "球员被移出比赛；球员被罚下",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "体育语境搭配"
+  },
+  {
+    "item_code": "w_061538",
+    "content": "removals van",
+    "meaning_zh": "搬家货车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "英式常见表达"
+  },
+  {
+    "item_code": "w_061542",
+    "content": "remove impurities from",
+    "meaning_zh": "去除……中的杂质",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动宾搭配"
+  },
+  {
+    "item_code": "w_061548",
+    "content": "removing protective umbrellas",
+    "meaning_zh": "取消保护伞；移除保护机制",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "比喻义较常见"
+  },
+  {
+    "item_code": "w_061552",
+    "content": "rena",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似人名或噪声"
+  },
+  {
+    "item_code": "w_061557",
+    "content": "renal lavatory flush respiration",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串明显噪声"
+  },
+  {
+    "item_code": "w_061567",
+    "content": "rending",
+    "meaning_zh": "撕裂；使痛苦",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "rend的现在分词"
+  },
+  {
+    "item_code": "w_061574",
+    "content": "renew contract",
+    "meaning_zh": "续签合同",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商务搭配"
+  },
+  {
+    "item_code": "w_061575",
+    "content": "renew one's visa",
+    "meaning_zh": "续签签证",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见留学表达"
+  },
+  {
+    "item_code": "w_061577",
+    "content": "renewable and sustainable resource",
+    "meaning_zh": "可再生且可持续的资源",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保主题搭配"
+  },
+  {
+    "item_code": "w_061578",
+    "content": "renewable raw materials",
+    "meaning_zh": "可再生原材料",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保工业搭配"
+  },
+  {
+    "item_code": "w_061583",
+    "content": "renig",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_061594",
+    "content": "renovate asset commission",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配明显异常"
+  },
+  {
+    "item_code": "w_061595",
+    "content": "renovate enemy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配明显异常"
+  },
+  {
+    "item_code": "w_061598",
+    "content": "renovation of shanty towns",
+    "meaning_zh": "棚户区改造",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策类常见表达"
+  },
+  {
+    "item_code": "w_061601",
+    "content": "renowned trademark",
+    "meaning_zh": "驰名商标；知名商标",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律商务搭配"
+  },
+  {
+    "item_code": "w_061604",
+    "content": "rent-seeking society",
+    "meaning_zh": "寻租型社会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济学术语"
+  },
+  {
+    "item_code": "w_061620",
+    "content": "reoriente",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_061622",
+    "content": "reorients",
+    "meaning_zh": "重新调整方向；重新定位",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "reorient的三单"
+  },
+  {
+    "item_code": "w_061628",
+    "content": "repaint the kitchen",
+    "meaning_zh": "重新粉刷厨房",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "日常动作搭配"
+  }
+]

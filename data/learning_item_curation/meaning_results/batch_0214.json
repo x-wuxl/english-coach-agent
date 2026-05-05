@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_020188",
+    "content": "desire to do",
+    "meaning_zh": "渴望做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_020197",
+    "content": "desk-cycle",
+    "meaning_zh": "桌下健身车；办公桌脚踏车",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "复合名词"
+  },
+  {
+    "item_code": "w_020204",
+    "content": "desoc",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似缩写残片"
+  },
+  {
+    "item_code": "w_020206",
+    "content": "desolate turgid",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无固定搭配意义"
+  },
+  {
+    "item_code": "w_020208",
+    "content": "desoliter hush",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含疑似拼写错误"
+  },
+  {
+    "item_code": "w_020210",
+    "content": "despair at",
+    "meaning_zh": "对……感到绝望；因……失望",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词搭配"
+  },
+  {
+    "item_code": "w_020216",
+    "content": "desperate recumbent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无固定搭配意义"
+  },
+  {
+    "item_code": "w_020220",
+    "content": "despicable concatenate grudge entrap",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "多个词杂糅"
+  },
+  {
+    "item_code": "w_020233",
+    "content": "despotic anecdote",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无固定搭配意义"
+  },
+  {
+    "item_code": "w_020244",
+    "content": "destin",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似截断或专名"
+  },
+  {
+    "item_code": "w_020245",
+    "content": "destin butcher boast",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "多个词杂糅"
+  },
+  {
+    "item_code": "w_020247",
+    "content": "destination repress",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无固定搭配意义"
+  },
+  {
+    "item_code": "w_020250",
+    "content": "destined to do sth.",
+    "meaning_zh": "注定要做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_020253",
+    "content": "destitute neighborhood",
+    "meaning_zh": "贫困社区；贫民区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_020254",
+    "content": "destitute potentiality",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_020263",
+    "content": "destruction of forests",
+    "meaning_zh": "森林破坏；毁林",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环境主题常见表达"
+  },
+  {
+    "item_code": "w_020264",
+    "content": "destruction of natural habitats",
+    "meaning_zh": "自然栖息地的破坏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环境主题常见表达"
+  },
+  {
+    "item_code": "w_020266",
+    "content": "destructive and disastrous earthquake",
+    "meaning_zh": "破坏性极强的灾难性地震",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "灾害描述短语"
+  },
+  {
+    "item_code": "w_020267",
+    "content": "destructive consequences",
+    "meaning_zh": "破坏性后果；毁灭性影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_020271",
+    "content": "desultory murky overlap warp",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "多个词杂糅"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_073533",
+    "content": "That's too bad.",
+    "meaning_zh": "太可惜了；太糟糕了",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定口语表达"
+  },
+  {
+    "item_code": "w_073538",
+    "content": "the 1992 Consensus",
+    "meaning_zh": "九二共识",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治专有名词"
+  },
+  {
+    "item_code": "w_073539",
+    "content": "The 24 Solar Terms",
+    "meaning_zh": "二十四节气",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文化专有名词"
+  },
+  {
+    "item_code": "w_073540",
+    "content": "the 3+3 Initiative",
+    "meaning_zh": "3+3倡议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有倡议名，例句不匹配"
+  },
+  {
+    "item_code": "w_073541",
+    "content": "the 60s",
+    "meaning_zh": "60年代",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "年代表达"
+  },
+  {
+    "item_code": "w_073542",
+    "content": "the 7th Ring Road",
+    "meaning_zh": "第七环路",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "道路名称表达"
+  },
+  {
+    "item_code": "w_073543",
+    "content": "the ability for sth.",
+    "meaning_zh": "做某事的能力；对某事的能力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "能力搭配表达"
+  },
+  {
+    "item_code": "w_073544",
+    "content": "the above-mentioned phenomenon",
+    "meaning_zh": "上述现象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术写作常用表达"
+  },
+  {
+    "item_code": "w_073545",
+    "content": "the academic community",
+    "meaning_zh": "学术界",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_073546",
+    "content": "the accuracy of scales",
+    "meaning_zh": "秤的准确性；量表的准确性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "scales有多种含义"
+  },
+  {
+    "item_code": "w_073552",
+    "content": "the aging process",
+    "meaning_zh": "衰老过程；老化过程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生物学表达"
+  },
+  {
+    "item_code": "w_073555",
+    "content": "the Amazon rainforest",
+    "meaning_zh": "亚马孙雨林",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地理专有名词"
+  },
+  {
+    "item_code": "w_073556",
+    "content": "the Amazon River",
+    "meaning_zh": "亚马孙河",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地理专有名词"
+  },
+  {
+    "item_code": "w_073557",
+    "content": "the American Bar Association",
+    "meaning_zh": "美国律师协会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "机构专有名词"
+  },
+  {
+    "item_code": "w_073561",
+    "content": "the Andes mountains",
+    "meaning_zh": "安第斯山脉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地理专有名词"
+  },
+  {
+    "item_code": "w_073562",
+    "content": "the annual Peony Festival",
+    "meaning_zh": "一年一度的牡丹节",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "节庆活动表达"
+  },
+  {
+    "item_code": "w_073565",
+    "content": "the Antarctic Pole",
+    "meaning_zh": "南极",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "较少见地理说法"
+  },
+  {
+    "item_code": "w_073566",
+    "content": "the Anti-Japanese War",
+    "meaning_zh": "抗日战争",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "历史专有名词"
+  },
+  {
+    "item_code": "w_073570",
+    "content": "the Arctic Pole",
+    "meaning_zh": "北极",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "较少见地理说法"
+  },
+  {
+    "item_code": "w_073571",
+    "content": "the Arctic shipping routes",
+    "meaning_zh": "北极航线",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "航运地理表达"
+  }
+]

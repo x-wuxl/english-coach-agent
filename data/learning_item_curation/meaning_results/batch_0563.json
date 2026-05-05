@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_054936",
+    "content": "personal fascination",
+    "meaning_zh": "个人兴趣；个人迷恋",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_054937",
+    "content": "personal finances",
+    "meaning_zh": "个人财务；个人理财",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_054938",
+    "content": "personal fitness",
+    "meaning_zh": "个人健身；个人体能",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "健身主题常见搭配"
+  },
+  {
+    "item_code": "w_054940",
+    "content": "personal hygiene practice",
+    "meaning_zh": "个人卫生习惯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "卫生主题固定搭配"
+  },
+  {
+    "item_code": "w_054945",
+    "content": "personal lives",
+    "meaning_zh": "个人生活；私生活",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见复数表达"
+  },
+  {
+    "item_code": "w_054950",
+    "content": "personal possessions",
+    "meaning_zh": "个人物品；私人财物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见财物表达"
+  },
+  {
+    "item_code": "w_054955",
+    "content": "personal skills",
+    "meaning_zh": "个人技能；个人能力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育求职常见搭配"
+  },
+  {
+    "item_code": "w_054956",
+    "content": "personal specialty",
+    "meaning_zh": "个人专长；个人特长",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见能力表达"
+  },
+  {
+    "item_code": "w_054970",
+    "content": "personalized license plate",
+    "meaning_zh": "个性化车牌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "明确名词短语"
+  },
+  {
+    "item_code": "w_054979",
+    "content": "personify interpretation",
+    "meaning_zh": "拟人化解读",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配生硬但可理解"
+  },
+  {
+    "item_code": "w_054986",
+    "content": "perspective clarity",
+    "meaning_zh": "视角清晰度；观点清晰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "抽象搭配可理解"
+  },
+  {
+    "item_code": "w_054987",
+    "content": "perspective contiguous dissolve",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_054988",
+    "content": "Perspective flow",
+    "meaning_zh": "视角流动；观点流动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "抽象表达可理解"
+  },
+  {
+    "item_code": "w_054991",
+    "content": "perspications",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_054993",
+    "content": "perspicuity epic languid",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌无明确义"
+  },
+  {
+    "item_code": "w_055002",
+    "content": "persuade sb. into doing",
+    "meaning_zh": "说服某人做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词搭配"
+  },
+  {
+    "item_code": "w_055006",
+    "content": "persuade sb. to do",
+    "meaning_zh": "说服某人做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词搭配"
+  },
+  {
+    "item_code": "w_055010",
+    "content": "persuasive skills",
+    "meaning_zh": "说服技巧；劝说能力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见能力搭配"
+  },
+  {
+    "item_code": "w_055014",
+    "content": "pertain agonize",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "动词堆砌无明确义"
+  },
+  {
+    "item_code": "w_055015",
+    "content": "pertain eclipse sterilize",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌无明确义"
+  }
+]

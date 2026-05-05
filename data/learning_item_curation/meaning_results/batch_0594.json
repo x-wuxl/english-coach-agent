@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_058251",
+    "content": "promote cultural development",
+    "meaning_zh": "促进文化发展",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_058252",
+    "content": "promote cultural development positively",
+    "meaning_zh": "积极促进文化发展",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_058253",
+    "content": "promote friendly relationships",
+    "meaning_zh": "促进友好关系",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_058254",
+    "content": "promote products",
+    "meaning_zh": "推广产品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常见搭配"
+  },
+  {
+    "item_code": "w_058256",
+    "content": "promote sustainable development",
+    "meaning_zh": "促进可持续发展",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "高频议题表达"
+  },
+  {
+    "item_code": "w_058257",
+    "content": "promote the products",
+    "meaning_zh": "推广这些产品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常见搭配"
+  },
+  {
+    "item_code": "w_058260",
+    "content": "promote equality in education",
+    "meaning_zh": "促进教育公平",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育话题常见表达"
+  },
+  {
+    "item_code": "w_058263",
+    "content": "promotion channel",
+    "meaning_zh": "推广渠道；晋升渠道",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "无语境义项有歧义"
+  },
+  {
+    "item_code": "w_058267",
+    "content": "promotional activity",
+    "meaning_zh": "促销活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常见表达"
+  },
+  {
+    "item_code": "w_058272",
+    "content": "prompt competitive",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_058273",
+    "content": "prompt complimentary",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_058279",
+    "content": "promulgate a law",
+    "meaning_zh": "颁布法律",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律常见搭配"
+  },
+  {
+    "item_code": "w_058295",
+    "content": "proof apart",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_058301",
+    "content": "proofreed",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_058302",
+    "content": "proofreed wave",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_058305",
+    "content": "prop designer",
+    "meaning_zh": "道具设计师",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职业名称"
+  },
+  {
+    "item_code": "w_058315",
+    "content": "propagate harry",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不明且疑似噪声"
+  },
+  {
+    "item_code": "w_058320",
+    "content": "propel domestic demand",
+    "meaning_zh": "推动国内需求",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济话题常见搭配"
+  },
+  {
+    "item_code": "w_058332",
+    "content": "proper repeat consignment",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_058334",
+    "content": "proper training",
+    "meaning_zh": "适当的培训；正规训练",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  }
+]

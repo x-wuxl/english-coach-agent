@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_079302",
+    "content": "viewing shelter",
+    "meaning_zh": "观景棚；观察掩蔽棚",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定搭配，无例句"
+  },
+  {
+    "item_code": "w_079304",
+    "content": "views",
+    "meaning_zh": "看法；观点；景色",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指看法观点"
+  },
+  {
+    "item_code": "w_079308",
+    "content": "vigilant lear",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_079311",
+    "content": "vigo",
+    "meaning_zh": "维哥（西班牙城市）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见地名"
+  },
+  {
+    "item_code": "w_079314",
+    "content": "vigorous fake palpable dottle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无 coherent 含义"
+  },
+  {
+    "item_code": "w_079319",
+    "content": "vile dairy shift",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似随机词组"
+  },
+  {
+    "item_code": "w_079320",
+    "content": "vile engender rakish",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似随机词组"
+  },
+  {
+    "item_code": "w_079321",
+    "content": "vilifi",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "拼写残缺"
+  },
+  {
+    "item_code": "w_079324",
+    "content": "villa entitlement",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  },
+  {
+    "item_code": "w_079330",
+    "content": "villainus",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_079332",
+    "content": "villas",
+    "meaning_zh": "别墅；度假屋",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "villa复数形式"
+  },
+  {
+    "item_code": "w_079352",
+    "content": "vintage vintner vodka",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串"
+  },
+  {
+    "item_code": "w_079357",
+    "content": "violate public regulations",
+    "meaning_zh": "违反公共规定",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_079358",
+    "content": "violate the constitution",
+    "meaning_zh": "违反宪法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见法律搭配"
+  },
+  {
+    "item_code": "w_079359",
+    "content": "violate the laws",
+    "meaning_zh": "违法；违反法律",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_079360",
+    "content": "violate the traffic rules",
+    "meaning_zh": "违反交通规则",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_079366",
+    "content": "violent headache",
+    "meaning_zh": "剧烈头痛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "violent表剧烈"
+  },
+  {
+    "item_code": "w_079367",
+    "content": "violent means",
+    "meaning_zh": "暴力手段",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_079368",
+    "content": "violent stroll deteriorate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似随机词组"
+  },
+  {
+    "item_code": "w_079376",
+    "content": "VIP class",
+    "meaning_zh": "贵宾班；高级班",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见课程称呼"
+  }
+]

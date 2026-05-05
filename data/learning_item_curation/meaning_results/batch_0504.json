@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_048789",
+    "content": "mustard antibiotic louse",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无稳定含义"
+  },
+  {
+    "item_code": "w_048790",
+    "content": "mustard vinegar",
+    "meaning_zh": "芥末醋",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见调味品搭配"
+  },
+  {
+    "item_code": "w_048805",
+    "content": "mutate nader",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_048809",
+    "content": "mutator method",
+    "meaning_zh": "修改器方法；变值方法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_048811",
+    "content": "mute misfortune",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配"
+  },
+  {
+    "item_code": "w_048824",
+    "content": "mutton oyster pickle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "食物词堆叠"
+  },
+  {
+    "item_code": "w_048829",
+    "content": "mutual deception",
+    "meaning_zh": "相互欺骗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "整体含义明确"
+  },
+  {
+    "item_code": "w_048833",
+    "content": "mutual meeting",
+    "meaning_zh": "双方会面；相互会见",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义可判断"
+  },
+  {
+    "item_code": "w_048834",
+    "content": "mutual property",
+    "meaning_zh": "共有财产",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见法律表达"
+  },
+  {
+    "item_code": "w_048839",
+    "content": "mutual-fund asset",
+    "meaning_zh": "共同基金资产",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融术语"
+  },
+  {
+    "item_code": "w_048853",
+    "content": "My goodness!",
+    "meaning_zh": "天哪！；哎呀！",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见感叹语"
+  },
+  {
+    "item_code": "w_048902",
+    "content": "myopia compass",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_048903",
+    "content": "myopia myopic nausea nauseate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词汇串联噪声"
+  },
+  {
+    "item_code": "w_048905",
+    "content": "myopic eyes",
+    "meaning_zh": "近视眼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见医学表达"
+  },
+  {
+    "item_code": "w_048910",
+    "content": "myriad bore",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_048921",
+    "content": "mystery of nature",
+    "meaning_zh": "自然之谜",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_048931",
+    "content": "mythical figure",
+    "meaning_zh": "神话人物；虚构人物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_048941",
+    "content": "mélange",
+    "meaning_zh": "混合物；杂烩",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见外来词"
+  },
+  {
+    "item_code": "w_048942",
+    "content": "métier",
+    "meaning_zh": "专长；职业",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见外来词"
+  },
+  {
+    "item_code": "w_048945",
+    "content": "n-sided polygon",
+    "meaning_zh": "n边形",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "数学术语"
+  }
+]

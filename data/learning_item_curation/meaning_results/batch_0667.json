@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_065790",
+    "content": "sewage thrift",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_065802",
+    "content": "sex trade crackdown",
+    "meaning_zh": "打击性交易；扫黄行动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见新闻表达"
+  },
+  {
+    "item_code": "w_065806",
+    "content": "seximally",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_065816",
+    "content": "sexual pleasure",
+    "meaning_zh": "性快感；性愉悦",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定名词短语"
+  },
+  {
+    "item_code": "w_065820",
+    "content": "sexually partner",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似错误搭配"
+  },
+  {
+    "item_code": "w_065821",
+    "content": "sexually suggestive ad",
+    "meaning_zh": "带性暗示的广告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "整体含义明确"
+  },
+  {
+    "item_code": "w_065823",
+    "content": "sexy overweight",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_065824",
+    "content": "señor",
+    "meaning_zh": "先生",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "西语称谓借词"
+  },
+  {
+    "item_code": "w_065825",
+    "content": "señora",
+    "meaning_zh": "夫人；女士",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "西语称谓借词"
+  },
+  {
+    "item_code": "w_065826",
+    "content": "señorita",
+    "meaning_zh": "小姐；年轻未婚女子",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "西语称谓借词"
+  },
+  {
+    "item_code": "w_065830",
+    "content": "Shaanxi Opera",
+    "meaning_zh": "秦腔；陕西戏曲",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有文化名词"
+  },
+  {
+    "item_code": "w_065834",
+    "content": "shabby dandruff",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_065837",
+    "content": "shackle underscore",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_065842",
+    "content": "shade light on",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "应为shed light on"
+  },
+  {
+    "item_code": "w_065843",
+    "content": "shade light upon",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "应为shed light upon"
+  },
+  {
+    "item_code": "w_065844",
+    "content": "shade sharpener",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_065849",
+    "content": "shadi",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义无法可靠判断"
+  },
+  {
+    "item_code": "w_065852",
+    "content": "shadow dirth anathema",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词串"
+  },
+  {
+    "item_code": "w_065858",
+    "content": "shady circumscripe",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含拼写错误"
+  },
+  {
+    "item_code": "w_065865",
+    "content": "shake a conviction",
+    "meaning_zh": "动摇信念",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按常见搭配判断"
+  }
+]

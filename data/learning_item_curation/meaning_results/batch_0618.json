@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_060632",
+    "content": "reckon to be",
+    "meaning_zh": "认为是；估计为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_060649",
+    "content": "recognise ... as",
+    "meaning_zh": "承认……为；认可……是",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_060650",
+    "content": "recognise ... as ...",
+    "meaning_zh": "承认……为；认可……是",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_060662",
+    "content": "recoinage cycle",
+    "meaning_zh": "重新铸币周期；货币重铸周期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "术语含义可推断"
+  },
+  {
+    "item_code": "w_060668",
+    "content": "recombination formula",
+    "meaning_zh": "重组公式；复合公式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术术语"
+  },
+  {
+    "item_code": "w_060675",
+    "content": "recommend mild",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_060683",
+    "content": "recommended book",
+    "meaning_zh": "推荐书目；推荐读物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_060689",
+    "content": "reconcile disposition",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词汇噪声"
+  },
+  {
+    "item_code": "w_060691",
+    "content": "reconcile tamper pragmatic",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无有效短语含义"
+  },
+  {
+    "item_code": "w_060692",
+    "content": "reconcile to",
+    "meaning_zh": "使接受；甘心接受",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_060706",
+    "content": "reconstitute prestige",
+    "meaning_zh": "重建声望；恢复威望",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配含义可推断"
+  },
+  {
+    "item_code": "w_060709",
+    "content": "reconstruct reconstruction",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词形堆叠噪声"
+  },
+  {
+    "item_code": "w_060711",
+    "content": "reconstruction project",
+    "meaning_zh": "重建项目；改造工程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_060715",
+    "content": "record card",
+    "meaning_zh": "记录卡；档案卡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_060717",
+    "content": "record loser competition",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无有效短语含义"
+  },
+  {
+    "item_code": "w_060721",
+    "content": "record the whole process",
+    "meaning_zh": "记录全过程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_060734",
+    "content": "recover distrustful autograph",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词汇噪声"
+  },
+  {
+    "item_code": "w_060736",
+    "content": "recover recovery",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词形堆叠噪声"
+  },
+  {
+    "item_code": "w_060745",
+    "content": "recreation officer",
+    "meaning_zh": "文体活动负责人；娱乐活动管理员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职位类短语"
+  },
+  {
+    "item_code": "w_060750",
+    "content": "recreational facility",
+    "meaning_zh": "娱乐设施；休闲设施",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  }
+]

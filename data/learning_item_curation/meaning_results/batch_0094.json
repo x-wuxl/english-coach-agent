@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_007866",
+    "content": "be pierced by",
+    "meaning_zh": "被……刺穿；被……穿透",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定被动搭配"
+  },
+  {
+    "item_code": "w_007867",
+    "content": "be pitted against",
+    "meaning_zh": "被安排与……竞争；与……对抗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_007868",
+    "content": "be pleased about",
+    "meaning_zh": "对……感到高兴；对……满意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见情感搭配"
+  },
+  {
+    "item_code": "w_007874",
+    "content": "be poised to do",
+    "meaning_zh": "准备好做；即将做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "高频书面搭配"
+  },
+  {
+    "item_code": "w_007875",
+    "content": "be poking",
+    "meaning_zh": "正在戳；正在探出",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缺少具体语境"
+  },
+  {
+    "item_code": "w_007876",
+    "content": "be polite to sb.",
+    "meaning_zh": "对某人有礼貌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础固定搭配"
+  },
+  {
+    "item_code": "w_007878",
+    "content": "be poor in",
+    "meaning_zh": "在……方面差；缺乏……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习搭配"
+  },
+  {
+    "item_code": "w_007879",
+    "content": "be poorly paid",
+    "meaning_zh": "报酬低；工资低",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见就业表达"
+  },
+  {
+    "item_code": "w_007880",
+    "content": "be popular among",
+    "meaning_zh": "在……中受欢迎",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_007881",
+    "content": "be popular among ...",
+    "meaning_zh": "在……中受欢迎",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "省略号不影响含义"
+  },
+  {
+    "item_code": "w_007887",
+    "content": "be powerfully expressive",
+    "meaning_zh": "表现力很强；富有感染力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容表达能力"
+  },
+  {
+    "item_code": "w_007893",
+    "content": "be premised on",
+    "meaning_zh": "以……为前提；基于……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常用搭配"
+  },
+  {
+    "item_code": "w_007901",
+    "content": "be pressured into",
+    "meaning_zh": "被迫做；在压力下做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动搭配"
+  },
+  {
+    "item_code": "w_007902",
+    "content": "be presumed to",
+    "meaning_zh": "被认为会；被假定为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "正式书面表达"
+  },
+  {
+    "item_code": "w_007903",
+    "content": "be privileged to do",
+    "meaning_zh": "有幸做；荣幸地做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "礼貌正式表达"
+  },
+  {
+    "item_code": "w_007904",
+    "content": "be proactive in",
+    "meaning_zh": "在……方面积极主动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见能力表达"
+  },
+  {
+    "item_code": "w_007907",
+    "content": "be programmed for",
+    "meaning_zh": "被设定为；天生适合",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可指程序或习性"
+  },
+  {
+    "item_code": "w_007910",
+    "content": "be prompted in",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不完整少见"
+  },
+  {
+    "item_code": "w_007911",
+    "content": "be prompted to",
+    "meaning_zh": "被促使去；被提示去",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动搭配"
+  },
+  {
+    "item_code": "w_007914",
+    "content": "be proud about",
+    "meaning_zh": "为……感到自豪；对……感到骄傲",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "近似proud of"
+  }
+]

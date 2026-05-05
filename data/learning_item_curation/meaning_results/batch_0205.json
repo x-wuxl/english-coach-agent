@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_019180",
+    "content": "debunk patrician narcissism",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成固定表达"
+  },
+  {
+    "item_code": "w_019183",
+    "content": "debut defer",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成固定表达"
+  },
+  {
+    "item_code": "w_019186",
+    "content": "dec",
+    "meaning_zh": "递减；减一指令",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "计算机缩写术语"
+  },
+  {
+    "item_code": "w_019191",
+    "content": "decadent daft",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成固定表达"
+  },
+  {
+    "item_code": "w_019202",
+    "content": "decant safeguard glitch",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成固定表达"
+  },
+  {
+    "item_code": "w_019224",
+    "content": "decent income",
+    "meaning_zh": "不错的收入；体面的收入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_019225",
+    "content": "decent pay",
+    "meaning_zh": "不错的薪酬；合理的工资",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_019226",
+    "content": "decent scriptwriter",
+    "meaning_zh": "不错的编剧；合格的编剧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容词搭配"
+  },
+  {
+    "item_code": "w_019235",
+    "content": "deceptive ease",
+    "meaning_zh": "貌似轻松；具有欺骗性的容易",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_019242",
+    "content": "decide focus demote",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成固定表达"
+  },
+  {
+    "item_code": "w_019256",
+    "content": "deciduous monsoon forest",
+    "meaning_zh": "落叶季风林",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态学术语"
+  },
+  {
+    "item_code": "w_019273",
+    "content": "decipher fanatic glide",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成固定表达"
+  },
+  {
+    "item_code": "w_019276",
+    "content": "decision choice",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词表噪声"
+  },
+  {
+    "item_code": "w_019280",
+    "content": "decisive role",
+    "meaning_zh": "决定性作用；关键角色",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_019285",
+    "content": "deck scorch",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成固定表达"
+  },
+  {
+    "item_code": "w_019297",
+    "content": "declare oneself",
+    "meaning_zh": "表明立场；表明身份",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_019307",
+    "content": "decline one's invitation",
+    "meaning_zh": "婉拒某人的邀请",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_019309",
+    "content": "decline sharply",
+    "meaning_zh": "急剧下降；大幅衰退",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_019317",
+    "content": "decode the signal",
+    "meaning_zh": "解码信号；破译信号",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见技术搭配"
+  },
+  {
+    "item_code": "w_019327",
+    "content": "decompose pro cane",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不成固定表达"
+  }
+]

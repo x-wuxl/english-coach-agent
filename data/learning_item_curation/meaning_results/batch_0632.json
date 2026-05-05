@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_062012",
+    "content": "resourceful reckless aroak",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词串"
+  },
+  {
+    "item_code": "w_062018",
+    "content": "respect the old",
+    "meaning_zh": "尊敬老人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_062021",
+    "content": "respectable job",
+    "meaning_zh": "体面的工作；受人尊敬的职业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_062026",
+    "content": "respectful regard",
+    "meaning_zh": "尊重；敬意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作固定搭配"
+  },
+  {
+    "item_code": "w_062031",
+    "content": "respirable particulate matter",
+    "meaning_zh": "可吸入颗粒物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环境健康术语"
+  },
+  {
+    "item_code": "w_062037",
+    "content": "respiratory morbidity",
+    "meaning_zh": "呼吸系统发病率；呼吸道疾病发生率",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学统计术语"
+  },
+  {
+    "item_code": "w_062038",
+    "content": "respiratory obstruction or failure",
+    "meaning_zh": "呼吸道阻塞或呼吸衰竭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学表达明确"
+  },
+  {
+    "item_code": "w_062047",
+    "content": "respond concave check",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词串"
+  },
+  {
+    "item_code": "w_062048",
+    "content": "respond consistent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_062050",
+    "content": "respond to emergencies",
+    "meaning_zh": "应对紧急情况；处理突发事件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_062057",
+    "content": "response to challenges",
+    "meaning_zh": "对挑战的回应；应对挑战",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_062060",
+    "content": "responsibility of government",
+    "meaning_zh": "政府的责任",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "雅思常见话题"
+  },
+  {
+    "item_code": "w_062061",
+    "content": "responsibility of parents",
+    "meaning_zh": "父母的责任",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "雅思常见话题"
+  },
+  {
+    "item_code": "w_062065",
+    "content": "responsible recline union",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词串"
+  },
+  {
+    "item_code": "w_062066",
+    "content": "responsible responsibility duty",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "同义词堆叠噪声"
+  },
+  {
+    "item_code": "w_062070",
+    "content": "responsive stigmatize",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_062075",
+    "content": "rest assured that",
+    "meaning_zh": "放心；尽管放心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_062085",
+    "content": "restaurant cook",
+    "meaning_zh": "餐厅厨师",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职业类搭配"
+  },
+  {
+    "item_code": "w_062086",
+    "content": "restaurant shows",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义不明确"
+  },
+  {
+    "item_code": "w_062094",
+    "content": "restless exempt invoke",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词串"
+  }
+]

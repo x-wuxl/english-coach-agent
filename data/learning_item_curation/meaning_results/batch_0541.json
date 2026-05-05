@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_052433",
+    "content": "original secede wobble",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词拼接无固定义"
+  },
+  {
+    "item_code": "w_052435",
+    "content": "original topic",
+    "meaning_zh": "原来的话题；原始主题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_052436",
+    "content": "original viewpoint",
+    "meaning_zh": "独到观点；原始观点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_052439",
+    "content": "originally specialize harbour",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词拼接无固定义"
+  },
+  {
+    "item_code": "w_052449",
+    "content": "ORM",
+    "meaning_zh": "对象关系映射",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用缩写"
+  },
+  {
+    "item_code": "w_052451",
+    "content": "ornament fragile substitution",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词拼接无固定义"
+  },
+  {
+    "item_code": "w_052453",
+    "content": "ornamental metallic object",
+    "meaning_zh": "装饰性金属物件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_052454",
+    "content": "ornamental opt",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_052468",
+    "content": "orphan irritate throat",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词拼接无固定义"
+  },
+  {
+    "item_code": "w_052469",
+    "content": "orphan spoiled toddle audition",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词拼接无固定义"
+  },
+  {
+    "item_code": "w_052477",
+    "content": "orthodox drug",
+    "meaning_zh": "常规药物；正统药物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配含义可判断"
+  },
+  {
+    "item_code": "w_052478",
+    "content": "orthodox marketing technique",
+    "meaning_zh": "传统营销技巧；正统营销手法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_052479",
+    "content": "orthodox medical treatment",
+    "meaning_zh": "正统医学治疗；常规医疗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学搭配明确"
+  },
+  {
+    "item_code": "w_052495",
+    "content": "Orville and Wilbur Wright",
+    "meaning_zh": "奥维尔和威尔伯·莱特；莱特兄弟",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词"
+  },
+  {
+    "item_code": "w_052497",
+    "content": "ory",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断"
+  },
+  {
+    "item_code": "w_052502",
+    "content": "Oscar-winning movie",
+    "meaning_zh": "奥斯卡获奖电影",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见影视表达"
+  },
+  {
+    "item_code": "w_052503",
+    "content": "Oscar-winning movies",
+    "meaning_zh": "奥斯卡获奖电影",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见影视表达"
+  },
+  {
+    "item_code": "w_052510",
+    "content": "osea",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声"
+  },
+  {
+    "item_code": "w_052520",
+    "content": "ossify vindictive institute",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词拼接无固定义"
+  },
+  {
+    "item_code": "w_052525",
+    "content": "ostensively",
+    "meaning_zh": "表面上；外表上",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "副词含义明确"
+  }
+]

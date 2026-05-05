@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_075759",
+    "content": "traditional garments",
+    "meaning_zh": "传统服饰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_075760",
+    "content": "traditional goods",
+    "meaning_zh": "传统商品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_075761",
+    "content": "traditional media",
+    "meaning_zh": "传统媒体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定常见表达"
+  },
+  {
+    "item_code": "w_075762",
+    "content": "traditional operas",
+    "meaning_zh": "传统戏曲",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文化主题搭配"
+  },
+  {
+    "item_code": "w_075763",
+    "content": "traditional philosophy of treatment",
+    "meaning_zh": "传统治疗理念",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "整体短语含义明确"
+  },
+  {
+    "item_code": "w_075764",
+    "content": "traditional production",
+    "meaning_zh": "传统生产方式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "无例句但搭配可判"
+  },
+  {
+    "item_code": "w_075767",
+    "content": "traditional tools",
+    "meaning_zh": "传统工具",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_075769",
+    "content": "traditional virtue",
+    "meaning_zh": "传统美德",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定常见表达"
+  },
+  {
+    "item_code": "w_075771",
+    "content": "traditional way",
+    "meaning_zh": "传统方式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_075772",
+    "content": "traditional wrestling",
+    "meaning_zh": "传统摔跤",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "运动项目搭配"
+  },
+  {
+    "item_code": "w_075776",
+    "content": "traditionally-minded",
+    "meaning_zh": "思想传统的；守旧的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "连字符形容词"
+  },
+  {
+    "item_code": "w_075788",
+    "content": "traffic laws and regulations",
+    "meaning_zh": "交通法律法规",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定法律表达"
+  },
+  {
+    "item_code": "w_075797",
+    "content": "traffic subsidy",
+    "meaning_zh": "交通补贴",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见福利表达"
+  },
+  {
+    "item_code": "w_075800",
+    "content": "traffic violators",
+    "meaning_zh": "交通违法者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见交通表达"
+  },
+  {
+    "item_code": "w_075803",
+    "content": "traffic-free zones",
+    "meaning_zh": "无车区；禁止车辆通行区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定交通表达"
+  },
+  {
+    "item_code": "w_075810",
+    "content": "tragedy noxious",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无法判断"
+  },
+  {
+    "item_code": "w_075811",
+    "content": "tragedy trump card",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_075813",
+    "content": "tragic consequence",
+    "meaning_zh": "悲惨后果；惨痛后果",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_075821",
+    "content": "trail version",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似trial拼写错误"
+  },
+  {
+    "item_code": "w_075822",
+    "content": "trail-a-bike",
+    "meaning_zh": "拖挂式儿童自行车",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "连字符复合名词"
+  }
+]

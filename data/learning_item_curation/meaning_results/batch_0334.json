@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_031430",
+    "content": "glacial movement",
+    "meaning_zh": "冰川运动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地理学常见搭配"
+  },
+  {
+    "item_code": "w_031438",
+    "content": "glacius",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声或专名"
+  },
+  {
+    "item_code": "w_031440",
+    "content": "glad smile laugh laughter",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串非固定表达"
+  },
+  {
+    "item_code": "w_031444",
+    "content": "gladiator substantiate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串不成表达"
+  },
+  {
+    "item_code": "w_031447",
+    "content": "Gladys Claffern",
+    "meaning_zh": "格拉迪斯·克拉弗恩（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "人名专有名词"
+  },
+  {
+    "item_code": "w_031459",
+    "content": "glance down at",
+    "meaning_zh": "低头瞥一眼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_031460",
+    "content": "glance notice",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串非固定表达"
+  },
+  {
+    "item_code": "w_031470",
+    "content": "glaring flaw",
+    "meaning_zh": "明显缺陷",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_031475",
+    "content": "glass concrete",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串含义不明确"
+  },
+  {
+    "item_code": "w_031507",
+    "content": "glid",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_031510",
+    "content": "glide humeral knock",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串不成表达"
+  },
+  {
+    "item_code": "w_031512",
+    "content": "glided",
+    "meaning_zh": "滑行；轻盈地移动",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持该含义"
+  },
+  {
+    "item_code": "w_031519",
+    "content": "glimpse malnutrition receptacle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串不成表达"
+  },
+  {
+    "item_code": "w_031541",
+    "content": "global governance system",
+    "meaning_zh": "全球治理体系",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治经济常见术语"
+  },
+  {
+    "item_code": "w_031544",
+    "content": "global ocean circulation",
+    "meaning_zh": "全球海洋环流",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地理气候术语"
+  },
+  {
+    "item_code": "w_031545",
+    "content": "global partnership network",
+    "meaning_zh": "全球伙伴关系网络",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "国际关系常见表达"
+  },
+  {
+    "item_code": "w_031546",
+    "content": "global payments",
+    "meaning_zh": "全球支付",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融常见术语"
+  },
+  {
+    "item_code": "w_031548",
+    "content": "global shipment",
+    "meaning_zh": "全球货运；国际运输",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "物流常见表达"
+  },
+  {
+    "item_code": "w_031549",
+    "content": "global statement",
+    "meaning_zh": "全局语句",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "计算机语境术语"
+  },
+  {
+    "item_code": "w_031551",
+    "content": "global variable",
+    "meaning_zh": "全局变量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程常见术语"
+  }
+]

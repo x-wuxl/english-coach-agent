@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_032562",
+    "content": "green button",
+    "meaning_zh": "绿色按钮",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_032567",
+    "content": "green fireworks",
+    "meaning_zh": "环保烟花；绿色烟花",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "环保语境常见搭配"
+  },
+  {
+    "item_code": "w_032570",
+    "content": "green mango",
+    "meaning_zh": "青芒果；未熟芒果",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见食物名称"
+  },
+  {
+    "item_code": "w_032574",
+    "content": "green purchasing",
+    "meaning_zh": "绿色采购；环保采购",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务环保术语"
+  },
+  {
+    "item_code": "w_032575",
+    "content": "green recovery",
+    "meaning_zh": "绿色复苏；环保型经济复苏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济环保术语"
+  },
+  {
+    "item_code": "w_032580",
+    "content": "green transport",
+    "meaning_zh": "绿色交通；环保交通",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保交通搭配"
+  },
+  {
+    "item_code": "w_032581",
+    "content": "green transportation",
+    "meaning_zh": "绿色交通；环保运输",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保交通搭配"
+  },
+  {
+    "item_code": "w_032596",
+    "content": "greening space",
+    "meaning_zh": "绿化空间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可能为绿化相关搭配"
+  },
+  {
+    "item_code": "w_032600",
+    "content": "Greenpeace",
+    "meaning_zh": "绿色和平组织",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有组织名称"
+  },
+  {
+    "item_code": "w_032618",
+    "content": "gremace inclement revelry",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声组合"
+  },
+  {
+    "item_code": "w_032625",
+    "content": "grey divorce",
+    "meaning_zh": "老年离婚；银发离婚",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "社会现象固定说法"
+  },
+  {
+    "item_code": "w_032626",
+    "content": "grey rhino",
+    "meaning_zh": "灰犀牛；大概率重大风险",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "风险管理术语"
+  },
+  {
+    "item_code": "w_032636",
+    "content": "grief comfort",
+    "meaning_zh": "悲伤慰藉；丧亲安慰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "心理支持相关搭配"
+  },
+  {
+    "item_code": "w_032651",
+    "content": "grimay",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_032658",
+    "content": "grind at",
+    "meaning_zh": "持续苦干；反复钻研",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "动词短语用法"
+  },
+  {
+    "item_code": "w_032659",
+    "content": "grind away",
+    "meaning_zh": "坚持苦干；持续磨损",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_032669",
+    "content": "grip welfare resolution repression",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无明确短语含义"
+  },
+  {
+    "item_code": "w_032671",
+    "content": "gripe prowess",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无明确搭配含义"
+  },
+  {
+    "item_code": "w_032695",
+    "content": "grope around",
+    "meaning_zh": "摸索；四处探寻",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_032702",
+    "content": "gross polarization",
+    "meaning_zh": "严重两极分化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可解释为社会分化"
+  }
+]

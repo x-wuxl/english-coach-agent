@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_074457",
+    "content": "this weekend",
+    "meaning_zh": "这个周末",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时间短语"
+  },
+  {
+    "item_code": "w_074463",
+    "content": "Thomas",
+    "meaning_zh": "男子名：托马斯",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见人名"
+  },
+  {
+    "item_code": "w_074465",
+    "content": "Thomas Orde-Lees",
+    "meaning_zh": "人名：托马斯·奥德-利斯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有姓名"
+  },
+  {
+    "item_code": "w_074466",
+    "content": "Thomas Watson",
+    "meaning_zh": "人名：托马斯·沃森",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有姓名"
+  },
+  {
+    "item_code": "w_074467",
+    "content": "Thomson's model",
+    "meaning_zh": "汤姆孙模型",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "物理术语"
+  },
+  {
+    "item_code": "w_074474",
+    "content": "thorascope",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_074476",
+    "content": "thorax oscillate",
+    "meaning_zh": "胸部振动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配较生硬"
+  },
+  {
+    "item_code": "w_074481",
+    "content": "thorny bumps",
+    "meaning_zh": "多刺的凸起；棘状突起",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "描述性名词短语"
+  },
+  {
+    "item_code": "w_074482",
+    "content": "thorny peruse",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语搭配异常"
+  },
+  {
+    "item_code": "w_074483",
+    "content": "thorny problem",
+    "meaning_zh": "棘手的问题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_074485",
+    "content": "thorough cleanup",
+    "meaning_zh": "彻底清理；全面整顿",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_074486",
+    "content": "thorough inspection",
+    "meaning_zh": "彻底检查；全面检查",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_074493",
+    "content": "those in power",
+    "meaning_zh": "当权者；掌权的人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_074517",
+    "content": "threadbare wanderlust",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语搭配异常"
+  },
+  {
+    "item_code": "w_074520",
+    "content": "threat of disease",
+    "meaning_zh": "疾病威胁",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_074521",
+    "content": "threat of global warming",
+    "meaning_zh": "全球变暖的威胁",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_074524",
+    "content": "threaten to",
+    "meaning_zh": "威胁要；可能会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_074526",
+    "content": "threatened aquatic species",
+    "meaning_zh": "受威胁的水生物种；濒危水生物种",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保领域术语"
+  },
+  {
+    "item_code": "w_074531",
+    "content": "three critical battles",
+    "meaning_zh": "三大攻坚战",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策常用表达"
+  },
+  {
+    "item_code": "w_074534",
+    "content": "three dimensional undulate zigzag",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌异常"
+  }
+]

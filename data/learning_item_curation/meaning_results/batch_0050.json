@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_003607",
+    "content": "ANSI",
+    "meaning_zh": "美国国家标准协会",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机标准缩写"
+  },
+  {
+    "item_code": "w_003619",
+    "content": "answering the phone",
+    "meaning_zh": "接电话",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活短语"
+  },
+  {
+    "item_code": "w_003623",
+    "content": "antacid perfuse",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼接噪声"
+  },
+  {
+    "item_code": "w_003685",
+    "content": "anti deluvian unlettered",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写拼接噪声"
+  },
+  {
+    "item_code": "w_003686",
+    "content": "anti social misfit",
+    "meaning_zh": "不合群的人；反社会的边缘人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见搭配但拼写松散"
+  },
+  {
+    "item_code": "w_003693",
+    "content": "anti-bilingual education measure",
+    "meaning_zh": "反双语教育措施",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策类短语"
+  },
+  {
+    "item_code": "w_003696",
+    "content": "anti-bribery law",
+    "meaning_zh": "反贿赂法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律类固定表达"
+  },
+  {
+    "item_code": "w_003698",
+    "content": "anti-cheating measures",
+    "meaning_zh": "反作弊措施",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见措施表达"
+  },
+  {
+    "item_code": "w_003707",
+    "content": "anti-dust gauze mask",
+    "meaning_zh": "防尘纱布口罩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "物品名称短语"
+  },
+  {
+    "item_code": "w_003712",
+    "content": "anti-graft inspections",
+    "meaning_zh": "反腐败检查；反贪污巡视",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "时政类表达"
+  },
+  {
+    "item_code": "w_003713",
+    "content": "anti-happy art",
+    "meaning_zh": "反快乐艺术",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "艺术概念表达"
+  },
+  {
+    "item_code": "w_003719",
+    "content": "anti-marital",
+    "meaning_zh": "反婚姻的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "构词含义明确"
+  },
+  {
+    "item_code": "w_003720",
+    "content": "anti-monopoly probe",
+    "meaning_zh": "反垄断调查",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "新闻法律表达"
+  },
+  {
+    "item_code": "w_003722",
+    "content": "anti-online terror drill",
+    "meaning_zh": "反网络恐怖演习",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "安全演练表达"
+  },
+  {
+    "item_code": "w_003724",
+    "content": "anti-patent trend",
+    "meaning_zh": "反专利趋势",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义可由构词判断"
+  },
+  {
+    "item_code": "w_003726",
+    "content": "anti-poverty program",
+    "meaning_zh": "扶贫项目；反贫困计划",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政策表达"
+  },
+  {
+    "item_code": "w_003728",
+    "content": "Anti-Secession Law",
+    "meaning_zh": "反分裂国家法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律专名"
+  },
+  {
+    "item_code": "w_003734",
+    "content": "anti-tax avoidance clause",
+    "meaning_zh": "反避税条款",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "税法类表达"
+  },
+  {
+    "item_code": "w_003748",
+    "content": "antibellum",
+    "meaning_zh": "战前的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "GRE常见词"
+  },
+  {
+    "item_code": "w_003750",
+    "content": "antibiotic declaration",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_073646",
+    "content": "the communities minister",
+    "meaning_zh": "社区事务大臣",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政府职务短语"
+  },
+  {
+    "item_code": "w_073648",
+    "content": "the company went along",
+    "meaning_zh": "公司同意配合；公司继续进行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义依语境"
+  },
+  {
+    "item_code": "w_073649",
+    "content": "the compass",
+    "meaning_zh": "指南针；罗盘",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指向工具"
+  },
+  {
+    "item_code": "w_073650",
+    "content": "the comprehensive spending review",
+    "meaning_zh": "综合支出审查",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "财政政策术语"
+  },
+  {
+    "item_code": "w_073651",
+    "content": "the Conservancy",
+    "meaning_zh": "保护协会；管理委员会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常指机构名称"
+  },
+  {
+    "item_code": "w_073654",
+    "content": "the corrupted landscapes",
+    "meaning_zh": "遭破坏的景观；被污染的地貌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "形容词名词短语"
+  },
+  {
+    "item_code": "w_073657",
+    "content": "the country's infancy",
+    "meaning_zh": "国家的初创时期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "比喻国家早期"
+  },
+  {
+    "item_code": "w_073658",
+    "content": "the couple",
+    "meaning_zh": "这对夫妇；这对情侣",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句明确为夫妇"
+  },
+  {
+    "item_code": "w_073659",
+    "content": "The Cowboy's Flute",
+    "meaning_zh": "《牧童短笛》",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "作品标题"
+  },
+  {
+    "item_code": "w_073662",
+    "content": "The Crescent Moon",
+    "meaning_zh": "《新月集》；新月",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作作品标题"
+  },
+  {
+    "item_code": "w_073663",
+    "content": "the crisis of trust",
+    "meaning_zh": "信任危机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定名词搭配"
+  },
+  {
+    "item_code": "w_073664",
+    "content": "the crisis' fallout",
+    "meaning_zh": "危机的后果；危机余波",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "所有格名词短语"
+  },
+  {
+    "item_code": "w_073665",
+    "content": "the crisis's fallout",
+    "meaning_zh": "危机的后果；危机余波",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "所有格名词短语"
+  },
+  {
+    "item_code": "w_073666",
+    "content": "the cupidus coagulate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常疑似噪声"
+  },
+  {
+    "item_code": "w_073667",
+    "content": "the cutting edge",
+    "meaning_zh": "前沿；尖端；刀刃",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_073668",
+    "content": "the daily press",
+    "meaning_zh": "日报界；每日新闻媒体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "媒体类固定表达"
+  },
+  {
+    "item_code": "w_073670",
+    "content": "the Danube River",
+    "meaning_zh": "多瑙河",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地名专有名词"
+  },
+  {
+    "item_code": "w_073674",
+    "content": "the dead and injured",
+    "meaning_zh": "死伤者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见群体表达"
+  },
+  {
+    "item_code": "w_073675",
+    "content": "the debate is stuck",
+    "meaning_zh": "争论陷入僵局",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "句子片段含义清楚"
+  },
+  {
+    "item_code": "w_073678",
+    "content": "the Democrats",
+    "meaning_zh": "民主党人；民主党",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治专有名词"
+  }
+]

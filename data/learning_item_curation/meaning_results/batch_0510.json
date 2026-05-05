@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_049321",
+    "content": "NBA All-star",
+    "meaning_zh": "NBA全明星；NBA全明星球员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "体育专有表达"
+  },
+  {
+    "item_code": "w_049330",
+    "content": "near our house",
+    "meaning_zh": "在我们家附近",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见地点短语"
+  },
+  {
+    "item_code": "w_049331",
+    "content": "near the time",
+    "meaning_zh": "临近那个时间；快到那时",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时间表达"
+  },
+  {
+    "item_code": "w_049338",
+    "content": "nearest 0.1 percent",
+    "meaning_zh": "四舍五入到最接近的0.1%",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "数学统计表达"
+  },
+  {
+    "item_code": "w_049339",
+    "content": "nearest whole percent",
+    "meaning_zh": "四舍五入到最接近的整数百分比",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "数学统计表达"
+  },
+  {
+    "item_code": "w_049345",
+    "content": "neat mess",
+    "meaning_zh": "看似整齐的混乱；整洁的乱局",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "非常见固定表达"
+  },
+  {
+    "item_code": "w_049357",
+    "content": "nebulus",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_049358",
+    "content": "NEC",
+    "meaning_zh": "日本电气公司；NEC品牌",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "计算机领域缩写"
+  },
+  {
+    "item_code": "w_049362",
+    "content": "necessary precondition",
+    "meaning_zh": "必要前提；必要先决条件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_049365",
+    "content": "necessities of success",
+    "meaning_zh": "成功的必需条件；成功要素",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_049374",
+    "content": "necks",
+    "meaning_zh": "脖子；衣领；瓶颈",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "neck的复数形式"
+  },
+  {
+    "item_code": "w_049390",
+    "content": "need a pick-me-up",
+    "meaning_zh": "需要提神的东西；需要振作一下",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见口语表达"
+  },
+  {
+    "item_code": "w_049391",
+    "content": "need a smoke",
+    "meaning_zh": "想抽支烟；需要吸烟",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见口语表达"
+  },
+  {
+    "item_code": "w_049392",
+    "content": "need have done",
+    "meaning_zh": "本有必要做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语法结构表达"
+  },
+  {
+    "item_code": "w_049396",
+    "content": "needle pin",
+    "meaning_zh": "针；别针",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "搭配生硬价值低"
+  },
+  {
+    "item_code": "w_049406",
+    "content": "needn't have done",
+    "meaning_zh": "本不必做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "高考常见语法"
+  },
+  {
+    "item_code": "w_049407",
+    "content": "needs",
+    "meaning_zh": "需要；需求",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指需要"
+  },
+  {
+    "item_code": "w_049409",
+    "content": "needy vessel",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_049412",
+    "content": "nefarious activities",
+    "meaning_zh": "邪恶活动；恶劣行径",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_049418",
+    "content": "negative connotation",
+    "meaning_zh": "负面含义；贬义",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "语言学常见搭配"
+  }
+]

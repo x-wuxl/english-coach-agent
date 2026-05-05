@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_023701",
+    "content": "elaborately knotted counting string",
+    "meaning_zh": "精心打结的计数绳",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "描述性名词短语"
+  },
+  {
+    "item_code": "w_023711",
+    "content": "elastic deviation",
+    "meaning_zh": "弹性偏差",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术类搭配"
+  },
+  {
+    "item_code": "w_023725",
+    "content": "elder eldest",
+    "meaning_zh": "年长的；最年长的",
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "两个词形拼在一起"
+  },
+  {
+    "item_code": "w_023726",
+    "content": "elder generation",
+    "meaning_zh": "老一辈；长辈一代",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_023728",
+    "content": "elderly care service",
+    "meaning_zh": "养老服务；老年护理服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会话题"
+  },
+  {
+    "item_code": "w_023729",
+    "content": "elderly immigrants",
+    "meaning_zh": "老年移民",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见人群表达"
+  },
+  {
+    "item_code": "w_023730",
+    "content": "elderly migrants",
+    "meaning_zh": "老年流动人口；老年移居者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见人群表达"
+  },
+  {
+    "item_code": "w_023731",
+    "content": "elderly pension security pensioner",
+    "meaning_zh": "老年养老金保障；养老金领取者",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "多个词条混杂"
+  },
+  {
+    "item_code": "w_023734",
+    "content": "elect A as B",
+    "meaning_zh": "选举A担任B",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型搭配"
+  },
+  {
+    "item_code": "w_023738",
+    "content": "election anxiety",
+    "meaning_zh": "选举焦虑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治心理表达"
+  },
+  {
+    "item_code": "w_023765",
+    "content": "electric curler",
+    "meaning_zh": "电动卷发器",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见物品名称"
+  },
+  {
+    "item_code": "w_023767",
+    "content": "electric dissociation equation",
+    "meaning_zh": "电离方程式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "化学术语"
+  },
+  {
+    "item_code": "w_023777",
+    "content": "electric formula",
+    "meaning_zh": "电学公式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "泛指电学表达式"
+  },
+  {
+    "item_code": "w_023793",
+    "content": "electric self-balancing scooter",
+    "meaning_zh": "电动平衡车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见交通工具"
+  },
+  {
+    "item_code": "w_023798",
+    "content": "electric tram",
+    "meaning_zh": "有轨电车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通工具名称"
+  },
+  {
+    "item_code": "w_023813",
+    "content": "electrical transformers",
+    "meaning_zh": "变压器",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "电气设备术语"
+  },
+  {
+    "item_code": "w_023819",
+    "content": "electricity-powered aircraft",
+    "meaning_zh": "电力驱动飞机；电动飞机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通科技表达"
+  },
+  {
+    "item_code": "w_023825",
+    "content": "electrify express",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词条噪声"
+  },
+  {
+    "item_code": "w_023835",
+    "content": "electrode reaction equation",
+    "meaning_zh": "电极反应方程式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "化学术语"
+  },
+  {
+    "item_code": "w_023860",
+    "content": "electromagnetism induction phenomenon",
+    "meaning_zh": "电磁感应现象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "术语搭配略生硬"
+  }
+]

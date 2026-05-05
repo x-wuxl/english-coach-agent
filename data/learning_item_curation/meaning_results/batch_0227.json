@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_021520",
+    "content": "distance of travel",
+    "meaning_zh": "行程距离；旅行距离",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_021522",
+    "content": "distance range nearby",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组搭配异常"
+  },
+  {
+    "item_code": "w_021525",
+    "content": "distant compensate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组搭配异常"
+  },
+  {
+    "item_code": "w_021526",
+    "content": "distant conference",
+    "meaning_zh": "远程会议；远方的会议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作短语理解"
+  },
+  {
+    "item_code": "w_021529",
+    "content": "distaste for",
+    "meaning_zh": "对……的厌恶；不喜欢",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_021533",
+    "content": "distend forgive",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组搭配异常"
+  },
+  {
+    "item_code": "w_021539",
+    "content": "distill aspirate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组搭配异常"
+  },
+  {
+    "item_code": "w_021540",
+    "content": "distill bliss",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组搭配异常"
+  },
+  {
+    "item_code": "w_021541",
+    "content": "distill the crucial points",
+    "meaning_zh": "提炼关键点；概括要点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_021549",
+    "content": "distinct point",
+    "meaning_zh": "不同点；明确的观点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作短语理解"
+  },
+  {
+    "item_code": "w_021552",
+    "content": "distinctive characteristic",
+    "meaning_zh": "显著特征；独特特点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_021553",
+    "content": "distinctive culture",
+    "meaning_zh": "独特的文化；特色文化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_021555",
+    "content": "distinctive receptionist",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组搭配异常"
+  },
+  {
+    "item_code": "w_021556",
+    "content": "distinctive sapient",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组搭配异常"
+  },
+  {
+    "item_code": "w_021563",
+    "content": "distinguish A between B",
+    "meaning_zh": "区分A和B",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达不规范但可判断"
+  },
+  {
+    "item_code": "w_021566",
+    "content": "distinguish right from wrong",
+    "meaning_zh": "明辨是非；区分对错",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  },
+  {
+    "item_code": "w_021570",
+    "content": "distinguished alternative",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组搭配异常"
+  },
+  {
+    "item_code": "w_021573",
+    "content": "distort history",
+    "meaning_zh": "歪曲历史；篡改历史",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_021574",
+    "content": "distort the original meaning",
+    "meaning_zh": "曲解原意；歪曲本意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_021579",
+    "content": "distract ... from",
+    "meaning_zh": "使……分心；转移……的注意力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  }
+]

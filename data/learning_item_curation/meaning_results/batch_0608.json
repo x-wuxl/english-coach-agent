@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_059787",
+    "content": "racial stove",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不自然疑似噪声"
+  },
+  {
+    "item_code": "w_059796",
+    "content": "racist considerate recoil bushel",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词堆砌"
+  },
+  {
+    "item_code": "w_059798",
+    "content": "rack estimate cardiology",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词堆砌"
+  },
+  {
+    "item_code": "w_059800",
+    "content": "rack remind contrary",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词堆砌"
+  },
+  {
+    "item_code": "w_059810",
+    "content": "racy alienate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语搭配不成立"
+  },
+  {
+    "item_code": "w_059813",
+    "content": "radar and photographic equipment",
+    "meaning_zh": "雷达和摄影设备",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "设备类名词短语"
+  },
+  {
+    "item_code": "w_059821",
+    "content": "radiant with joy",
+    "meaning_zh": "喜气洋洋；满脸喜悦",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_059824",
+    "content": "radiate energy",
+    "meaning_zh": "辐射能量；散发能量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_059826",
+    "content": "radiating object",
+    "meaning_zh": "辐射体；发出辐射的物体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "物理类名词短语"
+  },
+  {
+    "item_code": "w_059833",
+    "content": "radical approach",
+    "meaning_zh": "激进方法；根本性做法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_059834",
+    "content": "radical root sign",
+    "meaning_zh": "根号符号",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "数学术语短语"
+  },
+  {
+    "item_code": "w_059836",
+    "content": "radical viewpoint",
+    "meaning_zh": "激进观点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见观点搭配"
+  },
+  {
+    "item_code": "w_059851",
+    "content": "radio talk",
+    "meaning_zh": "广播讲话；电台访谈",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "媒体类名词短语"
+  },
+  {
+    "item_code": "w_059855",
+    "content": "radio transponder module",
+    "meaning_zh": "无线电应答器模块",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "通信技术术语"
+  },
+  {
+    "item_code": "w_059863",
+    "content": "radioactive pathology",
+    "meaning_zh": "放射性病理学；放射性病变",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学搭配较少见"
+  },
+  {
+    "item_code": "w_059873",
+    "content": "radioimmunometric",
+    "meaning_zh": "放射免疫测定的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学检测术语"
+  },
+  {
+    "item_code": "w_059882",
+    "content": "radiology giant",
+    "meaning_zh": "放射学巨头；医学影像巨头",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "行业称谓短语"
+  },
+  {
+    "item_code": "w_059892",
+    "content": "radiosinate",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准词疑似噪声"
+  },
+  {
+    "item_code": "w_059897",
+    "content": "radishseed",
+    "meaning_zh": "萝卜籽；萝卜种子",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为radish seed"
+  },
+  {
+    "item_code": "w_059906",
+    "content": "Rafflesia arnoldii",
+    "meaning_zh": "阿诺尔特大王花",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "植物学专有名词"
+  }
+]

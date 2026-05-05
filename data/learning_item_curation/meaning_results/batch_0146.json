@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_013240",
+    "content": "charge for medication",
+    "meaning_zh": "药品收费；药费",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医疗收费短语"
+  },
+  {
+    "item_code": "w_013251",
+    "content": "chargé d'affaires",
+    "meaning_zh": "临时代办",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "外交职务术语"
+  },
+  {
+    "item_code": "w_013256",
+    "content": "charitable corporations",
+    "meaning_zh": "慈善法人；慈善机构",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见法律组织搭配"
+  },
+  {
+    "item_code": "w_013262",
+    "content": "charity ball",
+    "meaning_zh": "慈善舞会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定活动名称"
+  },
+  {
+    "item_code": "w_013264",
+    "content": "charity fraud",
+    "meaning_zh": "慈善诈骗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见犯罪类型"
+  },
+  {
+    "item_code": "w_013271",
+    "content": "charlatan forage",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_013276",
+    "content": "Charles Gray",
+    "meaning_zh": "查尔斯·格雷（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "人名专有名词"
+  },
+  {
+    "item_code": "w_013277",
+    "content": "Charles Keeling",
+    "meaning_zh": "查尔斯·基林（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人名专有名词"
+  },
+  {
+    "item_code": "w_013279",
+    "content": "Charlotte Brontё",
+    "meaning_zh": "夏洛蒂·勃朗特",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "作家人名"
+  },
+  {
+    "item_code": "w_013281",
+    "content": "charm of personality",
+    "meaning_zh": "人格魅力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_013284",
+    "content": "charming spoilt popularity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌噪声"
+  },
+  {
+    "item_code": "w_013303",
+    "content": "chasin",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写残片"
+  },
+  {
+    "item_code": "w_013305",
+    "content": "chasm balloon",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_013315",
+    "content": "chat on line",
+    "meaning_zh": "在线聊天",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见网络表达"
+  },
+  {
+    "item_code": "w_013329",
+    "content": "chatting on the Internet",
+    "meaning_zh": "网上聊天",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见网络表达"
+  },
+  {
+    "item_code": "w_013332",
+    "content": "chauvenism",
+    "meaning_zh": "沙文主义",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "应为chauvinism"
+  },
+  {
+    "item_code": "w_013333",
+    "content": "chauvenistic military equivalent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌且拼写疑误"
+  },
+  {
+    "item_code": "w_013338",
+    "content": "cheap and fine",
+    "meaning_zh": "物美价廉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见评价短语"
+  },
+  {
+    "item_code": "w_013339",
+    "content": "cheap trinkets",
+    "meaning_zh": "廉价小饰品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_013350",
+    "content": "cheats death",
+    "meaning_zh": "死里逃生；逃过一劫",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语表达"
+  }
+]

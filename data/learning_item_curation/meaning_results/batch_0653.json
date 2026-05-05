@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_064367",
+    "content": "scope of knowledge",
+    "meaning_zh": "知识范围；知识面",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_064371",
+    "content": "scorch fervent derivative",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个无关词拼接"
+  },
+  {
+    "item_code": "w_064376",
+    "content": "score behind draw mill",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个无关词拼接"
+  },
+  {
+    "item_code": "w_064378",
+    "content": "scoreboard final defeat",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_064384",
+    "content": "scorn hybrid",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "两个词无固定搭配"
+  },
+  {
+    "item_code": "w_064402",
+    "content": "scour dazzle rant travesty",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个无关词拼接"
+  },
+  {
+    "item_code": "w_064405",
+    "content": "scourge clarion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_064407",
+    "content": "scout about for",
+    "meaning_zh": "四处搜寻；到处寻找",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词短语"
+  },
+  {
+    "item_code": "w_064408",
+    "content": "scout around for",
+    "meaning_zh": "四处寻找；到处搜寻",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词短语"
+  },
+  {
+    "item_code": "w_064409",
+    "content": "scout bee",
+    "meaning_zh": "侦察蜂",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生物学术语"
+  },
+  {
+    "item_code": "w_064416",
+    "content": "scramble for",
+    "meaning_zh": "争抢；争夺",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_064424",
+    "content": "scrap pinnacle qualify reprehend",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个无关词拼接"
+  },
+  {
+    "item_code": "w_064433",
+    "content": "scrape through in",
+    "meaning_zh": "勉强通过；侥幸通过",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "介词搭配略异常"
+  },
+  {
+    "item_code": "w_064439",
+    "content": "scrappy cast",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_064447",
+    "content": "scraw",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_064453",
+    "content": "scream sb.'s head off",
+    "meaning_zh": "冲某人大声尖叫；对某人大喊大叫",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定口语表达"
+  },
+  {
+    "item_code": "w_064460",
+    "content": "screen peep",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  },
+  {
+    "item_code": "w_064464",
+    "content": "screening lanes",
+    "meaning_zh": "安检通道；筛查通道",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见场景短语"
+  },
+  {
+    "item_code": "w_064466",
+    "content": "screenplay adaptation",
+    "meaning_zh": "剧本改编；改编 screenplay",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "影视写作术语"
+  },
+  {
+    "item_code": "w_064469",
+    "content": "screw encompass practicable secure",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个无关词拼接"
+  }
+]

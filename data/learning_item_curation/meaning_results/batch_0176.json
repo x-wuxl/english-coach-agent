@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_016186",
+    "content": "conducts public hearings",
+    "meaning_zh": "举行公开听证会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动宾搭配"
+  },
+  {
+    "item_code": "w_016191",
+    "content": "cone volcano",
+    "meaning_zh": "锥形火山",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地质术语"
+  },
+  {
+    "item_code": "w_016194",
+    "content": "confectionary",
+    "meaning_zh": "糖果；糖果店",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常作confectionery变体"
+  },
+  {
+    "item_code": "w_016201",
+    "content": "confer ... on sb.",
+    "meaning_zh": "授予某人……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_016202",
+    "content": "confer ... upon sb.",
+    "meaning_zh": "授予某人……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_016209",
+    "content": "conference notice",
+    "meaning_zh": "会议通知",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_016210",
+    "content": "conference pack",
+    "meaning_zh": "会议资料包",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "会议场景常用语"
+  },
+  {
+    "item_code": "w_016214",
+    "content": "confess deprive",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无明确含义"
+  },
+  {
+    "item_code": "w_016217",
+    "content": "confess to doing sth.",
+    "meaning_zh": "承认做过某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词搭配"
+  },
+  {
+    "item_code": "w_016228",
+    "content": "confidence reconstruction",
+    "meaning_zh": "信心重建",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解名词短语"
+  },
+  {
+    "item_code": "w_016229",
+    "content": "confidence slump",
+    "meaning_zh": "信心下滑；信心低迷",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "经济语境常见搭配"
+  },
+  {
+    "item_code": "w_016231",
+    "content": "confident foreground burlesque",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无明确含义"
+  },
+  {
+    "item_code": "w_016244",
+    "content": "confine exercise",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_016246",
+    "content": "confine oneself to doing",
+    "meaning_zh": "只限于做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_016253",
+    "content": "confined to bed",
+    "meaning_zh": "卧床不起",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_016258",
+    "content": "confirm a reservation",
+    "meaning_zh": "确认预订",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅行场景常用语"
+  },
+  {
+    "item_code": "w_016262",
+    "content": "confirmation schedule",
+    "meaning_zh": "确认日程；确认时间表",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义可推断"
+  },
+  {
+    "item_code": "w_016271",
+    "content": "conflate drench",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无明确含义"
+  },
+  {
+    "item_code": "w_016283",
+    "content": "conform strip",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_016300",
+    "content": "confront inadequate aptitude",
+    "meaning_zh": "面对能力不足",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可理解"
+  }
+]

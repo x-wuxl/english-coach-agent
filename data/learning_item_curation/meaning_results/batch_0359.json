@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_033914",
+    "content": "have intention of",
+    "meaning_zh": "有……的打算；有意做……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配表达意图"
+  },
+  {
+    "item_code": "w_033922",
+    "content": "have jiao-zi",
+    "meaning_zh": "吃饺子",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "中式食物表达"
+  },
+  {
+    "item_code": "w_033924",
+    "content": "have links with",
+    "meaning_zh": "与……有联系",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_033925",
+    "content": "have little bearing on",
+    "meaning_zh": "与……几乎无关；对……几乎没有影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_033926",
+    "content": "have little effect on",
+    "meaning_zh": "对……几乎没有影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_033927",
+    "content": "have little influence on",
+    "meaning_zh": "对……几乎没有影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_033935",
+    "content": "have more confidence",
+    "meaning_zh": "更有信心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_033936",
+    "content": "have more curiosity",
+    "meaning_zh": "更有好奇心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_033937",
+    "content": "have more customers",
+    "meaning_zh": "拥有更多顾客",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  },
+  {
+    "item_code": "w_033938",
+    "content": "have no awareness of",
+    "meaning_zh": "没有意识到；不了解",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_033941",
+    "content": "have no chance of",
+    "meaning_zh": "没有……的机会；不可能",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_033945",
+    "content": "have no impact on",
+    "meaning_zh": "对……没有影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  },
+  {
+    "item_code": "w_033946",
+    "content": "have no influence on",
+    "meaning_zh": "对……没有影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_033952",
+    "content": "have no offspring",
+    "meaning_zh": "没有后代；没有子女",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "词义明确"
+  },
+  {
+    "item_code": "w_033956",
+    "content": "have no sense of",
+    "meaning_zh": "没有……感；缺乏……意识",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  },
+  {
+    "item_code": "w_033957",
+    "content": "have no staying power",
+    "meaning_zh": "没有持久力；缺乏耐力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_033958",
+    "content": "have no taste",
+    "meaning_zh": "没有味道；没有品味",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见义项有歧义"
+  },
+  {
+    "item_code": "w_033962",
+    "content": "have not got",
+    "meaning_zh": "没有",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "英式常用表达"
+  },
+  {
+    "item_code": "w_033964",
+    "content": "have nothing to lose",
+    "meaning_zh": "没有什么可失去的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_033966",
+    "content": "have one's address",
+    "meaning_zh": "有某人的地址；知道某人的地址",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  }
+]

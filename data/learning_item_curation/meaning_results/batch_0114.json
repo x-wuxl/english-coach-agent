@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_009633",
+    "content": "blood nerve",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准搭配"
+  },
+  {
+    "item_code": "w_009647",
+    "content": "blood-sweating horse",
+    "meaning_zh": "汗血宝马",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定文化词"
+  },
+  {
+    "item_code": "w_009648",
+    "content": "blooded",
+    "meaning_zh": "有血统的；纯种的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词义"
+  },
+  {
+    "item_code": "w_009660",
+    "content": "bloody battle",
+    "meaning_zh": "血战；激烈战斗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_009661",
+    "content": "bloody cardiac carrier casualty",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词串"
+  },
+  {
+    "item_code": "w_009662",
+    "content": "bloody suppression",
+    "meaning_zh": "血腥镇压",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政治搭配"
+  },
+  {
+    "item_code": "w_009668",
+    "content": "blossom bush",
+    "meaning_zh": "开花灌木",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解搭配"
+  },
+  {
+    "item_code": "w_009679",
+    "content": "blouse taylor pattern stripe",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词串"
+  },
+  {
+    "item_code": "w_009690",
+    "content": "blow sb.'s mind",
+    "meaning_zh": "使某人震惊；让某人大开眼界",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_009691",
+    "content": "blow the candles",
+    "meaning_zh": "吹蜡烛；吹灭蜡烛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见说法不完整"
+  },
+  {
+    "item_code": "w_009706",
+    "content": "blue chip client",
+    "meaning_zh": "优质客户；大客户",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务英语搭配"
+  },
+  {
+    "item_code": "w_009732",
+    "content": "blueprint recluse peck",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词串"
+  },
+  {
+    "item_code": "w_009736",
+    "content": "bluetooth telephone",
+    "meaning_zh": "蓝牙电话",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术设备词"
+  },
+  {
+    "item_code": "w_009739",
+    "content": "bluish greenish",
+    "meaning_zh": "带蓝色和绿色的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "颜色形容词组合"
+  },
+  {
+    "item_code": "w_009740",
+    "content": "blum",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似专名残片"
+  },
+  {
+    "item_code": "w_009742",
+    "content": "blunder about",
+    "meaning_zh": "笨拙地乱走；跌跌撞撞地摸索",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词短语"
+  },
+  {
+    "item_code": "w_009743",
+    "content": "blunder around",
+    "meaning_zh": "笨拙地四处走动；瞎忙乱碰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词短语"
+  },
+  {
+    "item_code": "w_009745",
+    "content": "blunder on",
+    "meaning_zh": "笨拙地继续；误打误撞地发现",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义依语境"
+  },
+  {
+    "item_code": "w_009746",
+    "content": "blunder upon",
+    "meaning_zh": "偶然发现；误打误撞碰上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词短语"
+  },
+  {
+    "item_code": "w_009749",
+    "content": "blunt insidious",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然搭配"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_025116",
+    "content": "equivalent interval",
+    "meaning_zh": "等价区间；等效间隔",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "术语搭配，含义依语境"
+  },
+  {
+    "item_code": "w_025119",
+    "content": "equivalent stamp necessary decentralize",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无固定含义"
+  },
+  {
+    "item_code": "w_025123",
+    "content": "equivocate verse",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_025129",
+    "content": "era of knowledge explosion",
+    "meaning_zh": "知识爆炸时代",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_025131",
+    "content": "eradicate defect",
+    "meaning_zh": "消除缺陷；根除弊病",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_025133",
+    "content": "eras",
+    "meaning_zh": "时代；纪元",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "era的复数形式"
+  },
+  {
+    "item_code": "w_025135",
+    "content": "erase data",
+    "meaning_zh": "删除数据；清除数据",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见技术搭配"
+  },
+  {
+    "item_code": "w_025139",
+    "content": "erc",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写含义不明"
+  },
+  {
+    "item_code": "w_025142",
+    "content": "erect bipedal primate",
+    "meaning_zh": "直立的两足灵长类动物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "描述性名词短语"
+  },
+  {
+    "item_code": "w_025143",
+    "content": "erect erection",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词形堆叠非搭配"
+  },
+  {
+    "item_code": "w_025144",
+    "content": "erect exclamation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_025160",
+    "content": "Erhu",
+    "meaning_zh": "二胡",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "中国传统乐器名"
+  },
+  {
+    "item_code": "w_025162",
+    "content": "Eric Whitacre",
+    "meaning_zh": "埃里克·惠特克",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人名，作曲家"
+  },
+  {
+    "item_code": "w_025163",
+    "content": "erie",
+    "meaning_zh": "伊利",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有名词，地名"
+  },
+  {
+    "item_code": "w_025164",
+    "content": "Erin",
+    "meaning_zh": "艾琳",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见人名"
+  },
+  {
+    "item_code": "w_025166",
+    "content": "ern",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写或残片含义不明"
+  },
+  {
+    "item_code": "w_025167",
+    "content": "ernest",
+    "meaning_zh": "欧内斯特",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "多为人名，需大写"
+  },
+  {
+    "item_code": "w_025171",
+    "content": "erode glisten penalty",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无固定含义"
+  },
+  {
+    "item_code": "w_025181",
+    "content": "errand definition",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "像词典查询残片"
+  },
+  {
+    "item_code": "w_025182",
+    "content": "errand service",
+    "meaning_zh": "跑腿服务；代办服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见服务类表达"
+  }
+]

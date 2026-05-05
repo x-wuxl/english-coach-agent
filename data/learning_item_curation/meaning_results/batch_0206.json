@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_019338",
+    "content": "decontamination of urban refuse",
+    "meaning_zh": "城市垃圾的无害化处理",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专业短语含义明确"
+  },
+  {
+    "item_code": "w_019344",
+    "content": "decorate furnish wallpaper",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串无固定含义"
+  },
+  {
+    "item_code": "w_019345",
+    "content": "decorate home",
+    "meaning_zh": "装饰家居；装修房子",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见家居表达"
+  },
+  {
+    "item_code": "w_019346",
+    "content": "decorate rooms with painting",
+    "meaning_zh": "用画作装饰房间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配含义可判断"
+  },
+  {
+    "item_code": "w_019356",
+    "content": "decorously suited",
+    "meaning_zh": "得体地适合；端庄相称",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可判断"
+  },
+  {
+    "item_code": "w_019359",
+    "content": "decorum strut",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串无固定含义"
+  },
+  {
+    "item_code": "w_019366",
+    "content": "decrease witness",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_019370",
+    "content": "decrement",
+    "meaning_zh": "递减；减量；自减",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语常见"
+  },
+  {
+    "item_code": "w_019372",
+    "content": "decrepit obstreperous chicanery",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串无固定含义"
+  },
+  {
+    "item_code": "w_019381",
+    "content": "dedicate A to B",
+    "meaning_zh": "把A奉献给B；把A用于B",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型"
+  },
+  {
+    "item_code": "w_019382",
+    "content": "dedicate incredible",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_019383",
+    "content": "dedicate invigorate memorandum",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串无固定含义"
+  },
+  {
+    "item_code": "w_019384",
+    "content": "dedicate one's energy to",
+    "meaning_zh": "把精力投入到",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_019394",
+    "content": "deduce uniform",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_019405",
+    "content": "deep blue color",
+    "meaning_zh": "深蓝色",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "颜色短语明确"
+  },
+  {
+    "item_code": "w_019407",
+    "content": "deep copy",
+    "meaning_zh": "深拷贝",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_019409",
+    "content": "deep impression",
+    "meaning_zh": "深刻印象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持该含义"
+  },
+  {
+    "item_code": "w_019419",
+    "content": "deeper bisons category",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串疑似噪声"
+  },
+  {
+    "item_code": "w_019422",
+    "content": "deeply yawn",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_019426",
+    "content": "def",
+    "meaning_zh": "函数定义关键字",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程关键字"
+  }
+]

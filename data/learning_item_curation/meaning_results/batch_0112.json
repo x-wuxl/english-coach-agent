@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_009397",
+    "content": "black jail",
+    "meaning_zh": "黑监狱；非法拘禁场所",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定搭配但较少见"
+  },
+  {
+    "item_code": "w_009399",
+    "content": "black luster incursion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_009403",
+    "content": "black mole",
+    "meaning_zh": "黑痣",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_009405",
+    "content": "black piece",
+    "meaning_zh": "黑色棋子；黑方棋子",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常指棋类棋子"
+  },
+  {
+    "item_code": "w_009411",
+    "content": "black taxi",
+    "meaning_zh": "非法出租车；黑车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见社会表达"
+  },
+  {
+    "item_code": "w_009421",
+    "content": "black-soled",
+    "meaning_zh": "黑底的；黑鞋底的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_009424",
+    "content": "blackberry blueberry branch",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠非搭配"
+  },
+  {
+    "item_code": "w_009433",
+    "content": "blackhead blusher",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠非搭配"
+  },
+  {
+    "item_code": "w_009446",
+    "content": "blair",
+    "meaning_zh": "布莱尔",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见人名姓氏"
+  },
+  {
+    "item_code": "w_009448",
+    "content": "blame A on B",
+    "meaning_zh": "把A归咎于B",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词搭配"
+  },
+  {
+    "item_code": "w_009454",
+    "content": "blame something on somebody",
+    "meaning_zh": "把某事归咎于某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词搭配"
+  },
+  {
+    "item_code": "w_009455",
+    "content": "blame something on something",
+    "meaning_zh": "把某事归因于某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词搭配"
+  },
+  {
+    "item_code": "w_009466",
+    "content": "blandishment shrink",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠非搭配"
+  },
+  {
+    "item_code": "w_009477",
+    "content": "blanket quilt bedclothes",
+    "meaning_zh": "毯子；被子；床上用品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "同类词汇组合"
+  },
+  {
+    "item_code": "w_009480",
+    "content": "blase hanker",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠非搭配"
+  },
+  {
+    "item_code": "w_009485",
+    "content": "blast boom chatter",
+    "meaning_zh": "爆炸声；轰鸣声；喋喋不休",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "声音类词汇组合"
+  },
+  {
+    "item_code": "w_009486",
+    "content": "blast fishing",
+    "meaning_zh": "炸鱼捕鱼；爆破捕鱼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态相关术语"
+  },
+  {
+    "item_code": "w_009490",
+    "content": "blast sporadic",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠非搭配"
+  },
+  {
+    "item_code": "w_009493",
+    "content": "blaster",
+    "meaning_zh": "爆破工；爆破装置；强力喷射器",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见派生名词"
+  },
+  {
+    "item_code": "w_009500",
+    "content": "blasé",
+    "meaning_zh": "厌倦的；冷漠的；见怪不怪的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "GRE常见形容词"
+  }
+]

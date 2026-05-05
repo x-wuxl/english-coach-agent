@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_004025",
+    "content": "apostocary",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_004039",
+    "content": "appalling injustice",
+    "meaning_zh": "令人震惊的不公",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_004042",
+    "content": "apparatus condition",
+    "meaning_zh": "设备状况；仪器状态",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术类名词搭配"
+  },
+  {
+    "item_code": "w_004045",
+    "content": "apparent sumptuous",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_004064",
+    "content": "appear to do",
+    "meaning_zh": "似乎做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见语法搭配"
+  },
+  {
+    "item_code": "w_004067",
+    "content": "appearance of the building",
+    "meaning_zh": "建筑物的外观",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_004096",
+    "content": "apple skin",
+    "meaning_zh": "苹果皮",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_004107",
+    "content": "application of high technology",
+    "meaning_zh": "高科技的应用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常见表达"
+  },
+  {
+    "item_code": "w_004108",
+    "content": "application of statistic",
+    "meaning_zh": "统计学的应用；统计方法的应用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略不规范"
+  },
+  {
+    "item_code": "w_004120",
+    "content": "apply for admission into",
+    "meaning_zh": "申请进入；申请入学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "升学申请表达"
+  },
+  {
+    "item_code": "w_004121",
+    "content": "apply for permission",
+    "meaning_zh": "申请许可；请求批准",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_004122",
+    "content": "apply one's minds to",
+    "meaning_zh": "专心于；致力于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "应为mind更常见"
+  },
+  {
+    "item_code": "w_004123",
+    "content": "apply oneself to",
+    "meaning_zh": "专心于；致力于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_004125",
+    "content": "apply pressure on",
+    "meaning_zh": "对……施加压力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_004128",
+    "content": "apply to do sth.",
+    "meaning_zh": "申请做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见语法搭配"
+  },
+  {
+    "item_code": "w_004129",
+    "content": "apply to doing sth.",
+    "meaning_zh": "适用于做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词搭配"
+  },
+  {
+    "item_code": "w_004131",
+    "content": "apply to sb. for",
+    "meaning_zh": "向某人申请……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见申请表达"
+  },
+  {
+    "item_code": "w_004134",
+    "content": "appoint as",
+    "meaning_zh": "任命为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_004135",
+    "content": "appoint bean",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_004149",
+    "content": "appreciable magnet moth",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  }
+]

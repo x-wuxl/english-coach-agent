@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_081935",
+    "content": "xenophobe buttress",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_081946",
+    "content": "xerox bronze faith gabble",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串噪声无整体义"
+  },
+  {
+    "item_code": "w_081947",
+    "content": "Xi political economics",
+    "meaning_zh": "习近平政治经济学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "政治专有表达"
+  },
+  {
+    "item_code": "w_081948",
+    "content": "xiii",
+    "meaning_zh": "罗马数字十三",
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "罗马数字低价值"
+  },
+  {
+    "item_code": "w_081950",
+    "content": "Xiongan New Area",
+    "meaning_zh": "雄安新区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "中国地名专有名词"
+  },
+  {
+    "item_code": "w_081953",
+    "content": "xix",
+    "meaning_zh": "罗马数字十九",
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "罗马数字低价值"
+  },
+  {
+    "item_code": "w_081954",
+    "content": "XML",
+    "meaning_zh": "可扩展标记语言",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_081956",
+    "content": "xslt",
+    "meaning_zh": "可扩展样式表语言转换",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机技术缩写"
+  },
+  {
+    "item_code": "w_081958",
+    "content": "xvii",
+    "meaning_zh": "罗马数字十七",
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "罗马数字低价值"
+  },
+  {
+    "item_code": "w_081959",
+    "content": "xxi",
+    "meaning_zh": "罗马数字二十一",
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "罗马数字低价值"
+  },
+  {
+    "item_code": "w_081960",
+    "content": "xxx",
+    "meaning_zh": "占位符XXX",
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "例句为占位符"
+  },
+  {
+    "item_code": "w_081961",
+    "content": "XY-coordinate system",
+    "meaning_zh": "XY坐标系",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "数学常用术语"
+  },
+  {
+    "item_code": "w_081962",
+    "content": "xy-planes",
+    "meaning_zh": "xy平面",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "数学常用术语"
+  },
+  {
+    "item_code": "w_081983",
+    "content": "yangko dance",
+    "meaning_zh": "秧歌舞",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文化类固定表达"
+  },
+  {
+    "item_code": "w_081984",
+    "content": "yangko troupe",
+    "meaning_zh": "秧歌队",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文化类固定表达"
+  },
+  {
+    "item_code": "w_082012",
+    "content": "year book",
+    "meaning_zh": "年鉴；年刊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_082019",
+    "content": "year-end anxiety",
+    "meaning_zh": "年终焦虑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会表达"
+  },
+  {
+    "item_code": "w_082021",
+    "content": "year-end promotion",
+    "meaning_zh": "年终促销；年终晋升",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境可指促销或晋升"
+  },
+  {
+    "item_code": "w_082022",
+    "content": "year-end summary",
+    "meaning_zh": "年终总结",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见工作学习表达"
+  },
+  {
+    "item_code": "w_082026",
+    "content": "year-on-year growth",
+    "meaning_zh": "同比增长",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济统计常用表达"
+  }
+]

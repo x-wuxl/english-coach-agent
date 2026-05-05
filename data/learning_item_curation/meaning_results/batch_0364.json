@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_034137",
+    "content": "hazardous airborne pollutant",
+    "meaning_zh": "有害空气污染物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见环保术语"
+  },
+  {
+    "item_code": "w_034144",
+    "content": "hazy vanity odds",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声组合"
+  },
+  {
+    "item_code": "w_034147",
+    "content": "HD player",
+    "meaning_zh": "高清播放器",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见设备名称"
+  },
+  {
+    "item_code": "w_034151",
+    "content": "he is struck",
+    "meaning_zh": "他被击中；他深受触动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短句含义依语境"
+  },
+  {
+    "item_code": "w_034152",
+    "content": "he is stuck",
+    "meaning_zh": "他被困住；他卡住了",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见状态表达"
+  },
+  {
+    "item_code": "w_034168",
+    "content": "head out to",
+    "meaning_zh": "前往；出发去",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_034170",
+    "content": "head over to",
+    "meaning_zh": "前往；过去到",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见口语短语"
+  },
+  {
+    "item_code": "w_034179",
+    "content": "head-of-state diplomacy",
+    "meaning_zh": "元首外交",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政治术语"
+  },
+  {
+    "item_code": "w_034193",
+    "content": "header paper",
+    "meaning_zh": "抬头信纸；信头纸",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "商务语境推断"
+  },
+  {
+    "item_code": "w_034203",
+    "content": "headlight indicate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "不成固定表达"
+  },
+  {
+    "item_code": "w_034205",
+    "content": "headline deluxe",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声组合"
+  },
+  {
+    "item_code": "w_034206",
+    "content": "headline illustrate illustration index",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串无明确含义"
+  },
+  {
+    "item_code": "w_034207",
+    "content": "headline news",
+    "meaning_zh": "头条新闻",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见新闻表达"
+  },
+  {
+    "item_code": "w_034211",
+    "content": "headlong abysmal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声组合"
+  },
+  {
+    "item_code": "w_034222",
+    "content": "headquarters breach",
+    "meaning_zh": "总部遭入侵；总部安全漏洞",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "安全语境可解释"
+  },
+  {
+    "item_code": "w_034225",
+    "content": "heads rolling",
+    "meaning_zh": "有人被严厉惩处；有人被解雇",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语表达"
+  },
+  {
+    "item_code": "w_034240",
+    "content": "heal non smoking",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声组合"
+  },
+  {
+    "item_code": "w_034244",
+    "content": "health and fitness centre",
+    "meaning_zh": "健康健身中心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见场所名称"
+  },
+  {
+    "item_code": "w_034247",
+    "content": "health budgets",
+    "meaning_zh": "医疗卫生预算",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见公共政策表达"
+  },
+  {
+    "item_code": "w_034251",
+    "content": "health center",
+    "meaning_zh": "健康中心；医疗中心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见场所名称"
+  }
+]

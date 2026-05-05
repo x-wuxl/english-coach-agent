@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_062223",
+    "content": "retired machination",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_062227",
+    "content": "retirement from",
+    "meaning_zh": "从……退休；退出……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词搭配"
+  },
+  {
+    "item_code": "w_062229",
+    "content": "retold",
+    "meaning_zh": "复述；转述；重讲",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "retell的过去式"
+  },
+  {
+    "item_code": "w_062234",
+    "content": "retouch hasten",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_062237",
+    "content": "retract caprice",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_062249",
+    "content": "retric",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_062254",
+    "content": "retrieve lost cultural relics",
+    "meaning_zh": "追回流失文物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_062255",
+    "content": "retrieve saint",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_062256",
+    "content": "retrieve solid",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_062266",
+    "content": "retrograde offend",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_062275",
+    "content": "retrospective patina debase",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串无固定含义"
+  },
+  {
+    "item_code": "w_062285",
+    "content": "return a favor",
+    "meaning_zh": "回报恩惠；还人情",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_062286",
+    "content": "return a phone call",
+    "meaning_zh": "回电话",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见口语表达"
+  },
+  {
+    "item_code": "w_062288",
+    "content": "return area",
+    "meaning_zh": "返回区域；回流区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缺少具体语境"
+  },
+  {
+    "item_code": "w_062290",
+    "content": "return statement",
+    "meaning_zh": "返回语句",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程术语"
+  },
+  {
+    "item_code": "w_062296",
+    "content": "return value",
+    "meaning_zh": "返回值",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程术语"
+  },
+  {
+    "item_code": "w_062297",
+    "content": "returned",
+    "meaning_zh": "返回；归还；回来了",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指回来"
+  },
+  {
+    "item_code": "w_062298",
+    "content": "returned overseas students",
+    "meaning_zh": "归国留学生；海归学生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教育表达"
+  },
+  {
+    "item_code": "w_062301",
+    "content": "returning customer",
+    "meaning_zh": "回头客；老客户",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商业常见表达"
+  },
+  {
+    "item_code": "w_062302",
+    "content": "returning customers",
+    "meaning_zh": "回头客；老客户",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复数形式"
+  }
+]

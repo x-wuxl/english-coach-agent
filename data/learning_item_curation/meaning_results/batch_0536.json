@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_051965",
+    "content": "online shop mall",
+    "meaning_zh": "网上商城",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配不自然但含义明确"
+  },
+  {
+    "item_code": "w_051967",
+    "content": "online shopping mall",
+    "meaning_zh": "网上商城",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见电商表达"
+  },
+  {
+    "item_code": "w_051969",
+    "content": "online teacher",
+    "meaning_zh": "线上教师；网课老师",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_051970",
+    "content": "online tomb-sweeping",
+    "meaning_zh": "网上祭扫；云祭扫",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定社会文化表达"
+  },
+  {
+    "item_code": "w_051973",
+    "content": "online tutor",
+    "meaning_zh": "在线家教；网课辅导老师",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教育表达"
+  },
+  {
+    "item_code": "w_051974",
+    "content": "online virtual assets",
+    "meaning_zh": "网络虚拟资产",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见法律科技术语"
+  },
+  {
+    "item_code": "w_051997",
+    "content": "onto along presence",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词序杂乱疑似噪声"
+  },
+  {
+    "item_code": "w_052003",
+    "content": "onym",
+    "meaning_zh": "名字；名称",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语言学术语较少见"
+  },
+  {
+    "item_code": "w_052008",
+    "content": "oogruk",
+    "meaning_zh": "髯海豹",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见动物名称"
+  },
+  {
+    "item_code": "w_052014",
+    "content": "oos",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写含义不明"
+  },
+  {
+    "item_code": "w_052027",
+    "content": "open a new business",
+    "meaning_zh": "开办新企业；开张新店",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商业表达"
+  },
+  {
+    "item_code": "w_052035",
+    "content": "open coastal city",
+    "meaning_zh": "沿海开放城市",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政策术语"
+  },
+  {
+    "item_code": "w_052037",
+    "content": "open low-altitude airspace",
+    "meaning_zh": "开放低空空域",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "航空政策表达"
+  },
+  {
+    "item_code": "w_052045",
+    "content": "open stacks",
+    "meaning_zh": "开架书库；开放书架",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "图书馆常用术语"
+  },
+  {
+    "item_code": "w_052049",
+    "content": "open the floor",
+    "meaning_zh": "开放发言；开始自由讨论",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "会议常用表达"
+  },
+  {
+    "item_code": "w_052054",
+    "content": "open up prospects",
+    "meaning_zh": "开辟前景；带来机会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_052055",
+    "content": "open up to sb.",
+    "meaning_zh": "向某人敞开心扉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语动词"
+  },
+  {
+    "item_code": "w_052059",
+    "content": "open-air pool",
+    "meaning_zh": "露天游泳池",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见设施名称"
+  },
+  {
+    "item_code": "w_052060",
+    "content": "open-air theatre",
+    "meaning_zh": "露天剧场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见场所名称"
+  },
+  {
+    "item_code": "w_052062",
+    "content": "open-book exam",
+    "meaning_zh": "开卷考试",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见考试形式"
+  }
+]

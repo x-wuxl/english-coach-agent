@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_041129",
+    "content": "Kakado",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声或专名"
+  },
+  {
+    "item_code": "w_041136",
+    "content": "kaleidus sternum balance",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无可靠含义"
+  },
+  {
+    "item_code": "w_041142",
+    "content": "kamsani adjourn",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼接噪声"
+  },
+  {
+    "item_code": "w_041154",
+    "content": "karim",
+    "meaning_zh": "克里姆（人名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句表明为人名"
+  },
+  {
+    "item_code": "w_041155",
+    "content": "karine cash obliterate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼接噪声"
+  },
+  {
+    "item_code": "w_041169",
+    "content": "Katherine Whitehorn",
+    "meaning_zh": "凯瑟琳·怀特霍恩（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "明显为人名"
+  },
+  {
+    "item_code": "w_041171",
+    "content": "Kathy",
+    "meaning_zh": "凯蒂（人名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句表明为人名"
+  },
+  {
+    "item_code": "w_041181",
+    "content": "kebab spinach",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_041186",
+    "content": "keen odor unfold",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼接噪声"
+  },
+  {
+    "item_code": "w_041196",
+    "content": "keep ... down",
+    "meaning_zh": "控制；压低；抑制",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_041197",
+    "content": "keep ... free from",
+    "meaning_zh": "使……免受；使……不含",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_041198",
+    "content": "keep ... free of",
+    "meaning_zh": "使……免受；使……不含",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_041212",
+    "content": "keep a balanced diet",
+    "meaning_zh": "保持均衡饮食",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见健康表达"
+  },
+  {
+    "item_code": "w_041214",
+    "content": "keep a distance from",
+    "meaning_zh": "与……保持距离",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_041215",
+    "content": "keep a good diet",
+    "meaning_zh": "保持良好饮食",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见健康表达"
+  },
+  {
+    "item_code": "w_041216",
+    "content": "keep a hold on",
+    "meaning_zh": "抓住；控制；保持掌握",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语表达"
+  },
+  {
+    "item_code": "w_041226",
+    "content": "keep alert",
+    "meaning_zh": "保持警觉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_041247",
+    "content": "keep dates",
+    "meaning_zh": "记住日期；按约定日期行事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义依语境略变"
+  },
+  {
+    "item_code": "w_041248",
+    "content": "keep deadlines",
+    "meaning_zh": "遵守截止日期；按期完成",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习工作搭配"
+  },
+  {
+    "item_code": "w_041254",
+    "content": "keep ecological balance",
+    "meaning_zh": "保持生态平衡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见环保表达"
+  }
+]

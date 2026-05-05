@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_061799",
+    "content": "require intelligence",
+    "meaning_zh": "需要智力；需要智能",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "动词短语含义明确"
+  },
+  {
+    "item_code": "w_061802",
+    "content": "require to do sth.",
+    "meaning_zh": "要求做某事；需要做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配形式略不完整"
+  },
+  {
+    "item_code": "w_061805",
+    "content": "required courses",
+    "meaning_zh": "必修课程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育场景常见搭配"
+  },
+  {
+    "item_code": "w_061810",
+    "content": "requisite preparation",
+    "meaning_zh": "必要准备",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "正式搭配含义明确"
+  },
+  {
+    "item_code": "w_061813",
+    "content": "requisition sculpture",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_061816",
+    "content": "requium",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_061821",
+    "content": "rerun film",
+    "meaning_zh": "重映影片；重播电影",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "影视搭配可判断"
+  },
+  {
+    "item_code": "w_061822",
+    "content": "res",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写残片含义不明"
+  },
+  {
+    "item_code": "w_061824",
+    "content": "resc",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写残片含义不明"
+  },
+  {
+    "item_code": "w_061833",
+    "content": "rescue diver",
+    "meaning_zh": "救援潜水员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职业名词短语"
+  },
+  {
+    "item_code": "w_061842",
+    "content": "research and development base",
+    "meaning_zh": "研发基地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "科技商务常见表达"
+  },
+  {
+    "item_code": "w_061843",
+    "content": "research and development funds",
+    "meaning_zh": "研发经费",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "资金类常见搭配"
+  },
+  {
+    "item_code": "w_061844",
+    "content": "research and invention center",
+    "meaning_zh": "研究与发明中心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "机构名称类短语"
+  },
+  {
+    "item_code": "w_061846",
+    "content": "research assessment",
+    "meaning_zh": "研究评估；科研评价",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术场景常见搭配"
+  },
+  {
+    "item_code": "w_061848",
+    "content": "research assistantship",
+    "meaning_zh": "研究助教奖学金；研究助理职位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "留学场景术语"
+  },
+  {
+    "item_code": "w_061850",
+    "content": "research excavation",
+    "meaning_zh": "研究性发掘；考古研究发掘",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "考古语境可判断"
+  },
+  {
+    "item_code": "w_061851",
+    "content": "research finding",
+    "meaning_zh": "研究发现；研究结果",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术写作常见表达"
+  },
+  {
+    "item_code": "w_061852",
+    "content": "research fund",
+    "meaning_zh": "研究基金；科研经费",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术资金常见搭配"
+  },
+  {
+    "item_code": "w_061855",
+    "content": "research journal",
+    "meaning_zh": "研究期刊；学术期刊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "出版学术常见搭配"
+  },
+  {
+    "item_code": "w_061860",
+    "content": "research productivity",
+    "meaning_zh": "科研产出；研究生产力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术评价常见术语"
+  }
+]

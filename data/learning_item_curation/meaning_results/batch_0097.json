@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_008011",
+    "content": "be secondary to",
+    "meaning_zh": "次于；不如……重要",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配表次要"
+  },
+  {
+    "item_code": "w_008014",
+    "content": "be seen as",
+    "meaning_zh": "被看作；被视为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动搭配"
+  },
+  {
+    "item_code": "w_008015",
+    "content": "be seen to be",
+    "meaning_zh": "被认为是；被看出是",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见认知表达"
+  },
+  {
+    "item_code": "w_008016",
+    "content": "be self-important",
+    "meaning_zh": "自以为是；妄自尊大",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见性格描述"
+  },
+  {
+    "item_code": "w_008022",
+    "content": "be serious about doing",
+    "meaning_zh": "认真对待做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配结构"
+  },
+  {
+    "item_code": "w_008024",
+    "content": "be set back",
+    "meaning_zh": "被耽搁；受挫",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动短语"
+  },
+  {
+    "item_code": "w_008029",
+    "content": "be shocked by",
+    "meaning_zh": "因……感到震惊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见情绪搭配"
+  },
+  {
+    "item_code": "w_008030",
+    "content": "be shocked to do",
+    "meaning_zh": "震惊地做某事；因做某事感到震惊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见不定式搭配"
+  },
+  {
+    "item_code": "w_008035",
+    "content": "be shouted at",
+    "meaning_zh": "被大声斥责；被吼叫",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动搭配"
+  },
+  {
+    "item_code": "w_008041",
+    "content": "be situated at ...",
+    "meaning_zh": "位于……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地点表达固定"
+  },
+  {
+    "item_code": "w_008043",
+    "content": "be skeptical about",
+    "meaning_zh": "对……持怀疑态度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见态度搭配"
+  },
+  {
+    "item_code": "w_008044",
+    "content": "be skeptical of",
+    "meaning_zh": "对……持怀疑态度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见态度搭配"
+  },
+  {
+    "item_code": "w_008048",
+    "content": "be skillful in",
+    "meaning_zh": "擅长于；在……方面熟练",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "能力搭配明确"
+  },
+  {
+    "item_code": "w_008049",
+    "content": "be snubbed",
+    "meaning_zh": "遭到冷落；受到怠慢",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "被动含义明确"
+  },
+  {
+    "item_code": "w_008050",
+    "content": "be socially acceptable",
+    "meaning_zh": "为社会所接受；符合社会规范",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会评价"
+  },
+  {
+    "item_code": "w_008054",
+    "content": "be sorrowful of",
+    "meaning_zh": "对……感到悲伤",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配少见但可判断"
+  },
+  {
+    "item_code": "w_008057",
+    "content": "be specific to",
+    "meaning_zh": "是……特有的；专属于……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见限定搭配"
+  },
+  {
+    "item_code": "w_008059",
+    "content": "be spoiled for choice",
+    "meaning_zh": "选择太多而难以决定",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语表达"
+  },
+  {
+    "item_code": "w_008060",
+    "content": "be stacked against",
+    "meaning_zh": "形势对……不利",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定被动习语"
+  },
+  {
+    "item_code": "w_008061",
+    "content": "be stalled by",
+    "meaning_zh": "因……停滞；被……拖延",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动搭配"
+  }
+]

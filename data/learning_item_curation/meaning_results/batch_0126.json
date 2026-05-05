@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_010884",
+    "content": "brushing my teeth",
+    "meaning_zh": "刷牙",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句明确为日常动作"
+  },
+  {
+    "item_code": "w_010898",
+    "content": "BSc",
+    "meaning_zh": "理学学士",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学位缩写"
+  },
+  {
+    "item_code": "w_010900",
+    "content": "bteak new ground",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_010920",
+    "content": "bucket approximate shriek unaffected",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无整体含义"
+  },
+  {
+    "item_code": "w_010921",
+    "content": "bucket butt",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然难判断"
+  },
+  {
+    "item_code": "w_010940",
+    "content": "Buddhist sacred land",
+    "meaning_zh": "佛教圣地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定名词短语"
+  },
+  {
+    "item_code": "w_010951",
+    "content": "budget husband",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配"
+  },
+  {
+    "item_code": "w_010952",
+    "content": "budget performance management",
+    "meaning_zh": "预算绩效管理",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "管理领域术语"
+  },
+  {
+    "item_code": "w_010954",
+    "content": "budget price range",
+    "meaning_zh": "预算价格范围；预算价位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见消费表达"
+  },
+  {
+    "item_code": "w_010958",
+    "content": "budgeted to the limits",
+    "meaning_zh": "预算已到极限；预算非常紧张",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义可由短语判断"
+  },
+  {
+    "item_code": "w_010968",
+    "content": "buffet staff",
+    "meaning_zh": "自助餐工作人员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "餐饮场景常见搭配"
+  },
+  {
+    "item_code": "w_010973",
+    "content": "bug hell",
+    "meaning_zh": "程序错误泛滥的困境",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术口语表达"
+  },
+  {
+    "item_code": "w_010976",
+    "content": "bugbear",
+    "meaning_zh": "令人烦恼的事物；心头大患",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见高阶词汇"
+  },
+  {
+    "item_code": "w_010984",
+    "content": "build a learning society",
+    "meaning_zh": "建设学习型社会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策教育常见表达"
+  },
+  {
+    "item_code": "w_010985",
+    "content": "build better road systems",
+    "meaning_zh": "建设更好的道路系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通建设常见表达"
+  },
+  {
+    "item_code": "w_010988",
+    "content": "build nests",
+    "meaning_zh": "筑巢",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句明确"
+  },
+  {
+    "item_code": "w_010990",
+    "content": "build sb up",
+    "meaning_zh": "增强某人的体质；鼓励某人；吹捧某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_010991",
+    "content": "build up expertise",
+    "meaning_zh": "积累专业知识；培养专长",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术职场常见搭配"
+  },
+  {
+    "item_code": "w_010992",
+    "content": "build up one's confidence",
+    "meaning_zh": "建立自信；增强信心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习表达"
+  },
+  {
+    "item_code": "w_011002",
+    "content": "building ruins",
+    "meaning_zh": "建筑废墟；建筑遗迹",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "名词短语含义明确"
+  }
+]

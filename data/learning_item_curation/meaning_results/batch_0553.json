@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_054006",
+    "content": "passive consumption mode",
+    "meaning_zh": "被动消费模式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见搭配但较抽象"
+  },
+  {
+    "item_code": "w_054007",
+    "content": "passive elongation",
+    "meaning_zh": "被动伸长；被动延长",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术性搭配"
+  },
+  {
+    "item_code": "w_054016",
+    "content": "passport valid",
+    "meaning_zh": "护照有效",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "留学场景表达"
+  },
+  {
+    "item_code": "w_054017",
+    "content": "passport-size photograph",
+    "meaning_zh": "护照尺寸照片；证件照",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定证件照表达"
+  },
+  {
+    "item_code": "w_054020",
+    "content": "passé",
+    "meaning_zh": "过时的；不再流行的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句不匹配"
+  },
+  {
+    "item_code": "w_054023",
+    "content": "past generations",
+    "meaning_zh": "过去几代人；前几代人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_054025",
+    "content": "past-tense condition",
+    "meaning_zh": "过去时条件句；过去时条件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语法术语搭配"
+  },
+  {
+    "item_code": "w_054035",
+    "content": "pasteurized saloon sherry",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显拼接噪声"
+  },
+  {
+    "item_code": "w_054040",
+    "content": "pastoral scene",
+    "meaning_zh": "田园景象；乡村风光",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见描写搭配"
+  },
+  {
+    "item_code": "w_054045",
+    "content": "pastry donut candy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌噪声"
+  },
+  {
+    "item_code": "w_054046",
+    "content": "pastry seasoning publicity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌噪声"
+  },
+  {
+    "item_code": "w_054047",
+    "content": "pasttime",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑为pastime误拼"
+  },
+  {
+    "item_code": "w_054058",
+    "content": "patchwork regulation",
+    "meaning_zh": "零散拼凑的监管；拼凑式规定",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "政策语境常见搭配"
+  },
+  {
+    "item_code": "w_054066",
+    "content": "patent filing",
+    "meaning_zh": "专利申请；提交专利文件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专利领域固定搭配"
+  },
+  {
+    "item_code": "w_054068",
+    "content": "patent inconsequential pickle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显拼接噪声"
+  },
+  {
+    "item_code": "w_054071",
+    "content": "patent on",
+    "meaning_zh": "关于……的专利",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "介词搭配表达"
+  },
+  {
+    "item_code": "w_054072",
+    "content": "patent soothe",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_054073",
+    "content": "patent-granting",
+    "meaning_zh": "授予专利的；专利授权",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专利领域术语"
+  },
+  {
+    "item_code": "w_054088",
+    "content": "path based finder",
+    "meaning_zh": "基于路径的查找器",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "计算机术语组合"
+  },
+  {
+    "item_code": "w_054089",
+    "content": "path entry",
+    "meaning_zh": "路径条目；路径项",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  }
+]

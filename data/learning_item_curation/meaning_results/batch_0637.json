@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_062547",
+    "content": "rid yourself of ...",
+    "meaning_zh": "使自己摆脱；除掉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_062548",
+    "content": "ridal",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_062560",
+    "content": "ride a vintage motorbike",
+    "meaning_zh": "骑一辆老式摩托车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词短语"
+  },
+  {
+    "item_code": "w_062561",
+    "content": "ride bicycles",
+    "meaning_zh": "骑自行车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_062562",
+    "content": "ride for fitness",
+    "meaning_zh": "为健身而骑行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_062563",
+    "content": "ride my exercise bike",
+    "meaning_zh": "骑我的健身车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词短语"
+  },
+  {
+    "item_code": "w_062569",
+    "content": "ride the waves",
+    "meaning_zh": "乘浪前行；冲浪",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_062570",
+    "content": "ride-hailing",
+    "meaning_zh": "网约车服务；叫车服务",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见复合词"
+  },
+  {
+    "item_code": "w_062576",
+    "content": "ridibund",
+    "meaning_zh": "笑着的；爱笑的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见形容词"
+  },
+  {
+    "item_code": "w_062589",
+    "content": "rifle through",
+    "meaning_zh": "快速翻找；搜寻",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词"
+  },
+  {
+    "item_code": "w_062594",
+    "content": "rift tender menushi",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声组合"
+  },
+  {
+    "item_code": "w_062598",
+    "content": "rigatta",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_062603",
+    "content": "right attitude",
+    "meaning_zh": "正确的态度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_062607",
+    "content": "right hand side",
+    "meaning_zh": "右侧；右手边",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见方位表达"
+  },
+  {
+    "item_code": "w_062610",
+    "content": "right on cue",
+    "meaning_zh": "恰好在这时；正合时宜",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_062614",
+    "content": "right to assemble",
+    "meaning_zh": "集会权",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律政治术语"
+  },
+  {
+    "item_code": "w_062635",
+    "content": "rigid amply",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_062636",
+    "content": "rigid bewilderment",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_062638",
+    "content": "rigid denude",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_062639",
+    "content": "rigid ritual",
+    "meaning_zh": "严格的仪式；僵化的惯例",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解搭配"
+  }
+]

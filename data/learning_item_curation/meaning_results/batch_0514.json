@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_049762",
+    "content": "New Year's gift",
+    "meaning_zh": "新年礼物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见节日名词短语"
+  },
+  {
+    "item_code": "w_049765",
+    "content": "New York Harbour",
+    "meaning_zh": "纽约港",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地名专有名词"
+  },
+  {
+    "item_code": "w_049768",
+    "content": "New Zealand's National Party",
+    "meaning_zh": "新西兰国家党",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政党专有名词"
+  },
+  {
+    "item_code": "w_049770",
+    "content": "new-energy vehicles",
+    "meaning_zh": "新能源汽车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见行业术语"
+  },
+  {
+    "item_code": "w_049772",
+    "content": "new-style class",
+    "meaning_zh": "新式类",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机编程术语"
+  },
+  {
+    "item_code": "w_049779",
+    "content": "newline",
+    "meaning_zh": "换行符；换行",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_049781",
+    "content": "newly staked mining claims",
+    "meaning_zh": "新圈定的采矿权",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "采矿法律搭配"
+  },
+  {
+    "item_code": "w_049784",
+    "content": "newly-literate",
+    "meaning_zh": "刚识字的；新近具备读写能力的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_049792",
+    "content": "news blockout",
+    "meaning_zh": "新闻封锁",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为新闻封锁搭配"
+  },
+  {
+    "item_code": "w_049799",
+    "content": "news feed ad",
+    "meaning_zh": "信息流广告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "互联网广告术语"
+  },
+  {
+    "item_code": "w_049814",
+    "content": "newscast patron shipment bacteria",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_049823",
+    "content": "newspaper and magazine office",
+    "meaning_zh": "报刊杂志社",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "机构名词短语"
+  },
+  {
+    "item_code": "w_049824",
+    "content": "newspaper binder",
+    "meaning_zh": "报纸装订夹；报纸合订本",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义依语境略变"
+  },
+  {
+    "item_code": "w_049828",
+    "content": "newspaper supplement",
+    "meaning_zh": "报纸副刊；报纸增刊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "出版常用搭配"
+  },
+  {
+    "item_code": "w_049842",
+    "content": "Newton's Laws of Motions",
+    "meaning_zh": "牛顿运动定律",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "物理专有名词"
+  },
+  {
+    "item_code": "w_049851",
+    "content": "next summer",
+    "meaning_zh": "明年夏天；下个夏天",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配时间短语"
+  },
+  {
+    "item_code": "w_049857",
+    "content": "next weekend",
+    "meaning_zh": "下个周末",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配时间短语"
+  },
+  {
+    "item_code": "w_049860",
+    "content": "next-to-no-cost",
+    "meaning_zh": "几乎零成本的；几乎免费的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定形容词表达"
+  },
+  {
+    "item_code": "w_049861",
+    "content": "next-to-no-cost program",
+    "meaning_zh": "几乎免费的项目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达作定语"
+  },
+  {
+    "item_code": "w_049863",
+    "content": "nexus frothy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无可靠搭配含义"
+  }
+]

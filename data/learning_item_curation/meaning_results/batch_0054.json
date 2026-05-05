@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_004152",
+    "content": "appreciate art of construction",
+    "meaning_zh": "欣赏建筑艺术",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "整体短语含义明确"
+  },
+  {
+    "item_code": "w_004153",
+    "content": "appreciate conflict",
+    "meaning_zh": "理解冲突",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配略生硬但可判断"
+  },
+  {
+    "item_code": "w_004154",
+    "content": "appreciate different photos",
+    "meaning_zh": "欣赏不同的照片",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾短语"
+  },
+  {
+    "item_code": "w_004155",
+    "content": "appreciate fuss swab",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合明显噪声"
+  },
+  {
+    "item_code": "w_004156",
+    "content": "appreciate grateful impress",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌无固定义"
+  },
+  {
+    "item_code": "w_004157",
+    "content": "appreciate music",
+    "meaning_zh": "欣赏音乐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾短语"
+  },
+  {
+    "item_code": "w_004158",
+    "content": "appreciate sb. doing sth.",
+    "meaning_zh": "感激某人做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型用法"
+  },
+  {
+    "item_code": "w_004159",
+    "content": "appreciate the world",
+    "meaning_zh": "欣赏世界；认识世界",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语可有两种理解"
+  },
+  {
+    "item_code": "w_004160",
+    "content": "appreciate their works",
+    "meaning_zh": "欣赏他们的作品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾短语"
+  },
+  {
+    "item_code": "w_004163",
+    "content": "appreciative of sth.",
+    "meaning_zh": "对某事心存感激；欣赏某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定形容词搭配"
+  },
+  {
+    "item_code": "w_004166",
+    "content": "apprehend feature superior",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合明显噪声"
+  },
+  {
+    "item_code": "w_004167",
+    "content": "apprehend gear",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然无语境"
+  },
+  {
+    "item_code": "w_004186",
+    "content": "appropriate authorize",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "并列词无明确含义"
+  },
+  {
+    "item_code": "w_004193",
+    "content": "approval dementia",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合明显噪声"
+  },
+  {
+    "item_code": "w_004198",
+    "content": "approved curriculum outline",
+    "meaning_zh": "获批准的课程大纲",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育场景短语明确"
+  },
+  {
+    "item_code": "w_004203",
+    "content": "approximate career recognize",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌无固定义"
+  },
+  {
+    "item_code": "w_004220",
+    "content": "April may June",
+    "meaning_zh": "四月；五月；六月",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "月份罗列学习价值低"
+  },
+  {
+    "item_code": "w_004222",
+    "content": "apropo",
+    "meaning_zh": "恰好的；适当的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为apropos变体"
+  },
+  {
+    "item_code": "w_004223",
+    "content": "apropo hallo fastigial",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合明显噪声"
+  },
+  {
+    "item_code": "w_004227",
+    "content": "Apsaras",
+    "meaning_zh": "飞天；阿普萨拉斯",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "神话专有名词"
+  }
+]

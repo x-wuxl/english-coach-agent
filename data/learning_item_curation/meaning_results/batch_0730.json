@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_071961",
+    "content": "table d'hôte",
+    "meaning_zh": "定价套餐；客饭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定餐饮表达"
+  },
+  {
+    "item_code": "w_071973",
+    "content": "tablet chemist",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_071986",
+    "content": "tacit liberal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定表达"
+  },
+  {
+    "item_code": "w_071994",
+    "content": "tackle individual venture",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_071995",
+    "content": "tackle problems",
+    "meaning_zh": "解决问题；处理难题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_071999",
+    "content": "taco stand",
+    "meaning_zh": "塔可小吃摊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_072002",
+    "content": "tact scathing reproof",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_072005",
+    "content": "tactic absurd merger",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_072010",
+    "content": "tactile gocky",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含疑似错词"
+  },
+  {
+    "item_code": "w_072016",
+    "content": "Tadpoles Searching for Mother",
+    "meaning_zh": "《小蝌蚪找妈妈》",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "作品标题"
+  },
+  {
+    "item_code": "w_072023",
+    "content": "tag tape vent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_072029",
+    "content": "Taihu stones",
+    "meaning_zh": "太湖石",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文化专有名词"
+  },
+  {
+    "item_code": "w_072039",
+    "content": "tailor-made products",
+    "meaning_zh": "定制产品；量身定制的产品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常见搭配"
+  },
+  {
+    "item_code": "w_072041",
+    "content": "tailored taxi service",
+    "meaning_zh": "定制化出租车服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解搭配"
+  },
+  {
+    "item_code": "w_072048",
+    "content": "tain",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似残词"
+  },
+  {
+    "item_code": "w_072049",
+    "content": "tain quiescent restitution",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_072052",
+    "content": "tainted star",
+    "meaning_zh": "名誉受损的明星",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语义可判断"
+  },
+  {
+    "item_code": "w_072079",
+    "content": "take ... on oneself",
+    "meaning_zh": "承担……；把……揽到自己身上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词短语"
+  },
+  {
+    "item_code": "w_072081",
+    "content": "take ... out soon",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定表达"
+  },
+  {
+    "item_code": "w_072088",
+    "content": "take ... too far",
+    "meaning_zh": "把……做得过火；把……推得太远",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词短语"
+  }
+]

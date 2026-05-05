@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_030773",
+    "content": "get a sunburn",
+    "meaning_zh": "晒伤",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句明确为晒伤"
+  },
+  {
+    "item_code": "w_030774",
+    "content": "get a surprise",
+    "meaning_zh": "感到惊讶；收到惊喜",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见短语含义"
+  },
+  {
+    "item_code": "w_030776",
+    "content": "get a tan",
+    "meaning_zh": "晒黑；晒成棕褐色",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_030777",
+    "content": "get a taste of",
+    "meaning_zh": "体验；尝到……的滋味",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "按整体短语释义"
+  },
+  {
+    "item_code": "w_030778",
+    "content": "get a tongue-lashing",
+    "meaning_zh": "遭到严厉斥责",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语含义明确"
+  },
+  {
+    "item_code": "w_030782",
+    "content": "get accepted",
+    "meaning_zh": "被接受；被录取",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动表达"
+  },
+  {
+    "item_code": "w_030788",
+    "content": "get admitted to",
+    "meaning_zh": "被……录取；获准进入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "入学场景常用"
+  },
+  {
+    "item_code": "w_030802",
+    "content": "get an edge",
+    "meaning_zh": "获得优势",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配含义"
+  },
+  {
+    "item_code": "w_030806",
+    "content": "get antsy",
+    "meaning_zh": "变得焦躁不安",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "口语表达明确"
+  },
+  {
+    "item_code": "w_030808",
+    "content": "get around by bike",
+    "meaning_zh": "骑自行车出行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通方式短语"
+  },
+  {
+    "item_code": "w_030824",
+    "content": "get better service",
+    "meaning_zh": "得到更好的服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通搭配明确"
+  },
+  {
+    "item_code": "w_030828",
+    "content": "get burned out",
+    "meaning_zh": "变得精疲力竭；产生职业倦怠",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见倦怠表达"
+  },
+  {
+    "item_code": "w_030830",
+    "content": "get burnt out",
+    "meaning_zh": "变得精疲力竭；产生职业倦怠",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "英式拼法同义"
+  },
+  {
+    "item_code": "w_030843",
+    "content": "get closer to",
+    "meaning_zh": "更接近；靠近",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见比较表达"
+  },
+  {
+    "item_code": "w_030847",
+    "content": "get cracking on",
+    "meaning_zh": "赶紧开始做；着手处理",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "口语固定表达"
+  },
+  {
+    "item_code": "w_030851",
+    "content": "get dependent on",
+    "meaning_zh": "变得依赖……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "搭配含义明确"
+  },
+  {
+    "item_code": "w_030852",
+    "content": "get dolled up",
+    "meaning_zh": "精心打扮",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "口语习语含义"
+  },
+  {
+    "item_code": "w_030861",
+    "content": "get education",
+    "meaning_zh": "接受教育",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配略生硬"
+  },
+  {
+    "item_code": "w_030863",
+    "content": "get engaged to",
+    "meaning_zh": "与……订婚",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "婚恋固定搭配"
+  },
+  {
+    "item_code": "w_030864",
+    "content": "get engaged to sb.",
+    "meaning_zh": "与某人订婚",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "婚恋固定搭配"
+  }
+]

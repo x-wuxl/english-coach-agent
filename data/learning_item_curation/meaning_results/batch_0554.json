@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_054090",
+    "content": "path entry finder",
+    "meaning_zh": "路径项查找器",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "Python导入术语"
+  },
+  {
+    "item_code": "w_054091",
+    "content": "path entry hook",
+    "meaning_zh": "路径项钩子",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "Python导入术语"
+  },
+  {
+    "item_code": "w_054092",
+    "content": "path-like object",
+    "meaning_zh": "类路径对象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程常用术语"
+  },
+  {
+    "item_code": "w_054094",
+    "content": "pathetic need",
+    "meaning_zh": "可怜的需求；令人同情的需要",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "普通形容词短语"
+  },
+  {
+    "item_code": "w_054107",
+    "content": "pathological inducement",
+    "meaning_zh": "病理性诱因",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学相关搭配"
+  },
+  {
+    "item_code": "w_054116",
+    "content": "patience and endurance",
+    "meaning_zh": "耐心和忍耐力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见并列短语"
+  },
+  {
+    "item_code": "w_054117",
+    "content": "patience and special strategies",
+    "meaning_zh": "耐心和特殊策略",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "普通并列短语"
+  },
+  {
+    "item_code": "w_054119",
+    "content": "patient in critical condition",
+    "meaning_zh": "危重病人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医疗常用表达"
+  },
+  {
+    "item_code": "w_054121",
+    "content": "patient-doctor disputes",
+    "meaning_zh": "医患纠纷",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "社会话题常用语"
+  },
+  {
+    "item_code": "w_054124",
+    "content": "patients in critical condition",
+    "meaning_zh": "危重病人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医疗常用表达"
+  },
+  {
+    "item_code": "w_054140",
+    "content": "patriotic glycogen",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声搭配"
+  },
+  {
+    "item_code": "w_054141",
+    "content": "patriotic movement",
+    "meaning_zh": "爱国运动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政治历史搭配"
+  },
+  {
+    "item_code": "w_054142",
+    "content": "patriotic poets",
+    "meaning_zh": "爱国诗人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文学常见搭配"
+  },
+  {
+    "item_code": "w_054143",
+    "content": "patriotic united front",
+    "meaning_zh": "爱国统一战线",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治固定表达"
+  },
+  {
+    "item_code": "w_054146",
+    "content": "patriotism ideology",
+    "meaning_zh": "爱国主义思想",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "政治教育搭配"
+  },
+  {
+    "item_code": "w_054147",
+    "content": "patriots",
+    "meaning_zh": "爱国者",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词复数"
+  },
+  {
+    "item_code": "w_054149",
+    "content": "patrolled by unions",
+    "meaning_zh": "由工会巡查；由工会巡逻",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "被动短语可理解"
+  },
+  {
+    "item_code": "w_054153",
+    "content": "patron patronage",
+    "meaning_zh": "赞助人；赞助",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "词汇拼接非自然短语"
+  },
+  {
+    "item_code": "w_054158",
+    "content": "patronize cordon",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声搭配"
+  },
+  {
+    "item_code": "w_054164",
+    "content": "pattern of discourse",
+    "meaning_zh": "话语模式；论述模式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "语言学常用搭配"
+  }
+]

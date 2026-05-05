@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_044389",
+    "content": "lucasite spacious degenerate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词噪声组合"
+  },
+  {
+    "item_code": "w_044390",
+    "content": "lucchetti d'amore",
+    "meaning_zh": "爱情锁",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "意大利语固定表达"
+  },
+  {
+    "item_code": "w_044395",
+    "content": "lucid projector celery",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词噪声组合"
+  },
+  {
+    "item_code": "w_044404",
+    "content": "lucky date",
+    "meaning_zh": "吉日；幸运的日子",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见搭配但缺少语境"
+  },
+  {
+    "item_code": "w_044408",
+    "content": "lucrative market",
+    "meaning_zh": "有利可图的市场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常见搭配"
+  },
+  {
+    "item_code": "w_044409",
+    "content": "lucrative opportunities",
+    "meaning_zh": "有利可图的机会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商业表达"
+  },
+  {
+    "item_code": "w_044421",
+    "content": "luff",
+    "meaning_zh": "迎风行驶；船帆迎风边",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "航海术语"
+  },
+  {
+    "item_code": "w_044426",
+    "content": "luggage shareholder directory cinema",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无意义词串"
+  },
+  {
+    "item_code": "w_044429",
+    "content": "lugubrious aboveboard arable",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无意义词串"
+  },
+  {
+    "item_code": "w_044435",
+    "content": "lullaby clib",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含疑似拼写噪声"
+  },
+  {
+    "item_code": "w_044436",
+    "content": "lulupution",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_044440",
+    "content": "lumber solitude",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常规搭配"
+  },
+  {
+    "item_code": "w_044441",
+    "content": "lumber tardy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常规搭配"
+  },
+  {
+    "item_code": "w_044451",
+    "content": "luminess",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_044455",
+    "content": "luminous captivate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常规词语组合"
+  },
+  {
+    "item_code": "w_044456",
+    "content": "luminous facilitate prophylaxis valor",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无意义词串"
+  },
+  {
+    "item_code": "w_044461",
+    "content": "lump ... together",
+    "meaning_zh": "把……归并在一起；把……混为一谈",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语结构"
+  },
+  {
+    "item_code": "w_044465",
+    "content": "lump together information",
+    "meaning_zh": "把信息归并在一起",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语具体用法"
+  },
+  {
+    "item_code": "w_044467",
+    "content": "lumps of soil",
+    "meaning_zh": "土块",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_044474",
+    "content": "lunar exploration program",
+    "meaning_zh": "月球探测计划",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "航天常见表达"
+  }
+]

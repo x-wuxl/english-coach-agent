@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_067644",
+    "content": "snowflake generation",
+    "meaning_zh": "雪花一代；被认为脆弱敏感的一代人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会文化表达"
+  },
+  {
+    "item_code": "w_067649",
+    "content": "snowrafting",
+    "meaning_zh": "雪地漂流",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可判断为雪上运动"
+  },
+  {
+    "item_code": "w_067656",
+    "content": "snub nebulous posit",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无固定含义"
+  },
+  {
+    "item_code": "w_067670",
+    "content": "so clinically and methodically",
+    "meaning_zh": "如此冷静而有条不紊地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作状语短语理解"
+  },
+  {
+    "item_code": "w_067686",
+    "content": "so thrust node",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无固定含义"
+  },
+  {
+    "item_code": "w_067699",
+    "content": "soak pain",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配含义不明"
+  },
+  {
+    "item_code": "w_067706",
+    "content": "soap bar towel",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "并列物品非固定搭配"
+  },
+  {
+    "item_code": "w_067709",
+    "content": "soap floroscopy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词串"
+  },
+  {
+    "item_code": "w_067713",
+    "content": "soapy axe calculator caliper",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无固定含义"
+  },
+  {
+    "item_code": "w_067718",
+    "content": "sob hoist",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配含义不明"
+  },
+  {
+    "item_code": "w_067720",
+    "content": "sober protoplasm",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无固定含义"
+  },
+  {
+    "item_code": "w_067721",
+    "content": "sober turpitude fable",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无固定含义"
+  },
+  {
+    "item_code": "w_067723",
+    "content": "sober user",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配含义不明"
+  },
+  {
+    "item_code": "w_067732",
+    "content": "soccer cricket",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "并列运动非固定搭配"
+  },
+  {
+    "item_code": "w_067733",
+    "content": "soccer fraud",
+    "meaning_zh": "足球欺诈；足球舞弊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作体育丑闻表达"
+  },
+  {
+    "item_code": "w_067734",
+    "content": "soccer hooligan",
+    "meaning_zh": "足球流氓",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_067736",
+    "content": "soccer reform plan",
+    "meaning_zh": "足球改革方案",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见新闻表达"
+  },
+  {
+    "item_code": "w_067738",
+    "content": "soccer-mad",
+    "meaning_zh": "狂热迷恋足球的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "连字符形容词"
+  },
+  {
+    "item_code": "w_067739",
+    "content": "soccer-mad parents",
+    "meaning_zh": "狂热迷恋足球的父母",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容词加名词短语"
+  },
+  {
+    "item_code": "w_067741",
+    "content": "sociable personality",
+    "meaning_zh": "合群的性格；善于交际的个性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见性格描述"
+  }
+]

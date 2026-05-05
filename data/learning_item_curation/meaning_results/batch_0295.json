@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_027873",
+    "content": "fine tradition",
+    "meaning_zh": "优良传统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_027874",
+    "content": "Fine, thanks.",
+    "meaning_zh": "很好，谢谢",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "问候回答用语"
+  },
+  {
+    "item_code": "w_027881",
+    "content": "Fine. And you?",
+    "meaning_zh": "很好。你呢",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "问候回答用语"
+  },
+  {
+    "item_code": "w_027883",
+    "content": "finely developed",
+    "meaning_zh": "高度发达的；精细完善的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "形容词性搭配"
+  },
+  {
+    "item_code": "w_027895",
+    "content": "fingerprint payment",
+    "meaning_zh": "指纹支付",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "支付方式术语"
+  },
+  {
+    "item_code": "w_027906",
+    "content": "finish the roll",
+    "meaning_zh": "拍完一卷胶卷；用完一卷",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缺少例句语境"
+  },
+  {
+    "item_code": "w_027917",
+    "content": "finite literal",
+    "meaning_zh": "有限字面量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "low",
+    "reason": "术语语境不足"
+  },
+  {
+    "item_code": "w_027922",
+    "content": "finnecky",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_027929",
+    "content": "fire a shot",
+    "meaning_zh": "开枪；射击",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_027938",
+    "content": "fire escapes",
+    "meaning_zh": "消防逃生梯；太平梯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_027948",
+    "content": "fire the imagination",
+    "meaning_zh": "激发想象力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_027982",
+    "content": "firewood fitness flag",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串无明确含义"
+  },
+  {
+    "item_code": "w_027998",
+    "content": "first bus",
+    "meaning_zh": "第一班公交车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_028001",
+    "content": "first class seating",
+    "meaning_zh": "头等舱座位；一等座",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅行场景搭配"
+  },
+  {
+    "item_code": "w_028006",
+    "content": "first few days",
+    "meaning_zh": "最初几天；头几天",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时间短语"
+  },
+  {
+    "item_code": "w_028013",
+    "content": "first issue",
+    "meaning_zh": "第一期；首要问题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可指期刊或问题"
+  },
+  {
+    "item_code": "w_028023",
+    "content": "First Prize Scholarship",
+    "meaning_zh": "一等奖学金",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "奖学金名称"
+  },
+  {
+    "item_code": "w_028028",
+    "content": "first-class function",
+    "meaning_zh": "一等函数",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_028029",
+    "content": "first-class object",
+    "meaning_zh": "一等对象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_028045",
+    "content": "first-tier city",
+    "meaning_zh": "一线城市",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见城市分级表达"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_026528",
+    "content": "fabule exert",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词组"
+  },
+  {
+    "item_code": "w_026533",
+    "content": "fac",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写残片不明"
+  },
+  {
+    "item_code": "w_026536",
+    "content": "face consumption",
+    "meaning_zh": "面子消费",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见社会文化表达"
+  },
+  {
+    "item_code": "w_026539",
+    "content": "face job",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_026540",
+    "content": "face left hand",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词组"
+  },
+  {
+    "item_code": "w_026542",
+    "content": "face obsessed",
+    "meaning_zh": "痴迷外貌的；颜控的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "整体含义可判断"
+  },
+  {
+    "item_code": "w_026545",
+    "content": "face scan payment",
+    "meaning_zh": "刷脸支付；人脸识别支付",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术支付术语"
+  },
+  {
+    "item_code": "w_026546",
+    "content": "face swiping",
+    "meaning_zh": "刷脸；人脸识别验证",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见科技表达"
+  },
+  {
+    "item_code": "w_026547",
+    "content": "face the crisis",
+    "meaning_zh": "面对危机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_026548",
+    "content": "face to face guidance",
+    "meaning_zh": "面对面指导",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教育表达"
+  },
+  {
+    "item_code": "w_026558",
+    "content": "face-to-face drug promotion",
+    "meaning_zh": "面对面药品推广",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医药营销表达"
+  },
+  {
+    "item_code": "w_026560",
+    "content": "face-to-face interchange",
+    "meaning_zh": "面对面交流",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见交流表达"
+  },
+  {
+    "item_code": "w_026563",
+    "content": "faced",
+    "meaning_zh": "面对；面临",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句体现面临含义"
+  },
+  {
+    "item_code": "w_026568",
+    "content": "facet inseminate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_026575",
+    "content": "facial foam",
+    "meaning_zh": "洁面泡沫；洗面奶",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见日化用品"
+  },
+  {
+    "item_code": "w_026576",
+    "content": "facial identification",
+    "meaning_zh": "面部识别；人脸识别",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见技术术语"
+  },
+  {
+    "item_code": "w_026581",
+    "content": "facilitate ascendant",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_026582",
+    "content": "facilitate noteworthy embezzle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似随机词串"
+  },
+  {
+    "item_code": "w_026597",
+    "content": "facto",
+    "meaning_zh": "事实上；实际上的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见于de facto"
+  },
+  {
+    "item_code": "w_026599",
+    "content": "factor ... into",
+    "meaning_zh": "把……考虑进去；将……纳入计算",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  }
+]

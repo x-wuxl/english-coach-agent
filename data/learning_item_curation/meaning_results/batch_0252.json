@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_023887",
+    "content": "electronic gadget",
+    "meaning_zh": "电子小装置；电子设备",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见电子产品搭配"
+  },
+  {
+    "item_code": "w_023889",
+    "content": "electronic heroin",
+    "meaning_zh": "电子海洛因；令人上瘾的电子游戏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "比喻性固定说法"
+  },
+  {
+    "item_code": "w_023897",
+    "content": "electronic supply",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_023904",
+    "content": "electronics applaud",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "明显噪声组合"
+  },
+  {
+    "item_code": "w_023932",
+    "content": "elegant and stately",
+    "meaning_zh": "优雅而庄重的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容词并列短语"
+  },
+  {
+    "item_code": "w_023933",
+    "content": "elegant artificial nosey",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "明显噪声组合"
+  },
+  {
+    "item_code": "w_023959",
+    "content": "elevation of",
+    "meaning_zh": "……的海拔高度；……的高度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指海拔高度"
+  },
+  {
+    "item_code": "w_023960",
+    "content": "elevation to",
+    "meaning_zh": "晋升为；提升到",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_023962",
+    "content": "elevator staircase banister",
+    "meaning_zh": "电梯；楼梯；栏杆扶手",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "并列生活词汇"
+  },
+  {
+    "item_code": "w_023968",
+    "content": "elicit cavort",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无自然搭配关系"
+  },
+  {
+    "item_code": "w_023969",
+    "content": "elicit hesitate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无自然搭配关系"
+  },
+  {
+    "item_code": "w_023975",
+    "content": "eligible to do",
+    "meaning_zh": "有资格做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见语法搭配"
+  },
+  {
+    "item_code": "w_023979",
+    "content": "eliminate damage",
+    "meaning_zh": "消除损害；避免损伤",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "动宾搭配可理解"
+  },
+  {
+    "item_code": "w_023981",
+    "content": "eliminate hall",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "明显噪声组合"
+  },
+  {
+    "item_code": "w_023983",
+    "content": "eliminate phlegm",
+    "meaning_zh": "祛痰；化痰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见医学表达"
+  },
+  {
+    "item_code": "w_023984",
+    "content": "eliminate the assignments",
+    "meaning_zh": "取消作业；去除任务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "动宾搭配可理解"
+  },
+  {
+    "item_code": "w_023989",
+    "content": "Elise",
+    "meaning_zh": "伊莉丝",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见人名"
+  },
+  {
+    "item_code": "w_023991",
+    "content": "elite and powerful force",
+    "meaning_zh": "精锐而强大的力量；精英强力部队",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "名词短语可理解"
+  },
+  {
+    "item_code": "w_023996",
+    "content": "elixir of immortality",
+    "meaning_zh": "长生不老药",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定神话表达"
+  },
+  {
+    "item_code": "w_024004",
+    "content": "Ellen",
+    "meaning_zh": "艾伦",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句显示人名"
+  }
+]

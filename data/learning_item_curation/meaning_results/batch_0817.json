@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_080751",
+    "content": "whereas vascular scar",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声短语"
+  },
+  {
+    "item_code": "w_080770",
+    "content": "while loop",
+    "meaning_zh": "while循环；当型循环",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_080795",
+    "content": "whirligig",
+    "meaning_zh": "旋转玩具；旋转物",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见词典义"
+  },
+  {
+    "item_code": "w_080798",
+    "content": "whirlpool buffer derail",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_080806",
+    "content": "whiskey accessory",
+    "meaning_zh": "威士忌配件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "普通名词搭配"
+  },
+  {
+    "item_code": "w_080808",
+    "content": "whisp",
+    "meaning_zh": "一缕；小束",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为wisp变体"
+  },
+  {
+    "item_code": "w_080813",
+    "content": "whispy",
+    "meaning_zh": "纤细缥缈的；一缕缕的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为wispy变体"
+  },
+  {
+    "item_code": "w_080819",
+    "content": "whit complaisance",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声短语"
+  },
+  {
+    "item_code": "w_080820",
+    "content": "whit lad lanch",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_080822",
+    "content": "Whitcomb",
+    "meaning_zh": "惠特科姆（姓氏）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词姓氏"
+  },
+  {
+    "item_code": "w_080823",
+    "content": "Whitcomb Judson",
+    "meaning_zh": "惠特科姆·贾德森（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词人名"
+  },
+  {
+    "item_code": "w_080831",
+    "content": "white economy",
+    "meaning_zh": "白色经济；医疗健康相关经济",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "经济领域术语"
+  },
+  {
+    "item_code": "w_080843",
+    "content": "white piece",
+    "meaning_zh": "白色棋子；白色片状物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "普通名词搭配"
+  },
+  {
+    "item_code": "w_080851",
+    "content": "white-flag dolphin",
+    "meaning_zh": "白鳍豚",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动物专名"
+  },
+  {
+    "item_code": "w_080852",
+    "content": "white-fleshed",
+    "meaning_zh": "白肉的；果肉白色的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_080875",
+    "content": "who'll",
+    "meaning_zh": "谁将会；谁会",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句吻合缩写"
+  },
+  {
+    "item_code": "w_080876",
+    "content": "who're",
+    "meaning_zh": "谁是；谁在",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句吻合缩写"
+  },
+  {
+    "item_code": "w_080884",
+    "content": "whole class teaching",
+    "meaning_zh": "全班教学；整班授课",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育学术语"
+  },
+  {
+    "item_code": "w_080886",
+    "content": "whole hearted endorsement",
+    "meaning_zh": "全心全意的支持；衷心认可",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配含义"
+  },
+  {
+    "item_code": "w_080888",
+    "content": "whole load of",
+    "meaning_zh": "大量的；许多的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见口语表达"
+  }
+]

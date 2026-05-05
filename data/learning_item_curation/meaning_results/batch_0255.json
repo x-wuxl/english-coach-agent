@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_024207",
+    "content": "emotional initiative",
+    "meaning_zh": "情感主动性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作心理相关搭配"
+  },
+  {
+    "item_code": "w_024208",
+    "content": "emotional mood",
+    "meaning_zh": "情绪状态；情感基调",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配略重复但可理解"
+  },
+  {
+    "item_code": "w_024212",
+    "content": "emotional sunstroke",
+    "meaning_zh": "情绪中暑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见中文概念直译"
+  },
+  {
+    "item_code": "w_024223",
+    "content": "Emperor Gaozu of Han",
+    "meaning_zh": "汉高祖",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "历史人物专名"
+  },
+  {
+    "item_code": "w_024225",
+    "content": "emperor's mausoleum",
+    "meaning_zh": "皇陵；帝王陵墓",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_024226",
+    "content": "emperor's tomb",
+    "meaning_zh": "皇帝陵墓；帝王墓",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_024233",
+    "content": "emphasize potential",
+    "meaning_zh": "强调潜力；重视潜能",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_024234",
+    "content": "emphasize topics",
+    "meaning_zh": "强调主题；突出话题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "动宾搭配可理解"
+  },
+  {
+    "item_code": "w_024242",
+    "content": "empire rest rap",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_024247",
+    "content": "empirical sustainable venerate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_024251",
+    "content": "employ stripe",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_024257",
+    "content": "employee attrition rate",
+    "meaning_zh": "员工流失率",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人力资源术语"
+  },
+  {
+    "item_code": "w_024260",
+    "content": "employer-centred",
+    "meaning_zh": "以雇主为中心的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_024263",
+    "content": "Employment or Training",
+    "meaning_zh": "就业或培训",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可能为固定分类片段"
+  },
+  {
+    "item_code": "w_024265",
+    "content": "employment standard",
+    "meaning_zh": "就业标准；用工标准",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政策搭配"
+  },
+  {
+    "item_code": "w_024266",
+    "content": "employment-first policy",
+    "meaning_zh": "就业优先政策",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策术语"
+  },
+  {
+    "item_code": "w_024281",
+    "content": "empty string",
+    "meaning_zh": "空字符串",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_024283",
+    "content": "empty-nest family",
+    "meaning_zh": "空巢家庭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "社会学常见表达"
+  },
+  {
+    "item_code": "w_024295",
+    "content": "emulate discrepancy rostrum",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_024304",
+    "content": "en route to",
+    "meaning_zh": "在去……的途中；前往",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定介词短语"
+  }
+]

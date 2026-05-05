@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_052393",
+    "content": "orient ... toward",
+    "meaning_zh": "使……朝向；使……以……为导向",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_052394",
+    "content": "orient covert list",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_052396",
+    "content": "orient oneself to",
+    "meaning_zh": "使自己适应；熟悉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见反身搭配"
+  },
+  {
+    "item_code": "w_052398",
+    "content": "orient toward",
+    "meaning_zh": "朝向；以……为导向",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_052400",
+    "content": "oriental charm",
+    "meaning_zh": "东方韵味；东方魅力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_052401",
+    "content": "oriental countries",
+    "meaning_zh": "东方国家；亚洲国家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境略泛"
+  },
+  {
+    "item_code": "w_052403",
+    "content": "oriental pitiable",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显异常搭配"
+  },
+  {
+    "item_code": "w_052404",
+    "content": "oriental snowy plover",
+    "meaning_zh": "东方雪鸻",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "鸟类专名"
+  },
+  {
+    "item_code": "w_052407",
+    "content": "Orientation Day",
+    "meaning_zh": "迎新日；入学介绍日",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "校园常用表达"
+  },
+  {
+    "item_code": "w_052408",
+    "content": "orientation for incoming students",
+    "meaning_zh": "新生入学介绍；新生迎新培训",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "校园场景短语"
+  },
+  {
+    "item_code": "w_052411",
+    "content": "orientation pack",
+    "meaning_zh": "迎新资料包；入学指南包",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "留学常用搭配"
+  },
+  {
+    "item_code": "w_052412",
+    "content": "orientation session",
+    "meaning_zh": "迎新说明会；入学介绍会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "校园常用搭配"
+  },
+  {
+    "item_code": "w_052416",
+    "content": "origin O",
+    "meaning_zh": "原点O",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑似数学标注"
+  },
+  {
+    "item_code": "w_052419",
+    "content": "original depositor",
+    "meaning_zh": "原始存款人；最初存款人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "金融语境搭配"
+  },
+  {
+    "item_code": "w_052423",
+    "content": "original habitat",
+    "meaning_zh": "原始栖息地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态常用搭配"
+  },
+  {
+    "item_code": "w_052424",
+    "content": "original handwriting",
+    "meaning_zh": "原始手迹；原件笔迹",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_052426",
+    "content": "original level",
+    "meaning_zh": "原有水平；初始水平",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_052427",
+    "content": "original masterpieces",
+    "meaning_zh": "原创杰作；原作名作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缺少具体语境"
+  },
+  {
+    "item_code": "w_052428",
+    "content": "original motive",
+    "meaning_zh": "最初动机；原始动机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_052430",
+    "content": "original purpose",
+    "meaning_zh": "初衷；最初目的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持初衷"
+  }
+]

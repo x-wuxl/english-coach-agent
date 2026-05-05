@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_024512",
+    "content": "endure the strong sunshine",
+    "meaning_zh": "忍受强烈阳光",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾短语"
+  },
+  {
+    "item_code": "w_024514",
+    "content": "enduring classic",
+    "meaning_zh": "经久不衰的经典",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配含义明确"
+  },
+  {
+    "item_code": "w_024520",
+    "content": "energetic and active",
+    "meaning_zh": "精力充沛且活跃",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容人或状态"
+  },
+  {
+    "item_code": "w_024521",
+    "content": "energetic and sunny",
+    "meaning_zh": "精力充沛且阳光开朗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容性格状态"
+  },
+  {
+    "item_code": "w_024522",
+    "content": "energetic miscarriage",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常含义不明"
+  },
+  {
+    "item_code": "w_024532",
+    "content": "energy crunch",
+    "meaning_zh": "能源危机；能源短缺",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见能源话题搭配"
+  },
+  {
+    "item_code": "w_024533",
+    "content": "energy depletion",
+    "meaning_zh": "能源枯竭；能量耗尽",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_024538",
+    "content": "energy neutral",
+    "meaning_zh": "能源中性；净能耗为零的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "环保技术术语"
+  },
+  {
+    "item_code": "w_024543",
+    "content": "energy-dense food",
+    "meaning_zh": "高能量密度食物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "营养学常见术语"
+  },
+  {
+    "item_code": "w_024546",
+    "content": "energy-intensive industries",
+    "meaning_zh": "高耗能产业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济环保常用搭配"
+  },
+  {
+    "item_code": "w_024550",
+    "content": "eNews",
+    "meaning_zh": "电子新闻",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "电子新闻缩写"
+  },
+  {
+    "item_code": "w_024556",
+    "content": "enforce control over advertising",
+    "meaning_zh": "加强对广告的管控",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动宾结构含义明确"
+  },
+  {
+    "item_code": "w_024567",
+    "content": "engage with consumers directly",
+    "meaning_zh": "直接与消费者互动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商业语境常见表达"
+  },
+  {
+    "item_code": "w_024581",
+    "content": "engineering students",
+    "meaning_zh": "工程专业学生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "名词短语含义明确"
+  },
+  {
+    "item_code": "w_024589",
+    "content": "English debate",
+    "meaning_zh": "英语辩论",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学习场景常见搭配"
+  },
+  {
+    "item_code": "w_024590",
+    "content": "English dictionary",
+    "meaning_zh": "英语词典",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持释义"
+  },
+  {
+    "item_code": "w_024592",
+    "content": "English magazine",
+    "meaning_zh": "英语杂志",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学习场景常见搭配"
+  },
+  {
+    "item_code": "w_024593",
+    "content": "English programme",
+    "meaning_zh": "英语节目；英语课程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "programme义项依语境"
+  },
+  {
+    "item_code": "w_024594",
+    "content": "English speaking environment",
+    "meaning_zh": "英语口语环境；英语使用环境",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学习场景常见表达"
+  },
+  {
+    "item_code": "w_024598",
+    "content": "English-speaking countries",
+    "meaning_zh": "英语国家；说英语的国家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见复合形容词"
+  }
+]

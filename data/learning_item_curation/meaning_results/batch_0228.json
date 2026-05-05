@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_021582",
+    "content": "distract one's attention",
+    "meaning_zh": "分散某人的注意力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配含义明确"
+  },
+  {
+    "item_code": "w_021583",
+    "content": "distract responsible",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_021615",
+    "content": "district drag disembark",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无关词堆叠"
+  },
+  {
+    "item_code": "w_021642",
+    "content": "divacious",
+    "meaning_zh": "像名伶般的；爱耍大牌的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见派生词"
+  },
+  {
+    "item_code": "w_021650",
+    "content": "dive right in",
+    "meaning_zh": "立即投入；马上开始",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用短语"
+  },
+  {
+    "item_code": "w_021657",
+    "content": "divergent plate boundaries",
+    "meaning_zh": "离散型板块边界",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地质术语明确"
+  },
+  {
+    "item_code": "w_021660",
+    "content": "diverse escalate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_021661",
+    "content": "diverse from",
+    "meaning_zh": "与……不同",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作搭配但不常见"
+  },
+  {
+    "item_code": "w_021662",
+    "content": "diverse ecosystem",
+    "meaning_zh": "多样化的生态系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_021667",
+    "content": "diversion off course",
+    "meaning_zh": "偏离航线；改变路线",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可判断"
+  },
+  {
+    "item_code": "w_021671",
+    "content": "divert attention",
+    "meaning_zh": "转移注意力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用搭配"
+  },
+  {
+    "item_code": "w_021673",
+    "content": "divert glycerol",
+    "meaning_zh": "转移甘油；改变甘油去向",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "生化语境搭配"
+  },
+  {
+    "item_code": "w_021674",
+    "content": "divert relevant discharge",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配语义不清"
+  },
+  {
+    "item_code": "w_021688",
+    "content": "divide content",
+    "meaning_zh": "划分内容",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "动宾搭配可理解"
+  },
+  {
+    "item_code": "w_021698",
+    "content": "dividend promote preference",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无关词堆叠"
+  },
+  {
+    "item_code": "w_021704",
+    "content": "divine ether appendicitis",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无关词堆叠"
+  },
+  {
+    "item_code": "w_021705",
+    "content": "divine tune",
+    "meaning_zh": "美妙的曲调；神圣的曲调",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "形容词搭配"
+  },
+  {
+    "item_code": "w_021719",
+    "content": "divorce adopt x",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含噪声字符"
+  },
+  {
+    "item_code": "w_021727",
+    "content": "dixon",
+    "meaning_zh": "迪克森",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见姓氏或专名"
+  },
+  {
+    "item_code": "w_021733",
+    "content": "dizzy wees crane",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无关词堆叠"
+  }
+]

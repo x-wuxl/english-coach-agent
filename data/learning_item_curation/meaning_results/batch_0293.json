@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_027700",
+    "content": "fill sb.'s shoes",
+    "meaning_zh": "接替某人的职位；胜任某人的工作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语"
+  },
+  {
+    "item_code": "w_027702",
+    "content": "fill the jobs gap",
+    "meaning_zh": "填补就业缺口",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见经济表达"
+  },
+  {
+    "item_code": "w_027711",
+    "content": "fillness",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_027714",
+    "content": "film a novel",
+    "meaning_zh": "将小说拍成电影",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "影视常用搭配"
+  },
+  {
+    "item_code": "w_027715",
+    "content": "film appreciation",
+    "meaning_zh": "电影鉴赏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "课程类搭配"
+  },
+  {
+    "item_code": "w_027718",
+    "content": "film dubbing studio",
+    "meaning_zh": "电影配音工作室；电影配音棚",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "影视专业词组"
+  },
+  {
+    "item_code": "w_027720",
+    "content": "film extra",
+    "meaning_zh": "电影群众演员；临时演员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "影视行业称谓"
+  },
+  {
+    "item_code": "w_027724",
+    "content": "film on location",
+    "meaning_zh": "外景拍摄；实地拍摄",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "影视固定表达"
+  },
+  {
+    "item_code": "w_027725",
+    "content": "film panorama",
+    "meaning_zh": "电影全景；电影概览",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义可由搭配判断"
+  },
+  {
+    "item_code": "w_027729",
+    "content": "film rating system",
+    "meaning_zh": "电影分级制度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见制度术语"
+  },
+  {
+    "item_code": "w_027731",
+    "content": "film studies",
+    "meaning_zh": "电影学；电影研究",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学科名称"
+  },
+  {
+    "item_code": "w_027758",
+    "content": "fin de siècle",
+    "meaning_zh": "世纪末；世纪末的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "外来固定表达"
+  },
+  {
+    "item_code": "w_027766",
+    "content": "final grade",
+    "meaning_zh": "最终成绩；期末成绩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学业常用搭配"
+  },
+  {
+    "item_code": "w_027768",
+    "content": "final paper",
+    "meaning_zh": "期末论文",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学业常用搭配"
+  },
+  {
+    "item_code": "w_027772",
+    "content": "finale boggle saddle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声组合"
+  },
+  {
+    "item_code": "w_027777",
+    "content": "finalization",
+    "meaning_zh": "最终确定；定稿",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常用名词"
+  },
+  {
+    "item_code": "w_027779",
+    "content": "finalize one's plan",
+    "meaning_zh": "敲定某人的计划",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_027780",
+    "content": "finalize the design",
+    "meaning_zh": "敲定设计；最终确定设计",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_027782",
+    "content": "finally eventually",
+    "meaning_zh": "最终；终于",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "非固定表达"
+  },
+  {
+    "item_code": "w_027787",
+    "content": "finance meeting",
+    "meaning_zh": "财务会议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常用搭配"
+  }
+]

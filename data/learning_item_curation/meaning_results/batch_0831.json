@@ -1,0 +1,47 @@
+[
+  {
+    "item_code": "w_082307",
+    "content": "甚至 lian 即使",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "非英语词条噪声"
+  },
+  {
+    "item_code": "p_083609",
+    "content": "make or anna living",
+    "meaning_zh": "谋生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为make a living"
+  },
+  {
+    "item_code": "p_084003",
+    "content": "stick to something",
+    "meaning_zh": "坚持某事；遵守某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "p_084004",
+    "content": "stick to something stick with",
+    "meaning_zh": "坚持某事；继续做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "两个近义搭配混合"
+  },
+  {
+    "item_code": "p_084076",
+    "content": "take your advice",
+    "meaning_zh": "采纳你的建议；听从你的劝告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  }
+]

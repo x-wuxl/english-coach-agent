@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_046621",
+    "content": "mental fitness",
+    "meaning_zh": "心理健康；心理适能",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见心理健康搭配"
+  },
+  {
+    "item_code": "w_046623",
+    "content": "mental illness",
+    "meaning_zh": "精神疾病；心理疾病",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见医学搭配"
+  },
+  {
+    "item_code": "w_046626",
+    "content": "mental orthopedics",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常用搭配难判断"
+  },
+  {
+    "item_code": "w_046628",
+    "content": "mental stress",
+    "meaning_zh": "心理压力；精神压力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见心理状态搭配"
+  },
+  {
+    "item_code": "w_046636",
+    "content": "mentally sane insane",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串噪声非固定表达"
+  },
+  {
+    "item_code": "w_046640",
+    "content": "mention doing sth.",
+    "meaning_zh": "提到做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词用法"
+  },
+  {
+    "item_code": "w_046664",
+    "content": "merchant candidate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缺少语境难判断"
+  },
+  {
+    "item_code": "w_046693",
+    "content": "merit maintenance",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常用搭配难判断"
+  },
+  {
+    "item_code": "w_046695",
+    "content": "merital parental parenthood paternity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写和词串噪声"
+  },
+  {
+    "item_code": "w_046697",
+    "content": "merited substitute",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常用搭配难判断"
+  },
+  {
+    "item_code": "w_046701",
+    "content": "Merlin the Wizard",
+    "meaning_zh": "巫师梅林",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "神话传说专有名词"
+  },
+  {
+    "item_code": "w_046704",
+    "content": "merotricious",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_046730",
+    "content": "mesoendemic",
+    "meaning_zh": "中度地方性流行的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "流行病学术语"
+  },
+  {
+    "item_code": "w_046745",
+    "content": "mess supervision",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缺少语境难判断"
+  },
+  {
+    "item_code": "w_046754",
+    "content": "Messi",
+    "meaning_zh": "梅西",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指足球运动员"
+  },
+  {
+    "item_code": "w_046762",
+    "content": "messy intercom performance",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组生硬难判断"
+  },
+  {
+    "item_code": "w_046765",
+    "content": "meta",
+    "meaning_zh": "元；关于自身的；游戏或系统中的主流策略",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "计算机和网络常用词"
+  },
+  {
+    "item_code": "w_046766",
+    "content": "meta path finder",
+    "meaning_zh": "元路径查找器",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "计算机术语组合"
+  },
+  {
+    "item_code": "w_046772",
+    "content": "metabolism disorder",
+    "meaning_zh": "代谢紊乱；代谢障碍",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见医学搭配"
+  },
+  {
+    "item_code": "w_046783",
+    "content": "metaclass",
+    "meaning_zh": "元类",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程术语"
+  }
+]

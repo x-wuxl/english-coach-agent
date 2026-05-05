@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_043453",
+    "content": "links",
+    "meaning_zh": "链接；超链接",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指网络链接"
+  },
+  {
+    "item_code": "w_043463",
+    "content": "Lionel Greenstreet",
+    "meaning_zh": "莱昂内尔·格林斯特里特（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有名词人名"
+  },
+  {
+    "item_code": "w_043474",
+    "content": "lipid vivid plumber imprison",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无固定含义噪声"
+  },
+  {
+    "item_code": "w_043475",
+    "content": "lipid-insoluble",
+    "meaning_zh": "脂不溶性的；不溶于脂质的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生物化学术语"
+  },
+  {
+    "item_code": "w_043513",
+    "content": "liquidate rehearsal sense",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无固定含义噪声"
+  },
+  {
+    "item_code": "w_043519",
+    "content": "liquor margarita melo",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无固定含义噪声"
+  },
+  {
+    "item_code": "w_043523",
+    "content": "lissom",
+    "meaning_zh": "柔软的；轻盈优美的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见高级词义"
+  },
+  {
+    "item_code": "w_043524",
+    "content": "lissom debonair subside",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "无固定含义噪声"
+  },
+  {
+    "item_code": "w_043527",
+    "content": "list as wanted",
+    "meaning_zh": "列为通缉对象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按搭配整体判断"
+  },
+  {
+    "item_code": "w_043528",
+    "content": "list comprehension",
+    "meaning_zh": "列表推导式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程术语"
+  },
+  {
+    "item_code": "w_043529",
+    "content": "list of approved drugs",
+    "meaning_zh": "获批药物清单",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学常用短语"
+  },
+  {
+    "item_code": "w_043534",
+    "content": "listen carefully to",
+    "meaning_zh": "认真听；仔细听",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_043538",
+    "content": "listen to a song",
+    "meaning_zh": "听一首歌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "小学常用短语"
+  },
+  {
+    "item_code": "w_043541",
+    "content": "listened to music",
+    "meaning_zh": "听了音乐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_043545",
+    "content": "listening to music",
+    "meaning_zh": "正在听音乐；听音乐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_043546",
+    "content": "listening to the radio",
+    "meaning_zh": "正在听收音机；听广播",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_043553",
+    "content": "lists",
+    "meaning_zh": "列表；清单",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机主题常用义"
+  },
+  {
+    "item_code": "w_043560",
+    "content": "literacy skill",
+    "meaning_zh": "读写能力；识字技能",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育类常用搭配"
+  },
+  {
+    "item_code": "w_043567",
+    "content": "literary elitism",
+    "meaning_zh": "文学精英主义",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常用短语"
+  },
+  {
+    "item_code": "w_043569",
+    "content": "literary gift",
+    "meaning_zh": "文学天赋",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  }
+]

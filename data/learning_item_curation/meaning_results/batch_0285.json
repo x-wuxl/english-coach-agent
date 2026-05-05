@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_026922",
+    "content": "far less certain",
+    "meaning_zh": "远没有那么确定；更加不确定",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "程度比较短语"
+  },
+  {
+    "item_code": "w_026923",
+    "content": "far more interesting",
+    "meaning_zh": "有趣得多",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_026935",
+    "content": "far-reaching consequence",
+    "meaning_zh": "深远的后果；影响深远的结果",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_026936",
+    "content": "far-reaching consequences",
+    "meaning_zh": "深远的后果；影响深远的结果",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_026937",
+    "content": "far-reaching implications",
+    "meaning_zh": "深远的影响；深层含义",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_026938",
+    "content": "far-reaching social significance",
+    "meaning_zh": "深远的社会意义",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定学术表达"
+  },
+  {
+    "item_code": "w_026950",
+    "content": "farewell dinner party",
+    "meaning_zh": "告别晚宴；送别宴会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社交表达"
+  },
+  {
+    "item_code": "w_026951",
+    "content": "farewell match",
+    "meaning_zh": "告别赛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "体育常见表达"
+  },
+  {
+    "item_code": "w_026953",
+    "content": "farewell trunk recruit",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_026966",
+    "content": "farming products",
+    "meaning_zh": "农产品；农业产品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解为农产品"
+  },
+  {
+    "item_code": "w_026968",
+    "content": "farmland erosion",
+    "meaning_zh": "农田侵蚀；耕地侵蚀",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环境农业搭配"
+  },
+  {
+    "item_code": "w_026969",
+    "content": "farmland losses",
+    "meaning_zh": "耕地流失；农田损失",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环境农业搭配"
+  },
+  {
+    "item_code": "w_026978",
+    "content": "fart fist",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无可靠固定含义"
+  },
+  {
+    "item_code": "w_026986",
+    "content": "fascinate vital",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_026994",
+    "content": "fashion boutique",
+    "meaning_zh": "时装精品店；时尚服饰店",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商业场景"
+  },
+  {
+    "item_code": "w_027001",
+    "content": "fashion shoot",
+    "meaning_zh": "时装拍摄；时尚摄影",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "时尚行业表达"
+  },
+  {
+    "item_code": "w_027005",
+    "content": "fashionable clothes",
+    "meaning_zh": "时髦的衣服；流行服装",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见服饰搭配"
+  },
+  {
+    "item_code": "w_027007",
+    "content": "fashioned",
+    "meaning_zh": "制作成的；成形的；具有某种风格的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "需语境判定义项"
+  },
+  {
+    "item_code": "w_027016",
+    "content": "fast food restaurant",
+    "meaning_zh": "快餐店；快餐餐厅",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_027017",
+    "content": "fast food shop",
+    "meaning_zh": "快餐店",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  }
+]

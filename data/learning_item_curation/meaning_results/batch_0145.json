@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_013148",
+    "content": "champagne compell",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_013151",
+    "content": "champion tentative harbinger",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串无固定含义"
+  },
+  {
+    "item_code": "w_013152",
+    "content": "champion triathlete",
+    "meaning_zh": "铁人三项冠军",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见运动搭配"
+  },
+  {
+    "item_code": "w_013154",
+    "content": "championship league",
+    "meaning_zh": "冠军联赛；锦标赛联盟",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "体育赛事搭配"
+  },
+  {
+    "item_code": "w_013155",
+    "content": "chan",
+    "meaning_zh": "陈（姓氏，常见于人名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指人名姓氏"
+  },
+  {
+    "item_code": "w_013161",
+    "content": "chances",
+    "meaning_zh": "机会；可能性；几率",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_013167",
+    "content": "chandler",
+    "meaning_zh": "蜡烛商；杂货商；钱德勒（姓氏）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词及姓氏"
+  },
+  {
+    "item_code": "w_013168",
+    "content": "Chandra Theeravit",
+    "meaning_zh": "钱德拉·提拉维特（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有名词人名"
+  },
+  {
+    "item_code": "w_013172",
+    "content": "change from ... to",
+    "meaning_zh": "从……变成……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型"
+  },
+  {
+    "item_code": "w_013176",
+    "content": "change of player",
+    "meaning_zh": "换人；更换球员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "体育场景常用"
+  },
+  {
+    "item_code": "w_013180",
+    "content": "change the furniture",
+    "meaning_zh": "更换家具；调整家具摆放",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生活场景搭配"
+  },
+  {
+    "item_code": "w_013181",
+    "content": "change the tire",
+    "meaning_zh": "换轮胎",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动作搭配"
+  },
+  {
+    "item_code": "w_013184",
+    "content": "changeable weather",
+    "meaning_zh": "多变的天气",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见天气搭配"
+  },
+  {
+    "item_code": "w_013195",
+    "content": "channel button",
+    "meaning_zh": "频道按钮",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "设备按钮搭配"
+  },
+  {
+    "item_code": "w_013196",
+    "content": "channel change",
+    "meaning_zh": "换频道；频道变更",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义依语境略变"
+  },
+  {
+    "item_code": "w_013209",
+    "content": "chaperone down play",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串无固定含义"
+  },
+  {
+    "item_code": "w_013211",
+    "content": "chaplin",
+    "meaning_zh": "卓别林（姓氏，常指查理·卓别林）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指卓别林"
+  },
+  {
+    "item_code": "w_013225",
+    "content": "characterize sb. as sth.",
+    "meaning_zh": "把某人描述为某种人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定用法"
+  },
+  {
+    "item_code": "w_013226",
+    "content": "characterize sth. as sth.",
+    "meaning_zh": "把某事物描述为某种性质",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定用法"
+  },
+  {
+    "item_code": "w_013238",
+    "content": "charge convict realize",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串无固定含义"
+  }
+]

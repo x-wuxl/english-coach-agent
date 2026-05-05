@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_026860",
+    "content": "famous brands",
+    "meaning_zh": "知名品牌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_026862",
+    "content": "famous park",
+    "meaning_zh": "著名公园",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_026863",
+    "content": "famous resort",
+    "meaning_zh": "著名度假胜地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅游搭配"
+  },
+  {
+    "item_code": "w_026864",
+    "content": "famous works",
+    "meaning_zh": "著名作品；名作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习搭配"
+  },
+  {
+    "item_code": "w_026868",
+    "content": "fan dancing",
+    "meaning_zh": "扇子舞",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定文化表达"
+  },
+  {
+    "item_code": "w_026869",
+    "content": "fan-shaped slope",
+    "meaning_zh": "扇形坡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "形状类术语"
+  },
+  {
+    "item_code": "w_026870",
+    "content": "fana",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声或专名"
+  },
+  {
+    "item_code": "w_026878",
+    "content": "fanciful enigma",
+    "meaning_zh": "离奇的谜团",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可按整体理解"
+  },
+  {
+    "item_code": "w_026885",
+    "content": "fancy grind",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配少见难判断"
+  },
+  {
+    "item_code": "w_026886",
+    "content": "fancy watch",
+    "meaning_zh": "精美手表；高档手表",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商品搭配"
+  },
+  {
+    "item_code": "w_026887",
+    "content": "fane",
+    "meaning_zh": "神庙；圣堂",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "罕见文学词"
+  },
+  {
+    "item_code": "w_026890",
+    "content": "fanned",
+    "meaning_zh": "扇动；展开成扇形",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句体现展开"
+  },
+  {
+    "item_code": "w_026897",
+    "content": "fantastic flash",
+    "meaning_zh": "奇异的闪光",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可按字面理解"
+  },
+  {
+    "item_code": "w_026898",
+    "content": "fantastic garments",
+    "meaning_zh": "奇特服装；华丽服饰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "服饰类搭配"
+  },
+  {
+    "item_code": "w_026899",
+    "content": "fantastic marvelous disgusting",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串混杂无整体义"
+  },
+  {
+    "item_code": "w_026903",
+    "content": "fantasy aware conscious",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串混杂无整体义"
+  },
+  {
+    "item_code": "w_026904",
+    "content": "fantasy daredevil",
+    "meaning_zh": "幻想中的冒失鬼；虚构的冒险狂",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "low",
+    "reason": "搭配少见"
+  },
+  {
+    "item_code": "w_026905",
+    "content": "FAQ",
+    "meaning_zh": "常见问题解答",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见缩写"
+  },
+  {
+    "item_code": "w_026918",
+    "content": "far fetched theater",
+    "meaning_zh": "牵强的戏剧；不切实际的剧场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "low",
+    "reason": "搭配不常见"
+  },
+  {
+    "item_code": "w_026920",
+    "content": "far here",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "表达不自然"
+  }
+]

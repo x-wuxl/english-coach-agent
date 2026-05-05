@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_012474",
+    "content": "cash or charge",
+    "meaning_zh": "付现金还是刷卡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "购物支付常用表达"
+  },
+  {
+    "item_code": "w_012476",
+    "content": "cash purchase",
+    "meaning_zh": "现金购买；现金交易",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商务搭配"
+  },
+  {
+    "item_code": "w_012479",
+    "content": "cash the check",
+    "meaning_zh": "兑现支票",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见银行表达"
+  },
+  {
+    "item_code": "w_012480",
+    "content": "cash the cheque",
+    "meaning_zh": "兑现支票",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "英式拼写搭配"
+  },
+  {
+    "item_code": "w_012484",
+    "content": "cash-filled red envelope",
+    "meaning_zh": "装有现金的红包",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "整体含义明确"
+  },
+  {
+    "item_code": "w_012497",
+    "content": "casino dividend",
+    "meaning_zh": "赌场分红",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配少见但可判断"
+  },
+  {
+    "item_code": "w_012507",
+    "content": "cast a shadow on",
+    "meaning_zh": "给……蒙上阴影；对……产生不利影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_012520",
+    "content": "cast doubts on sth.",
+    "meaning_zh": "使人怀疑某事；对某事提出质疑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_012526",
+    "content": "cast light onto sth.",
+    "meaning_zh": "阐明某事；使某事更清楚",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达变体"
+  },
+  {
+    "item_code": "w_012530",
+    "content": "cast one's eyes along",
+    "meaning_zh": "目光沿着……扫视",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "文学性表达"
+  },
+  {
+    "item_code": "w_012533",
+    "content": "cast sb. into prison",
+    "meaning_zh": "把某人投入监狱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "结构清晰"
+  },
+  {
+    "item_code": "w_012537",
+    "content": "caster vulgar",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_012539",
+    "content": "castigate partisan clan",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词串噪声"
+  },
+  {
+    "item_code": "w_012544",
+    "content": "castle palace",
+    "meaning_zh": "城堡宫殿",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "并列名词搭配"
+  },
+  {
+    "item_code": "w_012561",
+    "content": "casualty chill",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_012563",
+    "content": "cat economy",
+    "meaning_zh": "猫咪经济；宠物猫相关消费经济",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "新兴经济表达"
+  },
+  {
+    "item_code": "w_012567",
+    "content": "cata",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似残词或缩写"
+  },
+  {
+    "item_code": "w_012578",
+    "content": "catalogue of titles",
+    "meaning_zh": "标题目录；题名目录",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "图书目录表达"
+  },
+  {
+    "item_code": "w_012582",
+    "content": "catalyst mobile stud",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词串噪声"
+  },
+  {
+    "item_code": "w_012590",
+    "content": "cataract hypothesis",
+    "meaning_zh": "白内障假说",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "术语含义可判断"
+  }
+]

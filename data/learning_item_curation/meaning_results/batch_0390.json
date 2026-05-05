@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_037244",
+    "content": "improve general fitness",
+    "meaning_zh": "增强整体体能",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见运动搭配"
+  },
+  {
+    "item_code": "w_037245",
+    "content": "improve improvement",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配重复且不自然"
+  },
+  {
+    "item_code": "w_037247",
+    "content": "improve one's grade",
+    "meaning_zh": "提高成绩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习表达"
+  },
+  {
+    "item_code": "w_037248",
+    "content": "improve personal skills",
+    "meaning_zh": "提升个人技能",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见能力表达"
+  },
+  {
+    "item_code": "w_037249",
+    "content": "improve public morals",
+    "meaning_zh": "改善社会风气",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会话题搭配"
+  },
+  {
+    "item_code": "w_037250",
+    "content": "improve reputation",
+    "meaning_zh": "提升声誉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名誉搭配"
+  },
+  {
+    "item_code": "w_037251",
+    "content": "improve technology",
+    "meaning_zh": "改进技术",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见科技表达"
+  },
+  {
+    "item_code": "w_037252",
+    "content": "improve the efficiency of",
+    "meaning_zh": "提高……的效率",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见写作句型"
+  },
+  {
+    "item_code": "w_037253",
+    "content": "improve the environment",
+    "meaning_zh": "改善环境",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_037254",
+    "content": "improve the situation",
+    "meaning_zh": "改善情况；改善局面",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_037256",
+    "content": "improve welfare and treatment",
+    "meaning_zh": "提高福利待遇",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职场表达"
+  },
+  {
+    "item_code": "w_037266",
+    "content": "improvised text",
+    "meaning_zh": "即兴创作的文本",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解"
+  },
+  {
+    "item_code": "w_037269",
+    "content": "imprudent coma",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配明显不自然"
+  },
+  {
+    "item_code": "w_037270",
+    "content": "imprudent intern",
+    "meaning_zh": "轻率的实习生",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "低价值随机搭配"
+  },
+  {
+    "item_code": "w_037273",
+    "content": "impudent rende doctrinaire",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含疑似噪声词"
+  },
+  {
+    "item_code": "w_037282",
+    "content": "impulse theoretical authority",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组语义不通"
+  },
+  {
+    "item_code": "w_037284",
+    "content": "impulsive instant",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_037288",
+    "content": "impune",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常用或非标准词"
+  },
+  {
+    "item_code": "w_037290",
+    "content": "impunity model time worn",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个词拼接噪声"
+  },
+  {
+    "item_code": "w_037299",
+    "content": "in ... contest",
+    "meaning_zh": "在……比赛中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定介词框架"
+  }
+]

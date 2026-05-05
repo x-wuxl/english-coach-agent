@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_042401",
+    "content": "lax management",
+    "meaning_zh": "管理松懈",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_042402",
+    "content": "lax ostracize",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无明确含义"
+  },
+  {
+    "item_code": "w_042404",
+    "content": "laxative option",
+    "meaning_zh": "泻药选择；通便方案",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学场景名词短语"
+  },
+  {
+    "item_code": "w_042408",
+    "content": "lay a solid foundation",
+    "meaning_zh": "打下坚实基础",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_042411",
+    "content": "lay an emphasis on",
+    "meaning_zh": "强调；重视",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_042414",
+    "content": "lay blame on",
+    "meaning_zh": "把责任归咎于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_042415",
+    "content": "lay charges against",
+    "meaning_zh": "对……提出指控",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律场景搭配"
+  },
+  {
+    "item_code": "w_042421",
+    "content": "lay egg",
+    "meaning_zh": "产卵；下蛋",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "通常作lay eggs"
+  },
+  {
+    "item_code": "w_042425",
+    "content": "lay great emphasis on",
+    "meaning_zh": "高度重视；非常强调",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_042429",
+    "content": "lay more attention on",
+    "meaning_zh": "把更多注意力放在",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配略不自然"
+  },
+  {
+    "item_code": "w_042430",
+    "content": "lay much emphasis upon",
+    "meaning_zh": "非常强调；十分重视",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见强调搭配"
+  },
+  {
+    "item_code": "w_042431",
+    "content": "lay off employees",
+    "meaning_zh": "裁员；解雇员工",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职场常见表达"
+  },
+  {
+    "item_code": "w_042434",
+    "content": "lay open to",
+    "meaning_zh": "使暴露于；使易受",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语含义明确"
+  },
+  {
+    "item_code": "w_042437",
+    "content": "lay particular stress on",
+    "meaning_zh": "特别强调；特别重视",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见书面表达"
+  },
+  {
+    "item_code": "w_042445",
+    "content": "lay stress on experience",
+    "meaning_zh": "强调经验；重视经验",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "搭配含义清楚"
+  },
+  {
+    "item_code": "w_042449",
+    "content": "lay the root for",
+    "meaning_zh": "为……奠定基础",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达不如foundation常见"
+  },
+  {
+    "item_code": "w_042450",
+    "content": "lay the roots for",
+    "meaning_zh": "为……奠定基础；为……打下根基",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "比喻用法可判断"
+  },
+  {
+    "item_code": "w_042460",
+    "content": "layoff redeem",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无明确含义"
+  },
+  {
+    "item_code": "w_042462",
+    "content": "layout impression concierge",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个词堆叠像噪声"
+  },
+  {
+    "item_code": "w_042463",
+    "content": "layout literature",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明确"
+  }
+]

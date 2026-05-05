@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_063038",
+    "content": "room to spare",
+    "meaning_zh": "有富余空间；绰绰有余",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_063039",
+    "content": "room with distorting mirrors",
+    "meaning_zh": "哈哈镜房；装有变形镜的房间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可判断"
+  },
+  {
+    "item_code": "w_063050",
+    "content": "root drowning",
+    "meaning_zh": "根系淹水窒息；根部水害",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "植物学相关术语"
+  },
+  {
+    "item_code": "w_063074",
+    "content": "rose-tint our memories",
+    "meaning_zh": "美化我们的记忆；给回忆蒙上玫瑰色",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "比喻表达清晰"
+  },
+  {
+    "item_code": "w_063088",
+    "content": "roster veer",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声搭配"
+  },
+  {
+    "item_code": "w_063099",
+    "content": "rotating credit associations",
+    "meaning_zh": "轮转信贷协会；轮会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融社会学术语"
+  },
+  {
+    "item_code": "w_063107",
+    "content": "rote motor response",
+    "meaning_zh": "机械性运动反应；死记硬背式动作反应",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "心理学搭配可判断"
+  },
+  {
+    "item_code": "w_063110",
+    "content": "rotten affiliate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见异常搭配"
+  },
+  {
+    "item_code": "w_063111",
+    "content": "rotten meat",
+    "meaning_zh": "腐肉；变质的肉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_063116",
+    "content": "Rotura",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非英语常用词"
+  },
+  {
+    "item_code": "w_063124",
+    "content": "roughly bilateral",
+    "meaning_zh": "大致双边的；大致两侧对称的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "形容词短语"
+  },
+  {
+    "item_code": "w_063141",
+    "content": "round-the-clock help",
+    "meaning_zh": "全天候帮助；24小时援助",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_063142",
+    "content": "round-the-world tour",
+    "meaning_zh": "环球旅行；环游世界之旅",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅行表达"
+  },
+  {
+    "item_code": "w_063150",
+    "content": "rounded development",
+    "meaning_zh": "全面发展；均衡发展",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育语境常见"
+  },
+  {
+    "item_code": "w_063154",
+    "content": "rounding",
+    "meaning_zh": "取整；四舍五入",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机数学术语"
+  },
+  {
+    "item_code": "w_063158",
+    "content": "rouse apt jeopardy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声搭配"
+  },
+  {
+    "item_code": "w_063164",
+    "content": "route book",
+    "meaning_zh": "路线手册；行程指南",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "名词短语可判断"
+  },
+  {
+    "item_code": "w_063165",
+    "content": "route turning",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见异常搭配"
+  },
+  {
+    "item_code": "w_063176",
+    "content": "roué",
+    "meaning_zh": "放荡男子；浪荡子",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "GRE常见外来词"
+  },
+  {
+    "item_code": "w_063182",
+    "content": "row applaud",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声搭配"
+  }
+]

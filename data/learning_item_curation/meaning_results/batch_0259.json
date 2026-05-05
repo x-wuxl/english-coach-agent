@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_024645",
+    "content": "enjoy luxurious life",
+    "meaning_zh": "享受奢华生活",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_024646",
+    "content": "enjoy pleasant unpleasant",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无明确含义"
+  },
+  {
+    "item_code": "w_024648",
+    "content": "enjoy reading",
+    "meaning_zh": "喜欢阅读",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_024649",
+    "content": "enjoy sb.'s company",
+    "meaning_zh": "喜欢某人陪伴；乐于与某人相处",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_024650",
+    "content": "enjoy the delicacy",
+    "meaning_zh": "享用美味佳肴",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_024651",
+    "content": "enjoy the flowers blooming",
+    "meaning_zh": "欣赏花开",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "整体含义明确"
+  },
+  {
+    "item_code": "w_024652",
+    "content": "enjoy the full moon",
+    "meaning_zh": "赏月",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定文化表达"
+  },
+  {
+    "item_code": "w_024653",
+    "content": "enjoy the sunshine",
+    "meaning_zh": "享受阳光",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_024654",
+    "content": "enjoy their childhood",
+    "meaning_zh": "享受童年时光",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_024655",
+    "content": "enjoy themselves",
+    "meaning_zh": "玩得开心；过得愉快",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_024659",
+    "content": "enjoyment delight delighted",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "近义词堆叠噪声"
+  },
+  {
+    "item_code": "w_024665",
+    "content": "enlighten reproduce",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无意义"
+  },
+  {
+    "item_code": "w_024666",
+    "content": "enlighten swindle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无意义"
+  },
+  {
+    "item_code": "w_024667",
+    "content": "enlighten us",
+    "meaning_zh": "启发我们；使我们明白",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_024670",
+    "content": "enlightening comments",
+    "meaning_zh": "富有启发性的评论",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_024671",
+    "content": "enlightening significance",
+    "meaning_zh": "启示意义；启发意义",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "学术搭配"
+  },
+  {
+    "item_code": "w_024684",
+    "content": "enormous amount of controversy",
+    "meaning_zh": "大量争议；巨大争议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "整体含义明确"
+  },
+  {
+    "item_code": "w_024685",
+    "content": "enormous eligible formal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无意义"
+  },
+  {
+    "item_code": "w_024686",
+    "content": "enormous expenditure",
+    "meaning_zh": "巨额开支",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_024687",
+    "content": "enormous geological assistant",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无意义"
+  }
+]

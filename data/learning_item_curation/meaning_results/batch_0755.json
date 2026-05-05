@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_073928",
+    "content": "the Old Continent",
+    "meaning_zh": "旧大陆；欧洲",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定称谓"
+  },
+  {
+    "item_code": "w_073932",
+    "content": "The Olympic bidders",
+    "meaning_zh": "奥运会申办者；奥运申办城市",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_073933",
+    "content": "the Olympic Extension",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "专名含义不明"
+  },
+  {
+    "item_code": "w_073936",
+    "content": "the only existing copy",
+    "meaning_zh": "唯一现存的副本",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语整体含义"
+  },
+  {
+    "item_code": "w_073941",
+    "content": "the original place",
+    "meaning_zh": "原址；原来的地方",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语"
+  },
+  {
+    "item_code": "w_073942",
+    "content": "the origins of civilization",
+    "meaning_zh": "文明的起源",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_073946",
+    "content": "the other way up",
+    "meaning_zh": "上下颠倒；另一面朝上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "依语境指方向"
+  },
+  {
+    "item_code": "w_073951",
+    "content": "the pageant of",
+    "meaning_zh": "……的壮观景象",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "搭配片段不完整"
+  },
+  {
+    "item_code": "w_073953",
+    "content": "the Parana River",
+    "meaning_zh": "巴拉那河",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地名专有名词"
+  },
+  {
+    "item_code": "w_073954",
+    "content": "the Parnell Village",
+    "meaning_zh": "帕内尔村",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "地名专有名词"
+  },
+  {
+    "item_code": "w_073955",
+    "content": "the Parthenon",
+    "meaning_zh": "帕特农神庙",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "著名建筑专名"
+  },
+  {
+    "item_code": "w_073956",
+    "content": "The Partridge Family",
+    "meaning_zh": "《帕特里奇一家》",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "影视作品名"
+  },
+  {
+    "item_code": "w_073963",
+    "content": "the plum blossom",
+    "meaning_zh": "梅花",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_073966",
+    "content": "the political world",
+    "meaning_zh": "政界；政治领域",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_073968",
+    "content": "the Postgraduates' Association",
+    "meaning_zh": "研究生协会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "机构名称"
+  },
+  {
+    "item_code": "w_073970",
+    "content": "the PRC",
+    "meaning_zh": "中华人民共和国",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见缩写"
+  },
+  {
+    "item_code": "w_073971",
+    "content": "the prerogative of mercy",
+    "meaning_zh": "赦免权；特赦权",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律固定表达"
+  },
+  {
+    "item_code": "w_073972",
+    "content": "the presence of",
+    "meaning_zh": "……的存在；有……在场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持"
+  },
+  {
+    "item_code": "w_073974",
+    "content": "the pressure to fold",
+    "meaning_zh": "屈服的压力；放弃的压力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "fold依语境引申"
+  },
+  {
+    "item_code": "w_073975",
+    "content": "the prime objective",
+    "meaning_zh": "首要目标；主要目标",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  }
+]

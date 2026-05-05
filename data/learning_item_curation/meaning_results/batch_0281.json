@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_026602",
+    "content": "factor sth. into sth.",
+    "meaning_zh": "把某事计入某事；将某因素纳入考虑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词搭配"
+  },
+  {
+    "item_code": "w_026604",
+    "content": "factorable quadratic equation",
+    "meaning_zh": "可因式分解的二次方程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "数学术语"
+  },
+  {
+    "item_code": "w_026614",
+    "content": "facts",
+    "meaning_zh": "事实；真相",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_026617",
+    "content": "factual programme",
+    "meaning_zh": "纪实节目；事实类节目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见媒体搭配"
+  },
+  {
+    "item_code": "w_026622",
+    "content": "faculty head",
+    "meaning_zh": "院系负责人；学院院长",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育场景搭配"
+  },
+  {
+    "item_code": "w_026623",
+    "content": "faculty office",
+    "meaning_zh": "院系办公室；学院办公室",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育场景搭配"
+  },
+  {
+    "item_code": "w_026625",
+    "content": "faculty retract",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_026635",
+    "content": "fading business dynamism",
+    "meaning_zh": "逐渐减弱的商业活力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济语境搭配"
+  },
+  {
+    "item_code": "w_026643",
+    "content": "fail an exam",
+    "meaning_zh": "考试不及格",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见考试表达"
+  },
+  {
+    "item_code": "w_026644",
+    "content": "fail at",
+    "meaning_zh": "在……方面失败；未能做好",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_026647",
+    "content": "fail safe provident",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组含义不可靠"
+  },
+  {
+    "item_code": "w_026650",
+    "content": "fail-fast",
+    "meaning_zh": "快速失败的；尽早报错的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_026654",
+    "content": "failed military coup",
+    "meaning_zh": "失败的军事政变",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治新闻搭配"
+  },
+  {
+    "item_code": "w_026659",
+    "content": "failum",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_026664",
+    "content": "faint chance",
+    "meaning_zh": "渺茫的机会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_026665",
+    "content": "faint hope",
+    "meaning_zh": "微弱的希望；渺茫的希望",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_026666",
+    "content": "faint possibility",
+    "meaning_zh": "极小的可能性；渺茫的可能",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_026667",
+    "content": "faint praise",
+    "meaning_zh": "敷衍的赞扬；言不由衷的表扬",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定评价表达"
+  },
+  {
+    "item_code": "w_026668",
+    "content": "faint unconscious",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_026699",
+    "content": "faithful button",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_039445",
+    "content": "intellectual abilities",
+    "meaning_zh": "智力能力；思维能力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_039447",
+    "content": "intellectual circulation",
+    "meaning_zh": "思想流通；知识传播",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "抽象学术搭配"
+  },
+  {
+    "item_code": "w_039448",
+    "content": "intellectual credit",
+    "meaning_zh": "学术贡献认可；知识成果署名",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境不足但可判断"
+  },
+  {
+    "item_code": "w_039449",
+    "content": "intellectual discipline",
+    "meaning_zh": "学科；思维训练",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_039450",
+    "content": "intellectual equipment",
+    "meaning_zh": "知识储备；智力素养",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "抽象搭配可判断"
+  },
+  {
+    "item_code": "w_039456",
+    "content": "intellectual soma",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_039458",
+    "content": "intellectual-property lawyer",
+    "meaning_zh": "知识产权律师",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定职业名称"
+  },
+  {
+    "item_code": "w_039467",
+    "content": "intelligence analysis",
+    "meaning_zh": "情报分析",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见专业术语"
+  },
+  {
+    "item_code": "w_039470",
+    "content": "intelligencia",
+    "meaning_zh": "知识分子阶层",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为异体拼写"
+  },
+  {
+    "item_code": "w_039472",
+    "content": "intelligent fibral antenna ordeal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声拼接"
+  },
+  {
+    "item_code": "w_039473",
+    "content": "intelligent manufacturing",
+    "meaning_zh": "智能制造",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见技术术语"
+  },
+  {
+    "item_code": "w_039480",
+    "content": "intelligible mischievous agog havoc",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无自然整体含义"
+  },
+  {
+    "item_code": "w_039481",
+    "content": "intelligible ravage",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_039487",
+    "content": "intend intention",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词形拼接非词条"
+  },
+  {
+    "item_code": "w_039498",
+    "content": "intense perceptual distortion",
+    "meaning_zh": "强烈的知觉扭曲",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "心理学常见表达"
+  },
+  {
+    "item_code": "w_039499",
+    "content": "intense sunlight",
+    "meaning_zh": "强烈的阳光",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_039500",
+    "content": "intense tropical sun",
+    "meaning_zh": "强烈的热带阳光",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见描述性短语"
+  },
+  {
+    "item_code": "w_039501",
+    "content": "intense unicellular esteem",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声拼接"
+  },
+  {
+    "item_code": "w_039511",
+    "content": "intensive electrify",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不合语法"
+  },
+  {
+    "item_code": "w_039512",
+    "content": "intensive learning",
+    "meaning_zh": "强化学习；密集学习",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习搭配"
+  }
+]

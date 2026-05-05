@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_013693",
+    "content": "Chinese overseas scholastic",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常，含义不清"
+  },
+  {
+    "item_code": "w_013695",
+    "content": "Chinese paper-cutting",
+    "meaning_zh": "中国剪纸",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见文化表达"
+  },
+  {
+    "item_code": "w_013696",
+    "content": "Chinese traditional approach",
+    "meaning_zh": "中国传统方法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_013697",
+    "content": "Chinese traditional culture",
+    "meaning_zh": "中国传统文化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见文化表达"
+  },
+  {
+    "item_code": "w_013699",
+    "content": "Chinese urbanization process",
+    "meaning_zh": "中国城市化进程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会话题"
+  },
+  {
+    "item_code": "w_013700",
+    "content": "Chinese virtues",
+    "meaning_zh": "中华美德",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定文化表达"
+  },
+  {
+    "item_code": "w_013701",
+    "content": "Chinese wisdom",
+    "meaning_zh": "中国智慧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_013702",
+    "content": "Chinese Young Pioneer",
+    "meaning_zh": "中国少年先锋队员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有称谓"
+  },
+  {
+    "item_code": "w_013704",
+    "content": "Chinese-made products",
+    "meaning_zh": "中国制造的产品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商品表达"
+  },
+  {
+    "item_code": "w_013705",
+    "content": "Chinese-style clothes",
+    "meaning_zh": "中式服装",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持"
+  },
+  {
+    "item_code": "w_013706",
+    "content": "Chinese-style shirt",
+    "meaning_zh": "中式衬衫",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见服饰表达"
+  },
+  {
+    "item_code": "w_013707",
+    "content": "Chinese and foreign tourists",
+    "meaning_zh": "中外游客",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅游表达"
+  },
+  {
+    "item_code": "w_013708",
+    "content": "Chinese traditional folk art",
+    "meaning_zh": "中国传统民间艺术",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见文化表达"
+  },
+  {
+    "item_code": "w_013714",
+    "content": "chip bean carrot",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌，疑似噪声"
+  },
+  {
+    "item_code": "w_013717",
+    "content": "chip lag",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配，含义不清"
+  },
+  {
+    "item_code": "w_013718",
+    "content": "Chip Taylor",
+    "meaning_zh": "奇普·泰勒",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "人名音译"
+  },
+  {
+    "item_code": "w_013740",
+    "content": "chiwen",
+    "meaning_zh": "螭吻",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "中国传统建筑术语"
+  },
+  {
+    "item_code": "w_013754",
+    "content": "chloroethylnitrosourea",
+    "meaning_zh": "氯乙基亚硝基脲",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "化学药物术语"
+  },
+  {
+    "item_code": "w_013775",
+    "content": "choir director",
+    "meaning_zh": "合唱团指挥；合唱团负责人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职位表达"
+  },
+  {
+    "item_code": "w_013801",
+    "content": "cholera cleanse",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配，疑似噪声"
+  }
+]

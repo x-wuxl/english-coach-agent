@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_057035",
+    "content": "pottery remnant",
+    "meaning_zh": "陶器残片；陶器遗存",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见考古搭配"
+  },
+  {
+    "item_code": "w_057039",
+    "content": "poultry scon",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_057040",
+    "content": "poultry vicissitude",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_057049",
+    "content": "pour cash into",
+    "meaning_zh": "向……投入大量资金",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词搭配"
+  },
+  {
+    "item_code": "w_057050",
+    "content": "pour cash into ...",
+    "meaning_zh": "向……投入大量资金",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词搭配"
+  },
+  {
+    "item_code": "w_057055",
+    "content": "pour one's heart out",
+    "meaning_zh": "倾诉心声；吐露真情",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_057065",
+    "content": "poverty reduction and elimination",
+    "meaning_zh": "减贫与消除贫困",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策类常用表达"
+  },
+  {
+    "item_code": "w_057066",
+    "content": "poverty relief",
+    "meaning_zh": "扶贫；济贫",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会议题词组"
+  },
+  {
+    "item_code": "w_057067",
+    "content": "poverty threshold",
+    "meaning_zh": "贫困线；贫困标准",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济社会术语"
+  },
+  {
+    "item_code": "w_057071",
+    "content": "poverty-stricken families",
+    "meaning_zh": "贫困家庭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_057072",
+    "content": "poverty-stricken student",
+    "meaning_zh": "贫困学生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_057106",
+    "content": "powerphrase",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准词条"
+  },
+  {
+    "item_code": "w_057118",
+    "content": "practical capability",
+    "meaning_zh": "实践能力；实际能力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育类常用搭配"
+  },
+  {
+    "item_code": "w_057121",
+    "content": "practical ideas",
+    "meaning_zh": "实用的想法；切实可行的主意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_057131",
+    "content": "practical need",
+    "meaning_zh": "实际需要；现实需求",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_057136",
+    "content": "practice filial piety",
+    "meaning_zh": "践行孝道；尽孝",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "文化类固定搭配"
+  },
+  {
+    "item_code": "w_057138",
+    "content": "practice more",
+    "meaning_zh": "多练习",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础常用表达"
+  },
+  {
+    "item_code": "w_057139",
+    "content": "practice room",
+    "meaning_zh": "练习室；排练室",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "场所类常用词组"
+  },
+  {
+    "item_code": "w_057140",
+    "content": "practice scales",
+    "meaning_zh": "练习音阶",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "音乐学习表达"
+  },
+  {
+    "item_code": "w_057141",
+    "content": "practice with",
+    "meaning_zh": "和……一起练习；用……练习",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  }
+]

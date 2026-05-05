@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_022467",
+    "content": "draw the sketch",
+    "meaning_zh": "画草图",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_022470",
+    "content": "draw to a halt",
+    "meaning_zh": "逐渐停下来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_022472",
+    "content": "draw up a table",
+    "meaning_zh": "制表；列出表格",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_022479",
+    "content": "drawer overcast sophomore freshen",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声词串"
+  },
+  {
+    "item_code": "w_022485",
+    "content": "drawl virgin liability",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声词串"
+  },
+  {
+    "item_code": "w_022488",
+    "content": "drawn-out battle",
+    "meaning_zh": "持久战；旷日持久的斗争",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_022489",
+    "content": "drawn-out battles",
+    "meaning_zh": "持久战；旷日持久的斗争",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复数短语"
+  },
+  {
+    "item_code": "w_022494",
+    "content": "dreadful repulsive",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然搭配"
+  },
+  {
+    "item_code": "w_022499",
+    "content": "dream exhausted",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声词串"
+  },
+  {
+    "item_code": "w_022500",
+    "content": "dream home",
+    "meaning_zh": "梦想中的家；理想住宅",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_022503",
+    "content": "dream of being ...",
+    "meaning_zh": "梦想成为……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型"
+  },
+  {
+    "item_code": "w_022507",
+    "content": "dream viscera nomination",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声词串"
+  },
+  {
+    "item_code": "w_022518",
+    "content": "dreary gargantuan",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然搭配"
+  },
+  {
+    "item_code": "w_022525",
+    "content": "drench congestion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然搭配"
+  },
+  {
+    "item_code": "w_022529",
+    "content": "dress comfortably",
+    "meaning_zh": "穿着舒适",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_022536",
+    "content": "dress up in",
+    "meaning_zh": "穿上……打扮；装扮成……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词"
+  },
+  {
+    "item_code": "w_022544",
+    "content": "dressing season toss gravy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声词串"
+  },
+  {
+    "item_code": "w_022557",
+    "content": "dried pineapple",
+    "meaning_zh": "菠萝干",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见食品名"
+  },
+  {
+    "item_code": "w_022570",
+    "content": "drill resistance",
+    "meaning_zh": "钻孔阻力；钻探阻力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术术语"
+  },
+  {
+    "item_code": "w_022585",
+    "content": "drinking lemonade",
+    "meaning_zh": "喝柠檬水",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动作短语"
+  }
+]

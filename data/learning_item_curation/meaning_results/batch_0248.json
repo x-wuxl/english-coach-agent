@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_023468",
+    "content": "EDI",
+    "meaning_zh": "电子数据交换",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常见缩写"
+  },
+  {
+    "item_code": "w_023471",
+    "content": "edible blouse",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声搭配"
+  },
+  {
+    "item_code": "w_023472",
+    "content": "edible disaster collaborate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无固定义"
+  },
+  {
+    "item_code": "w_023473",
+    "content": "edible grain",
+    "meaning_zh": "可食用谷物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_023475",
+    "content": "edicut",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_023481",
+    "content": "Edison",
+    "meaning_zh": "爱迪生",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指发明家"
+  },
+  {
+    "item_code": "w_023484",
+    "content": "Edith Abbott",
+    "meaning_zh": "伊迪丝·阿博特",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有姓名"
+  },
+  {
+    "item_code": "w_023488",
+    "content": "edition insurance",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配"
+  },
+  {
+    "item_code": "w_023490",
+    "content": "editor proclaim",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词组无固定义"
+  },
+  {
+    "item_code": "w_023493",
+    "content": "editorial encyclopedia",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见学习项"
+  },
+  {
+    "item_code": "w_023495",
+    "content": "editorial page editor",
+    "meaning_zh": "社论版编辑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "新闻职位短语"
+  },
+  {
+    "item_code": "w_023498",
+    "content": "Edmond Duranty",
+    "meaning_zh": "埃德蒙·迪朗蒂",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有姓名"
+  },
+  {
+    "item_code": "w_023502",
+    "content": "edu",
+    "meaning_zh": "教育机构域名后缀",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "网络域名术语"
+  },
+  {
+    "item_code": "w_023506",
+    "content": "educated person",
+    "meaning_zh": "受过良好教育的人；有教养的人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_023509",
+    "content": "educating psyche",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_023511",
+    "content": "education allocation",
+    "meaning_zh": "教育资源分配",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "教育话题搭配"
+  },
+  {
+    "item_code": "w_023513",
+    "content": "education circle",
+    "meaning_zh": "教育界",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见行业表达"
+  },
+  {
+    "item_code": "w_023515",
+    "content": "education for all-round development",
+    "meaning_zh": "全面发展教育；素质教育",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "考研常见表达"
+  },
+  {
+    "item_code": "w_023517",
+    "content": "education plan",
+    "meaning_zh": "教育计划；培养方案",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教育短语"
+  },
+  {
+    "item_code": "w_023524",
+    "content": "educational journal",
+    "meaning_zh": "教育期刊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术出版短语"
+  }
+]

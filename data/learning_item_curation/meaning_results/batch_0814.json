@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_080441",
+    "content": "ween",
+    "meaning_zh": "认为；料想",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "古义动词"
+  },
+  {
+    "item_code": "w_080442",
+    "content": "ween groove",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  },
+  {
+    "item_code": "w_080446",
+    "content": "weep lonely",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_080453",
+    "content": "weigh ... against",
+    "meaning_zh": "权衡……与……；把……同……比较",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_080469",
+    "content": "weight-loss product",
+    "meaning_zh": "减肥产品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_080483",
+    "content": "weird phenomenon",
+    "meaning_zh": "奇怪现象；怪异现象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_080488",
+    "content": "Welcome back to ...",
+    "meaning_zh": "欢迎回到……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用问候表达"
+  },
+  {
+    "item_code": "w_080489",
+    "content": "welcome package",
+    "meaning_zh": "欢迎礼包；迎新资料包",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_080494",
+    "content": "Weld Quay",
+    "meaning_zh": "海墘街（槟城地名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有地名"
+  },
+  {
+    "item_code": "w_080500",
+    "content": "welfare and health",
+    "meaning_zh": "福利与健康",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "并列名词短语"
+  },
+  {
+    "item_code": "w_080501",
+    "content": "welfare lotteries",
+    "meaning_zh": "福利彩票",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_080504",
+    "content": "welfare relationship",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  },
+  {
+    "item_code": "w_080508",
+    "content": "well balanced",
+    "meaning_zh": "均衡的；协调的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词短语"
+  },
+  {
+    "item_code": "w_080514",
+    "content": "well equipped with",
+    "meaning_zh": "配备有完善的……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_080519",
+    "content": "well off fortunate millionaire",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串噪声"
+  },
+  {
+    "item_code": "w_080523",
+    "content": "well worth doing",
+    "meaning_zh": "很值得做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_080545",
+    "content": "well-enforced",
+    "meaning_zh": "得到严格执行的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_080553",
+    "content": "well-heeled shopper",
+    "meaning_zh": "富裕的购物者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_080561",
+    "content": "well-maintained road",
+    "meaning_zh": "维护良好的道路",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_080567",
+    "content": "well-off level",
+    "meaning_zh": "小康水平；富裕水平",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "语境依赖搭配"
+  }
+]

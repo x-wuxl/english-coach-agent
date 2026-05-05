@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_061331",
+    "content": "release news",
+    "meaning_zh": "发布消息；发布新闻",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_061332",
+    "content": "release of captive animals",
+    "meaning_zh": "放归圈养动物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "整体短语含义明确"
+  },
+  {
+    "item_code": "w_061334",
+    "content": "release stress",
+    "meaning_zh": "释放压力；缓解压力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习搭配"
+  },
+  {
+    "item_code": "w_061343",
+    "content": "relentless pressure",
+    "meaning_zh": "持续不断的压力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_061344",
+    "content": "relentless protest",
+    "meaning_zh": "持续不断的抗议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "搭配含义清楚"
+  },
+  {
+    "item_code": "w_061349",
+    "content": "relevant branch factory",
+    "meaning_zh": "相关分厂",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解但搭配较生硬"
+  },
+  {
+    "item_code": "w_061351",
+    "content": "relevant stable flame",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配生硬含义不明"
+  },
+  {
+    "item_code": "w_061352",
+    "content": "relevant successful employment",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常价值低"
+  },
+  {
+    "item_code": "w_061354",
+    "content": "relevant traits and attributes",
+    "meaning_zh": "相关特征和属性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_061355",
+    "content": "relevant working experience",
+    "meaning_zh": "相关工作经验",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见求职搭配"
+  },
+  {
+    "item_code": "w_061358",
+    "content": "reliable elegant subscription",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无明确义"
+  },
+  {
+    "item_code": "w_061359",
+    "content": "reliable practical",
+    "meaning_zh": "可靠实用的",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "缺少中心词价值低"
+  },
+  {
+    "item_code": "w_061361",
+    "content": "reliable structure",
+    "meaning_zh": "可靠的结构",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义明确但不常见"
+  },
+  {
+    "item_code": "w_061365",
+    "content": "reliant compare critical",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无意义"
+  },
+  {
+    "item_code": "w_061367",
+    "content": "relic hospital",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常含义不明"
+  },
+  {
+    "item_code": "w_061389",
+    "content": "religious association",
+    "meaning_zh": "宗教协会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_061391",
+    "content": "religious books",
+    "meaning_zh": "宗教书籍",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_061392",
+    "content": "religious commitment",
+    "meaning_zh": "宗教信仰；宗教投入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "宗教语境常见表达"
+  },
+  {
+    "item_code": "w_061394",
+    "content": "religious practice",
+    "meaning_zh": "宗教习俗；宗教实践",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见宗教表达"
+  },
+  {
+    "item_code": "w_061398",
+    "content": "religious taboo",
+    "meaning_zh": "宗教禁忌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  }
+]

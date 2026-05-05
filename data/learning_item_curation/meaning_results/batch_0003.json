@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_000107",
+    "content": "a bowl of",
+    "meaning_zh": "一碗……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句明确量词短语"
+  },
+  {
+    "item_code": "w_000108",
+    "content": "a bowl of noodles",
+    "meaning_zh": "一碗面条",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见食物量词短语"
+  },
+  {
+    "item_code": "w_000111",
+    "content": "a box of cereal",
+    "meaning_zh": "一盒麦片",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见食品量词短语"
+  },
+  {
+    "item_code": "w_000112",
+    "content": "a box of crayons",
+    "meaning_zh": "一盒彩色蜡笔",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见文具量词短语"
+  },
+  {
+    "item_code": "w_000113",
+    "content": "a box office smash",
+    "meaning_zh": "票房大卖的影片",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定影视表达"
+  },
+  {
+    "item_code": "w_000114",
+    "content": "a breath away",
+    "meaning_zh": "近在咫尺；一步之遥",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见比喻表达"
+  },
+  {
+    "item_code": "w_000115",
+    "content": "a brief account",
+    "meaning_zh": "简要叙述；简短说明",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常见搭配"
+  },
+  {
+    "item_code": "w_000116",
+    "content": "a brief sleep",
+    "meaning_zh": "短暂睡眠；小睡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_000117",
+    "content": "a broad range of",
+    "meaning_zh": "广泛的；各种各样的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "高频学术搭配"
+  },
+  {
+    "item_code": "w_000118",
+    "content": "a brown patch",
+    "meaning_zh": "一块棕色斑块",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缺少语境但含义直观"
+  },
+  {
+    "item_code": "w_000119",
+    "content": "a budding economic recovery",
+    "meaning_zh": "初现的经济复苏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济新闻常见搭配"
+  },
+  {
+    "item_code": "w_000120",
+    "content": "a bull market",
+    "meaning_zh": "牛市；上涨行情",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融固定术语"
+  },
+  {
+    "item_code": "w_000121",
+    "content": "a bulletin board",
+    "meaning_zh": "公告栏；布告板",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见校园词汇"
+  },
+  {
+    "item_code": "w_000123",
+    "content": "a bunch of bananas",
+    "meaning_zh": "一串香蕉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见量词搭配"
+  },
+  {
+    "item_code": "w_000125",
+    "content": "a burst of",
+    "meaning_zh": "一阵；突然爆发的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象量词短语"
+  },
+  {
+    "item_code": "w_000127",
+    "content": "a butterfly",
+    "meaning_zh": "蝴蝶",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句明确基础名词"
+  },
+  {
+    "item_code": "w_000129",
+    "content": "a campaign donation",
+    "meaning_zh": "竞选捐款",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治语境常见搭配"
+  },
+  {
+    "item_code": "w_000132",
+    "content": "a can of soup",
+    "meaning_zh": "一罐汤",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见食品量词短语"
+  },
+  {
+    "item_code": "w_000133",
+    "content": "a can opener",
+    "meaning_zh": "开罐器",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活用品名词"
+  },
+  {
+    "item_code": "w_000137",
+    "content": "a carrot",
+    "meaning_zh": "胡萝卜",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础食物名词"
+  }
+]

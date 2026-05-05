@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_012183",
+    "content": "carbon emission reduction",
+    "meaning_zh": "碳减排；减少碳排放",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保常见术语"
+  },
+  {
+    "item_code": "w_012184",
+    "content": "carbon emission trading",
+    "meaning_zh": "碳排放交易；碳交易",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保经济术语"
+  },
+  {
+    "item_code": "w_012189",
+    "content": "carbon target",
+    "meaning_zh": "碳排放目标；碳目标",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "气候政策常用表达"
+  },
+  {
+    "item_code": "w_012212",
+    "content": "carcinofetal",
+    "meaning_zh": "癌胎的；癌胚的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学术语较少见"
+  },
+  {
+    "item_code": "w_012214",
+    "content": "carcinogen sunburned cadre",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无合理整体含义"
+  },
+  {
+    "item_code": "w_012215",
+    "content": "carcinogencity",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑为拼写错误"
+  },
+  {
+    "item_code": "w_012227",
+    "content": "card present unwrap",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_012231",
+    "content": "cardboard case",
+    "meaning_zh": "纸板箱；硬纸盒",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见物品搭配"
+  },
+  {
+    "item_code": "w_012235",
+    "content": "cardiagram hyria",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑为拼写噪声"
+  },
+  {
+    "item_code": "w_012273",
+    "content": "career bottleneck",
+    "meaning_zh": "职业瓶颈",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职场常见搭配"
+  },
+  {
+    "item_code": "w_012281",
+    "content": "career prospect",
+    "meaning_zh": "职业前景；事业前途",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职场常见搭配"
+  },
+  {
+    "item_code": "w_012283",
+    "content": "career services center",
+    "meaning_zh": "职业服务中心；就业指导中心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "校园服务机构"
+  },
+  {
+    "item_code": "w_012284",
+    "content": "career talk",
+    "meaning_zh": "职业讲座；就业讲座",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育场景常用"
+  },
+  {
+    "item_code": "w_012290",
+    "content": "carefree amenity predecessor",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无合理整体含义"
+  },
+  {
+    "item_code": "w_012292",
+    "content": "careful careless",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "反义词拼接噪声"
+  },
+  {
+    "item_code": "w_012293",
+    "content": "careful dismissal",
+    "meaning_zh": "谨慎驳回；慎重否定",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作抽象搭配"
+  },
+  {
+    "item_code": "w_012302",
+    "content": "caret",
+    "meaning_zh": "脱字符号；插入符号",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机符号术语"
+  },
+  {
+    "item_code": "w_012306",
+    "content": "careworn ingratiating vernacular",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_012307",
+    "content": "Carey",
+    "meaning_zh": "凯里（人名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词人名"
+  },
+  {
+    "item_code": "w_012312",
+    "content": "cargo tanker",
+    "meaning_zh": "货运油轮；液货船",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "运输船舶术语"
+  }
+]

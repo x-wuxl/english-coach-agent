@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_077618",
+    "content": "undoubtedly medical",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_077620",
+    "content": "undreamed",
+    "meaning_zh": "做梦也想不到的；意想不到的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词含义"
+  },
+  {
+    "item_code": "w_077653",
+    "content": "unemployed graduate",
+    "meaning_zh": "失业毕业生；未就业毕业生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教育就业搭配"
+  },
+  {
+    "item_code": "w_077657",
+    "content": "unemployment climb",
+    "meaning_zh": "失业率上升",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "应指失业率攀升"
+  },
+  {
+    "item_code": "w_077660",
+    "content": "unemployment work fair",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配明显不自然"
+  },
+  {
+    "item_code": "w_077687",
+    "content": "unexpected winner",
+    "meaning_zh": "意外获胜者；爆冷赢家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见新闻表达"
+  },
+  {
+    "item_code": "w_077697",
+    "content": "unfair competitions",
+    "meaning_zh": "不公平竞争",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会议题表达"
+  },
+  {
+    "item_code": "w_077729",
+    "content": "unflappable indelible",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语并列无固定义"
+  },
+  {
+    "item_code": "w_077744",
+    "content": "unformatted",
+    "meaning_zh": "未格式化的；无格式的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_077760",
+    "content": "ungainly voracious",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语并列无固定义"
+  },
+  {
+    "item_code": "w_077779",
+    "content": "unhealthy competition",
+    "meaning_zh": "不良竞争；恶性竞争",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会议题表达"
+  },
+  {
+    "item_code": "w_077799",
+    "content": "unicode",
+    "meaning_zh": "统一码；Unicode字符编码标准",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机专有术语"
+  },
+  {
+    "item_code": "w_077800",
+    "content": "unicode code point",
+    "meaning_zh": "Unicode码位；统一码代码点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "字符编码术语"
+  },
+  {
+    "item_code": "w_077812",
+    "content": "unified store",
+    "meaning_zh": "统一商店；统一存储",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缺少语境但可直译"
+  },
+  {
+    "item_code": "w_077814",
+    "content": "uniform access principle",
+    "meaning_zh": "统一访问原则",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机编程原则"
+  },
+  {
+    "item_code": "w_077827",
+    "content": "unilateral fusion",
+    "meaning_zh": "单侧融合",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "偏医学技术表达"
+  },
+  {
+    "item_code": "w_077867",
+    "content": "union fee",
+    "meaning_zh": "工会会费；学生会费用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "需语境区分union"
+  },
+  {
+    "item_code": "w_077880",
+    "content": "unique benefit",
+    "meaning_zh": "独特优势；独有好处",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见优势表达"
+  },
+  {
+    "item_code": "w_077881",
+    "content": "unique experience",
+    "meaning_zh": "独特经历；独特体验",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_077883",
+    "content": "unique garden",
+    "meaning_zh": "独特的花园",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通形容词短语"
+  }
+]

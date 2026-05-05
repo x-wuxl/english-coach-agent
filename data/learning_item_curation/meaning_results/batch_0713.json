@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_070283",
+    "content": "strike terror into",
+    "meaning_zh": "使……极度恐惧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_070291",
+    "content": "striking colors",
+    "meaning_zh": "醒目的颜色",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_070302",
+    "content": "string tab tack",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无明确含义，疑似噪声"
+  },
+  {
+    "item_code": "w_070303",
+    "content": "string up",
+    "meaning_zh": "吊起；悬挂",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语动词"
+  },
+  {
+    "item_code": "w_070320",
+    "content": "strip oneself of ...",
+    "meaning_zh": "使自己摆脱……；脱去……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_070331",
+    "content": "strive bankrupt",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配，疑似噪声"
+  },
+  {
+    "item_code": "w_070339",
+    "content": "stroke offense",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义不明，疑似噪声"
+  },
+  {
+    "item_code": "w_070340",
+    "content": "stroke show point nod",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串无明确含义"
+  },
+  {
+    "item_code": "w_070342",
+    "content": "stroll foreseeable equipment",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配，疑似噪声"
+  },
+  {
+    "item_code": "w_070349",
+    "content": "strong currents",
+    "meaning_zh": "强劲的水流；强气流",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_070351",
+    "content": "strong family ties",
+    "meaning_zh": "牢固的家庭纽带",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_070352",
+    "content": "strong flavor",
+    "meaning_zh": "浓烈的味道",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_070353",
+    "content": "strong physique",
+    "meaning_zh": "强健的体格",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_070355",
+    "content": "strong reference",
+    "meaning_zh": "强引用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_070358",
+    "content": "strong willpower",
+    "meaning_zh": "坚强的意志力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_070365",
+    "content": "strongly object to sth.",
+    "meaning_zh": "强烈反对某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_070366",
+    "content": "strongly support",
+    "meaning_zh": "强烈支持",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_070374",
+    "content": "structural deformation survey",
+    "meaning_zh": "结构变形测量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "工程测量术语"
+  },
+  {
+    "item_code": "w_070407",
+    "content": "stuck in a rut",
+    "meaning_zh": "陷入一成不变的困境",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_070410",
+    "content": "student aboard office",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  }
+]

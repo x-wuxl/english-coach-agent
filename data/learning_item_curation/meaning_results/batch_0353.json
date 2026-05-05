@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_033588",
+    "content": "hartley",
+    "meaning_zh": "哈特利（姓氏或人名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见专有名词"
+  },
+  {
+    "item_code": "w_033596",
+    "content": "Harvey",
+    "meaning_zh": "哈维（人名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见人名"
+  },
+  {
+    "item_code": "w_033598",
+    "content": "has become a buzzword",
+    "meaning_zh": "已成为热门词；已成为流行语",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_033599",
+    "content": "has contributed mightily to",
+    "meaning_zh": "极大地促成了；为……做出巨大贡献",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_033602",
+    "content": "has not got",
+    "meaning_zh": "没有",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础表达"
+  },
+  {
+    "item_code": "w_033603",
+    "content": "has sided with those",
+    "meaning_zh": "已支持那些人；已站在那些人一边",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_033606",
+    "content": "hash function",
+    "meaning_zh": "哈希函数；散列函数",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_033608",
+    "content": "hash table",
+    "meaning_zh": "哈希表；散列表",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_033609",
+    "content": "hashable",
+    "meaning_zh": "可哈希的；可散列的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_033611",
+    "content": "hasn't got",
+    "meaning_zh": "没有",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持"
+  },
+  {
+    "item_code": "w_033612",
+    "content": "hassel",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_033614",
+    "content": "hassport",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词"
+  },
+  {
+    "item_code": "w_033616",
+    "content": "haste where",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_033620",
+    "content": "hasty pural",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_033625",
+    "content": "hatch laboratory",
+    "meaning_zh": "哈奇实验室（机构名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑似专有名词"
+  },
+  {
+    "item_code": "w_033667",
+    "content": "have ... started",
+    "meaning_zh": "让……开始；使……启动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "结构表达"
+  },
+  {
+    "item_code": "w_033668",
+    "content": "have ... under control",
+    "meaning_zh": "使……处于控制之下；控制住……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_033671",
+    "content": "have a bad effect",
+    "meaning_zh": "有不良影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_033675",
+    "content": "have a better mood",
+    "meaning_zh": "心情更好",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_033676",
+    "content": "have a big appetite",
+    "meaning_zh": "胃口很大；食欲旺盛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  }
+]

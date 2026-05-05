@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_049692",
+    "content": "neutral assessment",
+    "meaning_zh": "中立评估；客观评价",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见评估搭配"
+  },
+  {
+    "item_code": "w_049713",
+    "content": "never get anywhere",
+    "meaning_zh": "毫无进展；不会成功",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_049717",
+    "content": "Never mind.",
+    "meaning_zh": "没关系；别介意；不用管了",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持该含义"
+  },
+  {
+    "item_code": "w_049720",
+    "content": "never seen before",
+    "meaning_zh": "前所未见的；从未见过的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持该含义"
+  },
+  {
+    "item_code": "w_049721",
+    "content": "never stop making progress",
+    "meaning_zh": "不断进步；永不止步",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "励志类固定表达"
+  },
+  {
+    "item_code": "w_049726",
+    "content": "new around here",
+    "meaning_zh": "初来此地；刚到这里",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "日常口语表达"
+  },
+  {
+    "item_code": "w_049728",
+    "content": "new Chinese-style outfit",
+    "meaning_zh": "新中式服装",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "服饰类搭配"
+  },
+  {
+    "item_code": "w_049730",
+    "content": "new doctrine",
+    "meaning_zh": "新学说；新理论",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术类搭配"
+  },
+  {
+    "item_code": "w_049733",
+    "content": "new energy car",
+    "meaning_zh": "新能源汽车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见技术术语"
+  },
+  {
+    "item_code": "w_049734",
+    "content": "new energy vehicle",
+    "meaning_zh": "新能源汽车；新能源车辆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见技术术语"
+  },
+  {
+    "item_code": "w_049735",
+    "content": "new energy vehicle charger",
+    "meaning_zh": "新能源汽车充电桩；新能源汽车充电器",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术设备搭配"
+  },
+  {
+    "item_code": "w_049739",
+    "content": "new first-tier cities",
+    "meaning_zh": "新一线城市",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "中国城市分级术语"
+  },
+  {
+    "item_code": "w_049741",
+    "content": "new habitats",
+    "meaning_zh": "新栖息地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态类常见搭配"
+  },
+  {
+    "item_code": "w_049744",
+    "content": "new media",
+    "meaning_zh": "新媒体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "传媒常用术语"
+  },
+  {
+    "item_code": "w_049748",
+    "content": "New Retail",
+    "meaning_zh": "新零售",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商业领域术语"
+  },
+  {
+    "item_code": "w_049751",
+    "content": "new type of fuel",
+    "meaning_zh": "新型燃料",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "能源类搭配"
+  },
+  {
+    "item_code": "w_049752",
+    "content": "new type of urbanization",
+    "meaning_zh": "新型城镇化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策类常见术语"
+  },
+  {
+    "item_code": "w_049753",
+    "content": "new urbanization",
+    "meaning_zh": "新型城镇化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策类常见术语"
+  },
+  {
+    "item_code": "w_049757",
+    "content": "New Year blockbuster",
+    "meaning_zh": "贺岁大片；新年档大片",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "影视发行术语"
+  },
+  {
+    "item_code": "w_049758",
+    "content": "New Year cake",
+    "meaning_zh": "年糕",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "节日食品名称"
+  }
+]

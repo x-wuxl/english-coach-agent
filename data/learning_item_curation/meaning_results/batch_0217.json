@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_020414",
+    "content": "deventure",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_020423",
+    "content": "devicement",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_020424",
+    "content": "devices",
+    "meaning_zh": "设备；装置",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指电子装置"
+  },
+  {
+    "item_code": "w_020438",
+    "content": "devot",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似残缺词"
+  },
+  {
+    "item_code": "w_020454",
+    "content": "devout outgrowth",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声短语"
+  },
+  {
+    "item_code": "w_020468",
+    "content": "dextrous",
+    "meaning_zh": "灵巧的；熟练的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "dexterous变体"
+  },
+  {
+    "item_code": "w_020482",
+    "content": "diagnose delivery associate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  },
+  {
+    "item_code": "w_020485",
+    "content": "diagnostic discharge",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缺少领域语境"
+  },
+  {
+    "item_code": "w_020486",
+    "content": "diagnostic load testing",
+    "meaning_zh": "诊断性负载测试",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术测试术语"
+  },
+  {
+    "item_code": "w_020488",
+    "content": "diagnostics and research reports",
+    "meaning_zh": "诊断和研究报告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_020494",
+    "content": "dial digital durx",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声短语"
+  },
+  {
+    "item_code": "w_020495",
+    "content": "dial remit",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  },
+  {
+    "item_code": "w_020500",
+    "content": "dialect coach",
+    "meaning_zh": "口音教练；方言指导",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职业称谓"
+  },
+  {
+    "item_code": "w_020501",
+    "content": "dialectal variation",
+    "meaning_zh": "方言差异；方言变体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "语言学常用表达"
+  },
+  {
+    "item_code": "w_020504",
+    "content": "dialectical initial",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  },
+  {
+    "item_code": "w_020525",
+    "content": "diaper diplomacy",
+    "meaning_zh": "尿布外交；育儿用品外交",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专门表达但少见"
+  },
+  {
+    "item_code": "w_020539",
+    "content": "diassociation",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_020554",
+    "content": "dice deck",
+    "meaning_zh": "骰子牌组",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "游戏相关短语"
+  },
+  {
+    "item_code": "w_020560",
+    "content": "dichotomy lurk",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  },
+  {
+    "item_code": "w_020566",
+    "content": "dictate however",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接噪声"
+  }
+]

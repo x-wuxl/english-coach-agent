@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_003494",
+    "content": "animals behavior",
+    "meaning_zh": "动物行为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为animal behavior"
+  },
+  {
+    "item_code": "w_003495",
+    "content": "animals life",
+    "meaning_zh": "动物生活；动物生命",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为animal life"
+  },
+  {
+    "item_code": "w_003496",
+    "content": "animatapia",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_003499",
+    "content": "animate intermediate enterprise",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不自然"
+  },
+  {
+    "item_code": "w_003509",
+    "content": "animus against sb.",
+    "meaning_zh": "对某人的敌意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_003510",
+    "content": "animus against sth.",
+    "meaning_zh": "对某事的敌意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_003522",
+    "content": "Anna Petrov",
+    "meaning_zh": "安娜·彼得罗夫（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词"
+  },
+  {
+    "item_code": "w_003532",
+    "content": "annexed out of business",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "表达不成立"
+  },
+  {
+    "item_code": "w_003549",
+    "content": "annoying annoyed",
+    "meaning_zh": "令人恼火的；感到恼怒的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "形近词组合"
+  },
+  {
+    "item_code": "w_003553",
+    "content": "annual annually yearly",
+    "meaning_zh": "年度的；每年；每年的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "同根近义组合"
+  },
+  {
+    "item_code": "w_003554",
+    "content": "annual assessment",
+    "meaning_zh": "年度评估",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_003557",
+    "content": "annual economic growth target",
+    "meaning_zh": "年度经济增长目标",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见经济表达"
+  },
+  {
+    "item_code": "w_003562",
+    "content": "annual increases",
+    "meaning_zh": "年度增长；每年增加",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_003565",
+    "content": "annual magazine",
+    "meaning_zh": "年刊；年度杂志",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_003575",
+    "content": "annular",
+    "meaning_zh": "环形的；环状的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词"
+  },
+  {
+    "item_code": "w_003583",
+    "content": "anoit",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_003590",
+    "content": "anonymous incumbent",
+    "meaning_zh": "匿名的在任者；不知名的现任者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作名词短语"
+  },
+  {
+    "item_code": "w_003591",
+    "content": "anonymous sacrilege",
+    "meaning_zh": "匿名的亵渎行为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作名词短语"
+  },
+  {
+    "item_code": "w_003594",
+    "content": "anophilies",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_003599",
+    "content": "another line of thought",
+    "meaning_zh": "另一种思路；另一种观点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  }
+]

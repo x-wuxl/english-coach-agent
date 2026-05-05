@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_037387",
+    "content": "in all silence",
+    "meaning_zh": "在一片寂静中；默默地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语表达，较少见"
+  },
+  {
+    "item_code": "w_037388",
+    "content": "in all situations",
+    "meaning_zh": "在所有情况下",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词短语"
+  },
+  {
+    "item_code": "w_037389",
+    "content": "in all ways",
+    "meaning_zh": "在各方面；以各种方式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指各方面"
+  },
+  {
+    "item_code": "w_037392",
+    "content": "in ample supply",
+    "meaning_zh": "供应充足；数量充裕",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_037393",
+    "content": "in an ... way",
+    "meaning_zh": "以……的方式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "句型结构"
+  },
+  {
+    "item_code": "w_037397",
+    "content": "in an orderly fashion",
+    "meaning_zh": "有秩序地；井然有序地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_037399",
+    "content": "in anguish",
+    "meaning_zh": "痛苦地；在极度痛苦中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见状态短语"
+  },
+  {
+    "item_code": "w_037400",
+    "content": "in another related development",
+    "meaning_zh": "在另一个相关进展中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "新闻常用表达"
+  },
+  {
+    "item_code": "w_037401",
+    "content": "in another way",
+    "meaning_zh": "用另一种方式；换个说法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_037407",
+    "content": "in any higher degree",
+    "meaning_zh": "在任何更高程度上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达生硬但可理解"
+  },
+  {
+    "item_code": "w_037410",
+    "content": "in association",
+    "meaning_zh": "联合地；相关联地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常与with连用"
+  },
+  {
+    "item_code": "w_037418",
+    "content": "in bad odor",
+    "meaning_zh": "名声不好；不受欢迎",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语表达"
+  },
+  {
+    "item_code": "w_037419",
+    "content": "in bad odor with",
+    "meaning_zh": "不受……欢迎；被……讨厌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语搭配"
+  },
+  {
+    "item_code": "w_037428",
+    "content": "in blinding flash",
+    "meaning_zh": "在刺眼的闪光中；瞬间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑似缺少冠词"
+  },
+  {
+    "item_code": "w_037433",
+    "content": "in broad terms",
+    "meaning_zh": "概括地说；大体上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_037444",
+    "content": "in character with",
+    "meaning_zh": "与……的特点相符",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_037452",
+    "content": "in close interaction with",
+    "meaning_zh": "与……密切互动；与……紧密相互作用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常用搭配"
+  },
+  {
+    "item_code": "w_037454",
+    "content": "in coalition with",
+    "meaning_zh": "与……结成联盟；联合……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治社科搭配"
+  },
+  {
+    "item_code": "w_037489",
+    "content": "in contest",
+    "meaning_zh": "在竞赛中；处于争议中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "需语境区分义项"
+  },
+  {
+    "item_code": "w_037498",
+    "content": "in crystal detail",
+    "meaning_zh": "以极其清晰的细节",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "非常见搭配"
+  }
+]

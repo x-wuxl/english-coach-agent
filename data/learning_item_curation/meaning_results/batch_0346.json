@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_032796",
+    "content": "grow well",
+    "meaning_zh": "生长良好",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_032797",
+    "content": "grow worse",
+    "meaning_zh": "变得更糟；恶化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见变化表达"
+  },
+  {
+    "item_code": "w_032803",
+    "content": "grown curtain",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_032805",
+    "content": "grown up aged",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词串噪声"
+  },
+  {
+    "item_code": "w_032808",
+    "content": "grows hoodwink reproach arrogance",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无整体含义"
+  },
+  {
+    "item_code": "w_032810",
+    "content": "Growth Enterprise Board",
+    "meaning_zh": "创业板",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融专有名词"
+  },
+  {
+    "item_code": "w_032811",
+    "content": "growth enthusiastic",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_032816",
+    "content": "grs.wt",
+    "meaning_zh": "毛重",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务缩写术语"
+  },
+  {
+    "item_code": "w_032825",
+    "content": "grueling indulgent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词串噪声"
+  },
+  {
+    "item_code": "w_032833",
+    "content": "grume",
+    "meaning_zh": "凝块；血块",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见名词"
+  },
+  {
+    "item_code": "w_032834",
+    "content": "grumet",
+    "meaning_zh": "孔环；索环",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见词形"
+  },
+  {
+    "item_code": "w_032839",
+    "content": "guacamole dip",
+    "meaning_zh": "鳄梨酱蘸料",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "食物名称"
+  },
+  {
+    "item_code": "w_032840",
+    "content": "Guanghua Management School",
+    "meaning_zh": "光华管理学院",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "机构专有名词"
+  },
+  {
+    "item_code": "w_032843",
+    "content": "guarantee innate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配"
+  },
+  {
+    "item_code": "w_032844",
+    "content": "guarantee their products",
+    "meaning_zh": "为其产品提供担保",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商业表达"
+  },
+  {
+    "item_code": "w_032853",
+    "content": "guarded skepticism",
+    "meaning_zh": "谨慎的怀疑态度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_032858",
+    "content": "guardy",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常罕见难判断"
+  },
+  {
+    "item_code": "w_032869",
+    "content": "guess sb. to be",
+    "meaning_zh": "猜想某人是",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型结构"
+  },
+  {
+    "item_code": "w_032870",
+    "content": "guess suppose",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "近义词堆叠"
+  },
+  {
+    "item_code": "w_032891",
+    "content": "GUI",
+    "meaning_zh": "图形用户界面",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机缩写"
+  }
+]

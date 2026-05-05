@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_041024",
+    "content": "jump rope",
+    "meaning_zh": "跳绳",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句明确为跳绳"
+  },
+  {
+    "item_code": "w_041025",
+    "content": "jump smash",
+    "meaning_zh": "跳起扣杀",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见体育术语"
+  },
+  {
+    "item_code": "w_041026",
+    "content": "jump the bus",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见表达且无例句"
+  },
+  {
+    "item_code": "w_041033",
+    "content": "jump to the rescue",
+    "meaning_zh": "立即赶去救援",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达含义清楚"
+  },
+  {
+    "item_code": "w_041035",
+    "content": "jump without a net",
+    "meaning_zh": "冒险行事；没有退路地行动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "比喻无保障冒险"
+  },
+  {
+    "item_code": "w_041052",
+    "content": "jungle dissuade",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_041060",
+    "content": "junk ads",
+    "meaning_zh": "垃圾广告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_041063",
+    "content": "junk message",
+    "meaning_zh": "垃圾短信；垃圾消息",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见网络表达"
+  },
+  {
+    "item_code": "w_041067",
+    "content": "Junko Tabei",
+    "meaning_zh": "田部井淳子",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "日本登山家人名"
+  },
+  {
+    "item_code": "w_041073",
+    "content": "jure",
+    "meaning_zh": "法律；权利",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "法律术语较少单用"
+  },
+  {
+    "item_code": "w_041081",
+    "content": "jury prerequisite",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配且无例句"
+  },
+  {
+    "item_code": "w_041088",
+    "content": "Just great!",
+    "meaning_zh": "真好！；太棒了！",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持赞叹语气"
+  },
+  {
+    "item_code": "w_041091",
+    "content": "just one room",
+    "meaning_zh": "仅一个房间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义直接"
+  },
+  {
+    "item_code": "w_041094",
+    "content": "just so-so",
+    "meaning_zh": "一般般；马马虎虎",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见口语表达"
+  },
+  {
+    "item_code": "w_041098",
+    "content": "just-me-ism",
+    "meaning_zh": "唯我主义；自我中心主义",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "构词含义明确"
+  },
+  {
+    "item_code": "w_041101",
+    "content": "justifiable conserve",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_041107",
+    "content": "justify dictate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_041108",
+    "content": "justify expedition",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_041115",
+    "content": "jute cord",
+    "meaning_zh": "黄麻绳",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见材料名词搭配"
+  },
+  {
+    "item_code": "w_041117",
+    "content": "juvenile bibliography",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配且无例句"
+  }
+]

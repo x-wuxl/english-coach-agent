@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_082109",
+    "content": "You got that right.",
+    "meaning_zh": "你说对了；完全正确",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用口语表达"
+  },
+  {
+    "item_code": "w_082110",
+    "content": "You had better ...",
+    "meaning_zh": "你最好……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定建议句型"
+  },
+  {
+    "item_code": "w_082117",
+    "content": "You'd better do sth.",
+    "meaning_zh": "你最好做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定建议句型"
+  },
+  {
+    "item_code": "w_082120",
+    "content": "You're joking, aren't you?",
+    "meaning_zh": "你是在开玩笑吧？",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常用口语问句"
+  },
+  {
+    "item_code": "w_082130",
+    "content": "young graduates",
+    "meaning_zh": "年轻毕业生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_082132",
+    "content": "young teenagers",
+    "meaning_zh": "低龄青少年",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_082146",
+    "content": "youth adult mature",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定表达"
+  },
+  {
+    "item_code": "w_082152",
+    "content": "youth-oriented programming",
+    "meaning_zh": "面向青少年的节目内容",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见媒体搭配"
+  },
+  {
+    "item_code": "w_082170",
+    "content": "yummy acid land",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串噪声"
+  },
+  {
+    "item_code": "w_082172",
+    "content": "yuppi",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_082175",
+    "content": "yurt",
+    "meaning_zh": "蒙古包；圆顶帐篷",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "明确名词"
+  },
+  {
+    "item_code": "w_082176",
+    "content": "Zac Sunderland",
+    "meaning_zh": "扎克·桑德兰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人名专有名词"
+  },
+  {
+    "item_code": "w_082182",
+    "content": "zarist",
+    "meaning_zh": "沙皇的；沙皇制度的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "历史术语"
+  },
+  {
+    "item_code": "w_082185",
+    "content": "zeal perceptive",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定表达"
+  },
+  {
+    "item_code": "w_082192",
+    "content": "zebra separator",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义不可靠"
+  },
+  {
+    "item_code": "w_082198",
+    "content": "zenith juan",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串噪声"
+  },
+  {
+    "item_code": "w_082203",
+    "content": "zero derma induction",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义不可靠"
+  },
+  {
+    "item_code": "w_082210",
+    "content": "zero inventory",
+    "meaning_zh": "零库存",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常用术语"
+  },
+  {
+    "item_code": "w_082220",
+    "content": "zero-waste city",
+    "meaning_zh": "无废城市；零废弃城市",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保政策术语"
+  },
+  {
+    "item_code": "w_082221",
+    "content": "zerosis accent analogy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串噪声"
+  }
+]

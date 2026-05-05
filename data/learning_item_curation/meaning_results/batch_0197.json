@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_018334",
+    "content": "cultural discrepancy",
+    "meaning_zh": "文化差异",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见文化主题搭配"
+  },
+  {
+    "item_code": "w_018335",
+    "content": "cultural dissimilation",
+    "meaning_zh": "文化异化；文化离异",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专业文化术语"
+  },
+  {
+    "item_code": "w_018336",
+    "content": "cultural distinctiveness",
+    "meaning_zh": "文化独特性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_018340",
+    "content": "cultural exchange program",
+    "meaning_zh": "文化交流项目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定项目名称搭配"
+  },
+  {
+    "item_code": "w_018342",
+    "content": "cultural facilities",
+    "meaning_zh": "文化设施",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见公共服务搭配"
+  },
+  {
+    "item_code": "w_018343",
+    "content": "cultural feast",
+    "meaning_zh": "文化盛宴",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见比喻表达"
+  },
+  {
+    "item_code": "w_018345",
+    "content": "cultural globalisation",
+    "meaning_zh": "文化全球化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "雅思常见话题词"
+  },
+  {
+    "item_code": "w_018349",
+    "content": "cultural identities",
+    "meaning_zh": "文化身份；文化认同",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会文化概念"
+  },
+  {
+    "item_code": "w_018352",
+    "content": "cultural information technology system",
+    "meaning_zh": "文化信息技术系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "较长专业名词短语"
+  },
+  {
+    "item_code": "w_018353",
+    "content": "cultural insights",
+    "meaning_zh": "文化洞察；文化见解",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象名词搭配"
+  },
+  {
+    "item_code": "w_018356",
+    "content": "cultural integrity",
+    "meaning_zh": "文化完整性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见文化保护表达"
+  },
+  {
+    "item_code": "w_018357",
+    "content": "cultural legacy",
+    "meaning_zh": "文化遗产",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见文化主题词"
+  },
+  {
+    "item_code": "w_018358",
+    "content": "cultural needs",
+    "meaning_zh": "文化需求",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见需求类搭配"
+  },
+  {
+    "item_code": "w_018359",
+    "content": "cultural penetration",
+    "meaning_zh": "文化渗透",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见文化传播表达"
+  },
+  {
+    "item_code": "w_018363",
+    "content": "cultural sites",
+    "meaning_zh": "文化遗址；文化场所",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅游文化常见表达"
+  },
+  {
+    "item_code": "w_018367",
+    "content": "cultural treasures",
+    "meaning_zh": "文化瑰宝；文化珍品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见文化遗产表达"
+  },
+  {
+    "item_code": "w_018369",
+    "content": "cultural undertaking",
+    "meaning_zh": "文化事业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政策类表达"
+  },
+  {
+    "item_code": "w_018370",
+    "content": "cultural undertakings",
+    "meaning_zh": "文化事业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复数形式政策表达"
+  },
+  {
+    "item_code": "w_018371",
+    "content": "cultural variable",
+    "meaning_zh": "文化变量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术研究常见术语"
+  },
+  {
+    "item_code": "w_018376",
+    "content": "culturate",
+    "meaning_zh": "使有文化；培养",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "罕见但可作动词"
+  }
+]

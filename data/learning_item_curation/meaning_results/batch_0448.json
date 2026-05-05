@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_042815",
+    "content": "lemon grapefruit cherry",
+    "meaning_zh": "柠檬；葡萄柚；樱桃",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "多个词堆叠"
+  },
+  {
+    "item_code": "w_042818",
+    "content": "lemonade liquor",
+    "meaning_zh": "柠檬水；烈酒",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "多个词堆叠"
+  },
+  {
+    "item_code": "w_042825",
+    "content": "lend credibility to",
+    "meaning_zh": "使……更可信；增加……的可信度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_042848",
+    "content": "lenient din",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无可靠含义"
+  },
+  {
+    "item_code": "w_042855",
+    "content": "lens lever link",
+    "meaning_zh": "镜片；杠杆；链接",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "多个词堆叠"
+  },
+  {
+    "item_code": "w_042864",
+    "content": "leon",
+    "meaning_zh": "莱昂（人名或地名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有名词"
+  },
+  {
+    "item_code": "w_042865",
+    "content": "Leonardo",
+    "meaning_zh": "莱昂纳多（人名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见人名"
+  },
+  {
+    "item_code": "w_042882",
+    "content": "les",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "残片含义不明"
+  },
+  {
+    "item_code": "w_042886",
+    "content": "less A than B",
+    "meaning_zh": "与其说是A，不如说是B",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句式"
+  },
+  {
+    "item_code": "w_042887",
+    "content": "less confrontational",
+    "meaning_zh": "较少对抗性的；不那么咄咄逼人的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词短语"
+  },
+  {
+    "item_code": "w_042889",
+    "content": "less developed areas",
+    "meaning_zh": "欠发达地区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_042892",
+    "content": "less noisy area",
+    "meaning_zh": "较安静的区域",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_042894",
+    "content": "less secured payments",
+    "meaning_zh": "安全性较低的支付方式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "商务支付搭配"
+  },
+  {
+    "item_code": "w_042895",
+    "content": "less than helpful",
+    "meaning_zh": "并不怎么有帮助；不太帮忙的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "委婉否定表达"
+  },
+  {
+    "item_code": "w_042896",
+    "content": "less than honest",
+    "meaning_zh": "不太诚实的；有失诚实的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "委婉否定表达"
+  },
+  {
+    "item_code": "w_042897",
+    "content": "less than interesting",
+    "meaning_zh": "不怎么有趣的；乏味的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "委婉否定表达"
+  },
+  {
+    "item_code": "w_042898",
+    "content": "less wasted inventory",
+    "meaning_zh": "更少的库存浪费",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商业库存搭配"
+  },
+  {
+    "item_code": "w_042899",
+    "content": "less-determined",
+    "meaning_zh": "不那么坚定的；决心较弱的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_042900",
+    "content": "less-experienced",
+    "meaning_zh": "经验较少的；不太熟练的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_042907",
+    "content": "lest lap morbid",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无可靠含义"
+  }
+]

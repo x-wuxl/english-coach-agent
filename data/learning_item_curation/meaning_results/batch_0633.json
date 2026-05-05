@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_062101",
+    "content": "restore normal function",
+    "meaning_zh": "恢复正常功能",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_062102",
+    "content": "restore one's bearings",
+    "meaning_zh": "恢复方向感；重新弄清处境",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定搭配可判断"
+  },
+  {
+    "item_code": "w_062103",
+    "content": "restore satisfy merge",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无固定含义"
+  },
+  {
+    "item_code": "w_062108",
+    "content": "restrain ... from doing",
+    "meaning_zh": "阻止……做某事；抑制……做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型搭配"
+  },
+  {
+    "item_code": "w_062110",
+    "content": "restrain sb. from doing",
+    "meaning_zh": "阻止某人做某事；约束某人不做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型搭配"
+  },
+  {
+    "item_code": "w_062116",
+    "content": "restrict access to",
+    "meaning_zh": "限制对……的访问；限制使用……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_062117",
+    "content": "restrict excel neuron",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无固定含义"
+  },
+  {
+    "item_code": "w_062118",
+    "content": "restrict the availability of",
+    "meaning_zh": "限制……的供应；限制……的可获得性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_062120",
+    "content": "restricted loan time",
+    "meaning_zh": "受限制的借阅时间；有限借期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "多用于图书馆语境"
+  },
+  {
+    "item_code": "w_062127",
+    "content": "restroom tour",
+    "meaning_zh": "洗手间导览",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配生硬低价值"
+  },
+  {
+    "item_code": "w_062130",
+    "content": "restructure government institution",
+    "meaning_zh": "重组政府机构",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政务表达"
+  },
+  {
+    "item_code": "w_062141",
+    "content": "resultant predecessor",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词义组合矛盾"
+  },
+  {
+    "item_code": "w_062145",
+    "content": "resume senior reticular",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无固定含义"
+  },
+  {
+    "item_code": "w_062147",
+    "content": "resumé",
+    "meaning_zh": "简历；履历",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词含义"
+  },
+  {
+    "item_code": "w_062171",
+    "content": "retain minimum advertise",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无固定含义"
+  },
+  {
+    "item_code": "w_062172",
+    "content": "retain precious moments",
+    "meaning_zh": "留住珍贵时刻；保存美好瞬间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_062187",
+    "content": "retel scabies",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_062189",
+    "content": "retell the story",
+    "meaning_zh": "复述故事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_062217",
+    "content": "retinu",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_062222",
+    "content": "retired disabled",
+    "meaning_zh": "退休和残疾人员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "省略名词的群体表达"
+  }
+]

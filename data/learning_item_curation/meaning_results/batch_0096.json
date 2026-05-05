@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_007959",
+    "content": "be reliant upon",
+    "meaning_zh": "依赖；依靠",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_007960",
+    "content": "be relieved to",
+    "meaning_zh": "因做某事而感到宽慰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_007967",
+    "content": "be replaced with",
+    "meaning_zh": "被替换为；被取代为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动搭配"
+  },
+  {
+    "item_code": "w_007970",
+    "content": "be reserved to",
+    "meaning_zh": "被保留给；留待",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配含义明确"
+  },
+  {
+    "item_code": "w_007972",
+    "content": "be resilient to ...",
+    "meaning_zh": "能抵御；对……有复原力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_007975",
+    "content": "be respected by others",
+    "meaning_zh": "受到他人尊重",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_007976",
+    "content": "be respectful to",
+    "meaning_zh": "尊敬；对……有礼貌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  },
+  {
+    "item_code": "w_007977",
+    "content": "be response for",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似responsible误写"
+  },
+  {
+    "item_code": "w_007983",
+    "content": "be reunited with",
+    "meaning_zh": "与……重聚；与……团聚",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_007984",
+    "content": "be reviewed as",
+    "meaning_zh": "被评价为；被评论为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可作评价"
+  },
+  {
+    "item_code": "w_007985",
+    "content": "be rewarded scholarship",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑有误"
+  },
+  {
+    "item_code": "w_007989",
+    "content": "be ridden with",
+    "meaning_zh": "充满；深受……困扰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "多用于负面事物"
+  },
+  {
+    "item_code": "w_007990",
+    "content": "be rigorous with",
+    "meaning_zh": "对……严格；严谨对待",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_007994",
+    "content": "be sad for",
+    "meaning_zh": "为……感到难过",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础搭配"
+  },
+  {
+    "item_code": "w_007996",
+    "content": "be said to do",
+    "meaning_zh": "据说做某事；被认为会做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型"
+  },
+  {
+    "item_code": "w_008002",
+    "content": "be scarred with",
+    "meaning_zh": "布满伤痕；留下……疤痕",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动搭配"
+  },
+  {
+    "item_code": "w_008003",
+    "content": "be sceptical about sth.",
+    "meaning_zh": "对某事持怀疑态度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_008004",
+    "content": "be sceptical of sth.",
+    "meaning_zh": "对某事持怀疑态度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_008007",
+    "content": "be scheduled to do",
+    "meaning_zh": "计划做某事；预定做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型"
+  },
+  {
+    "item_code": "w_008009",
+    "content": "be second only to",
+    "meaning_zh": "仅次于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  }
+]

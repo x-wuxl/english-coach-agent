@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_049163",
+    "content": "Nationally Designated Garden City",
+    "meaning_zh": "国家级园林城市",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "城市称号短语"
+  },
+  {
+    "item_code": "w_049165",
+    "content": "nations",
+    "meaning_zh": "国家；民族",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指国家"
+  },
+  {
+    "item_code": "w_049169",
+    "content": "Native American Indian",
+    "meaning_zh": "美洲原住民；印第安人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "族群称谓"
+  },
+  {
+    "item_code": "w_049170",
+    "content": "native foreign foreigner race",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串噪声"
+  },
+  {
+    "item_code": "w_049171",
+    "content": "native indian",
+    "meaning_zh": "原住民印第安人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "族群称谓"
+  },
+  {
+    "item_code": "w_049172",
+    "content": "native indigenous pest",
+    "meaning_zh": "本土害虫",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "生态学搭配"
+  },
+  {
+    "item_code": "w_049174",
+    "content": "native language dependency",
+    "meaning_zh": "母语依赖",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "语言学习术语"
+  },
+  {
+    "item_code": "w_049175",
+    "content": "native of",
+    "meaning_zh": "出生于；是……本地人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句明确"
+  },
+  {
+    "item_code": "w_049176",
+    "content": "native pest",
+    "meaning_zh": "本土害虫",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态学搭配"
+  },
+  {
+    "item_code": "w_049190",
+    "content": "natty protion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "拼写疑似错误"
+  },
+  {
+    "item_code": "w_049193",
+    "content": "natural beauties",
+    "meaning_zh": "自然美景；天生丽质的美人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见复数表达"
+  },
+  {
+    "item_code": "w_049198",
+    "content": "natural drown",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_049201",
+    "content": "natural electromagnetic field",
+    "meaning_zh": "天然电磁场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "科学术语"
+  },
+  {
+    "item_code": "w_049203",
+    "content": "natural enemy of fugitives",
+    "meaning_zh": "逃犯的天敌",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_049205",
+    "content": "natural food chain",
+    "meaning_zh": "自然食物链",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态学搭配"
+  },
+  {
+    "item_code": "w_049210",
+    "content": "natural greenhouse",
+    "meaning_zh": "天然温室",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "环境相关短语"
+  },
+  {
+    "item_code": "w_049213",
+    "content": "natural habitats",
+    "meaning_zh": "自然栖息地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态学常用语"
+  },
+  {
+    "item_code": "w_049218",
+    "content": "natural ingredients",
+    "meaning_zh": "天然成分；天然原料",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见产品用语"
+  },
+  {
+    "item_code": "w_049220",
+    "content": "natural language",
+    "meaning_zh": "自然语言",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_049231",
+    "content": "natural problems",
+    "meaning_zh": "自然问题；自然环境问题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义较宽泛"
+  }
+]

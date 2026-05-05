@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_072477",
+    "content": "take the train",
+    "meaning_zh": "乘火车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_072485",
+    "content": "take to doing sth.",
+    "meaning_zh": "开始养成做某事的习惯；喜欢上做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_072486",
+    "content": "take to heart",
+    "meaning_zh": "对…耿耿于怀；认真听取",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_072492",
+    "content": "take two more pills",
+    "meaning_zh": "再吃两片药",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见用药表达"
+  },
+  {
+    "item_code": "w_072493",
+    "content": "take unpaid leave",
+    "meaning_zh": "请无薪假",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职场常用搭配"
+  },
+  {
+    "item_code": "w_072497",
+    "content": "take up one's abode",
+    "meaning_zh": "定居；住下",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "正式固定表达"
+  },
+  {
+    "item_code": "w_072498",
+    "content": "take up one's time",
+    "meaning_zh": "占用某人的时间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_072499",
+    "content": "take up room",
+    "meaning_zh": "占地方",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_072500",
+    "content": "take up space",
+    "meaning_zh": "占空间；占地方",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_072508",
+    "content": "take vengeance upon",
+    "meaning_zh": "向…报仇",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_072509",
+    "content": "take vitamins",
+    "meaning_zh": "服用维生素",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "健康场景搭配"
+  },
+  {
+    "item_code": "w_072513",
+    "content": "Take your time eating.",
+    "meaning_zh": "慢慢吃；吃饭不用急",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "完整常用表达"
+  },
+  {
+    "item_code": "w_072515",
+    "content": "take-home exam",
+    "meaning_zh": "带回家完成的考试",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育术语"
+  },
+  {
+    "item_code": "w_072521",
+    "content": "take...for granted",
+    "meaning_zh": "认为…理所当然",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_072527",
+    "content": "takeoff runway",
+    "meaning_zh": "起飞跑道",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "航空术语"
+  },
+  {
+    "item_code": "w_072531",
+    "content": "takeover recommendation",
+    "meaning_zh": "收购建议；接管建议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缺少具体语境"
+  },
+  {
+    "item_code": "w_072539",
+    "content": "Tale of the Marshes",
+    "meaning_zh": "《水浒传》",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有书名"
+  },
+  {
+    "item_code": "w_072542",
+    "content": "talent competition program",
+    "meaning_zh": "才艺竞赛节目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "媒体节目表达"
+  },
+  {
+    "item_code": "w_072543",
+    "content": "talent development scheme",
+    "meaning_zh": "人才培养计划",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育职场搭配"
+  },
+  {
+    "item_code": "w_072545",
+    "content": "talent market",
+    "meaning_zh": "人才市场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见就业表达"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_002069",
+    "content": "affordable restaurant",
+    "meaning_zh": "价格实惠的餐馆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_002070",
+    "content": "affordably",
+    "meaning_zh": "以可承受的价格；价格合理地",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见副词含义"
+  },
+  {
+    "item_code": "w_002072",
+    "content": "afforested areas",
+    "meaning_zh": "植树造林区；绿化区域",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保相关短语"
+  },
+  {
+    "item_code": "w_002090",
+    "content": "afraid nervous tension",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌噪声"
+  },
+  {
+    "item_code": "w_002092",
+    "content": "afraid of height",
+    "meaning_zh": "恐高；害怕高处",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略不自然"
+  },
+  {
+    "item_code": "w_002099",
+    "content": "African lion",
+    "meaning_zh": "非洲狮",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动物名称"
+  },
+  {
+    "item_code": "w_002109",
+    "content": "after graduation",
+    "meaning_zh": "毕业后",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义匹配"
+  },
+  {
+    "item_code": "w_002118",
+    "content": "after-class activities",
+    "meaning_zh": "课外活动；课后活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育常用短语"
+  },
+  {
+    "item_code": "w_002119",
+    "content": "after-class lives",
+    "meaning_zh": "课余生活",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "复数形式不常见"
+  },
+  {
+    "item_code": "w_002121",
+    "content": "after-gaokao economy",
+    "meaning_zh": "高考后经济；高考后消费经济",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "中国特色表达"
+  },
+  {
+    "item_code": "w_002122",
+    "content": "after-holiday syndrome",
+    "meaning_zh": "节后综合征",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_002127",
+    "content": "after-school job",
+    "meaning_zh": "课后兼职；课余工作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见校园表达"
+  },
+  {
+    "item_code": "w_002128",
+    "content": "after-school training institutions",
+    "meaning_zh": "校外培训机构；课后培训机构",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育政策常用语"
+  },
+  {
+    "item_code": "w_002155",
+    "content": "against sb.'s will",
+    "meaning_zh": "违背某人的意愿",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_002156",
+    "content": "against that background",
+    "meaning_zh": "在那种背景下",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "语境衔接短语"
+  },
+  {
+    "item_code": "w_002165",
+    "content": "agape syllogism",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不常见"
+  },
+  {
+    "item_code": "w_002172",
+    "content": "age-gap romance",
+    "meaning_zh": "年龄差恋爱；忘年恋",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会话题"
+  },
+  {
+    "item_code": "w_002176",
+    "content": "aged debtor",
+    "meaning_zh": "逾期债务人；账龄较长的债务人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "商务财务术语"
+  },
+  {
+    "item_code": "w_002177",
+    "content": "aged debtors",
+    "meaning_zh": "逾期债务人；账龄较长的债务人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "复数财务术语"
+  },
+  {
+    "item_code": "w_002188",
+    "content": "agency grant accommodate cancel",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无关词堆砌噪声"
+  }
+]

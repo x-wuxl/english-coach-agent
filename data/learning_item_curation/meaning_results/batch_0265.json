@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_025185",
+    "content": "erratic vicious",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组搭配不自然"
+  },
+  {
+    "item_code": "w_025190",
+    "content": "erroneous ideas",
+    "meaning_zh": "错误的想法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_025191",
+    "content": "erroneous nature",
+    "meaning_zh": "错误性质；错误本质",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作学术搭配"
+  },
+  {
+    "item_code": "w_025200",
+    "content": "erti caria",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_025206",
+    "content": "eruptive activity",
+    "meaning_zh": "喷发活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地质常见搭配"
+  },
+  {
+    "item_code": "w_025232",
+    "content": "escalate plant",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不可靠"
+  },
+  {
+    "item_code": "w_025236",
+    "content": "escalator detect",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组语法异常"
+  },
+  {
+    "item_code": "w_025237",
+    "content": "Escalopia",
+    "meaning_zh": "埃斯卡洛皮亚",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有名词音译"
+  },
+  {
+    "item_code": "w_025241",
+    "content": "escape attention",
+    "meaning_zh": "未被注意；逃过注意",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_025258",
+    "content": "escort cooperate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "并列残片疑似噪声"
+  },
+  {
+    "item_code": "w_025259",
+    "content": "escorts",
+    "meaning_zh": "护送者；护卫队；陪同人员",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "escort复数形式"
+  },
+  {
+    "item_code": "w_025262",
+    "content": "esonine",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似无效词条"
+  },
+  {
+    "item_code": "w_025263",
+    "content": "esonism",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似无效词条"
+  },
+  {
+    "item_code": "w_025269",
+    "content": "esoteric interim",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不可靠"
+  },
+  {
+    "item_code": "w_025273",
+    "content": "especially conclusive offer",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组结构异常"
+  },
+  {
+    "item_code": "w_025283",
+    "content": "essay deadline",
+    "meaning_zh": "作文截止日期；论文截止日期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学习场景常见搭配"
+  },
+  {
+    "item_code": "w_025284",
+    "content": "essay method",
+    "meaning_zh": "作文方法；论文写作方法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "写作学习搭配"
+  },
+  {
+    "item_code": "w_025285",
+    "content": "essay prompt",
+    "meaning_zh": "作文题目；写作提示",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "考试写作常用语"
+  },
+  {
+    "item_code": "w_025286",
+    "content": "essay typing",
+    "meaning_zh": "作文打字；论文录入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "写作操作场景"
+  },
+  {
+    "item_code": "w_025293",
+    "content": "essential skills",
+    "meaning_zh": "基本技能；必备技能",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习搭配"
+  }
+]

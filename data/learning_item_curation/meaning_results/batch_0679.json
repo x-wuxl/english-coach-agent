@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_066896",
+    "content": "sisterly tumble attendant",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声搭配"
+  },
+  {
+    "item_code": "w_066904",
+    "content": "sit for the bar",
+    "meaning_zh": "参加律师资格考试",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定法律表达"
+  },
+  {
+    "item_code": "w_066907",
+    "content": "sit lie",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_066910",
+    "content": "sit on shelves",
+    "meaning_zh": "被搁置；滞销",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见比喻表达"
+  },
+  {
+    "item_code": "w_066918",
+    "content": "sitcase",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑为拼写错误"
+  },
+  {
+    "item_code": "w_066922",
+    "content": "site permeable implant",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "术语不可靠"
+  },
+  {
+    "item_code": "w_066924",
+    "content": "site-licensing",
+    "meaning_zh": "站点许可；机构授权",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "软件授权术语"
+  },
+  {
+    "item_code": "w_066925",
+    "content": "site-licensing agreement",
+    "meaning_zh": "站点许可协议；机构授权协议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "授权协议术语"
+  },
+  {
+    "item_code": "w_066930",
+    "content": "sitting CEOs",
+    "meaning_zh": "在任首席执行官",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "sitting表示在任"
+  },
+  {
+    "item_code": "w_066938",
+    "content": "situation comedy",
+    "meaning_zh": "情景喜剧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见影视词汇"
+  },
+  {
+    "item_code": "w_066939",
+    "content": "situation of compatible products",
+    "meaning_zh": "兼容产品的情况",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定表达"
+  },
+  {
+    "item_code": "w_066941",
+    "content": "situational comedy",
+    "meaning_zh": "情景喜剧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "situation comedy变体"
+  },
+  {
+    "item_code": "w_066942",
+    "content": "situlation",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑为拼写错误"
+  },
+  {
+    "item_code": "w_066946",
+    "content": "six-month certificate",
+    "meaning_zh": "六个月有效期证书；六个月课程证书",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "需语境确认"
+  },
+  {
+    "item_code": "w_066953",
+    "content": "sixteen-seater minibus",
+    "meaning_zh": "十六座小巴",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "交通工具描述"
+  },
+  {
+    "item_code": "w_066967",
+    "content": "sized",
+    "meaning_zh": "大小为……的；按尺寸分类的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句说明尺寸"
+  },
+  {
+    "item_code": "w_066968",
+    "content": "sizing",
+    "meaning_zh": "确定尺寸；上浆",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见技术义项"
+  },
+  {
+    "item_code": "w_066978",
+    "content": "skeetboard",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑为拼写错误"
+  },
+  {
+    "item_code": "w_066981",
+    "content": "skeletal nervous system",
+    "meaning_zh": "骨骼神经系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "生物学相关术语"
+  },
+  {
+    "item_code": "w_066984",
+    "content": "skeleton consult",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  }
+]

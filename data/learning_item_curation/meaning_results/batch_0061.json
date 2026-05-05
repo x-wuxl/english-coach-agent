@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_004782",
+    "content": "as the picture shows",
+    "meaning_zh": "如图所示",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见图表表达"
+  },
+  {
+    "item_code": "w_004783",
+    "content": "as the representative of",
+    "meaning_zh": "作为……的代表",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词短语"
+  },
+  {
+    "item_code": "w_004786",
+    "content": "as to me",
+    "meaning_zh": "至于我；就我而言",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达较少见但可理解"
+  },
+  {
+    "item_code": "w_004787",
+    "content": "as tough as nails",
+    "meaning_zh": "非常坚强；强硬坚韧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语"
+  },
+  {
+    "item_code": "w_004794",
+    "content": "as-yet-unexploited",
+    "meaning_zh": "尚未开发的；尚未利用的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_004806",
+    "content": "ascender",
+    "meaning_zh": "上升者；字母上伸部",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专业词义依语境而定"
+  },
+  {
+    "item_code": "w_004812",
+    "content": "ascertain induce",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配，疑似噪声"
+  },
+  {
+    "item_code": "w_004835",
+    "content": "ash particle",
+    "meaning_zh": "灰粒；灰烬颗粒",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_004839",
+    "content": "ashamed relieved sigh",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠，疑似噪声"
+  },
+  {
+    "item_code": "w_004846",
+    "content": "Ashrita Furman",
+    "meaning_zh": "阿什里塔·弗曼（人名）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词人名"
+  },
+  {
+    "item_code": "w_004850",
+    "content": "Asia Infrastructure Investment Bank",
+    "meaning_zh": "亚洲基础设施投资银行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "机构名疑为非标准写法"
+  },
+  {
+    "item_code": "w_004853",
+    "content": "Asian Infrastructure Investment Bank",
+    "meaning_zh": "亚洲基础设施投资银行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "国际机构名称"
+  },
+  {
+    "item_code": "w_004862",
+    "content": "ask ... over",
+    "meaning_zh": "邀请……到家里来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_004863",
+    "content": "ask ... round",
+    "meaning_zh": "邀请……到家里来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "英式常见短语"
+  },
+  {
+    "item_code": "w_004870",
+    "content": "ask for a ride",
+    "meaning_zh": "请求搭车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_004872",
+    "content": "ask for an extension",
+    "meaning_zh": "请求延期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_004873",
+    "content": "ask for forgiveness",
+    "meaning_zh": "请求原谅",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_004879",
+    "content": "ask one's permission",
+    "meaning_zh": "征求某人的许可",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_004880",
+    "content": "ask permission",
+    "meaning_zh": "请求许可",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_004903",
+    "content": "aspersion pucker",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配，疑似噪声"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_060289",
+    "content": "reach saturation",
+    "meaning_zh": "达到饱和",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_060292",
+    "content": "reaching",
+    "meaning_zh": "到达；联系到；达到",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句体现常见义"
+  },
+  {
+    "item_code": "w_060296",
+    "content": "react oblique leary",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词组"
+  },
+  {
+    "item_code": "w_060303",
+    "content": "reaction against",
+    "meaning_zh": "对…的反应；反对…的反作用",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词搭配"
+  },
+  {
+    "item_code": "w_060305",
+    "content": "reactionary allude",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词组"
+  },
+  {
+    "item_code": "w_060314",
+    "content": "read a newspaper",
+    "meaning_zh": "看报纸；读报纸",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础动词短语"
+  },
+  {
+    "item_code": "w_060315",
+    "content": "read a story",
+    "meaning_zh": "读故事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础动词短语"
+  },
+  {
+    "item_code": "w_060317",
+    "content": "read an e-book",
+    "meaning_zh": "读电子书",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础动词短语"
+  },
+  {
+    "item_code": "w_060320",
+    "content": "read difficulty",
+    "meaning_zh": "阅读难度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配略不自然"
+  },
+  {
+    "item_code": "w_060321",
+    "content": "read extensively",
+    "meaning_zh": "广泛阅读；泛读",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习搭配"
+  },
+  {
+    "item_code": "w_060323",
+    "content": "read in bed",
+    "meaning_zh": "在床上看书",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础生活表达"
+  },
+  {
+    "item_code": "w_060324",
+    "content": "read novels online",
+    "meaning_zh": "在线读小说；在网上看小说",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活表达"
+  },
+  {
+    "item_code": "w_060328",
+    "content": "read one's thoughts",
+    "meaning_zh": "看出某人的想法；读懂某人的心思",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_060329",
+    "content": "read only physical books",
+    "meaning_zh": "只读纸质书",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "含义明确"
+  },
+  {
+    "item_code": "w_060342",
+    "content": "reading a book",
+    "meaning_zh": "正在看书；正在读一本书",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句直接对应"
+  },
+  {
+    "item_code": "w_060344",
+    "content": "reading extensively",
+    "meaning_zh": "广泛阅读；泛读",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习搭配"
+  },
+  {
+    "item_code": "w_060347",
+    "content": "reading quantity",
+    "meaning_zh": "阅读量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "教育语境可用"
+  },
+  {
+    "item_code": "w_060349",
+    "content": "reading strategy",
+    "meaning_zh": "阅读策略",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见考试术语"
+  },
+  {
+    "item_code": "w_060350",
+    "content": "reading the newspaper",
+    "meaning_zh": "正在看报纸；读报纸",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句直接对应"
+  },
+  {
+    "item_code": "w_060351",
+    "content": "reading volumes",
+    "meaning_zh": "阅读量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "教育语境可用"
+  }
+]

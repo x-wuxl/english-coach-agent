@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_070199",
+    "content": "strengthen the economy",
+    "meaning_zh": "增强经济实力；促进经济发展",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_070201",
+    "content": "strengthen rural compulsory education",
+    "meaning_zh": "加强农村义务教育",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政策表达"
+  },
+  {
+    "item_code": "w_070203",
+    "content": "strenuous belt",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_070212",
+    "content": "streptomycin pervade erythra",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无可靠含义"
+  },
+  {
+    "item_code": "w_070221",
+    "content": "stress-free, happiness-enhancing parenthood",
+    "meaning_zh": "无压力且提升幸福感的育儿生活",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "整体修饰育儿状态"
+  },
+  {
+    "item_code": "w_070224",
+    "content": "stress-reduction class",
+    "meaning_zh": "减压课程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见复合短语"
+  },
+  {
+    "item_code": "w_070229",
+    "content": "stressful life",
+    "meaning_zh": "压力大的生活",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_070230",
+    "content": "stressing out",
+    "meaning_zh": "焦虑不安；压力过大",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见口语表达"
+  },
+  {
+    "item_code": "w_070233",
+    "content": "stretch across",
+    "meaning_zh": "横跨；延伸穿过",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_070234",
+    "content": "stretch back to",
+    "meaning_zh": "追溯到；延续到",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见时间表达"
+  },
+  {
+    "item_code": "w_070235",
+    "content": "stretch contempt",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_070244",
+    "content": "striate renegade",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词组合"
+  },
+  {
+    "item_code": "w_070249",
+    "content": "strict about",
+    "meaning_zh": "对……要求严格",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_070255",
+    "content": "strict with the employees",
+    "meaning_zh": "对员工严格",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见介词搭配"
+  },
+  {
+    "item_code": "w_070261",
+    "content": "stride disperse sequel",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词组合"
+  },
+  {
+    "item_code": "w_070266",
+    "content": "strike ... as ...",
+    "meaning_zh": "给……以……印象；让……觉得……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型"
+  },
+  {
+    "item_code": "w_070271",
+    "content": "strike a truth",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配疑似误录"
+  },
+  {
+    "item_code": "w_070279",
+    "content": "strike sb. as",
+    "meaning_zh": "给某人以……印象；使某人觉得",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型"
+  },
+  {
+    "item_code": "w_070280",
+    "content": "strike sb. as ...",
+    "meaning_zh": "给某人以……印象；使某人觉得",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型"
+  },
+  {
+    "item_code": "w_070281",
+    "content": "strike sb. as sth.",
+    "meaning_zh": "使某人觉得是某物；给某人某种印象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型"
+  }
+]

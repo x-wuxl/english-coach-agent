@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_010557",
+    "content": "Brian Jenkins",
+    "meaning_zh": "布赖恩·詹金斯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人名专有名词"
+  },
+  {
+    "item_code": "w_010561",
+    "content": "bribery prosecutions",
+    "meaning_zh": "贿赂案件起诉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律新闻搭配"
+  },
+  {
+    "item_code": "w_010562",
+    "content": "bribery scandal",
+    "meaning_zh": "贿赂丑闻",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见新闻搭配"
+  },
+  {
+    "item_code": "w_010564",
+    "content": "brick layer joiner",
+    "meaning_zh": "砌砖工；细木工",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "职业词汇并列"
+  },
+  {
+    "item_code": "w_010566",
+    "content": "brick wood",
+    "meaning_zh": "砖和木材；砖木材料",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "建筑材料搭配"
+  },
+  {
+    "item_code": "w_010568",
+    "content": "brick-and-mortar bookstore",
+    "meaning_zh": "实体书店",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定商业表达"
+  },
+  {
+    "item_code": "w_010576",
+    "content": "bride bridegroom",
+    "meaning_zh": "新娘和新郎",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "婚礼词汇并列"
+  },
+  {
+    "item_code": "w_010577",
+    "content": "bride money",
+    "meaning_zh": "彩礼；聘金",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "婚俗固定含义"
+  },
+  {
+    "item_code": "w_010583",
+    "content": "Bridgeport",
+    "meaning_zh": "布里奇波特",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地名专有名词"
+  },
+  {
+    "item_code": "w_010589",
+    "content": "brief endless",
+    "meaning_zh": "短暂的；无尽的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "形容词并列"
+  },
+  {
+    "item_code": "w_010590",
+    "content": "brief holiday greeting",
+    "meaning_zh": "简短的节日问候",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达搭配"
+  },
+  {
+    "item_code": "w_010592",
+    "content": "brief look",
+    "meaning_zh": "简要了解；快速看一看",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  },
+  {
+    "item_code": "w_010603",
+    "content": "bright brilliant smart",
+    "meaning_zh": "聪明的；明亮的；出色的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "近义形容词并列"
+  },
+  {
+    "item_code": "w_010607",
+    "content": "bright sunshine",
+    "meaning_zh": "明媚的阳光；耀眼的阳光",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  },
+  {
+    "item_code": "w_010610",
+    "content": "brighten up",
+    "meaning_zh": "使明亮；使高兴；好转",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词"
+  },
+  {
+    "item_code": "w_010614",
+    "content": "brighton",
+    "meaning_zh": "布莱顿",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地名专有名词"
+  },
+  {
+    "item_code": "w_010618",
+    "content": "brilliant mind",
+    "meaning_zh": "聪慧的头脑；杰出的才智",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_010621",
+    "content": "brim bargain deft polarize",
+    "meaning_zh": "边缘；交易；熟练的；使两极分化",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "无关词堆叠噪声"
+  },
+  {
+    "item_code": "w_010636",
+    "content": "bring ... into operation",
+    "meaning_zh": "使……投入运行；使……生效",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词短语"
+  },
+  {
+    "item_code": "w_010653",
+    "content": "bring benefits to",
+    "meaning_zh": "给……带来好处",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  }
+]

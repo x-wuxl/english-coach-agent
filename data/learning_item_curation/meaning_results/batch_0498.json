@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_048015",
+    "content": "monopoly on sth.",
+    "meaning_zh": "对某事物的垄断",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_048025",
+    "content": "monotonous complexion hinge",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无明确含义"
+  },
+  {
+    "item_code": "w_048040",
+    "content": "montage director",
+    "meaning_zh": "蒙太奇导演；剪辑导演",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "影视相关搭配"
+  },
+  {
+    "item_code": "w_048047",
+    "content": "monthly subscription service",
+    "meaning_zh": "按月订阅服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商业搭配"
+  },
+  {
+    "item_code": "w_048050",
+    "content": "monty",
+    "meaning_zh": "蒙蒂（人名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见人名，语境不足"
+  },
+  {
+    "item_code": "w_048052",
+    "content": "monument to",
+    "meaning_zh": "纪念某人的纪念碑；体现某事物的标志",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_048065",
+    "content": "moon cake box",
+    "meaning_zh": "月饼盒",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_048068",
+    "content": "moon-viewing flight",
+    "meaning_zh": "赏月航班",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_048090",
+    "content": "moral bank",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配含义不明"
+  },
+  {
+    "item_code": "w_048091",
+    "content": "moral breakthrough neglect",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无明确含义"
+  },
+  {
+    "item_code": "w_048094",
+    "content": "moral compromise",
+    "meaning_zh": "道德妥协",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_048095",
+    "content": "moral considerations",
+    "meaning_zh": "道德考量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_048099",
+    "content": "moral extraordinary prevail",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无明确含义"
+  },
+  {
+    "item_code": "w_048100",
+    "content": "moral failing",
+    "meaning_zh": "道德缺陷；品德上的过失",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_048104",
+    "content": "moral outrage",
+    "meaning_zh": "道德愤慨",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_048105",
+    "content": "moral principle",
+    "meaning_zh": "道德原则",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础搭配"
+  },
+  {
+    "item_code": "w_048119",
+    "content": "morays",
+    "meaning_zh": "海鳗；裸胸鳝",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "moray的复数"
+  },
+  {
+    "item_code": "w_048121",
+    "content": "morbid moron",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配含义不明"
+  },
+  {
+    "item_code": "w_048131",
+    "content": "more A than B",
+    "meaning_zh": "与其说是B，不如说是A",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型"
+  },
+  {
+    "item_code": "w_048133",
+    "content": "more established companies",
+    "meaning_zh": "更成熟的公司；更有根基的公司",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商业表达"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_042557",
+    "content": "leap around",
+    "meaning_zh": "四处跳跃",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_042560",
+    "content": "leap stake",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_042565",
+    "content": "leapfrog development",
+    "meaning_zh": "跨越式发展",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_042569",
+    "content": "learn ... by oneself",
+    "meaning_zh": "自学……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教材常见搭配"
+  },
+  {
+    "item_code": "w_042570",
+    "content": "learn ... from",
+    "meaning_zh": "从……学习；向……学习",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型"
+  },
+  {
+    "item_code": "w_042573",
+    "content": "learn by oneself",
+    "meaning_zh": "自学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_042574",
+    "content": "learn English",
+    "meaning_zh": "学英语",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持"
+  },
+  {
+    "item_code": "w_042577",
+    "content": "learn from Lei Feng",
+    "meaning_zh": "向雷锋学习",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专名搭配"
+  },
+  {
+    "item_code": "w_042578",
+    "content": "learn mountains of theories",
+    "meaning_zh": "学习大量理论",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含夸张数量表达"
+  },
+  {
+    "item_code": "w_042579",
+    "content": "learn musical instruments",
+    "meaning_zh": "学习演奏乐器",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习主题"
+  },
+  {
+    "item_code": "w_042583",
+    "content": "learn through",
+    "meaning_zh": "通过……学习",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语不完整但可判断"
+  },
+  {
+    "item_code": "w_042585",
+    "content": "learned to swim",
+    "meaning_zh": "学会了游泳",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础表达"
+  },
+  {
+    "item_code": "w_042586",
+    "content": "learned to walk",
+    "meaning_zh": "学会了走路",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础表达"
+  },
+  {
+    "item_code": "w_042597",
+    "content": "learning zone",
+    "meaning_zh": "学习区；学习区域",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_042599",
+    "content": "leary",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_042601",
+    "content": "lease a car",
+    "meaning_zh": "租赁汽车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_042602",
+    "content": "lease hyadide",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含明显噪声词"
+  },
+  {
+    "item_code": "w_042608",
+    "content": "leash litter",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_042615",
+    "content": "least traffic",
+    "meaning_zh": "最少的交通量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_042617",
+    "content": "leather fiber",
+    "meaning_zh": "皮革纤维",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "材料类名词短语"
+  }
+]

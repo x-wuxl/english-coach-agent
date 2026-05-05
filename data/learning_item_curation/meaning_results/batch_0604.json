@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_059308",
+    "content": "put someone to trouble",
+    "meaning_zh": "给某人添麻烦；使某人费事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配整体释义"
+  },
+  {
+    "item_code": "w_059310",
+    "content": "put something at stake",
+    "meaning_zh": "使某事面临风险；拿某事冒险",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配整体释义"
+  },
+  {
+    "item_code": "w_059312",
+    "content": "put something to rest",
+    "meaning_zh": "平息某事；消除疑虑；使某事告一段落",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配整体释义"
+  },
+  {
+    "item_code": "w_059320",
+    "content": "put sth. in perspective",
+    "meaning_zh": "正确看待某事；从全局理解某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配整体释义"
+  },
+  {
+    "item_code": "w_059330",
+    "content": "put sth. plainly",
+    "meaning_zh": "直截了当地说明某事；坦率地表达某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达整体释义"
+  },
+  {
+    "item_code": "w_059366",
+    "content": "Putonghua",
+    "meaning_zh": "普通话",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指普通话"
+  },
+  {
+    "item_code": "w_059372",
+    "content": "puts",
+    "meaning_zh": "放；放置；投入",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "put的第三人称形式"
+  },
+  {
+    "item_code": "w_059380",
+    "content": "puzzle quiz",
+    "meaning_zh": "谜题测验；益智问答",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "名词短语整体释义"
+  },
+  {
+    "item_code": "w_059404",
+    "content": "PyPI",
+    "meaning_zh": "Python 软件包索引；Python 包仓库",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机专有缩写"
+  },
+  {
+    "item_code": "w_059405",
+    "content": "PyPy",
+    "meaning_zh": "一种 Python 解释器实现",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机专有名词"
+  },
+  {
+    "item_code": "w_059409",
+    "content": "pyramid-shaped dumpling",
+    "meaning_zh": "粽子",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常指中国粽子"
+  },
+  {
+    "item_code": "w_059436",
+    "content": "pythonic",
+    "meaning_zh": "符合 Python 风格的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程术语"
+  },
+  {
+    "item_code": "w_059439",
+    "content": "q scatter",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声无法判断"
+  },
+  {
+    "item_code": "w_059446",
+    "content": "QQ emoji",
+    "meaning_zh": "QQ 表情",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有产品表达"
+  },
+  {
+    "item_code": "w_059447",
+    "content": "qradon",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声无法判断"
+  },
+  {
+    "item_code": "w_059449",
+    "content": "qua",
+    "meaning_zh": "作为；以……身份",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "正式介词含义"
+  },
+  {
+    "item_code": "w_059451",
+    "content": "quack rustic court",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不自然疑似噪声"
+  },
+  {
+    "item_code": "w_059457",
+    "content": "quadrangle dwellings",
+    "meaning_zh": "四合院住宅",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可指四合院"
+  },
+  {
+    "item_code": "w_059460",
+    "content": "quadrant bacon solution",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组不自然疑似噪声"
+  },
+  {
+    "item_code": "w_059467",
+    "content": "quadrihedron",
+    "meaning_zh": "四面体",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "几何术语"
+  }
+]

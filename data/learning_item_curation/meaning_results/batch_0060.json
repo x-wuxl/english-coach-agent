@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_004688",
+    "content": "artificial scenery",
+    "meaning_zh": "人造景观；人工布景",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_004689",
+    "content": "artificial weather modification",
+    "meaning_zh": "人工影响天气；人工改造天气",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术术语短语"
+  },
+  {
+    "item_code": "w_004691",
+    "content": "artificially intelligent",
+    "meaning_zh": "具备人工智能的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容词短语"
+  },
+  {
+    "item_code": "w_004696",
+    "content": "artist studio",
+    "meaning_zh": "艺术家工作室",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_004699",
+    "content": "artistic accomplishments",
+    "meaning_zh": "艺术成就；艺术造诣",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_004702",
+    "content": "artistic personality",
+    "meaning_zh": "艺术气质；艺术个性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_004703",
+    "content": "artistic standards",
+    "meaning_zh": "艺术标准；艺术水准",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_004705",
+    "content": "artistic taste",
+    "meaning_zh": "艺术品味；审美趣味",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_004707",
+    "content": "artistic vision",
+    "meaning_zh": "艺术眼光；艺术构想",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_004708",
+    "content": "artistic work",
+    "meaning_zh": "艺术作品；艺术创作",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_004717",
+    "content": "arts coverage",
+    "meaning_zh": "艺术报道；艺术新闻报道",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "依语境可指报道范围"
+  },
+  {
+    "item_code": "w_004722",
+    "content": "arylhydrocarbon",
+    "meaning_zh": "芳香烃；芳基烃",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "化学术语"
+  },
+  {
+    "item_code": "w_004728",
+    "content": "as a concrete expression",
+    "meaning_zh": "作为具体表现",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达短语"
+  },
+  {
+    "item_code": "w_004736",
+    "content": "as a practical matter",
+    "meaning_zh": "从实际角度看；实际上",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_004739",
+    "content": "as a substitute for",
+    "meaning_zh": "作为……的替代品；代替",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_004743",
+    "content": "as faint praise",
+    "meaning_zh": "作为敷衍的称赞；作为微弱的赞扬",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语缺少上下文"
+  },
+  {
+    "item_code": "w_004755",
+    "content": "as illustrated",
+    "meaning_zh": "如图所示；如例所示",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见说明表达"
+  },
+  {
+    "item_code": "w_004756",
+    "content": "as is shown above",
+    "meaning_zh": "如上所示",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见说明表达"
+  },
+  {
+    "item_code": "w_004778",
+    "content": "as sb. puts it",
+    "meaning_zh": "正如某人所说；用某人的话说",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_004779",
+    "content": "as so often",
+    "meaning_zh": "像往常一样；常常如此",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见插入表达"
+  }
+]

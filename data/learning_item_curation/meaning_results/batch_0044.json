@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_003164",
+    "content": "an academic essay",
+    "meaning_zh": "一篇学术论文",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术写作搭配"
+  },
+  {
+    "item_code": "w_003165",
+    "content": "an act dank signal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "内容疑似噪声"
+  },
+  {
+    "item_code": "w_003166",
+    "content": "an active user",
+    "meaning_zh": "活跃用户",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见互联网搭配"
+  },
+  {
+    "item_code": "w_003168",
+    "content": "an air of mystery",
+    "meaning_zh": "神秘气息；神秘氛围",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_003169",
+    "content": "an air raid",
+    "meaning_zh": "空袭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见军事词组"
+  },
+  {
+    "item_code": "w_003170",
+    "content": "an air route",
+    "meaning_zh": "航线；航空路线",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见交通搭配"
+  },
+  {
+    "item_code": "w_003171",
+    "content": "an alarming turn",
+    "meaning_zh": "令人担忧的转变",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容转折变化"
+  },
+  {
+    "item_code": "w_003172",
+    "content": "an alert face",
+    "meaning_zh": "警觉的面容；警惕的神情",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容表情状态"
+  },
+  {
+    "item_code": "w_003173",
+    "content": "an alien concept",
+    "meaning_zh": "陌生的概念；格格不入的观念",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "alien表陌生"
+  },
+  {
+    "item_code": "w_003174",
+    "content": "an all-round reward",
+    "meaning_zh": "全面的回报；综合性奖励",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配较少见"
+  },
+  {
+    "item_code": "w_003178",
+    "content": "an anti-obesity campaign",
+    "meaning_zh": "反肥胖运动；防治肥胖宣传活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "公共健康搭配"
+  },
+  {
+    "item_code": "w_003179",
+    "content": "an appeal for sth.",
+    "meaning_zh": "对某事的呼吁；对某物的请求",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_003181",
+    "content": "an associate judge",
+    "meaning_zh": "助理法官；副法官",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律职务名称"
+  },
+  {
+    "item_code": "w_003182",
+    "content": "an astronomy club",
+    "meaning_zh": "天文俱乐部；天文社",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社团名称"
+  },
+  {
+    "item_code": "w_003183",
+    "content": "an automatic chauffeur",
+    "meaning_zh": "自动驾驶系统；自动司机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达较少见"
+  },
+  {
+    "item_code": "w_003186",
+    "content": "an easy access",
+    "meaning_zh": "便捷通道；容易获得",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "冠词用法不自然"
+  },
+  {
+    "item_code": "w_003187",
+    "content": "an economic recovery",
+    "meaning_zh": "经济复苏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见经济搭配"
+  },
+  {
+    "item_code": "w_003188",
+    "content": "an effective remedy",
+    "meaning_zh": "有效补救办法；有效疗法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_003189",
+    "content": "an either-or choice",
+    "meaning_zh": "非此即彼的选择；二选一",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_003190",
+    "content": "an elite athlete",
+    "meaning_zh": "精英运动员；顶尖运动员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见体育搭配"
+  }
+]

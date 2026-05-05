@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_064471",
+    "content": "screw souvenir",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_064474",
+    "content": "screwdriver broomstick",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_064475",
+    "content": "screwdriver planetary slogan",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_064478",
+    "content": "scribble names",
+    "meaning_zh": "潦草地写名字",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_064483",
+    "content": "scripe",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_064485",
+    "content": "script doctor",
+    "meaning_zh": "剧本修改专家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "影视行业术语"
+  },
+  {
+    "item_code": "w_064486",
+    "content": "script mode",
+    "meaning_zh": "脚本模式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_064498",
+    "content": "scrub barge barrage",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_064507",
+    "content": "scruple providential depravity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_064509",
+    "content": "scrupulous neutrality",
+    "meaning_zh": "严守中立；谨慎中立",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "形容中立态度"
+  },
+  {
+    "item_code": "w_064510",
+    "content": "scrupulous protocol",
+    "meaning_zh": "严格的规程；严谨的协议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "形容规程严谨"
+  },
+  {
+    "item_code": "w_064511",
+    "content": "scrupulous tangle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_064518",
+    "content": "scrutinize amuse",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  },
+  {
+    "item_code": "w_064526",
+    "content": "scuff halcian",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含疑似拼写错误"
+  },
+  {
+    "item_code": "w_064535",
+    "content": "sculpture exhibit",
+    "meaning_zh": "雕塑展品；雕塑展览",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_064545",
+    "content": "scurvy barb",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_064546",
+    "content": "scurvy script",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_064566",
+    "content": "sea of clouds",
+    "meaning_zh": "云海",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_064585",
+    "content": "seafood market",
+    "meaning_zh": "海鲜市场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活词组"
+  },
+  {
+    "item_code": "w_064593",
+    "content": "seal hinder",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声组合"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_065715",
+    "content": "set up a time",
+    "meaning_zh": "约定时间；安排时间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_065717",
+    "content": "set up one's mind",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑为错误搭配"
+  },
+  {
+    "item_code": "w_065719",
+    "content": "set up the channel",
+    "meaning_zh": "建立渠道；开设频道",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "按搭配整体释义"
+  },
+  {
+    "item_code": "w_065720",
+    "content": "set yourself a goal",
+    "meaning_zh": "给自己设定目标",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习表达"
+  },
+  {
+    "item_code": "w_065729",
+    "content": "settle afford demotion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无可靠含义"
+  },
+  {
+    "item_code": "w_065730",
+    "content": "settle an argument",
+    "meaning_zh": "解决争论；平息争执",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_065740",
+    "content": "settle the problem",
+    "meaning_zh": "解决问题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持释义"
+  },
+  {
+    "item_code": "w_065746",
+    "content": "settlement site",
+    "meaning_zh": "定居点；聚落遗址",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "考古地理常用语"
+  },
+  {
+    "item_code": "w_065748",
+    "content": "setulus",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_065750",
+    "content": "setuus obfuscate wattle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串噪声"
+  },
+  {
+    "item_code": "w_065753",
+    "content": "seven-character octave",
+    "meaning_zh": "七言律诗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "文学术语"
+  },
+  {
+    "item_code": "w_065755",
+    "content": "seven-screen",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缺少语境难判断"
+  },
+  {
+    "item_code": "w_065768",
+    "content": "sever ingest",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无可靠含义"
+  },
+  {
+    "item_code": "w_065771",
+    "content": "several thousand years",
+    "meaning_zh": "几千年；数千年",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见数量短语"
+  },
+  {
+    "item_code": "w_065775",
+    "content": "severe criticism",
+    "meaning_zh": "严厉批评",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持释义"
+  },
+  {
+    "item_code": "w_065776",
+    "content": "severe famine",
+    "meaning_zh": "严重饥荒",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_065777",
+    "content": "severe migraine",
+    "meaning_zh": "严重偏头痛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学常用搭配"
+  },
+  {
+    "item_code": "w_065781",
+    "content": "severely depressed depression",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "表达冗余不自然"
+  },
+  {
+    "item_code": "w_065783",
+    "content": "severity of symptom",
+    "meaning_zh": "症状严重程度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学常用表达"
+  },
+  {
+    "item_code": "w_065788",
+    "content": "sewage engineering",
+    "meaning_zh": "污水工程；排污工程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "工程技术术语"
+  }
+]

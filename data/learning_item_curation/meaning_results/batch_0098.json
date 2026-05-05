@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_008064",
+    "content": "be stocked with",
+    "meaning_zh": "备有；储备有",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_008066",
+    "content": "be stricken by",
+    "meaning_zh": "遭受；被打击",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "被动搭配"
+  },
+  {
+    "item_code": "w_008067",
+    "content": "be stricken with",
+    "meaning_zh": "患有；受…折磨",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_008076",
+    "content": "be stubborn about",
+    "meaning_zh": "对…固执；坚持己见",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_008082",
+    "content": "be stunned by",
+    "meaning_zh": "被…震惊；被…惊呆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "被动搭配"
+  },
+  {
+    "item_code": "w_008087",
+    "content": "be such",
+    "meaning_zh": "是这样的；如此",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语较残缺"
+  },
+  {
+    "item_code": "w_008089",
+    "content": "be sucked into",
+    "meaning_zh": "被吸入；被卷入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_008095",
+    "content": "be supervised",
+    "meaning_zh": "受监督；被管理",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "被动表达"
+  },
+  {
+    "item_code": "w_008096",
+    "content": "be supplied to sb.",
+    "meaning_zh": "被提供给某人；被供应给某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "被动搭配"
+  },
+  {
+    "item_code": "w_008105",
+    "content": "be surprised to",
+    "meaning_zh": "惊讶地做；对做…感到惊讶",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  },
+  {
+    "item_code": "w_008106",
+    "content": "be surprised to ...",
+    "meaning_zh": "惊讶地做；对做…感到惊讶",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型"
+  },
+  {
+    "item_code": "w_008108",
+    "content": "be surrounded with",
+    "meaning_zh": "被…包围；周围有…",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_008109",
+    "content": "be susceptible of",
+    "meaning_zh": "容许…；可被…",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "高级固定搭配"
+  },
+  {
+    "item_code": "w_008113",
+    "content": "be swamped by",
+    "meaning_zh": "被…淹没；忙于应付",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_008114",
+    "content": "be swamped by ...",
+    "meaning_zh": "被…淹没；忙于应付",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_008119",
+    "content": "be tailored to",
+    "meaning_zh": "为…量身定制；适合…",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_008123",
+    "content": "be taken to court",
+    "meaning_zh": "被告上法庭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律常用表达"
+  },
+  {
+    "item_code": "w_008125",
+    "content": "be talented in",
+    "meaning_zh": "在…方面有天赋",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_008126",
+    "content": "be tangent to",
+    "meaning_zh": "与…相切",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "数学术语"
+  },
+  {
+    "item_code": "w_008129",
+    "content": "be tempted to do",
+    "meaning_zh": "忍不住想做；很想做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型"
+  }
+]

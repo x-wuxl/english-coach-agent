@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_000268",
+    "content": "a good number",
+    "meaning_zh": "相当多；许多",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见数量短语"
+  },
+  {
+    "item_code": "w_000271",
+    "content": "a good start",
+    "meaning_zh": "良好的开端",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_000272",
+    "content": "a good view",
+    "meaning_zh": "好视野；美景",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指景观视野"
+  },
+  {
+    "item_code": "w_000273",
+    "content": "a graduation dissertation",
+    "meaning_zh": "毕业论文",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常用表达"
+  },
+  {
+    "item_code": "w_000274",
+    "content": "a graduation thesis",
+    "meaning_zh": "毕业论文",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常用表达"
+  },
+  {
+    "item_code": "w_000275",
+    "content": "a grant-aided student",
+    "meaning_zh": "受助学生；享受助学金的学生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "复合修饰短语"
+  },
+  {
+    "item_code": "w_000283",
+    "content": "a growing number of",
+    "meaning_zh": "越来越多的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见数量短语"
+  },
+  {
+    "item_code": "w_000284",
+    "content": "a guilty conscience",
+    "meaning_zh": "内疚心理；心虚",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_000285",
+    "content": "a hamburger",
+    "meaning_zh": "一个汉堡包",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础名词含义明确"
+  },
+  {
+    "item_code": "w_000286",
+    "content": "a handful of schools",
+    "meaning_zh": "少数几所学校",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "数量短语搭配"
+  },
+  {
+    "item_code": "w_000287",
+    "content": "a hard time",
+    "meaning_zh": "困难时期；不好过；费力做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句覆盖常见义"
+  },
+  {
+    "item_code": "w_000288",
+    "content": "a harmonious society",
+    "meaning_zh": "和谐社会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配常见"
+  },
+  {
+    "item_code": "w_000290",
+    "content": "a head of lettuce",
+    "meaning_zh": "一棵生菜",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "量词结构明确"
+  },
+  {
+    "item_code": "w_000293",
+    "content": "a heavy burden",
+    "meaning_zh": "沉重的负担",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_000294",
+    "content": "a heavy demand for",
+    "meaning_zh": "对……的大量需求",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "需求搭配明确"
+  },
+  {
+    "item_code": "w_000295",
+    "content": "a heavy line",
+    "meaning_zh": "粗线；重线",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缺少语境但可判断"
+  },
+  {
+    "item_code": "w_000296",
+    "content": "a heavy schedule",
+    "meaning_zh": "繁重的日程；紧张的安排",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_000299",
+    "content": "a high college diploma",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "表达不自然疑似噪声"
+  },
+  {
+    "item_code": "w_000300",
+    "content": "a high degree of",
+    "meaning_zh": "高度的；很大程度的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见程度短语"
+  },
+  {
+    "item_code": "w_000301",
+    "content": "a high school diploma",
+    "meaning_zh": "高中文凭",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育术语明确"
+  }
+]

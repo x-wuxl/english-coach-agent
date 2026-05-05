@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_044835",
+    "content": "main topic",
+    "meaning_zh": "主题；主要话题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指书的主题"
+  },
+  {
+    "item_code": "w_044838",
+    "content": "Maine",
+    "meaning_zh": "缅因州（美国州名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有地名"
+  },
+  {
+    "item_code": "w_044850",
+    "content": "mainstream support",
+    "meaning_zh": "主流支持",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见技术支持术语"
+  },
+  {
+    "item_code": "w_044851",
+    "content": "mainstream user",
+    "meaning_zh": "主流用户",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_044853",
+    "content": "maintain a ... lifestyle",
+    "meaning_zh": "保持……的生活方式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配模板"
+  },
+  {
+    "item_code": "w_044854",
+    "content": "maintain balance",
+    "meaning_zh": "保持平衡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_044855",
+    "content": "maintain dilate highlight",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配噪声"
+  },
+  {
+    "item_code": "w_044856",
+    "content": "maintain heat",
+    "meaning_zh": "保持热量；保温",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_044857",
+    "content": "maintain the car",
+    "meaning_zh": "保养汽车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "maintain指保养"
+  },
+  {
+    "item_code": "w_044858",
+    "content": "maintain the integrity",
+    "meaning_zh": "保持完整性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见抽象搭配"
+  },
+  {
+    "item_code": "w_044859",
+    "content": "maintain the relationship",
+    "meaning_zh": "维持关系",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_044861",
+    "content": "maintainability",
+    "meaning_zh": "可维护性",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_044862",
+    "content": "maintainable",
+    "meaning_zh": "可维护的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用词"
+  },
+  {
+    "item_code": "w_044869",
+    "content": "maitre d'hôtel",
+    "meaning_zh": "餐厅领班；总管",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法语借词餐饮术语"
+  },
+  {
+    "item_code": "w_044872",
+    "content": "majestic immateria",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误噪声"
+  },
+  {
+    "item_code": "w_044875",
+    "content": "majesty lethal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无自然搭配"
+  },
+  {
+    "item_code": "w_044880",
+    "content": "major contributor",
+    "meaning_zh": "主要贡献者；重要因素",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_044882",
+    "content": "major cultural heritage",
+    "meaning_zh": "重要文化遗产",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_044883",
+    "content": "major energy source",
+    "meaning_zh": "主要能源来源",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见能源表达"
+  },
+  {
+    "item_code": "w_044884",
+    "content": "major engineering achievement",
+    "meaning_zh": "重大工程成就",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  }
+]

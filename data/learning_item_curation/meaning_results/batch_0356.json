@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_033764",
+    "content": "have a raw deal",
+    "meaning_zh": "受到不公平对待",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_033765",
+    "content": "have a red face",
+    "meaning_zh": "脸红；感到尴尬",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语"
+  },
+  {
+    "item_code": "w_033768",
+    "content": "have a rough idea",
+    "meaning_zh": "有个大概想法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_033772",
+    "content": "have a scrape",
+    "meaning_zh": "遇到麻烦；擦伤",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义依语境"
+  },
+  {
+    "item_code": "w_033774",
+    "content": "have a screw missing",
+    "meaning_zh": "脑子不太正常；有点疯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语表达"
+  },
+  {
+    "item_code": "w_033780",
+    "content": "have a significant effect",
+    "meaning_zh": "产生显著影响",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常用搭配"
+  },
+  {
+    "item_code": "w_033781",
+    "content": "have a sleep",
+    "meaning_zh": "睡一觉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础短语"
+  },
+  {
+    "item_code": "w_033783",
+    "content": "have a sneaking feeling",
+    "meaning_zh": "隐约觉得；暗自感觉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_033785",
+    "content": "have a spaz",
+    "meaning_zh": "突然失控；大发脾气",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "俚语且不正式"
+  },
+  {
+    "item_code": "w_033786",
+    "content": "have a spill",
+    "meaning_zh": "摔倒；出事故",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见口语搭配"
+  },
+  {
+    "item_code": "w_033787",
+    "content": "have a sports meeting",
+    "meaning_zh": "举行运动会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教材常见表达"
+  },
+  {
+    "item_code": "w_033788",
+    "content": "have a stab at",
+    "meaning_zh": "尝试做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "习语表达"
+  },
+  {
+    "item_code": "w_033790",
+    "content": "have a start",
+    "meaning_zh": "吓一跳；有一个开端",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义依语境"
+  },
+  {
+    "item_code": "w_033792",
+    "content": "have a straight face",
+    "meaning_zh": "板着脸；一本正经",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_033795",
+    "content": "have a suggestion for",
+    "meaning_zh": "对……有建议",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_033796",
+    "content": "have a sweet dream",
+    "meaning_zh": "做个甜美的梦",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见祝愿语"
+  },
+  {
+    "item_code": "w_033800",
+    "content": "have a taste in",
+    "meaning_zh": "在……方面有品味",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配略不完整"
+  },
+  {
+    "item_code": "w_033803",
+    "content": "have a thing going",
+    "meaning_zh": "有一段暧昧关系；有进展",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "口语含义依语境"
+  },
+  {
+    "item_code": "w_033804",
+    "content": "have a tongue-lashing",
+    "meaning_zh": "挨一顿痛骂",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_033807",
+    "content": "have a view on",
+    "meaning_zh": "对……有看法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_007674",
+    "content": "be lost in sight",
+    "meaning_zh": "消失在视野中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定表达但少见"
+  },
+  {
+    "item_code": "w_007688",
+    "content": "be married",
+    "meaning_zh": "结婚；已婚",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持"
+  },
+  {
+    "item_code": "w_007693",
+    "content": "be married with",
+    "meaning_zh": "与……结婚",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配不够标准"
+  },
+  {
+    "item_code": "w_007695",
+    "content": "be meant to do",
+    "meaning_zh": "应该做；注定要做；意在做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_007696",
+    "content": "be measured in",
+    "meaning_zh": "以……计量；用……衡量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_007697",
+    "content": "be measured in sth.",
+    "meaning_zh": "以某物为单位计量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_007699",
+    "content": "be misinterpreted as",
+    "meaning_zh": "被误解为；被误读为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动搭配"
+  },
+  {
+    "item_code": "w_007701",
+    "content": "be mixed with",
+    "meaning_zh": "与……混合；夹杂着……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_007703",
+    "content": "be modelled after",
+    "meaning_zh": "仿照……制作；以……为原型",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_007705",
+    "content": "be more likely to",
+    "meaning_zh": "更有可能……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型"
+  },
+  {
+    "item_code": "w_007706",
+    "content": "be most preferred",
+    "meaning_zh": "最受偏爱；最受青睐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  },
+  {
+    "item_code": "w_007707",
+    "content": "be motivated to do",
+    "meaning_zh": "有动力做；受到激励去做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_007708",
+    "content": "be moved by",
+    "meaning_zh": "被……感动；受……打动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_007709",
+    "content": "be much better off",
+    "meaning_zh": "境况好得多；富裕得多",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语"
+  },
+  {
+    "item_code": "w_007716",
+    "content": "be needed for sth.",
+    "meaning_zh": "为某事所需要",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通搭配"
+  },
+  {
+    "item_code": "w_007718",
+    "content": "be nervous about",
+    "meaning_zh": "对……感到紧张；为……担心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持"
+  },
+  {
+    "item_code": "w_007722",
+    "content": "be nostalgic for",
+    "meaning_zh": "怀念；对……念旧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_007723",
+    "content": "be nosy about",
+    "meaning_zh": "爱打听；对……多管闲事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见口语搭配"
+  },
+  {
+    "item_code": "w_007724",
+    "content": "be not easy to",
+    "meaning_zh": "不容易……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型"
+  },
+  {
+    "item_code": "w_007725",
+    "content": "be not yet clear",
+    "meaning_zh": "尚不清楚；还不明确",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见表达"
+  }
+]

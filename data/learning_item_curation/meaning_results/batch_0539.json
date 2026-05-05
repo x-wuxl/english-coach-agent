@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_052306",
+    "content": "order accountant",
+    "meaning_zh": "订单会计；订单核算员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作岗位搭配"
+  },
+  {
+    "item_code": "w_052308",
+    "content": "order food",
+    "meaning_zh": "点餐；订餐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_052309",
+    "content": "order in volumes",
+    "meaning_zh": "大量订购；批量订购",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "近似固定搭配"
+  },
+  {
+    "item_code": "w_052311",
+    "content": "order of operations",
+    "meaning_zh": "运算顺序",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "数学计算术语"
+  },
+  {
+    "item_code": "w_052314",
+    "content": "ordering principle",
+    "meaning_zh": "排序原则；组织原则",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "学术常见搭配"
+  },
+  {
+    "item_code": "w_052316",
+    "content": "orderly governance",
+    "meaning_zh": "有序治理",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治治理搭配"
+  },
+  {
+    "item_code": "w_052317",
+    "content": "orderly government",
+    "meaning_zh": "秩序井然的政府；有序政府",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解"
+  },
+  {
+    "item_code": "w_052323",
+    "content": "ordinary citizen",
+    "meaning_zh": "普通公民",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_052334",
+    "content": "Oregon jot",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声搭配"
+  },
+  {
+    "item_code": "w_052338",
+    "content": "organ gram",
+    "meaning_zh": "组织结构图",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "low",
+    "reason": "疑为organigram误写"
+  },
+  {
+    "item_code": "w_052341",
+    "content": "organ transportation",
+    "meaning_zh": "器官运输；器官转运",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学相关搭配"
+  },
+  {
+    "item_code": "w_052343",
+    "content": "organel",
+    "meaning_zh": "细胞器",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生物学术语"
+  },
+  {
+    "item_code": "w_052348",
+    "content": "organic being",
+    "meaning_zh": "有机体；生物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生物学表达"
+  },
+  {
+    "item_code": "w_052351",
+    "content": "organic compost",
+    "meaning_zh": "有机堆肥",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "农业环保搭配"
+  },
+  {
+    "item_code": "w_052353",
+    "content": "organic cultivation",
+    "meaning_zh": "有机栽培；有机种植",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "农业常见搭配"
+  },
+  {
+    "item_code": "w_052358",
+    "content": "organic guardian",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不明"
+  },
+  {
+    "item_code": "w_052363",
+    "content": "organic produce",
+    "meaning_zh": "有机农产品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "食品常见搭配"
+  },
+  {
+    "item_code": "w_052373",
+    "content": "organism material",
+    "meaning_zh": "生物材料",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为生物学搭配"
+  },
+  {
+    "item_code": "w_052382",
+    "content": "organized protest",
+    "meaning_zh": "有组织的抗议活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "社会事件搭配"
+  },
+  {
+    "item_code": "w_052392",
+    "content": "orient ... to",
+    "meaning_zh": "使适应；使面向；把……定位于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词句型"
+  }
+]

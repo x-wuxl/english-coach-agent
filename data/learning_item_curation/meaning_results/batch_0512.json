@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_049517",
+    "content": "neonate dolphin",
+    "meaning_zh": "新生海豚；幼年海豚",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动物学常见搭配"
+  },
+  {
+    "item_code": "w_049520",
+    "content": "neophyte vilify prescription despise",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个无关词拼接"
+  },
+  {
+    "item_code": "w_049524",
+    "content": "neoplastic conversation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_049562",
+    "content": "nerve humiliate sequel",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个无关词拼接"
+  },
+  {
+    "item_code": "w_049568",
+    "content": "nervous about",
+    "meaning_zh": "对……感到紧张；为……担心",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持该搭配"
+  },
+  {
+    "item_code": "w_049576",
+    "content": "ness",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "后缀残片价值低"
+  },
+  {
+    "item_code": "w_049580",
+    "content": "nested",
+    "meaning_zh": "嵌套的；套叠的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_049581",
+    "content": "nested conditional",
+    "meaning_zh": "嵌套条件语句",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程固定术语"
+  },
+  {
+    "item_code": "w_049582",
+    "content": "nested list",
+    "meaning_zh": "嵌套列表",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程固定术语"
+  },
+  {
+    "item_code": "w_049583",
+    "content": "nested scope",
+    "meaning_zh": "嵌套作用域",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程固定术语"
+  },
+  {
+    "item_code": "w_049587",
+    "content": "nesting sites",
+    "meaning_zh": "筑巢地点；繁殖地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生态学常见表达"
+  },
+  {
+    "item_code": "w_049594",
+    "content": "net bargainer",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配罕见含义不明"
+  },
+  {
+    "item_code": "w_049613",
+    "content": "network aim",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然含义不明"
+  },
+  {
+    "item_code": "w_049614",
+    "content": "network anti-corruption",
+    "meaning_zh": "网络反腐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "公共议题常见表达"
+  },
+  {
+    "item_code": "w_049615",
+    "content": "network installer",
+    "meaning_zh": "网络安装程序；网络安装人员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术语境可成立"
+  },
+  {
+    "item_code": "w_049616",
+    "content": "network of satellite communication",
+    "meaning_zh": "卫星通信网络",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解为通信术语"
+  },
+  {
+    "item_code": "w_049620",
+    "content": "networking skill",
+    "meaning_zh": "社交拓展能力；建立人脉的能力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "留学职场常用搭配"
+  },
+  {
+    "item_code": "w_049623",
+    "content": "neural mold deficit burge",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个无关词拼接"
+  },
+  {
+    "item_code": "w_049631",
+    "content": "neurinosarcoma",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误术语"
+  },
+  {
+    "item_code": "w_049680",
+    "content": "neuroticism or open-mindedness",
+    "meaning_zh": "神经质或开放性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "心理学人格特质表达"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_079155",
+    "content": "veterinarian proverb",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_079160",
+    "content": "vex patriots",
+    "meaning_zh": "激怒爱国者",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "生硬搭配"
+  },
+  {
+    "item_code": "w_079167",
+    "content": "vi",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "缩写残片"
+  },
+  {
+    "item_code": "w_079169",
+    "content": "via connection q",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含噪声字母"
+  },
+  {
+    "item_code": "w_079170",
+    "content": "via conveyance",
+    "meaning_zh": "通过运输工具",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "生硬搭配"
+  },
+  {
+    "item_code": "w_079174",
+    "content": "viable alternative",
+    "meaning_zh": "可行的替代方案",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_079175",
+    "content": "viable candidate",
+    "meaning_zh": "合适的候选人；可行的候选对象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_079176",
+    "content": "viable option",
+    "meaning_zh": "可行的选择",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见考试搭配"
+  },
+  {
+    "item_code": "w_079177",
+    "content": "viable subjective pilot",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_079194",
+    "content": "vibrational wave",
+    "meaning_zh": "振动波",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "物理术语"
+  },
+  {
+    "item_code": "w_079211",
+    "content": "vice subsidiary",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_079226",
+    "content": "vicious attack",
+    "meaning_zh": "恶毒的攻击；凶猛的袭击",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_079244",
+    "content": "victorious team",
+    "meaning_zh": "获胜的队伍",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_079248",
+    "content": "vide",
+    "meaning_zh": "参见",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "拉丁语书面用语"
+  },
+  {
+    "item_code": "w_079257",
+    "content": "Video Compact Disk",
+    "meaning_zh": "视频光盘；VCD",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见技术名词"
+  },
+  {
+    "item_code": "w_079262",
+    "content": "video games",
+    "meaning_zh": "电子游戏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  },
+  {
+    "item_code": "w_079268",
+    "content": "video spoof",
+    "meaning_zh": "恶搞视频",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见媒体表达"
+  },
+  {
+    "item_code": "w_079270",
+    "content": "video subtitles",
+    "meaning_zh": "视频字幕",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_079282",
+    "content": "videotape editor",
+    "meaning_zh": "录像带编辑器；录像剪辑师",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作工具或职业"
+  },
+  {
+    "item_code": "w_079292",
+    "content": "view hall",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  }
+]

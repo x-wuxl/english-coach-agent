@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_055537",
+    "content": "pickpocket fitness",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_055545",
+    "content": "pictorial guidebook",
+    "meaning_zh": "图文指南；图解手册",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_055556",
+    "content": "picturesque contagious",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声拼接"
+  },
+  {
+    "item_code": "w_055557",
+    "content": "picturesque views",
+    "meaning_zh": "如画的景色；优美风景",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容景色搭配"
+  },
+  {
+    "item_code": "w_055560",
+    "content": "piddling evanescent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声拼接"
+  },
+  {
+    "item_code": "w_055571",
+    "content": "pieces",
+    "meaning_zh": "块；片；碎片；部分",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配常见义"
+  },
+  {
+    "item_code": "w_055575",
+    "content": "pier mate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配"
+  },
+  {
+    "item_code": "w_055577",
+    "content": "pierce imprint",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声拼接"
+  },
+  {
+    "item_code": "w_055578",
+    "content": "pierce sb.'s heart",
+    "meaning_zh": "刺痛某人的心；深深打动某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达含义明确"
+  },
+  {
+    "item_code": "w_055580",
+    "content": "Pierre",
+    "meaning_zh": "皮埃尔；法国男性名",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句为人名"
+  },
+  {
+    "item_code": "w_055592",
+    "content": "pigment negation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非常见搭配"
+  },
+  {
+    "item_code": "w_055601",
+    "content": "pijorative",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_055603",
+    "content": "Pike Place Market",
+    "meaning_zh": "派克市场；西雅图著名市场",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有地名"
+  },
+  {
+    "item_code": "w_055617",
+    "content": "Pilgrimage to the West",
+    "meaning_zh": "《西游记》",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "作品名译法"
+  },
+  {
+    "item_code": "w_055625",
+    "content": "pillar versus",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声拼接"
+  },
+  {
+    "item_code": "w_055633",
+    "content": "pilot crew",
+    "meaning_zh": "飞行员机组；飞行人员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "航空相关短语"
+  },
+  {
+    "item_code": "w_055634",
+    "content": "pilot delicate request",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声拼接"
+  },
+  {
+    "item_code": "w_055635",
+    "content": "Pilot Free Trade Zones",
+    "meaning_zh": "自由贸易试验区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策术语"
+  },
+  {
+    "item_code": "w_055636",
+    "content": "pilot free-trade zone",
+    "meaning_zh": "自由贸易试验区",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策术语"
+  },
+  {
+    "item_code": "w_055662",
+    "content": "pine core",
+    "meaning_zh": "松木芯；松木核心层",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "木材相关短语"
+  }
+]

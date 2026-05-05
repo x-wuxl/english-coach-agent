@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_058682",
+    "content": "pseudomosaicism",
+    "meaning_zh": "假性嵌合现象",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "遗传学专业术语"
+  },
+  {
+    "item_code": "w_058690",
+    "content": "pseudorandom",
+    "meaning_zh": "伪随机的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用术语"
+  },
+  {
+    "item_code": "w_058696",
+    "content": "PST",
+    "meaning_zh": "太平洋标准时间",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见缩写但可多义"
+  },
+  {
+    "item_code": "w_058706",
+    "content": "psychic hemisphere precious lavish",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词堆叠疑似噪声"
+  },
+  {
+    "item_code": "w_058716",
+    "content": "psychogenic illness",
+    "meaning_zh": "心因性疾病",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学心理学固定表达"
+  },
+  {
+    "item_code": "w_058718",
+    "content": "psychography",
+    "meaning_zh": "心理描写；心理记录法",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专业词且义项较少见"
+  },
+  {
+    "item_code": "w_058722",
+    "content": "psychological anthropologist",
+    "meaning_zh": "心理人类学家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学科职业名词短语"
+  },
+  {
+    "item_code": "w_058723",
+    "content": "psychological conditions",
+    "meaning_zh": "心理状况",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_058727",
+    "content": "psychological guidance",
+    "meaning_zh": "心理辅导",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见教育心理搭配"
+  },
+  {
+    "item_code": "w_058733",
+    "content": "psychologist psychology",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "两个词并列非词条"
+  },
+  {
+    "item_code": "w_058735",
+    "content": "psychology assert suicide promote",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词堆叠疑似噪声"
+  },
+  {
+    "item_code": "w_058736",
+    "content": "psychology obedient",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语组合无明确含义"
+  },
+  {
+    "item_code": "w_058745",
+    "content": "psychosis petrol hint",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词堆叠疑似噪声"
+  },
+  {
+    "item_code": "w_058753",
+    "content": "psyroid",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无法可靠判断词义"
+  },
+  {
+    "item_code": "w_058764",
+    "content": "puberty decent shipwreck sigh",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多词堆叠疑似噪声"
+  },
+  {
+    "item_code": "w_058766",
+    "content": "puberty stage",
+    "meaning_zh": "青春期阶段",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生理发展常见搭配"
+  },
+  {
+    "item_code": "w_058771",
+    "content": "public amenities",
+    "meaning_zh": "公共设施",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "城市生活常见搭配"
+  },
+  {
+    "item_code": "w_058772",
+    "content": "public architecture",
+    "meaning_zh": "公共建筑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "建筑类常见搭配"
+  },
+  {
+    "item_code": "w_058776",
+    "content": "public beach",
+    "meaning_zh": "公共海滩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅游场景常见搭配"
+  },
+  {
+    "item_code": "w_058779",
+    "content": "public culture",
+    "meaning_zh": "公共文化",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "社会文化常见搭配"
+  }
+]

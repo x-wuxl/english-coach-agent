@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_014185",
+    "content": "civil society organization",
+    "meaning_zh": "民间社会组织",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会组织术语"
+  },
+  {
+    "item_code": "w_014194",
+    "content": "civility and harmony",
+    "meaning_zh": "文明与和谐",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作固定并列表达"
+  },
+  {
+    "item_code": "w_014195",
+    "content": "civility and virtuosity",
+    "meaning_zh": "礼貌与精湛技艺",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "并列短语含义可判"
+  },
+  {
+    "item_code": "w_014196",
+    "content": "civility rapport",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常难判断"
+  },
+  {
+    "item_code": "w_014198",
+    "content": "civilization bumble caucus vinegar",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串噪声"
+  },
+  {
+    "item_code": "w_014200",
+    "content": "civilize solidify",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然搭配"
+  },
+  {
+    "item_code": "w_014213",
+    "content": "claim to do sth.",
+    "meaning_zh": "声称做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_014216",
+    "content": "claims to the contrary",
+    "meaning_zh": "相反的说法；相反的主张",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见论述表达"
+  },
+  {
+    "item_code": "w_014224",
+    "content": "clamor eskimia",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_014231",
+    "content": "clamp stitch disrupt",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串噪声"
+  },
+  {
+    "item_code": "w_014234",
+    "content": "clan mother",
+    "meaning_zh": "氏族女族长；氏族母亲",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人类学常见术语"
+  },
+  {
+    "item_code": "w_014235",
+    "content": "clan warfare",
+    "meaning_zh": "氏族战争；部族冲突",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "历史社会类搭配"
+  },
+  {
+    "item_code": "w_014245",
+    "content": "clap bump",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不明"
+  },
+  {
+    "item_code": "w_014252",
+    "content": "clarify dumping",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然搭配"
+  },
+  {
+    "item_code": "w_014253",
+    "content": "clarify microbe",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然搭配"
+  },
+  {
+    "item_code": "w_014259",
+    "content": "clarity exalt tyro inundate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串噪声"
+  },
+  {
+    "item_code": "w_014266",
+    "content": "class attribute",
+    "meaning_zh": "类属性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_014268",
+    "content": "class diagram",
+    "meaning_zh": "类图",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "软件建模术语"
+  },
+  {
+    "item_code": "w_014270",
+    "content": "class gap",
+    "meaning_zh": "阶级差距；班级差距",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "常见搭配需语境"
+  },
+  {
+    "item_code": "w_014272",
+    "content": "class note",
+    "meaning_zh": "课堂笔记",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学习场景常见表达"
+  }
+]

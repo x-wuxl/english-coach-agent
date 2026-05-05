@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_000465",
+    "content": "a plausible sounding",
+    "meaning_zh": "听起来合理的；貌似可信的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "形容词短语不完整"
+  },
+  {
+    "item_code": "w_000466",
+    "content": "a point",
+    "meaning_zh": "一个观点；一点；分数点",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句体现常见义"
+  },
+  {
+    "item_code": "w_000468",
+    "content": "a poor",
+    "meaning_zh": "贫穷的；差的；可怜的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "应为poor本词"
+  },
+  {
+    "item_code": "w_000470",
+    "content": "a post office",
+    "meaning_zh": "邮局",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定名词短语"
+  },
+  {
+    "item_code": "w_000471",
+    "content": "a postal clerk",
+    "meaning_zh": "邮局职员",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职业名词"
+  },
+  {
+    "item_code": "w_000472",
+    "content": "a potato",
+    "meaning_zh": "土豆；马铃薯",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "基础名词"
+  },
+  {
+    "item_code": "w_000473",
+    "content": "a pound of meat",
+    "meaning_zh": "一磅肉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "数量表达"
+  },
+  {
+    "item_code": "w_000474",
+    "content": "a power plant",
+    "meaning_zh": "发电厂；发电站",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见设施名词"
+  },
+  {
+    "item_code": "w_000475",
+    "content": "a power station",
+    "meaning_zh": "发电站；发电厂",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句明确"
+  },
+  {
+    "item_code": "w_000476",
+    "content": "a praise",
+    "meaning_zh": "表扬；赞扬",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "冠词搭配不自然"
+  },
+  {
+    "item_code": "w_000477",
+    "content": "a precedent-setting test",
+    "meaning_zh": "开创先例的测试",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词短语"
+  },
+  {
+    "item_code": "w_000478",
+    "content": "a precondition for",
+    "meaning_zh": "……的先决条件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_000479",
+    "content": "a precondition of",
+    "meaning_zh": "……的先决条件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_000480",
+    "content": "a prevailing practice",
+    "meaning_zh": "普遍做法；盛行惯例",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_000481",
+    "content": "a primal calling",
+    "meaning_zh": "原始的召唤；本能的使命感",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "依语境略有变化"
+  },
+  {
+    "item_code": "w_000483",
+    "content": "a private coffer",
+    "meaning_zh": "私人金库；私人资金",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "较少见搭配"
+  },
+  {
+    "item_code": "w_000484",
+    "content": "a private school",
+    "meaning_zh": "私立学校",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句明确"
+  },
+  {
+    "item_code": "w_000485",
+    "content": "a prize satiate gauge",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声短语"
+  },
+  {
+    "item_code": "w_000486",
+    "content": "a process of ...",
+    "meaning_zh": "……的过程",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型搭配"
+  },
+  {
+    "item_code": "w_000487",
+    "content": "a prominent spot",
+    "meaning_zh": "显眼的位置；重要地点",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  }
+]

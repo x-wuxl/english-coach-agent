@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_061866",
+    "content": "resect and ow recreation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似乱码噪声"
+  },
+  {
+    "item_code": "w_061873",
+    "content": "resemble attach",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无明确含义"
+  },
+  {
+    "item_code": "w_061874",
+    "content": "resemble telomeres",
+    "meaning_zh": "类似端粒",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "生物语境可判断"
+  },
+  {
+    "item_code": "w_061876",
+    "content": "resent irreducible",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无明确含义"
+  },
+  {
+    "item_code": "w_061877",
+    "content": "resent link",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_061883",
+    "content": "reservation ticket",
+    "meaning_zh": "预订票；预约票",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见购票表达"
+  },
+  {
+    "item_code": "w_061886",
+    "content": "reserve one's right to",
+    "meaning_zh": "保留做某事的权利",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定法律表达"
+  },
+  {
+    "item_code": "w_061892",
+    "content": "reserved delusion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_061894",
+    "content": "reserved seats",
+    "meaning_zh": "预订座位；保留座位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句吻合"
+  },
+  {
+    "item_code": "w_061897",
+    "content": "reservoir for virus",
+    "meaning_zh": "病毒宿主；病毒贮存库",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医学术语常见"
+  },
+  {
+    "item_code": "w_061902",
+    "content": "resettlement package",
+    "meaning_zh": "安置补偿方案；搬迁安置包",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务安置语境"
+  },
+  {
+    "item_code": "w_061909",
+    "content": "reside dependent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "语法不通"
+  },
+  {
+    "item_code": "w_061920",
+    "content": "resident identification card",
+    "meaning_zh": "居民身份证",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "证件固定名称"
+  },
+  {
+    "item_code": "w_061921",
+    "content": "resident originate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无明确含义"
+  },
+  {
+    "item_code": "w_061930",
+    "content": "residents emphasize",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_061931",
+    "content": "residents of Chaoyang District",
+    "meaning_zh": "朝阳区居民",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "地名短语明确"
+  },
+  {
+    "item_code": "w_061937",
+    "content": "resign one's position",
+    "meaning_zh": "辞去职位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_061939",
+    "content": "resign one's seat",
+    "meaning_zh": "辞去席位；让出座位",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义依语境变化"
+  },
+  {
+    "item_code": "w_061941",
+    "content": "resign oneself to doing",
+    "meaning_zh": "听任自己做某事；勉强接受做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_061943",
+    "content": "resign to something",
+    "meaning_zh": "顺从某事；听任某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配不如反身常见"
+  }
+]

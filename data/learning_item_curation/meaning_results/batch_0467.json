@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_044890",
+    "content": "majority garlic",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_044895",
+    "content": "make ... come true",
+    "meaning_zh": "使……成真；实现……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_044896",
+    "content": "make ... distinct from",
+    "meaning_zh": "使……区别于……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_044902",
+    "content": "make ... tick",
+    "meaning_zh": "了解……的动机；使……运转",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见习语表达"
+  },
+  {
+    "item_code": "w_044910",
+    "content": "make a birthday card",
+    "meaning_zh": "制作生日贺卡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "小学常用短语"
+  },
+  {
+    "item_code": "w_044911",
+    "content": "make a boast of",
+    "meaning_zh": "夸耀；自夸",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_044915",
+    "content": "make a cake",
+    "meaning_zh": "做蛋糕",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持释义"
+  },
+  {
+    "item_code": "w_044917",
+    "content": "make a call to",
+    "meaning_zh": "给……打电话",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持释义"
+  },
+  {
+    "item_code": "w_044920",
+    "content": "make a chart",
+    "meaning_zh": "制作图表",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习搭配"
+  },
+  {
+    "item_code": "w_044921",
+    "content": "make a check out",
+    "meaning_zh": "开支票；把支票开给",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为支票搭配"
+  },
+  {
+    "item_code": "w_044925",
+    "content": "make a commitment to",
+    "meaning_zh": "承诺……；致力于……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_044927",
+    "content": "make a compromise",
+    "meaning_zh": "作出妥协；达成折中",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_044929",
+    "content": "make a conclusion",
+    "meaning_zh": "得出结论；作出结论",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解但不如draw常见"
+  },
+  {
+    "item_code": "w_044933",
+    "content": "make a dash for",
+    "meaning_zh": "冲向；奔向",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_044936",
+    "content": "make a deep impression",
+    "meaning_zh": "留下深刻印象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见写作搭配"
+  },
+  {
+    "item_code": "w_044944",
+    "content": "make a feint",
+    "meaning_zh": "佯攻；虚晃一招",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动作搭配"
+  },
+  {
+    "item_code": "w_044947",
+    "content": "make a full recovery",
+    "meaning_zh": "完全康复",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见健康表达"
+  },
+  {
+    "item_code": "w_044950",
+    "content": "make a good effort",
+    "meaning_zh": "作出很大努力；努力尝试",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见评价表达"
+  },
+  {
+    "item_code": "w_044951",
+    "content": "make a good loss",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似错误搭配"
+  },
+  {
+    "item_code": "w_044952",
+    "content": "make a good recovery",
+    "meaning_zh": "恢复良好；康复得好",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见健康表达"
+  }
+]

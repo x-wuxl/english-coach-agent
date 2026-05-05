@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_008130",
+    "content": "be terrified at",
+    "meaning_zh": "对……感到恐惧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配表恐惧"
+  },
+  {
+    "item_code": "w_008132",
+    "content": "be terrified with",
+    "meaning_zh": "因……感到恐惧",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配较少见但可理解"
+  },
+  {
+    "item_code": "w_008138",
+    "content": "be the scapegoat",
+    "meaning_zh": "成为替罪羊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_008139",
+    "content": "be the talk of",
+    "meaning_zh": "成为……谈论的话题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_008142",
+    "content": "be thought as",
+    "meaning_zh": "被认为是",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "非标准搭配"
+  },
+  {
+    "item_code": "w_008143",
+    "content": "be thought of",
+    "meaning_zh": "被认为；被想起",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语"
+  },
+  {
+    "item_code": "w_008145",
+    "content": "be thought to be",
+    "meaning_zh": "被认为是",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动结构"
+  },
+  {
+    "item_code": "w_008146",
+    "content": "be threatened with extinction",
+    "meaning_zh": "面临灭绝威胁",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环保常见表达"
+  },
+  {
+    "item_code": "w_008147",
+    "content": "be thrilled to",
+    "meaning_zh": "很高兴做；非常乐意做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持"
+  },
+  {
+    "item_code": "w_008153",
+    "content": "be tired from doing",
+    "meaning_zh": "因做某事而疲惫",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见原因表达"
+  },
+  {
+    "item_code": "w_008160",
+    "content": "be to pieces",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "表达残缺难判断"
+  },
+  {
+    "item_code": "w_008161",
+    "content": "be to the taste",
+    "meaning_zh": "合……的口味；合……的喜好",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "省略宾语搭配"
+  },
+  {
+    "item_code": "w_008162",
+    "content": "be told to do",
+    "meaning_zh": "被告知去做；被要求做",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动结构"
+  },
+  {
+    "item_code": "w_008164",
+    "content": "be tortured into confessing",
+    "meaning_zh": "被拷打逼供",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "整体含义明确"
+  },
+  {
+    "item_code": "w_008165",
+    "content": "be towed away",
+    "meaning_zh": "被拖走",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "车辆拖离常用"
+  },
+  {
+    "item_code": "w_008166",
+    "content": "be traced back to",
+    "meaning_zh": "追溯到；起源于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_008168",
+    "content": "be traitor",
+    "meaning_zh": "当叛徒",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "low",
+    "reason": "表达不完整"
+  },
+  {
+    "item_code": "w_008170",
+    "content": "be trapped by",
+    "meaning_zh": "被……困住；受……束缚",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动搭配"
+  },
+  {
+    "item_code": "w_008172",
+    "content": "be trendy",
+    "meaning_zh": "时髦；流行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容状态"
+  },
+  {
+    "item_code": "w_008173",
+    "content": "be tricked into believing",
+    "meaning_zh": "被骗而相信",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定结构"
+  }
+]

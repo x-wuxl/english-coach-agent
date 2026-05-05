@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_009758",
+    "content": "blurt embroider",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配"
+  },
+  {
+    "item_code": "w_009761",
+    "content": "blush permanence",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配"
+  },
+  {
+    "item_code": "w_009766",
+    "content": "blythe",
+    "meaning_zh": "快乐的；无忧无虑的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "blithe变体"
+  },
+  {
+    "item_code": "w_009770",
+    "content": "Bo'ao Forum for Asia",
+    "meaning_zh": "博鳌亚洲论坛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "专有名词"
+  },
+  {
+    "item_code": "w_009807",
+    "content": "bobble",
+    "meaning_zh": "摇晃；小绒球；失误漏接",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见词义"
+  },
+  {
+    "item_code": "w_009810",
+    "content": "bobsley",
+    "meaning_zh": "大雪橇运动",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "bobsleigh变体"
+  },
+  {
+    "item_code": "w_009811",
+    "content": "bocia",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_009812",
+    "content": "bocier",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_009826",
+    "content": "body image-related pressure",
+    "meaning_zh": "与身体形象有关的压力",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见心理话题表达"
+  },
+  {
+    "item_code": "w_009828",
+    "content": "body locution",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无常见固定含义"
+  },
+  {
+    "item_code": "w_009846",
+    "content": "boge",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_009850",
+    "content": "boggy",
+    "meaning_zh": "沼泽般泥泞的；湿软的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词"
+  },
+  {
+    "item_code": "w_009852",
+    "content": "bogus goods",
+    "meaning_zh": "假冒商品；伪劣商品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务常见搭配"
+  },
+  {
+    "item_code": "w_009863",
+    "content": "boiled water",
+    "meaning_zh": "开水；白开水",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句匹配"
+  },
+  {
+    "item_code": "w_009865",
+    "content": "boilerplate",
+    "meaning_zh": "样板文本；模板代码；陈词滥调",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "技术场景常用"
+  },
+  {
+    "item_code": "w_009879",
+    "content": "bolometric imaging technology",
+    "meaning_zh": "辐射热成像技术",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专业技术术语"
+  },
+  {
+    "item_code": "w_009882",
+    "content": "bolt disdain",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配"
+  },
+  {
+    "item_code": "w_009883",
+    "content": "bolt psychology",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无常见固定含义"
+  },
+  {
+    "item_code": "w_009885",
+    "content": "boly",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写噪声"
+  },
+  {
+    "item_code": "w_009886",
+    "content": "BOM",
+    "meaning_zh": "字节顺序标记；浏览器对象模型；物料清单",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见技术缩写"
+  }
+]

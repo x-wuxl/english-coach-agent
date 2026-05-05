@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_034629",
+    "content": "Henry Adams",
+    "meaning_zh": "亨利·亚当斯",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人名专有名词"
+  },
+  {
+    "item_code": "w_034630",
+    "content": "Henry Norman Bethune",
+    "meaning_zh": "亨利·诺曼·白求恩",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人名专有名词"
+  },
+  {
+    "item_code": "w_034653",
+    "content": "herb tormana",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词组"
+  },
+  {
+    "item_code": "w_034656",
+    "content": "herbal cuisine",
+    "meaning_zh": "药膳；草本料理",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_034657",
+    "content": "herbal inject lotion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_034659",
+    "content": "herbal practitioner",
+    "meaning_zh": "草药医生；草药疗法从业者",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职业称谓"
+  },
+  {
+    "item_code": "w_034664",
+    "content": "herbicide ivy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似错误搭配"
+  },
+  {
+    "item_code": "w_034665",
+    "content": "herbicide-tolerant crops",
+    "meaning_zh": "耐除草剂作物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "农业术语"
+  },
+  {
+    "item_code": "w_034671",
+    "content": "hercules",
+    "meaning_zh": "赫拉克勒斯；大力神",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指神话人物"
+  },
+  {
+    "item_code": "w_034673",
+    "content": "herd behavior",
+    "meaning_zh": "从众行为；群体行为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_034674",
+    "content": "herd of cattle",
+    "meaning_zh": "一群牛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见数量搭配"
+  },
+  {
+    "item_code": "w_034701",
+    "content": "hereditary heredity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "近义词堆叠噪声"
+  },
+  {
+    "item_code": "w_034703",
+    "content": "heredity aspire",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无合理搭配"
+  },
+  {
+    "item_code": "w_034709",
+    "content": "heresy invective lassitude",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠噪声"
+  },
+  {
+    "item_code": "w_034711",
+    "content": "heretic sect",
+    "meaning_zh": "异端教派",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "宗教相关搭配"
+  },
+  {
+    "item_code": "w_034713",
+    "content": "heretical thad",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词组"
+  },
+  {
+    "item_code": "w_034753",
+    "content": "hesitate over",
+    "meaning_zh": "对……犹豫不决",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词短语"
+  },
+  {
+    "item_code": "w_034754",
+    "content": "hesitate to do sth.",
+    "meaning_zh": "迟疑做某事；不愿做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型"
+  },
+  {
+    "item_code": "w_034774",
+    "content": "heterosexual homosexual",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "反义词堆叠噪声"
+  },
+  {
+    "item_code": "w_034785",
+    "content": "hex",
+    "meaning_zh": "十六进制；施魔法",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用义"
+  }
+]

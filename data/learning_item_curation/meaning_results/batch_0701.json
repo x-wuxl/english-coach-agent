@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_069015",
+    "content": "spur minimize vulnerable",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "随机词串，低价值"
+  },
+  {
+    "item_code": "w_069018",
+    "content": "spurious coupe",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "搭配不自然，疑似噪声"
+  },
+  {
+    "item_code": "w_069033",
+    "content": "sql",
+    "meaning_zh": "结构化查询语言",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用缩写"
+  },
+  {
+    "item_code": "w_069035",
+    "content": "squabble temporal rose blunder",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "随机词串，低价值"
+  },
+  {
+    "item_code": "w_069037",
+    "content": "squad neonate devour",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "随机词串，低价值"
+  },
+  {
+    "item_code": "w_069042",
+    "content": "squall incinerate pastiche",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "随机词串，低价值"
+  },
+  {
+    "item_code": "w_069059",
+    "content": "square vignette",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "非常见搭配，含义不稳"
+  },
+  {
+    "item_code": "w_069065",
+    "content": "squat antagonize",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "搭配不自然，疑似噪声"
+  },
+  {
+    "item_code": "w_069071",
+    "content": "squeal on someone",
+    "meaning_zh": "告发某人；打小报告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语"
+  },
+  {
+    "item_code": "w_069074",
+    "content": "squeeze furnace",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "搭配不自然，疑似噪声"
+  },
+  {
+    "item_code": "w_069079",
+    "content": "squelch lethal",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "搭配不自然，疑似噪声"
+  },
+  {
+    "item_code": "w_069083",
+    "content": "squint nostalgia",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "搭配不自然，疑似噪声"
+  },
+  {
+    "item_code": "w_069086",
+    "content": "squirosis circus",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "含疑似拼写错误"
+  },
+  {
+    "item_code": "w_069089",
+    "content": "squirrel dextral thirsty centigrade",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "随机词串，低价值"
+  },
+  {
+    "item_code": "w_069090",
+    "content": "squirrel-proof",
+    "meaning_zh": "防松鼠的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合形容词"
+  },
+  {
+    "item_code": "w_069096",
+    "content": "src",
+    "meaning_zh": "源文件；源目录",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "编程常见缩写"
+  },
+  {
+    "item_code": "w_069097",
+    "content": "Sri Chinmoy",
+    "meaning_zh": "斯里·钦莫伊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人名专有名词"
+  },
+  {
+    "item_code": "w_069101",
+    "content": "st",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "序数词后缀，低价值"
+  },
+  {
+    "item_code": "w_069105",
+    "content": "St. Bernard",
+    "meaning_zh": "圣伯纳犬",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "犬种专有名词"
+  },
+  {
+    "item_code": "w_069121",
+    "content": "stable income",
+    "meaning_zh": "稳定收入",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  }
+]

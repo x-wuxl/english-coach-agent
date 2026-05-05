@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_009318",
+    "content": "birth permission certificate",
+    "meaning_zh": "准生证；生育许可证明",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定政务表达"
+  },
+  {
+    "item_code": "w_009319",
+    "content": "birth permit",
+    "meaning_zh": "准生证；生育许可证",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见证件表达"
+  },
+  {
+    "item_code": "w_009321",
+    "content": "birth registration service system",
+    "meaning_zh": "生育登记服务系统",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政务系统名称"
+  },
+  {
+    "item_code": "w_009323",
+    "content": "birthdate",
+    "meaning_zh": "出生日期",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见个人信息词"
+  },
+  {
+    "item_code": "w_009327",
+    "content": "birthday celebration",
+    "meaning_zh": "生日庆祝活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持生日语境"
+  },
+  {
+    "item_code": "w_009328",
+    "content": "birthday greeting",
+    "meaning_zh": "生日祝福；生日贺词",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见祝福表达"
+  },
+  {
+    "item_code": "w_009329",
+    "content": "birthday party shows",
+    "meaning_zh": "生日派对表演；生日派对节目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解但少见"
+  },
+  {
+    "item_code": "w_009337",
+    "content": "biscuit cookie preserve",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌噪声"
+  },
+  {
+    "item_code": "w_009338",
+    "content": "biscuit heartburn",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_009341",
+    "content": "bisentious",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_009355",
+    "content": "bite squeeze tear",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌噪声"
+  },
+  {
+    "item_code": "w_009358",
+    "content": "bite-sized chunks",
+    "meaning_zh": "一口大小的小块；易消化的小部分",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配及引申义"
+  },
+  {
+    "item_code": "w_009363",
+    "content": "bitter flavor",
+    "meaning_zh": "苦味",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见味觉搭配"
+  },
+  {
+    "item_code": "w_009364",
+    "content": "bitter modulate plot",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆砌噪声"
+  },
+  {
+    "item_code": "w_009365",
+    "content": "bitter pint barrel",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成表达"
+  },
+  {
+    "item_code": "w_009377",
+    "content": "biweekly magazine",
+    "meaning_zh": "双周刊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "期刊频率表达"
+  },
+  {
+    "item_code": "w_009380",
+    "content": "bizarre clothing",
+    "meaning_zh": "奇装异服；怪异服装",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见描述搭配"
+  },
+  {
+    "item_code": "w_009388",
+    "content": "black car",
+    "meaning_zh": "黑色汽车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通名词短语"
+  },
+  {
+    "item_code": "w_009389",
+    "content": "black clinic",
+    "meaning_zh": "黑诊所；非法诊所",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会表达"
+  },
+  {
+    "item_code": "w_009394",
+    "content": "black gunpowder",
+    "meaning_zh": "黑火药",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定技术术语"
+  }
+]

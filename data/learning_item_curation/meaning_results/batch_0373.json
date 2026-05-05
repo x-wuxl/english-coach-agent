@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_035224",
+    "content": "hobble daunt",
+    "meaning_zh": "阻碍；使畏缩",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配"
+  },
+  {
+    "item_code": "w_035226",
+    "content": "hobby album photograph",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠噪声"
+  },
+  {
+    "item_code": "w_035233",
+    "content": "hobo",
+    "meaning_zh": "流浪汉；无业游民",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词"
+  },
+  {
+    "item_code": "w_035240",
+    "content": "hodwink",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_035244",
+    "content": "hog cycle",
+    "meaning_zh": "猪周期；生猪价格周期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济术语"
+  },
+  {
+    "item_code": "w_035251",
+    "content": "holarize",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_035253",
+    "content": "hold ... accountable",
+    "meaning_zh": "追究……的责任",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_035261",
+    "content": "hold a congress",
+    "meaning_zh": "召开大会；举行代表大会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_035263",
+    "content": "hold a party",
+    "meaning_zh": "举办聚会；举行派对",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_035281",
+    "content": "hold its nose at",
+    "meaning_zh": "对……表示厌恶；嫌弃……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "表达略不规范"
+  },
+  {
+    "item_code": "w_035282",
+    "content": "hold more activities",
+    "meaning_zh": "举办更多活动",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见写作搭配"
+  },
+  {
+    "item_code": "w_035284",
+    "content": "hold off doing sth.",
+    "meaning_zh": "推迟做某事；暂缓做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词"
+  },
+  {
+    "item_code": "w_035303",
+    "content": "hold sb. accountable",
+    "meaning_zh": "追究某人的责任",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_035309",
+    "content": "hold sb. prisoner",
+    "meaning_zh": "囚禁某人；把某人关押起来",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_035310",
+    "content": "hold sb. to ransom",
+    "meaning_zh": "绑架某人勒索赎金；要挟某人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定习语"
+  },
+  {
+    "item_code": "w_035312",
+    "content": "hold some competitions",
+    "meaning_zh": "举办一些比赛",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见写作搭配"
+  },
+  {
+    "item_code": "w_035313",
+    "content": "hold someone back",
+    "meaning_zh": "阻碍某人；抑制某人；使某人留级",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词"
+  },
+  {
+    "item_code": "w_035321",
+    "content": "hold the grudge",
+    "meaning_zh": "怀恨在心；记仇",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "应为hold a grudge"
+  },
+  {
+    "item_code": "w_035345",
+    "content": "holdoll",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声词"
+  },
+  {
+    "item_code": "w_035353",
+    "content": "holiday attire",
+    "meaning_zh": "节日服装；假日着装",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  }
+]

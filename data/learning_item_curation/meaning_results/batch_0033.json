@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_001863",
+    "content": "advancing age",
+    "meaning_zh": "年事渐高；年龄增长",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定表达"
+  },
+  {
+    "item_code": "w_001865",
+    "content": "advantage campaign",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不常见"
+  },
+  {
+    "item_code": "w_001874",
+    "content": "adventurers",
+    "meaning_zh": "冒险者；探险家",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复数名词常见义"
+  },
+  {
+    "item_code": "w_001880",
+    "content": "adventurous person",
+    "meaning_zh": "有冒险精神的人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语整体含义明确"
+  },
+  {
+    "item_code": "w_001886",
+    "content": "adverse aspect",
+    "meaning_zh": "不利方面；负面因素",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "搭配含义明确"
+  },
+  {
+    "item_code": "w_001892",
+    "content": "Adversity Quotient",
+    "meaning_zh": "逆商；挫折商",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "心理学术语"
+  },
+  {
+    "item_code": "w_001894",
+    "content": "advert doubt",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_001898",
+    "content": "advertise on TV",
+    "meaning_zh": "在电视上做广告",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词短语常见"
+  },
+  {
+    "item_code": "w_001901",
+    "content": "advertisement division",
+    "meaning_zh": "广告部门",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解业务搭配"
+  },
+  {
+    "item_code": "w_001902",
+    "content": "advertisement media",
+    "meaning_zh": "广告媒体；广告媒介",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "含义明确但搭配偏生硬"
+  },
+  {
+    "item_code": "w_001903",
+    "content": "advertisement page",
+    "meaning_zh": "广告页；广告版面",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "搭配含义明确"
+  },
+  {
+    "item_code": "w_001912",
+    "content": "advertising endorser",
+    "meaning_zh": "广告代言人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "广告领域常见表达"
+  },
+  {
+    "item_code": "w_001913",
+    "content": "advertising exposure",
+    "meaning_zh": "广告曝光；广告曝光量",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "营销术语常见"
+  },
+  {
+    "item_code": "w_001915",
+    "content": "Advertising Topic",
+    "meaning_zh": "广告话题；广告主题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义可判断"
+  },
+  {
+    "item_code": "w_001917",
+    "content": "advertizement",
+    "meaning_zh": "广告",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "疑为advertisement误拼"
+  },
+  {
+    "item_code": "w_001922",
+    "content": "advice diamond",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_001925",
+    "content": "advice on",
+    "meaning_zh": "关于……的建议；就……提供意见",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持该用法"
+  },
+  {
+    "item_code": "w_001926",
+    "content": "advice service",
+    "meaning_zh": "咨询服务；建议服务",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "服务类搭配常见"
+  },
+  {
+    "item_code": "w_001930",
+    "content": "advise sb. not to",
+    "meaning_zh": "建议某人不要做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见句型"
+  },
+  {
+    "item_code": "w_001943",
+    "content": "advocate a new lifestyle",
+    "meaning_zh": "倡导一种新的生活方式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动宾搭配明确"
+  }
+]

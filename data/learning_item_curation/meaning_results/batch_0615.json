@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_060409",
+    "content": "realistic psychology",
+    "meaning_zh": "现实主义心理学",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语搭配含义可判断"
+  },
+  {
+    "item_code": "w_060410",
+    "content": "realistic style",
+    "meaning_zh": "写实风格；现实主义风格",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见艺术风格搭配"
+  },
+  {
+    "item_code": "w_060414",
+    "content": "reality game",
+    "meaning_zh": "真人秀游戏；现实类游戏",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义较明确"
+  },
+  {
+    "item_code": "w_060418",
+    "content": "realize nonsense",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_060419",
+    "content": "realize one's dream",
+    "meaning_zh": "实现某人的梦想",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定常用搭配"
+  },
+  {
+    "item_code": "w_060422",
+    "content": "really well",
+    "meaning_zh": "非常好；很顺利",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持该含义"
+  },
+  {
+    "item_code": "w_060426",
+    "content": "realtur",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_060432",
+    "content": "reap harvest",
+    "meaning_zh": "收获庄稼；获得成果",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "动宾搭配可理解"
+  },
+  {
+    "item_code": "w_060433",
+    "content": "reap immediate profits",
+    "meaning_zh": "立即获利；迅速获得利润",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商业表达"
+  },
+  {
+    "item_code": "w_060434",
+    "content": "reap incorrupt",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不成立"
+  },
+  {
+    "item_code": "w_060436",
+    "content": "reap without sowing",
+    "meaning_zh": "不劳而获",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "谚语式固定表达"
+  },
+  {
+    "item_code": "w_060441",
+    "content": "reapply for",
+    "meaning_zh": "重新申请",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_060445",
+    "content": "rear sheep and poultry",
+    "meaning_zh": "饲养羊和家禽",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "农业饲养搭配"
+  },
+  {
+    "item_code": "w_060455",
+    "content": "rearrange furniture",
+    "meaning_zh": "重新摆放家具",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生活搭配"
+  },
+  {
+    "item_code": "w_060465",
+    "content": "reasonable conform",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_060467",
+    "content": "reasonable motive",
+    "meaning_zh": "合理动机；正当理由",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词搭配"
+  },
+  {
+    "item_code": "w_060478",
+    "content": "reassignment",
+    "meaning_zh": "重新赋值；重新分配；调任",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机主题含重新赋值"
+  },
+  {
+    "item_code": "w_060482",
+    "content": "reassure opium messiasis",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串混乱疑似噪声"
+  },
+  {
+    "item_code": "w_060490",
+    "content": "rebate supplier pastime",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无明确整体含义"
+  },
+  {
+    "item_code": "w_060493",
+    "content": "rebella envelop",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写和搭配错误"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_076067",
+    "content": "transportation card",
+    "meaning_zh": "交通卡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见交通用语"
+  },
+  {
+    "item_code": "w_076072",
+    "content": "transsect gigantism",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_076086",
+    "content": "trap fanatic assassinate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无可靠含义"
+  },
+  {
+    "item_code": "w_076095",
+    "content": "traps",
+    "meaning_zh": "陷阱；异常中断",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机主题常见义"
+  },
+  {
+    "item_code": "w_076098",
+    "content": "trash not donkey psychiatry",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声内容"
+  },
+  {
+    "item_code": "w_076102",
+    "content": "trauma clinic",
+    "meaning_zh": "创伤门诊；创伤诊所",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医疗场景短语"
+  },
+  {
+    "item_code": "w_076108",
+    "content": "travail excrete",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无自然搭配含义"
+  },
+  {
+    "item_code": "w_076112",
+    "content": "travel agent's",
+    "meaning_zh": "旅行社；旅行代理处",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "所有格省略表达"
+  },
+  {
+    "item_code": "w_076116",
+    "content": "travel by car",
+    "meaning_zh": "开车旅行；驾车出行",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持含义"
+  },
+  {
+    "item_code": "w_076117",
+    "content": "travel companion",
+    "meaning_zh": "旅伴",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见旅行搭配"
+  },
+  {
+    "item_code": "w_076118",
+    "content": "travel deposit",
+    "meaning_zh": "旅行订金；旅游押金",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "旅游付款场景"
+  },
+  {
+    "item_code": "w_076127",
+    "content": "travel provider",
+    "meaning_zh": "旅游服务提供商",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "行业常见表达"
+  },
+  {
+    "item_code": "w_076129",
+    "content": "travel story",
+    "meaning_zh": "旅行故事；游记",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学习短语"
+  },
+  {
+    "item_code": "w_076135",
+    "content": "traveling schedule",
+    "meaning_zh": "旅行日程；行程安排",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "旅行计划用语"
+  },
+  {
+    "item_code": "w_076147",
+    "content": "traversal",
+    "meaning_zh": "遍历",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_076154",
+    "content": "tray garment",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无常见搭配含义"
+  },
+  {
+    "item_code": "w_076155",
+    "content": "tray knife",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配含义不可靠"
+  },
+  {
+    "item_code": "w_076159",
+    "content": "treacley",
+    "meaning_zh": "甜腻的；过分伤感的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容词常见义"
+  },
+  {
+    "item_code": "w_076178",
+    "content": "Treasury Building",
+    "meaning_zh": "财政部大楼；国库大楼",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有建筑名称"
+  },
+  {
+    "item_code": "w_076179",
+    "content": "treasury vault",
+    "meaning_zh": "国库金库；财政金库",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融保管场景"
+  }
+]

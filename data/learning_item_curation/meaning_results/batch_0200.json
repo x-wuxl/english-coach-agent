@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_018613",
+    "content": "cut out noise",
+    "meaning_zh": "消除噪音；屏蔽干扰",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_018617",
+    "content": "cut something out",
+    "meaning_zh": "删去某物；停止做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词"
+  },
+  {
+    "item_code": "w_018621",
+    "content": "cut the costs",
+    "meaning_zh": "削减成本",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见经济表达"
+  },
+  {
+    "item_code": "w_018624",
+    "content": "cut travel time",
+    "meaning_zh": "缩短出行时间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_018631",
+    "content": "cutaneous incense",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常疑似噪声"
+  },
+  {
+    "item_code": "w_018634",
+    "content": "cute and fashionable",
+    "meaning_zh": "可爱又时尚",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容词并列表达"
+  },
+  {
+    "item_code": "w_018654",
+    "content": "cyan vicarious",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常疑似噪声"
+  },
+  {
+    "item_code": "w_018666",
+    "content": "cyber manhunt",
+    "meaning_zh": "网络追查；人肉搜索",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "网络社会常见术语"
+  },
+  {
+    "item_code": "w_018667",
+    "content": "cyber manhunts",
+    "meaning_zh": "网络追查；人肉搜索",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复数形式可学习"
+  },
+  {
+    "item_code": "w_018669",
+    "content": "cyber sovereignty",
+    "meaning_zh": "网络主权",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治科技术语"
+  },
+  {
+    "item_code": "w_018681",
+    "content": "cyberspace governance",
+    "meaning_zh": "网络空间治理",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政策术语"
+  },
+  {
+    "item_code": "w_018682",
+    "content": "cyberspace security strategy",
+    "meaning_zh": "网络空间安全战略",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政策术语"
+  },
+  {
+    "item_code": "w_018683",
+    "content": "cyberspace sovereignty",
+    "meaning_zh": "网络空间主权",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见政策术语"
+  },
+  {
+    "item_code": "w_018684",
+    "content": "cyberspace writer",
+    "meaning_zh": "网络作家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可理解为网络写作者"
+  },
+  {
+    "item_code": "w_018686",
+    "content": "cyberword",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_018689",
+    "content": "cycle detector",
+    "meaning_zh": "循环检测器",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术术语含义明确"
+  },
+  {
+    "item_code": "w_018697",
+    "content": "cycling as a workout",
+    "meaning_zh": "把骑行作为锻炼；骑行健身",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "健身场景表达"
+  },
+  {
+    "item_code": "w_018698",
+    "content": "cycling gear",
+    "meaning_zh": "骑行装备",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "运动装备搭配"
+  },
+  {
+    "item_code": "w_018714",
+    "content": "cylinder triangle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常疑似噪声"
+  },
+  {
+    "item_code": "w_018720",
+    "content": "cynic tactless",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语并列无明确含义"
+  }
+]

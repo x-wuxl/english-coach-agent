@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_082222",
+    "content": "zeroth",
+    "meaning_zh": "第零个；从零开始的",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用序数"
+  },
+  {
+    "item_code": "w_082226",
+    "content": "zhenying",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼音非英语"
+  },
+  {
+    "item_code": "w_082234",
+    "content": "zion spec",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "含义无法可靠判断"
+  },
+  {
+    "item_code": "w_082239",
+    "content": "zip object",
+    "meaning_zh": "zip对象；压缩配对对象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "编程术语"
+  },
+  {
+    "item_code": "w_082240",
+    "content": "zip placenta",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_082243",
+    "content": "zipper undo unzip fashion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠噪声"
+  },
+  {
+    "item_code": "w_082252",
+    "content": "zombie enterprises",
+    "meaning_zh": "僵尸企业",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济常用表达"
+  },
+  {
+    "item_code": "w_082253",
+    "content": "zombie meat",
+    "meaning_zh": "僵尸肉；长期冷冻肉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "特定社会新闻用语"
+  },
+  {
+    "item_code": "w_082269",
+    "content": "zoologist measles ejaculate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无意义词语堆叠"
+  },
+  {
+    "item_code": "w_082272",
+    "content": "zoom antique bookcase",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声搭配"
+  },
+  {
+    "item_code": "w_082288",
+    "content": "Zun of Peace",
+    "meaning_zh": "和平尊",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有名词"
+  },
+  {
+    "item_code": "w_082296",
+    "content": "zymology sparrow",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无意义词语堆叠"
+  },
+  {
+    "item_code": "w_082299",
+    "content": "à la carte",
+    "meaning_zh": "按菜单点菜的；可单独选择的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定外来短语"
+  },
+  {
+    "item_code": "w_082300",
+    "content": "éclat",
+    "meaning_zh": "辉煌成就；显赫声誉；喝彩",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见高级词汇"
+  },
+  {
+    "item_code": "w_082301",
+    "content": "élan",
+    "meaning_zh": "热情；活力；锐气",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见外来词"
+  },
+  {
+    "item_code": "w_082302",
+    "content": "émigré",
+    "meaning_zh": "流亡者；移居国外者",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见外来词"
+  },
+  {
+    "item_code": "w_082303",
+    "content": "α-ray",
+    "meaning_zh": "α射线",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "物理术语"
+  },
+  {
+    "item_code": "w_082304",
+    "content": "β-ray",
+    "meaning_zh": "β射线",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "物理术语"
+  },
+  {
+    "item_code": "w_082305",
+    "content": "对某人事物厌倦的 famine 的",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "中英混杂噪声"
+  },
+  {
+    "item_code": "w_082306",
+    "content": "文本由语音转文字软件自动生成，会有少许错误或遗漏，请以原视频为准（up主精力有限，粉丝们可以自己手动校对）",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非词条且例句不匹配"
+  }
+]

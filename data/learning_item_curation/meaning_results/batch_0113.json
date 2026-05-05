@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_009507",
+    "content": "blaze rigid razor",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词组无可靠含义"
+  },
+  {
+    "item_code": "w_009511",
+    "content": "blazon vignette",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配含义不明"
+  },
+  {
+    "item_code": "w_009512",
+    "content": "ble",
+    "meaning_zh": "低功耗蓝牙",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机主题常见缩写"
+  },
+  {
+    "item_code": "w_009518",
+    "content": "bleak economic future",
+    "meaning_zh": "暗淡的经济前景",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_009523",
+    "content": "bleed over into",
+    "meaning_zh": "渗透到；影响到",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定短语用法"
+  },
+  {
+    "item_code": "w_009527",
+    "content": "bleeding blister",
+    "meaning_zh": "出血的水疱",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学描述性搭配"
+  },
+  {
+    "item_code": "w_009528",
+    "content": "bleeding economy",
+    "meaning_zh": "严重失血的经济；衰弱的经济",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "比喻性经济表达"
+  },
+  {
+    "item_code": "w_009538",
+    "content": "blend peel",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配含义不明"
+  },
+  {
+    "item_code": "w_009539",
+    "content": "blend recession warrant",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词组无可靠含义"
+  },
+  {
+    "item_code": "w_009540",
+    "content": "blende",
+    "meaning_zh": "闪锌矿",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "矿物术语"
+  },
+  {
+    "item_code": "w_009543",
+    "content": "blender destructive",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词序异常含义不明"
+  },
+  {
+    "item_code": "w_009562",
+    "content": "blind liker",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配含义不明"
+  },
+  {
+    "item_code": "w_009563",
+    "content": "blind reconstruction",
+    "meaning_zh": "盲重建",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术术语可能含义"
+  },
+  {
+    "item_code": "w_009565",
+    "content": "blind vision",
+    "meaning_zh": "盲视；盲人的视觉",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "可作心理学相关表达"
+  },
+  {
+    "item_code": "w_009574",
+    "content": "blink bowel",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词组无可靠含义"
+  },
+  {
+    "item_code": "w_009591",
+    "content": "bloat rack",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非固定搭配含义不明"
+  },
+  {
+    "item_code": "w_009604",
+    "content": "block the mountain passes",
+    "meaning_zh": "封锁山口；阻断山路",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动宾短语含义明确"
+  },
+  {
+    "item_code": "w_009613",
+    "content": "blog about",
+    "meaning_zh": "写博客谈论；在博客上写关于",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持该含义"
+  },
+  {
+    "item_code": "w_009614",
+    "content": "blog marketing",
+    "meaning_zh": "博客营销",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "营销领域常见术语"
+  },
+  {
+    "item_code": "w_009623",
+    "content": "blonde hair",
+    "meaning_zh": "金发；浅黄色头发",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持该含义"
+  }
+]

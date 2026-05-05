@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_025652",
+    "content": "ex-gangster",
+    "meaning_zh": "前黑帮成员",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合名词含义明确"
+  },
+  {
+    "item_code": "w_025664",
+    "content": "exact a heavy price",
+    "meaning_zh": "使付出沉重代价",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_025665",
+    "content": "exact a high price",
+    "meaning_zh": "使付出高昂代价",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_025666",
+    "content": "exact a toll",
+    "meaning_zh": "造成损失；造成伤亡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_025672",
+    "content": "exaggerate difficulties",
+    "meaning_zh": "夸大困难",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动宾搭配明确"
+  },
+  {
+    "item_code": "w_025673",
+    "content": "exaggerate the functions",
+    "meaning_zh": "夸大功能",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动宾搭配明确"
+  },
+  {
+    "item_code": "w_025679",
+    "content": "exalt diurnal variance",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配明显噪声"
+  },
+  {
+    "item_code": "w_025683",
+    "content": "exam assessment",
+    "meaning_zh": "考试评估",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育场景搭配"
+  },
+  {
+    "item_code": "w_025684",
+    "content": "exam candidates",
+    "meaning_zh": "考生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "考试场景常用"
+  },
+  {
+    "item_code": "w_025685",
+    "content": "exam preparation",
+    "meaning_zh": "备考；考试准备",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "考试场景常用"
+  },
+  {
+    "item_code": "w_025691",
+    "content": "examine examination",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串无自然搭配"
+  },
+  {
+    "item_code": "w_025692",
+    "content": "examine factories",
+    "meaning_zh": "检查工厂",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动宾搭配明确"
+  },
+  {
+    "item_code": "w_025693",
+    "content": "examine tickets",
+    "meaning_zh": "查票；检票",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动宾搭配明确"
+  },
+  {
+    "item_code": "w_025700",
+    "content": "exasperate preach",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配明显噪声"
+  },
+  {
+    "item_code": "w_025701",
+    "content": "exasperate wig",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配明显噪声"
+  },
+  {
+    "item_code": "w_025707",
+    "content": "excavation sites",
+    "meaning_zh": "发掘现场；考古发掘地",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术场景常用"
+  },
+  {
+    "item_code": "w_025710",
+    "content": "exceed expectations",
+    "meaning_zh": "超出预期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_025711",
+    "content": "exceed inauguration",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配明显噪声"
+  },
+  {
+    "item_code": "w_025712",
+    "content": "exceed sb.'s expectations",
+    "meaning_zh": "超出某人的预期",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配"
+  },
+  {
+    "item_code": "w_025713",
+    "content": "exceed the standard",
+    "meaning_zh": "超过标准",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动宾搭配明确"
+  }
+]

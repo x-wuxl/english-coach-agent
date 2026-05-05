@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_040865",
+    "content": "join relaxation clubs",
+    "meaning_zh": "加入放松休闲俱乐部",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_040867",
+    "content": "join sb. for",
+    "meaning_zh": "和某人一起参加；和某人共进",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_040868",
+    "content": "join sb. in doing",
+    "meaning_zh": "和某人一起做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型"
+  },
+  {
+    "item_code": "w_040875",
+    "content": "joining fees",
+    "meaning_zh": "入会费；加盟费",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_040876",
+    "content": "joining the WTO",
+    "meaning_zh": "加入世界贸易组织",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定政治经济表达"
+  },
+  {
+    "item_code": "w_040882",
+    "content": "joint federal-state immigration enforcement",
+    "meaning_zh": "联邦与州联合移民执法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政策类名词短语"
+  },
+  {
+    "item_code": "w_040883",
+    "content": "joint military exercise",
+    "meaning_zh": "联合军事演习",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见军事搭配"
+  },
+  {
+    "item_code": "w_040884",
+    "content": "joint offense",
+    "meaning_zh": "联合进攻；共同犯罪",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "缺少语境有多义"
+  },
+  {
+    "item_code": "w_040891",
+    "content": "joke about",
+    "meaning_zh": "拿……开玩笑；谈笑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_040893",
+    "content": "joke-telling",
+    "meaning_zh": "讲笑话",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "复合表达"
+  },
+  {
+    "item_code": "w_040899",
+    "content": "jolly opaque remedy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声无可靠含义"
+  },
+  {
+    "item_code": "w_040900",
+    "content": "jolly someone into something",
+    "meaning_zh": "哄劝某人做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "固定搭配但较少见"
+  },
+  {
+    "item_code": "w_040904",
+    "content": "Jon",
+    "meaning_zh": "乔恩（男子名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见人名"
+  },
+  {
+    "item_code": "w_040909",
+    "content": "joseph",
+    "meaning_zh": "约瑟夫（男子名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句表明为人名"
+  },
+  {
+    "item_code": "w_040912",
+    "content": "joshua",
+    "meaning_zh": "约书亚（男子名）",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见人名"
+  },
+  {
+    "item_code": "w_040913",
+    "content": "Jospeh Louis Gay-Lussac",
+    "meaning_zh": "约瑟夫·路易·盖-吕萨克（法国化学家、物理学家）",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "人名且拼写疑似错误"
+  },
+  {
+    "item_code": "w_040925",
+    "content": "journal articles",
+    "meaning_zh": "期刊文章；学术论文",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术常见表达"
+  },
+  {
+    "item_code": "w_040929",
+    "content": "journalist's intellectual preparation",
+    "meaning_zh": "记者的知识准备；记者的思想准备",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "抽象名词短语"
+  },
+  {
+    "item_code": "w_040931",
+    "content": "journalistic circles",
+    "meaning_zh": "新闻界；记者圈",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见行业表达"
+  },
+  {
+    "item_code": "w_040932",
+    "content": "journalistic judgment",
+    "meaning_zh": "新闻判断力；新闻职业判断",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "新闻专业表达"
+  }
+]

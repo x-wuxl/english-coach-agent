@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_016577",
+    "content": "conspicuous napkin",
+    "meaning_zh": "显眼的餐巾",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "形容词名词搭配"
+  },
+  {
+    "item_code": "w_016578",
+    "content": "conspicuous snobbish intimidate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词串无固定含义"
+  },
+  {
+    "item_code": "w_016584",
+    "content": "conspire latitude allergy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词串无固定含义"
+  },
+  {
+    "item_code": "w_016585",
+    "content": "conspire to",
+    "meaning_zh": "合谋做；共同导致",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_016602",
+    "content": "constituent digital",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_016608",
+    "content": "constitutional fluid germ",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词串无固定含义"
+  },
+  {
+    "item_code": "w_016617",
+    "content": "constrain slake",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "动词堆叠无含义"
+  },
+  {
+    "item_code": "w_016620",
+    "content": "constrange wretched",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "含拼写错误"
+  },
+  {
+    "item_code": "w_016622",
+    "content": "constrict brute",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "搭配不自然"
+  },
+  {
+    "item_code": "w_016629",
+    "content": "construct construction foundation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "high",
+    "reason": "词串无固定含义"
+  },
+  {
+    "item_code": "w_016634",
+    "content": "construction style",
+    "meaning_zh": "建筑风格；施工方式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_016641",
+    "content": "constructor",
+    "meaning_zh": "构造函数；构造器",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_016645",
+    "content": "consular protection",
+    "meaning_zh": "领事保护",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定政法表达"
+  },
+  {
+    "item_code": "w_016653",
+    "content": "consultand",
+    "meaning_zh": "咨询者；求询者",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "较少见专业词"
+  },
+  {
+    "item_code": "w_016655",
+    "content": "consultant diagnosis",
+    "meaning_zh": "专家诊断；会诊诊断",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学场景搭配"
+  },
+  {
+    "item_code": "w_016657",
+    "content": "consultation with the doctor",
+    "meaning_zh": "向医生咨询；就诊咨询",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "医疗场景短语"
+  },
+  {
+    "item_code": "w_016659",
+    "content": "consultative democracy",
+    "meaning_zh": "协商民主",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "政治术语"
+  },
+  {
+    "item_code": "w_016662",
+    "content": "consulting time",
+    "meaning_zh": "咨询时间；门诊时间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "场景义明确"
+  },
+  {
+    "item_code": "w_016665",
+    "content": "consume sb. with",
+    "meaning_zh": "使某人充满；使某人被吞噬",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见被动搭配"
+  },
+  {
+    "item_code": "w_016669",
+    "content": "consumer behaviors",
+    "meaning_zh": "消费者行为",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商业常用表达"
+  }
+]

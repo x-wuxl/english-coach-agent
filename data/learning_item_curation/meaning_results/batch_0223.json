@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_021093",
+    "content": "disconnect oneself from",
+    "meaning_zh": "使自己脱离；与……断开联系",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配含义明确"
+  },
+  {
+    "item_code": "w_021105",
+    "content": "discontinue one's studying",
+    "meaning_zh": "中断学业；停止学习",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_021111",
+    "content": "discordge",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_021113",
+    "content": "discothèque",
+    "meaning_zh": "迪斯科舞厅",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "外来词含义明确"
+  },
+  {
+    "item_code": "w_021115",
+    "content": "discount interact",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无可靠含义"
+  },
+  {
+    "item_code": "w_021117",
+    "content": "discount receipt memo",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准搭配"
+  },
+  {
+    "item_code": "w_021119",
+    "content": "discount-price goods",
+    "meaning_zh": "折价商品；打折商品",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商品搭配明确"
+  },
+  {
+    "item_code": "w_021121",
+    "content": "discounted stuff",
+    "meaning_zh": "打折物品；折价东西",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "口语短语含义明确"
+  },
+  {
+    "item_code": "w_021127",
+    "content": "discourage sb. from doing",
+    "meaning_zh": "劝阻某人做某事；阻止某人做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见考试搭配"
+  },
+  {
+    "item_code": "w_021139",
+    "content": "discredit ramshackle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词汇拼接"
+  },
+  {
+    "item_code": "w_021144",
+    "content": "discrepancy prospect coverage",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词汇拼接"
+  },
+  {
+    "item_code": "w_021148",
+    "content": "discrete somnolence shroud",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词汇拼接"
+  },
+  {
+    "item_code": "w_021149",
+    "content": "discrete studio",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准搭配"
+  },
+  {
+    "item_code": "w_021158",
+    "content": "discriminate concrete",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词组无可靠含义"
+  },
+  {
+    "item_code": "w_021164",
+    "content": "discriminatory treatment",
+    "meaning_zh": "歧视性待遇",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见法律社会表达"
+  },
+  {
+    "item_code": "w_021167",
+    "content": "discursive monopolize",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词汇拼接"
+  },
+  {
+    "item_code": "w_021172",
+    "content": "discuss infrastructure",
+    "meaning_zh": "讨论基础设施",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "普通动宾搭配"
+  },
+  {
+    "item_code": "w_021174",
+    "content": "discussion about",
+    "meaning_zh": "关于……的讨论",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持该搭配"
+  },
+  {
+    "item_code": "w_021175",
+    "content": "discussion class",
+    "meaning_zh": "讨论课",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "课堂场景搭配"
+  },
+  {
+    "item_code": "w_021177",
+    "content": "discussion of",
+    "meaning_zh": "对……的讨论；关于……的论述",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句支持该搭配"
+  }
+]

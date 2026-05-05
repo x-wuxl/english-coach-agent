@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_027561",
+    "content": "fictitious beholden",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无明确含义"
+  },
+  {
+    "item_code": "w_027568",
+    "content": "fidelity momentous convention",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个词拼接无明确含义"
+  },
+  {
+    "item_code": "w_027575",
+    "content": "field biologist",
+    "meaning_zh": "野外生物学家",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见职业名词短语"
+  },
+  {
+    "item_code": "w_027591",
+    "content": "field-study oriented",
+    "meaning_zh": "以实地研究为导向的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容研究取向"
+  },
+  {
+    "item_code": "w_027599",
+    "content": "fierce battle",
+    "meaning_zh": "激烈的战斗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容词搭配"
+  },
+  {
+    "item_code": "w_027600",
+    "content": "fierce business competition",
+    "meaning_zh": "激烈的商业竞争",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商务搭配"
+  },
+  {
+    "item_code": "w_027602",
+    "content": "fierce loyal philosophy opportunity",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个词拼接无明确含义"
+  },
+  {
+    "item_code": "w_027603",
+    "content": "fierce rays of",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "短语残缺"
+  },
+  {
+    "item_code": "w_027610",
+    "content": "fifteen degrees Celsius",
+    "meaning_zh": "摄氏十五度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "温度表达"
+  },
+  {
+    "item_code": "w_027622",
+    "content": "fight a duel",
+    "meaning_zh": "决斗",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词短语"
+  },
+  {
+    "item_code": "w_027627",
+    "content": "fight crisis",
+    "meaning_zh": "应对危机；抗击危机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配略不完整"
+  },
+  {
+    "item_code": "w_027628",
+    "content": "fight discrimination against sb.",
+    "meaning_zh": "反对对某人的歧视",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_027635",
+    "content": "fight resolve",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无明确含义"
+  },
+  {
+    "item_code": "w_027637",
+    "content": "fight the crisis",
+    "meaning_zh": "应对危机；抗击危机",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_027650",
+    "content": "figure deny",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语拼接无明确含义"
+  },
+  {
+    "item_code": "w_027661",
+    "content": "figuring out a way",
+    "meaning_zh": "想出办法；找到方法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_027676",
+    "content": "file object",
+    "meaning_zh": "文件对象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_027677",
+    "content": "file-like object",
+    "meaning_zh": "类文件对象",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_027678",
+    "content": "filed for bankruptcy",
+    "meaning_zh": "申请破产",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法律商务表达"
+  },
+  {
+    "item_code": "w_027679",
+    "content": "filename",
+    "meaning_zh": "文件名",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机常用词"
+  }
+]

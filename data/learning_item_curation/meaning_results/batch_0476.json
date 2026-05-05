@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_045476",
+    "content": "man-made project",
+    "meaning_zh": "人造工程；人工建造项目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见工程搭配"
+  },
+  {
+    "item_code": "w_045480",
+    "content": "manage particular",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_045486",
+    "content": "managed attribute",
+    "meaning_zh": "托管属性",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_045487",
+    "content": "managed class",
+    "meaning_zh": "托管类",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_045489",
+    "content": "managed instance",
+    "meaning_zh": "托管实例",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机术语"
+  },
+  {
+    "item_code": "w_045504",
+    "content": "managerial conjunctiva",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配无可靠含义"
+  },
+  {
+    "item_code": "w_045505",
+    "content": "managerial expertise",
+    "meaning_zh": "管理专长；管理方面的专业知识",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术搭配"
+  },
+  {
+    "item_code": "w_045506",
+    "content": "managerial practice",
+    "meaning_zh": "管理实践；管理做法",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见管理表达"
+  },
+  {
+    "item_code": "w_045513",
+    "content": "Manchu ethnic group",
+    "meaning_zh": "满族",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "民族专有名词"
+  },
+  {
+    "item_code": "w_045521",
+    "content": "mandatory labeling",
+    "meaning_zh": "强制性标识；强制标签",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "法规常见表达"
+  },
+  {
+    "item_code": "w_045522",
+    "content": "mandatory urgent",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "形容词堆叠疑似噪声"
+  },
+  {
+    "item_code": "w_045527",
+    "content": "maneuver per fervid abate",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无含义"
+  },
+  {
+    "item_code": "w_045531",
+    "content": "manga comic books",
+    "meaning_zh": "日本漫画书；漫画书",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见文化词组"
+  },
+  {
+    "item_code": "w_045539",
+    "content": "manguard",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "罕见词疑似噪声"
+  },
+  {
+    "item_code": "w_045541",
+    "content": "mangy astounding",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不自然疑似噪声"
+  },
+  {
+    "item_code": "w_045551",
+    "content": "manic neural neurology",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机医学词串"
+  },
+  {
+    "item_code": "w_045559",
+    "content": "manifestation of",
+    "meaning_zh": "……的表现；……的体现",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见固定搭配"
+  },
+  {
+    "item_code": "w_045567",
+    "content": "manipulate income audition",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词串无含义"
+  },
+  {
+    "item_code": "w_045568",
+    "content": "manipulate sb. into sth.",
+    "meaning_zh": "操纵某人进入某种状态；诱使某人做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定句型表达"
+  },
+  {
+    "item_code": "w_045574",
+    "content": "manly woman",
+    "meaning_zh": "有男子气概的女人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "词义直接明确"
+  }
+]

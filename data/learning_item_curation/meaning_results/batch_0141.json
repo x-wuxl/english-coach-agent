@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_012688",
+    "content": "cathedral ruin",
+    "meaning_zh": "大教堂遗址",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "名词短语"
+  },
+  {
+    "item_code": "w_012695",
+    "content": "cathode maintenance",
+    "meaning_zh": "阴极维护",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术搭配"
+  },
+  {
+    "item_code": "w_012699",
+    "content": "catholic gap vehicle",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "明显噪声搭配"
+  },
+  {
+    "item_code": "w_012732",
+    "content": "cause conflicts",
+    "meaning_zh": "引发冲突",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_012733",
+    "content": "cause célèbre",
+    "meaning_zh": "引起公众关注的争议事件；名案",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定外来表达"
+  },
+  {
+    "item_code": "w_012734",
+    "content": "cause damage to ...",
+    "meaning_zh": "对……造成损害",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见考试搭配"
+  },
+  {
+    "item_code": "w_012735",
+    "content": "cause danger",
+    "meaning_zh": "造成危险",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词搭配"
+  },
+  {
+    "item_code": "w_012736",
+    "content": "cause environmental pollution",
+    "meaning_zh": "造成环境污染",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "雅思常见话题"
+  },
+  {
+    "item_code": "w_012738",
+    "content": "cause of stress",
+    "meaning_zh": "压力来源；造成压力的原因",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_012739",
+    "content": "cause pollution",
+    "meaning_zh": "造成污染",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "环境话题搭配"
+  },
+  {
+    "item_code": "w_012740",
+    "content": "cause psychological problems",
+    "meaning_zh": "引发心理问题",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "雅思常见搭配"
+  },
+  {
+    "item_code": "w_012745",
+    "content": "caustic allude",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然搭配"
+  },
+  {
+    "item_code": "w_012753",
+    "content": "caution against doing",
+    "meaning_zh": "告诫不要做某事；警告不要做某事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定动词结构"
+  },
+  {
+    "item_code": "w_012754",
+    "content": "caution coastal sacrifice fantasy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词语堆叠"
+  },
+  {
+    "item_code": "w_012759",
+    "content": "cautious of doing",
+    "meaning_zh": "对做某事持谨慎态度",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "形容词搭配"
+  },
+  {
+    "item_code": "w_012763",
+    "content": "cavalcade of luggage",
+    "meaning_zh": "大量行李；一长串行李",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "比喻性名词短语"
+  },
+  {
+    "item_code": "w_012770",
+    "content": "cave exploiting",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "表达不自然"
+  },
+  {
+    "item_code": "w_012775",
+    "content": "caveat ennoble",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非自然搭配"
+  },
+  {
+    "item_code": "w_012810",
+    "content": "ceased",
+    "meaning_zh": "停止；终止",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句体现停止"
+  },
+  {
+    "item_code": "w_012825",
+    "content": "ceiling roof support terrace",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "随机词语堆叠"
+  }
+]

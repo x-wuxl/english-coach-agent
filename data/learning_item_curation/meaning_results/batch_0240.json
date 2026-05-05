@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_022654",
+    "content": "driving without a license",
+    "meaning_zh": "无证驾驶",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句明确对应"
+  },
+  {
+    "item_code": "w_022658",
+    "content": "drizzle half hearted",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼接噪声"
+  },
+  {
+    "item_code": "w_022669",
+    "content": "drone bee",
+    "meaning_zh": "雄蜂",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见生物名词"
+  },
+  {
+    "item_code": "w_022677",
+    "content": "drop an email",
+    "meaning_zh": "发一封邮件",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见商务表达"
+  },
+  {
+    "item_code": "w_022680",
+    "content": "drop back to",
+    "meaning_zh": "回落到；退回到",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动词短语"
+  },
+  {
+    "item_code": "w_022684",
+    "content": "drop class",
+    "meaning_zh": "退课",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "留学场景常用"
+  },
+  {
+    "item_code": "w_022688",
+    "content": "drop in at ...",
+    "meaning_zh": "顺道拜访；临时到访",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定搭配"
+  },
+  {
+    "item_code": "w_022699",
+    "content": "drop slip",
+    "meaning_zh": "退课单；退课申请表",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "校园场景术语"
+  },
+  {
+    "item_code": "w_022708",
+    "content": "dropout rates",
+    "meaning_zh": "辍学率",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育主题常用"
+  },
+  {
+    "item_code": "w_022710",
+    "content": "dropout students",
+    "meaning_zh": "辍学生",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "教育主题常用"
+  },
+  {
+    "item_code": "w_022716",
+    "content": "dropsy effort",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼接噪声"
+  },
+  {
+    "item_code": "w_022722",
+    "content": "drought-resistant crops",
+    "meaning_zh": "耐旱作物",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "农业科技搭配"
+  },
+  {
+    "item_code": "w_022724",
+    "content": "drove to the supermarket",
+    "meaning_zh": "开车去了超市",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "普通动作短语"
+  },
+  {
+    "item_code": "w_022727",
+    "content": "drown in red ink",
+    "meaning_zh": "深陷亏损；债台高筑",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "商务财务习语"
+  },
+  {
+    "item_code": "w_022730",
+    "content": "drows",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_022734",
+    "content": "drowsy vanquish mary",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼接噪声"
+  },
+  {
+    "item_code": "w_022741",
+    "content": "drug company representative",
+    "meaning_zh": "医药公司代表；药品销售代表",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "职业称谓明确"
+  },
+  {
+    "item_code": "w_022742",
+    "content": "drug detection",
+    "meaning_zh": "毒品检测；药物检测",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "检测术语"
+  },
+  {
+    "item_code": "w_022744",
+    "content": "drug king",
+    "meaning_zh": "毒枭；毒品大亨",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "近似drug lord"
+  },
+  {
+    "item_code": "w_022745",
+    "content": "drug promotion",
+    "meaning_zh": "药品推广；毒品宣传",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "需按语境区分"
+  }
+]

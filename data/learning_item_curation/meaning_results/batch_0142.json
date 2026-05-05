@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_012826",
+    "content": "celabic",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_012831",
+    "content": "celebrate birthday",
+    "meaning_zh": "庆祝生日",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_012832",
+    "content": "celebrate birthdays",
+    "meaning_zh": "庆祝生日",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_012833",
+    "content": "celebrate festival",
+    "meaning_zh": "庆祝节日",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解"
+  },
+  {
+    "item_code": "w_012834",
+    "content": "celebrate happy events",
+    "meaning_zh": "庆祝喜事",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "整体含义明确"
+  },
+  {
+    "item_code": "w_012835",
+    "content": "celebrate success",
+    "meaning_zh": "庆祝成功",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见动宾搭配"
+  },
+  {
+    "item_code": "w_012836",
+    "content": "celebrate the New Year",
+    "meaning_zh": "庆祝新年",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见节日表达"
+  },
+  {
+    "item_code": "w_012844",
+    "content": "celebrity biography",
+    "meaning_zh": "名人传记；明星传记",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "名词短语明确"
+  },
+  {
+    "item_code": "w_012845",
+    "content": "celebrity look-alike",
+    "meaning_zh": "长得像名人的人",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "固定表达"
+  },
+  {
+    "item_code": "w_012846",
+    "content": "celebrity magazines",
+    "meaning_zh": "名人杂志；娱乐杂志",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_012847",
+    "content": "celebrity stage acting",
+    "meaning_zh": "名人的舞台表演",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配生硬低价值"
+  },
+  {
+    "item_code": "w_012850",
+    "content": "celerity ideomatic epilepsy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似噪声拼写错误"
+  },
+  {
+    "item_code": "w_012852",
+    "content": "celery coconut cod",
+    "meaning_zh": "芹菜、椰子和鳕鱼",
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "medium",
+    "reason": "词串低价值"
+  },
+  {
+    "item_code": "w_012859",
+    "content": "Celia",
+    "meaning_zh": "西莉亚，人名",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见女性名"
+  },
+  {
+    "item_code": "w_012861",
+    "content": "celiac incision",
+    "meaning_zh": "腹部切口",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学术语"
+  },
+  {
+    "item_code": "w_012871",
+    "content": "cell gossip",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无法判断"
+  },
+  {
+    "item_code": "w_012878",
+    "content": "cell-driven vehicles",
+    "meaning_zh": "电池驱动车辆；燃料电池驱动车辆",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "技术类搭配"
+  },
+  {
+    "item_code": "w_012887",
+    "content": "cellular bolster",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常无法判断"
+  },
+  {
+    "item_code": "w_012888",
+    "content": "cellular destination horror",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词串噪声"
+  },
+  {
+    "item_code": "w_012909",
+    "content": "censorius",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "罕见词无法可靠判断"
+  }
+]

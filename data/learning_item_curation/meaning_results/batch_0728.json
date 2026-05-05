@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_071783",
+    "content": "symbol of historical events",
+    "meaning_zh": "历史事件的象征",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_071784",
+    "content": "symbol of social status",
+    "meaning_zh": "社会地位的象征",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配含义明确"
+  },
+  {
+    "item_code": "w_071785",
+    "content": "symbol of society",
+    "meaning_zh": "社会的象征",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_071788",
+    "content": "symbolic ambassador",
+    "meaning_zh": "象征性大使；形象代表",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配可理解但不常见"
+  },
+  {
+    "item_code": "w_071795",
+    "content": "symbols of history",
+    "meaning_zh": "历史的象征",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_071796",
+    "content": "symbols of social status",
+    "meaning_zh": "社会地位的象征",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配含义明确"
+  },
+  {
+    "item_code": "w_071797",
+    "content": "symbol of purity",
+    "meaning_zh": "纯洁的象征",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见搭配含义明确"
+  },
+  {
+    "item_code": "w_071800",
+    "content": "symmetrical astonish procession",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无固定含义"
+  },
+  {
+    "item_code": "w_071801",
+    "content": "symmetrical symmetry",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "重复搭配学习价值低"
+  },
+  {
+    "item_code": "w_071804",
+    "content": "symmetry of information",
+    "meaning_zh": "信息对称",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济学术语"
+  },
+  {
+    "item_code": "w_071805",
+    "content": "symmetry secrecy anatomy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无固定含义"
+  },
+  {
+    "item_code": "w_071807",
+    "content": "sympathetic hospitalize emotion",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无固定含义"
+  },
+  {
+    "item_code": "w_071808",
+    "content": "sympathetic regret",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配生硬不宜入库"
+  },
+  {
+    "item_code": "w_071812",
+    "content": "sympathise with",
+    "meaning_zh": "同情；赞同",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见短语动词"
+  },
+  {
+    "item_code": "w_071814",
+    "content": "sympathize editorial",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无固定含义"
+  },
+  {
+    "item_code": "w_071819",
+    "content": "sympathy salmon",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无固定含义"
+  },
+  {
+    "item_code": "w_071825",
+    "content": "symphony rigor",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无固定含义"
+  },
+  {
+    "item_code": "w_071826",
+    "content": "symphony wholesome",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无固定含义"
+  },
+  {
+    "item_code": "w_071829",
+    "content": "symposium esophagus cancellation",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无固定含义"
+  },
+  {
+    "item_code": "w_071831",
+    "content": "symptom accomplish",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "词语堆叠无固定含义"
+  }
+]

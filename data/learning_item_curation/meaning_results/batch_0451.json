@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_043170",
+    "content": "life image",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配不常见"
+  },
+  {
+    "item_code": "w_043173",
+    "content": "life is in danger",
+    "meaning_zh": "生命处于危险中；有生命危险",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_043202",
+    "content": "life-threatening disease",
+    "meaning_zh": "危及生命的疾病",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见医学表达"
+  },
+  {
+    "item_code": "w_043211",
+    "content": "lifelong accountability system",
+    "meaning_zh": "终身问责制",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见制度表达"
+  },
+  {
+    "item_code": "w_043215",
+    "content": "lifestyle of ancestors",
+    "meaning_zh": "祖先的生活方式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_043216",
+    "content": "lifestyle of predecessors",
+    "meaning_zh": "前人的生活方式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "短语含义明确"
+  },
+  {
+    "item_code": "w_043227",
+    "content": "lifty",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准词形"
+  },
+  {
+    "item_code": "w_043243",
+    "content": "light music band",
+    "meaning_zh": "轻音乐乐队",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见音乐搭配"
+  },
+  {
+    "item_code": "w_043245",
+    "content": "light pollution",
+    "meaning_zh": "光污染",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见环保术语"
+  },
+  {
+    "item_code": "w_043246",
+    "content": "light programme",
+    "meaning_zh": "轻松节目",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "英式节目表达"
+  },
+  {
+    "item_code": "w_043248",
+    "content": "light rail train",
+    "meaning_zh": "轻轨列车",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见交通术语"
+  },
+  {
+    "item_code": "w_043266",
+    "content": "lighter candle torch",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词串噪声"
+  },
+  {
+    "item_code": "w_043270",
+    "content": "lighthouse liner mast",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似词串噪声"
+  },
+  {
+    "item_code": "w_043276",
+    "content": "lightning hazard",
+    "meaning_zh": "雷电危险；雷击风险",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见安全表达"
+  },
+  {
+    "item_code": "w_043316",
+    "content": "Lillian",
+    "meaning_zh": "莉莲",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见人名"
+  },
+  {
+    "item_code": "w_043317",
+    "content": "Lillian Derbyshire",
+    "meaning_zh": "莉莲·德比郡",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "专有人名"
+  },
+  {
+    "item_code": "w_043344",
+    "content": "limited denial",
+    "meaning_zh": "有限否认；部分否认",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "逻辑论证表达"
+  },
+  {
+    "item_code": "w_043347",
+    "content": "limited proficiency in English",
+    "meaning_zh": "英语能力有限",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见能力描述"
+  },
+  {
+    "item_code": "w_043348",
+    "content": "limited public funds",
+    "meaning_zh": "有限的公共资金",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见财政表达"
+  },
+  {
+    "item_code": "w_043349",
+    "content": "limited-property-rights housing",
+    "meaning_zh": "小产权房",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "中国特色住房术语"
+  }
+]

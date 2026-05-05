@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_030453",
+    "content": "gender inequity",
+    "meaning_zh": "性别不平等",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见社会议题搭配"
+  },
+  {
+    "item_code": "w_030454",
+    "content": "gender partiality",
+    "meaning_zh": "性别偏袒；性别偏见",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "按固定搭配释义"
+  },
+  {
+    "item_code": "w_030458",
+    "content": "gender-neutral bathroom",
+    "meaning_zh": "性别中立卫生间；无性别卫生间",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见公共设施表达"
+  },
+  {
+    "item_code": "w_030468",
+    "content": "gene-editing technique",
+    "meaning_zh": "基因编辑技术",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "生物技术术语"
+  },
+  {
+    "item_code": "w_030471",
+    "content": "geneality",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "疑似拼写错误"
+  },
+  {
+    "item_code": "w_030481",
+    "content": "general fitness",
+    "meaning_zh": "整体健康状况；一般体能",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "健康场景常见搭配"
+  },
+  {
+    "item_code": "w_030487",
+    "content": "general means of payment",
+    "meaning_zh": "通用支付手段",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "金融支付搭配"
+  },
+  {
+    "item_code": "w_030488",
+    "content": "general mortality rate",
+    "meaning_zh": "总死亡率；一般死亡率",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "人口统计术语"
+  },
+  {
+    "item_code": "w_030491",
+    "content": "general response",
+    "meaning_zh": "总体反应；一般回应",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见学术表达"
+  },
+  {
+    "item_code": "w_030493",
+    "content": "general tour",
+    "meaning_zh": "常规游览；普通旅行团",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "旅游语境可判断"
+  },
+  {
+    "item_code": "w_030494",
+    "content": "general-circulation daily",
+    "meaning_zh": "面向大众发行的日报",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "报刊发行术语"
+  },
+  {
+    "item_code": "w_030510",
+    "content": "generate boost",
+    "meaning_zh": "产生推动作用；带来提升",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "搭配略生硬但可释"
+  },
+  {
+    "item_code": "w_030511",
+    "content": "generate from",
+    "meaning_zh": "由……产生；源自……",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "动词搭配表达"
+  },
+  {
+    "item_code": "w_030512",
+    "content": "generate new employment",
+    "meaning_zh": "创造新的就业机会",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "经济就业常见搭配"
+  },
+  {
+    "item_code": "w_030519",
+    "content": "generator expression",
+    "meaning_zh": "生成器表达式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机编程术语"
+  },
+  {
+    "item_code": "w_030520",
+    "content": "generator function",
+    "meaning_zh": "生成器函数",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机编程术语"
+  },
+  {
+    "item_code": "w_030521",
+    "content": "generator iterator",
+    "meaning_zh": "生成器迭代器",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机编程术语"
+  },
+  {
+    "item_code": "w_030524",
+    "content": "generic form",
+    "meaning_zh": "通用形式；一般形式",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "学术表达常见"
+  },
+  {
+    "item_code": "w_030525",
+    "content": "generic function",
+    "meaning_zh": "泛型函数；通用函数",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "计算机编程术语"
+  },
+  {
+    "item_code": "w_030528",
+    "content": "generous and humorous",
+    "meaning_zh": "慷慨且幽默的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "形容词并列表达"
+  }
+]

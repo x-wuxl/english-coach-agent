@@ -1,0 +1,182 @@
+[
+  {
+    "item_code": "w_035954",
+    "content": "hug tentative pretend",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "无固定搭配疑似噪声"
+  },
+  {
+    "item_code": "w_035956",
+    "content": "huge amounts of",
+    "meaning_zh": "大量的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见数量搭配"
+  },
+  {
+    "item_code": "w_035957",
+    "content": "huge explosion",
+    "meaning_zh": "大爆炸；剧烈爆炸",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_035958",
+    "content": "huge gorge",
+    "meaning_zh": "巨大的峡谷；大峡谷",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见名词短语"
+  },
+  {
+    "item_code": "w_035960",
+    "content": "hugely expensive",
+    "meaning_zh": "极其昂贵的",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见形容搭配"
+  },
+  {
+    "item_code": "w_035963",
+    "content": "hugh",
+    "meaning_zh": "休，男子名",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "常见英文人名"
+  },
+  {
+    "item_code": "w_035964",
+    "content": "hugnacity",
+    "meaning_zh": null,
+    "normalized_type": "WORD",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "非标准词疑似拼写错误"
+  },
+  {
+    "item_code": "w_035965",
+    "content": "Hugo Award",
+    "meaning_zh": "雨果奖",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "科幻文学奖项名"
+  },
+  {
+    "item_code": "w_035978",
+    "content": "human association",
+    "meaning_zh": "人际交往；人类联系",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "短语含义依语境"
+  },
+  {
+    "item_code": "w_035980",
+    "content": "human body",
+    "meaning_zh": "人体",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句含义明确"
+  },
+  {
+    "item_code": "w_036001",
+    "content": "humanbeing",
+    "meaning_zh": "人；人类",
+    "normalized_type": "PHRASE",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "human being连写"
+  },
+  {
+    "item_code": "w_036003",
+    "content": "humane and historical sites",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常疑似误录"
+  },
+  {
+    "item_code": "w_036023",
+    "content": "humble feckless fervor miscreant",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个散词无固定含义"
+  },
+  {
+    "item_code": "w_036024",
+    "content": "humble plasma arch",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常疑似噪声"
+  },
+  {
+    "item_code": "w_036030",
+    "content": "hume",
+    "meaning_zh": "休谟",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "high",
+    "reason": "例句指哲学家休谟"
+  },
+  {
+    "item_code": "w_036035",
+    "content": "humid cortex hemorrhage",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "多个散词无固定含义"
+  },
+  {
+    "item_code": "w_036039",
+    "content": "humidity lime",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "搭配异常疑似噪声"
+  },
+  {
+    "item_code": "w_036053",
+    "content": "humor happiness joy",
+    "meaning_zh": null,
+    "normalized_type": "PHRASE",
+    "should_keep": false,
+    "confidence": "low",
+    "reason": "近义散词非固定表达"
+  },
+  {
+    "item_code": "w_036056",
+    "content": "humorally",
+    "meaning_zh": "体液方面地；体液免疫地",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "医学副词较少见"
+  },
+  {
+    "item_code": "w_036057",
+    "content": "humored",
+    "meaning_zh": "迁就；迎合；使满意",
+    "normalized_type": "WORD",
+    "should_keep": true,
+    "confidence": "medium",
+    "reason": "humor过去式或分词"
+  }
+]
