@@ -841,12 +841,52 @@
         }
 
         function renderMissionDebrief() {
+            const review = appState.coachReview || {};
+            const progress = appState.progressSummary || {};
+            const repeatedProblems = review.topRepeatedProblems || [];
+            const weakItems = progress.topWeakItems || [];
+            const nextSuggestion = review.nextPracticeSuggestion || review.nextWeekPlan || '';
+            const completedCount = progress.completedSessionsThisWeek || review.conversationTurns || 0;
             document.getElementById('mission-debrief').innerHTML = `
-                <div class="shell-placeholder">
+                <div class="debrief-panel">
                     <p class="eyebrow">Mission Debrief</p>
-                    <h1>Debrief will use real review data.</h1>
-                    <p class="muted">Tomorrow's next mission will appear when review data is available.</p>
+                    <h1>Mission complete</h1>
+                    <p class="mission-rationale">Your debrief uses only saved memory, progress summary, and coach review data returned by the backend.</p>
+                    <div class="debrief-grid">
+                        <article class="debrief-card">
+                            <h2>Unlocked</h2>
+                            ${appState.memorySignal ? renderMemorySignal(appState.memorySignal) : '<div class="empty-note">No saved memory signal was returned.</div>'}
+                            <p class="muted">Completed exercise count: ${escapeHtml(completedCount || 'No data')}</p>
+                        </article>
+                        <article class="debrief-card">
+                            <h2>Still unstable</h2>
+                            ${repeatedProblems.length ? `<p>${escapeHtml(repeatedProblems.join(', '))}</p>` : renderWeakItems(weakItems)}
+                        </article>
+                        <article class="debrief-card">
+                            <h2>Tomorrow</h2>
+                            ${nextSuggestion ? `<p>${escapeHtml(nextSuggestion)}</p>` : '<div class="empty-note">No next mission recommendation is available yet.</div>'}
+                        </article>
+                    </div>
+                    <div class="debrief-actions">
+                        <button class="primary-action" onclick="renderMissionLaunch(); showStudioView('mission')">Finish</button>
+                        <button class="secondary-action" onclick="setStudioMode('Memory Lock-in'); appState.missionStep = 'Lock-in'; renderCoachStudio(); showStudioView('studio')">Do bonus drill</button>
+                    </div>
                 </div>`;
+        }
+
+        async function completeMission() {
+            appState.missionStep = 'Debrief';
+            await Promise.all([
+                loadProgressSummary(),
+                loadCoachReview()
+            ]);
+            renderMissionDebrief();
+            showStudioView('debrief');
+        }
+
+        function renderWeakItems(items) {
+            if (!items || !items.length) return '<div class="empty-note">No repeated problems or weak items were returned.</div>';
+            return `<ul>${items.map(item => `<li>${escapeHtml(item.content || item.learningItemId || item.itemCode || 'Weak item')}</li>`).join('')}</ul>`;
         }
 
         async function ensureCoachSession() {
