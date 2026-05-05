@@ -775,12 +775,69 @@
 
         function renderCorrectionState(correction) {
             if (!correction) return '<div class="empty-note">No correction yet.</div>';
-            return `<div class="msg msg-info">${escapeHtml(correction.note || 'Coach feedback received.')}</div>`;
+            const better = correction.better || '';
+            return `<div class="correction-block">
+                <div class="correction-row">
+                    <p class="eyebrow">You wrote</p>
+                    <p>${escapeHtml(correction.original || '')}</p>
+                </div>
+                <div class="correction-row better">
+                    <p class="eyebrow">Coach feedback</p>
+                    ${better ? `<p>${highlightInsertedTo(better)}</p>` : '<p>No corrected sentence was returned by the coach.</p>'}
+                </div>
+                ${correction.note ? `<div class="msg msg-info">${escapeHtml(correction.note)}</div>` : '<div class="empty-note">No coach note was returned.</div>'}
+                <p class="muted">${escapeHtml(correction.retryPrompt || 'Write one improved sentence using the coach feedback.')}</p>
+                <div class="studio-actions">
+                    <button class="studio-action" onclick="retryCorrection()">Try again</button>
+                    <button class="secondary-action" onclick="completeMission()">View debrief</button>
+                </div>
+            </div>`;
         }
 
         function renderMemorySignal(signal) {
-            if (!signal) return '<div class="empty-state">No memory signals yet.</div>';
-            return `<div class="msg msg-info">${escapeHtml(signal.label || 'Memory signal')}</div>`;
+            if (!signal) return '<div class="empty-state">No memory signals yet. Practice a sentence and the coach can save useful feedback here.</div>';
+            return `<article class="memory-signal">
+                <h3>${escapeHtml(signal.label || 'Memory signal')}</h3>
+                ${signal.sourceText ? `<p><strong>You wrote:</strong> ${escapeHtml(signal.sourceText)}</p>` : ''}
+                ${signal.betterText ? `<p><strong>Better:</strong> ${escapeHtml(signal.betterText)}</p>` : ''}
+                ${signal.reason ? `<p><strong>Why it matters:</strong> ${escapeHtml(signal.reason)}</p>` : ''}
+                ${signal.nextUse ? `<p>${escapeHtml(signal.nextUse)}</p>` : ''}
+            </article>`;
+        }
+
+        function buildCorrectionFromCoachTurn(answer, turnData) {
+            const fix = turnData?.fix || turnData?.correction || turnData?.fixResponse || null;
+            const savedNotes = turnData?.savedNotes || [];
+            const firstNote = savedNotes[0] || null;
+            return {
+                original: answer,
+                better: fix?.better_english || firstNote?.betterText || '',
+                note: fix?.meaning_check || firstNote?.label || turnData?.coachReply || '',
+                retryPrompt: fix?.try_again_prompt || 'Write one improved sentence using the coach feedback.',
+                savedNotes
+            };
+        }
+
+        function buildMemorySignalFromCorrection(correction) {
+            const note = correction?.savedNotes?.[0];
+            if (!note && !correction?.better) return null;
+            return {
+                label: note?.label || note?.key || 'Saved coach feedback',
+                sourceText: correction?.original || '',
+                betterText: note?.betterText || correction?.better || '',
+                reason: note?.memoryType || 'Coach feedback',
+                nextUse: 'This signal will be used in a future review mission.'
+            };
+        }
+
+        function retryCorrection() {
+            appState.missionStep = 'Output';
+            appState.studioMode = 'Guided Output';
+            renderCoachStudio();
+        }
+
+        function highlightInsertedTo(value) {
+            return escapeHtml(value).replace(/\bto\b/i, '<span class="correction-highlight">to</span>');
         }
 
         function renderMissionDebrief() {
@@ -788,7 +845,7 @@
                 <div class="shell-placeholder">
                     <p class="eyebrow">Mission Debrief</p>
                     <h1>Debrief will use real review data.</h1>
-                    <p class="muted">No review has been loaded yet.</p>
+                    <p class="muted">Tomorrow's next mission will appear when review data is available.</p>
                 </div>`;
         }
 
