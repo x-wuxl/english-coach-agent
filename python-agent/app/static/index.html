@@ -327,7 +327,7 @@
                 <div class="field">
                     <label for="entryGoal">Goal</label>
                     <select id="entryGoal">
-                        <option value="WORKPLACE">Workplace English</option>
+                        <option value="WORKPLACE">Turn workplace needs into complete sentences</option>
                         <option value="GENERAL">General fluency</option>
                         <option value="TRAVEL">Travel English</option>
                     </select>
@@ -502,8 +502,12 @@
             document.getElementById('placement-panel').classList.add('hidden');
             document.getElementById('app-shell').classList.remove('hidden');
             renderUserSummary();
-            showStudioView('mission');
+            const plan = await ensureDailyPlan();
+            appState.mission = buildMissionFromPlan(plan);
+            await loadPriorityMemory(appState.user.id);
+            appState.memorySignal = buildMemorySignalFromPriority(appState.priorityMemory[0]);
             renderMissionLaunch();
+            showStudioView('mission');
         }
 
         function needsPlacement(user) {
@@ -562,7 +566,6 @@
                 appState.user = { ...appState.user, overallLevel: data.data.overallLevel };
                 storeCurrentUser(appState.user);
                 await enterApp();
-                await ensureDailyPlan();
             } catch (error) {
                 panel.innerHTML = `<div class="msg msg-error">${escapeHtml(formatApiError(error))}</div>`;
             }
@@ -619,14 +622,89 @@
             }
         }
 
+        function buildMissionFromPlan(plan) {
+            const focusItem = findGuidedPracticeItem() || (plan?.newItems || [])[0] || (plan?.reviewItems || [])[0] || null;
+            const focus = focusItem?.content || focusItem?.itemCode || 'daily English output';
+            const reviewCount = (plan?.reviewItems || []).length;
+            const newCount = (plan?.newItems || []).length;
+            return {
+                title: buildMissionTitle(focusItem, plan),
+                rationale: buildMissionRationale(plan),
+                duration: appState.user?.dailyMinutes || 10,
+                skillFocus: focus,
+                pattern: focusItem?.content || focusItem?.itemCode || '',
+                steps: appState.missionSteps,
+                dueReviews: reviewCount,
+                newItems: newCount,
+                focusItem
+            };
+        }
+
+        function buildMissionTitle(focusItem, plan) {
+            if (focusItem?.content) return `Turn ${focusItem.content} into usable English`;
+            const reviewCount = (plan?.reviewItems || []).length;
+            const newCount = (plan?.newItems || []).length;
+            if (reviewCount > 0) return `Recover ${reviewCount} due review item${reviewCount === 1 ? '' : 's'}`;
+            if (newCount > 0) return `Build output with ${newCount} new item${newCount === 1 ? '' : 's'}`;
+            return 'Start a short adaptive English mission';
+        }
+
+        function buildMissionRationale(plan) {
+            const reviewCount = (plan?.reviewItems || []).length;
+            const newCount = (plan?.newItems || []).length;
+            if (reviewCount && newCount) return `Your plan has ${reviewCount} review item${reviewCount === 1 ? '' : 's'} and ${newCount} new item${newCount === 1 ? '' : 's'} ready.`;
+            if (reviewCount) return 'Your highest-priority review work is ready for today.';
+            if (newCount) return 'Your next new learning items are ready for output practice.';
+            return 'No plan items are available yet. Check the service status or try again.';
+        }
+
+        function findGuidedPracticeItem() {
+            const plan = appState.dailyPlan || {};
+            return [...(plan.newItems || []), ...(plan.reviewItems || [])]
+                .find(item => item && (item.content || item.itemCode)) || null;
+        }
+
+        function buildMemorySignalFromPriority(item) {
+            if (!item) return null;
+            return {
+                label: item.label || item.key || 'Priority memory',
+                sourceText: item.sourceText || '',
+                betterText: item.betterText || '',
+                reason: item.recommendedAction || item.memoryType || 'Priority review',
+                nextUse: 'This signal can shape today\'s coach feedback.'
+            };
+        }
+
+        function renderMissionPath(current) {
+            const currentIndex = Math.max(0, appState.missionSteps.indexOf(current));
+            return `<div class="mission-path" aria-label="Mission path">
+                ${appState.missionSteps.map((step, index) => {
+                    const state = index < currentIndex ? 'completed' : index === currentIndex ? 'current' : 'upcoming';
+                    return `<div class="mission-step ${state}"><strong>${escapeHtml(step)}</strong><span>${escapeHtml(state)}</span></div>`;
+                }).join('')}
+            </div>`;
+        }
+
         function renderMissionLaunch() {
+            const mission = appState.mission || buildMissionFromPlan(appState.dailyPlan);
+            appState.mission = mission;
             document.getElementById('mission-launch').innerHTML = `
-                <div class="shell-placeholder">
+                <div class="mission-card">
                     <p class="eyebrow">Today's AI Mission</p>
-                    <h1>Mission-led Coach Studio</h1>
-                    <p class="muted">Your real daily plan will appear here after the mission model is composed.</p>
+                    <h1>${escapeHtml(mission.title)}</h1>
+                    <p class="mission-rationale">${escapeHtml(mission.rationale)}</p>
+                    <div class="mission-meta">
+                        <span>${escapeHtml(mission.duration)} min</span>
+                        <span>${escapeHtml(mission.skillFocus)}</span>
+                        <span>${escapeHtml(appState.user?.overallLevel || 'Level pending')}</span>
+                    </div>
+                    ${renderMissionPath('Warm-up')}
                     <div class="entry-actions"><button class="primary-action" onclick="startMission()">Start mission</button></div>
-                </div>`;
+                </div>
+                <aside class="adaptive-signals">
+                    <p class="eyebrow">Memory Signals</p>
+                    ${renderMemorySignal(appState.memorySignal)}
+                </aside>`;
         }
 
         async function startMission() {
