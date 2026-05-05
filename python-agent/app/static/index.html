@@ -469,10 +469,7 @@
 
             setButtonBusy('entryContinueBtn', true, 'Continuing...');
             try {
-                let data = await apiGet(`${JAVA_BASE}/api/users/by-code/${encodeURIComponent(userCode)}`);
-                if (data.code !== 0) {
-                    data = await apiPost(`${JAVA_BASE}/api/users`, { userCode, goal, dailyMinutes });
-                }
+                const data = await apiPost(`${JAVA_BASE}/api/users`, { userCode, goal, dailyMinutes });
                 if (data.code !== 0) throw new Error(data.message || 'Could not continue with this user code.');
                 appState.user = normalizeUser(data.data, { userCode, goal, dailyMinutes });
                 storeCurrentUser(appState.user);
