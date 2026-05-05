@@ -685,6 +685,11 @@
             </div>`;
         }
 
+        function setStudioMode(mode) {
+            appState.studioMode = mode;
+            renderCoachStudio();
+        }
+
         function renderMissionLaunch() {
             const mission = appState.mission || buildMissionFromPlan(appState.dailyPlan);
             appState.mission = mission;
@@ -716,12 +721,56 @@
         }
 
         function renderCoachStudio() {
+            const mission = appState.mission || buildMissionFromPlan(appState.dailyPlan);
+            const focusItem = mission.focusItem || {};
+            const examples = Array.isArray(focusItem.examples) ? focusItem.examples.filter(example => example && example.en) : [];
+            const isFixMode = appState.missionStep === 'Fix' && appState.lastCorrection;
             document.getElementById('coach-studio').innerHTML = `
-                <div class="shell-placeholder">
-                    <p class="eyebrow">Coach Studio</p>
-                    <h1>Guided Output</h1>
-                    <p class="muted">The immersive exercise surface is added in the studio task.</p>
+                <div class="coach-studio-grid">
+                    <aside class="mission-rail">
+                        <p class="eyebrow">Mission Path</p>
+                        <h2>${escapeHtml(mission.title)}</h2>
+                        ${renderMissionPath(appState.missionStep === 'launch' ? 'Output' : appState.missionStep)}
+                    </aside>
+                    <section class="studio-surface">
+                        <p class="eyebrow">${escapeHtml(appState.studioMode)}</p>
+                        <h1>${isFixMode ? 'Use the coach feedback to improve your sentence.' : 'Use today\'s focus item in one complete sentence.'}</h1>
+                        <div class="studio-mode-row" aria-label="Studio mode">
+                            ${['Guided Output', 'Fix', 'Memory Lock-in'].map(mode => `<button class="mode-chip ${appState.studioMode === mode ? 'active' : ''}" onclick="setStudioMode('${mode}')">${escapeHtml(mode)}</button>`).join('')}
+                        </div>
+                        ${isFixMode ? renderCorrectionState(appState.lastCorrection) : renderStudioAnswerSurface(mission, examples)}
+                    </section>
+                    <aside class="context-rail">
+                        <p class="eyebrow">Memory Signals</p>
+                        <h2>Context for this turn</h2>
+                        ${renderMemorySignal(appState.memorySignal)}
+                    </aside>
                 </div>`;
+        }
+
+        function renderStudioAnswerSurface(mission, examples) {
+            const pattern = mission.pattern || mission.skillFocus || '';
+            return `
+                <div class="pattern-token">${pattern ? escapeHtml(pattern) : 'No daily plan focus item is available.'}</div>
+                ${examples.length ? `<p class="muted">Example from plan: ${escapeHtml(examples[0].en)}</p>` : '<p class="muted">No example sentence is available from the plan.</p>'}
+                <label class="sr-only" for="studio-answer">Studio answer</label>
+                <textarea id="studio-answer" placeholder="Write one new sentence using today\'s focus item"></textarea>
+                <div class="studio-actions">
+                    <button id="studioSubmitBtn" class="studio-action" onclick="submitStudioAnswer()" ${pattern ? '' : 'disabled'}>Check sentence</button>
+                </div>`;
+        }
+
+        async function submitStudioAnswer() {
+            const answer = document.getElementById('studio-answer')?.value.trim();
+            if (!answer || appState.sending) return;
+            appState.coachMode = 'FIX';
+            const turnData = await submitCoachTurn(answer);
+            if (!turnData) return;
+            appState.lastCorrection = buildCorrectionFromCoachTurn(answer, turnData);
+            appState.memorySignal = buildMemorySignalFromCorrection(appState.lastCorrection) || appState.memorySignal;
+            appState.missionStep = 'Fix';
+            appState.studioMode = 'Fix';
+            renderCoachStudio();
         }
 
         function renderCorrectionState(correction) {
