@@ -9,6 +9,7 @@ ROOT = Path(__file__).resolve().parents[2]
 MIGRATION_DIR = ROOT / "java-core/src/main/resources/db/migration"
 DATA_DIR = ROOT / "data/learning_item_curation"
 DELETE_INPUT = DATA_DIR / "delete_candidates.jsonl"
+REVIEW_DELETE_INPUT = DATA_DIR / "review_meanings.jsonl"
 TYPE_INPUT = DATA_DIR / "type_change_candidates.jsonl"
 MEANING_INPUT = DATA_DIR / "accepted_meanings.jsonl"
 
@@ -108,6 +109,7 @@ def rewrite_file(path: Path, delete_codes: set[str], type_updates: dict[str, str
 
 def main() -> None:
     delete_codes = {str(row["item_code"]) for row in read_jsonl(DELETE_INPUT)}
+    delete_codes.update(str(row["item_code"]) for row in read_jsonl(REVIEW_DELETE_INPUT))
     type_updates = {
         str(row["item_code"]): str(row["normalized_type"])
         for row in read_jsonl(TYPE_INPUT)
