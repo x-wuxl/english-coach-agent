@@ -4,110 +4,71 @@ from pathlib import Path
 STATIC_INDEX = Path(__file__).resolve().parents[1] / "app" / "static" / "index.html"
 
 
-def test_coach_cockpit_redesign_main_path() -> None:
+def test_mission_led_coach_studio_main_path() -> None:
     html = STATIC_INDEX.read_text(encoding="utf-8")
 
     assert 'id="welcome-panel"' in html
     assert 'id="app-shell"' in html
-    assert 'data-page="today"' in html
-    assert 'data-page="practice"' in html
-    assert 'data-page="memory"' in html
-    assert 'data-page="progress"' in html
-    assert 'data-page="legacy"' not in html
+    assert 'id="mission-launch"' in html
+    assert 'id="coach-studio"' in html
+    assert 'id="mission-debrief"' in html
+    assert 'function renderMissionLaunch()' in html
+    assert 'function startMission()' in html
+    assert 'function renderCoachStudio()' in html
+    assert 'function renderCorrectionState' in html
+    assert 'function renderMemorySignal' in html
+    assert 'function renderMissionDebrief' in html
+    assert 'Coach Studio' in html
+    assert 'Memory Signals' in html
+    assert 'Mission Debrief' in html
+    assert 'data-page="today"' not in html
+    assert 'data-page="practice"' not in html
+    assert 'data-page="memory"' not in html
+    assert 'data-page="progress"' not in html
     assert 'onclick="startCoachSession()"' not in html
     assert 'id="coachUserId"' not in html
-    assert 'englishCoach.currentUserId' in html
-    assert 'function ensureCoachSession()' in html
-    assert 'function startGuidedPractice()' in html
-    assert 'typing-dots' in html
-    assert 'memory-updated' in html
 
 
-def test_today_plan_loads_automatically() -> None:
+def test_daily_plan_composes_mission_model() -> None:
     html = STATIC_INDEX.read_text(encoding="utf-8")
 
     assert 'dailyPlan: null' in html
-    assert 'studySession: null' in html
-    assert 'studyQueue: []' in html
-    assert 'studyIndex: 0' in html
-    assert 'studyAttempts: []' in html
-    assert 'todayLoading: false' in html
+    assert 'mission: null' in html
+    assert 'missionStep: ' in html
+    assert 'missionSteps: [' in html
     assert 'function ensureDailyPlan()' in html
-    assert 'function renderTodayPlan()' in html
+    assert 'function buildMissionFromPlan(plan)' in html
+    assert 'function renderMissionPath' in html
     assert '/api/plans/daily:ensure' in html
-    assert 'Start today' in html
-    assert 'onclick="ensureDailyPlan()"' not in html
-    assert 'manual plan' not in html.lower()
+    assert 'Turn workplace needs into complete sentences' in html
 
 
-def test_today_study_runner_submits_real_attempts() -> None:
+def test_studio_contains_guided_output_and_correction_modes() -> None:
     html = STATIC_INDEX.read_text(encoding="utf-8")
 
-    assert 'function startTodayStudy()' in html
-    assert 'function renderStudyRunner()' in html
-    assert 'function renderStudyCard(item)' in html
-    assert 'function chooseStudyMode(item)' in html
-    assert 'function recordStudyAttempt(item, mode, result, responseText, startedAt)' in html
-    assert 'async function finishStudySession()' in html
-    assert '/api/sessions/start' in html
-    assert '/attempts' in html
-    assert '/complete' in html
-    assert 'recognition_quiz' in html
-    assert 'cn_to_en' in html
-    assert 'sentence_building' in html
+    assert 'coachMode: ' in html
+    assert 'studioMode: ' in html
+    assert 'Guided Output' in html
+    assert 'Memory Lock-in' in html
+    assert 'function setStudioMode(mode)' in html
+    assert 'function submitStudioAnswer()' in html
+    assert 'function submitCoachTurn' in html
+    assert 'function ensureCoachSession()' in html
+    assert 'Write one new sentence' in html
 
 
-def test_guided_practice_uses_today_learning_item_before_coach_fix() -> None:
+def test_memory_and_review_are_contextual_states() -> None:
     html = STATIC_INDEX.read_text(encoding="utf-8")
 
-    assert "sourceItem: null" in html
-    assert "expression: ''" in html
-    assert "function findGuidedPracticeItem()" in html
-    assert "function buildGuidedPracticeFromItem(item)" in html
-    assert "function checkGuidedPattern(sentence)" in html
-    assert "function checkNeedToPattern" not in html
-    assert "pattern: 'I need to ...'" not in html
-    assert "I need to ${verb} the demo" not in html
-    assert "Use today's item" in html
-    assert "Add time, person, or reason" in html
-    assert "Send to coach" in html
-
-    start_body = html.split('async function startGuidedPractice()', 1)[1].split('function resetGuidedPractice', 1)[0]
-    assert "await ensureDailyPlan()" in start_body
-    assert "buildGuidedPracticeFromItem" in start_body
-
-    submit_body = html.split('async function submitGuidedSentence()', 1)[1].split('async function sendGuidedSentenceToCoach', 1)[0]
-    assert "checkGuidedPattern(sentence)" in submit_body
-    assert "setCoachMode('FIX')" not in submit_body
-    assert 'await submitCoachTurn()' not in submit_body
-
-
-def test_progress_loads_automatically_from_summary_endpoint() -> None:
-    html = STATIC_INDEX.read_text(encoding="utf-8")
-
-    assert "progressSummary: null" in html
-    assert "function loadProgressSummary()" in html
-    assert "function renderProgressSummary" in html
-    assert "/api/progress/summary" in html
-    assert "loadProgressSummary(appState.user.id)" in html
-    assert "Total mastery" in html
-    assert "Due review" in html
-
-
-def test_memory_practice_opens_concrete_drill_panel() -> None:
-    html = STATIC_INDEX.read_text(encoding="utf-8")
-
-    assert "memoryDrill: null" in html
-    assert 'id="memory-drill-panel"' in html
-    assert "function startMemoryDrillFromItem(item)" in html
-    assert "function renderMemoryDrill" in html
-    assert "function submitMemoryDrillAttempt()" in html
-    assert "Reveal better example" in html
-    assert "Send drill to coach" in html
-
-    practice_body = html.split('function practiceMemory(index)', 1)[1].split('function startMemoryDrillFromItem', 1)[0]
-    assert "document.getElementById('coach-input').value" not in practice_body
-    assert "Practice:" not in practice_body
+    assert 'priorityMemory: []' in html
+    assert 'progressSummary: null' in html
+    assert 'coachReview: null' in html
+    assert 'function loadPriorityMemory' in html
+    assert 'function loadProgressSummary' in html
+    assert 'function loadCoachReview' in html
+    assert 'function renderMemorySignal' in html
+    assert 'function renderMissionDebrief' in html
+    assert 'Tomorrow' in html
 
 
 def test_missing_level_shows_placement_before_today() -> None:

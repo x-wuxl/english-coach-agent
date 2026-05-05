@@ -18,4 +18,5 @@ def test_ui_route_serves_index_from_any_working_directory(tmp_path: Path) -> Non
         os.chdir(previous)
 
     assert response.status_code == 200
-    assert "function ensureDailyPlan()" in response.text
+    assert "function renderMissionLaunch()" in response.text
+    assert "Mission-led" in response.text or "Coach Studio" in response.text
