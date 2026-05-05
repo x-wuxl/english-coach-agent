@@ -3,60 +3,49 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>English Coach</title>
+    <title>English Coach - Mission-led Coach Studio</title>
     <style>
         :root {
-            --bg: #f6f7f9;
+            --app-bg: #f5f7f8;
             --surface: #ffffff;
-            --surface-muted: #f1f5f9;
-            --border: #d9dee7;
-            --border-strong: #b8c1d1;
-            --text: #172033;
-            --muted: #657083;
+            --surface-raised: #fbfcfd;
+            --line: #dce3ea;
+            --line-strong: #c7d0dc;
+            --text: #162033;
+            --muted: #687586;
+            --soft: #eef2f6;
             --primary: #2563eb;
-            --primary-hover: #1d4ed8;
-            --primary-soft: #eff6ff;
-            --success: #15803d;
-            --success-soft: #ecfdf5;
-            --warning-bg: #fff7ed;
-            --warning: #9a3412;
-            --error: #b42318;
-            --error-soft: #fef3f2;
+            --primary-strong: #1d4ed8;
+            --primary-soft: #edf4ff;
+            --green: #14845a;
+            --green-soft: #ecf8f2;
+            --amber: #a95f12;
+            --amber-soft: #fff6e8;
+            --red: #b42318;
+            --red-soft: #fef3f2;
             --radius: 8px;
-            --shadow: 0 1px 2px rgba(15, 23, 42, 0.05);
+            --shadow-subtle: 0 1px 2px rgba(15, 23, 42, 0.06);
         }
 
         * { box-sizing: border-box; }
-        html { min-height: 100%; }
+
         body {
-            min-height: 100%;
             margin: 0;
-            background: var(--bg);
+            min-height: 100dvh;
+            background: var(--app-bg);
             color: var(--text);
-            font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-            font-size: 16px;
+            font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
             line-height: 1.5;
         }
 
-        button, input, select, textarea { font: inherit; }
+        button, input, textarea, select { font: inherit; }
+
         button { cursor: pointer; }
-        button:disabled { cursor: not-allowed; opacity: 0.58; }
-        label { display: block; margin-bottom: 6px; color: var(--text); font-size: 0.88rem; font-weight: 650; }
-        input, select, textarea {
-            width: 100%;
-            border: 1px solid var(--border-strong);
-            border-radius: 6px;
-            background: var(--surface);
-            color: var(--text);
-        }
-        input, select { min-height: 44px; padding: 9px 12px; }
-        textarea { min-height: 104px; padding: 11px 12px; resize: vertical; }
-        input:focus, select:focus, textarea:focus, button:focus-visible {
-            outline: 3px solid rgba(37, 99, 235, 0.24);
-            outline-offset: 2px;
-        }
+
+        button:disabled { cursor: not-allowed; opacity: 0.65; }
 
         .hidden { display: none !important; }
+
         .sr-only {
             position: absolute;
             width: 1px;
@@ -68,453 +57,265 @@
             white-space: nowrap;
             border: 0;
         }
-        .panel {
-            background: var(--surface);
-            border: 1px solid var(--border);
-            border-radius: var(--radius);
-            box-shadow: var(--shadow);
-        }
-        .btn, .nav-btn, .ghost-btn, .choice-btn {
-            min-height: 44px;
-            border-radius: 6px;
-            border: 1px solid transparent;
-            padding: 9px 14px;
-            font-weight: 650;
-            transition: background 160ms ease, border-color 160ms ease, color 160ms ease, transform 120ms ease;
-        }
-        .btn:active, .nav-btn:active, .ghost-btn:active, .choice-btn:active { transform: scale(0.98); }
-        .btn { background: var(--surface); border-color: var(--border-strong); color: var(--text); }
-        .btn:hover { border-color: var(--primary); }
-        .btn-primary { background: var(--primary); border-color: var(--primary); color: #ffffff; }
-        .btn-primary:hover { background: var(--primary-hover); border-color: var(--primary-hover); }
-        .ghost-btn { background: transparent; border-color: var(--border); color: var(--text); }
-        .ghost-btn:hover { background: var(--surface-muted); }
-        .nav-btn { background: transparent; color: var(--muted); }
-        .nav-btn.active { background: var(--primary-soft); color: var(--primary); }
-        .eyebrow { margin: 0 0 4px; color: var(--muted); font-size: 0.78rem; font-weight: 750; letter-spacing: 0; text-transform: uppercase; }
-        .muted { color: var(--muted); }
-        .pill, .badge {
-            display: inline-flex;
-            align-items: center;
-            min-height: 28px;
-            border-radius: 999px;
-            padding: 3px 10px;
-            font-size: 0.82rem;
-            font-weight: 700;
-        }
-        .pill { background: var(--surface-muted); color: var(--text); }
-        .badge-gray { background: var(--surface-muted); color: var(--muted); }
-        .badge-yellow { background: var(--warning-bg); color: var(--warning); }
-        .msg { border-radius: 6px; margin-top: 12px; padding: 10px 12px; font-size: 0.92rem; }
-        .msg-error { background: var(--error-soft); border: 1px solid #fecdca; color: var(--error); }
-        .msg-info { background: var(--primary-soft); border: 1px solid #bfdbfe; color: #1e40af; }
-        .msg-success { background: var(--success-soft); border: 1px solid #bbf7d0; color: var(--success); }
 
-        .welcome-panel {
+        .entry-screen {
             min-height: 100dvh;
             display: grid;
             place-items: center;
             padding: 24px;
         }
-        .welcome-card {
-            width: min(100%, 460px);
+
+        .entry-card {
+            width: min(100%, 520px);
+            background: var(--surface);
+            border: 1px solid var(--line);
+            border-radius: var(--radius);
+            box-shadow: var(--shadow-subtle);
             padding: 28px;
-            background: var(--surface);
-            border: 1px solid var(--border);
-            border-radius: var(--radius);
-            box-shadow: var(--shadow);
         }
-        .welcome-card h1 { margin: 0; font-size: 2rem; line-height: 1.15; }
-        .welcome-card p { margin: 8px 0 22px; color: var(--muted); }
-        .entry-grid { display: grid; grid-template-columns: 1fr 150px; gap: 14px; margin-top: 14px; }
-        .entry-actions { margin-top: 18px; display: flex; justify-content: flex-end; }
 
-        .app-shell { min-height: 100dvh; }
-        .topbar {
-            min-height: 64px;
+        .entry-card h1 { margin: 0 0 10px; font-size: 32px; line-height: 1.15; }
+        .entry-card p { margin: 0 0 20px; color: var(--muted); }
+
+        .field-stack { display: grid; gap: 14px; }
+        .field label { display: block; margin-bottom: 6px; font-weight: 650; }
+
+        input, select, textarea {
+            width: 100%;
+            border: 1px solid var(--line-strong);
+            border-radius: var(--radius);
+            background: var(--surface);
+            color: var(--text);
+            padding: 11px 12px;
+        }
+
+        textarea { min-height: 132px; resize: vertical; }
+
+        input:focus, select:focus, textarea:focus, button:focus-visible {
+            outline: 3px solid rgba(37, 99, 235, 0.24);
+            outline-offset: 2px;
+        }
+
+        .entry-actions { display: flex; gap: 10px; align-items: center; margin-top: 18px; flex-wrap: wrap; }
+
+        .primary-action, .studio-action, .btn, .nav-link, .icon-btn, .choice-btn, .secondary-action {
+            min-height: 44px;
+            border-radius: var(--radius);
+            border: 1px solid transparent;
+            padding: 10px 14px;
+            font-weight: 700;
+        }
+
+        .primary-action, .studio-action, .btn-primary {
+            background: var(--primary);
+            color: white;
+            border-color: var(--primary);
+        }
+
+        .primary-action:hover, .studio-action:hover, .btn-primary:hover { background: var(--primary-strong); }
+
+        .secondary-action, .btn, .icon-btn, .choice-btn {
+            background: var(--surface);
+            color: var(--text);
+            border-color: var(--line-strong);
+        }
+
+        .msg, .empty-state, .empty-note {
+            border-radius: var(--radius);
+            padding: 12px 14px;
+            border: 1px solid var(--line);
+            background: var(--surface-raised);
+            color: var(--muted);
+        }
+
+        .msg-error { border-color: #f4b5af; background: var(--red-soft); color: var(--red); }
+        .msg-success { border-color: #b7e4ce; background: var(--green-soft); color: var(--green); }
+        .msg-info { border-color: #b9cdfa; background: var(--primary-soft); color: var(--primary-strong); }
+
+        .studio-header {
             display: grid;
-            grid-template-columns: minmax(180px, 1fr) auto minmax(180px, 1fr);
-            align-items: center;
-            gap: 24px;
-            padding: 0 28px;
-            border-bottom: 1px solid var(--border);
-            background: var(--surface);
-        }
-        .brand-title { font-size: 1.05rem; font-weight: 800; }
-        .brand-subtitle { color: var(--muted); font-size: 0.82rem; }
-        .main-nav { display: flex; gap: 6px; justify-content: center; }
-        .user-menu { display: flex; align-items: center; justify-content: flex-end; gap: 10px; }
-        #current-user-label { color: var(--muted); font-weight: 700; }
-        .main-content { max-width: 1180px; margin: 0 auto; padding: 24px; }
-        .page-panel { display: block; }
-
-        .today-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
+            grid-template-columns: 1fr auto auto;
             gap: 18px;
-            padding: 20px;
-            margin-bottom: 18px;
+            align-items: center;
+            padding: 16px 24px;
+            background: rgba(255, 255, 255, 0.92);
+            border-bottom: 1px solid var(--line);
+            position: sticky;
+            top: 0;
+            z-index: 10;
         }
-        .today-header h1, .page-heading h1 { margin: 0; font-size: 1.6rem; line-height: 1.22; }
-        .today-header p:not(.eyebrow), .page-heading p:not(.eyebrow) { margin: 6px 0 0; color: var(--muted); }
-        .today-meta { display: flex; gap: 8px; flex-wrap: wrap; justify-content: flex-end; }
-        .today-grid { display: grid; grid-template-columns: minmax(0, 1fr) 320px; gap: 18px; align-items: start; }
-        .today-plan { margin-bottom: 18px; padding: 16px; }
-        .today-plan-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 14px; margin-bottom: 14px; }
-        .today-plan-header h2 { margin: 0; font-size: 1.1rem; }
-        .today-plan-meta { display: flex; gap: 8px; flex-wrap: wrap; justify-content: flex-end; }
-        .plan-item-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
-        .plan-item-card { padding: 12px; border: 1px solid var(--border); border-radius: 8px; background: var(--surface); }
-        .plan-item-card h3 { margin: 0 0 6px; font-size: 1rem; }
-        .plan-item-card p { margin: 4px 0; color: var(--muted); font-size: 0.9rem; }
-        .plan-item-tags { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 8px; }
-        .today-plan-actions { display: flex; justify-content: flex-end; margin-top: 14px; }
-        .conversation-panel { overflow: hidden; }
-        .coach-stream {
-            min-height: 420px;
-            max-height: 56dvh;
-            overflow: auto;
-            padding: 18px;
-            background: linear-gradient(#ffffff, #fbfcfe);
-        }
-        .coach-message {
-            width: fit-content;
-            max-width: min(88%, 680px);
-            margin-bottom: 12px;
-            padding: 11px 13px;
+
+        .brand-mark { display: flex; gap: 12px; align-items: center; }
+        .brand-dot { width: 14px; height: 14px; border-radius: 50%; background: var(--primary); }
+        .brand-title { font-weight: 800; }
+        .brand-subtitle { color: var(--muted); font-size: 13px; }
+
+        .studio-nav { display: flex; gap: 8px; align-items: center; }
+        .nav-link { background: transparent; color: var(--muted); border-color: transparent; }
+        .nav-link.active { background: var(--primary-soft); color: var(--primary-strong); border-color: #b9cdfa; }
+
+        .user-menu { display: flex; align-items: center; gap: 10px; color: var(--muted); }
+
+        .studio-main { width: min(100%, 1180px); margin: 0 auto; padding: 28px 24px 44px; }
+        .mission-launch, .coach-studio, .signals-view, .mission-debrief { min-height: 420px; }
+
+        .shell-placeholder {
+            background: var(--surface);
+            border: 1px solid var(--line);
             border-radius: var(--radius);
-            overflow-wrap: anywhere;
-        }
-        .coach-message.user { margin-left: auto; background: var(--primary); color: #ffffff; }
-        .coach-message.coach { background: var(--surface-muted); color: var(--text); }
-        .message-meta { margin-top: 8px; color: var(--muted); font-size: 0.82rem; }
-        .fix-card { margin-top: 10px; border: 1px solid var(--border); border-radius: 8px; background: #ffffff; padding: 10px 12px; }
-        .fix-card h3 { margin-bottom: 6px; font-size: 0.95rem; color: var(--text); }
-        .fix-card .better { margin: 6px 0; font-weight: 700; color: var(--success); }
-        .fix-card ul { margin: 6px 0 0 18px; color: var(--muted); }
-        .composer { border-top: 1px solid var(--border); padding: 14px; background: var(--surface); }
-        .mode-selector { display: inline-flex; flex-wrap: wrap; gap: 4px; margin-bottom: 10px; padding: 4px; border-radius: var(--radius); background: var(--surface-muted); }
-        .mode-selector button { min-height: 36px; border: 0; border-radius: 6px; padding: 7px 12px; background: transparent; color: var(--muted); font-weight: 700; }
-        .mode-selector button.active { background: var(--surface); color: var(--primary); box-shadow: var(--shadow); }
-        .composer-footer { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-top: 10px; }
-        .composer-footer span { color: var(--muted); font-size: 0.88rem; }
-        .memory-side { padding: 16px; }
-        .memory-side h2 { margin: 0 0 12px; font-size: 1rem; }
-
-        .page-heading { margin-bottom: 18px; }
-        .practice-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; margin-bottom: 18px; }
-        .practice-tool { padding: 18px; }
-        .practice-tool h2, .guided-panel h2 { margin: 0 0 8px; font-size: 1.15rem; }
-        .practice-tool p { margin: 0 0 18px; color: var(--muted); }
-        .guided-panel { padding: 18px; }
-        .study-runner { padding: 18px; margin-bottom: 18px; }
-        .study-runner h2 { margin: 0 0 8px; font-size: 1.15rem; }
-        .study-card { border-top: 1px solid var(--border); margin-top: 14px; padding-top: 14px; }
-        .study-card h3 { margin: 0 0 6px; font-size: 1.1rem; }
-        .study-actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
-        .step-block { border-top: 1px solid var(--border); margin-top: 16px; padding-top: 16px; }
-        .step-block h3 { margin: 0 0 10px; font-size: 1rem; }
-        .choice-row { display: flex; flex-wrap: wrap; gap: 8px; }
-        .choice-btn { background: var(--surface); border-color: var(--border-strong); color: var(--text); }
-        .choice-btn.selected { background: var(--primary-soft); border-color: var(--primary); color: var(--primary); }
-
-        .memory-list { display: grid; gap: 12px; }
-        .memory-card { padding: 16px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow); }
-        .memory-card-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; margin-bottom: 8px; }
-        .memory-card h3 { margin: 0; font-size: 1.05rem; }
-        .memory-source, .memory-better { margin: 6px 0; color: var(--muted); }
-        .memory-card .ghost-btn { margin-top: 10px; }
-        .memory-mini-list { display: grid; gap: 10px; }
-        .memory-mini { border-top: 1px solid var(--border); padding-top: 10px; }
-        .memory-mini:first-child { border-top: 0; padding-top: 0; }
-        .memory-mini h3 { margin: 0 0 4px; font-size: 0.95rem; }
-        .memory-mini p { margin: 0; color: var(--muted); font-size: 0.88rem; }
-        .empty-state { padding: 18px; color: var(--muted); }
-        .empty-note { margin: 0; color: var(--muted); font-size: 0.92rem; }
-        .review-controls { display: flex; align-items: end; gap: 12px; padding: 16px; margin-bottom: 18px; }
-        .review-controls > div { width: 190px; }
-        .review-content { display: grid; gap: 12px; }
-        .stat-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
-        .stat-card { padding: 16px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); }
-        .stat-card .value { font-size: 1.8rem; font-weight: 800; color: var(--primary); }
-        .stat-card .label { color: var(--muted); font-size: 0.88rem; }
-
-        .entering { animation: messageIn 160ms ease-out; }
-        @keyframes messageIn {
-            from { opacity: 0; transform: translateY(6px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
-        .typing-dots { display: inline-flex; gap: 4px; align-items: center; min-height: 20px; }
-        .typing-dots span { width: 6px; height: 6px; border-radius: 50%; background: var(--muted); animation: typingDot 1s infinite ease-in-out; }
-        .typing-dots span:nth-child(2) { animation-delay: 120ms; }
-        .typing-dots span:nth-child(3) { animation-delay: 240ms; }
-        @keyframes typingDot {
-            0%, 80%, 100% { opacity: 0.35; transform: translateY(0); }
-            40% { opacity: 1; transform: translateY(-3px); }
-        }
-        .memory-updated { animation: memoryHighlight 1400ms ease-out; }
-        @keyframes memoryHighlight {
-            from { background: #ecfdf5; border-color: #86efac; }
-            to { background: var(--surface); border-color: var(--border); }
-        }
-        @media (prefers-reduced-motion: reduce) {
-            *, *::before, *::after { animation-duration: 1ms !important; transition-duration: 1ms !important; }
+            box-shadow: var(--shadow-subtle);
+            padding: 24px;
         }
 
-        @media (max-width: 900px) {
-            .topbar { grid-template-columns: 1fr; gap: 10px; padding: 14px 16px; }
-            .main-nav { justify-content: flex-start; overflow-x: auto; padding-bottom: 2px; }
-            .user-menu { justify-content: space-between; }
-            .today-grid, .practice-grid { grid-template-columns: 1fr; }
-            .plan-item-grid { grid-template-columns: 1fr; }
-            .review-controls { align-items: stretch; flex-direction: column; }
-            .review-controls > div { width: 100%; }
-        }
+        .eyebrow { margin: 0 0 8px; color: var(--primary-strong); font-size: 12px; font-weight: 800; text-transform: uppercase; letter-spacing: 0; }
+        .muted { color: var(--muted); }
+
         @media (max-width: 760px) {
-            .main-content { padding: 16px 14px; }
-            .today-header { align-items: flex-start; flex-direction: column; }
-            .today-meta { justify-content: flex-start; }
-            .composer-footer { align-items: stretch; flex-direction: column; }
-            .composer-footer .btn { width: 100%; }
-            .entry-grid, .stat-grid { grid-template-columns: 1fr; }
-            .welcome-card { padding: 22px; }
+            .studio-header { grid-template-columns: 1fr; gap: 12px; padding: 14px 16px; }
+            .studio-nav { overflow-x: auto; justify-content: flex-start; }
+            .studio-main { padding: 16px 14px; }
+            .entry-screen { padding: 14px; }
+            .entry-card { padding: 20px; }
+            .primary-action, .studio-action { width: 100%; }
         }
     </style>
 </head>
 <body>
-    <section id="welcome-panel" class="welcome-panel hidden" aria-labelledby="welcome-title">
-        <div class="welcome-card">
-            <h1 id="welcome-title">English Coach</h1>
-            <p>Start with a lightweight learning profile.</p>
-            <label for="entryUserCode">User code</label>
-            <input id="entryUserCode" type="text" placeholder="e.g. wuxl" autocomplete="off">
-            <div class="entry-grid">
-                <div>
+    <section id="welcome-panel" class="entry-screen">
+        <div class="entry-card">
+            <p class="eyebrow">Mission-led English Coach</p>
+            <h1>Start today's AI practice mission.</h1>
+            <p>Enter a user code to load your real plan, coach memory, progress, and review data.</p>
+            <div class="field-stack">
+                <div class="field">
+                    <label for="entryUserCode">User code</label>
+                    <input id="entryUserCode" autocomplete="username" placeholder="for example: wuxianglong">
+                </div>
+                <div class="field">
                     <label for="entryGoal">Goal</label>
                     <select id="entryGoal">
-                        <option value="GENERAL">General</option>
-                        <option value="WORK">Workplace</option>
+                        <option value="WORKPLACE">Workplace English</option>
+                        <option value="GENERAL">General fluency</option>
+                        <option value="TRAVEL">Travel English</option>
                     </select>
                 </div>
-                <div>
+                <div class="field">
                     <label for="entryDailyMinutes">Daily minutes</label>
-                    <input id="entryDailyMinutes" type="number" min="5" max="180" value="10">
+                    <input id="entryDailyMinutes" type="number" min="5" max="60" step="5" value="10">
                 </div>
             </div>
-            <div id="entry-msg" aria-live="polite"></div>
             <div class="entry-actions">
-                <button class="btn btn-primary" id="entryContinueBtn" onclick="continueWithUser()">Continue</button>
+                <button id="entryContinueBtn" class="primary-action" onclick="continueWithUser()">Continue</button>
             </div>
+            <div id="entry-msg" aria-live="polite"></div>
         </div>
     </section>
 
-    <section id="placement-panel" class="welcome-panel hidden">
-        <div class="welcome-card">
+    <section id="placement-panel" class="entry-screen hidden">
+        <div class="entry-card">
             <p class="eyebrow">Placement</p>
-            <h1>Find your starting level</h1>
+            <h1>Set your starting level.</h1>
+            <p>The result is submitted to the existing placement API before the mission opens.</p>
             <div id="placement-content" aria-live="polite"></div>
         </div>
     </section>
 
     <div id="app-shell" class="app-shell hidden">
-        <header class="topbar">
-            <div class="brand-block">
-                <div class="brand-title">English Coach</div>
-                <div class="brand-subtitle">Daily English practice</div>
+        <header class="studio-header">
+            <div class="brand-mark">
+                <span class="brand-dot" aria-hidden="true"></span>
+                <div>
+                    <div class="brand-title">English Coach</div>
+                    <div class="brand-subtitle">Mission-led AI practice</div>
+                </div>
             </div>
-            <nav class="main-nav" aria-label="Main navigation">
-                <button class="nav-btn active" data-page="today" onclick="showPage('today')">Today</button>
-                <button class="nav-btn" data-page="practice" onclick="showPage('practice')">Practice</button>
-                <button class="nav-btn" data-page="memory" onclick="showPage('memory')">Memory</button>
-                <button class="nav-btn" data-page="progress" onclick="showPage('progress')">Progress</button>
+            <nav class="studio-nav" aria-label="Coach workspace navigation">
+                <button class="nav-link active" data-studio-view="mission" onclick="showStudioView('mission')">Coach Studio</button>
+                <button class="nav-link" data-studio-view="signals" onclick="showStudioView('signals')">Memory Signals</button>
+                <button class="nav-link" data-studio-view="debrief" onclick="showStudioView('debrief')">Mission Debrief</button>
             </nav>
             <div class="user-menu">
                 <span id="current-user-label">-</span>
-                <button class="ghost-btn" onclick="switchUser()">Switch</button>
+                <button class="icon-btn" onclick="switchUser()" aria-label="Switch user">Switch</button>
             </div>
         </header>
 
-        <main class="main-content">
-            <section data-page-panel="today" id="page-today" class="page-panel">
-                <div class="today-header panel">
-                    <div>
-                        <p class="eyebrow">Today</p>
-                        <h1 id="today-title">Build useful English sentences</h1>
-                        <p id="today-subtitle">Practice for 10 minutes with your coach.</p>
-                    </div>
-                    <div class="today-meta">
-                        <span id="today-goal-pill" class="pill">General</span>
-                        <span id="today-level-pill" class="pill">Level pending</span>
-                    </div>
-                </div>
-                <section id="today-plan" class="today-plan panel" aria-live="polite"></section>
-                <div class="today-grid">
-                    <section class="conversation-panel panel" aria-label="Coach conversation">
-                        <div id="coach-stream" class="coach-stream" aria-live="polite"></div>
-                        <div id="coach-error" class="hidden" aria-live="polite"></div>
-                        <div class="composer">
-                            <div class="mode-selector" aria-label="Coach mode">
-                                <button id="coach-mode-chat" class="active" onclick="setCoachMode('CHAT')">Chat</button>
-                                <button id="coach-mode-fix" onclick="setCoachMode('FIX')">Fix sentence</button>
-                                <button id="coach-mode-drill" onclick="setCoachMode('DRILL')">Guided</button>
-                            </div>
-                            <label class="sr-only" for="coach-input">Message</label>
-                            <textarea id="coach-input" placeholder="Write your English here..."></textarea>
-                            <div class="composer-footer">
-                                <span id="composer-hint">Enter sends. Shift+Enter starts a new line.</span>
-                                <button id="sendCoachBtn" class="btn btn-primary" onclick="submitCoachTurn()">Send</button>
-                            </div>
-                        </div>
-                    </section>
-                    <aside class="memory-side panel" id="priority-memory" aria-live="polite"></aside>
-                </div>
-            </section>
-
-            <section data-page-panel="practice" id="page-practice" class="page-panel hidden">
-                <div class="page-heading">
-                    <p class="eyebrow">Practice</p>
-                    <h1>Choose how you want to practice</h1>
-                </div>
-                <div class="practice-grid">
-                    <article class="practice-tool panel">
-                        <h2>Guided Practice</h2>
-                        <p>Build useful sentences step by step.</p>
-                        <button class="btn btn-primary" onclick="startGuidedPractice()">Start guided practice</button>
-                    </article>
-                    <article class="practice-tool panel">
-                        <h2>Fix My Sentence</h2>
-                        <p>Paste one sentence and improve it.</p>
-                        <button class="btn" onclick="startFixPractice()">Fix a sentence</button>
-                    </article>
-                    <article class="practice-tool panel">
-                        <h2>Drill Memory</h2>
-                        <p>Practice your saved weak points.</p>
-                        <button class="btn" onclick="startMemoryDrill()">Choose memory</button>
-                    </article>
-                </div>
-                <section id="study-runner-panel" class="study-runner panel hidden" aria-live="polite"></section>
-                <section id="guided-practice-panel" class="guided-panel panel hidden"></section>
-            </section>
-
-            <section data-page-panel="memory" id="page-memory" class="page-panel hidden">
-                <div class="page-heading">
-                    <p class="eyebrow">Memory</p>
-                    <h1>Your learning notebook</h1>
-                </div>
-                <section id="memory-drill-panel" class="guided-panel panel hidden" aria-live="polite"></section>
-                <div id="memory-page-list" class="memory-list"></div>
-            </section>
-
-            <section data-page-panel="progress" id="page-progress" class="page-panel hidden">
-                <div class="page-heading">
-                    <p class="eyebrow">Progress</p>
-                    <h1>Your learning review</h1>
-                </div>
-                <div id="progress-summary" class="review-content" aria-live="polite"></div>
-                <div class="review-controls panel">
-                    <div>
-                        <label for="coachReviewStart">Start</label>
-                        <input type="date" id="coachReviewStart">
-                    </div>
-                    <div>
-                        <label for="coachReviewEnd">End</label>
-                        <input type="date" id="coachReviewEnd">
-                    </div>
-                    <button class="btn btn-primary" onclick="loadCoachReview()">Load review</button>
-                </div>
-                <div id="coach-review-content" class="review-content" aria-live="polite"></div>
-            </section>
+        <main class="studio-main">
+            <div id="coach-error" class="hidden" aria-live="polite"></div>
+            <section id="mission-launch" class="mission-launch" aria-live="polite"></section>
+            <section id="coach-studio" class="coach-studio hidden" aria-live="polite"></section>
+            <section id="memory-signals-view" class="signals-view hidden" aria-live="polite"></section>
+            <section id="mission-debrief" class="mission-debrief hidden" aria-live="polite"></section>
         </main>
     </div>
 
     <script>
         const JAVA_BASE = 'http://localhost:8080';
-        const STORAGE_KEYS = {
-            userId: 'englishCoach.currentUserId',
-            userCode: 'englishCoach.currentUserCode',
-            goal: 'englishCoach.currentUserGoal',
-            dailyMinutes: 'englishCoach.currentDailyMinutes',
-            overallLevel: 'englishCoach.currentOverallLevel'
-        };
+        const STORAGE_KEY = 'englishCoach.currentUserId';
+
+        const placementQuestions = [
+            { section: 'grammar', questionId: 'present_simple', prompt: 'I usually ___ coffee in the morning.' },
+            { section: 'grammar', questionId: 'past_simple', prompt: 'Yesterday I ___ a message to my manager.' },
+            { section: 'vocabulary', questionId: 'workplace_need', prompt: 'Choose the natural sentence for asking support at work.' },
+            { section: 'listening', questionId: 'short_instruction', prompt: 'Understand a short workplace instruction.' },
+            { section: 'output', questionId: 'sentence_building', prompt: 'Make one complete sentence about your plan.' },
+            { section: 'output', questionId: 'follow_up', prompt: 'Add a reason or deadline to the same idea.' }
+        ];
 
         const appState = {
             user: null,
-            coachSessionId: null,
+            placementAnswers: [],
+            dailyPlan: null,
+            mission: null,
+            missionStep: 'launch',
+            missionSteps: ['Warm-up', 'Build', 'Output', 'Fix', 'Lock-in', 'Debrief'],
+            studioMode: 'Guided Output',
             coachMode: 'CHAT',
+            coachSessionId: null,
             coachMessages: [],
             priorityMemory: [],
-            sending: false,
-            dailyPlan: null,
-            studySession: null,
-            studyQueue: [],
-            studyIndex: 0,
-            studyAttempts: [],
-            todayLoading: false,
             progressSummary: null,
-            memoryDrill: null,
-            placementAnswers: []
-        };
-
-        const placementQuestions = [
-            { section: 'vocab', questionId: 'v1', prompt: 'Choose: prepare means 准备.', answer: 'CORRECT' },
-            { section: 'vocab', questionId: 'v2', prompt: 'Choose: join means 加入.', answer: 'CORRECT' },
-            { section: 'grammar', questionId: 'g1', prompt: 'Is this natural? I need to prepare the demo.', answer: 'CORRECT' },
-            { section: 'grammar', questionId: 'g2', prompt: 'Is this natural? I need prepare the demo.', answer: 'WRONG' },
-            { section: 'reading', questionId: 'r1', prompt: 'I have a meeting at 3. The meeting is at 3.', answer: 'CORRECT' },
-            { section: 'output', questionId: 'o1', prompt: 'Write or choose a useful work sentence.', answer: 'CORRECT' }
-        ];
-
-        const guidedPractice = {
-            sourceItem: null,
-            expression: '',
-            meaning: '',
-            pattern: '',
-            examples: [],
-            step: 1,
-            baseSentence: '',
-            expandedSentence: '',
-            ownSentence: ''
+            coachReview: null,
+            memorySignal: null,
+            lastCorrection: null,
+            sending: false,
+            loadingPlan: false
         };
 
         document.addEventListener('DOMContentLoaded', initApp);
 
         async function initApp() {
-            wireKeyboardShortcuts();
-            setDefaultReviewDates();
-            appState.user = loadStoredUser();
-            if (!appState.user) {
-                showWelcome();
+            const stored = loadStoredUser();
+            if (stored) {
+                appState.user = stored;
+                document.getElementById('entryUserCode').value = stored.userCode || '';
+                try {
+                    await enterApp();
+                } catch (error) {
+                    clearCurrentUser();
+                    showWelcome();
+                    showMsg('entry-msg', formatApiError(error), 'error');
+                }
                 return;
             }
-            await enterApp();
+            showWelcome();
         }
 
         function loadStoredUser() {
-            const id = localStorage.getItem(STORAGE_KEYS.userId);
-            const userCode = localStorage.getItem(STORAGE_KEYS.userCode);
-            if (!id || !userCode) return null;
-            return {
-                id: Number(id),
-                userCode,
-                goal: localStorage.getItem(STORAGE_KEYS.goal) || 'GENERAL',
-                dailyMinutes: Number(localStorage.getItem(STORAGE_KEYS.dailyMinutes) || 10),
-                overallLevel: localStorage.getItem(STORAGE_KEYS.overallLevel) || null
-            };
+            try {
+                const raw = localStorage.getItem(STORAGE_KEY);
+                return raw ? JSON.parse(raw) : null;
+            } catch (error) {
+                return null;
+            }
         }
 
         function storeCurrentUser(user) {
-            localStorage.setItem(STORAGE_KEYS.userId, String(user.id));
-            localStorage.setItem(STORAGE_KEYS.userCode, user.userCode);
-            localStorage.setItem(STORAGE_KEYS.goal, user.goal || 'GENERAL');
-            localStorage.setItem(STORAGE_KEYS.dailyMinutes, String(user.dailyMinutes || 10));
-            if (user.overallLevel) localStorage.setItem(STORAGE_KEYS.overallLevel, user.overallLevel);
+            localStorage.setItem(STORAGE_KEY, JSON.stringify(user));
         }
 
         function clearCurrentUser() {
-            Object.values(STORAGE_KEYS).forEach(key => localStorage.removeItem(key));
-            appState.user = null;
-            appState.coachSessionId = null;
+            localStorage.removeItem(STORAGE_KEY);
         }
 
         async function continueWithUser() {
@@ -532,10 +333,7 @@
                 if (data.code !== 0) {
                     data = await apiPost(`${JAVA_BASE}/api/users`, { userCode, goal, dailyMinutes });
                 }
-                if (data.code !== 0) {
-                    showMsg('entry-msg', data.message || 'Could not continue with this user code.', 'error');
-                    return;
-                }
+                if (data.code !== 0) throw new Error(data.message || 'Could not continue with this user code.');
                 appState.user = normalizeUser(data.data, { userCode, goal, dailyMinutes });
                 storeCurrentUser(appState.user);
                 await enterApp();
@@ -571,12 +369,8 @@
             document.getElementById('placement-panel').classList.add('hidden');
             document.getElementById('app-shell').classList.remove('hidden');
             renderUserSummary();
-            showPage('today');
-            await Promise.all([
-                loadPriorityMemory(appState.user.id),
-                ensureDailyPlan(),
-                loadProgressSummary(appState.user.id)
-            ]);
+            showStudioView('mission');
+            renderMissionLaunch();
         }
 
         function needsPlacement(user) {
@@ -598,13 +392,13 @@
             if (!current) {
                 panel.innerHTML = `
                     <p class="muted">Six answers recorded.</p>
-                    <div class="entry-actions"><button class="btn btn-primary" onclick="submitPlacement()">Start my plan</button></div>`;
+                    <div class="entry-actions"><button class="primary-action" onclick="submitPlacement()">Start my plan</button></div>`;
                 return;
             }
             panel.innerHTML = `
                 <p class="muted">Question ${escapeHtml(answered + 1)} of ${escapeHtml(placementQuestions.length)}</p>
-                <div class="step-block"><h3>${escapeHtml(current.prompt)}</h3></div>
-                <div class="choice-row">
+                <div class="shell-placeholder"><h2>${escapeHtml(current.prompt)}</h2></div>
+                <div class="entry-actions">
                     <button class="choice-btn" onclick="answerPlacement('${current.questionId}', 'CORRECT')">Correct</button>
                     <button class="choice-btn" onclick="answerPlacement('${current.questionId}', 'WRONG')">Not yet</button>
                 </div>`;
@@ -634,15 +428,8 @@
                 if (data.code !== 0) throw new Error(data.message || 'Could not assess placement');
                 appState.user = { ...appState.user, overallLevel: data.data.overallLevel };
                 storeCurrentUser(appState.user);
-                document.getElementById('placement-panel').classList.add('hidden');
-                document.getElementById('app-shell').classList.remove('hidden');
-                renderUserSummary();
-                showPage('today');
+                await enterApp();
                 await ensureDailyPlan();
-                await Promise.all([
-                    loadPriorityMemory(appState.user.id),
-                    loadProgressSummary(appState.user.id)
-                ]);
             } catch (error) {
                 panel.innerHTML = `<div class="msg msg-error">${escapeHtml(formatApiError(error))}</div>`;
             }
@@ -650,21 +437,168 @@
 
         function switchUser() {
             clearCurrentUser();
+            appState.user = null;
+            appState.dailyPlan = null;
+            appState.mission = null;
+            appState.coachSessionId = null;
             appState.coachMessages = [];
             appState.priorityMemory = [];
-            appState.sending = false;
-            renderCoachStream();
-            renderPriorityMemory([]);
-            renderMemoryPage([]);
+            appState.progressSummary = null;
+            appState.coachReview = null;
+            appState.memorySignal = null;
+            appState.lastCorrection = null;
             showWelcome();
         }
 
-        function showPage(name) {
-            document.querySelectorAll('[data-page-panel]').forEach(el => el.classList.add('hidden'));
-            document.querySelector(`[data-page-panel="${name}"]`)?.classList.remove('hidden');
-            document.querySelectorAll('.nav-btn').forEach(btn => {
-                btn.classList.toggle('active', btn.dataset.page === name);
+        function showStudioView(view) {
+            const ids = {
+                mission: 'mission-launch',
+                studio: 'coach-studio',
+                signals: 'memory-signals-view',
+                debrief: 'mission-debrief'
+            };
+            Object.values(ids).forEach(id => document.getElementById(id)?.classList.add('hidden'));
+            document.getElementById(ids[view] || ids.mission)?.classList.remove('hidden');
+            document.querySelectorAll('.nav-link').forEach(button => {
+                const target = button.dataset.studioView;
+                button.classList.toggle('active', target === view || (view === 'studio' && target === 'mission'));
             });
+        }
+
+        async function ensureDailyPlan() {
+            if (!appState.user || appState.loadingPlan) return appState.dailyPlan;
+            appState.loadingPlan = true;
+            try {
+                const data = await apiPost(`${JAVA_BASE}/api/plans/daily:ensure`, {
+                    userId: appState.user.id,
+                    planDate: todayIsoDate(),
+                    planType: 'NORMAL'
+                });
+                if (data.code !== 0) throw new Error(data.message || 'Could not load today plan');
+                appState.dailyPlan = data.data;
+                return appState.dailyPlan;
+            } catch (error) {
+                appState.dailyPlan = null;
+                showInlineError(`Could not load today plan: ${formatApiError(error)}`);
+                return null;
+            } finally {
+                appState.loadingPlan = false;
+            }
+        }
+
+        function renderMissionLaunch() {
+            document.getElementById('mission-launch').innerHTML = `
+                <div class="shell-placeholder">
+                    <p class="eyebrow">Today's AI Mission</p>
+                    <h1>Mission-led Coach Studio</h1>
+                    <p class="muted">Your real daily plan will appear here after the mission model is composed.</p>
+                    <div class="entry-actions"><button class="primary-action" onclick="startMission()">Start mission</button></div>
+                </div>`;
+        }
+
+        async function startMission() {
+            appState.missionStep = 'Output';
+            appState.studioMode = 'Guided Output';
+            await ensureCoachSession();
+            renderCoachStudio();
+            showStudioView('studio');
+        }
+
+        function renderCoachStudio() {
+            document.getElementById('coach-studio').innerHTML = `
+                <div class="shell-placeholder">
+                    <p class="eyebrow">Coach Studio</p>
+                    <h1>Guided Output</h1>
+                    <p class="muted">The immersive exercise surface is added in the studio task.</p>
+                </div>`;
+        }
+
+        function renderCorrectionState(correction) {
+            if (!correction) return '<div class="empty-note">No correction yet.</div>';
+            return `<div class="msg msg-info">${escapeHtml(correction.note || 'Coach feedback received.')}</div>`;
+        }
+
+        function renderMemorySignal(signal) {
+            if (!signal) return '<div class="empty-state">No memory signals yet.</div>';
+            return `<div class="msg msg-info">${escapeHtml(signal.label || 'Memory signal')}</div>`;
+        }
+
+        function renderMissionDebrief() {
+            document.getElementById('mission-debrief').innerHTML = `
+                <div class="shell-placeholder">
+                    <p class="eyebrow">Mission Debrief</p>
+                    <h1>Debrief will use real review data.</h1>
+                    <p class="muted">No review has been loaded yet.</p>
+                </div>`;
+        }
+
+        async function ensureCoachSession() {
+            if (appState.coachSessionId) return appState.coachSessionId;
+            const data = await apiPost(`${JAVA_BASE}/api/coach/sessions`, {
+                userId: appState.user.id,
+                sessionType: 'TODAY_COACH'
+            });
+            if (data.code !== 0) throw new Error(data.message || 'Could not start coach session');
+            appState.coachSessionId = data.data.id;
+            return appState.coachSessionId;
+        }
+
+        async function submitCoachTurn(message) {
+            if (!appState.user || appState.sending || !message) return null;
+            appState.sending = true;
+            try {
+                const sessionId = await ensureCoachSession();
+                const data = await apiPost(`${JAVA_BASE}/api/coach/sessions/${sessionId}/turns`, {
+                    mode: appState.coachMode,
+                    message
+                });
+                if (data.code !== 0) throw new Error(data.message || 'Coach request failed');
+                return data.data;
+            } catch (error) {
+                showInlineError(formatApiError(error));
+                return null;
+            } finally {
+                appState.sending = false;
+            }
+        }
+
+        async function loadPriorityMemory(userId) {
+            try {
+                const data = await apiGet(`${JAVA_BASE}/api/memory/priority?userId=${encodeURIComponent(userId || appState.user?.id)}`);
+                appState.priorityMemory = data.code === 0 ? (data.data.items || []) : [];
+            } catch (error) {
+                appState.priorityMemory = [];
+                showInlineError(`Could not load memory: ${formatApiError(error)}`);
+            }
+            return appState.priorityMemory;
+        }
+
+        async function loadProgressSummary() {
+            const userId = appState.user?.id;
+            if (!userId) return null;
+            try {
+                const data = await apiGet(`${JAVA_BASE}/api/progress/summary?userId=${encodeURIComponent(userId)}`);
+                if (data.code !== 0) throw new Error(data.message || 'Could not load progress');
+                appState.progressSummary = data.data;
+            } catch (error) {
+                appState.progressSummary = null;
+                showInlineError(`Could not load progress: ${formatApiError(error)}`);
+            }
+            return appState.progressSummary;
+        }
+
+        async function loadCoachReview() {
+            if (!appState.user) return null;
+            const date = todayIsoDate();
+            try {
+                const data = await apiGet(`${JAVA_BASE}/api/coach/review?userId=${encodeURIComponent(appState.user.id)}&startDate=${encodeURIComponent(date)}&endDate=${encodeURIComponent(date)}`);
+                if (data.code !== 0) throw new Error(data.message || 'Could not load review');
+                appState.coachReview = data.data;
+            } catch (error) {
+                appState.coachReview = null;
+                showInlineError(`Could not load review: ${formatApiError(error)}`);
+            }
+            return appState.coachReview;
         }
 
         async function apiGet(url) {
@@ -694,25 +628,13 @@
                 try {
                     data = JSON.parse(raw);
                 } catch (error) {
-                    throw new ApiError('Response was not valid JSON', {
-                        url,
-                        method: options.method || 'GET',
-                        status: response.status,
-                        body: raw.slice(0, 500)
-                    });
+                    throw new ApiError('Response was not valid JSON', { url, method: options.method || 'GET', status: response.status, body: raw.slice(0, 500) });
                 }
             }
 
             if (!response.ok) {
-                throw new ApiError(`HTTP ${response.status}`, {
-                    url,
-                    method: options.method || 'GET',
-                    status: response.status,
-                    body: raw.slice(0, 500),
-                    response: data
-                });
+                throw new ApiError(`HTTP ${response.status}`, { url, method: options.method || 'GET', status: response.status, body: raw.slice(0, 500), response: data });
             }
-
             return data;
         }
 
@@ -724,797 +646,13 @@
             }
         }
 
-        function formatApiError(error) {
-            if (!(error instanceof ApiError)) return error.message || String(error);
-            const detail = error.details || {};
-            const responseMessage = detail.response && detail.response.message ? detail.response.message : '';
-            const parts = [error.message];
-            if (responseMessage) parts.push(responseMessage);
-            if (detail.method && detail.url) parts.push(`${detail.method} ${detail.url}`);
-            if (detail.body && !responseMessage) parts.push(detail.body);
-            return parts.join(' | ');
-        }
-
         function renderUserSummary() {
             if (!appState.user) return;
-            document.getElementById('current-user-label').textContent = appState.user.userCode;
-            document.getElementById('today-goal-pill').textContent = formatGoal(appState.user.goal);
-            document.getElementById('today-level-pill').textContent = appState.user.overallLevel || 'Level pending';
-            document.getElementById('today-subtitle').textContent = `Practice for ${appState.user.dailyMinutes || 10} minutes with your coach.`;
-            if (!appState.coachMessages.length) {
-                appState.coachMessages = [{ id: createId(), role: 'coach', text: 'Write one sentence in English. I will help you improve it.' }];
-            }
-            renderCoachStream();
-        }
-
-        async function ensureDailyPlan() {
-            if (!appState.user || appState.todayLoading) return appState.dailyPlan;
-            appState.todayLoading = true;
-            renderTodayPlan();
-            try {
-                const data = await apiPost(`${JAVA_BASE}/api/plans/daily:ensure`, {
-                    userId: appState.user.id,
-                    planDate: todayIsoDate(),
-                    planType: 'NORMAL'
-                });
-                if (data.code !== 0) throw new Error(data.message || 'Could not load today plan');
-                appState.dailyPlan = data.data;
-                appState.studyQueue = [
-                    ...(appState.dailyPlan.newItems || []),
-                    ...(appState.dailyPlan.reviewItems || [])
-                ];
-                appState.studyIndex = 0;
-                appState.studyAttempts = [];
-            } catch (error) {
-                appState.dailyPlan = null;
-                appState.studyQueue = [];
-                showInlineError(`Could not load today plan: ${formatApiError(error)}`);
-            } finally {
-                appState.todayLoading = false;
-                renderTodayPlan();
-            }
-            return appState.dailyPlan;
-        }
-
-        function renderTodayPlan() {
-            const panel = document.getElementById('today-plan');
-            if (!panel) return;
-            if (appState.todayLoading) {
-                panel.innerHTML = '<div class="empty-note">Loading today plan...</div>';
-                return;
-            }
-            if (!appState.dailyPlan) {
-                panel.innerHTML = '<div class="empty-note">Today plan will load automatically after you enter.</div>';
-                return;
-            }
-            const plan = appState.dailyPlan;
-            const items = appState.studyQueue || [];
-            panel.innerHTML = `
-                <div class="today-plan-header">
-                    <div>
-                        <p class="eyebrow">Daily Plan</p>
-                        <h2>${escapeHtml(plan.planDate || todayIsoDate())}</h2>
-                        <p class="muted">${escapeHtml(plan.status || 'ACTIVE')} plan from real learning items.</p>
-                    </div>
-                    <div class="today-plan-meta">
-                        <span class="pill">New ${escapeHtml((plan.newItems || []).length)}</span>
-                        <span class="pill">Review ${escapeHtml((plan.reviewItems || []).length)}</span>
-                    </div>
-                </div>
-                <div class="plan-item-grid">
-                    ${items.slice(0, 6).map(renderPlanItemCard).join('')}
-                </div>
-                <div class="today-plan-actions">
-                    <button class="btn btn-primary" onclick="startTodayStudy()" ${items.length ? '' : 'disabled'}>Start today</button>
-                </div>`;
-        }
-
-        function renderPlanItemCard(item) {
-            const example = Array.isArray(item.examples) && item.examples.length ? item.examples[0] : null;
-            return `<article class="plan-item-card">
-                <h3>${escapeHtml(item.content || item.itemCode || '-')}</h3>
-                <p>${escapeHtml(item.meaningZh || 'No Chinese meaning yet')}</p>
-                ${example && example.en ? `<p>${escapeHtml(example.en)}</p>` : ''}
-                <div class="plan-item-tags">
-                    <span class="badge badge-gray">${escapeHtml(item.itemRole || 'ITEM')}</span>
-                    <span class="badge badge-gray">${escapeHtml(item.theme || '-')}</span>
-                    <span class="badge badge-gray">D${escapeHtml(item.difficulty || '-')}</span>
-                </div>
-            </article>`;
+            document.getElementById('current-user-label').textContent = appState.user.userCode || '-';
         }
 
         function todayIsoDate() {
             return new Date().toISOString().slice(0, 10);
-        }
-
-        async function startTodayStudy() {
-            if (!appState.user) return;
-            clearInlineError();
-            showPage('practice');
-            document.getElementById('guided-practice-panel')?.classList.add('hidden');
-            document.getElementById('study-runner-panel')?.classList.remove('hidden');
-
-            try {
-                if (!appState.dailyPlan || !(appState.studyQueue || []).length) {
-                    await ensureDailyPlan();
-                }
-                const queue = appState.studyQueue || [];
-                appState.studyIndex = 0;
-                appState.studyAttempts = [];
-                appState.studySession = null;
-
-                if (!queue.length) {
-                    renderStudyRunner();
-                    return;
-                }
-
-                renderStudyRunner();
-                const data = await apiPost(`${JAVA_BASE}/api/sessions/start`, {
-                    userId: appState.user.id,
-                    sessionType: 'DAILY_LEARNING',
-                    focusTheme: queue.find(item => item.theme)?.theme || appState.user.goal || 'daily_life'
-                });
-                if (data.code !== 0) throw new Error(data.message || 'Could not start study session');
-                appState.studySession = data.data;
-                renderStudyRunner();
-            } catch (error) {
-                appState.studySession = null;
-                document.getElementById('study-runner-panel').innerHTML = `<div class="msg msg-error">${escapeHtml(formatApiError(error))}</div>`;
-            }
-        }
-
-        function renderStudyRunner() {
-            const panel = document.getElementById('study-runner-panel');
-            if (!panel) return;
-            const queue = appState.studyQueue || [];
-            panel.classList.remove('hidden');
-
-            if (!queue.length) {
-                panel.innerHTML = '<div class="empty-note">No learning items are available for today.</div>';
-                return;
-            }
-
-            if (!appState.studySession) {
-                panel.innerHTML = '<div class="empty-note">Starting your study session...</div>';
-                return;
-            }
-
-            if (appState.studyIndex >= queue.length) {
-                panel.innerHTML = `
-                    <p class="eyebrow">Daily Learning</p>
-                    <h2>All items answered</h2>
-                    <p class="muted">Submitting ${escapeHtml(appState.studyAttempts.length)} attempts and updating mastery.</p>
-                    <div class="study-actions"><button class="btn btn-primary" onclick="finishStudySession()">Finish session</button></div>`;
-                return;
-            }
-
-            const item = queue[appState.studyIndex];
-            panel.innerHTML = `
-                <p class="eyebrow">Daily Learning</p>
-                <h2>Item ${escapeHtml(appState.studyIndex + 1)} of ${escapeHtml(queue.length)}</h2>
-                <p class="muted">Session ${escapeHtml(appState.studySession.sessionCode || appState.studySession.id || '-')}</p>
-                ${renderStudyCard(item)}`;
-        }
-
-        function renderStudyCard(item) {
-            const mode = chooseStudyMode(item);
-            const startedAt = Date.now();
-            const answerId = `studyAnswer-${appState.studyIndex}`;
-            const meaning = item.meaningZh || 'No Chinese meaning yet';
-            const content = item.content || item.itemCode || '';
-            const example = Array.isArray(item.examples) && item.examples.length ? item.examples[0] : null;
-            const meta = `
-                <div class="plan-item-tags">
-                    <span class="badge badge-gray">${escapeHtml(mode)}</span>
-                    <span class="badge badge-gray">${escapeHtml(item.theme || '-')}</span>
-                    <span class="badge badge-gray">D${escapeHtml(item.difficulty || '-')}</span>
-                </div>`;
-
-            if (mode === 'cn_to_en') {
-                return `<article class="study-card">
-                    <h3>${escapeHtml(meaning)}</h3>
-                    <p class="muted">Type the English expression.</p>
-                    ${meta}
-                    <label class="sr-only" for="${answerId}">English answer</label>
-                    <input id="${answerId}" autocomplete="off" placeholder="${escapeHtml(content || 'Write the English here')}">
-                    <div class="study-actions">
-                        <button class="btn btn-primary" onclick="recordStudyAttempt(appState.studyQueue[appState.studyIndex], '${mode}', isStudyAnswerCorrect(document.getElementById('${answerId}').value, appState.studyQueue[appState.studyIndex]) ? 'CORRECT' : 'WRONG', document.getElementById('${answerId}').value, ${startedAt})">Submit</button>
-                        <button class="ghost-btn" onclick="recordStudyAttempt(appState.studyQueue[appState.studyIndex], '${mode}', 'WRONG', document.getElementById('${answerId}').value, ${startedAt})">Skip</button>
-                    </div>
-                </article>`;
-            }
-
-            if (mode === 'sentence_building') {
-                return `<article class="study-card">
-                    <h3>Use: ${escapeHtml(content)}</h3>
-                    <p class="muted">Meaning: ${escapeHtml(meaning)}</p>
-                    ${example && example.en ? `<p>${escapeHtml(example.en)}</p>` : ''}
-                    ${meta}
-                    <label class="sr-only" for="${answerId}">Your sentence</label>
-                    <textarea id="${answerId}" placeholder="Write one sentence using this expression."></textarea>
-                    <div class="study-actions">
-                        <button class="btn btn-primary" onclick="recordStudyAttempt(appState.studyQueue[appState.studyIndex], '${mode}', document.getElementById('${answerId}').value.trim() ? 'CORRECT' : 'WRONG', document.getElementById('${answerId}').value, ${startedAt})">Submit sentence</button>
-                        <button class="ghost-btn" onclick="recordStudyAttempt(appState.studyQueue[appState.studyIndex], '${mode}', 'WRONG', document.getElementById('${answerId}').value, ${startedAt})">Skip</button>
-                    </div>
-                </article>`;
-            }
-
-            return `<article class="study-card">
-                <h3>${escapeHtml(content)}</h3>
-                <p class="muted">${escapeHtml(meaning)}</p>
-                ${example && example.en ? `<p>${escapeHtml(example.en)}</p>` : ''}
-                ${meta}
-                <div class="study-actions">
-                    <button class="btn btn-primary" onclick="recordStudyAttempt(appState.studyQueue[appState.studyIndex], '${mode}', 'CORRECT', appState.studyQueue[appState.studyIndex].content || '', ${startedAt})">I know it</button>
-                    <button class="ghost-btn" onclick="recordStudyAttempt(appState.studyQueue[appState.studyIndex], '${mode}', 'WRONG', '', ${startedAt})">I don't know it</button>
-                </div>
-            </article>`;
-        }
-
-        function chooseStudyMode(item) {
-            const supported = ['recognition_quiz', 'cn_to_en', 'sentence_building'];
-            if (supported.includes(item.recommendedMode)) return item.recommendedMode;
-            return supported[appState.studyIndex % supported.length];
-        }
-
-        function recordStudyAttempt(item, mode, result, responseText, startedAt) {
-            if (!item || !item.itemId) return;
-            appState.studyAttempts.push({
-                learningItemId: Number(item.itemId),
-                mode,
-                result,
-                responseText: responseText || '',
-                responseTimeMs: Math.max(1, Date.now() - startedAt),
-                hintUsed: false
-            });
-            appState.studyIndex += 1;
-            renderStudyRunner();
-            if (appState.studyIndex >= (appState.studyQueue || []).length) {
-                finishStudySession();
-            }
-        }
-
-        async function finishStudySession() {
-            const panel = document.getElementById('study-runner-panel');
-            if (!appState.studySession || !appState.studyAttempts.length) return;
-            panel.innerHTML = '<div class="empty-note">Saving attempts and completing your session...</div>';
-            try {
-                await apiPost(`${JAVA_BASE}/api/sessions/${appState.studySession.id}/attempts`, {
-                    attempts: appState.studyAttempts
-                });
-                const data = await apiPost(`${JAVA_BASE}/api/sessions/${appState.studySession.id}/complete`, {
-                    fatigueFeedback: 'low',
-                    moodFeedback: 'positive'
-                });
-                if (data.code !== 0) throw new Error(data.message || 'Could not complete study session');
-                await Promise.all([
-                    ensureDailyPlan(),
-                    loadPriorityMemory(appState.user.id),
-                    loadProgressSummary(appState.user.id)
-                ]);
-                panel.innerHTML = `
-                    <div class="msg msg-success">Session complete. Mastery and memory have been refreshed.</div>
-                    <div class="study-actions"><button class="btn" onclick="showPage('today')">Back to Today</button></div>`;
-            } catch (error) {
-                panel.innerHTML = `<div class="msg msg-error">${escapeHtml(formatApiError(error))}</div>
-                    <div class="study-actions"><button class="btn" onclick="finishStudySession()">Retry save</button></div>`;
-            }
-        }
-
-        function normalizeStudyAnswer(value) {
-            return String(value || '').trim().toLowerCase().replace(/\s+/g, ' ');
-        }
-
-        function isStudyAnswerCorrect(responseText, item) {
-            return normalizeStudyAnswer(responseText) === normalizeStudyAnswer(item.content || item.itemCode || '');
-        }
-
-        function setCoachMode(mode) {
-            appState.coachMode = mode;
-            document.querySelectorAll('.mode-selector button').forEach(button => button.classList.remove('active'));
-            document.getElementById('coach-mode-' + mode.toLowerCase())?.classList.add('active');
-            const input = document.getElementById('coach-input');
-            input.placeholder = mode === 'CHAT'
-                ? 'Write your English here...'
-                : mode === 'FIX'
-                    ? 'Paste one English sentence to improve...'
-                    : 'Choose a memory item or type what you want to practice...';
-        }
-
-        async function ensureCoachSession() {
-            if (appState.coachSessionId) return appState.coachSessionId;
-            const data = await apiPost(`${JAVA_BASE}/api/coach/sessions`, {
-                userId: appState.user.id,
-                sessionType: 'TODAY_COACH'
-            });
-            if (data.code !== 0) throw new Error(data.message || 'Could not start coach session');
-            appState.coachSessionId = data.data.id;
-            return appState.coachSessionId;
-        }
-
-        async function submitCoachTurn(retryText) {
-            if (!appState.user || appState.sending) return;
-            const input = document.getElementById('coach-input');
-            const message = retryText || input.value.trim();
-            if (!message) return;
-
-            appState.sending = true;
-            setButtonBusy('sendCoachBtn', true, 'Sending...');
-            clearInlineError();
-            if (!retryText) input.value = '';
-
-            const userMessage = { id: createId(), role: 'user', text: message };
-            const waitingMessage = { id: createId(), role: 'coach', text: '', waiting: true };
-            appState.coachMessages.push(userMessage, waitingMessage);
-            renderCoachStream();
-
-            try {
-                const sessionId = await ensureCoachSession();
-                const data = await apiPost(`${JAVA_BASE}/api/coach/sessions/${sessionId}/turns`, {
-                    mode: appState.coachMode,
-                    message
-                });
-                if (data.code !== 0) throw new Error(data.message || 'Coach request failed');
-                Object.assign(waitingMessage, {
-                    waiting: false,
-                    text: data.data.coachReply,
-                    savedNotes: data.data.savedNotes || [],
-                    drillSuggestion: data.data.drillSuggestion,
-                    fixResponse: data.data.fixResponse
-                });
-                appState.priorityMemory = ((data.data.priorityMemory && data.data.priorityMemory.items) || []).map(item => ({ ...item, justUpdated: true }));
-                renderPriorityMemory(appState.priorityMemory);
-                renderMemoryPage(appState.priorityMemory);
-            } catch (error) {
-                waitingMessage.waiting = false;
-                waitingMessage.failed = true;
-                waitingMessage.text = 'I could not respond. Please try again.';
-                waitingMessage.retryText = message;
-                showInlineError(formatApiError(error));
-            } finally {
-                appState.sending = false;
-                setButtonBusy('sendCoachBtn', false, 'Send');
-                renderCoachStream();
-            }
-        }
-
-        function renderCoachStream() {
-            const stream = document.getElementById('coach-stream');
-            if (!stream) return;
-            stream.innerHTML = appState.coachMessages.map(message => {
-                if (message.waiting) {
-                    return '<div class="coach-message coach entering"><div class="typing-dots" aria-label="Coach is writing"><span></span><span></span><span></span></div></div>';
-                }
-                const retry = message.failed && message.retryText
-                    ? `<button class="ghost-btn" onclick="retryCoachTurn('${message.id}')">Retry</button>`
-                    : '';
-                return `
-                    <div class="coach-message ${message.role} entering">
-                        <div>${escapeHtml(message.text)}</div>
-                        ${message.fixResponse ? renderFixResponse(message.fixResponse) : ''}
-                        ${(message.savedNotes || []).map(renderSavedNote).join('')}
-                        ${message.drillSuggestion ? renderDrillSuggestion(message.drillSuggestion) : ''}
-                        ${retry}
-                    </div>`;
-            }).join('');
-            stream.scrollTop = stream.scrollHeight;
-        }
-
-        function retryCoachTurn(messageId) {
-            const failed = appState.coachMessages.find(message => message.id === messageId);
-            if (failed && failed.retryText) submitCoachTurn(failed.retryText);
-        }
-
-        async function loadPriorityMemory(userId) {
-            try {
-                const data = await apiGet(`${JAVA_BASE}/api/memory/priority?userId=${encodeURIComponent(userId)}`);
-                appState.priorityMemory = data.code === 0 ? (data.data.items || []) : [];
-            } catch (error) {
-                appState.priorityMemory = [];
-                showInlineError(`Could not load memory: ${formatApiError(error)}`);
-            }
-            renderPriorityMemory(appState.priorityMemory);
-            renderMemoryPage(appState.priorityMemory);
-        }
-
-        function renderPriorityMemory(items) {
-            const panel = document.getElementById('priority-memory');
-            if (!panel) return;
-            panel.innerHTML = '<h2>Priority Memory</h2>' + renderCompactMemoryItems(items);
-        }
-
-        function renderMemoryPage(items) {
-            const list = document.getElementById('memory-page-list');
-            if (list) list.innerHTML = renderMemoryItems(items);
-        }
-
-        function renderMemoryItems(items, options = {}) {
-            if (!items || !items.length) {
-                return '<div class="empty-state panel">No memory yet. Practice a few sentences and your coach will save useful patterns here.</div>';
-            }
-            return items.map((item, index) => `
-                <article class="memory-card ${item.justUpdated ? 'memory-updated' : ''}">
-                    <div class="memory-card-header">
-                        <h3>${escapeHtml(item.label || item.key || '-')}</h3>
-                        <span class="badge ${item.recommendedAction === 'START_DRILL' ? 'badge-yellow' : 'badge-gray'}">${escapeHtml(item.recommendedAction || 'REVIEW')}</span>
-                    </div>
-                    ${item.sourceText ? `<p class="memory-source">You wrote: ${escapeHtml(item.sourceText)}</p>` : ''}
-                    ${item.betterText ? `<p class="memory-better">Better: ${escapeHtml(item.betterText)}</p>` : ''}
-                    ${item.seenCount ? `<p class="message-meta">Seen ${escapeHtml(item.seenCount)} times</p>` : ''}
-                    ${options.compact ? '' : `<button class="ghost-btn" onclick="practiceMemory(${index})">Practice</button>`}
-                </article>`).join('');
-        }
-
-        function renderCompactMemoryItems(items) {
-            if (!items || !items.length) {
-                return '<p class="empty-note">No priority memory yet.</p>';
-            }
-            return `<div class="memory-mini-list">${items.slice(0, 5).map(item => `
-                <div class="memory-mini ${item.justUpdated ? 'memory-updated' : ''}">
-                    <h3>${escapeHtml(item.label || item.key || '-')}</h3>
-                    ${item.sourceText ? `<p>${escapeHtml(item.sourceText)}</p>` : ''}
-                </div>`).join('')}</div>`;
-        }
-
-        function practiceMemory(index) {
-            const item = appState.priorityMemory[index] || {};
-            startMemoryDrillFromItem(item);
-        }
-
-        function startMemoryDrillFromItem(item) {
-            appState.memoryDrill = {
-                item,
-                answer: '',
-                revealed: false,
-                completed: false
-            };
-            showPage('memory');
-            renderMemoryDrill();
-            document.getElementById('memoryDrillAnswer')?.focus();
-        }
-
-        function renderMemoryDrill(feedback = '') {
-            const panel = document.getElementById('memory-drill-panel');
-            if (!panel) return;
-            const drill = appState.memoryDrill;
-            if (!drill || !drill.item) {
-                panel.classList.add('hidden');
-                panel.innerHTML = '';
-                return;
-            }
-            const item = drill.item;
-            const isGap = item.memoryType === 'EXPRESSION_GAP';
-            const prompt = isGap
-                ? (item.label || 'Express this idea in English.')
-                : (item.sourceText || item.label || 'Rewrite this sentence naturally.');
-            const better = item.betterText || item.label || 'Ask the coach for a natural version.';
-            panel.classList.remove('hidden');
-            panel.innerHTML = `
-                <p class="eyebrow">Memory Drill</p>
-                <h2>${escapeHtml(isGap ? 'Expression practice' : 'Rewrite practice')}</h2>
-                <div class="step-block">
-                    <h3>${escapeHtml(prompt)}</h3>
-                    <label class="sr-only" for="memoryDrillAnswer">Memory drill answer</label>
-                    <textarea id="memoryDrillAnswer" placeholder="Write your answer here.">${escapeHtml(drill.answer || '')}</textarea>
-                    <div class="study-actions">
-                        <button class="btn btn-primary" onclick="submitMemoryDrillAttempt()">Check attempt</button>
-                        <button class="ghost-btn" onclick="revealMemoryDrillAnswer()">Reveal better example</button>
-                    </div>
-                </div>
-                ${drill.revealed ? `<div class="msg msg-info"><strong>Better:</strong> ${escapeHtml(better)}</div>` : ''}
-                ${feedback}
-                ${drill.completed ? `<div class="study-actions"><button class="btn btn-primary" onclick="sendMemoryDrillToCoach()">Send drill to coach</button></div>` : ''}`;
-        }
-
-        function submitMemoryDrillAttempt() {
-            if (!appState.memoryDrill) return;
-            const answer = document.getElementById('memoryDrillAnswer').value.trim();
-            appState.memoryDrill.answer = answer;
-            appState.memoryDrill.completed = Boolean(answer);
-            renderMemoryDrill(answer
-                ? '<div class="msg msg-success">Attempt saved locally. Compare it with the better example, then ask the coach if useful.</div>'
-                : '<div class="msg msg-error">Write an attempt first.</div>');
-        }
-
-        function revealMemoryDrillAnswer() {
-            if (!appState.memoryDrill) return;
-            appState.memoryDrill.answer = document.getElementById('memoryDrillAnswer')?.value || '';
-            appState.memoryDrill.revealed = true;
-            renderMemoryDrill();
-        }
-
-        async function sendMemoryDrillToCoach() {
-            if (!appState.memoryDrill) return;
-            const item = appState.memoryDrill.item;
-            const answer = appState.memoryDrill.answer || '';
-            showPage('today');
-            setCoachMode('DRILL');
-            document.getElementById('coach-input').value = `Memory drill: ${item.label || item.sourceText || ''}
-My answer: ${answer}`;
-            await submitCoachTurn();
-        }
-
-        function renderSavedNote(note) {
-            return `<div class="msg msg-info">Saved: ${escapeHtml(note.label || note.key || '')}</div>`;
-        }
-
-        function renderDrillSuggestion(suggestion) {
-            return `<div class="msg msg-success">${escapeHtml(suggestion.prompt || 'Practice this memory')}<div style="margin-top:8px"><button class="ghost-btn" onclick="setCoachMode('DRILL')">Start</button></div></div>`;
-        }
-
-        function renderFixResponse(fix) {
-            const changes = (fix.what_changed || []).map(change => `<li>${escapeHtml(change)}</li>`).join('');
-            return `<div class="fix-card">
-                <h3>Fix</h3>
-                ${fix.meaning_check ? `<div>${escapeHtml(fix.meaning_check)}</div>` : ''}
-                ${fix.better_english ? `<div class="better">${escapeHtml(fix.better_english)}</div>` : ''}
-                ${changes ? `<ul>${changes}</ul>` : ''}
-                ${fix.try_again_prompt ? `<div class="message-meta">${escapeHtml(fix.try_again_prompt)}</div>` : ''}
-            </div>`;
-        }
-
-        async function startGuidedPractice() {
-            showPage('practice');
-            document.getElementById('study-runner-panel')?.classList.add('hidden');
-            const panel = document.getElementById('guided-practice-panel');
-            panel.classList.remove('hidden');
-            panel.innerHTML = '<div class="empty-note">Preparing guided practice from today plan...</div>';
-            if (appState.user && (!appState.dailyPlan || !(appState.studyQueue || []).length)) {
-                await ensureDailyPlan();
-            }
-            resetGuidedPractice(buildGuidedPracticeFromItem(findGuidedPracticeItem()));
-            renderGuidedPractice();
-        }
-
-        function resetGuidedPractice(config) {
-            guidedPractice.sourceItem = config.sourceItem;
-            guidedPractice.expression = config.expression;
-            guidedPractice.meaning = config.meaning;
-            guidedPractice.pattern = config.pattern;
-            guidedPractice.examples = config.examples;
-            guidedPractice.step = 1;
-            guidedPractice.baseSentence = '';
-            guidedPractice.expandedSentence = '';
-            guidedPractice.ownSentence = '';
-        }
-
-        function findGuidedPracticeItem() {
-            const queue = appState.studyQueue || [];
-            const active = queue[appState.studyIndex];
-            if (active && active.content) return active;
-            return queue.find(item => item && item.content)
-                || [...((appState.dailyPlan && appState.dailyPlan.newItems) || []), ...((appState.dailyPlan && appState.dailyPlan.reviewItems) || [])]
-                    .find(item => item && item.content)
-                || null;
-        }
-
-        function buildGuidedPracticeFromItem(item) {
-            if (!item) {
-                return {
-                    sourceItem: null,
-                    expression: 'practice',
-                    meaning: "Use today's item in a complete sentence.",
-                    pattern: "Use today's item",
-                    examples: []
-                };
-            }
-            const expression = item.content || item.itemCode || "today's item";
-            const examples = Array.isArray(item.examples) ? item.examples.filter(example => example && example.en) : [];
-            return {
-                sourceItem: item,
-                expression,
-                meaning: item.meaningZh || 'No Chinese meaning yet',
-                pattern: `Use today's item: ${expression}`,
-                examples
-            };
-        }
-
-        function renderGuidedPractice(feedback = '') {
-            const panel = document.getElementById('guided-practice-panel');
-            const currentSentence = guidedPractice.step === 1
-                ? guidedPractice.baseSentence
-                : guidedPractice.step === 2
-                    ? guidedPractice.expandedSentence
-                    : guidedPractice.ownSentence;
-            const prompt = guidedPractice.step === 1
-                ? "Use today's item in one complete sentence."
-                : guidedPractice.step === 2
-                    ? 'Add time, person, or reason to make the sentence more useful.'
-                    : 'Write a new sentence with the same item.';
-            const actionLabel = guidedPractice.step === 1
-                ? 'Check sentence'
-                : guidedPractice.step === 2
-                    ? 'Check expanded sentence'
-                    : 'Finish practice';
-            const example = guidedPractice.examples.length ? guidedPractice.examples[0] : null;
-            panel.innerHTML = `
-                <p class="eyebrow">Guided Practice</p>
-                <h2>${escapeHtml(guidedPractice.pattern || "Use today's item")}</h2>
-                <div class="step-block">
-                    <h3>Learning item</h3>
-                    <p class="muted">${escapeHtml(guidedPractice.meaning || 'No Chinese meaning yet')}</p>
-                    ${example ? `<p>${escapeHtml(example.en)}</p>` : ''}
-                </div>
-                <div class="step-block">
-                    <h3>Step ${escapeHtml(guidedPractice.step)}: ${escapeHtml(prompt)}</h3>
-                    <label class="sr-only" for="guidedSentence">Guided sentence</label>
-                    <textarea id="guidedSentence" placeholder="${escapeHtml(buildGuidedPlaceholder())}">${escapeHtml(currentSentence)}</textarea>
-                    <div class="study-actions"><button class="btn btn-primary" onclick="submitGuidedSentence()">${escapeHtml(actionLabel)}</button></div>
-                </div>
-                <div id="guided-feedback" aria-live="polite">${feedback}</div>`;
-        }
-
-        function buildGuidedPlaceholder() {
-            const expression = guidedPractice.expression || "today's item";
-            if (expression.startsWith("'d ")) {
-                return `I'd ${expression.slice(3)} ...`;
-            }
-            if (expression.startsWith("'")) {
-                return `Use ${expression} in a full sentence.`;
-            }
-            return `Write one sentence using ${expression}.`;
-        }
-
-        function checkGuidedPattern(sentence) {
-            const normalized = normalizeStudyAnswer(sentence);
-            const expression = normalizeStudyAnswer(guidedPractice.expression || '');
-            if (!normalized || normalized.split(' ').length < 3) return false;
-            if (!expression || expression === 'practice') return true;
-            return normalized.includes(expression);
-        }
-
-        async function submitGuidedSentence() {
-            const sentence = document.getElementById('guidedSentence').value.trim();
-            if (!sentence) {
-                renderGuidedPractice('<div class="msg msg-error">Write a sentence first.</div>');
-                return;
-            }
-
-            if (guidedPractice.step === 1) {
-                guidedPractice.baseSentence = sentence;
-                if (!checkGuidedPattern(sentence)) {
-                    renderGuidedPractice(`<div class="msg msg-error">Use today's item: ${escapeHtml(guidedPractice.expression)}.</div>`);
-                    return;
-                }
-                guidedPractice.step = 2;
-                guidedPractice.expandedSentence = `${sentence.replace(/[.。!?！？]*$/, '')} before Friday.`;
-                renderGuidedPractice('<div class="msg msg-success">Good base sentence. Add time, person, or reason next.</div>');
-                return;
-            }
-
-            if (guidedPractice.step === 2) {
-                guidedPractice.expandedSentence = sentence;
-                if (!checkGuidedPattern(sentence)) {
-                    renderGuidedPractice(`<div class="msg msg-error">Keep using today's item: ${escapeHtml(guidedPractice.expression)}.</div>`);
-                    return;
-                }
-                if (normalizeStudyAnswer(sentence) === normalizeStudyAnswer(guidedPractice.baseSentence)) {
-                    renderGuidedPractice('<div class="msg msg-error">Make it longer by adding time, person, or reason.</div>');
-                    return;
-                }
-                guidedPractice.step = 3;
-                guidedPractice.ownSentence = '';
-                renderGuidedPractice('<div class="msg msg-success">Now write a new sentence with the same item.</div>');
-                return;
-            }
-
-            guidedPractice.ownSentence = sentence;
-            const coachPayload = escapeHtml(sentence);
-            renderGuidedPractice(`
-                <div class="msg msg-success">Nice. You can keep practicing here or ask the coach for a deeper review.</div>
-                <div class="study-actions">
-                    <button class="btn btn-primary" onclick="sendGuidedSentenceToCoach('${encodeURIComponent(sentence)}', 'DRILL')">Send to coach</button>
-                    <button class="ghost-btn" onclick="sendGuidedSentenceToCoach('${encodeURIComponent(sentence)}', 'FIX')">Fix this sentence</button>
-                </div>
-                <p class="message-meta">Your sentence: ${coachPayload}</p>`);
-        }
-
-        async function sendGuidedSentenceToCoach(encodedSentence, mode) {
-            const sentence = decodeURIComponent(encodedSentence);
-            showPage('today');
-            setCoachMode(mode);
-            document.getElementById('coach-input').value = mode === 'DRILL'
-                ? `Practice this pattern with me: ${sentence}`
-                : sentence;
-            await submitCoachTurn();
-        }
-
-        function startFixPractice() {
-            showPage('today');
-            setCoachMode('FIX');
-            document.getElementById('coach-input').focus();
-        }
-
-        function startMemoryDrill() {
-            showPage('memory');
-            if (!appState.memoryDrill) {
-                document.getElementById('memory-drill-panel')?.classList.add('hidden');
-            }
-        }
-
-
-        async function loadProgressSummary() {
-            const userId = appState.user?.id;
-            const panel = document.getElementById('progress-summary');
-            if (!userId || !panel) return;
-            panel.innerHTML = '<div class="empty-state panel">Loading progress...</div>';
-            try {
-                const data = await apiGet(`${JAVA_BASE}/api/progress/summary?userId=${encodeURIComponent(userId)}`);
-                if (data.code !== 0) throw new Error(data.message || 'Could not load progress');
-                appState.progressSummary = data.data;
-                renderProgressSummary(appState.progressSummary);
-            } catch (error) {
-                appState.progressSummary = null;
-                panel.innerHTML = `<div class="msg msg-error">${escapeHtml(formatApiError(error))}</div>`;
-            }
-        }
-
-        function renderProgressSummary(summary) {
-            const panel = document.getElementById('progress-summary');
-            if (!panel) return;
-            if (!summary) {
-                panel.innerHTML = '<div class="empty-state panel">Progress will load automatically after you enter.</div>';
-                return;
-            }
-            const weakItems = summary.topWeakItems || [];
-            panel.innerHTML = `
-                <div class="stat-grid">
-                    <div class="stat-card"><div class="value">${escapeHtml(summary.totalMasteryItems || 0)}</div><div class="label">Total mastery</div></div>
-                    <div class="stat-card"><div class="value">${escapeHtml(summary.dueReviewCount || 0)}</div><div class="label">Due review</div></div>
-                    <div class="stat-card"><div class="value">${escapeHtml(summary.completedSessionsThisWeek || 0)}</div><div class="label">Sessions this week</div></div>
-                    <div class="stat-card"><div class="value">${escapeHtml(Math.round(Number(summary.recentAccuracy || 0) * 100))}%</div><div class="label">Recent accuracy</div></div>
-                </div>
-                ${weakItems.length ? `<div class="msg msg-info"><strong>Practice next:</strong> ${weakItems.map(item => escapeHtml(item.content || item.learningItemId)).join(', ')}</div>` : '<div class="msg msg-success">No weak items yet. Complete a study session to build progress data.</div>'}`;
-        }
-
-        async function loadCoachReview() {
-            const el = document.getElementById('coach-review-content');
-            if (!appState.user) return;
-            const start = document.getElementById('coachReviewStart').value;
-            const end = document.getElementById('coachReviewEnd').value;
-            el.innerHTML = '<div class="empty-state panel">Loading review...</div>';
-            try {
-                const data = await apiGet(`${JAVA_BASE}/api/coach/review?userId=${encodeURIComponent(appState.user.id)}&startDate=${encodeURIComponent(start)}&endDate=${encodeURIComponent(end)}`);
-                if (data.code !== 0) {
-                    el.innerHTML = `<div class="msg msg-error">${escapeHtml(data.message || 'Could not load review.')}</div>`;
-                    return;
-                }
-                const review = data.data || {};
-                renderCoachReview(review);
-            } catch (error) {
-                el.innerHTML = `<div class="msg msg-error">${escapeHtml(formatApiError(error))}</div>`;
-            }
-        }
-
-        function renderCoachReview(review) {
-            document.getElementById('coach-review-content').innerHTML = `
-                <div class="stat-grid">
-                    <div class="stat-card"><div class="value">${escapeHtml(review.conversationTurns || 0)}</div><div class="label">Conversation turns</div></div>
-                    <div class="stat-card"><div class="value">${escapeHtml(review.newMemoryCount || 0)}</div><div class="label">New memory count</div></div>
-                </div>
-                <div class="msg msg-info"><strong>Top repeated problems:</strong> ${escapeHtml((review.topRepeatedProblems || []).join(', ') || '-')}</div>
-                <div class="msg msg-info"><strong>Improved expressions:</strong> ${escapeHtml((review.improvedExpressions || []).join(', ') || '-')}</div>
-                <div class="msg msg-success"><strong>Next practice suggestion:</strong> ${escapeHtml(review.nextWeekPlan || review.nextPracticeSuggestion || '-')}</div>`;
-        }
-
-        function setDefaultReviewDates() {
-            const end = new Date();
-            const start = new Date();
-            start.setDate(end.getDate() - 7);
-            const startInput = document.getElementById('coachReviewStart');
-            const endInput = document.getElementById('coachReviewEnd');
-            if (startInput) startInput.value = start.toISOString().slice(0, 10);
-            if (endInput) endInput.value = end.toISOString().slice(0, 10);
-        }
-
-        function wireKeyboardShortcuts() {
-            const input = document.getElementById('coach-input');
-            input.addEventListener('keydown', event => {
-                if (event.key === 'Enter' && !event.shiftKey) {
-                    event.preventDefault();
-                    submitCoachTurn();
-                }
-            });
         }
 
         function setButtonBusy(id, busy, label) {
@@ -1526,14 +664,9 @@ My answer: ${answer}`;
 
         function showInlineError(message) {
             const el = document.getElementById('coach-error');
+            if (!el) return;
             el.className = 'msg msg-error';
             el.textContent = message;
-        }
-
-        function clearInlineError() {
-            const el = document.getElementById('coach-error');
-            el.className = 'hidden';
-            el.textContent = '';
         }
 
         function showMsg(id, text, type) {
@@ -1545,12 +678,15 @@ My answer: ${answer}`;
             el.appendChild(msg);
         }
 
-        function formatGoal(goal) {
-            return String(goal || 'GENERAL').toLowerCase().replace(/_/g, ' ').replace(/\b\w/g, char => char.toUpperCase());
-        }
-
-        function createId() {
-            return window.crypto && crypto.randomUUID ? crypto.randomUUID() : `msg-${Date.now()}-${Math.random().toString(16).slice(2)}`;
+        function formatApiError(error) {
+            if (!(error instanceof ApiError)) return error.message || String(error);
+            const detail = error.details || {};
+            const responseMessage = detail.response && detail.response.message ? detail.response.message : '';
+            const parts = [error.message];
+            if (responseMessage) parts.push(responseMessage);
+            if (detail.method && detail.url) parts.push(`${detail.method} ${detail.url}`);
+            if (detail.body && !responseMessage) parts.push(detail.body);
+            return parts.join(' | ');
         }
 
         function escapeHtml(value) {
