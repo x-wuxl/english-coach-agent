@@ -1,0 +1,257 @@
+[
+  {
+    "item_code": "w_073302",
+    "type": "WORD",
+    "content": "term project",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073303",
+    "type": "WORD",
+    "content": "term rent",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073316",
+    "type": "WORD",
+    "content": "terminology intersection",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073328",
+    "type": "WORD",
+    "content": "Terra Cotta Warrior",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_073337",
+    "type": "WORD",
+    "content": "terraceur",
+    "theme": "study_abroad",
+    "tags": [
+      "GMAT",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_073346",
+    "type": "WORD",
+    "content": "terrestrial evolution",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073350",
+    "type": "WORD",
+    "content": "terrestrial mammal",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073351",
+    "type": "WORD",
+    "content": "terrestrial paradise",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073353",
+    "type": "WORD",
+    "content": "terrestrial plants",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073355",
+    "type": "WORD",
+    "content": "terrible tasty",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_073357",
+    "type": "WORD",
+    "content": "terribly popular",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073367",
+    "type": "WORD",
+    "content": "territorial animal",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073369",
+    "type": "WORD",
+    "content": "territorial coordinates",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073375",
+    "type": "WORD",
+    "content": "territory humiliate carbonate",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_073377",
+    "type": "WORD",
+    "content": "terror disintegrate",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_073378",
+    "type": "WORD",
+    "content": "terror horror panic",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_073385",
+    "type": "WORD",
+    "content": "Terry Wohlers",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_073387",
+    "type": "WORD",
+    "content": "terse anachronistic",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_073401",
+    "type": "WORD",
+    "content": "Tess of d'Urbevilles",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_073408",
+    "type": "WORD",
+    "content": "test screening",
+    "theme": "TEM4",
+    "tags": [
+      "CET4",
+      "CET6",
+      "TEM4",
+      "advanced",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 4,
+    "examples": []
+  }
+]

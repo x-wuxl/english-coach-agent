@@ -1,0 +1,280 @@
+[
+  {
+    "item_code": "w_000367",
+    "type": "WORD",
+    "content": "a major solution",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000368",
+    "type": "WORD",
+    "content": "a mango",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "I am looking for a mango to eat.",
+        "zh": "我在找芒果吃。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000370",
+    "type": "WORD",
+    "content": "a master's degree",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": [
+      {
+        "en": "He got a master's degree in law.",
+        "zh": "他得到了法律碩士學位。"
+      },
+      {
+        "en": "He has a master's degree in mathematics.",
+        "zh": "他有一个数学硕士学位。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000375",
+    "type": "WORD",
+    "content": "a mature bond",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000377",
+    "type": "WORD",
+    "content": "a means of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "English is a means of communication.",
+        "zh": "英語是一種溝通的手段。"
+      },
+      {
+        "en": "He contrived a means of speaking to Nancy privately.",
+        "zh": "他用了一些手段来和Nancy私下交谈。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000379",
+    "type": "WORD",
+    "content": "a medical practitioner",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000381",
+    "type": "WORD",
+    "content": "a memorial ceremony",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000382",
+    "type": "WORD",
+    "content": "a memorial idolatrise",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_000384",
+    "type": "WORD",
+    "content": "a minor rash of",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_000385",
+    "type": "WORD",
+    "content": "a minority of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000386",
+    "type": "WORD",
+    "content": "a minute inspection",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000390",
+    "type": "WORD",
+    "content": "a mobile home",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000391",
+    "type": "WORD",
+    "content": "a mode of behavior",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000392",
+    "type": "WORD",
+    "content": "a modest policy victory",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000393",
+    "type": "WORD",
+    "content": "a money order",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000396",
+    "type": "WORD",
+    "content": "a more rounded assessment",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000398",
+    "type": "WORD",
+    "content": "a mouth",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_000399",
+    "type": "WORD",
+    "content": "a multi-faceted target audience",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000401",
+    "type": "WORD",
+    "content": "a music box",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000402",
+    "type": "WORD",
+    "content": "a naive argument",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

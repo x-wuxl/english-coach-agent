@@ -1,0 +1,260 @@
+[
+  {
+    "item_code": "w_045157",
+    "type": "WORD",
+    "content": "make more concessions",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_045159",
+    "type": "WORD",
+    "content": "make negative allegations",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_045160",
+    "type": "WORD",
+    "content": "make no answer",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_045161",
+    "type": "WORD",
+    "content": "make no attempt to",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_045169",
+    "type": "WORD",
+    "content": "make note of",
+    "theme": "zhongkao",
+    "tags": [
+      "IELTS",
+      "expert",
+      "junior",
+      "momo",
+      "zhongkao"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_045173",
+    "type": "WORD",
+    "content": "make nothing of it",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_045176",
+    "type": "WORD",
+    "content": "make of sb",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_045177",
+    "type": "WORD",
+    "content": "make of sth",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_045191",
+    "type": "WORD",
+    "content": "make one's head swim",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_045192",
+    "type": "WORD",
+    "content": "make one's judgment",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_045195",
+    "type": "WORD",
+    "content": "make one's mind up",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_045197",
+    "type": "WORD",
+    "content": "make one's own decision",
+    "theme": "junior_high",
+    "tags": [
+      "beibei",
+      "junior",
+      "momo",
+      "primary"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_045200",
+    "type": "WORD",
+    "content": "make one's position clear",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_045204",
+    "type": "WORD",
+    "content": "make one's way toward",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_045205",
+    "type": "WORD",
+    "content": "make one's way towards",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "junior",
+      "momo",
+      "senior",
+      "zhongkao"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_045209",
+    "type": "WORD",
+    "content": "make oneself miserable",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_045215",
+    "type": "WORD",
+    "content": "make out a check",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_045216",
+    "type": "WORD",
+    "content": "make out an examination",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_045221",
+    "type": "WORD",
+    "content": "make pancakes",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_045224",
+    "type": "WORD",
+    "content": "make people sick",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

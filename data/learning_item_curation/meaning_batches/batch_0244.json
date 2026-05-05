@@ -1,0 +1,272 @@
+[
+  {
+    "item_code": "w_023069",
+    "type": "WORD",
+    "content": "dénouement",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_023070",
+    "type": "WORD",
+    "content": "détente",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_023077",
+    "type": "WORD",
+    "content": "e-commerce engine",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023078",
+    "type": "WORD",
+    "content": "e-commerce poverty alleviation",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023079",
+    "type": "WORD",
+    "content": "e-commerce retailer",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023080",
+    "type": "WORD",
+    "content": "e-commerce transactions",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_023081",
+    "type": "WORD",
+    "content": "e-dog",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_023090",
+    "type": "WORD",
+    "content": "e-sale",
+    "theme": "business_english",
+    "tags": [
+      "BEC",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_023100",
+    "type": "WORD",
+    "content": "each and every one",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_023101",
+    "type": "WORD",
+    "content": "each set of circumstances",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023104",
+    "type": "WORD",
+    "content": "eager to",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "He is eager to go there.",
+        "zh": "他渴望去那里。"
+      },
+      {
+        "en": "Tom is eager to live in Boston.",
+        "zh": "汤姆急着想在波士顿住下。"
+      },
+      {
+        "en": "She is eager to live in Australia.",
+        "zh": "她渴望住在澳洲。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_023109",
+    "type": "WORD",
+    "content": "eagle embarrass terracing",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_023113",
+    "type": "WORD",
+    "content": "ean",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_023117",
+    "type": "WORD",
+    "content": "ear tube",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023124",
+    "type": "WORD",
+    "content": "eared",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023127",
+    "type": "WORD",
+    "content": "earlier humans",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023132",
+    "type": "WORD",
+    "content": "early onset of puberty",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023142",
+    "type": "WORD",
+    "content": "earn a reputation as",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023143",
+    "type": "WORD",
+    "content": "earn little from",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023144",
+    "type": "WORD",
+    "content": "earn little from ...",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

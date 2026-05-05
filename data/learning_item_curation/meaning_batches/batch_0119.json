@@ -1,0 +1,260 @@
+[
+  {
+    "item_code": "w_010176",
+    "type": "WORD",
+    "content": "bounded",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "The ball bounded away into our neighbor's garden.",
+        "zh": "球彈呀彈呀的彈進了鄰家的花園。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_010190",
+    "type": "WORD",
+    "content": "bouts",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_010191",
+    "type": "WORD",
+    "content": "Boutu",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_010196",
+    "type": "WORD",
+    "content": "bow coordination",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_010201",
+    "type": "WORD",
+    "content": "bow towards the inevitable",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_010204",
+    "type": "WORD",
+    "content": "bowdler",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_010214",
+    "type": "WORD",
+    "content": "bowl-shaped crater",
+    "theme": "toefl",
+    "tags": [
+      "IELTS",
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_010222",
+    "type": "WORD",
+    "content": "box horse",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_010225",
+    "type": "WORD",
+    "content": "box office flop",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_010226",
+    "type": "WORD",
+    "content": "box office returns",
+    "theme": "TEM8",
+    "tags": [
+      "TEM8",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_010240",
+    "type": "WORD",
+    "content": "boycott foreign products",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_010245",
+    "type": "WORD",
+    "content": "bozer",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_010249",
+    "type": "WORD",
+    "content": "bra pajamas",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_010260",
+    "type": "WORD",
+    "content": "bracing airtight teeter ignite",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_010263",
+    "type": "WORD",
+    "content": "bracket mutate",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_010264",
+    "type": "WORD",
+    "content": "bracketed",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_010276",
+    "type": "WORD",
+    "content": "braid coat room",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_010279",
+    "type": "WORD",
+    "content": "braill",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_010281",
+    "type": "WORD",
+    "content": "braille brochure",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_010284",
+    "type": "WORD",
+    "content": "brain circuits",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

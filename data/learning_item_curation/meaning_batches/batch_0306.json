@@ -1,0 +1,268 @@
+[
+  {
+    "item_code": "w_029074",
+    "type": "WORD",
+    "content": "forest sanctuary",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_029089",
+    "type": "WORD",
+    "content": "forfeit proceed",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_029094",
+    "type": "WORD",
+    "content": "forge closer collaborations",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_029111",
+    "type": "WORD",
+    "content": "forgiving heart",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_029125",
+    "type": "WORD",
+    "content": "form appetite",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_029126",
+    "type": "WORD",
+    "content": "form good habits",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_029127",
+    "type": "WORD",
+    "content": "form of recreation",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_029128",
+    "type": "WORD",
+    "content": "form of therapy",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_029129",
+    "type": "WORD",
+    "content": "form-filing",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_029131",
+    "type": "WORD",
+    "content": "formal and informal party",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_029132",
+    "type": "WORD",
+    "content": "formal clothing",
+    "theme": "study_abroad",
+    "tags": [
+      "IELTS",
+      "beibei",
+      "expert",
+      "momo",
+      "primary"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_029134",
+    "type": "WORD",
+    "content": "formal English",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_029136",
+    "type": "WORD",
+    "content": "formal heredity",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_029137",
+    "type": "WORD",
+    "content": "formal language",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_029139",
+    "type": "WORD",
+    "content": "formal meetings",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_029140",
+    "type": "WORD",
+    "content": "formal park",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_029149",
+    "type": "WORD",
+    "content": "format operator",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_029150",
+    "type": "WORD",
+    "content": "format string",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_029151",
+    "type": "WORD",
+    "content": "format submit",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_029157",
+    "type": "WORD",
+    "content": "formed",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "Sami formed his own team.",
+        "zh": "萨米建立了自己的队伍。"
+      },
+      {
+        "en": "How was the universe formed?",
+        "zh": "宇宙是怎样形成的？"
+      },
+      {
+        "en": "A long queue had formed in front of the shop.",
+        "zh": "店前排起了长龙。"
+      }
+    ]
+  }
+]

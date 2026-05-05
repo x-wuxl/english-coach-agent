@@ -1,0 +1,262 @@
+[
+  {
+    "item_code": "w_022864",
+    "type": "WORD",
+    "content": "dullard body",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_022869",
+    "type": "WORD",
+    "content": "dumb dyslexia",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_022873",
+    "type": "WORD",
+    "content": "dumbbell-like",
+    "theme": "toefl",
+    "tags": [
+      "GRE",
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_022882",
+    "type": "WORD",
+    "content": "dump waste water",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_022884",
+    "type": "WORD",
+    "content": "dumper",
+    "theme": "business_english",
+    "tags": [
+      "BEC",
+      "advanced",
+      "beibei"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_022890",
+    "type": "WORD",
+    "content": "dumptious",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_022893",
+    "type": "WORD",
+    "content": "dunder",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_022900",
+    "type": "WORD",
+    "content": "Dunvegan Castle",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_022910",
+    "type": "WORD",
+    "content": "duplicate bazaar",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_022912",
+    "type": "WORD",
+    "content": "duplicate expenses",
+    "theme": "business_english",
+    "tags": [
+      "BEC",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_022914",
+    "type": "WORD",
+    "content": "duplication room",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_022922",
+    "type": "WORD",
+    "content": "durable timber",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_022925",
+    "type": "WORD",
+    "content": "duration of presentation",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_022926",
+    "type": "WORD",
+    "content": "duration of the course",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_022930",
+    "type": "WORD",
+    "content": "during a movie",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_022931",
+    "type": "WORD",
+    "content": "during one's absence",
+    "theme": "TEM4",
+    "tags": [
+      "CET4",
+      "TEM4",
+      "advanced",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_022933",
+    "type": "WORD",
+    "content": "during the same period",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_022934",
+    "type": "WORD",
+    "content": "during this period",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "There is a large temperature difference between day and night during this period of time.",
+        "zh": "这段时间昼夜温差很大。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_022944",
+    "type": "WORD",
+    "content": "dust sweep",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_022953",
+    "type": "WORD",
+    "content": "dusty duster broom",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  }
+]

@@ -1,0 +1,287 @@
+[
+  {
+    "item_code": "w_051700",
+    "type": "WORD",
+    "content": "on the government payroll",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051721",
+    "type": "WORD",
+    "content": "on the local scale",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051723",
+    "type": "WORD",
+    "content": "on the losing side",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051725",
+    "type": "WORD",
+    "content": "on the margin",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051727",
+    "type": "WORD",
+    "content": "on the mind of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051730",
+    "type": "WORD",
+    "content": "on the mood of",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051732",
+    "type": "WORD",
+    "content": "on the negative side",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_051739",
+    "type": "WORD",
+    "content": "on the outskirts",
+    "theme": "postgraduate",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "I live on the outskirts of Tokyo.",
+        "zh": "我住在東京郊區。"
+      },
+      {
+        "en": "My house is on the outskirts of town.",
+        "zh": "我的家在那座城市的郊外."
+      },
+      {
+        "en": "Yanni lives on the outskirts of Algiers.",
+        "zh": "亞妮住在阿爾及爾的郊區"
+      }
+    ]
+  },
+  {
+    "item_code": "w_051741",
+    "type": "WORD",
+    "content": "on the periphery of",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_051745",
+    "type": "WORD",
+    "content": "on the positive side",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_051747",
+    "type": "WORD",
+    "content": "on the progress of",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "This incident has made a great impact on the progress of the project.",
+        "zh": "这个事件极大影响了项目进度。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_051749",
+    "type": "WORD",
+    "content": "on the result that",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051756",
+    "type": "WORD",
+    "content": "on the sands",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_051758",
+    "type": "WORD",
+    "content": "on the scene of",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_051761",
+    "type": "WORD",
+    "content": "on the sky",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_051770",
+    "type": "WORD",
+    "content": "on the throne",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_051771",
+    "type": "WORD",
+    "content": "on the tip of",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": [
+      {
+        "en": "It's on the tip of my tongue.",
+        "zh": "就要说出口了。"
+      },
+      {
+        "en": "His name was on the tip of my tongue, but I couldn't remember it.",
+        "zh": "我都快要说出他的名字了，可就是记不起来。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_051773",
+    "type": "WORD",
+    "content": "on the top side",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051775",
+    "type": "WORD",
+    "content": "on the two sides",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_051784",
+    "type": "WORD",
+    "content": "on the way toward",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  }
+]

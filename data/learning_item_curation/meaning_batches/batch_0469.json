@@ -1,0 +1,262 @@
+[
+  {
+    "item_code": "w_045014",
+    "type": "WORD",
+    "content": "make a U-turn",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_045015",
+    "type": "WORD",
+    "content": "make a video call",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_045016",
+    "type": "WORD",
+    "content": "make a wise choice",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_045019",
+    "type": "WORD",
+    "content": "make a worthwhile contribution",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_045027",
+    "type": "WORD",
+    "content": "make an abstract of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_045029",
+    "type": "WORD",
+    "content": "make an analogy between",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "beibei",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_045033",
+    "type": "WORD",
+    "content": "make an application",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_045045",
+    "type": "WORD",
+    "content": "make an important distinction",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_045054",
+    "type": "WORD",
+    "content": "make better use of",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "You should make better use of your free time.",
+        "zh": "你要更好地利用闲暇时间。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_045055",
+    "type": "WORD",
+    "content": "make bids for",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_045056",
+    "type": "WORD",
+    "content": "make book on sth.",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_045058",
+    "type": "WORD",
+    "content": "make cat-calls",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_045061",
+    "type": "WORD",
+    "content": "make chin music",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_045062",
+    "type": "WORD",
+    "content": "make choices",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_045069",
+    "type": "WORD",
+    "content": "make concessions to",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "beibei",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_045070",
+    "type": "WORD",
+    "content": "make constant efforts",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_045076",
+    "type": "WORD",
+    "content": "make contributions to doing",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_045079",
+    "type": "WORD",
+    "content": "make cracks",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_045080",
+    "type": "WORD",
+    "content": "make cracks about ...",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_045081",
+    "type": "WORD",
+    "content": "make decisions",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

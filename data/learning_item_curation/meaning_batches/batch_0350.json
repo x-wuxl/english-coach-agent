@@ -1,0 +1,297 @@
+[
+  {
+    "item_code": "w_033278",
+    "type": "WORD",
+    "content": "hand-calligraphy",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033290",
+    "type": "WORD",
+    "content": "hand-tightened",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033294",
+    "type": "WORD",
+    "content": "handbag wallet",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_033303",
+    "type": "WORD",
+    "content": "handed",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert",
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "I'm left handed.",
+        "zh": "我是左撇子。"
+      },
+      {
+        "en": "I handed Tom the map.",
+        "zh": "我把地图递给汤姆。"
+      },
+      {
+        "en": "She handed him the key.",
+        "zh": "她遞給了他鑰匙。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_033307",
+    "type": "WORD",
+    "content": "handful of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "He grabbed a handful of rice.",
+        "zh": "他抓了一把米。"
+      },
+      {
+        "en": "He bought a handful of chives.",
+        "zh": "他買了一把韭菜。"
+      },
+      {
+        "en": "Only a handful of people know the fact.",
+        "zh": "知道真相的人只有幾個。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_033311",
+    "type": "WORD",
+    "content": "handicap handicapped hiv",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_033313",
+    "type": "WORD",
+    "content": "handicapped toilet",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033321",
+    "type": "WORD",
+    "content": "handkerchief ornament overflow",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_033324",
+    "type": "WORD",
+    "content": "handle registration",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033329",
+    "type": "WORD",
+    "content": "handling senior",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033331",
+    "type": "WORD",
+    "content": "handmade clothes",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033332",
+    "type": "WORD",
+    "content": "handmade presents",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033333",
+    "type": "WORD",
+    "content": "handoff",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_033336",
+    "type": "WORD",
+    "content": "handpect",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033343",
+    "type": "WORD",
+    "content": "Hands up.",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "Put your hands up!",
+        "zh": "把手举起来！"
+      },
+      {
+        "en": "Put your hands up.",
+        "zh": "手举起来。"
+      },
+      {
+        "en": "Hands up! This is a robbery.",
+        "zh": "把手举起来！这是抢劫。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_033350",
+    "type": "WORD",
+    "content": "handsome pretty",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_033351",
+    "type": "WORD",
+    "content": "handsome profit",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033358",
+    "type": "WORD",
+    "content": "handwritten copy",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_033361",
+    "type": "WORD",
+    "content": "handyman service",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033365",
+    "type": "WORD",
+    "content": "hang about with",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  }
+]

@@ -1,0 +1,268 @@
+[
+  {
+    "item_code": "w_062223",
+    "type": "WORD",
+    "content": "retired machination",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_062227",
+    "type": "WORD",
+    "content": "retirement from",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_062229",
+    "type": "WORD",
+    "content": "retold",
+    "theme": "zhongkao",
+    "tags": [
+      "junior",
+      "momo",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_062234",
+    "type": "WORD",
+    "content": "retouch hasten",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_062237",
+    "type": "WORD",
+    "content": "retract caprice",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_062249",
+    "type": "WORD",
+    "content": "retric",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_062254",
+    "type": "WORD",
+    "content": "retrieve lost cultural relics",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_062255",
+    "type": "WORD",
+    "content": "retrieve saint",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_062256",
+    "type": "WORD",
+    "content": "retrieve solid",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_062266",
+    "type": "WORD",
+    "content": "retrograde offend",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_062275",
+    "type": "WORD",
+    "content": "retrospective patina debase",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_062285",
+    "type": "WORD",
+    "content": "return a favor",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_062286",
+    "type": "WORD",
+    "content": "return a phone call",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_062288",
+    "type": "WORD",
+    "content": "return area",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_062290",
+    "type": "WORD",
+    "content": "return statement",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_062296",
+    "type": "WORD",
+    "content": "return value",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_062297",
+    "type": "WORD",
+    "content": "returned",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "You returned.",
+        "zh": "你回来了。"
+      },
+      {
+        "en": "I've returned!",
+        "zh": "我回來了！"
+      },
+      {
+        "en": "I've returned.",
+        "zh": "我回来了。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_062298",
+    "type": "WORD",
+    "content": "returned overseas students",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_062301",
+    "type": "WORD",
+    "content": "returning customer",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_062302",
+    "type": "WORD",
+    "content": "returning customers",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

@@ -1,0 +1,260 @@
+[
+  {
+    "item_code": "w_016423",
+    "type": "WORD",
+    "content": "Connecticut",
+    "theme": "textbook_primary",
+    "tags": [
+      "junior",
+      "momo"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_016428",
+    "type": "WORD",
+    "content": "connections of work",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_016433",
+    "type": "WORD",
+    "content": "connects",
+    "theme": "college_english",
+    "tags": [
+      "CET6",
+      "advanced",
+      "beibei"
+    ],
+    "difficulty": 4,
+    "examples": [
+      {
+        "en": "This road connects Tokyo with Osaka.",
+        "zh": "这条路连接东京和大阪。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_016435",
+    "type": "WORD",
+    "content": "Connie",
+    "theme": "textbook_primary",
+    "tags": [
+      "junior",
+      "momo"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_016445",
+    "type": "WORD",
+    "content": "conquer mill",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_016454",
+    "type": "WORD",
+    "content": "conscience forum",
+    "theme": "TEM8",
+    "tags": [
+      "TEM8",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_016457",
+    "type": "WORD",
+    "content": "conscientious row",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_016470",
+    "type": "WORD",
+    "content": "consecutive apparent resonance",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_016471",
+    "type": "WORD",
+    "content": "consecutive even integer",
+    "theme": "study_abroad",
+    "tags": [
+      "GMAT",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_016472",
+    "type": "WORD",
+    "content": "consecutive integer",
+    "theme": "study_abroad",
+    "tags": [
+      "GMAT",
+      "GRE",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_016474",
+    "type": "WORD",
+    "content": "consecutive odd integer",
+    "theme": "study_abroad",
+    "tags": [
+      "GMAT",
+      "GRE",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_016478",
+    "type": "WORD",
+    "content": "consensus about",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_016479",
+    "type": "WORD",
+    "content": "consensus internet",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_016480",
+    "type": "WORD",
+    "content": "consensus March",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_016481",
+    "type": "WORD",
+    "content": "consensus on",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_016488",
+    "type": "WORD",
+    "content": "consequent device",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_016493",
+    "type": "WORD",
+    "content": "conservation approaches",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_016494",
+    "type": "WORD",
+    "content": "conservation biologist",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_016495",
+    "type": "WORD",
+    "content": "conservation mat",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_016500",
+    "type": "WORD",
+    "content": "conservative defray disinfect",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  }
+]

@@ -1,0 +1,274 @@
+[
+  {
+    "item_code": "w_033914",
+    "type": "WORD",
+    "content": "have intention of",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "expert",
+      "kaoyan",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033922",
+    "type": "WORD",
+    "content": "have jiao-zi",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033924",
+    "type": "WORD",
+    "content": "have links with",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033925",
+    "type": "WORD",
+    "content": "have little bearing on",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_033926",
+    "type": "WORD",
+    "content": "have little effect on",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_033927",
+    "type": "WORD",
+    "content": "have little influence on",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033935",
+    "type": "WORD",
+    "content": "have more confidence",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033936",
+    "type": "WORD",
+    "content": "have more curiosity",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033937",
+    "type": "WORD",
+    "content": "have more customers",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "We have more customers than we can count.",
+        "zh": "我們的顧客比我們可以計數的更多。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_033938",
+    "type": "WORD",
+    "content": "have no awareness of",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_033941",
+    "type": "WORD",
+    "content": "have no chance of",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_033945",
+    "type": "WORD",
+    "content": "have no impact on",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "They have no impact on the environment.",
+        "zh": "它们对环境一点都没有影响。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_033946",
+    "type": "WORD",
+    "content": "have no influence on",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033952",
+    "type": "WORD",
+    "content": "have no offspring",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033956",
+    "type": "WORD",
+    "content": "have no sense of",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": [
+      {
+        "en": "You have no sense of direction.",
+        "zh": "你一点方向感都没有。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_033957",
+    "type": "WORD",
+    "content": "have no staying power",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_033958",
+    "type": "WORD",
+    "content": "have no taste",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_033962",
+    "type": "WORD",
+    "content": "have not got",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_033964",
+    "type": "WORD",
+    "content": "have nothing to lose",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033966",
+    "type": "WORD",
+    "content": "have one's address",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

@@ -1,0 +1,265 @@
+[
+  {
+    "item_code": "w_028746",
+    "type": "WORD",
+    "content": "fond affection",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_028748",
+    "type": "WORD",
+    "content": "fond predispose graze",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_028749",
+    "type": "WORD",
+    "content": "Fonda-ize",
+    "theme": "english_major",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028754",
+    "type": "WORD",
+    "content": "font forward format",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_028756",
+    "type": "WORD",
+    "content": "foo",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_028760",
+    "type": "WORD",
+    "content": "food allowance",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028761",
+    "type": "WORD",
+    "content": "food begging behavior",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028780",
+    "type": "WORD",
+    "content": "food-growing",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028806",
+    "type": "WORD",
+    "content": "football sock",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028809",
+    "type": "WORD",
+    "content": "footbeat",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028826",
+    "type": "WORD",
+    "content": "footstep grown hiss",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_028834",
+    "type": "WORD",
+    "content": "for 44 years",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "I haven't seen him for years.",
+        "zh": "我有些年没见过他了。"
+      },
+      {
+        "en": "I've known Taro for 10 years.",
+        "zh": "我認識太郎已經十年了。"
+      },
+      {
+        "en": "We studied Chinese for 2 years.",
+        "zh": "我們學過兩年中文。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_028845",
+    "type": "WORD",
+    "content": "for another three years",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_028848",
+    "type": "WORD",
+    "content": "for both demur",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_028853",
+    "type": "WORD",
+    "content": "for decades",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_028866",
+    "type": "WORD",
+    "content": "for good or bad",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_028875",
+    "type": "WORD",
+    "content": "for lease",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028876",
+    "type": "WORD",
+    "content": "for loops",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_028883",
+    "type": "WORD",
+    "content": "for one's convenience",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_028888",
+    "type": "WORD",
+    "content": "for one's sake of",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

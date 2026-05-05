@@ -1,0 +1,260 @@
+[
+  {
+    "item_code": "w_072225",
+    "type": "WORD",
+    "content": "take control of time",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_072228",
+    "type": "WORD",
+    "content": "take credit",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_072233",
+    "type": "WORD",
+    "content": "take different routes",
+    "theme": "zhongkao",
+    "tags": [
+      "junior",
+      "momo",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_072234",
+    "type": "WORD",
+    "content": "take digs at sb.",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_072235",
+    "type": "WORD",
+    "content": "take diversion",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_072237",
+    "type": "WORD",
+    "content": "take effective action",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_072239",
+    "type": "WORD",
+    "content": "take effort",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_072241",
+    "type": "WORD",
+    "content": "take energy from ...",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_072248",
+    "type": "WORD",
+    "content": "take food",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_072253",
+    "type": "WORD",
+    "content": "take gradual measures",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_072257",
+    "type": "WORD",
+    "content": "take high-speed trains",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_072265",
+    "type": "WORD",
+    "content": "take inspiration from",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_072266",
+    "type": "WORD",
+    "content": "take interest in",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_072270",
+    "type": "WORD",
+    "content": "take into favorable consideration",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_072277",
+    "type": "WORD",
+    "content": "take issue with somebody",
+    "theme": "study_abroad",
+    "tags": [
+      "GMAT",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_072282",
+    "type": "WORD",
+    "content": "take it slow",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_072285",
+    "type": "WORD",
+    "content": "take its toll on",
+    "theme": "college_english",
+    "tags": [
+      "IELTS",
+      "advanced",
+      "beibei",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_072299",
+    "type": "WORD",
+    "content": "take no interest in",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_072301",
+    "type": "WORD",
+    "content": "take nonsense",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_072310",
+    "type": "WORD",
+    "content": "take occasion to do",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "item_code": "w_070416",
+    "type": "WORD",
+    "content": "Student Counselling Centre",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_070420",
+    "type": "WORD",
+    "content": "student leader",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_070423",
+    "type": "WORD",
+    "content": "student orientation",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_070424",
+    "type": "WORD",
+    "content": "student pool",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_070429",
+    "type": "WORD",
+    "content": "student welfare officer",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_070432",
+    "type": "WORD",
+    "content": "students home",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_070433",
+    "type": "WORD",
+    "content": "students' affairs division",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_070434",
+    "type": "WORD",
+    "content": "Students' Recreational Center",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_070439",
+    "type": "WORD",
+    "content": "studio interface",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_070440",
+    "type": "WORD",
+    "content": "studio musician",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_070443",
+    "type": "WORD",
+    "content": "studious criticism",
+    "theme": "study_abroad",
+    "tags": [
+      "GMAT",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_070447",
+    "type": "WORD",
+    "content": "study aids",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_070448",
+    "type": "WORD",
+    "content": "study destination",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_070451",
+    "type": "WORD",
+    "content": "study kitchen",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_070453",
+    "type": "WORD",
+    "content": "study load",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_070454",
+    "type": "WORD",
+    "content": "study overseas",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_070456",
+    "type": "WORD",
+    "content": "study strategy",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_070461",
+    "type": "WORD",
+    "content": "studying English",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "I'm studying English.",
+        "zh": "我在学英语."
+      },
+      {
+        "en": "Are you studying English?",
+        "zh": "你在研讀英語嗎？"
+      },
+      {
+        "en": "I'm studying English drama.",
+        "zh": "我正在學習英文戲劇。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_070462",
+    "type": "WORD",
+    "content": "studying overseas",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_070464",
+    "type": "WORD",
+    "content": "stuff ... with sth.",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

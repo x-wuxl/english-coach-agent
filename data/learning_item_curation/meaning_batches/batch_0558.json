@@ -1,0 +1,270 @@
+[
+  {
+    "item_code": "w_054412",
+    "type": "WORD",
+    "content": "peel a banana",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "I observe a chimpanzee peel a banana and eat it.",
+        "zh": "我观察到一只黑猩猩剥了一根香蕉并吃了它。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_054423",
+    "type": "WORD",
+    "content": "peer out of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054428",
+    "type": "WORD",
+    "content": "peer-review-led",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054430",
+    "type": "WORD",
+    "content": "peering into",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054437",
+    "type": "WORD",
+    "content": "peg mend",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_054441",
+    "type": "WORD",
+    "content": "Peking",
+    "theme": "textbook_primary",
+    "tags": [
+      "junior",
+      "momo"
+    ],
+    "difficulty": 2,
+    "examples": [
+      {
+        "en": "We ate Peking duck in the Chinese restaurant.",
+        "zh": "我们在中餐厅吃了北京烤鸭。"
+      },
+      {
+        "en": "Ding, holding a photo, asked Teacher Lin: \"Was this photo of yours taken at the Peking University Library?\"",
+        "zh": "小丁拿着一张照片问林老师：“您的这张照片是在北大图书馆照的吗？”"
+      }
+    ]
+  },
+  {
+    "item_code": "w_054443",
+    "type": "WORD",
+    "content": "Peking Opera mask",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_054444",
+    "type": "WORD",
+    "content": "Peking Union Medical College",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_054447",
+    "type": "WORD",
+    "content": "Pele, Goddess of Volcanoes",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054449",
+    "type": "WORD",
+    "content": "peliantology",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054452",
+    "type": "WORD",
+    "content": "pellage",
+    "theme": "study_abroad",
+    "tags": [
+      "GMAT",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_054459",
+    "type": "WORD",
+    "content": "pelud",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054462",
+    "type": "WORD",
+    "content": "pelvis erology alga",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_054466",
+    "type": "WORD",
+    "content": "pen apostasy",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_054467",
+    "type": "WORD",
+    "content": "pen enter",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054478",
+    "type": "WORD",
+    "content": "penalty for",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054482",
+    "type": "WORD",
+    "content": "Penang Hill",
+    "theme": "junior_high",
+    "tags": [
+      "beibei",
+      "junior",
+      "momo",
+      "primary"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_054492",
+    "type": "WORD",
+    "content": "pencilbox",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_054499",
+    "type": "WORD",
+    "content": "pending franchise",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054504",
+    "type": "WORD",
+    "content": "pendulum screw shutter",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  }
+]

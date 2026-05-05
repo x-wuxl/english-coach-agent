@@ -1,0 +1,285 @@
+[
+  {
+    "item_code": "w_027873",
+    "type": "WORD",
+    "content": "fine tradition",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_027874",
+    "type": "WORD",
+    "content": "Fine, thanks.",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "Fine, thanks.",
+        "zh": "很好，谢谢。"
+      },
+      {
+        "en": "I'm fine, thanks!",
+        "zh": "我很好，謝謝！"
+      }
+    ]
+  },
+  {
+    "item_code": "w_027881",
+    "type": "WORD",
+    "content": "Fine. And you?",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "I'm fine, and you?",
+        "zh": "我很好，你呢？"
+      },
+      {
+        "en": "I am fine, and you?",
+        "zh": "我很好，你呢？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_027883",
+    "type": "WORD",
+    "content": "finely developed",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_027895",
+    "type": "WORD",
+    "content": "fingerprint payment",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_027906",
+    "type": "WORD",
+    "content": "finish the roll",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_027917",
+    "type": "WORD",
+    "content": "finite literal",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_027922",
+    "type": "WORD",
+    "content": "finnecky",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_027929",
+    "type": "WORD",
+    "content": "fire a shot",
+    "theme": "new_concept",
+    "tags": [
+      "NCE",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_027938",
+    "type": "WORD",
+    "content": "fire escapes",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_027948",
+    "type": "WORD",
+    "content": "fire the imagination",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_027982",
+    "type": "WORD",
+    "content": "firewood fitness flag",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_027998",
+    "type": "WORD",
+    "content": "first bus",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "We want to be on the first bus tomorrow morning.",
+        "zh": "我们想乘明天早上第一班公交车。"
+      },
+      {
+        "en": "The driver said that the first bus starts at 6:00 a.m.",
+        "zh": "这个司机说第一班公交车于早上6点发车。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_028001",
+    "type": "WORD",
+    "content": "first class seating",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028006",
+    "type": "WORD",
+    "content": "first few days",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028013",
+    "type": "WORD",
+    "content": "first issue",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028023",
+    "type": "WORD",
+    "content": "First Prize Scholarship",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028028",
+    "type": "WORD",
+    "content": "first-class function",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_028029",
+    "type": "WORD",
+    "content": "first-class object",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_028045",
+    "type": "WORD",
+    "content": "first-tier city",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

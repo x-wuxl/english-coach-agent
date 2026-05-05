@@ -1,0 +1,270 @@
+[
+  {
+    "item_code": "w_080051",
+    "type": "WORD",
+    "content": "washing my hair",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080052",
+    "type": "WORD",
+    "content": "washing my windows",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080059",
+    "type": "WORD",
+    "content": "Washington-based",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_080065",
+    "type": "WORD",
+    "content": "wasp-waist physiques",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080070",
+    "type": "WORD",
+    "content": "waste ... doing sth.",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_080075",
+    "type": "WORD",
+    "content": "waste cervix",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_080077",
+    "type": "WORD",
+    "content": "waste dumps",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080079",
+    "type": "WORD",
+    "content": "waste imports",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080083",
+    "type": "WORD",
+    "content": "waste pay",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_080084",
+    "type": "WORD",
+    "content": "waste separation",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080086",
+    "type": "WORD",
+    "content": "waste time doing",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_080087",
+    "type": "WORD",
+    "content": "waste time doing sth.",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080103",
+    "type": "WORD",
+    "content": "watch a match",
+    "theme": "zhongkao",
+    "tags": [
+      "junior",
+      "momo",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_080105",
+    "type": "WORD",
+    "content": "watch a show",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_080106",
+    "type": "WORD",
+    "content": "watch cartoons",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080110",
+    "type": "WORD",
+    "content": "watch films",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_080113",
+    "type": "WORD",
+    "content": "watch Korean soaps",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080120",
+    "type": "WORD",
+    "content": "watch the news",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "Do you watch the news?",
+        "zh": "你看新聞嗎？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_080125",
+    "type": "WORD",
+    "content": "watched TV",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "Tom watched TV yesterday.",
+        "zh": "Tom昨天看了电视。"
+      },
+      {
+        "en": "I watched TV this morning.",
+        "zh": "我今天早上看了电视。"
+      },
+      {
+        "en": "We watched TV after lunch.",
+        "zh": "吃完午飯之後我們看了電視。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_080144",
+    "type": "WORD",
+    "content": "water collection tank",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

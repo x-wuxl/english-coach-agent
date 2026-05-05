@@ -1,0 +1,269 @@
+[
+  {
+    "item_code": "w_049517",
+    "type": "WORD",
+    "content": "neonate dolphin",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_049520",
+    "type": "WORD",
+    "content": "neophyte vilify prescription despise",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_049524",
+    "type": "WORD",
+    "content": "neoplastic conversation",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_049562",
+    "type": "WORD",
+    "content": "nerve humiliate sequel",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_049568",
+    "type": "WORD",
+    "content": "nervous about",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "Let me be nervous about this.",
+        "zh": "這個讓我緊張。"
+      },
+      {
+        "en": "What're you so nervous about?",
+        "zh": "是什么让你这么紧张？"
+      },
+      {
+        "en": "What are you so nervous about?",
+        "zh": "是什么让你这么紧张？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_049576",
+    "type": "WORD",
+    "content": "ness",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_049580",
+    "type": "WORD",
+    "content": "nested",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_049581",
+    "type": "WORD",
+    "content": "nested conditional",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_049582",
+    "type": "WORD",
+    "content": "nested list",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_049583",
+    "type": "WORD",
+    "content": "nested scope",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_049587",
+    "type": "WORD",
+    "content": "nesting sites",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_049594",
+    "type": "WORD",
+    "content": "net bargainer",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_049613",
+    "type": "WORD",
+    "content": "network aim",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_049614",
+    "type": "WORD",
+    "content": "network anti-corruption",
+    "theme": "TEM4",
+    "tags": [
+      "CET4",
+      "CET6",
+      "TEM4",
+      "advanced",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_049615",
+    "type": "WORD",
+    "content": "network installer",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_049616",
+    "type": "WORD",
+    "content": "network of satellite communication",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_049620",
+    "type": "WORD",
+    "content": "networking skill",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_049623",
+    "type": "WORD",
+    "content": "neural mold deficit burge",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_049631",
+    "type": "WORD",
+    "content": "neurinosarcoma",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_049680",
+    "type": "WORD",
+    "content": "neuroticism or open-mindedness",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

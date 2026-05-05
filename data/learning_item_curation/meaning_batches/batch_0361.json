@@ -1,0 +1,259 @@
+[
+  {
+    "item_code": "w_034004",
+    "type": "WORD",
+    "content": "have right to do",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_034007",
+    "type": "WORD",
+    "content": "have sb. doing",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_034009",
+    "type": "WORD",
+    "content": "have sb. in stitches",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_034010",
+    "type": "WORD",
+    "content": "have sb. on tenterhooks",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_034012",
+    "type": "WORD",
+    "content": "have second thought on",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_034013",
+    "type": "WORD",
+    "content": "have second thoughts",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_034014",
+    "type": "WORD",
+    "content": "have second thoughts on",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_034016",
+    "type": "WORD",
+    "content": "have sense of achievement",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_034017",
+    "type": "WORD",
+    "content": "have snowball fights",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_034019",
+    "type": "WORD",
+    "content": "have some effect on",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_034020",
+    "type": "WORD",
+    "content": "have some fun",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "Let's have some fun.",
+        "zh": "我们玩点什么吧"
+      },
+      {
+        "en": "Let's go out and have some fun tonight.",
+        "zh": "我们今晚一起出去找乐子吧。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_034021",
+    "type": "WORD",
+    "content": "have some privileges",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_034022",
+    "type": "WORD",
+    "content": "have some talk",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_034023",
+    "type": "WORD",
+    "content": "have somebody in mind",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_034025",
+    "type": "WORD",
+    "content": "have something doing",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_034026",
+    "type": "WORD",
+    "content": "have something going",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_034030",
+    "type": "WORD",
+    "content": "have sports",
+    "theme": "zhongkao",
+    "tags": [
+      "junior",
+      "momo",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_034032",
+    "type": "WORD",
+    "content": "have sth. at hand",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_034035",
+    "type": "WORD",
+    "content": "have sth. doing",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_034037",
+    "type": "WORD",
+    "content": "have sth. for breakfast",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  }
+]

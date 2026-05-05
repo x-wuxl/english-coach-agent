@@ -1,0 +1,281 @@
+[
+  {
+    "item_code": "w_000403",
+    "type": "WORD",
+    "content": "a name-and-shame method",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000405",
+    "type": "WORD",
+    "content": "a narrow path",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "The man is hiking on a narrow path.",
+        "zh": "他在一条狭窄的道路上走。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000406",
+    "type": "WORD",
+    "content": "a nature reserve",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000407",
+    "type": "WORD",
+    "content": "a nervous wreck",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000408",
+    "type": "WORD",
+    "content": "a net friend",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000409",
+    "type": "WORD",
+    "content": "a new Web-based company",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000410",
+    "type": "WORD",
+    "content": "a newly-developed city",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_000411",
+    "type": "WORD",
+    "content": "a News Feature article",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000414",
+    "type": "WORD",
+    "content": "a noteworthy quirk",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000415",
+    "type": "WORD",
+    "content": "a nuclear reactor",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000417",
+    "type": "WORD",
+    "content": "a nurse",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "I'm a nurse.",
+        "zh": "我是护士。"
+      },
+      {
+        "en": "I am a nurse.",
+        "zh": "我是护士。"
+      },
+      {
+        "en": "She's a nurse.",
+        "zh": "她是护士。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000418",
+    "type": "WORD",
+    "content": "a once-in-a-life-time opportunity",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000419",
+    "type": "WORD",
+    "content": "a pack of cards",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000421",
+    "type": "WORD",
+    "content": "a package of proposals",
+    "theme": "TEM4",
+    "tags": [
+      "CET4",
+      "TEM4",
+      "advanced",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_000423",
+    "type": "WORD",
+    "content": "a packet of biscuits",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "She opened a packet of biscuits.",
+        "zh": "她打开了一包饼干。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000424",
+    "type": "WORD",
+    "content": "a packet of sweets",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_000426",
+    "type": "WORD",
+    "content": "a pair of earphones",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000428",
+    "type": "WORD",
+    "content": "a pair of handcuffs",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000431",
+    "type": "WORD",
+    "content": "a pair of socks",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_000432",
+    "type": "WORD",
+    "content": "a pair of watches",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

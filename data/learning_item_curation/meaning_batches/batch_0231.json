@@ -1,0 +1,253 @@
+[
+  {
+    "item_code": "w_021838",
+    "type": "WORD",
+    "content": "do sb.'s bidding",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021839",
+    "type": "WORD",
+    "content": "do shopping",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "I'd like to do shopping on Fifth Avenue in New York.",
+        "zh": "我想在紐約的第五大道購物。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_021840",
+    "type": "WORD",
+    "content": "do sit-ups",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021842",
+    "type": "WORD",
+    "content": "do some cooking",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_021843",
+    "type": "WORD",
+    "content": "do some exercises",
+    "theme": "zhongkao",
+    "tags": [
+      "junior",
+      "momo",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_021844",
+    "type": "WORD",
+    "content": "do some gardening",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021848",
+    "type": "WORD",
+    "content": "do some training",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_021849",
+    "type": "WORD",
+    "content": "do some trips",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021850",
+    "type": "WORD",
+    "content": "do some washing",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_021851",
+    "type": "WORD",
+    "content": "do something from memory",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_021854",
+    "type": "WORD",
+    "content": "do sth. by hand",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_021860",
+    "type": "WORD",
+    "content": "do tai chi",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_021865",
+    "type": "WORD",
+    "content": "do the tango",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021867",
+    "type": "WORD",
+    "content": "do the watering",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_021868",
+    "type": "WORD",
+    "content": "do things differently",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021869",
+    "type": "WORD",
+    "content": "do training courses",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021872",
+    "type": "WORD",
+    "content": "do weightlifting",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_021881",
+    "type": "WORD",
+    "content": "do yoga",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021885",
+    "type": "WORD",
+    "content": "dob",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021896",
+    "type": "WORD",
+    "content": "docstring",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  }
+]

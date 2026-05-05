@@ -1,0 +1,303 @@
+[
+  {
+    "item_code": "w_073976",
+    "type": "WORD",
+    "content": "the prince consort",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073977",
+    "type": "WORD",
+    "content": "the principle of compromise",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073978",
+    "type": "WORD",
+    "content": "the printed page",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_073979",
+    "type": "WORD",
+    "content": "the process of",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "Sami is in the process of moving again.",
+        "zh": "萨米正在再次移动。"
+      },
+      {
+        "en": "He is in the process of doing his homework.",
+        "zh": "他正在做功课。"
+      },
+      {
+        "en": "Love is the process of breaking and mending the heart of another.",
+        "zh": "爱，就是一个人把另一个人的心揉碎的过程。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_073983",
+    "type": "WORD",
+    "content": "the Prose Summary questions",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073984",
+    "type": "WORD",
+    "content": "the prospect of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073985",
+    "type": "WORD",
+    "content": "the provincial capital",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_073988",
+    "type": "WORD",
+    "content": "The Quarrymen",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_073990",
+    "type": "WORD",
+    "content": "the range of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073994",
+    "type": "WORD",
+    "content": "the recesses of sth.",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_073999",
+    "type": "WORD",
+    "content": "the Republicans",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074000",
+    "type": "WORD",
+    "content": "the republicans left",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074001",
+    "type": "WORD",
+    "content": "the rest",
+    "theme": "zhongkao",
+    "tags": [
+      "junior",
+      "momo",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": [
+      {
+        "en": "The rest is history.",
+        "zh": "此後的事，盡人皆知。"
+      },
+      {
+        "en": "The rest follows naturally.",
+        "zh": "剩下的就自然跟着了。"
+      },
+      {
+        "en": "He towers above the rest of the class.",
+        "zh": "他在班上出類拔萃。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_074003",
+    "type": "WORD",
+    "content": "the Revolutionary War",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "The statue of the Minute Man commemorates the valiant soldiers who fought in the Revolutionary War.",
+        "zh": "民兵雕像是为了纪念独立战争中英勇作战的士兵。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_074004",
+    "type": "WORD",
+    "content": "the Richmond District",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_074011",
+    "type": "WORD",
+    "content": "the ruling caste",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074018",
+    "type": "WORD",
+    "content": "the San Francisco Chronicle",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074020",
+    "type": "WORD",
+    "content": "the saying goes",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": [
+      {
+        "en": "As the saying goes: Speech is silver, silence is gold.",
+        "zh": "常言道：言语是银，沉默是金。"
+      },
+      {
+        "en": "As the saying goes, \"You reap what you sow\", and yet another says that luck plays an important role in success too!",
+        "zh": "俗話說：一分耕耘、一分收穫；可俗話又說：人無橫財不富、馬無夜草不肥！"
+      },
+      {
+        "en": "The saying goes: to turn a new leaf is priceless. The saying also goes: a dog can't change their habits of eating shit!",
+        "zh": "俗話說：浪子回頭金不換；可俗話又說：狗改不了吃屎！"
+      }
+    ]
+  },
+  {
+    "item_code": "w_074021",
+    "type": "WORD",
+    "content": "the scale of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074022",
+    "type": "WORD",
+    "content": "the school board",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

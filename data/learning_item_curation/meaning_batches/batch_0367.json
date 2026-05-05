@@ -1,0 +1,263 @@
+[
+  {
+    "item_code": "w_034629",
+    "type": "WORD",
+    "content": "Henry Adams",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_034630",
+    "type": "WORD",
+    "content": "Henry Norman Bethune",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_034653",
+    "type": "WORD",
+    "content": "herb tormana",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_034656",
+    "type": "WORD",
+    "content": "herbal cuisine",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_034657",
+    "type": "WORD",
+    "content": "herbal inject lotion",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_034659",
+    "type": "WORD",
+    "content": "herbal practitioner",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_034664",
+    "type": "WORD",
+    "content": "herbicide ivy",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_034665",
+    "type": "WORD",
+    "content": "herbicide-tolerant crops",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_034671",
+    "type": "WORD",
+    "content": "hercules",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "Hercules had strong muscles.",
+        "zh": "海格力斯有強健的肌肉。"
+      },
+      {
+        "en": "Hercules has strong muscles.",
+        "zh": "海格力斯有強健的肌肉。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_034673",
+    "type": "WORD",
+    "content": "herd behavior",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_034674",
+    "type": "WORD",
+    "content": "herd of cattle",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_034701",
+    "type": "WORD",
+    "content": "hereditary heredity",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_034703",
+    "type": "WORD",
+    "content": "heredity aspire",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_034709",
+    "type": "WORD",
+    "content": "heresy invective lassitude",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_034711",
+    "type": "WORD",
+    "content": "heretic sect",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_034713",
+    "type": "WORD",
+    "content": "heretical thad",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_034753",
+    "type": "WORD",
+    "content": "hesitate over",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_034754",
+    "type": "WORD",
+    "content": "hesitate to do sth.",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_034774",
+    "type": "WORD",
+    "content": "heterosexual homosexual",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_034785",
+    "type": "WORD",
+    "content": "hex",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  }
+]

@@ -1,0 +1,279 @@
+[
+  {
+    "item_code": "w_010755",
+    "type": "WORD",
+    "content": "broaden one's vision",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_010756",
+    "type": "WORD",
+    "content": "broaden our eyesight",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_010757",
+    "type": "WORD",
+    "content": "broaden our minds",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_010758",
+    "type": "WORD",
+    "content": "broadened street",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_010771",
+    "type": "WORD",
+    "content": "broché",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_010774",
+    "type": "WORD",
+    "content": "broil steak",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_010775",
+    "type": "WORD",
+    "content": "broiled fish",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_010780",
+    "type": "WORD",
+    "content": "broken or corroded wire",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_010786",
+    "type": "WORD",
+    "content": "bromeo",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_010814",
+    "type": "WORD",
+    "content": "bronze drab",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_010816",
+    "type": "WORD",
+    "content": "bronze or copper",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_010827",
+    "type": "WORD",
+    "content": "brook accomplish herald",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_010839",
+    "type": "WORD",
+    "content": "brow beat emaciate",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_010842",
+    "type": "WORD",
+    "content": "brown capuchin",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_010847",
+    "type": "WORD",
+    "content": "brown-paper envelope",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_010853",
+    "type": "WORD",
+    "content": "brows",
+    "theme": "TEM4",
+    "tags": [
+      "BEC",
+      "CET4",
+      "CET6",
+      "GMAT",
+      "TEM4",
+      "TEM8",
+      "advanced",
+      "beibei",
+      "expert",
+      "senior"
+    ],
+    "difficulty": 6,
+    "examples": [
+      {
+        "en": "She wrinkled her brows.",
+        "zh": "她眉頭緊鎖。"
+      },
+      {
+        "en": "The old woman knitted her brows.",
+        "zh": "老太太皺著眉頭。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_010856",
+    "type": "WORD",
+    "content": "Bruce",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "Mrs. Bruce was the first female pilot to fly between England and Japan.",
+        "zh": "布魯斯夫人是英國和日本之間航線的第一位女性飛行員。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_010860",
+    "type": "WORD",
+    "content": "brugality",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_010876",
+    "type": "WORD",
+    "content": "brush one's teeth",
+    "theme": "textbook_primary",
+    "tags": [
+      "gaokao",
+      "momo",
+      "primary",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_010879",
+    "type": "WORD",
+    "content": "brush up lessons",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

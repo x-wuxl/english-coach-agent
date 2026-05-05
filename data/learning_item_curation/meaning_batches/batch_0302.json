@@ -1,0 +1,274 @@
+[
+  {
+    "item_code": "w_028707",
+    "type": "WORD",
+    "content": "follow a fanciful fashion",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028708",
+    "type": "WORD",
+    "content": "follow customs",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_028709",
+    "type": "WORD",
+    "content": "follow demonstration descent",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028712",
+    "type": "WORD",
+    "content": "follow in sb.'s footsteps",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_028713",
+    "type": "WORD",
+    "content": "follow leave",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_028714",
+    "type": "WORD",
+    "content": "follow neugatory counterpart",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_028715",
+    "type": "WORD",
+    "content": "follow one's advice on",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_028716",
+    "type": "WORD",
+    "content": "follow one's cue from",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028717",
+    "type": "WORD",
+    "content": "follow one's dream",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028719",
+    "type": "WORD",
+    "content": "follow one's lead",
+    "theme": "college_english",
+    "tags": [
+      "TOEFL",
+      "advanced",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028721",
+    "type": "WORD",
+    "content": "follow rules of games",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028722",
+    "type": "WORD",
+    "content": "follow sb.'s advice",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_028723",
+    "type": "WORD",
+    "content": "follow sb.'s instructions",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_028724",
+    "type": "WORD",
+    "content": "follow social norms",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028730",
+    "type": "WORD",
+    "content": "follow the morals",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028731",
+    "type": "WORD",
+    "content": "follow the new fashion",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028732",
+    "type": "WORD",
+    "content": "follow the rules",
+    "theme": "junior_high",
+    "tags": [
+      "beibei",
+      "gaokao",
+      "junior",
+      "momo",
+      "primary",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "Follow the rules.",
+        "zh": "遵守規則！"
+      },
+      {
+        "en": "I follow the rules.",
+        "zh": "我遵守規矩。"
+      },
+      {
+        "en": "We must follow the rules.",
+        "zh": "我们必须遵守规则。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_028734",
+    "type": "WORD",
+    "content": "follow traffic rules",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028735",
+    "type": "WORD",
+    "content": "follow trends",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028737",
+    "type": "WORD",
+    "content": "follow up with",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  }
+]

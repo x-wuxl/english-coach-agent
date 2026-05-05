@@ -1,0 +1,266 @@
+[
+  {
+    "item_code": "w_040948",
+    "type": "WORD",
+    "content": "juan",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "I am called Juan.",
+        "zh": "我叫胡安。"
+      },
+      {
+        "en": "Juan is 35 years old today.",
+        "zh": "胡安今年三十五歲。"
+      },
+      {
+        "en": "Juan died from tuberculosis.",
+        "zh": "Juan死於結核病。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_040949",
+    "type": "WORD",
+    "content": "Juan Gris",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_040961",
+    "type": "WORD",
+    "content": "judge decide",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_040963",
+    "type": "WORD",
+    "content": "judge sth. on its",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_040971",
+    "type": "WORD",
+    "content": "judicial explanation",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_040973",
+    "type": "WORD",
+    "content": "judicial inspection",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_040976",
+    "type": "WORD",
+    "content": "judicious rash",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_040978",
+    "type": "WORD",
+    "content": "Judith Wainwright",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_040982",
+    "type": "WORD",
+    "content": "jug peeler",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_040990",
+    "type": "WORD",
+    "content": "juice bottles",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_040991",
+    "type": "WORD",
+    "content": "juice bran",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_040996",
+    "type": "WORD",
+    "content": "jujun jubilant",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_041000",
+    "type": "WORD",
+    "content": "Julie Thompson",
+    "theme": "textbook_primary",
+    "tags": [
+      "junior",
+      "momo"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_041003",
+    "type": "WORD",
+    "content": "July August",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_041005",
+    "type": "WORD",
+    "content": "jumble anti virus",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_041006",
+    "type": "WORD",
+    "content": "jumbled",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_041009",
+    "type": "WORD",
+    "content": "jump a queue",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "CET6",
+      "advanced",
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_041011",
+    "type": "WORD",
+    "content": "jump ahead",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_041014",
+    "type": "WORD",
+    "content": "jump by",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_041020",
+    "type": "WORD",
+    "content": "jump on one's bandwagon",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  }
+]

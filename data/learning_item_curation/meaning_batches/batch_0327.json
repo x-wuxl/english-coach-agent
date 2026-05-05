@@ -1,0 +1,258 @@
+[
+  {
+    "item_code": "w_030927",
+    "type": "WORD",
+    "content": "get mad at",
+    "theme": "zhongkao",
+    "tags": [
+      "junior",
+      "momo",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_030928",
+    "type": "WORD",
+    "content": "get mad at ...",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_030936",
+    "type": "WORD",
+    "content": "get numb",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_030948",
+    "type": "WORD",
+    "content": "get off track",
+    "theme": "toefl",
+    "tags": [
+      "IELTS",
+      "TOEFL",
+      "beibei",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_030953",
+    "type": "WORD",
+    "content": "get on one's bandwagon",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_030955",
+    "type": "WORD",
+    "content": "get on one's nerve",
+    "theme": "toefl",
+    "tags": [
+      "IELTS",
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_030957",
+    "type": "WORD",
+    "content": "get on sb.'s nerves",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_030965",
+    "type": "WORD",
+    "content": "get one nowhere",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "expert",
+      "kaoyan",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_030967",
+    "type": "WORD",
+    "content": "get one's best shot",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_030970",
+    "type": "WORD",
+    "content": "get one's ear",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_030975",
+    "type": "WORD",
+    "content": "get one's hair cut",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_030976",
+    "type": "WORD",
+    "content": "get one's hands dirty",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_030977",
+    "type": "WORD",
+    "content": "get one's hands full",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_030978",
+    "type": "WORD",
+    "content": "get one's hands off",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_030981",
+    "type": "WORD",
+    "content": "get one's just desserts",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_030982",
+    "type": "WORD",
+    "content": "get one's mind off",
+    "theme": "textbook_primary",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_030984",
+    "type": "WORD",
+    "content": "get one's number",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_030987",
+    "type": "WORD",
+    "content": "get one's say",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_030989",
+    "type": "WORD",
+    "content": "get one's start",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_030997",
+    "type": "WORD",
+    "content": "get out of practice",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

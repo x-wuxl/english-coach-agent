@@ -1,0 +1,277 @@
+[
+  {
+    "item_code": "w_021794",
+    "type": "WORD",
+    "content": "do judo",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_021797",
+    "type": "WORD",
+    "content": "do kung fu",
+    "theme": "primary_school",
+    "tags": [
+      "beibei",
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_021798",
+    "type": "WORD",
+    "content": "do little to",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_021801",
+    "type": "WORD",
+    "content": "do my utmost to",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021802",
+    "type": "WORD",
+    "content": "do no harm to",
+    "theme": "college_english",
+    "tags": [
+      "TOEFL",
+      "advanced",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021803",
+    "type": "WORD",
+    "content": "do not",
+    "theme": "textbook_primary",
+    "tags": [
+      "junior",
+      "momo",
+      "primary",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": [
+      {
+        "en": "Do not fold!",
+        "zh": "请勿折叠！"
+      },
+      {
+        "en": "I do not know.",
+        "zh": "我不知道。"
+      },
+      {
+        "en": "I do not mind.",
+        "zh": "我无所谓。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_021804",
+    "type": "WORD",
+    "content": "do one better",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_021805",
+    "type": "WORD",
+    "content": "do one's best to",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021806",
+    "type": "WORD",
+    "content": "do one's bidding",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021812",
+    "type": "WORD",
+    "content": "do one's own bit",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_021815",
+    "type": "WORD",
+    "content": "do one's share",
+    "theme": "textbook_primary",
+    "tags": [
+      "CET4",
+      "CET6",
+      "advanced",
+      "expert",
+      "kaoyan",
+      "momo",
+      "primary"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021819",
+    "type": "WORD",
+    "content": "do online shopping",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021821",
+    "type": "WORD",
+    "content": "do physical exercises",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021822",
+    "type": "WORD",
+    "content": "do poorly",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021823",
+    "type": "WORD",
+    "content": "do push-ups",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021825",
+    "type": "WORD",
+    "content": "do research about ...",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_021826",
+    "type": "WORD",
+    "content": "do research in ...",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_021827",
+    "type": "WORD",
+    "content": "do research into ...",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_021832",
+    "type": "WORD",
+    "content": "do sb. credit",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_021837",
+    "type": "WORD",
+    "content": "do sb.'s best",
+    "theme": "new_concept",
+    "tags": [
+      "NCE",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  }
+]

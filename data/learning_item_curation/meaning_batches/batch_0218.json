@@ -1,0 +1,281 @@
+[
+  {
+    "item_code": "w_020567",
+    "type": "WORD",
+    "content": "dictate our perception",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_020568",
+    "type": "WORD",
+    "content": "dictate rave",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_020576",
+    "type": "WORD",
+    "content": "dictionary view",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_020580",
+    "type": "WORD",
+    "content": "did exercises",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_020581",
+    "type": "WORD",
+    "content": "did not",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "I did not pass.",
+        "zh": "我落選了。"
+      },
+      {
+        "en": "It did not eat.",
+        "zh": "它没吃。"
+      },
+      {
+        "en": "I did not strike.",
+        "zh": "我沒有罷工。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_020582",
+    "type": "WORD",
+    "content": "did they use to",
+    "theme": "new_concept",
+    "tags": [
+      "NCE",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_020585",
+    "type": "WORD",
+    "content": "didactic crouch indoctrinate",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_020592",
+    "type": "WORD",
+    "content": "didn't use to",
+    "theme": "new_concept",
+    "tags": [
+      "NCE",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "He didn't use to be like that.",
+        "zh": "他以前不是那样。"
+      },
+      {
+        "en": "That part of the house didn't use to be there.",
+        "zh": "房子的那个部分以前不在那个位置。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_020594",
+    "type": "WORD",
+    "content": "die a death",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_020603",
+    "type": "WORD",
+    "content": "die of fever",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_020607",
+    "type": "WORD",
+    "content": "die-hard fan",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_020610",
+    "type": "WORD",
+    "content": "diehard precipice affable",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_020617",
+    "type": "WORD",
+    "content": "diet and health",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_020618",
+    "type": "WORD",
+    "content": "diet regimen",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_020619",
+    "type": "WORD",
+    "content": "diet tea",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_020620",
+    "type": "WORD",
+    "content": "diet unhealthy",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_020622",
+    "type": "WORD",
+    "content": "dietary expert",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_020624",
+    "type": "WORD",
+    "content": "dietary problems",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_020629",
+    "type": "WORD",
+    "content": "diethyria",
+    "theme": "study_abroad",
+    "tags": [
+      "GMAT",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_020631",
+    "type": "WORD",
+    "content": "dieting tips",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  }
+]

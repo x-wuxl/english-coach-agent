@@ -1,0 +1,250 @@
+[
+  {
+    "item_code": "w_011483",
+    "type": "WORD",
+    "content": "by relays",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_011489",
+    "type": "WORD",
+    "content": "by sb.'s estimate",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_011490",
+    "type": "WORD",
+    "content": "by school bus",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_011492",
+    "type": "WORD",
+    "content": "by sheer chance",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_011505",
+    "type": "WORD",
+    "content": "by the middle of",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_011518",
+    "type": "WORD",
+    "content": "by unscrupulous means",
+    "theme": "TEM8",
+    "tags": [
+      "TEM8",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_011547",
+    "type": "WORD",
+    "content": "byte string",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_011548",
+    "type": "WORD",
+    "content": "bytecode",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_011549",
+    "type": "WORD",
+    "content": "bytes-like object",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_011555",
+    "type": "WORD",
+    "content": "byzantine inert",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_011556",
+    "type": "WORD",
+    "content": "bête noire",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_011557",
+    "type": "WORD",
+    "content": "B站UP主TUO图欧君整理出品，网址：https://space.bilibili.com/36184593",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_011559",
+    "type": "WORD",
+    "content": "C and D",
+    "theme": "business_english",
+    "tags": [
+      "BEC",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_011573",
+    "type": "WORD",
+    "content": "cab-hailing apps",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_011579",
+    "type": "WORD",
+    "content": "cabbage lettuce",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_011587",
+    "type": "WORD",
+    "content": "cabin key",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_011588",
+    "type": "WORD",
+    "content": "cabin shed",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_011593",
+    "type": "WORD",
+    "content": "cable cane",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_011608",
+    "type": "WORD",
+    "content": "cacophonus",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_011612",
+    "type": "WORD",
+    "content": "cactus plant",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

@@ -1,0 +1,265 @@
+[
+  {
+    "item_code": "w_055850",
+    "type": "WORD",
+    "content": "plain ugly",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_055864",
+    "type": "WORD",
+    "content": "plan a bicycle trip",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_055865",
+    "type": "WORD",
+    "content": "plan a trip to",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_055868",
+    "type": "WORD",
+    "content": "plan group work",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_055878",
+    "type": "WORD",
+    "content": "plane science",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_055881",
+    "type": "WORD",
+    "content": "planeroid",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_055884",
+    "type": "WORD",
+    "content": "planet science",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_055885",
+    "type": "WORD",
+    "content": "planet society",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_055886",
+    "type": "WORD",
+    "content": "planet's orbit",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_055890",
+    "type": "WORD",
+    "content": "planetary motions",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_055895",
+    "type": "WORD",
+    "content": "planks of wood",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_055900",
+    "type": "WORD",
+    "content": "planned housing estate",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_055904",
+    "type": "WORD",
+    "content": "planning documents pledged that",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_055906",
+    "type": "WORD",
+    "content": "plant a tree",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "The best time to plant a tree is 20 years ago. The second best time is now.",
+        "zh": "种一棵树，最好的时间是20年前，其次是现在。"
+      },
+      {
+        "en": "In order to make us and everyone else remember this day, I ask everyone to plant a tree with us.",
+        "zh": "为了让我们和大家都记住这个日子，我请大家跟我们一起来种树。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_055907",
+    "type": "WORD",
+    "content": "plant and animal species",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_055910",
+    "type": "WORD",
+    "content": "plant flowers",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_055919",
+    "type": "WORD",
+    "content": "plantation copious",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_055924",
+    "type": "WORD",
+    "content": "planting flowers",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_055945",
+    "type": "WORD",
+    "content": "plastic bag ban",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_055952",
+    "type": "WORD",
+    "content": "plastic prolix",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  }
+]

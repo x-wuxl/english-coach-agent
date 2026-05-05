@@ -1,0 +1,297 @@
+[
+  {
+    "item_code": "w_081015",
+    "type": "WORD",
+    "content": "Wilhelm Conrad Rontgen",
+    "theme": "study_abroad",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081016",
+    "type": "WORD",
+    "content": "Wilhelm Weber",
+    "theme": "study_abroad",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081018",
+    "type": "WORD",
+    "content": "will never do",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "expert",
+      "kaoyan",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "Tom will never do it again.",
+        "zh": "汤姆再也不做了。"
+      },
+      {
+        "en": "I swear I will never do such a thing.",
+        "zh": "我發誓我不會做這種事。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_081019",
+    "type": "WORD",
+    "content": "will not",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "I will not go.",
+        "zh": "我不去。"
+      },
+      {
+        "en": "I will not come.",
+        "zh": "我不会来。"
+      },
+      {
+        "en": "She will not die.",
+        "zh": "她不会死。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_081020",
+    "type": "WORD",
+    "content": "willed",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "She pressed her lips together and willed herself not to cry.",
+        "zh": "她合上雙唇，並告訴自己不要哭。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_081033",
+    "type": "WORD",
+    "content": "willy nilly magnificent fabulous",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_081035",
+    "type": "WORD",
+    "content": "Wilson",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "Mr. Wilson is angry at Dennis.",
+        "zh": "威爾遜先生對丹尼斯很生氣。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_081036",
+    "type": "WORD",
+    "content": "Wilson Mizner",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_081038",
+    "type": "WORD",
+    "content": "wilt badger",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_081045",
+    "type": "WORD",
+    "content": "win a gift",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_081046",
+    "type": "WORD",
+    "content": "win a majority",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_081051",
+    "type": "WORD",
+    "content": "win one's fame overnight",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081054",
+    "type": "WORD",
+    "content": "win recognition",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081056",
+    "type": "WORD",
+    "content": "win scholarship",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081067",
+    "type": "WORD",
+    "content": "wind and sand breaks",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081073",
+    "type": "WORD",
+    "content": "wind erosion landform",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081076",
+    "type": "WORD",
+    "content": "wind one's way",
+    "theme": "gaokao",
+    "tags": [
+      "advanced",
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_081077",
+    "type": "WORD",
+    "content": "wind power",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "New York's Empire State Building is now running entirely on wind power.",
+        "zh": "紐約帝國大廈現在完全依靠風力發電。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_081081",
+    "type": "WORD",
+    "content": "wind sb.'s way",
+    "theme": "new_concept",
+    "tags": [
+      "NCE",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_081085",
+    "type": "WORD",
+    "content": "wind the clock",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  }
+]

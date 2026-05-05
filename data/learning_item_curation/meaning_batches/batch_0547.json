@@ -1,0 +1,263 @@
+[
+  {
+    "item_code": "w_053197",
+    "type": "WORD",
+    "content": "owe sb. a favor",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_053201",
+    "type": "WORD",
+    "content": "owe success to sb.",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_053210",
+    "type": "WORD",
+    "content": "own rent",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_053214",
+    "type": "WORD",
+    "content": "own-brand product",
+    "theme": "business_english",
+    "tags": [
+      "BEC",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_053220",
+    "type": "WORD",
+    "content": "ownus",
+    "theme": "business_english",
+    "tags": [
+      "BEC",
+      "advanced",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_053226",
+    "type": "WORD",
+    "content": "Oxford University",
+    "theme": "textbook_primary",
+    "tags": [
+      "junior",
+      "momo"
+    ],
+    "difficulty": 2,
+    "examples": [
+      {
+        "en": "I am a student at Oxford University.",
+        "zh": "我是牛津大学的学生。"
+      },
+      {
+        "en": "He read English Literature at Oxford University.",
+        "zh": "他在牛津大学修了英语文学。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_053243",
+    "type": "WORD",
+    "content": "oxy moron wince",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_053262",
+    "type": "WORD",
+    "content": "oyabun-kobun",
+    "theme": "study_abroad",
+    "tags": [
+      "GMAT",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_053264",
+    "type": "WORD",
+    "content": "oyster consumption",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_053270",
+    "type": "WORD",
+    "content": "ozone molecule",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_053273",
+    "type": "WORD",
+    "content": "p toll tomb",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_053303",
+    "type": "WORD",
+    "content": "pacify hurricane flinch",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_053310",
+    "type": "WORD",
+    "content": "pack gifts elegantly",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_053314",
+    "type": "WORD",
+    "content": "pack pipe cigar",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_053318",
+    "type": "WORD",
+    "content": "package adhere",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_053324",
+    "type": "WORD",
+    "content": "packed to the brim",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_053339",
+    "type": "WORD",
+    "content": "padding pool",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_053344",
+    "type": "WORD",
+    "content": "padiatrist",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_053361",
+    "type": "WORD",
+    "content": "paging",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_053364",
+    "type": "WORD",
+    "content": "paichi",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  }
+]

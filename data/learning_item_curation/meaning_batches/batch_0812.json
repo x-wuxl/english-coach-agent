@@ -1,0 +1,285 @@
+[
+  {
+    "item_code": "w_080277",
+    "type": "WORD",
+    "content": "wayne taper",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_080279",
+    "type": "WORD",
+    "content": "waystral",
+    "theme": "business_english",
+    "tags": [
+      "BEC",
+      "advanced",
+      "beibei"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_080281",
+    "type": "WORD",
+    "content": "wayward doze bridle",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_080285",
+    "type": "WORD",
+    "content": "we decide diffuse habitation",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_080286",
+    "type": "WORD",
+    "content": "we will",
+    "theme": "primary_school",
+    "tags": [
+      "beibei",
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "We will come together.",
+        "zh": "我們會一起來。"
+      },
+      {
+        "en": "We will not play tennis.",
+        "zh": "我们不会打网球。"
+      },
+      {
+        "en": "We will come back tomorrow.",
+        "zh": "我们明天回来。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_080291",
+    "type": "WORD",
+    "content": "We-Media",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080300",
+    "type": "WORD",
+    "content": "weak reference",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_080301",
+    "type": "WORD",
+    "content": "weak weakness",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_080304",
+    "type": "WORD",
+    "content": "weakend",
+    "theme": "college_english",
+    "tags": [
+      "CET4",
+      "CET6",
+      "advanced",
+      "beibei"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_080312",
+    "type": "WORD",
+    "content": "weakness of will",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080317",
+    "type": "WORD",
+    "content": "wealth divide",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_080318",
+    "type": "WORD",
+    "content": "wealth investment product",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080320",
+    "type": "WORD",
+    "content": "wealthy aristocratic families",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080321",
+    "type": "WORD",
+    "content": "wealthy prince",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080326",
+    "type": "WORD",
+    "content": "wear a suit",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080327",
+    "type": "WORD",
+    "content": "wear a white gown",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080334",
+    "type": "WORD",
+    "content": "wear one's learning lightly",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080335",
+    "type": "WORD",
+    "content": "wear out your welcome",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_080337",
+    "type": "WORD",
+    "content": "wear their learning lightly",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080348",
+    "type": "WORD",
+    "content": "wears",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "Tom wears a wig.",
+        "zh": "湯姆戴假髮。"
+      },
+      {
+        "en": "He wears glasses.",
+        "zh": "他戴眼镜。"
+      },
+      {
+        "en": "Tom wears glasses.",
+        "zh": "汤姆戴眼镜。"
+      }
+    ]
+  }
+]

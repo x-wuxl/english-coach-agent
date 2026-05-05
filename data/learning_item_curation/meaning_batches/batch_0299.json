@@ -1,0 +1,266 @@
+[
+  {
+    "item_code": "w_028354",
+    "type": "WORD",
+    "content": "flex stifle",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_028356",
+    "type": "WORD",
+    "content": "flexes retina",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_028357",
+    "type": "WORD",
+    "content": "flexi",
+    "theme": "business_english",
+    "tags": [
+      "BEC",
+      "advanced",
+      "beibei",
+      "senior"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_028360",
+    "type": "WORD",
+    "content": "flexible educational system",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028361",
+    "type": "WORD",
+    "content": "flexible negligence",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_028364",
+    "type": "WORD",
+    "content": "flexible working arrangement",
+    "theme": "business_english",
+    "tags": [
+      "BEC",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_028366",
+    "type": "WORD",
+    "content": "flexible working option",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028374",
+    "type": "WORD",
+    "content": "flexy",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028383",
+    "type": "WORD",
+    "content": "flight directly cancel",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_028385",
+    "type": "WORD",
+    "content": "flight irregularity",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028387",
+    "type": "WORD",
+    "content": "flight regularity",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028404",
+    "type": "WORD",
+    "content": "flipped",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "She flipped her lid immediately.",
+        "zh": "她立即被激怒了。"
+      },
+      {
+        "en": "Tom flipped the coin in the air and then caught it.",
+        "zh": "湯姆把硬幣拋向空中，然後接住了。"
+      },
+      {
+        "en": "Tom hooked his arm under John's shoulder and flipped him over.",
+        "zh": "湯姆把手臂勾進約翰的腋下，把他翻了過去。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_028414",
+    "type": "WORD",
+    "content": "float division",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_028420",
+    "type": "WORD",
+    "content": "floating point",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_028425",
+    "type": "WORD",
+    "content": "flock self abasement",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_028432",
+    "type": "WORD",
+    "content": "flood reserve premises",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028438",
+    "type": "WORD",
+    "content": "floodlit grounds",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_028444",
+    "type": "WORD",
+    "content": "floor division",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_028449",
+    "type": "WORD",
+    "content": "floor senior",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028460",
+    "type": "WORD",
+    "content": "floppy issue",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

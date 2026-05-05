@@ -1,0 +1,324 @@
+[
+  {
+    "item_code": "w_000465",
+    "type": "WORD",
+    "content": "a plausible sounding",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000466",
+    "type": "WORD",
+    "content": "a point",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "You have a point there.",
+        "zh": "喔！你提到一個重點了。"
+      },
+      {
+        "en": "The market rose half a point.",
+        "zh": "市场上涨了半点。"
+      },
+      {
+        "en": "I make a point of being punctual.",
+        "zh": "我重視準時。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000468",
+    "type": "WORD",
+    "content": "a poor",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": [
+      {
+        "en": "I grew up in a poor family.",
+        "zh": "我出身贫寒。"
+      },
+      {
+        "en": "That is, she is a poor dancer.",
+        "zh": "那是, 她是個貧窮的舞者。"
+      },
+      {
+        "en": "Hemingway had a poor writing style.",
+        "zh": "海明威的寫作風格很差勁。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000470",
+    "type": "WORD",
+    "content": "a post office",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "There is a post office close by.",
+        "zh": "附近有一間郵局。"
+      },
+      {
+        "en": "Is there a post office near here?",
+        "zh": "這附近有郵局嗎?"
+      },
+      {
+        "en": "Is there a post office around here?",
+        "zh": "這裏附近有沒有郵政局？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000471",
+    "type": "WORD",
+    "content": "a postal clerk",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000472",
+    "type": "WORD",
+    "content": "a potato",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "His nose looks like a potato.",
+        "zh": "他的鼻子看起来像土豆。"
+      },
+      {
+        "en": "Medium-rare and a potato, please.",
+        "zh": "麻煩牛排三分熟和一份馬鈴薯。"
+      },
+      {
+        "en": "On the plate there is a piece of chicken, a potato and some peas.",
+        "zh": "在盤子裏有一塊雞肉、一個土豆和一些豌豆。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000473",
+    "type": "WORD",
+    "content": "a pound of meat",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000474",
+    "type": "WORD",
+    "content": "a power plant",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000475",
+    "type": "WORD",
+    "content": "a power station",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "Plans are being drawn up to build a power station here.",
+        "zh": "这里正在筹划建设一座发电站。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000476",
+    "type": "WORD",
+    "content": "a praise",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_000477",
+    "type": "WORD",
+    "content": "a precedent-setting test",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000478",
+    "type": "WORD",
+    "content": "a precondition for",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000479",
+    "type": "WORD",
+    "content": "a precondition of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000480",
+    "type": "WORD",
+    "content": "a prevailing practice",
+    "theme": "TEM8",
+    "tags": [
+      "TEM8",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000481",
+    "type": "WORD",
+    "content": "a primal calling",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000483",
+    "type": "WORD",
+    "content": "a private coffer",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000484",
+    "type": "WORD",
+    "content": "a private school",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "Do you go to a private school?",
+        "zh": "你在私立学校读书吗？"
+      },
+      {
+        "en": "Do you study at a private school?",
+        "zh": "你在私立学校读书吗？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000485",
+    "type": "WORD",
+    "content": "a prize satiate gauge",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_000486",
+    "type": "WORD",
+    "content": "a process of ...",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000487",
+    "type": "WORD",
+    "content": "a prominent spot",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  }
+]

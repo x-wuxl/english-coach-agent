@@ -1,0 +1,273 @@
+[
+  {
+    "item_code": "w_075062",
+    "type": "WORD",
+    "content": "to gain popularity",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_075063",
+    "type": "WORD",
+    "content": "to gather medicinal herbs",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_075064",
+    "type": "WORD",
+    "content": "to get chickenpox",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_075069",
+    "type": "WORD",
+    "content": "to improve economic performance",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_075070",
+    "type": "WORD",
+    "content": "to improve energy efficiency",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_075071",
+    "type": "WORD",
+    "content": "to indulge your falsehood",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_075072",
+    "type": "WORD",
+    "content": "to issue paper money",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_075074",
+    "type": "WORD",
+    "content": "to lose the election",
+    "theme": "TEM4",
+    "tags": [
+      "CET4",
+      "TEM4",
+      "advanced",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_075075",
+    "type": "WORD",
+    "content": "to make a living",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_075077",
+    "type": "WORD",
+    "content": "to make things worse",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_075078",
+    "type": "WORD",
+    "content": "to mortgage a house",
+    "theme": "TEM4",
+    "tags": [
+      "CET4",
+      "CET6",
+      "TEM4",
+      "advanced",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_075081",
+    "type": "WORD",
+    "content": "to name after",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_075083",
+    "type": "WORD",
+    "content": "to offer assistance to",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_075088",
+    "type": "WORD",
+    "content": "to one's delight",
+    "theme": "gaokao",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_075090",
+    "type": "WORD",
+    "content": "to one's dismay",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_075091",
+    "type": "WORD",
+    "content": "to one's distress",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_075093",
+    "type": "WORD",
+    "content": "to one's horror",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_075098",
+    "type": "WORD",
+    "content": "to one's regret",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_075099",
+    "type": "WORD",
+    "content": "to one's relief",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_075101",
+    "type": "WORD",
+    "content": "to one's sorrow",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

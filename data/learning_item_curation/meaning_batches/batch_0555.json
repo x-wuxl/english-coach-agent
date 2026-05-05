@@ -1,0 +1,267 @@
+[
+  {
+    "item_code": "w_054165",
+    "type": "WORD",
+    "content": "pattern of presentation",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054174",
+    "type": "WORD",
+    "content": "Paul Stoker",
+    "theme": "junior_high",
+    "tags": [
+      "beibei",
+      "junior",
+      "momo",
+      "primary"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_054180",
+    "type": "WORD",
+    "content": "pause to do",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054182",
+    "type": "WORD",
+    "content": "pave ovary resistant",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_054183",
+    "type": "WORD",
+    "content": "pave plank rebuild",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_054188",
+    "type": "WORD",
+    "content": "pavement sidewalk",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_054199",
+    "type": "WORD",
+    "content": "pay a heavy price",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_054200",
+    "type": "WORD",
+    "content": "pay a mortgage",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054202",
+    "type": "WORD",
+    "content": "pay a price for",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054204",
+    "type": "WORD",
+    "content": "pay and condition",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_054207",
+    "type": "WORD",
+    "content": "pay back the money",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "He promised me to pay back the money.",
+        "zh": "他向我保證會還錢。"
+      },
+      {
+        "en": "Tom wants to pay back the money he owes.",
+        "zh": "汤姆想去还欠的钱。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_054210",
+    "type": "WORD",
+    "content": "pay compliments to sb.",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054212",
+    "type": "WORD",
+    "content": "pay deal",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054217",
+    "type": "WORD",
+    "content": "pay for admission",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054218",
+    "type": "WORD",
+    "content": "pay for contract",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054219",
+    "type": "WORD",
+    "content": "pay for music downloads",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054222",
+    "type": "WORD",
+    "content": "pay increase",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_054223",
+    "type": "WORD",
+    "content": "pay less attention to",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_054224",
+    "type": "WORD",
+    "content": "pay little attention to",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_054225",
+    "type": "WORD",
+    "content": "pay money for sth.",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  }
+]

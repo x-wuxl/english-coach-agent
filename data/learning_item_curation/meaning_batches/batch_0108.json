@@ -1,0 +1,261 @@
+[
+  {
+    "item_code": "w_008927",
+    "type": "WORD",
+    "content": "beyond one's reach",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_008934",
+    "type": "WORD",
+    "content": "beyond the capabilities of",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_008935",
+    "type": "WORD",
+    "content": "beyond the capability of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_008936",
+    "type": "WORD",
+    "content": "beyond the dreams of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_008946",
+    "type": "WORD",
+    "content": "biannial",
+    "theme": "business_english",
+    "tags": [
+      "BEC",
+      "advanced",
+      "beibei"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_008948",
+    "type": "WORD",
+    "content": "Biarni",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_008971",
+    "type": "WORD",
+    "content": "bicept",
+    "theme": "TEM4",
+    "tags": [
+      "GMAT",
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_008974",
+    "type": "WORD",
+    "content": "bicolic",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_008983",
+    "type": "WORD",
+    "content": "bicycle pedal cyclist",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_008984",
+    "type": "WORD",
+    "content": "bicycle sharing",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_008989",
+    "type": "WORD",
+    "content": "bid ... goodbye",
+    "theme": "textbook_primary",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_008990",
+    "type": "WORD",
+    "content": "bid assurance",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_008996",
+    "type": "WORD",
+    "content": "bid up price",
+    "theme": "TEM4",
+    "tags": [
+      "CET4",
+      "TEM4",
+      "TEM8",
+      "advanced",
+      "expert",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_009011",
+    "type": "WORD",
+    "content": "bifurcate euphemism surrender",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_009019",
+    "type": "WORD",
+    "content": "big cuts",
+    "theme": "business_english",
+    "tags": [
+      "BEC",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_009024",
+    "type": "WORD",
+    "content": "big megabucks",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_009027",
+    "type": "WORD",
+    "content": "big sales",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_009028",
+    "type": "WORD",
+    "content": "big scenes",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_009029",
+    "type": "WORD",
+    "content": "big seas",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_009031",
+    "type": "WORD",
+    "content": "big V",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

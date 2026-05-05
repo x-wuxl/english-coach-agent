@@ -1,0 +1,261 @@
+[
+  {
+    "item_code": "w_027248",
+    "type": "WORD",
+    "content": "feed sb",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_027249",
+    "type": "WORD",
+    "content": "feed sb. a line",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_027252",
+    "type": "WORD",
+    "content": "feed the shark",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_027257",
+    "type": "WORD",
+    "content": "feedback session",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_027261",
+    "type": "WORD",
+    "content": "feeding our cat",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_027262",
+    "type": "WORD",
+    "content": "feeding our dog",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_027269",
+    "type": "WORD",
+    "content": "feel an interest in",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_027273",
+    "type": "WORD",
+    "content": "feel at one's ease",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_027274",
+    "type": "WORD",
+    "content": "feel at sea",
+    "theme": "TEM4",
+    "tags": [
+      "CET4",
+      "TEM4",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_027279",
+    "type": "WORD",
+    "content": "feel bored with",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_027282",
+    "type": "WORD",
+    "content": "feel comfortable with",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_027283",
+    "type": "WORD",
+    "content": "feel compelled to",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "expert",
+      "kaoyan",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_027285",
+    "type": "WORD",
+    "content": "feel cozy",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_027287",
+    "type": "WORD",
+    "content": "feel disappointed at ...",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_027289",
+    "type": "WORD",
+    "content": "feel drowsy",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_027290",
+    "type": "WORD",
+    "content": "feel entitled to sth.",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "beibei",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_027297",
+    "type": "WORD",
+    "content": "feel honoured to do",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_027300",
+    "type": "WORD",
+    "content": "feel in the mood",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_027301",
+    "type": "WORD",
+    "content": "feel interest in",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_027308",
+    "type": "WORD",
+    "content": "feel lonely or stressful",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

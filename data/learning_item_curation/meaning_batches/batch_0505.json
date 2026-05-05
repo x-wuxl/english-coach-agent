@@ -1,0 +1,261 @@
+[
+  {
+    "item_code": "w_048954",
+    "type": "WORD",
+    "content": "nacy relevant",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_048955",
+    "type": "WORD",
+    "content": "nader",
+    "theme": "study_abroad",
+    "tags": [
+      "GMAT",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_048965",
+    "type": "WORD",
+    "content": "nail antiviral",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_048973",
+    "type": "WORD",
+    "content": "Nair",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_048979",
+    "type": "WORD",
+    "content": "naiveté",
+    "theme": "english_major",
+    "tags": [
+      "GRE",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_048983",
+    "type": "WORD",
+    "content": "naked kiss",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_048985",
+    "type": "WORD",
+    "content": "naked official",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_048997",
+    "type": "WORD",
+    "content": "name mangling",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_049000",
+    "type": "WORD",
+    "content": "name something after",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_049005",
+    "type": "WORD",
+    "content": "named tuple",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_049008",
+    "type": "WORD",
+    "content": "namenculture",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_049011",
+    "type": "WORD",
+    "content": "namespace",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_049012",
+    "type": "WORD",
+    "content": "namespace package",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_049013",
+    "type": "WORD",
+    "content": "nametag ripping",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_049015",
+    "type": "WORD",
+    "content": "Namjin",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_049016",
+    "type": "WORD",
+    "content": "nan",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "My nan gave me this necklace.",
+        "zh": "这条项链是我奶奶送给我的。"
+      },
+      {
+        "en": "I had nan with tea for breakfast.",
+        "zh": "我早饭吃了馕再喝了茶。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_049020",
+    "type": "WORD",
+    "content": "nanny blacklist",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_049021",
+    "type": "WORD",
+    "content": "nanny industry",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_049029",
+    "type": "WORD",
+    "content": "nanopharmaceutical",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_049039",
+    "type": "WORD",
+    "content": "nappy diaper babysitter",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  }
+]

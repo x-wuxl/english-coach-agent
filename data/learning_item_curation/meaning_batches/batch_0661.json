@@ -1,0 +1,268 @@
+[
+  {
+    "item_code": "w_065294",
+    "type": "WORD",
+    "content": "semisubsistence",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065305",
+    "type": "WORD",
+    "content": "send ... to prison",
+    "theme": "junior_high",
+    "tags": [
+      "beibei",
+      "junior",
+      "momo",
+      "primary"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_065307",
+    "type": "WORD",
+    "content": "send a message",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "I'll send a message to Tom.",
+        "zh": "我会给汤姆发信息。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_065308",
+    "type": "WORD",
+    "content": "send a short message",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_065309",
+    "type": "WORD",
+    "content": "send an e-mail",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_065310",
+    "type": "WORD",
+    "content": "send an email",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_065314",
+    "type": "WORD",
+    "content": "send emails",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065318",
+    "type": "WORD",
+    "content": "send invitations",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "How many people did you send invitations to?",
+        "zh": "你給多少人發了邀請函？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_065319",
+    "type": "WORD",
+    "content": "send letters to ...",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065320",
+    "type": "WORD",
+    "content": "send newsletters",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065323",
+    "type": "WORD",
+    "content": "send out a questionnaire",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065324",
+    "type": "WORD",
+    "content": "send out signals",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065327",
+    "type": "WORD",
+    "content": "send SMS",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065329",
+    "type": "WORD",
+    "content": "send someone to ...",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065334",
+    "type": "WORD",
+    "content": "sending device",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065340",
+    "type": "WORD",
+    "content": "senescent sponge cupboard",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_065353",
+    "type": "WORD",
+    "content": "senior position",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065354",
+    "type": "WORD",
+    "content": "senior researcher",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065356",
+    "type": "WORD",
+    "content": "senior secretary",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065362",
+    "type": "WORD",
+    "content": "seniors' home",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  }
+]

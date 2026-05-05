@@ -1,0 +1,275 @@
+[
+  {
+    "item_code": "w_074131",
+    "type": "WORD",
+    "content": "the West Lake",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_074136",
+    "type": "WORD",
+    "content": "the World Cup",
+    "theme": "textbook_primary",
+    "tags": [
+      "junior",
+      "momo"
+    ],
+    "difficulty": 2,
+    "examples": [
+      {
+        "en": "The Netherlands have won the 2010 World Cup.",
+        "zh": "荷蘭贏得了2010年世界杯足球賽。"
+      },
+      {
+        "en": "The World Cup is going to start on the 11th.",
+        "zh": "世界杯 11 号就要开始了。"
+      },
+      {
+        "en": "No one is working. Everyone's watching the World Cup.",
+        "zh": "谁也不工作。大家在看世界杯。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_074139",
+    "type": "WORD",
+    "content": "the World Wildlife Fund",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": [
+      {
+        "en": "When the World Wildlife Fund was founded in 1961, it took the panda as its symbol.",
+        "zh": "国际野生动物基金在一九六一年创办的时候，以熊猫为象征。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_074140",
+    "type": "WORD",
+    "content": "the World Wireless Forum",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_074141",
+    "type": "WORD",
+    "content": "the Xia Dynasty",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_074144",
+    "type": "WORD",
+    "content": "the year to come",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_074150",
+    "type": "WORD",
+    "content": "theater group",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074154",
+    "type": "WORD",
+    "content": "theatre chain",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074155",
+    "type": "WORD",
+    "content": "theatre empire",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074156",
+    "type": "WORD",
+    "content": "theatre fan",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074157",
+    "type": "WORD",
+    "content": "Theatre Royal",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074160",
+    "type": "WORD",
+    "content": "theatrical art",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_074164",
+    "type": "WORD",
+    "content": "theatrical text",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074187",
+    "type": "WORD",
+    "content": "theocrist",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074199",
+    "type": "WORD",
+    "content": "theoretical exploration",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074202",
+    "type": "WORD",
+    "content": "theoretical magazine",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074210",
+    "type": "WORD",
+    "content": "theory chapters",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074213",
+    "type": "WORD",
+    "content": "therago",
+    "theme": "study_abroad",
+    "tags": [
+      "GMAT",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_074215",
+    "type": "WORD",
+    "content": "therapeutic approach",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074216",
+    "type": "WORD",
+    "content": "therapeutic conviction",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  }
+]

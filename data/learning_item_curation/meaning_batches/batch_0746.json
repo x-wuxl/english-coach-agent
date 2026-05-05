@@ -1,0 +1,290 @@
+[
+  {
+    "item_code": "w_073574",
+    "type": "WORD",
+    "content": "the assistant dean",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073575",
+    "type": "WORD",
+    "content": "the astronomy community",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073578",
+    "type": "WORD",
+    "content": "the attitude to sth.",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_073582",
+    "type": "WORD",
+    "content": "the Baltic Sea",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_073583",
+    "type": "WORD",
+    "content": "the ban on doing",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_073584",
+    "type": "WORD",
+    "content": "the ban on sth.",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_073585",
+    "type": "WORD",
+    "content": "the Banpo Museum",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073587",
+    "type": "WORD",
+    "content": "the bar exam",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073588",
+    "type": "WORD",
+    "content": "the barber's",
+    "theme": "new_concept",
+    "tags": [
+      "NCE",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "I met him at the barber's.",
+        "zh": "我在理发店碰到了他。"
+      },
+      {
+        "en": "I have been to the barber's.",
+        "zh": "我去了理发店。"
+      },
+      {
+        "en": "Where have you been? \"I've been to the barber's.\"",
+        "zh": "你去哪儿了？我去了理发店。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_073589",
+    "type": "WORD",
+    "content": "the bare minimum",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073590",
+    "type": "WORD",
+    "content": "the Bay of Islands",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_073592",
+    "type": "WORD",
+    "content": "the Belt and Road",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073593",
+    "type": "WORD",
+    "content": "the Bering Sea",
+    "theme": "study_abroad",
+    "tags": [
+      "GMAT",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_073595",
+    "type": "WORD",
+    "content": "the best-built rocket",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_073599",
+    "type": "WORD",
+    "content": "the bigger picture",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073600",
+    "type": "WORD",
+    "content": "The Bilski case",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073601",
+    "type": "WORD",
+    "content": "the Bird's Nest",
+    "theme": "junior_high",
+    "tags": [
+      "beibei",
+      "junior",
+      "momo",
+      "primary"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_073604",
+    "type": "WORD",
+    "content": "the bonding hormone",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073606",
+    "type": "WORD",
+    "content": "the bottom of",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "expert",
+      "kaoyan",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "He often sees the bottom of the glass.",
+        "zh": "他经常看杯底。"
+      },
+      {
+        "en": "I thank you from the bottom of my heart.",
+        "zh": "我打心底里感激你。"
+      },
+      {
+        "en": "She is always at the bottom of the class.",
+        "zh": "她总是在班上拿倒数第一。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_073607",
+    "type": "WORD",
+    "content": "the boundaries of routine",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

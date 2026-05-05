@@ -1,0 +1,282 @@
+[
+  {
+    "item_code": "w_004526",
+    "type": "WORD",
+    "content": "arouse one's curiosity",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_004527",
+    "type": "WORD",
+    "content": "arouse one's interest",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_004528",
+    "type": "WORD",
+    "content": "arouse people's curiosity",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_004529",
+    "type": "WORD",
+    "content": "arouse the enthusiasm",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_004530",
+    "type": "WORD",
+    "content": "arouse the interest",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_004535",
+    "type": "WORD",
+    "content": "arrange accommodation for sb.",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_004537",
+    "type": "WORD",
+    "content": "arrange matches and venues",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_004539",
+    "type": "WORD",
+    "content": "arrange the party",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_004545",
+    "type": "WORD",
+    "content": "array feedback",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_004546",
+    "type": "WORD",
+    "content": "array of",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": [
+      {
+        "en": "The trigonometric functions satisfy a wide array of notable algebraic identities.",
+        "zh": "三角函數滿足各種代數恆等式。"
+      },
+      {
+        "en": "Behind every animal on the Chinese zodiac lies an array of proverbs, sayings and stories.",
+        "zh": "每一個生肖的背後都有著數不盡的成語、諺語和故事。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_004550",
+    "type": "WORD",
+    "content": "arrest arcane sin",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_004556",
+    "type": "WORD",
+    "content": "arresting premeditate dissemble",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_004558",
+    "type": "WORD",
+    "content": "arrestments",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_004563",
+    "type": "WORD",
+    "content": "arrival airport",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_004566",
+    "type": "WORD",
+    "content": "arrival return",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_004572",
+    "type": "WORD",
+    "content": "arrive at a place",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "junior",
+      "momo",
+      "senior",
+      "zhongkao"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_004575",
+    "type": "WORD",
+    "content": "arrive in a body",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_004576",
+    "type": "WORD",
+    "content": "arrive in a place",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "junior",
+      "momo",
+      "senior",
+      "zhongkao"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_004577",
+    "type": "WORD",
+    "content": "arrive late",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "Heroes always arrive late.",
+        "zh": "英雄總是來得太遲。"
+      },
+      {
+        "en": "If I am busy then I may arrive late.",
+        "zh": "要是我很忙，我可能就会迟到。"
+      },
+      {
+        "en": "I have to go, otherwise I'll arrive late.",
+        "zh": "我該走了，要不然我會遲到的。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_004579",
+    "type": "WORD",
+    "content": "arrive on the job",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

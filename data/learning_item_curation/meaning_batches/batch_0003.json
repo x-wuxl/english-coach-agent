@@ -1,0 +1,278 @@
+[
+  {
+    "item_code": "w_000107",
+    "type": "WORD",
+    "content": "a bowl of",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "A bowl of rice is about 180 grams.",
+        "zh": "一碗飯大約重一百八十克。"
+      },
+      {
+        "en": "A bowl of rice weighs about 180 grams.",
+        "zh": "一碗飯大約重一百八十克。"
+      },
+      {
+        "en": "Every morning I eat a bowl of oatmeal.",
+        "zh": "我每天早晨吃一碗麦片粥。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000108",
+    "type": "WORD",
+    "content": "a bowl of noodles",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_000111",
+    "type": "WORD",
+    "content": "a box of cereal",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000112",
+    "type": "WORD",
+    "content": "a box of crayons",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_000113",
+    "type": "WORD",
+    "content": "a box office smash",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000114",
+    "type": "WORD",
+    "content": "a breath away",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_000115",
+    "type": "WORD",
+    "content": "a brief account",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000116",
+    "type": "WORD",
+    "content": "a brief sleep",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000117",
+    "type": "WORD",
+    "content": "a broad range of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000118",
+    "type": "WORD",
+    "content": "a brown patch",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000119",
+    "type": "WORD",
+    "content": "a budding economic recovery",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000120",
+    "type": "WORD",
+    "content": "a bull market",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000121",
+    "type": "WORD",
+    "content": "a bulletin board",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000123",
+    "type": "WORD",
+    "content": "a bunch of bananas",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000125",
+    "type": "WORD",
+    "content": "a burst of",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_000127",
+    "type": "WORD",
+    "content": "a butterfly",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "Oh, a butterfly!",
+        "zh": "哦，一只蝴蝶！"
+      },
+      {
+        "en": "Look, a butterfly!",
+        "zh": "你看看，一只蝴蝶！"
+      },
+      {
+        "en": "Oh, there's a butterfly!",
+        "zh": "哦！有一隻蝴蝶！"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000129",
+    "type": "WORD",
+    "content": "a campaign donation",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000132",
+    "type": "WORD",
+    "content": "a can of soup",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000133",
+    "type": "WORD",
+    "content": "a can opener",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000137",
+    "type": "WORD",
+    "content": "a carrot",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  }
+]

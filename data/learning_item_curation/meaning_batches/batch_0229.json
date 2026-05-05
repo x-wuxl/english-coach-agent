@@ -1,0 +1,262 @@
+[
+  {
+    "item_code": "w_021740",
+    "type": "WORD",
+    "content": "dnes",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021751",
+    "type": "WORD",
+    "content": "do a chemistry experiment",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021753",
+    "type": "WORD",
+    "content": "do a face-to-face interview",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021755",
+    "type": "WORD",
+    "content": "do a flip-flop",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_021757",
+    "type": "WORD",
+    "content": "do a presentation on",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021759",
+    "type": "WORD",
+    "content": "do an about face",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_021760",
+    "type": "WORD",
+    "content": "do anticipate",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021761",
+    "type": "WORD",
+    "content": "do athletics",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_021764",
+    "type": "WORD",
+    "content": "do background reading",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021765",
+    "type": "WORD",
+    "content": "do better in ...",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_021768",
+    "type": "WORD",
+    "content": "do card tricks",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021773",
+    "type": "WORD",
+    "content": "do delay",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_021775",
+    "type": "WORD",
+    "content": "do exhibitions",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021776",
+    "type": "WORD",
+    "content": "do eye exercises",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_021778",
+    "type": "WORD",
+    "content": "do further study",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021779",
+    "type": "WORD",
+    "content": "do general research",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021780",
+    "type": "WORD",
+    "content": "do good deeds",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_021783",
+    "type": "WORD",
+    "content": "do gymnastics",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "We're supposed to do gymnastics now!",
+        "zh": "该做体操了！"
+      },
+      {
+        "en": "You're supposed to do gymnastics now!",
+        "zh": "该做体操了！"
+      }
+    ]
+  },
+  {
+    "item_code": "w_021787",
+    "type": "WORD",
+    "content": "do harm to sb.",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_021793",
+    "type": "WORD",
+    "content": "do jogging",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

@@ -1,0 +1,299 @@
+[
+  {
+    "item_code": "w_000433",
+    "type": "WORD",
+    "content": "a panda",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "You're a panda.",
+        "zh": "你是熊貓。"
+      },
+      {
+        "en": "You are a panda.",
+        "zh": "你是熊貓。"
+      },
+      {
+        "en": "Have you ever seen a panda?",
+        "zh": "你見過熊貓嗎？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000434",
+    "type": "WORD",
+    "content": "a pane of glass",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000437",
+    "type": "WORD",
+    "content": "a passing fad",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000438",
+    "type": "WORD",
+    "content": "a passive viewer",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000439",
+    "type": "WORD",
+    "content": "a past-tense condition",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000440",
+    "type": "WORD",
+    "content": "a patent attorney",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000441",
+    "type": "WORD",
+    "content": "a patriotic Chu poet",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_000444",
+    "type": "WORD",
+    "content": "a pear",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "This is a pear, not an apple.",
+        "zh": "這是只梨，不是蘋果。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000446",
+    "type": "WORD",
+    "content": "a pencil",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "I need a pencil.",
+        "zh": "我需要支铅笔。"
+      },
+      {
+        "en": "That's a pencil.",
+        "zh": "那是一支铅笔。"
+      },
+      {
+        "en": "That is a pencil.",
+        "zh": "那是一支铅笔。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000447",
+    "type": "WORD",
+    "content": "a pencil box",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_000448",
+    "type": "WORD",
+    "content": "a perforated eardrum",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000449",
+    "type": "WORD",
+    "content": "a phone call away",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000450",
+    "type": "WORD",
+    "content": "a physical newspaper",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000455",
+    "type": "WORD",
+    "content": "a piece of clothing",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_000458",
+    "type": "WORD",
+    "content": "a pillar industry",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000459",
+    "type": "WORD",
+    "content": "a pink slip",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000460",
+    "type": "WORD",
+    "content": "a place of interest",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000461",
+    "type": "WORD",
+    "content": "a plan of action",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000463",
+    "type": "WORD",
+    "content": "a plant-powered device",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000464",
+    "type": "WORD",
+    "content": "a plate of",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "I would kill for a plate of polo right now.",
+        "zh": "我现在很想吃一盘抓饭。"
+      },
+      {
+        "en": "A plate of pilaf with some kebabs is heaven on earth.",
+        "zh": "一盘抓饭配一些烤肉串就是人间天堂。"
+      },
+      {
+        "en": "A plate of pulao with some kebabs is heaven on earth.",
+        "zh": "一盘抓饭配一些烤肉串就是人间天堂。"
+      }
+    ]
+  }
+]

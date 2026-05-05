@@ -1,0 +1,279 @@
+[
+  {
+    "item_code": "w_049762",
+    "type": "WORD",
+    "content": "New Year's gift",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_049765",
+    "type": "WORD",
+    "content": "New York Harbour",
+    "theme": "new_concept",
+    "tags": [
+      "NCE",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_049768",
+    "type": "WORD",
+    "content": "New Zealand's National Party",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_049770",
+    "type": "WORD",
+    "content": "new-energy vehicles",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_049772",
+    "type": "WORD",
+    "content": "new-style class",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_049779",
+    "type": "WORD",
+    "content": "newline",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_049781",
+    "type": "WORD",
+    "content": "newly staked mining claims",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_049784",
+    "type": "WORD",
+    "content": "newly-literate",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_049792",
+    "type": "WORD",
+    "content": "news blockout",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_049799",
+    "type": "WORD",
+    "content": "news feed ad",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_049814",
+    "type": "WORD",
+    "content": "newscast patron shipment bacteria",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_049823",
+    "type": "WORD",
+    "content": "newspaper and magazine office",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_049824",
+    "type": "WORD",
+    "content": "newspaper binder",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_049828",
+    "type": "WORD",
+    "content": "newspaper supplement",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_049842",
+    "type": "WORD",
+    "content": "Newton's Laws of Motions",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_049851",
+    "type": "WORD",
+    "content": "next summer",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "Tom and I have decided to go to Australia next summer.",
+        "zh": "汤姆和我决定下个夏天去澳大利亚。"
+      },
+      {
+        "en": "Mary invited me to stay a couple of weeks with her next summer.",
+        "zh": "瑪莉邀請我明年夏天陪她待幾個星期。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_049857",
+    "type": "WORD",
+    "content": "next weekend",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "What do you have planned for next weekend?",
+        "zh": "你下个周末有什么安排？"
+      },
+      {
+        "en": "What have you got planned for next weekend?",
+        "zh": "你下个周末有什么安排？"
+      },
+      {
+        "en": "Have you got anything planned for next weekend?",
+        "zh": "你下个周末有什么安排吗？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_049860",
+    "type": "WORD",
+    "content": "next-to-no-cost",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_049861",
+    "type": "WORD",
+    "content": "next-to-no-cost program",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_049863",
+    "type": "WORD",
+    "content": "nexus frothy",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  }
+]

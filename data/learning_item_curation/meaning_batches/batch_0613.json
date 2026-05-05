@@ -1,0 +1,299 @@
+[
+  {
+    "item_code": "w_060289",
+    "type": "WORD",
+    "content": "reach saturation",
+    "theme": "TEM8",
+    "tags": [
+      "TEM8",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_060292",
+    "type": "WORD",
+    "content": "reaching",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert",
+      "kaoyan"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "I am reaching the climax.",
+        "zh": "我快要到高潮了。"
+      },
+      {
+        "en": "There is no way of reaching the island other than by boat.",
+        "zh": "除了乘船，就沒有其他方法可以到達那個島了。"
+      },
+      {
+        "en": "I had to wait 20 minutes on the phone before reaching the customer service rep.",
+        "zh": "我不得不在電話裡等了 20 分鐘才聯繫到客服代表。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_060296",
+    "type": "WORD",
+    "content": "react oblique leary",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_060303",
+    "type": "WORD",
+    "content": "reaction against",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_060305",
+    "type": "WORD",
+    "content": "reactionary allude",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_060314",
+    "type": "WORD",
+    "content": "read a newspaper",
+    "theme": "junior_high",
+    "tags": [
+      "beibei",
+      "junior",
+      "momo",
+      "primary",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_060315",
+    "type": "WORD",
+    "content": "read a story",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_060317",
+    "type": "WORD",
+    "content": "read an e-book",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_060320",
+    "type": "WORD",
+    "content": "read difficulty",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_060321",
+    "type": "WORD",
+    "content": "read extensively",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_060323",
+    "type": "WORD",
+    "content": "read in bed",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_060324",
+    "type": "WORD",
+    "content": "read novels online",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_060328",
+    "type": "WORD",
+    "content": "read one's thoughts",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_060329",
+    "type": "WORD",
+    "content": "read only physical books",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_060342",
+    "type": "WORD",
+    "content": "reading a book",
+    "theme": "primary_school",
+    "tags": [
+      "beibei",
+      "expert",
+      "momo",
+      "primary"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "He is reading a book.",
+        "zh": "他在看书。"
+      },
+      {
+        "en": "Tom is reading a book.",
+        "zh": "汤姆正在看书。"
+      },
+      {
+        "en": "They're reading a book.",
+        "zh": "他们正在读一本书。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_060344",
+    "type": "WORD",
+    "content": "reading extensively",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_060347",
+    "type": "WORD",
+    "content": "reading quantity",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_060349",
+    "type": "WORD",
+    "content": "reading strategy",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_060350",
+    "type": "WORD",
+    "content": "reading the newspaper",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "I'm reading the newspaper.",
+        "zh": "我正在读报纸。"
+      },
+      {
+        "en": "My father is in the habit of reading the newspaper before breakfast.",
+        "zh": "我父亲有个习惯，早餐之前读报纸。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_060351",
+    "type": "WORD",
+    "content": "reading volumes",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

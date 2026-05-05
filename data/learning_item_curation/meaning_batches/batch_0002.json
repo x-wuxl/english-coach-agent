@@ -1,0 +1,298 @@
+[
+  {
+    "item_code": "w_000065",
+    "type": "WORD",
+    "content": "a base debacle",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_000066",
+    "type": "WORD",
+    "content": "a basic human urge",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000071",
+    "type": "WORD",
+    "content": "a beach holiday",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000072",
+    "type": "WORD",
+    "content": "a beach person",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000079",
+    "type": "WORD",
+    "content": "a belt of trees",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000080",
+    "type": "WORD",
+    "content": "a better understanding of",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "Tom certainly has a better understanding of this matter than I do.",
+        "zh": "汤姆比我更懂这件事。"
+      },
+      {
+        "en": "That's to say, I have a better understanding of the Chinese nation.",
+        "zh": "也就是說，我更加地了解了中國。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000082",
+    "type": "WORD",
+    "content": "a big potato",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000088",
+    "type": "WORD",
+    "content": "a blitz on sth.",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000089",
+    "type": "WORD",
+    "content": "a block of marble",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000090",
+    "type": "WORD",
+    "content": "a blockbuster film",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000091",
+    "type": "WORD",
+    "content": "a blood vessel",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000092",
+    "type": "WORD",
+    "content": "a blouse",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "Mary bought a shirt and a blouse.",
+        "zh": "玛丽买了一件衬衫和一件女式衬衫。"
+      },
+      {
+        "en": "Janet bought a skirt and a blouse.",
+        "zh": "珍妮特買了一條裙子和一件襯衫。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000093",
+    "type": "WORD",
+    "content": "a blow to",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000094",
+    "type": "WORD",
+    "content": "a boarding pass",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000098",
+    "type": "WORD",
+    "content": "a book",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "I see a book.",
+        "zh": "我看到一本書。"
+      },
+      {
+        "en": "It is a book.",
+        "zh": "是一本書。"
+      },
+      {
+        "en": "I have a book.",
+        "zh": "我有一本书。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000099",
+    "type": "WORD",
+    "content": "a boon to",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_000100",
+    "type": "WORD",
+    "content": "a bosom friend",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000101",
+    "type": "WORD",
+    "content": "a bottle",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "Give me a bottle of wine.",
+        "zh": "給我一瓶葡萄酒。"
+      },
+      {
+        "en": "Wine is a poem in a bottle.",
+        "zh": "酒是灌入瓶中的诗。"
+      },
+      {
+        "en": "I beg you, give me a bottle!",
+        "zh": "求你了，给我一个瓶子吧！"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000104",
+    "type": "WORD",
+    "content": "a bottle of ketchup",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000106",
+    "type": "WORD",
+    "content": "a bouquet of flowers",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  }
+]

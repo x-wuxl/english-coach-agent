@@ -1,0 +1,260 @@
+[
+  {
+    "item_code": "w_030740",
+    "type": "WORD",
+    "content": "get a dirty look",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_030742",
+    "type": "WORD",
+    "content": "get a fever",
+    "theme": "textbook_primary",
+    "tags": [
+      "CET4",
+      "CET6",
+      "TOEFL",
+      "advanced",
+      "expert",
+      "momo",
+      "primary"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_030743",
+    "type": "WORD",
+    "content": "get a flat tire",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_030746",
+    "type": "WORD",
+    "content": "get a good deal",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_030747",
+    "type": "WORD",
+    "content": "get a grasp on",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_030749",
+    "type": "WORD",
+    "content": "get a hand",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_030750",
+    "type": "WORD",
+    "content": "get a hard time",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_030752",
+    "type": "WORD",
+    "content": "get a high fever",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_030753",
+    "type": "WORD",
+    "content": "get a hurry on",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_030754",
+    "type": "WORD",
+    "content": "get a job offer",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_030760",
+    "type": "WORD",
+    "content": "get a nap",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_030761",
+    "type": "WORD",
+    "content": "get a pay rise",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_030762",
+    "type": "WORD",
+    "content": "get a prize",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_030763",
+    "type": "WORD",
+    "content": "get a promotion",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_030765",
+    "type": "WORD",
+    "content": "get a red face",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_030766",
+    "type": "WORD",
+    "content": "get a refund",
+    "theme": "toefl",
+    "tags": [
+      "IELTS",
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "Can I get a refund for this train ticket?",
+        "zh": "這張火車票能報銷嗎？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_030767",
+    "type": "WORD",
+    "content": "get a reputation",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_030769",
+    "type": "WORD",
+    "content": "get a rough idea",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_030770",
+    "type": "WORD",
+    "content": "get a shellacking",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_030771",
+    "type": "WORD",
+    "content": "get a shock",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

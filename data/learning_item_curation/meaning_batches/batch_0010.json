@@ -1,0 +1,276 @@
+[
+  {
+    "item_code": "w_000336",
+    "type": "WORD",
+    "content": "a lasting love",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000337",
+    "type": "WORD",
+    "content": "a laundry list of",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_000338",
+    "type": "WORD",
+    "content": "a lavish lifestyle",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000339",
+    "type": "WORD",
+    "content": "a layer of ash",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000340",
+    "type": "WORD",
+    "content": "a leading position",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000341",
+    "type": "WORD",
+    "content": "a leading sporting nation",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000343",
+    "type": "WORD",
+    "content": "a learned person",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_000344",
+    "type": "WORD",
+    "content": "a learning society",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_000345",
+    "type": "WORD",
+    "content": "a legacy product",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000346",
+    "type": "WORD",
+    "content": "a legislature building",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000347",
+    "type": "WORD",
+    "content": "a line segment",
+    "theme": "study_abroad",
+    "tags": [
+      "GMAT",
+      "GRE",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_000348",
+    "type": "WORD",
+    "content": "a lion",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "A lion is an animal.",
+        "zh": "獅子是動物。"
+      },
+      {
+        "en": "Every dog is a lion at home.",
+        "zh": "每条狗在自己家就是狮子。"
+      },
+      {
+        "en": "I was surprised to see a lion.",
+        "zh": "我很驚訝竟然看到了獅子。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000351",
+    "type": "WORD",
+    "content": "a liter of milk",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_000354",
+    "type": "WORD",
+    "content": "a little log cabin",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000355",
+    "type": "WORD",
+    "content": "a living fossil",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_000357",
+    "type": "WORD",
+    "content": "a local newspaper",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000360",
+    "type": "WORD",
+    "content": "a longstanding commitment",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000364",
+    "type": "WORD",
+    "content": "a lottery ticket",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "Tom bought a lottery ticket.",
+        "zh": "汤姆买了张彩票。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000365",
+    "type": "WORD",
+    "content": "a low-carbon economy",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000366",
+    "type": "WORD",
+    "content": "a lucky charm",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

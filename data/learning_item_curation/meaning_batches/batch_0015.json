@@ -1,0 +1,285 @@
+[
+  {
+    "item_code": "w_000488",
+    "type": "WORD",
+    "content": "a promising future",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000489",
+    "type": "WORD",
+    "content": "a public school",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "I've been a public school teacher for the past thirteen years.",
+        "zh": "過去 13 年，我都是公立學校的老師。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000490",
+    "type": "WORD",
+    "content": "a puffed-out first-timer",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000491",
+    "type": "WORD",
+    "content": "a puppet",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "The Foreign Minister was a puppet.",
+        "zh": "外交部长是个没主见的人。"
+      },
+      {
+        "en": "During the 20th century, Manchukuo was a puppet state.",
+        "zh": "在20世紀期間，滿洲國是一個傀儡國家。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000492",
+    "type": "WORD",
+    "content": "a puzzle",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "What a puzzle.",
+        "zh": "多讓人不解呀！"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000494",
+    "type": "WORD",
+    "content": "a quarter after",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000495",
+    "type": "WORD",
+    "content": "a quarter after six",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000496",
+    "type": "WORD",
+    "content": "a quarter past ...",
+    "theme": "new_concept",
+    "tags": [
+      "NCE",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000497",
+    "type": "WORD",
+    "content": "a quarter past seven",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "I have my supper at a quarter past seven.",
+        "zh": "我在七時十五分吃晚飯。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000498",
+    "type": "WORD",
+    "content": "a quarter to",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "It's a quarter to seven.",
+        "zh": "六点四十五了。"
+      },
+      {
+        "en": "It's a quarter to three.",
+        "zh": "現在是兩點四十五分。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000499",
+    "type": "WORD",
+    "content": "a quarter to ...",
+    "theme": "textbook_primary",
+    "tags": [
+      "NCE",
+      "momo",
+      "primary",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000500",
+    "type": "WORD",
+    "content": "a quarter to eight",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_000501",
+    "type": "WORD",
+    "content": "a quarter to six",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000502",
+    "type": "WORD",
+    "content": "a quiet neighborhood",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000503",
+    "type": "WORD",
+    "content": "a quiz show",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000505",
+    "type": "WORD",
+    "content": "a rather startling assertion",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000506",
+    "type": "WORD",
+    "content": "a real estate agent",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000507",
+    "type": "WORD",
+    "content": "a reality show",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000508",
+    "type": "WORD",
+    "content": "a reasonable excuse",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000509",
+    "type": "WORD",
+    "content": "a red packet",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  }
+]

@@ -1,0 +1,277 @@
+[
+  {
+    "item_code": "w_073800",
+    "type": "WORD",
+    "content": "the Kalahari Desert",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_073803",
+    "type": "WORD",
+    "content": "the Kingdom of Bicycles",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_073805",
+    "type": "WORD",
+    "content": "The Lancang-Mekong Cooperation mechanism",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073812",
+    "type": "WORD",
+    "content": "the latest gadgets",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_073813",
+    "type": "WORD",
+    "content": "the latest rage",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073815",
+    "type": "WORD",
+    "content": "the latter step",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073817",
+    "type": "WORD",
+    "content": "the learned",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073818",
+    "type": "WORD",
+    "content": "the legal issues",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073819",
+    "type": "WORD",
+    "content": "the liberal arts",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_073823",
+    "type": "WORD",
+    "content": "the local culture",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "You should interact with the local culture more, to better understand some traditions.",
+        "zh": "你应该多接触本文化，多了解一些传统习俗。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_073827",
+    "type": "WORD",
+    "content": "the Long Now Foundation",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073828",
+    "type": "WORD",
+    "content": "the long-term development of",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_073829",
+    "type": "WORD",
+    "content": "the lotus flower",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_073830",
+    "type": "WORD",
+    "content": "the Lower Chamber",
+    "theme": "postgraduate",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073832",
+    "type": "WORD",
+    "content": "the lron Age",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073834",
+    "type": "WORD",
+    "content": "the magnetic earth",
+    "theme": "study_abroad",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073839",
+    "type": "WORD",
+    "content": "the majority of people",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "The majority of people are quite indifferent.",
+        "zh": "大部分人都挺冷漠。"
+      },
+      {
+        "en": "The majority of people marry sooner or later.",
+        "zh": "大部分人迟早要结婚。"
+      },
+      {
+        "en": "Where programmers use semi-colons every day, the majority of people only use them in emoticons.",
+        "zh": "尽管程序设计师天天都会用到分号，大多数人只把分号用在表情中。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_073840",
+    "type": "WORD",
+    "content": "the Manchu Nationality",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_073841",
+    "type": "WORD",
+    "content": "the market economy system",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073849",
+    "type": "WORD",
+    "content": "the Medici",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  }
+]

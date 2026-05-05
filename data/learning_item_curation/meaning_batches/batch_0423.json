@@ -1,0 +1,286 @@
+[
+  {
+    "item_code": "w_040492",
+    "type": "WORD",
+    "content": "It's hot.",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "Damn, it's hot!",
+        "zh": "热死了！"
+      },
+      {
+        "en": "It's hot today.",
+        "zh": "今天天气很热。"
+      },
+      {
+        "en": "It's hot out here.",
+        "zh": "这里够热。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_040493",
+    "type": "WORD",
+    "content": "it's little wonder",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_040494",
+    "type": "WORD",
+    "content": "it's little wonder ...",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_040495",
+    "type": "WORD",
+    "content": "it's maya",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_040497",
+    "type": "WORD",
+    "content": "it's natural",
+    "theme": "study_abroad",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "This man is a linguist. It's natural that he know.",
+        "zh": "这男人是个语言学家，他自然知道。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_040498",
+    "type": "WORD",
+    "content": "it's necessary to do",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_040499",
+    "type": "WORD",
+    "content": "It's no wonder",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": [
+      {
+        "en": "The staff in this shop are really friendly. It's no wonder they've got so much custom.",
+        "zh": "这家商店人员的态度特好，怪不得顾客也好多。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_040500",
+    "type": "WORD",
+    "content": "it's no wonder ...",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_040503",
+    "type": "WORD",
+    "content": "It's self-evident that",
+    "theme": "study_abroad",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_040504",
+    "type": "WORD",
+    "content": "it's small wonder",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_040505",
+    "type": "WORD",
+    "content": "it's small wonder ...",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_040507",
+    "type": "WORD",
+    "content": "It's sunny.",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "It was raining this morning, but now it's sunny.",
+        "zh": "今天早上一直在下雨，但現在晴了。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_040508",
+    "type": "WORD",
+    "content": "It's time for ...",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_040511",
+    "type": "WORD",
+    "content": "It's warm.",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "It's warm in here.",
+        "zh": "這裡是溫暖的。"
+      },
+      {
+        "en": "It's warm today, isn't it?",
+        "zh": "今天很溫暖，不是嗎？"
+      },
+      {
+        "en": "It's warm for this time of year.",
+        "zh": "對一年的這個時候來說，天氣很溫暖。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_040512",
+    "type": "WORD",
+    "content": "it's worthwhile to do",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_040515",
+    "type": "WORD",
+    "content": "italic journal journalism journalist",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_040524",
+    "type": "WORD",
+    "content": "item crisis",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_040525",
+    "type": "WORD",
+    "content": "item datum",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_040526",
+    "type": "WORD",
+    "content": "item of negligible value",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_040531",
+    "type": "WORD",
+    "content": "iterable",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  }
+]

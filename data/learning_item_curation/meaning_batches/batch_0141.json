@@ -1,0 +1,261 @@
+[
+  {
+    "item_code": "w_012688",
+    "type": "WORD",
+    "content": "cathedral ruin",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_012695",
+    "type": "WORD",
+    "content": "cathode maintenance",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_012699",
+    "type": "WORD",
+    "content": "catholic gap vehicle",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_012732",
+    "type": "WORD",
+    "content": "cause conflicts",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_012733",
+    "type": "WORD",
+    "content": "cause célèbre",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_012734",
+    "type": "WORD",
+    "content": "cause damage to ...",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_012735",
+    "type": "WORD",
+    "content": "cause danger",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_012736",
+    "type": "WORD",
+    "content": "cause environmental pollution",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_012738",
+    "type": "WORD",
+    "content": "cause of stress",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_012739",
+    "type": "WORD",
+    "content": "cause pollution",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_012740",
+    "type": "WORD",
+    "content": "cause psychological problems",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_012745",
+    "type": "WORD",
+    "content": "caustic allude",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_012753",
+    "type": "WORD",
+    "content": "caution against doing",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_012754",
+    "type": "WORD",
+    "content": "caution coastal sacrifice fantasy",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_012759",
+    "type": "WORD",
+    "content": "cautious of doing",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_012763",
+    "type": "WORD",
+    "content": "cavalcade of luggage",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_012770",
+    "type": "WORD",
+    "content": "cave exploiting",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_012775",
+    "type": "WORD",
+    "content": "caveat ennoble",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_012810",
+    "type": "WORD",
+    "content": "ceased",
+    "theme": "college_english",
+    "tags": [
+      "CET4",
+      "CET6",
+      "advanced",
+      "beibei"
+    ],
+    "difficulty": 4,
+    "examples": [
+      {
+        "en": "It has ceased raining.",
+        "zh": "雨停了。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_012825",
+    "type": "WORD",
+    "content": "ceiling roof support terrace",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  }
+]

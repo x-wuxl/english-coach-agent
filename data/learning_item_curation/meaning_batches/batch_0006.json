@@ -1,0 +1,322 @@
+[
+  {
+    "item_code": "w_000197",
+    "type": "WORD",
+    "content": "a demanding task",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000198",
+    "type": "WORD",
+    "content": "a desired treat",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000199",
+    "type": "WORD",
+    "content": "a desk",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "I made a desk of wood.",
+        "zh": "我造了一張木桌子。"
+      },
+      {
+        "en": "I don't have a desk in my bedroom.",
+        "zh": "我的臥室裡沒有桌子。"
+      },
+      {
+        "en": "He made a desk and two benches for us.",
+        "zh": "他給我們做了一張桌子和兩把長椅。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000200",
+    "type": "WORD",
+    "content": "a developed country",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "Even though America is a developed country, it still has some very poor people.",
+        "zh": "尽管美国是个发达国家，却还有些很贫穷的人。"
+      },
+      {
+        "en": "Even though the United States is a developed country, it still has some very poor people.",
+        "zh": "尽管美国是个发达国家，却还有些很贫穷的人。"
+      },
+      {
+        "en": "Our company's technology has already reached the level of a developed country in the 1990s.",
+        "zh": "我们公司的技术已经达到了发达国家九十年代的水平。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000201",
+    "type": "WORD",
+    "content": "a developing country",
+    "theme": "gaokao",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "India is a developing country.",
+        "zh": "印度是发展中国家。"
+      },
+      {
+        "en": "Because it's a developing country, some aspects of China aren't as good as those in Western countries.",
+        "zh": "因为中国是个发展中的国家，所以有的方面没有西方国家那么好。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000203",
+    "type": "WORD",
+    "content": "a doctor",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "I'm a doctor.",
+        "zh": "我是医生。"
+      },
+      {
+        "en": "He's a doctor.",
+        "zh": "他是医生。"
+      },
+      {
+        "en": "I am a doctor.",
+        "zh": "我是医生。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000204",
+    "type": "WORD",
+    "content": "a doctor's degree",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": [
+      {
+        "en": "She received a doctor's degree.",
+        "zh": "她取得了博士學位。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000207",
+    "type": "WORD",
+    "content": "a domestic flight",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000208",
+    "type": "WORD",
+    "content": "a door",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "Every wall is a door.",
+        "zh": "每一堵牆都是一扇門。"
+      },
+      {
+        "en": "We have a door between our offices.",
+        "zh": "我們的辦公室之間有扇門。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000209",
+    "type": "WORD",
+    "content": "a dormant volcano",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000215",
+    "type": "WORD",
+    "content": "a dramatic increase",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000216",
+    "type": "WORD",
+    "content": "a dramatic note",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000217",
+    "type": "WORD",
+    "content": "a drawn game",
+    "theme": "TEM8",
+    "tags": [
+      "TEM8",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000219",
+    "type": "WORD",
+    "content": "a drove of geese",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000221",
+    "type": "WORD",
+    "content": "a dynastic capital",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_000222",
+    "type": "WORD",
+    "content": "a fabulous amount",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000223",
+    "type": "WORD",
+    "content": "a false dawn",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000224",
+    "type": "WORD",
+    "content": "a falsely flattering image",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000225",
+    "type": "WORD",
+    "content": "a famous landmark",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000228",
+    "type": "WORD",
+    "content": "a fast typist",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

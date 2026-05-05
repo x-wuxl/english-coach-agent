@@ -1,0 +1,293 @@
+[
+  {
+    "item_code": "w_005284",
+    "type": "WORD",
+    "content": "at some basic level",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005285",
+    "type": "WORD",
+    "content": "at some future date",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_005291",
+    "type": "WORD",
+    "content": "at sth.'s peak",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005294",
+    "type": "WORD",
+    "content": "at supper",
+    "theme": "zhongkao",
+    "tags": [
+      "junior",
+      "momo",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_005296",
+    "type": "WORD",
+    "content": "at tank",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005297",
+    "type": "WORD",
+    "content": "at teatime",
+    "theme": "new_concept",
+    "tags": [
+      "NCE",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_005302",
+    "type": "WORD",
+    "content": "at that very moment",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_005304",
+    "type": "WORD",
+    "content": "at the ball",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_005312",
+    "type": "WORD",
+    "content": "at the corner of",
+    "theme": "zhongkao",
+    "tags": [
+      "junior",
+      "momo",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_005314",
+    "type": "WORD",
+    "content": "at the crossing",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_005318",
+    "type": "WORD",
+    "content": "at the edges",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "A great Empire, like a great Cake, is most easily diminished at the Edges.",
+        "zh": "一個偉大的帝國, 就像是一個大蛋糕, 最容易消失的地方就在邊緣。"
+      },
+      {
+        "en": "Under the vast heaven, no land is not the king's land; at the edges of the land, no one is not the king's subject.",
+        "zh": "溥天之下，莫非王土；率土之滨，莫非王臣。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_005326",
+    "type": "WORD",
+    "content": "at the grassroots level",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_005332",
+    "type": "WORD",
+    "content": "at the instant of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005340",
+    "type": "WORD",
+    "content": "at the news of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "He was happy at the news of her success.",
+        "zh": "听到她成功的消息，他很高兴。"
+      },
+      {
+        "en": "I was surprised at the news of his sudden death.",
+        "zh": "他突然过世的消息让我感到惊讶。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_005347",
+    "type": "WORD",
+    "content": "at the prospect of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005355",
+    "type": "WORD",
+    "content": "at the seaside",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "It never rains at the seaside.",
+        "zh": "海邊從不下雨。"
+      },
+      {
+        "en": "I picked up a pretty shell at the seaside.",
+        "zh": "我在海边捡了个漂亮贝壳。"
+      },
+      {
+        "en": "It is true Wendy grew up at the seaside, but she isn't a good swimmer.",
+        "zh": "溫迪的確是在海邊長大的，但是她卻不太會游泳。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_005356",
+    "type": "WORD",
+    "content": "at the shopping centre",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_005358",
+    "type": "WORD",
+    "content": "at the site",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_005364",
+    "type": "WORD",
+    "content": "at the thought",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": [
+      {
+        "en": "She felt uneasy at the thought of her future.",
+        "zh": "想到自己的未来，她不安起来。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_005367",
+    "type": "WORD",
+    "content": "at the time of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

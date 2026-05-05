@@ -1,0 +1,300 @@
+[
+  {
+    "item_code": "w_080568",
+    "type": "WORD",
+    "content": "well-off middle class",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_080570",
+    "type": "WORD",
+    "content": "well-orchestrated campaign",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080573",
+    "type": "WORD",
+    "content": "well-patroled",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_080579",
+    "type": "WORD",
+    "content": "well-rounded nutritious diet",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080585",
+    "type": "WORD",
+    "content": "well-to-do level",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_080592",
+    "type": "WORD",
+    "content": "wellbeing of the people",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080596",
+    "type": "WORD",
+    "content": "welp",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080603",
+    "type": "WORD",
+    "content": "went camping",
+    "theme": "primary_school",
+    "tags": [
+      "beibei",
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "We went camping in August.",
+        "zh": "我們八月去了露營。"
+      },
+      {
+        "en": "I went camping with my family.",
+        "zh": "我和家人去露營。"
+      },
+      {
+        "en": "Tom and Mary went camping in the mountains.",
+        "zh": "湯姆和瑪麗去山裡露營。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_080604",
+    "type": "WORD",
+    "content": "went fishing",
+    "theme": "primary_school",
+    "tags": [
+      "beibei",
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "My father went fishing.",
+        "zh": "我父親去釣魚了。"
+      },
+      {
+        "en": "I went fishing last Monday.",
+        "zh": "上个周一我去钓鱼了。"
+      },
+      {
+        "en": "I often went fishing with him.",
+        "zh": "我經常和他去釣魚。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_080605",
+    "type": "WORD",
+    "content": "went to kindergarten",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_080608",
+    "type": "WORD",
+    "content": "went to the beach",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "We went to the beach last week.",
+        "zh": "我们上周去了海滩。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_080610",
+    "type": "WORD",
+    "content": "were not",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "We were not afraid.",
+        "zh": "我们没怕。"
+      },
+      {
+        "en": "There were not many present.",
+        "zh": "參加的人並不多。"
+      },
+      {
+        "en": "They were not listening to music.",
+        "zh": "他們沒在聽音樂。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_080612",
+    "type": "WORD",
+    "content": "wescot",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080613",
+    "type": "WORD",
+    "content": "wesley",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_080618",
+    "type": "WORD",
+    "content": "West-East Electricity Transmission",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080620",
+    "type": "WORD",
+    "content": "western animated animation",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_080622",
+    "type": "WORD",
+    "content": "western buffet",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080626",
+    "type": "WORD",
+    "content": "Western drug therapy",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080629",
+    "type": "WORD",
+    "content": "Western herbal medicine",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080630",
+    "type": "WORD",
+    "content": "western instrument",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

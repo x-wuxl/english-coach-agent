@@ -1,0 +1,276 @@
+[
+  {
+    "item_code": "w_069015",
+    "type": "WORD",
+    "content": "spur minimize vulnerable",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_069018",
+    "type": "WORD",
+    "content": "spurious coupe",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_069033",
+    "type": "WORD",
+    "content": "sql",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "Because of a flaw in the original design, our website is vulnerable to SQL injection attacks.",
+        "zh": "由于最初设计中的一个缺陷，我们的网站易受到SQL注入攻击。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_069035",
+    "type": "WORD",
+    "content": "squabble temporal rose blunder",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_069037",
+    "type": "WORD",
+    "content": "squad neonate devour",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_069042",
+    "type": "WORD",
+    "content": "squall incinerate pastiche",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_069059",
+    "type": "WORD",
+    "content": "square vignette",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_069065",
+    "type": "WORD",
+    "content": "squat antagonize",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_069071",
+    "type": "WORD",
+    "content": "squeal on someone",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_069074",
+    "type": "WORD",
+    "content": "squeeze furnace",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_069079",
+    "type": "WORD",
+    "content": "squelch lethal",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_069083",
+    "type": "WORD",
+    "content": "squint nostalgia",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_069086",
+    "type": "WORD",
+    "content": "squirosis circus",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_069089",
+    "type": "WORD",
+    "content": "squirrel dextral thirsty centigrade",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_069090",
+    "type": "WORD",
+    "content": "squirrel-proof",
+    "theme": "new_concept",
+    "tags": [
+      "NCE",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_069096",
+    "type": "WORD",
+    "content": "src",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_069097",
+    "type": "WORD",
+    "content": "Sri Chinmoy",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_069101",
+    "type": "WORD",
+    "content": "st",
+    "theme": "college_english",
+    "tags": [
+      "CET4",
+      "CET6",
+      "advanced",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "His birthday is August 21st.",
+        "zh": "他的生日是八月二十一日。"
+      },
+      {
+        "en": "Winter Solstice is 21st December.",
+        "zh": "冬至是9月21日。"
+      },
+      {
+        "en": "Today is Children's day on 1st of June.",
+        "zh": "今天是六一儿童节。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_069105",
+    "type": "WORD",
+    "content": "St. Bernard",
+    "theme": "new_concept",
+    "tags": [
+      "NCE",
+      "beibei",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_069121",
+    "type": "WORD",
+    "content": "stable income",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  }
+]

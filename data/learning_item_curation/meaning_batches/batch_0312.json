@@ -1,0 +1,270 @@
+[
+  {
+    "item_code": "w_029612",
+    "type": "WORD",
+    "content": "frighten the life",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "expert",
+      "kaoyan",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_029615",
+    "type": "WORD",
+    "content": "frightening experience",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_029616",
+    "type": "WORD",
+    "content": "frightening frighten",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_029631",
+    "type": "WORD",
+    "content": "frisk poke complication",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_029637",
+    "type": "WORD",
+    "content": "frivolous inadvertent belligerents",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_029651",
+    "type": "WORD",
+    "content": "from ... till",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_029654",
+    "type": "WORD",
+    "content": "from ... until",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_029655",
+    "type": "WORD",
+    "content": "from a ... perspective",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "beibei",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_029656",
+    "type": "WORD",
+    "content": "from a biology perspective",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_029657",
+    "type": "WORD",
+    "content": "from a great distance",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_029658",
+    "type": "WORD",
+    "content": "from a personal perspective",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_029661",
+    "type": "WORD",
+    "content": "from bosis pepper",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_029666",
+    "type": "WORD",
+    "content": "from head to toe",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "He was soaked from head to toe.",
+        "zh": "他从头到脚都湿透了。"
+      },
+      {
+        "en": "He was soaking wet from head to toe.",
+        "zh": "他从头到脚都湿透了。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_029669",
+    "type": "WORD",
+    "content": "from my perspective",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "expert",
+      "kaoyan",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_029671",
+    "type": "WORD",
+    "content": "from of spite",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_029673",
+    "type": "WORD",
+    "content": "from one's heart",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_029674",
+    "type": "WORD",
+    "content": "from one's perspective",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_029675",
+    "type": "WORD",
+    "content": "from one's standpoint",
+    "theme": "college_english",
+    "tags": [
+      "TOEFL",
+      "advanced",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_029678",
+    "type": "WORD",
+    "content": "from sb.'s perspective",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_029679",
+    "type": "WORD",
+    "content": "from Seoul",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

@@ -1,0 +1,268 @@
+[
+  {
+    "item_code": "w_050916",
+    "type": "WORD",
+    "content": "objective pedestrian",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_050932",
+    "type": "WORD",
+    "content": "oblige sb. to do",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_050936",
+    "type": "WORD",
+    "content": "obliging morose",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_050945",
+    "type": "WORD",
+    "content": "obliterate resonate",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_050959",
+    "type": "WORD",
+    "content": "obscond",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_050961",
+    "type": "WORD",
+    "content": "obscure himaplegia",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_050972",
+    "type": "WORD",
+    "content": "observant shop worn diaphanus",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_050974",
+    "type": "WORD",
+    "content": "observation and meditation",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_050980",
+    "type": "WORD",
+    "content": "observe an anniversary",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_050981",
+    "type": "WORD",
+    "content": "observe equilibrate",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_050982",
+    "type": "WORD",
+    "content": "observe objects",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_050983",
+    "type": "WORD",
+    "content": "observe observation",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_050984",
+    "type": "WORD",
+    "content": "observe personnel",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_050985",
+    "type": "WORD",
+    "content": "observe the law",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "You must observe the law.",
+        "zh": "你必须遵守法律。"
+      },
+      {
+        "en": "He pointed out how important it is to observe the law.",
+        "zh": "他指出了遵守法律的重要性。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_050988",
+    "type": "WORD",
+    "content": "observing",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "The lonely man derives pleasure from observing ants.",
+        "zh": "那个孤僻的人以观察蚂蚁取乐。"
+      },
+      {
+        "en": "But the butcher is observing the holiday today, there's nothing we can do about it.",
+        "zh": "可是肉店今天公休沒辦法。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_050990",
+    "type": "WORD",
+    "content": "obsess eradicate",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_050991",
+    "type": "WORD",
+    "content": "obsess over",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_050997",
+    "type": "WORD",
+    "content": "obsessive paranoia haranoid",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_051005",
+    "type": "WORD",
+    "content": "obsolete disregard",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051006",
+    "type": "WORD",
+    "content": "obsolete fault finder rye",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  }
+]

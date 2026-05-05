@@ -1,0 +1,261 @@
+[
+  {
+    "item_code": "w_012075",
+    "type": "WORD",
+    "content": "capital of the empire",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_012084",
+    "type": "WORD",
+    "content": "capitalism implicit console",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_012100",
+    "type": "WORD",
+    "content": "capricate",
+    "theme": "study_abroad",
+    "tags": [
+      "GMAT",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_012109",
+    "type": "WORD",
+    "content": "captain sailor steward",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_012111",
+    "type": "WORD",
+    "content": "caption catalog chapter",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_012122",
+    "type": "WORD",
+    "content": "capture hond",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_012123",
+    "type": "WORD",
+    "content": "capture one's imagination",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "beibei",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_012125",
+    "type": "WORD",
+    "content": "capulate",
+    "theme": "study_abroad",
+    "tags": [
+      "GMAT",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_012131",
+    "type": "WORD",
+    "content": "car burglars",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_012132",
+    "type": "WORD",
+    "content": "car care product",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_012134",
+    "type": "WORD",
+    "content": "car exhaust fume",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_012135",
+    "type": "WORD",
+    "content": "car free day",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_012138",
+    "type": "WORD",
+    "content": "car museum",
+    "theme": "textbook_primary",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo",
+      "primary"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_012142",
+    "type": "WORD",
+    "content": "car quota",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_012150",
+    "type": "WORD",
+    "content": "car-free day",
+    "theme": "CET6",
+    "tags": [
+      "CET4",
+      "CET6",
+      "advanced",
+      "expert",
+      "kaoyan",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_012170",
+    "type": "WORD",
+    "content": "carbohydrate stripe",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_012171",
+    "type": "WORD",
+    "content": "carbohydrate-rich",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_012178",
+    "type": "WORD",
+    "content": "carbon dioxide concentration",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_012180",
+    "type": "WORD",
+    "content": "carbon dioxide observatory satellite",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_012181",
+    "type": "WORD",
+    "content": "carbon dioxide release",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

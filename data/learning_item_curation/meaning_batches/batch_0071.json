@@ -1,0 +1,272 @@
+[
+  {
+    "item_code": "w_005789",
+    "type": "WORD",
+    "content": "auto technician",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005791",
+    "type": "WORD",
+    "content": "auto-dependent",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005799",
+    "type": "WORD",
+    "content": "autobiographical film",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005813",
+    "type": "WORD",
+    "content": "autoindex",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_005822",
+    "type": "WORD",
+    "content": "automated defect identification software",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005823",
+    "type": "WORD",
+    "content": "automated lumber grading system",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005825",
+    "type": "WORD",
+    "content": "automated teleprinter technology",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005828",
+    "type": "WORD",
+    "content": "automatic cameras",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005830",
+    "type": "WORD",
+    "content": "automatic docking",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005831",
+    "type": "WORD",
+    "content": "automatic facsimile device",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005835",
+    "type": "WORD",
+    "content": "automatic winding watches",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005844",
+    "type": "WORD",
+    "content": "automobile emission standards",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005847",
+    "type": "WORD",
+    "content": "automobile truck",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_005848",
+    "type": "WORD",
+    "content": "automobile-dependent",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005849",
+    "type": "WORD",
+    "content": "automobiles",
+    "theme": "postgraduate",
+    "tags": [
+      "beibei",
+      "expert",
+      "kaoyan"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "Automobiles are made in factories.",
+        "zh": "汽车在汽车工厂里生产。"
+      },
+      {
+        "en": "This factory produces 500 automobiles a day.",
+        "zh": "这家工厂每天生产500辆车。"
+      },
+      {
+        "en": "Bicycles traveling to the right of automobiles is illegal.",
+        "zh": "自行车在汽车的右侧行驶是不合法的。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_005851",
+    "type": "WORD",
+    "content": "automotive engine system",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005856",
+    "type": "WORD",
+    "content": "autonomous vehicle",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005879",
+    "type": "WORD",
+    "content": "auxiliary police",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005880",
+    "type": "WORD",
+    "content": "auxiliary suburban curl cooper",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_005883",
+    "type": "WORD",
+    "content": "AV function",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  }
+]

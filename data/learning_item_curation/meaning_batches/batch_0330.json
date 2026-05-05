@@ -1,0 +1,264 @@
+[
+  {
+    "item_code": "w_031107",
+    "type": "WORD",
+    "content": "get their pension",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_031113",
+    "type": "WORD",
+    "content": "get time for ...",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_031114",
+    "type": "WORD",
+    "content": "get time off",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_031115",
+    "type": "WORD",
+    "content": "get tired doing sth.",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_031119",
+    "type": "WORD",
+    "content": "get to ... early",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_031127",
+    "type": "WORD",
+    "content": "get to school",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "How do you get to school?",
+        "zh": "你怎么去学校？"
+      },
+      {
+        "en": "It only takes 20 minutes to get to school by the newly opened subway.",
+        "zh": "坐新開的地鐵上學只需要 20 分鐘。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_031130",
+    "type": "WORD",
+    "content": "get total relaxation",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_031137",
+    "type": "WORD",
+    "content": "get up enough nerve",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_031138",
+    "type": "WORD",
+    "content": "get up one's nose",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "expert",
+      "kaoyan",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_031141",
+    "type": "WORD",
+    "content": "get used to doing",
+    "theme": "zhongkao",
+    "tags": [
+      "gaokao",
+      "junior",
+      "momo",
+      "senior",
+      "zhongkao"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_031144",
+    "type": "WORD",
+    "content": "get what for",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_031162",
+    "type": "WORD",
+    "content": "ghosh",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_031164",
+    "type": "WORD",
+    "content": "ghost drivers",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_031171",
+    "type": "WORD",
+    "content": "GHz",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_031174",
+    "type": "WORD",
+    "content": "giant limestone blocks",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_031186",
+    "type": "WORD",
+    "content": "gibe nourish",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_031187",
+    "type": "WORD",
+    "content": "gibe prerogative",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_031189",
+    "type": "WORD",
+    "content": "giddy explicit lag bogus",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_031190",
+    "type": "WORD",
+    "content": "giddy interpret",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_031209",
+    "type": "WORD",
+    "content": "GIL",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  }
+]

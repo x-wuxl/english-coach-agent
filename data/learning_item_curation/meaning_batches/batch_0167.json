@@ -1,0 +1,277 @@
+[
+  {
+    "item_code": "w_015391",
+    "type": "WORD",
+    "content": "comfortable clothes",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_015392",
+    "type": "WORD",
+    "content": "comfortable housing project",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_015401",
+    "type": "WORD",
+    "content": "comic novel",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_015402",
+    "type": "WORD",
+    "content": "comic performance",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_015409",
+    "type": "WORD",
+    "content": "coming hysteria",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_015411",
+    "type": "WORD",
+    "content": "Coming-of-Age Day",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_015417",
+    "type": "WORD",
+    "content": "command the troop",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_015422",
+    "type": "WORD",
+    "content": "commander videotape",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_015428",
+    "type": "WORD",
+    "content": "commando of marines",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_015429",
+    "type": "WORD",
+    "content": "commas",
+    "theme": "college_english",
+    "tags": [
+      "CET4",
+      "CET6",
+      "advanced",
+      "beibei"
+    ],
+    "difficulty": 4,
+    "examples": [
+      {
+        "en": "I'm only going to write small sentences without commas.",
+        "zh": "我只是想写一些没有逗号的小句子。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_015433",
+    "type": "WORD",
+    "content": "commemorate trumpet",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_015441",
+    "type": "WORD",
+    "content": "commencement prolong",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_015442",
+    "type": "WORD",
+    "content": "commencement turbulence",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_015445",
+    "type": "WORD",
+    "content": "commend landlord analysis regardless",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_015448",
+    "type": "WORD",
+    "content": "commend victimize filibuster",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_015456",
+    "type": "WORD",
+    "content": "comment about",
+    "theme": "postgraduate",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_015458",
+    "type": "WORD",
+    "content": "comment complaint",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_015465",
+    "type": "WORD",
+    "content": "comments",
+    "theme": "college_english",
+    "tags": [
+      "CET6",
+      "advanced",
+      "beibei"
+    ],
+    "difficulty": 4,
+    "examples": [
+      {
+        "en": "Any comments are welcome.",
+        "zh": "欢迎作任何评论。"
+      },
+      {
+        "en": "There are no comments yet.",
+        "zh": "還沒有任何評論。"
+      },
+      {
+        "en": "Their comments were illuminating.",
+        "zh": "他们的评论很有启发性。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_015467",
+    "type": "WORD",
+    "content": "commerce and trade",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_015473",
+    "type": "WORD",
+    "content": "commercial campground",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

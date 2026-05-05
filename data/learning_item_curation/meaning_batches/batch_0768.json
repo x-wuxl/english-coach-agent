@@ -1,0 +1,275 @@
+[
+  {
+    "item_code": "w_075033",
+    "type": "WORD",
+    "content": "to attend Mass",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_075034",
+    "type": "WORD",
+    "content": "to avoid substantial height",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_075039",
+    "type": "WORD",
+    "content": "to be held",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "The conference is to be held in Tokyo.",
+        "zh": "會議將在東京舉行。"
+      },
+      {
+        "en": "The conference is to be held in Tokyo the day after tomorrow.",
+        "zh": "会议将在后天于东京举行。"
+      },
+      {
+        "en": "The meeting between the school and the business is scheduled to be held on the 26th of December.",
+        "zh": "学校与企业见面会于12月26日按期举行。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_075041",
+    "type": "WORD",
+    "content": "to be saddled with",
+    "theme": "TEM8",
+    "tags": [
+      "TEM8",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_075043",
+    "type": "WORD",
+    "content": "to become increasingly popular",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_075045",
+    "type": "WORD",
+    "content": "to boycott products",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_075046",
+    "type": "WORD",
+    "content": "to chant poems",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_075047",
+    "type": "WORD",
+    "content": "to clamp down",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_075048",
+    "type": "WORD",
+    "content": "to collect medicinal herbs",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_075050",
+    "type": "WORD",
+    "content": "to conduct research",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_075051",
+    "type": "WORD",
+    "content": "to curb their impact",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_075052",
+    "type": "WORD",
+    "content": "to cut firewood",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_075053",
+    "type": "WORD",
+    "content": "to ditch print",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_075054",
+    "type": "WORD",
+    "content": "to eliminate extreme poverty",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_075055",
+    "type": "WORD",
+    "content": "to endorse this sentiment",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_075057",
+    "type": "WORD",
+    "content": "to expand domestic demand",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_075058",
+    "type": "WORD",
+    "content": "to farm and harvest",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_075059",
+    "type": "WORD",
+    "content": "to fashion state policies",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_075060",
+    "type": "WORD",
+    "content": "to find silver linings",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_075061",
+    "type": "WORD",
+    "content": "to fish for compliments",
+    "theme": "TEM8",
+    "tags": [
+      "TEM8",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

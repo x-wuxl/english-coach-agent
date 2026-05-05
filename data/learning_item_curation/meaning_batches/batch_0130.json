@@ -1,0 +1,279 @@
+[
+  {
+    "item_code": "w_011372",
+    "type": "WORD",
+    "content": "buy furniture",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_011377",
+    "type": "WORD",
+    "content": "buy lottery tickets",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "Do you still buy lottery tickets?",
+        "zh": "你還買彩票嗎？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_011383",
+    "type": "WORD",
+    "content": "buy some gifts",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_011384",
+    "type": "WORD",
+    "content": "buy the clothes",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_011385",
+    "type": "WORD",
+    "content": "buy the products advertised",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_011386",
+    "type": "WORD",
+    "content": "buy the win-win rhetoric",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_011387",
+    "type": "WORD",
+    "content": "buy tickets online",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_011388",
+    "type": "WORD",
+    "content": "buy toys",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_011390",
+    "type": "WORD",
+    "content": "buy votes",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_011408",
+    "type": "WORD",
+    "content": "Buñol",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_011411",
+    "type": "WORD",
+    "content": "by a large margin",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_011412",
+    "type": "WORD",
+    "content": "by a small margin",
+    "theme": "college_english",
+    "tags": [
+      "TOEFL",
+      "advanced",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_011432",
+    "type": "WORD",
+    "content": "by consequence of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_011444",
+    "type": "WORD",
+    "content": "by express mail",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_011448",
+    "type": "WORD",
+    "content": "by fax",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "Please send it to me by fax.",
+        "zh": "请把它传真给我。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_011449",
+    "type": "WORD",
+    "content": "by ferry",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_011454",
+    "type": "WORD",
+    "content": "by inference",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_011472",
+    "type": "WORD",
+    "content": "by one's own right",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_011475",
+    "type": "WORD",
+    "content": "by phone",
+    "theme": "zhongkao",
+    "tags": [
+      "junior",
+      "momo",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": [
+      {
+        "en": "We'll contact you by phone as soon as we arrive.",
+        "zh": "我们到了就打电话跟您联系。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_011482",
+    "type": "WORD",
+    "content": "by registered mail",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "Please send this by registered mail.",
+        "zh": "請用掛號寄這個。"
+      }
+    ]
+  }
+]

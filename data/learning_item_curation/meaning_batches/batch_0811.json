@@ -1,0 +1,275 @@
+[
+  {
+    "item_code": "w_080151",
+    "type": "WORD",
+    "content": "Water Festival",
+    "theme": "junior_high",
+    "tags": [
+      "beibei",
+      "junior",
+      "momo",
+      "primary"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_080165",
+    "type": "WORD",
+    "content": "water recreation",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_080166",
+    "type": "WORD",
+    "content": "water recycling factory",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_080168",
+    "type": "WORD",
+    "content": "water resource conservation zone",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080173",
+    "type": "WORD",
+    "content": "water slide",
+    "theme": "textbook_primary",
+    "tags": [
+      "junior",
+      "momo"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_080177",
+    "type": "WORD",
+    "content": "water the flowers",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "Please water the flowers.",
+        "zh": "請澆花。"
+      },
+      {
+        "en": "I helped my father water the flowers.",
+        "zh": "我帮助我爸爸给花浇水。"
+      },
+      {
+        "en": "Water the flowers before you have breakfast.",
+        "zh": "吃早餐之前先澆花。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_080183",
+    "type": "WORD",
+    "content": "water-insoluble dye",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080187",
+    "type": "WORD",
+    "content": "water-soluble compound",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080190",
+    "type": "WORD",
+    "content": "water-splashing carnival",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080203",
+    "type": "WORD",
+    "content": "watering plants",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080204",
+    "type": "WORD",
+    "content": "watering the plants",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_080208",
+    "type": "WORD",
+    "content": "waterlogged road section",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080234",
+    "type": "WORD",
+    "content": "wave at",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080238",
+    "type": "WORD",
+    "content": "wave goodbye to",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080240",
+    "type": "WORD",
+    "content": "wave hello to sb.",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_080243",
+    "type": "WORD",
+    "content": "wave signal shrug",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_080258",
+    "type": "WORD",
+    "content": "wax figure museum",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080260",
+    "type": "WORD",
+    "content": "wax wig",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_080270",
+    "type": "WORD",
+    "content": "way off base",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080276",
+    "type": "WORD",
+    "content": "wayne",
+    "theme": "TEM4",
+    "tags": [
+      "BEC",
+      "GMAT",
+      "TEM4",
+      "TEM8",
+      "advanced",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  }
+]

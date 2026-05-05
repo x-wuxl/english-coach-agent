@@ -1,0 +1,260 @@
+[
+  {
+    "item_code": "w_066896",
+    "type": "WORD",
+    "content": "sisterly tumble attendant",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_066904",
+    "type": "WORD",
+    "content": "sit for the bar",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_066907",
+    "type": "WORD",
+    "content": "sit lie",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_066910",
+    "type": "WORD",
+    "content": "sit on shelves",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_066918",
+    "type": "WORD",
+    "content": "sitcase",
+    "theme": "gaokao",
+    "tags": [
+      "beibei",
+      "gaokao",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_066922",
+    "type": "WORD",
+    "content": "site permeable implant",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_066924",
+    "type": "WORD",
+    "content": "site-licensing",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_066925",
+    "type": "WORD",
+    "content": "site-licensing agreement",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_066930",
+    "type": "WORD",
+    "content": "sitting CEOs",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_066938",
+    "type": "WORD",
+    "content": "situation comedy",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_066939",
+    "type": "WORD",
+    "content": "situation of compatible products",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_066941",
+    "type": "WORD",
+    "content": "situational comedy",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_066942",
+    "type": "WORD",
+    "content": "situlation",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_066946",
+    "type": "WORD",
+    "content": "six-month certificate",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_066953",
+    "type": "WORD",
+    "content": "sixteen-seater minibus",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_066967",
+    "type": "WORD",
+    "content": "sized",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "Prepare five postcard sized pieces of cardboard.",
+        "zh": "準備五張明信片大小的硬紙板。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_066968",
+    "type": "WORD",
+    "content": "sizing",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_066978",
+    "type": "WORD",
+    "content": "skeetboard",
+    "theme": "gaokao",
+    "tags": [
+      "beibei",
+      "gaokao",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_066981",
+    "type": "WORD",
+    "content": "skeletal nervous system",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_066984",
+    "type": "WORD",
+    "content": "skeleton consult",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  }
+]

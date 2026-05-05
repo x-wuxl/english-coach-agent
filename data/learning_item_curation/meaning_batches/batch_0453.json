@@ -1,0 +1,297 @@
+[
+  {
+    "item_code": "w_043453",
+    "type": "WORD",
+    "content": "links",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "Here are some interesting links.",
+        "zh": "這裡有些有趣的連結。"
+      },
+      {
+        "en": "Please do not answer this fraudulent e-mail and certainly do not click on the links in the e-mail.",
+        "zh": "請不要回覆這封詐騙電郵，當然也不要點擊電郵裏的超連結。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_043463",
+    "type": "WORD",
+    "content": "Lionel Greenstreet",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_043474",
+    "type": "WORD",
+    "content": "lipid vivid plumber imprison",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_043475",
+    "type": "WORD",
+    "content": "lipid-insoluble",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_043513",
+    "type": "WORD",
+    "content": "liquidate rehearsal sense",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_043519",
+    "type": "WORD",
+    "content": "liquor margarita melo",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_043523",
+    "type": "WORD",
+    "content": "lissom",
+    "theme": "study_abroad",
+    "tags": [
+      "GMAT",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_043524",
+    "type": "WORD",
+    "content": "lissom debonair subside",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_043527",
+    "type": "WORD",
+    "content": "list as wanted",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_043528",
+    "type": "WORD",
+    "content": "list comprehension",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_043529",
+    "type": "WORD",
+    "content": "list of approved drugs",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_043534",
+    "type": "WORD",
+    "content": "listen carefully to",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_043538",
+    "type": "WORD",
+    "content": "listen to a song",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_043541",
+    "type": "WORD",
+    "content": "listened to music",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "She listened to music in her own room.",
+        "zh": "她在自己的房间里听音乐。"
+      },
+      {
+        "en": "While he was waiting for the train, he listened to music and sent text messages.",
+        "zh": "他等火车的时候，一会儿听音乐，一会儿发短信。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_043545",
+    "type": "WORD",
+    "content": "listening to music",
+    "theme": "primary_school",
+    "tags": [
+      "beibei",
+      "expert",
+      "momo",
+      "primary"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "I'm listening to music.",
+        "zh": "我正在听音乐。"
+      },
+      {
+        "en": "We're listening to music.",
+        "zh": "我們在聽音樂。"
+      },
+      {
+        "en": "He was listening to music.",
+        "zh": "他正在聽音樂。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_043546",
+    "type": "WORD",
+    "content": "listening to the radio",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "I'm listening to the radio.",
+        "zh": "我在聽收音機。"
+      },
+      {
+        "en": "He is listening to the radio.",
+        "zh": "他正在听收音机。"
+      },
+      {
+        "en": "He sat listening to the radio.",
+        "zh": "他坐了下来听收音机。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_043553",
+    "type": "WORD",
+    "content": "lists",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_043560",
+    "type": "WORD",
+    "content": "literacy skill",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_043567",
+    "type": "WORD",
+    "content": "literary elitism",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_043569",
+    "type": "WORD",
+    "content": "literary gift",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

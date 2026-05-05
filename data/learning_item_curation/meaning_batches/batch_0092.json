@@ -1,0 +1,271 @@
+[
+  {
+    "item_code": "w_007729",
+    "type": "WORD",
+    "content": "be numbered among",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_007731",
+    "type": "WORD",
+    "content": "be objective about",
+    "theme": "postgraduate",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_007733",
+    "type": "WORD",
+    "content": "be obligated to do",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_007739",
+    "type": "WORD",
+    "content": "be obtained from",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_007743",
+    "type": "WORD",
+    "content": "be of ... importance",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_007746",
+    "type": "WORD",
+    "content": "be of benefit",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_007747",
+    "type": "WORD",
+    "content": "be of great benefit",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_007749",
+    "type": "WORD",
+    "content": "be of great value",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_007750",
+    "type": "WORD",
+    "content": "be of little good",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_007751",
+    "type": "WORD",
+    "content": "be of medium build",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_007752",
+    "type": "WORD",
+    "content": "be of medium height",
+    "theme": "junior_high",
+    "tags": [
+      "beibei",
+      "junior",
+      "momo",
+      "primary"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_007753",
+    "type": "WORD",
+    "content": "be of no use",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_007754",
+    "type": "WORD",
+    "content": "be of primary importance",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_007757",
+    "type": "WORD",
+    "content": "be of the essence",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_007758",
+    "type": "WORD",
+    "content": "be of this kind",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_007759",
+    "type": "WORD",
+    "content": "be of use",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "This guidebook might be of use to you on your trip.",
+        "zh": "这本导游册子或许会对你的旅行有帮助。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_007762",
+    "type": "WORD",
+    "content": "be off guard",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_007764",
+    "type": "WORD",
+    "content": "be off one's rocker",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_007765",
+    "type": "WORD",
+    "content": "be off the track",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_007772",
+    "type": "WORD",
+    "content": "be on business",
+    "theme": "junior_high",
+    "tags": [
+      "beibei",
+      "gaokao",
+      "junior",
+      "momo",
+      "primary",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  }
+]

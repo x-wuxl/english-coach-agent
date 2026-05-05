@@ -1,0 +1,279 @@
+[
+  {
+    "item_code": "w_026922",
+    "type": "WORD",
+    "content": "far less certain",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_026923",
+    "type": "WORD",
+    "content": "far more interesting",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "This story is by far more interesting than that one.",
+        "zh": "這個故事比那個故事有趣得多。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_026935",
+    "type": "WORD",
+    "content": "far-reaching consequence",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_026936",
+    "type": "WORD",
+    "content": "far-reaching consequences",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_026937",
+    "type": "WORD",
+    "content": "far-reaching implications",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_026938",
+    "type": "WORD",
+    "content": "far-reaching social significance",
+    "theme": "TEM8",
+    "tags": [
+      "TEM8",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_026950",
+    "type": "WORD",
+    "content": "farewell dinner party",
+    "theme": "CET6",
+    "tags": [
+      "CET4",
+      "CET6",
+      "advanced",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_026951",
+    "type": "WORD",
+    "content": "farewell match",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_026953",
+    "type": "WORD",
+    "content": "farewell trunk recruit",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_026966",
+    "type": "WORD",
+    "content": "farming products",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_026968",
+    "type": "WORD",
+    "content": "farmland erosion",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_026969",
+    "type": "WORD",
+    "content": "farmland losses",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_026978",
+    "type": "WORD",
+    "content": "fart fist",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_026986",
+    "type": "WORD",
+    "content": "fascinate vital",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_026994",
+    "type": "WORD",
+    "content": "fashion boutique",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_027001",
+    "type": "WORD",
+    "content": "fashion shoot",
+    "theme": "new_concept",
+    "tags": [
+      "NCE",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_027005",
+    "type": "WORD",
+    "content": "fashionable clothes",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_027007",
+    "type": "WORD",
+    "content": "fashioned",
+    "theme": "TEM4",
+    "tags": [
+      "CET4",
+      "CET6",
+      "TEM4",
+      "TEM8",
+      "advanced",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_027016",
+    "type": "WORD",
+    "content": "fast food restaurant",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "What's your favorite fast food restaurant?",
+        "zh": "你最喜欢哪家快餐店？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_027017",
+    "type": "WORD",
+    "content": "fast food shop",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

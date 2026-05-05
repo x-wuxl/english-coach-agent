@@ -1,0 +1,265 @@
+[
+  {
+    "item_code": "w_050347",
+    "type": "WORD",
+    "content": "nonoverriding descriptor",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_050378",
+    "type": "WORD",
+    "content": "nonsense clumsy protract",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_050379",
+    "type": "WORD",
+    "content": "nonsense gale tenesmus",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_050389",
+    "type": "WORD",
+    "content": "nonspecific episode duodenum",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_050404",
+    "type": "WORD",
+    "content": "nontrivial",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_050430",
+    "type": "WORD",
+    "content": "Norma Jean",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_050434",
+    "type": "WORD",
+    "content": "normal noise threshold",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_050435",
+    "type": "WORD",
+    "content": "normal physically strength",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_050448",
+    "type": "WORD",
+    "content": "normalized operation",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_050464",
+    "type": "WORD",
+    "content": "North Beach Festival",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_050466",
+    "type": "WORD",
+    "content": "North Polar icecap",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_050470",
+    "type": "WORD",
+    "content": "north wing of building",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_050475",
+    "type": "WORD",
+    "content": "northeastern Hunan province",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_050486",
+    "type": "WORD",
+    "content": "northwood",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_050489",
+    "type": "WORD",
+    "content": "nosdive",
+    "theme": "business_english",
+    "tags": [
+      "BEC",
+      "advanced",
+      "beibei",
+      "senior"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_050502",
+    "type": "WORD",
+    "content": "nostalgic for",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "I suddenly feel nostalgic for my homeland.",
+        "zh": "我突然很想念我的故乡。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_050507",
+    "type": "WORD",
+    "content": "not ... any but",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_050514",
+    "type": "WORD",
+    "content": "not ... but rather",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_050515",
+    "type": "WORD",
+    "content": "not ... till",
+    "theme": "zhongkao",
+    "tags": [
+      "gaokao",
+      "junior",
+      "momo",
+      "senior",
+      "zhongkao"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_050530",
+    "type": "WORD",
+    "content": "not as ... as",
+    "theme": "gaokao",
+    "tags": [
+      "advanced",
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

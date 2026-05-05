@@ -1,0 +1,284 @@
+[
+  {
+    "item_code": "w_001250",
+    "type": "WORD",
+    "content": "aceptic choke tertian",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_001272",
+    "type": "WORD",
+    "content": "aches and pains",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_001275",
+    "type": "WORD",
+    "content": "achieve achievement",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_001276",
+    "type": "WORD",
+    "content": "achieve further success",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_001277",
+    "type": "WORD",
+    "content": "achieve itemize prejudice",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_001278",
+    "type": "WORD",
+    "content": "achieve longevity or immortality",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_001279",
+    "type": "WORD",
+    "content": "achieve objectives",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_001280",
+    "type": "WORD",
+    "content": "achieve one's aim",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_001281",
+    "type": "WORD",
+    "content": "achieve one's dream",
+    "theme": "zhongkao",
+    "tags": [
+      "junior",
+      "momo",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_001282",
+    "type": "WORD",
+    "content": "achieve one's dreams",
+    "theme": "zhongkao",
+    "tags": [
+      "junior",
+      "momo",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_001283",
+    "type": "WORD",
+    "content": "achieve one's ideal",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_001284",
+    "type": "WORD",
+    "content": "achieve personal best",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_001286",
+    "type": "WORD",
+    "content": "achieved",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "She has achieved her goals.",
+        "zh": "她达到了目标。"
+      },
+      {
+        "en": "He achieved his aim at last.",
+        "zh": "他终于达到目标了。"
+      },
+      {
+        "en": "Finally, he achieved his goal.",
+        "zh": "他终于达到了自己的目标。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_001288",
+    "type": "WORD",
+    "content": "achievement-based system",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_001289",
+    "type": "WORD",
+    "content": "achievements",
+    "theme": "college_english",
+    "tags": [
+      "CET6",
+      "advanced",
+      "beibei"
+    ],
+    "difficulty": 4,
+    "examples": [
+      {
+        "en": "No matter how many faults there are, our achievements are the main thing.",
+        "zh": "不管缺点怎么多，成绩还是最主要的。"
+      },
+      {
+        "en": "His thesis summed up the new achievements made in computers, artificial satellites and rockets.",
+        "zh": "他的论文总结了电脑，人造卫星和火箭三个的新成就。"
+      },
+      {
+        "en": "The source also said that the Duchess of Cambridge feels \"fulfilled\" by her achievements over the last twelve months.",
+        "zh": "知情者也说，剑桥公爵夫人对近十二个月的成就也感觉“满意”。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_001290",
+    "type": "WORD",
+    "content": "achievements of art",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_001321",
+    "type": "WORD",
+    "content": "acinebacter",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_001326",
+    "type": "WORD",
+    "content": "acknowledge interregnum repartee",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_001330",
+    "type": "WORD",
+    "content": "acknowlege",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_001341",
+    "type": "WORD",
+    "content": "acoustic faculty",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

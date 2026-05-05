@@ -1,0 +1,293 @@
+[
+  {
+    "item_code": "w_000600",
+    "type": "WORD",
+    "content": "a substantial salary",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000602",
+    "type": "WORD",
+    "content": "a sudden downpour",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000603",
+    "type": "WORD",
+    "content": "a sudden soft passage",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000604",
+    "type": "WORD",
+    "content": "a sum of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000605",
+    "type": "WORD",
+    "content": "a supervision system",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000606",
+    "type": "WORD",
+    "content": "a sure-fire way",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000607",
+    "type": "WORD",
+    "content": "a swarm of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "A swarm of hornets attacked the children.",
+        "zh": "一窩黃蜂襲擊了孩子們。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000608",
+    "type": "WORD",
+    "content": "a sweater",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "She gave him a sweater.",
+        "zh": "她给他一件毛衣。"
+      },
+      {
+        "en": "She knit him a sweater.",
+        "zh": "她给他织了件毛衣。"
+      },
+      {
+        "en": "He bought her a sweater.",
+        "zh": "他買了一件毛衣給她。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000609",
+    "type": "WORD",
+    "content": "a sweeping ruling",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000611",
+    "type": "WORD",
+    "content": "a symmetry polished",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_000612",
+    "type": "WORD",
+    "content": "a T-shirt",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "Do you want a T-shirt? \"Yes, I want a red one.\"",
+        "zh": "「你想要一件襯衫嗎？」「對，我想要一件紅色的。」"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000614",
+    "type": "WORD",
+    "content": "a talk show",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000615",
+    "type": "WORD",
+    "content": "a tall agile guy",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000616",
+    "type": "WORD",
+    "content": "a taxi",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "Call a taxi.",
+        "zh": "叫一輛出租車。"
+      },
+      {
+        "en": "I need a taxi.",
+        "zh": "我需要一輛出租車。"
+      },
+      {
+        "en": "Let's take a taxi!",
+        "zh": "我们坐出租车吧"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000618",
+    "type": "WORD",
+    "content": "a tear gas grenade",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000619",
+    "type": "WORD",
+    "content": "a technical term",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000620",
+    "type": "WORD",
+    "content": "a termite colony",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000621",
+    "type": "WORD",
+    "content": "a terrestrial globe",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000622",
+    "type": "WORD",
+    "content": "a test extricate implode",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_000624",
+    "type": "WORD",
+    "content": "a three-year law degree",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

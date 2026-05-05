@@ -1,0 +1,272 @@
+[
+  {
+    "item_code": "w_054006",
+    "type": "WORD",
+    "content": "passive consumption mode",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054007",
+    "type": "WORD",
+    "content": "passive elongation",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054016",
+    "type": "WORD",
+    "content": "passport valid",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_054017",
+    "type": "WORD",
+    "content": "passport-size photograph",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054020",
+    "type": "WORD",
+    "content": "passé",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "expert",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 6,
+    "examples": [
+      {
+        "en": "I didn't pass.",
+        "zh": "我没通过。"
+      },
+      {
+        "en": "I did not pass.",
+        "zh": "我落選了。"
+      },
+      {
+        "en": "Pass me the ball!",
+        "zh": "把球傳給我！"
+      }
+    ]
+  },
+  {
+    "item_code": "w_054023",
+    "type": "WORD",
+    "content": "past generations",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054025",
+    "type": "WORD",
+    "content": "past-tense condition",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054035",
+    "type": "WORD",
+    "content": "pasteurized saloon sherry",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_054040",
+    "type": "WORD",
+    "content": "pastoral scene",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_054045",
+    "type": "WORD",
+    "content": "pastry donut candy",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_054046",
+    "type": "WORD",
+    "content": "pastry seasoning publicity",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054047",
+    "type": "WORD",
+    "content": "pasttime",
+    "theme": "college_english",
+    "tags": [
+      "CET6",
+      "advanced",
+      "beibei"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_054058",
+    "type": "WORD",
+    "content": "patchwork regulation",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054066",
+    "type": "WORD",
+    "content": "patent filing",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054068",
+    "type": "WORD",
+    "content": "patent inconsequential pickle",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_054071",
+    "type": "WORD",
+    "content": "patent on",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054072",
+    "type": "WORD",
+    "content": "patent soothe",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_054073",
+    "type": "WORD",
+    "content": "patent-granting",
+    "theme": "study_abroad",
+    "tags": [
+      "GMAT",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_054088",
+    "type": "WORD",
+    "content": "path based finder",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_054089",
+    "type": "WORD",
+    "content": "path entry",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  }
+]

@@ -1,0 +1,274 @@
+[
+  {
+    "item_code": "w_000009",
+    "type": "WORD",
+    "content": "100-meter race",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_000014",
+    "type": "WORD",
+    "content": "16000-volt power line",
+    "theme": "new_concept",
+    "tags": [
+      "NCE",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000018",
+    "type": "WORD",
+    "content": "20 centigrade",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "Water freezes at 0 degrees Centigrade.",
+        "zh": "水在攝氏0度時結成冰。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000019",
+    "type": "WORD",
+    "content": "20% profit margins",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000020",
+    "type": "WORD",
+    "content": "2019-nCoV",
+    "theme": "vocabulary",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000026",
+    "type": "WORD",
+    "content": "2500-horsepower engine",
+    "theme": "new_concept",
+    "tags": [
+      "NCE",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000031",
+    "type": "WORD",
+    "content": "3-D movie",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000032",
+    "type": "WORD",
+    "content": "3-D printer",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000033",
+    "type": "WORD",
+    "content": "3-digit number",
+    "theme": "study_abroad",
+    "tags": [
+      "GMAT",
+      "GRE",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_000036",
+    "type": "WORD",
+    "content": "3D printer",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "TOEFL",
+      "advanced",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000037",
+    "type": "WORD",
+    "content": "3D printing",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_000041",
+    "type": "WORD",
+    "content": "5-star hotel",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000043",
+    "type": "WORD",
+    "content": "5G era",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000047",
+    "type": "WORD",
+    "content": "996 work schedule",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000051",
+    "type": "WORD",
+    "content": "a bachelor degree",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_000052",
+    "type": "WORD",
+    "content": "a bachelor's degree",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_000054",
+    "type": "WORD",
+    "content": "a bag of flour",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "For the new year, Liu's company gives every employee a bag of flour.",
+        "zh": "過年時，小劉的單位给每位員工發一袋麵粉。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000055",
+    "type": "WORD",
+    "content": "a bag of potatoes",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000056",
+    "type": "WORD",
+    "content": "a balance of nature",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000059",
+    "type": "WORD",
+    "content": "a ban on",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

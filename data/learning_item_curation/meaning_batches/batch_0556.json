@@ -1,0 +1,265 @@
+[
+  {
+    "item_code": "w_054227",
+    "type": "WORD",
+    "content": "pay much attention to",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "Tom doesn't pay much attention to how he dresses.",
+        "zh": "Tom没有花费精力去打扮自己。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_054228",
+    "type": "WORD",
+    "content": "pay New Year call",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054232",
+    "type": "WORD",
+    "content": "pay off the debt",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_054233",
+    "type": "WORD",
+    "content": "pay off the money",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_054247",
+    "type": "WORD",
+    "content": "pay somebody a visit",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_054250",
+    "type": "WORD",
+    "content": "pay the mortgage",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054252",
+    "type": "WORD",
+    "content": "pay the price for",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054255",
+    "type": "WORD",
+    "content": "pay with phone",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054257",
+    "type": "WORD",
+    "content": "pay-photo",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054258",
+    "type": "WORD",
+    "content": "pay-to-read",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054259",
+    "type": "WORD",
+    "content": "pay-to-the-driver bus",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_054273",
+    "type": "WORD",
+    "content": "payroll office",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054274",
+    "type": "WORD",
+    "content": "pays relaxant",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_054282",
+    "type": "WORD",
+    "content": "PDF",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_054283",
+    "type": "WORD",
+    "content": "pdt",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_054285",
+    "type": "WORD",
+    "content": "PE class",
+    "theme": "primary_school",
+    "tags": [
+      "beibei",
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_054293",
+    "type": "WORD",
+    "content": "peace saboteur",
+    "theme": "TEM4",
+    "tags": [
+      "CET4",
+      "TEM4",
+      "advanced",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_054297",
+    "type": "WORD",
+    "content": "peaceful and quiet",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_054299",
+    "type": "WORD",
+    "content": "peaceful development",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_054300",
+    "type": "WORD",
+    "content": "peaceful state of mind",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  }
+]

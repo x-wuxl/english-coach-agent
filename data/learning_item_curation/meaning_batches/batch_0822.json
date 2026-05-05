@@ -1,0 +1,271 @@
+[
+  {
+    "item_code": "w_081287",
+    "type": "WORD",
+    "content": "with one's heartfelt sincerity",
+    "theme": "TEM8",
+    "tags": [
+      "TEM8",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081289",
+    "type": "WORD",
+    "content": "with one's very eyes",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_081291",
+    "type": "WORD",
+    "content": "with parrot",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_081293",
+    "type": "WORD",
+    "content": "with population increasing rapidly",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_081299",
+    "type": "WORD",
+    "content": "with sb.'s permission",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_081310",
+    "type": "WORD",
+    "content": "with this method",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_081311",
+    "type": "WORD",
+    "content": "with this specific goal",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_081317",
+    "type": "WORD",
+    "content": "withdraw embrace",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081321",
+    "type": "WORD",
+    "content": "withdraw the troop",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081328",
+    "type": "WORD",
+    "content": "wither eminent secrete intuition",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_081334",
+    "type": "WORD",
+    "content": "within 20 years",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081335",
+    "type": "WORD",
+    "content": "within a span of",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "beibei",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_081338",
+    "type": "WORD",
+    "content": "within one's means",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": [
+      {
+        "en": "One needs to buy a house that's within one's means, but one also needs to grasp an opportunity.",
+        "zh": "买房要量力而行，但也要把握时机。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_081340",
+    "type": "WORD",
+    "content": "within outside inside",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_081353",
+    "type": "WORD",
+    "content": "without any reservation",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081370",
+    "type": "WORD",
+    "content": "without restraint",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081372",
+    "type": "WORD",
+    "content": "without saying",
+    "theme": "study_abroad",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "That goes without saying.",
+        "zh": "不言而喻。"
+      },
+      {
+        "en": "He left without saying goodbye.",
+        "zh": "他不辭而別。"
+      },
+      {
+        "en": "He went away without saying a word.",
+        "zh": "他沒說一句話就離開了。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_081374",
+    "type": "WORD",
+    "content": "without the consent of",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_081375",
+    "type": "WORD",
+    "content": "without the slightest question",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081377",
+    "type": "WORD",
+    "content": "withstand challenges",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

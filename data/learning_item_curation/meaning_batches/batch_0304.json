@@ -1,0 +1,275 @@
+[
+  {
+    "item_code": "w_028891",
+    "type": "WORD",
+    "content": "for picnic",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028892",
+    "type": "WORD",
+    "content": "for political reasons",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_028893",
+    "type": "WORD",
+    "content": "for purpose",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_028896",
+    "type": "WORD",
+    "content": "for reasons",
+    "theme": "gaokao",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028898",
+    "type": "WORD",
+    "content": "for sb.'s benefit",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_028899",
+    "type": "WORD",
+    "content": "for sb.'s own good",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_028900",
+    "type": "WORD",
+    "content": "for sb.'s own part",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_028901",
+    "type": "WORD",
+    "content": "for sb.'s part",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_028902",
+    "type": "WORD",
+    "content": "for sb.'s sake",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028903",
+    "type": "WORD",
+    "content": "for several decades",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028908",
+    "type": "WORD",
+    "content": "for sth.'s sake",
+    "theme": "college_english",
+    "tags": [
+      "TOEFL",
+      "advanced",
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028915",
+    "type": "WORD",
+    "content": "for the long term",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028918",
+    "type": "WORD",
+    "content": "for the part of",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_028920",
+    "type": "WORD",
+    "content": "for the reason",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_028921",
+    "type": "WORD",
+    "content": "for the reason of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028934",
+    "type": "WORD",
+    "content": "for you",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "I came for you.",
+        "zh": "我为你而来。"
+      },
+      {
+        "en": "I feel for you.",
+        "zh": "我同情你。"
+      },
+      {
+        "en": "I work for you.",
+        "zh": "我為你工作。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_028947",
+    "type": "WORD",
+    "content": "forbearance charisma",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_028956",
+    "type": "WORD",
+    "content": "force ... out through",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028959",
+    "type": "WORD",
+    "content": "force one's way into",
+    "theme": "college_english",
+    "tags": [
+      "TOEFL",
+      "advanced",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_028967",
+    "type": "WORD",
+    "content": "forced demolition",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

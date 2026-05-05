@@ -1,0 +1,272 @@
+[
+  {
+    "item_code": "w_006065",
+    "type": "WORD",
+    "content": "babble backfire",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_006077",
+    "type": "WORD",
+    "content": "baby cot",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_006081",
+    "type": "WORD",
+    "content": "baby hatch",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_006085",
+    "type": "WORD",
+    "content": "baby-care room",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_006101",
+    "type": "WORD",
+    "content": "bachelor and graduate degrees",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_006102",
+    "type": "WORD",
+    "content": "bachelor crisis",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_006109",
+    "type": "WORD",
+    "content": "bachelor unmarried fiance",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_006114",
+    "type": "WORD",
+    "content": "Bacillus Calmette-Guérin vaccine",
+    "theme": "doctoral",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_006120",
+    "type": "WORD",
+    "content": "back brush",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_006125",
+    "type": "WORD",
+    "content": "back from the brink",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_006133",
+    "type": "WORD",
+    "content": "back problem",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_006136",
+    "type": "WORD",
+    "content": "back row ticket",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_006143",
+    "type": "WORD",
+    "content": "back trouble",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_006163",
+    "type": "WORD",
+    "content": "backed",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "The toilet is backed up.",
+        "zh": "厕所塞住了。"
+      },
+      {
+        "en": "Tom backed out of the deal.",
+        "zh": "湯姆反悔了。"
+      },
+      {
+        "en": "He backed his car into the garage.",
+        "zh": "他倒車入車庫。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_006166",
+    "type": "WORD",
+    "content": "backfire concentrate",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_006171",
+    "type": "WORD",
+    "content": "background briefing",
+    "theme": "TEM4",
+    "tags": [
+      "CET4",
+      "TEM4",
+      "advanced",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_006176",
+    "type": "WORD",
+    "content": "background privilege",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_006179",
+    "type": "WORD",
+    "content": "background wall",
+    "theme": "postgraduate",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_006192",
+    "type": "WORD",
+    "content": "backpack tour",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_006201",
+    "type": "WORD",
+    "content": "backspace",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  }
+]

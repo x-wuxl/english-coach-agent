@@ -1,0 +1,326 @@
+[
+  {
+    "item_code": "w_023145",
+    "type": "WORD",
+    "content": "earn meager salaries",
+    "theme": "TEM8",
+    "tags": [
+      "TEM8",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023150",
+    "type": "WORD",
+    "content": "earn one's salary",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023160",
+    "type": "WORD",
+    "content": "earnings facility",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023176",
+    "type": "WORD",
+    "content": "earth sinking",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023184",
+    "type": "WORD",
+    "content": "eartham",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023192",
+    "type": "WORD",
+    "content": "earthquake early warning",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023195",
+    "type": "WORD",
+    "content": "earthquake monitoring",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_023198",
+    "type": "WORD",
+    "content": "earthquake-triggered mudflow",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023205",
+    "type": "WORD",
+    "content": "ease the pain",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023208",
+    "type": "WORD",
+    "content": "easier",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "Which one is easier?",
+        "zh": "哪一個最簡單？"
+      },
+      {
+        "en": "Easier said than done.",
+        "zh": "說的比做的簡單。"
+      },
+      {
+        "en": "Ask me something easier.",
+        "zh": "问我简单些的。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_023210",
+    "type": "WORD",
+    "content": "easiest",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "Houses made of wood are the easiest to catch on fire.",
+        "zh": "木造的房子最容易失火。"
+      },
+      {
+        "en": "I find words with concise definitions to be the easiest to remember.",
+        "zh": "我发现有明确定义的词最容易记住。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_023212",
+    "type": "WORD",
+    "content": "easily broken",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "The shell of an egg is easily broken.",
+        "zh": "蛋壳容易破碎。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_023213",
+    "type": "WORD",
+    "content": "easily moved",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023215",
+    "type": "WORD",
+    "content": "East Asian countries",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_023230",
+    "type": "WORD",
+    "content": "eastwood",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "Clint Eastwood was elected mayor of Carmel.",
+        "zh": "克林伊斯威特當選為卡梅爾市市長。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_023247",
+    "type": "WORD",
+    "content": "eat sea food",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_023248",
+    "type": "WORD",
+    "content": "eat seafood",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_023255",
+    "type": "WORD",
+    "content": "eating breakfast",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "Where are we eating breakfast?",
+        "zh": "我們在哪裡吃早餐？"
+      },
+      {
+        "en": "I just finished eating breakfast.",
+        "zh": "我刚刚吃完早饭。"
+      },
+      {
+        "en": "I've just finished eating breakfast.",
+        "zh": "我剛吃完了早飯。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_023256",
+    "type": "WORD",
+    "content": "eating dinner",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "Tom has just finished eating dinner.",
+        "zh": "Tom刚吃完晚饭。"
+      },
+      {
+        "en": "By the time Tom got home, we were already eating dinner.",
+        "zh": "汤姆回家时我们已经在吃晚饭了。"
+      },
+      {
+        "en": "I forgot to tell my mother that I won't be eating dinner with her.",
+        "zh": "我忘了跟我媽說我今晚不會陪她吃飯。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_023260",
+    "type": "WORD",
+    "content": "eating lunch",
+    "theme": "primary_school",
+    "tags": [
+      "beibei",
+      "expert",
+      "momo",
+      "primary"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "I'm eating lunch.",
+        "zh": "我在吃午餐。"
+      },
+      {
+        "en": "He's eating lunch.",
+        "zh": "他在吃午餐。"
+      },
+      {
+        "en": "Tom is eating lunch.",
+        "zh": "湯姆在吃午餐。"
+      }
+    ]
+  }
+]

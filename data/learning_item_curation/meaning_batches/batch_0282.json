@@ -1,0 +1,272 @@
+[
+  {
+    "item_code": "w_026706",
+    "type": "WORD",
+    "content": "fake acquaint",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_026707",
+    "type": "WORD",
+    "content": "fake and inferior product",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_026708",
+    "type": "WORD",
+    "content": "fake and inferior products",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_026709",
+    "type": "WORD",
+    "content": "fake app",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_026710",
+    "type": "WORD",
+    "content": "fake certificate",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_026712",
+    "type": "WORD",
+    "content": "fake diploma",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_026713",
+    "type": "WORD",
+    "content": "fake invoice",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_026714",
+    "type": "WORD",
+    "content": "fake mortgage",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_026718",
+    "type": "WORD",
+    "content": "fake specialists",
+    "theme": "TEM8",
+    "tags": [
+      "TEM8",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_026721",
+    "type": "WORD",
+    "content": "faking",
+    "theme": "gaokao",
+    "tags": [
+      "beibei",
+      "gaokao",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "Mary isn't really sick. She's faking it.",
+        "zh": "玛丽不是真病。她只是装病。"
+      },
+      {
+        "en": "Mary isn't really sick. She's just faking it.",
+        "zh": "玛丽不是真病。她只是装病。"
+      },
+      {
+        "en": "How can you be sure your girlfriend isn't faking her orgasms?",
+        "zh": "你怎麼確定你的女朋友沒有假裝高潮?"
+      }
+    ]
+  },
+  {
+    "item_code": "w_026734",
+    "type": "WORD",
+    "content": "fall deformity",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_026744",
+    "type": "WORD",
+    "content": "fall into a category",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_026747",
+    "type": "WORD",
+    "content": "fall into one's concern",
+    "theme": "TEM8",
+    "tags": [
+      "TEM8",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_026750",
+    "type": "WORD",
+    "content": "fall into the category",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_026751",
+    "type": "WORD",
+    "content": "fall into the habit",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_026772",
+    "type": "WORD",
+    "content": "fall victim of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_026773",
+    "type": "WORD",
+    "content": "fall victim of ...",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_026778",
+    "type": "WORD",
+    "content": "fallen victim of bias",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_026791",
+    "type": "WORD",
+    "content": "false impose indicator",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_026793",
+    "type": "WORD",
+    "content": "false precision",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

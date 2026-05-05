@@ -1,0 +1,273 @@
+[
+  {
+    "item_code": "w_079155",
+    "type": "WORD",
+    "content": "veterinarian proverb",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_079160",
+    "type": "WORD",
+    "content": "vex patriots",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_079167",
+    "type": "WORD",
+    "content": "vi",
+    "theme": "TEM4",
+    "tags": [
+      "BEC",
+      "TEM4",
+      "TEM8",
+      "advanced",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_079169",
+    "type": "WORD",
+    "content": "via connection q",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_079170",
+    "type": "WORD",
+    "content": "via conveyance",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_079174",
+    "type": "WORD",
+    "content": "viable alternative",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_079175",
+    "type": "WORD",
+    "content": "viable candidate",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_079176",
+    "type": "WORD",
+    "content": "viable option",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_079177",
+    "type": "WORD",
+    "content": "viable subjective pilot",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_079194",
+    "type": "WORD",
+    "content": "vibrational wave",
+    "theme": "study_abroad",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_079211",
+    "type": "WORD",
+    "content": "vice subsidiary",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_079226",
+    "type": "WORD",
+    "content": "vicious attack",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_079244",
+    "type": "WORD",
+    "content": "victorious team",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_079248",
+    "type": "WORD",
+    "content": "vide",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_079257",
+    "type": "WORD",
+    "content": "Video Compact Disk",
+    "theme": "gaokao",
+    "tags": [
+      "CET4",
+      "CET6",
+      "advanced",
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_079262",
+    "type": "WORD",
+    "content": "video games",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "I love video games.",
+        "zh": "我爱游戏。"
+      },
+      {
+        "en": "I play video games.",
+        "zh": "我打游戏。"
+      },
+      {
+        "en": "I'm playing video games.",
+        "zh": "我在玩游戏。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_079268",
+    "type": "WORD",
+    "content": "video spoof",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_079270",
+    "type": "WORD",
+    "content": "video subtitles",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_079282",
+    "type": "WORD",
+    "content": "videotape editor",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_079292",
+    "type": "WORD",
+    "content": "view hall",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  }
+]

@@ -1,0 +1,289 @@
+[
+  {
+    "item_code": "w_000625",
+    "type": "WORD",
+    "content": "a thrilling experience",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_000626",
+    "type": "WORD",
+    "content": "a ticking time bomb",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000628",
+    "type": "WORD",
+    "content": "a tight budget",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": [
+      {
+        "en": "We're traveling on a tight budget.",
+        "zh": "我們用少的預算旅行。"
+      },
+      {
+        "en": "We are traveling on a tight budget.",
+        "zh": "我們很節省地旅行。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000629",
+    "type": "WORD",
+    "content": "a time filler",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_000630",
+    "type": "WORD",
+    "content": "a time-honored brand",
+    "theme": "TEM8",
+    "tags": [
+      "TEM8",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000631",
+    "type": "WORD",
+    "content": "a tiny minority",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000632",
+    "type": "WORD",
+    "content": "a tomato",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_000633",
+    "type": "WORD",
+    "content": "a ton of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000636",
+    "type": "WORD",
+    "content": "a touch of something",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_000637",
+    "type": "WORD",
+    "content": "a tough job market",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000638",
+    "type": "WORD",
+    "content": "a tour guide",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "I'm a tour guide in Tokyo.",
+        "zh": "我在东京做导游。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000639",
+    "type": "WORD",
+    "content": "a tourist attraction",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000640",
+    "type": "WORD",
+    "content": "a trace of",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "beibei",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": [
+      {
+        "en": "Miss Wang has a trace of obstinacy in her, but she is still a good student.",
+        "zh": "王小姐有一点固执，但是她还算是一个好学生。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000643",
+    "type": "WORD",
+    "content": "a train schedule",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000645",
+    "type": "WORD",
+    "content": "a tribute ingredient endurance",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000647",
+    "type": "WORD",
+    "content": "a trumpet solo",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000649",
+    "type": "WORD",
+    "content": "a TV cookery show",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000651",
+    "type": "WORD",
+    "content": "a typical nucleus",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_000652",
+    "type": "WORD",
+    "content": "a unique solution",
+    "theme": "study_abroad",
+    "tags": [
+      "GMAT",
+      "GRE",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_000656",
+    "type": "WORD",
+    "content": "a vase",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "I carelessly dropped a vase.",
+        "zh": "我不小心打落了一个花瓶。"
+      },
+      {
+        "en": "Tom worked the clay into a vase.",
+        "zh": "湯姆把黏土塑成了一個花瓶。"
+      },
+      {
+        "en": "A vase of frost-bleached ferns and ruby-red maple leaves adorned the table.",
+        "zh": "桌上擺放著一瓶被霜凍漂白的蕨類植物和紅寶石色的楓葉。"
+      }
+    ]
+  }
+]

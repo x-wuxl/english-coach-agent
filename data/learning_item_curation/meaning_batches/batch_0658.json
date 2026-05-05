@@ -1,0 +1,271 @@
+[
+  {
+    "item_code": "w_064895",
+    "type": "WORD",
+    "content": "seed player",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_064898",
+    "type": "WORD",
+    "content": "seed shears",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_064915",
+    "type": "WORD",
+    "content": "seek access to government",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_064918",
+    "type": "WORD",
+    "content": "seek favor from ...",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_064920",
+    "type": "WORD",
+    "content": "seek help from sb.",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_064922",
+    "type": "WORD",
+    "content": "seek permission from ...",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_064924",
+    "type": "WORD",
+    "content": "seek sb.'s assistance",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_064926",
+    "type": "WORD",
+    "content": "seek solutions to",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_064928",
+    "type": "WORD",
+    "content": "seek the sun",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_064929",
+    "type": "WORD",
+    "content": "seek thrills",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_064935",
+    "type": "WORD",
+    "content": "seem irrelevant to",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_064943",
+    "type": "WORD",
+    "content": "seen in that light",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_064948",
+    "type": "WORD",
+    "content": "sees",
+    "theme": "upgrade_exam",
+    "tags": [
+      "advanced",
+      "beibei"
+    ],
+    "difficulty": 4,
+    "examples": [
+      {
+        "en": "What if someone sees us?",
+        "zh": "如果有人看見我們怎麼辦？"
+      },
+      {
+        "en": "And what if someone sees us?",
+        "zh": "如果有人看見我們怎麼辦？"
+      },
+      {
+        "en": "He often sees the bottom of the glass.",
+        "zh": "他经常看杯底。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_064952",
+    "type": "WORD",
+    "content": "seething anger",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_064953",
+    "type": "WORD",
+    "content": "segal kin",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_064955",
+    "type": "WORD",
+    "content": "segment eulogize",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_064957",
+    "type": "WORD",
+    "content": "segment workout insert bind",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_064972",
+    "type": "WORD",
+    "content": "seismic hazard zones",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_064975",
+    "type": "WORD",
+    "content": "seismically active area",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_064984",
+    "type": "WORD",
+    "content": "seize give",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  }
+]

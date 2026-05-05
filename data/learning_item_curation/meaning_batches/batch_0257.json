@@ -1,0 +1,274 @@
+[
+  {
+    "item_code": "w_024512",
+    "type": "WORD",
+    "content": "endure the strong sunshine",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_024514",
+    "type": "WORD",
+    "content": "enduring classic",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_024520",
+    "type": "WORD",
+    "content": "energetic and active",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_024521",
+    "type": "WORD",
+    "content": "energetic and sunny",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_024522",
+    "type": "WORD",
+    "content": "energetic miscarriage",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_024532",
+    "type": "WORD",
+    "content": "energy crunch",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_024533",
+    "type": "WORD",
+    "content": "energy depletion",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_024538",
+    "type": "WORD",
+    "content": "energy neutral",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_024543",
+    "type": "WORD",
+    "content": "energy-dense food",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_024546",
+    "type": "WORD",
+    "content": "energy-intensive industries",
+    "theme": "TEM4",
+    "tags": [
+      "CET4",
+      "CET6",
+      "TEM4",
+      "advanced",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_024550",
+    "type": "WORD",
+    "content": "eNews",
+    "theme": "new_concept",
+    "tags": [
+      "NCE",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_024556",
+    "type": "WORD",
+    "content": "enforce control over advertising",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_024567",
+    "type": "WORD",
+    "content": "engage with consumers directly",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_024581",
+    "type": "WORD",
+    "content": "engineering students",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_024589",
+    "type": "WORD",
+    "content": "English debate",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_024590",
+    "type": "WORD",
+    "content": "English dictionary",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "Do you have an English dictionary?",
+        "zh": "你有英語詞典嗎？"
+      },
+      {
+        "en": "Miss March gave me an English dictionary.",
+        "zh": "三月小姐給了我一本英語詞典。"
+      },
+      {
+        "en": "Do you have an extra English dictionary by any chance?",
+        "zh": "您碰巧有一本額外的英文字典嗎？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_024592",
+    "type": "WORD",
+    "content": "English magazine",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_024593",
+    "type": "WORD",
+    "content": "English programme",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_024594",
+    "type": "WORD",
+    "content": "English speaking environment",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_024598",
+    "type": "WORD",
+    "content": "English-speaking countries",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  }
+]

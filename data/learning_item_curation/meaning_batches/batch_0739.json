@@ -1,0 +1,283 @@
+[
+  {
+    "item_code": "w_072816",
+    "type": "WORD",
+    "content": "taxi-hailing app",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_072817",
+    "type": "WORD",
+    "content": "taxi-hailing apps",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_072832",
+    "type": "WORD",
+    "content": "tea and coffee facilities",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_072833",
+    "type": "WORD",
+    "content": "tea art",
+    "theme": "junior_high",
+    "tags": [
+      "beibei",
+      "junior",
+      "momo",
+      "primary"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_072844",
+    "type": "WORD",
+    "content": "teach ... to do",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_072848",
+    "type": "WORD",
+    "content": "teacher's certificate or license",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_072852",
+    "type": "WORD",
+    "content": "teacher's office",
+    "theme": "primary_school",
+    "tags": [
+      "beibei",
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_072856",
+    "type": "WORD",
+    "content": "teachers' office",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_072857",
+    "type": "WORD",
+    "content": "teachers' room",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_072864",
+    "type": "WORD",
+    "content": "teaching facilities",
+    "theme": "postgraduate",
+    "tags": [
+      "IELTS",
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_072865",
+    "type": "WORD",
+    "content": "teaching faculty",
+    "theme": "TEM4",
+    "tags": [
+      "CET4",
+      "CET6",
+      "TEM4",
+      "advanced",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_072871",
+    "type": "WORD",
+    "content": "teacup saucer",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_072881",
+    "type": "WORD",
+    "content": "team selection",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_072890",
+    "type": "WORD",
+    "content": "teaming",
+    "theme": "business_english",
+    "tags": [
+      "BEC",
+      "advanced",
+      "beibei"
+    ],
+    "difficulty": 4,
+    "examples": [
+      {
+        "en": "Local businesses are teaming up for a charity initiative.",
+        "zh": "當地企業正在聯手舉辦一項慈善活動。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_072896",
+    "type": "WORD",
+    "content": "teapot saucepan",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_072900",
+    "type": "WORD",
+    "content": "tear ... away from",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_072903",
+    "type": "WORD",
+    "content": "tear away from",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_072914",
+    "type": "WORD",
+    "content": "teardown",
+    "theme": "college_english",
+    "tags": [
+      "CET4",
+      "CET6",
+      "advanced",
+      "beibei"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_072918",
+    "type": "WORD",
+    "content": "teas",
+    "theme": "TEM4",
+    "tags": [
+      "CET6",
+      "TEM4",
+      "TEM8",
+      "advanced",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "Two teas and a coffee, please.",
+        "zh": "请来两杯茶和一杯咖啡。"
+      },
+      {
+        "en": "Please can we have two teas and one coffee.",
+        "zh": "请来两杯茶和一杯咖啡。"
+      },
+      {
+        "en": "Bring two breakfasts, please. Number 2 on the menu, and two teas with milk.",
+        "zh": "请送两份早餐过来。2号餐加两杯奶茶。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_072926",
+    "type": "WORD",
+    "content": "teaspoon meal",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  }
+]

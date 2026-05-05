@@ -1,0 +1,288 @@
+[
+  {
+    "item_code": "w_081641",
+    "type": "WORD",
+    "content": "workset",
+    "theme": "doctoral",
+    "tags": [
+      "BEC",
+      "advanced",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_081655",
+    "type": "WORD",
+    "content": "World Car Free Day",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_081657",
+    "type": "WORD",
+    "content": "World Consumer Rights Day",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081660",
+    "type": "WORD",
+    "content": "World Health Organisation",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081681",
+    "type": "WORD",
+    "content": "world-class city cluster",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081686",
+    "type": "WORD",
+    "content": "world-shocking",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081693",
+    "type": "WORD",
+    "content": "worldwide belt",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081704",
+    "type": "WORD",
+    "content": "worried-looking",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_081711",
+    "type": "WORD",
+    "content": "worry about their future",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081719",
+    "type": "WORD",
+    "content": "worship the moon",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_081743",
+    "type": "WORD",
+    "content": "would give a lot",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081744",
+    "type": "WORD",
+    "content": "would give anything",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081745",
+    "type": "WORD",
+    "content": "would give the world",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081748",
+    "type": "WORD",
+    "content": "would love",
+    "theme": "zhongkao",
+    "tags": [
+      "junior",
+      "momo",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": [
+      {
+        "en": "I would love to sing with your band.",
+        "zh": "我非常樂意和你們樂團一起唱歌。"
+      },
+      {
+        "en": "I would love to be able to read French effortlessly.",
+        "zh": "要是我能流畅地读法语就好了。"
+      },
+      {
+        "en": "I would love to write hundreds of sentences on Tatoeba, but I've got things to do.",
+        "zh": "我真想在 Tatoeba 寫很多很多的句子，不過我有別的事要做。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_081750",
+    "type": "WORD",
+    "content": "would never do",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "expert",
+      "kaoyan",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "You know I would never do that kind of thing.",
+        "zh": "你知道我絕不會做那種事。"
+      },
+      {
+        "en": "A Japanese person would never do such a thing.",
+        "zh": "日本人是不會做這種事的。"
+      },
+      {
+        "en": "I promised myself that I would never do that again.",
+        "zh": "我对自己发誓今后不会再那么做。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_081751",
+    "type": "WORD",
+    "content": "would prefer to do",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_081757",
+    "type": "WORD",
+    "content": "would sooner do sth.",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081759",
+    "type": "WORD",
+    "content": "Would you mind ...?",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_081761",
+    "type": "WORD",
+    "content": "would-be lawyer",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081766",
+    "type": "WORD",
+    "content": "wounded lead fracture",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  }
+]

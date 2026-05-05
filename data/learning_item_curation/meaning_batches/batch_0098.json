@@ -1,0 +1,272 @@
+[
+  {
+    "item_code": "w_008064",
+    "type": "WORD",
+    "content": "be stocked with",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_008066",
+    "type": "WORD",
+    "content": "be stricken by",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "beibei",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_008067",
+    "type": "WORD",
+    "content": "be stricken with",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "beibei",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_008076",
+    "type": "WORD",
+    "content": "be stubborn about",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_008082",
+    "type": "WORD",
+    "content": "be stunned by",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "beibei",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_008087",
+    "type": "WORD",
+    "content": "be such",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": [
+      {
+        "en": "When I hear the news, I get goose bumps. How could there be such a dangerous thing?",
+        "zh": "聽到這條新聞我直起雞皮疙瘩，怎麼會有這樣危險的事啊？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_008089",
+    "type": "WORD",
+    "content": "be sucked into",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_008095",
+    "type": "WORD",
+    "content": "be supervised",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_008096",
+    "type": "WORD",
+    "content": "be supplied to sb.",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_008105",
+    "type": "WORD",
+    "content": "be surprised to",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "You may be surprised to receive this letter.",
+        "zh": "你收到這封信可能會有點驚訝。"
+      },
+      {
+        "en": "To be surprised, to wonder, is to begin to understand.",
+        "zh": "感到惊讶、感到惊奇就是明白的开始。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_008106",
+    "type": "WORD",
+    "content": "be surprised to ...",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_008108",
+    "type": "WORD",
+    "content": "be surrounded with",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_008109",
+    "type": "WORD",
+    "content": "be susceptible of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_008113",
+    "type": "WORD",
+    "content": "be swamped by",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_008114",
+    "type": "WORD",
+    "content": "be swamped by ...",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "beibei",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_008119",
+    "type": "WORD",
+    "content": "be tailored to",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_008123",
+    "type": "WORD",
+    "content": "be taken to court",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_008125",
+    "type": "WORD",
+    "content": "be talented in",
+    "theme": "zhongkao",
+    "tags": [
+      "junior",
+      "momo",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_008126",
+    "type": "WORD",
+    "content": "be tangent to",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_008129",
+    "type": "WORD",
+    "content": "be tempted to do",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

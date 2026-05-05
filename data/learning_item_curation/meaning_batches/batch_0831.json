@@ -1,0 +1,70 @@
+[
+  {
+    "item_code": "w_082307",
+    "type": "WORD",
+    "content": "甚至 lian 即使",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "p_083609",
+    "type": "PHRASE",
+    "content": "make or anna living",
+    "theme": "phrases",
+    "tags": [
+      "beibei",
+      "gaokao",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "p_084003",
+    "type": "PHRASE",
+    "content": "stick to something",
+    "theme": "phrases",
+    "tags": [
+      "CET6",
+      "advanced",
+      "beibei",
+      "gaokao",
+      "junior",
+      "senior",
+      "zhongkao"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "p_084004",
+    "type": "PHRASE",
+    "content": "stick to something stick with",
+    "theme": "phrases",
+    "tags": [
+      "CET4",
+      "beibei",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "p_084076",
+    "type": "PHRASE",
+    "content": "take your advice",
+    "theme": "phrases",
+    "tags": [
+      "beibei",
+      "junior",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": []
+  }
+]

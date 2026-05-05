@@ -1,0 +1,270 @@
+[
+  {
+    "item_code": "w_047525",
+    "type": "WORD",
+    "content": "misleading statements about",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_047539",
+    "type": "WORD",
+    "content": "misplace trust in",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_047554",
+    "type": "WORD",
+    "content": "miss a class",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_047556",
+    "type": "WORD",
+    "content": "miss an examination",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_047557",
+    "type": "WORD",
+    "content": "miss class",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_047558",
+    "type": "WORD",
+    "content": "Miss Etiquette",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_047559",
+    "type": "WORD",
+    "content": "Miss Li",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_047561",
+    "type": "WORD",
+    "content": "miss out on something",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_047562",
+    "type": "WORD",
+    "content": "miss pity sympathy",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_047570",
+    "type": "WORD",
+    "content": "misses",
+    "theme": "gaokao",
+    "tags": [
+      "beibei",
+      "gaokao",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "He misses Boston.",
+        "zh": "他怀念波士顿。"
+      },
+      {
+        "en": "Tom misses Boston.",
+        "zh": "汤姆想念波士顿了。"
+      },
+      {
+        "en": "The answer misses the point.",
+        "zh": "回答偏了。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_047573",
+    "type": "WORD",
+    "content": "missile radiotherapy",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_047577",
+    "type": "WORD",
+    "content": "mission moan",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_047593",
+    "type": "WORD",
+    "content": "mistake sb. for",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_047605",
+    "type": "WORD",
+    "content": "mistreat consumers",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_047613",
+    "type": "WORD",
+    "content": "misty morning",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_047621",
+    "type": "WORD",
+    "content": "mite sand",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_047625",
+    "type": "WORD",
+    "content": "mitigate conjure",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_047636",
+    "type": "WORD",
+    "content": "mitral tub tendon",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_047654",
+    "type": "WORD",
+    "content": "mixed origin",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_047656",
+    "type": "WORD",
+    "content": "mixed rice",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  }
+]

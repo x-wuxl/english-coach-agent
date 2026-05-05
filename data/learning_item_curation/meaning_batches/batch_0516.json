@@ -1,0 +1,273 @@
+[
+  {
+    "item_code": "w_049996",
+    "type": "WORD",
+    "content": "nitric",
+    "theme": "study_abroad",
+    "tags": [
+      "GMAT",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_050008",
+    "type": "WORD",
+    "content": "Nitrogen-oxide emissions",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_050021",
+    "type": "WORD",
+    "content": "no ... but ...",
+    "theme": "zhongkao",
+    "tags": [
+      "junior",
+      "momo",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_050022",
+    "type": "WORD",
+    "content": "no balance",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_050025",
+    "type": "WORD",
+    "content": "no choice but ...",
+    "theme": "zhongkao",
+    "tags": [
+      "junior",
+      "momo",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_050027",
+    "type": "WORD",
+    "content": "no different",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "Are you trying to suggest that my emotional problems are no different than those of a stupid person?",
+        "zh": "你是说我的情绪问题跟那些白痴没什么两样吗？"
+      },
+      {
+        "en": "The truth is the truth, even if you defy it and intentionally cover it up, it is still no different from daydreaming.",
+        "zh": "真理就是真理， 就算反其道而行故意掩盖它，这样的企图和白日做梦一样，不过是妄想而已。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_050030",
+    "type": "WORD",
+    "content": "No eating or drinking.",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_050036",
+    "type": "WORD",
+    "content": "no flash",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_050043",
+    "type": "WORD",
+    "content": "no less necessary",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_050045",
+    "type": "WORD",
+    "content": "no longer usable",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_050060",
+    "type": "WORD",
+    "content": "No noise, please!",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_050068",
+    "type": "WORD",
+    "content": "no same interest",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_050069",
+    "type": "WORD",
+    "content": "no shock there",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_050076",
+    "type": "WORD",
+    "content": "no substitute for",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "Then I'll work on the principle that deference is no substitute for obedience.",
+        "zh": "那我就恭敬不如从命啦。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_050077",
+    "type": "WORD",
+    "content": "no swimming",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_050084",
+    "type": "WORD",
+    "content": "No-Face Day",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_050091",
+    "type": "WORD",
+    "content": "no-smoking room",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_050104",
+    "type": "WORD",
+    "content": "noble descent",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_050110",
+    "type": "WORD",
+    "content": "nobody but ...",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_050111",
+    "type": "WORD",
+    "content": "nobody shows interest",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

@@ -1,0 +1,291 @@
+[
+  {
+    "item_code": "w_005191",
+    "type": "WORD",
+    "content": "at critical times",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005193",
+    "type": "WORD",
+    "content": "at dirt-cheap prices",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005196",
+    "type": "WORD",
+    "content": "at ease with",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "I am very ill at ease with strangers.",
+        "zh": "我面对陌生人很不自在。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_005205",
+    "type": "WORD",
+    "content": "at five",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "He came back at five.",
+        "zh": "他五点钟回来的。"
+      },
+      {
+        "en": "I will be at home at five.",
+        "zh": "我五點在家。"
+      },
+      {
+        "en": "He got up at five as usual.",
+        "zh": "他像往常一樣五點鐘起床。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_005213",
+    "type": "WORD",
+    "content": "at hazard",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005220",
+    "type": "WORD",
+    "content": "at issue is",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005224",
+    "type": "WORD",
+    "content": "at large discount",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_005230",
+    "type": "WORD",
+    "content": "at lunchtime",
+    "theme": "new_concept",
+    "tags": [
+      "NCE",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "At lunchtime today, our usual restaurant was closed because of a funeral in the family.",
+        "zh": "今天午餐時間，我們常去的飯館關門了，因為他們家在辦喪事。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_005233",
+    "type": "WORD",
+    "content": "at much lower prices",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005234",
+    "type": "WORD",
+    "content": "at my desk",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005248",
+    "type": "WORD",
+    "content": "at one's deathbed",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_005257",
+    "type": "WORD",
+    "content": "at one's peak",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005260",
+    "type": "WORD",
+    "content": "at one's very best",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_005272",
+    "type": "WORD",
+    "content": "at puberty",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005275",
+    "type": "WORD",
+    "content": "at risk from",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005276",
+    "type": "WORD",
+    "content": "at risk of",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "beibei",
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005277",
+    "type": "WORD",
+    "content": "at sb.'s convenience",
+    "theme": "gaokao",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005278",
+    "type": "WORD",
+    "content": "at sb.'s disposal",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "CET6",
+      "advanced",
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005279",
+    "type": "WORD",
+    "content": "at sb.'s expense",
+    "theme": "textbook_primary",
+    "tags": [
+      "advanced",
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_005280",
+    "type": "WORD",
+    "content": "at sb.'s service",
+    "theme": "gaokao",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

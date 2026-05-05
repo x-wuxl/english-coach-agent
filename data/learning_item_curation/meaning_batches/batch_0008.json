@@ -1,0 +1,318 @@
+[
+  {
+    "item_code": "w_000268",
+    "type": "WORD",
+    "content": "a good number",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000271",
+    "type": "WORD",
+    "content": "a good start",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "It's a good start.",
+        "zh": "这是一个好的开端。"
+      },
+      {
+        "en": "A good start is half the work.",
+        "zh": "有好的開始, 工作就完成了一半。"
+      },
+      {
+        "en": "Making a good start is half the battle.",
+        "zh": "有好的開始, 工作就完成了一半。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000272",
+    "type": "WORD",
+    "content": "a good view",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "I'd like a room with a good view.",
+        "zh": "我喜欢视野好的房子。"
+      },
+      {
+        "en": "We have a good view of the sea from the window.",
+        "zh": "透过窗，我们可以看到很美的海景。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000273",
+    "type": "WORD",
+    "content": "a graduation dissertation",
+    "theme": "TEM4",
+    "tags": [
+      "CET4",
+      "CET6",
+      "TEM4",
+      "advanced",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_000274",
+    "type": "WORD",
+    "content": "a graduation thesis",
+    "theme": "TEM4",
+    "tags": [
+      "CET4",
+      "CET6",
+      "TEM4",
+      "advanced",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_000275",
+    "type": "WORD",
+    "content": "a grant-aided student",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000283",
+    "type": "WORD",
+    "content": "a growing number of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000284",
+    "type": "WORD",
+    "content": "a guilty conscience",
+    "theme": "textbook_primary",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "Do you have a guilty conscience?",
+        "zh": "是你心里有鬼吧？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000285",
+    "type": "WORD",
+    "content": "a hamburger",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "Please give me a hamburger.",
+        "zh": "請給我一個漢堡。"
+      },
+      {
+        "en": "A hamburger and a cold drink cost 7 liras.",
+        "zh": "汉堡和冷饮要七里拉。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000286",
+    "type": "WORD",
+    "content": "a handful of schools",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000287",
+    "type": "WORD",
+    "content": "a hard time",
+    "theme": "new_concept",
+    "tags": [
+      "NCE",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "Everybody had a hard time.",
+        "zh": "每个人都遇到过困难。"
+      },
+      {
+        "en": "He is giving me a hard time.",
+        "zh": "他跟我過不去。"
+      },
+      {
+        "en": "He has a hard time remembering names.",
+        "zh": "他不擅於記名字。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000288",
+    "type": "WORD",
+    "content": "a harmonious society",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "advanced",
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000290",
+    "type": "WORD",
+    "content": "a head of lettuce",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000293",
+    "type": "WORD",
+    "content": "a heavy burden",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_000294",
+    "type": "WORD",
+    "content": "a heavy demand for",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000295",
+    "type": "WORD",
+    "content": "a heavy line",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000296",
+    "type": "WORD",
+    "content": "a heavy schedule",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000299",
+    "type": "WORD",
+    "content": "a high college diploma",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000300",
+    "type": "WORD",
+    "content": "a high degree of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000301",
+    "type": "WORD",
+    "content": "a high school diploma",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  }
+]

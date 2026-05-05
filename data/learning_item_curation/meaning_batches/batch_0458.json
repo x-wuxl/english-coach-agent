@@ -1,0 +1,272 @@
+[
+  {
+    "item_code": "w_043996",
+    "type": "WORD",
+    "content": "long-term patterns",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_044006",
+    "type": "WORD",
+    "content": "longest-living",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_044007",
+    "type": "WORD",
+    "content": "longest-reigning monarch",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_044009",
+    "type": "WORD",
+    "content": "longevity and happiness",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_044022",
+    "type": "WORD",
+    "content": "longitudinal wave energy",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_044040",
+    "type": "WORD",
+    "content": "look at sb. cross-eyed",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_044043",
+    "type": "WORD",
+    "content": "look back at",
+    "theme": "junior_high",
+    "tags": [
+      "beibei",
+      "expert",
+      "gaokao",
+      "junior",
+      "kaoyan",
+      "momo",
+      "primary",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "When we look back at our youth, there seems to be an indescribable pain.",
+        "zh": "当我们回眸青春，仿佛有一种说不出的痛。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_044046",
+    "type": "WORD",
+    "content": "look back on something",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_044050",
+    "type": "WORD",
+    "content": "look closer",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_044051",
+    "type": "WORD",
+    "content": "look cool",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_044052",
+    "type": "WORD",
+    "content": "look cross-eyed at sb.",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_044053",
+    "type": "WORD",
+    "content": "look cute",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_044055",
+    "type": "WORD",
+    "content": "look different",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_044061",
+    "type": "WORD",
+    "content": "look familiar",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "They look familiar.",
+        "zh": "他们很眼熟。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_044062",
+    "type": "WORD",
+    "content": "look far less like",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_044069",
+    "type": "WORD",
+    "content": "look forward to doing",
+    "theme": "gaokao",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_044071",
+    "type": "WORD",
+    "content": "look funny",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_044083",
+    "type": "WORD",
+    "content": "look on at sth.",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_044089",
+    "type": "WORD",
+    "content": "look right through him",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_044092",
+    "type": "WORD",
+    "content": "look so pretty",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  }
+]

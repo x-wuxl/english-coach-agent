@@ -1,0 +1,285 @@
+[
+  {
+    "item_code": "w_033032",
+    "type": "WORD",
+    "content": "haberdashery",
+    "theme": "study_abroad",
+    "tags": [
+      "GMAT",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_033039",
+    "type": "WORD",
+    "content": "habitable city",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033040",
+    "type": "WORD",
+    "content": "habitable space",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033045",
+    "type": "WORD",
+    "content": "habitation hallway",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_033047",
+    "type": "WORD",
+    "content": "habitual thought",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033053",
+    "type": "WORD",
+    "content": "habitué",
+    "theme": "TEM8",
+    "tags": [
+      "TEM8",
+      "expert",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033064",
+    "type": "WORD",
+    "content": "hackneed",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033071",
+    "type": "WORD",
+    "content": "had an affectionate nickname",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033077",
+    "type": "WORD",
+    "content": "had breakfast",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "Tom had breakfast.",
+        "zh": "汤姆吃了早餐。"
+      },
+      {
+        "en": "Mary had breakfast.",
+        "zh": "玛丽吃过早餐了。"
+      },
+      {
+        "en": "I had breakfast in pajamas.",
+        "zh": "我穿著我的睡衣吃早餐。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_033078",
+    "type": "WORD",
+    "content": "had fun with friends",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_033099",
+    "type": "WORD",
+    "content": "haggle acquire",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033108",
+    "type": "WORD",
+    "content": "hail from MIT's",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033112",
+    "type": "WORD",
+    "content": "hail them as Americans",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033116",
+    "type": "WORD",
+    "content": "hair band",
+    "theme": "textbook_primary",
+    "tags": [
+      "junior",
+      "momo"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_033121",
+    "type": "WORD",
+    "content": "hair dryer hairline mascara",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_033130",
+    "type": "WORD",
+    "content": "haircut hairdo",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_033139",
+    "type": "WORD",
+    "content": "hairlip",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033143",
+    "type": "WORD",
+    "content": "hairsey",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033152",
+    "type": "WORD",
+    "content": "haleontology",
+    "theme": "study_abroad",
+    "tags": [
+      "GMAT",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_033157",
+    "type": "WORD",
+    "content": "half of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "I want half of a salmon.",
+        "zh": "我要半條鮭魚。"
+      },
+      {
+        "en": "Do you want all or half of it?",
+        "zh": "您要整份还是半份？"
+      },
+      {
+        "en": "Half of these apples are rotten.",
+        "zh": "這些蘋果的其中一半都爛了。"
+      }
+    ]
+  }
+]

@@ -1,0 +1,268 @@
+[
+  {
+    "item_code": "w_008527",
+    "type": "WORD",
+    "content": "before the Common Era",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_008528",
+    "type": "WORD",
+    "content": "before-tax salary",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_008532",
+    "type": "WORD",
+    "content": "befruntery",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_008536",
+    "type": "WORD",
+    "content": "befunery",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_008554",
+    "type": "WORD",
+    "content": "beginning courses",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_008563",
+    "type": "WORD",
+    "content": "behave myself",
+    "theme": "new_concept",
+    "tags": [
+      "NCE",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_008565",
+    "type": "WORD",
+    "content": "behave unpredictably",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_008567",
+    "type": "WORD",
+    "content": "behaved behavior",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_008569",
+    "type": "WORD",
+    "content": "behavior communication",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_008570",
+    "type": "WORD",
+    "content": "behavior signature paralyze",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_008587",
+    "type": "WORD",
+    "content": "behind me",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "Tom stood behind me.",
+        "zh": "汤姆站在我后面。"
+      },
+      {
+        "en": "Please stand behind me.",
+        "zh": "请你站在我后面。"
+      },
+      {
+        "en": "My happy schooldays will soon be behind me.",
+        "zh": "我快乐的校园时光，很快就要离我而去了。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_008589",
+    "type": "WORD",
+    "content": "behind sb.'s back",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "expert",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_008604",
+    "type": "WORD",
+    "content": "beige oath",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_008606",
+    "type": "WORD",
+    "content": "Beijing International Airport",
+    "theme": "textbook_primary",
+    "tags": [
+      "junior",
+      "momo"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_008607",
+    "type": "WORD",
+    "content": "Beijing International School",
+    "theme": "textbook_primary",
+    "tags": [
+      "junior",
+      "momo"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_008609",
+    "type": "WORD",
+    "content": "Beijing repose",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_008610",
+    "type": "WORD",
+    "content": "Beijing-Tianjin-Hebei integration",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_008611",
+    "type": "WORD",
+    "content": "Beijinger",
+    "theme": "textbook_primary",
+    "tags": [
+      "junior",
+      "momo"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_008613",
+    "type": "WORD",
+    "content": "being absent-minded",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_008614",
+    "type": "WORD",
+    "content": "being careless",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

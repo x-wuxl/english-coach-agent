@@ -1,0 +1,266 @@
+[
+  {
+    "item_code": "w_076574",
+    "type": "WORD",
+    "content": "tub undercoat",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_076610",
+    "type": "WORD",
+    "content": "tuition payment",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_076624",
+    "type": "WORD",
+    "content": "tumor vaccinate vaccine",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_076650",
+    "type": "WORD",
+    "content": "tunnel corner intersection",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_076651",
+    "type": "WORD",
+    "content": "tuple",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_076652",
+    "type": "WORD",
+    "content": "tuple assignment",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_076653",
+    "type": "WORD",
+    "content": "tuple unpacking",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_076659",
+    "type": "WORD",
+    "content": "turbit",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_076673",
+    "type": "WORD",
+    "content": "turkey contractile",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_076677",
+    "type": "WORD",
+    "content": "turmoil dismay",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_076695",
+    "type": "WORD",
+    "content": "turn A into B",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_076703",
+    "type": "WORD",
+    "content": "turn down an invitation",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_076704",
+    "type": "WORD",
+    "content": "turn face up",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_076705",
+    "type": "WORD",
+    "content": "turn failure into victory",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_076707",
+    "type": "WORD",
+    "content": "turn forward",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_076711",
+    "type": "WORD",
+    "content": "turn into a reality",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_076717",
+    "type": "WORD",
+    "content": "turn loss into gains",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_076720",
+    "type": "WORD",
+    "content": "turn off the TV",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "Turn off the TV.",
+        "zh": "关闭电视机"
+      },
+      {
+        "en": "Can I turn off the TV?",
+        "zh": "我能关电视吗？"
+      },
+      {
+        "en": "May I turn off the TV?",
+        "zh": "我能关电视吗？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_076728",
+    "type": "WORD",
+    "content": "turn one's back to",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_076749",
+    "type": "WORD",
+    "content": "turn the spotlight on",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  }
+]

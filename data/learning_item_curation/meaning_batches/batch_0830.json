@@ -1,0 +1,267 @@
+[
+  {
+    "item_code": "w_082222",
+    "type": "WORD",
+    "content": "zeroth",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_082226",
+    "type": "WORD",
+    "content": "zhenying",
+    "theme": "college_english",
+    "tags": [
+      "CET6",
+      "advanced",
+      "beibei"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_082234",
+    "type": "WORD",
+    "content": "zion spec",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_082239",
+    "type": "WORD",
+    "content": "zip object",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_082240",
+    "type": "WORD",
+    "content": "zip placenta",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_082243",
+    "type": "WORD",
+    "content": "zipper undo unzip fashion",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_082252",
+    "type": "WORD",
+    "content": "zombie enterprises",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_082253",
+    "type": "WORD",
+    "content": "zombie meat",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_082269",
+    "type": "WORD",
+    "content": "zoologist measles ejaculate",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_082272",
+    "type": "WORD",
+    "content": "zoom antique bookcase",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_082288",
+    "type": "WORD",
+    "content": "Zun of Peace",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_082296",
+    "type": "WORD",
+    "content": "zymology sparrow",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_082299",
+    "type": "WORD",
+    "content": "à la carte",
+    "theme": "TEM4",
+    "tags": [
+      "CET4",
+      "TEM4",
+      "TEM8",
+      "advanced",
+      "expert",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_082300",
+    "type": "WORD",
+    "content": "éclat",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "expert",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_082301",
+    "type": "WORD",
+    "content": "élan",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_082302",
+    "type": "WORD",
+    "content": "émigré",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_082303",
+    "type": "WORD",
+    "content": "α-ray",
+    "theme": "study_abroad",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_082304",
+    "type": "WORD",
+    "content": "β-ray",
+    "theme": "study_abroad",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_082305",
+    "type": "WORD",
+    "content": "对某人事物厌倦的 famine 的",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_082306",
+    "type": "WORD",
+    "content": "文本由语音转文字软件自动生成，会有少许错误或遗漏，请以原视频为准（up主精力有限，粉丝们可以自己手动校对）",
+    "theme": "postgraduate",
+    "tags": [
+      "beibei",
+      "expert",
+      "kaoyan"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "Break it up!",
+        "zh": "停手！"
+      },
+      {
+        "en": "I'm done up.",
+        "zh": "我太累了。"
+      },
+      {
+        "en": "I'm hard up.",
+        "zh": "我缺钱。"
+      }
+    ]
+  }
+]

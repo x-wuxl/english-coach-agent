@@ -1,0 +1,289 @@
+[
+  {
+    "item_code": "w_022078",
+    "type": "WORD",
+    "content": "Don't pick flowers.",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_022079",
+    "type": "WORD",
+    "content": "Don't throw stones.",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "Don't throw stones into the river.",
+        "zh": "不要扔石頭到河裡。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_022085",
+    "type": "WORD",
+    "content": "donate donor",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_022087",
+    "type": "WORD",
+    "content": "donate stubborn",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_022110",
+    "type": "WORD",
+    "content": "door to",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "He lives next door to us.",
+        "zh": "他住在我們隔壁。"
+      },
+      {
+        "en": "She lives next door to him.",
+        "zh": "她住在他的隔壁。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_022113",
+    "type": "WORD",
+    "content": "door-to-door household survey",
+    "theme": "TEM4",
+    "tags": [
+      "CET4",
+      "CET6",
+      "TEM4",
+      "advanced",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_022114",
+    "type": "WORD",
+    "content": "door-to-door interviews",
+    "theme": "CET6",
+    "tags": [
+      "CET4",
+      "CET6",
+      "advanced",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_022117",
+    "type": "WORD",
+    "content": "doorbell unlock",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_022139",
+    "type": "WORD",
+    "content": "dormant mercenary trenchant scrutinize",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_022148",
+    "type": "WORD",
+    "content": "dormitory officer",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_022159",
+    "type": "WORD",
+    "content": "dosage dose",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_022161",
+    "type": "WORD",
+    "content": "doses of",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_022164",
+    "type": "WORD",
+    "content": "dot notation",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_022173",
+    "type": "WORD",
+    "content": "dottle",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_022176",
+    "type": "WORD",
+    "content": "Double 11",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "He paid double fare.",
+        "zh": "他付了两倍的费用。"
+      },
+      {
+        "en": "I paid double the sum.",
+        "zh": "我付了两倍的钱。"
+      },
+      {
+        "en": "Single or double room?",
+        "zh": "单间还是双人间？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_022177",
+    "type": "WORD",
+    "content": "Double 11 Day",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_022182",
+    "type": "WORD",
+    "content": "double brick",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_022183",
+    "type": "WORD",
+    "content": "double contract",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_022191",
+    "type": "WORD",
+    "content": "Double Income No Kids",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_022193",
+    "type": "WORD",
+    "content": "Double Ninth Day",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  }
+]

@@ -1,0 +1,268 @@
+[
+  {
+    "item_code": "w_014459",
+    "type": "WORD",
+    "content": "climactoric pomeostasis",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_014461",
+    "type": "WORD",
+    "content": "climate agreement",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_014463",
+    "type": "WORD",
+    "content": "climate warning",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_014473",
+    "type": "WORD",
+    "content": "climb a hill",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_014476",
+    "type": "WORD",
+    "content": "climb pull drag",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_014477",
+    "type": "WORD",
+    "content": "climb the career ladder",
+    "theme": "TEM8",
+    "tags": [
+      "TEM8",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_014478",
+    "type": "WORD",
+    "content": "climb the mountain",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "He must have been crazy to climb the mountain in winter.",
+        "zh": "他一定是瘋了才會在冬天爬山。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_014479",
+    "type": "WORD",
+    "content": "climb trees",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "Bears can climb trees.",
+        "zh": "熊会爬树。"
+      },
+      {
+        "en": "Cats can climb trees, but dogs can't.",
+        "zh": "猫会爬树，狗不会。"
+      },
+      {
+        "en": "It's easy for monkeys to climb trees.",
+        "zh": "猴子爬树容易。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_014481",
+    "type": "WORD",
+    "content": "climbed a hill",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_014489",
+    "type": "WORD",
+    "content": "clinet",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_014492",
+    "type": "WORD",
+    "content": "cling to something",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_014497",
+    "type": "WORD",
+    "content": "clinical consciousness constitution",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_014498",
+    "type": "WORD",
+    "content": "clinical reception",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_014505",
+    "type": "WORD",
+    "content": "clink crack creek",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_014508",
+    "type": "WORD",
+    "content": "clip epilog",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_014509",
+    "type": "WORD",
+    "content": "clip necropsy segregation",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_014522",
+    "type": "WORD",
+    "content": "cloak his exit",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_014535",
+    "type": "WORD",
+    "content": "clog procure",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_014536",
+    "type": "WORD",
+    "content": "cloisonné",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_014561",
+    "type": "WORD",
+    "content": "close shelves",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

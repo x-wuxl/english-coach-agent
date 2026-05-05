@@ -1,0 +1,289 @@
+[
+  {
+    "item_code": "w_010464",
+    "type": "WORD",
+    "content": "break taboos",
+    "theme": "TEM4",
+    "tags": [
+      "CET4",
+      "TEM4",
+      "advanced",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_010465",
+    "type": "WORD",
+    "content": "break the back of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_010467",
+    "type": "WORD",
+    "content": "break the habit of",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "I wish I could break the habit of smoking.",
+        "zh": "真希望自己能把烟瘾戒掉。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_010469",
+    "type": "WORD",
+    "content": "break the law",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "I didn't break the law.",
+        "zh": "我没有违法。"
+      },
+      {
+        "en": "You are not to break the law.",
+        "zh": "你不许犯法。"
+      },
+      {
+        "en": "People who break the law are punished.",
+        "zh": "觸犯法律的人受到懲罰。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_010473",
+    "type": "WORD",
+    "content": "break the stalemate",
+    "theme": "TEM8",
+    "tags": [
+      "TEM8",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_010476",
+    "type": "WORD",
+    "content": "break traffic regulations",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_010479",
+    "type": "WORD",
+    "content": "break with old customs",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_010491",
+    "type": "WORD",
+    "content": "breakfast blues",
+    "theme": "new_concept",
+    "tags": [
+      "NCE",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_010494",
+    "type": "WORD",
+    "content": "breakpoint",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_010509",
+    "type": "WORD",
+    "content": "breath mint",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_010513",
+    "type": "WORD",
+    "content": "breathe breath breathing",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_010514",
+    "type": "WORD",
+    "content": "breathe fresh air",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_010518",
+    "type": "WORD",
+    "content": "breathed",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "The old man breathed his last.",
+        "zh": "老人咽下了最后一口气。"
+      },
+      {
+        "en": "We all breathed a big sigh of relief.",
+        "zh": "我們都舒了一口長氣。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_010521",
+    "type": "WORD",
+    "content": "breathing difficulties",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_010522",
+    "type": "WORD",
+    "content": "breathing difficulty",
+    "theme": "vocabulary",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_010523",
+    "type": "WORD",
+    "content": "breathing problem",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_010527",
+    "type": "WORD",
+    "content": "breathtaking assignment",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_010528",
+    "type": "WORD",
+    "content": "breathtaking diplomatic smallpox documentary",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_010544",
+    "type": "WORD",
+    "content": "Bretton Woods Institutions",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_010555",
+    "type": "WORD",
+    "content": "Brexit referendum",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

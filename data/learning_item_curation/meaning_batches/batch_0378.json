@@ -1,0 +1,277 @@
+[
+  {
+    "item_code": "w_035873",
+    "type": "WORD",
+    "content": "hover around",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_035882",
+    "type": "WORD",
+    "content": "How do you do!",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "How do you do?",
+        "zh": "初次見面。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_035887",
+    "type": "WORD",
+    "content": "How is ... going?",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_035888",
+    "type": "WORD",
+    "content": "How is it going?",
+    "theme": "textbook_primary",
+    "tags": [
+      "gaokao",
+      "momo",
+      "primary",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "How is it going?",
+        "zh": "你好吗？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_035897",
+    "type": "WORD",
+    "content": "How much for ...?",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_035905",
+    "type": "WORD",
+    "content": "How old is he?",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "How old is he?",
+        "zh": "他多大了？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_035906",
+    "type": "WORD",
+    "content": "How old is she?",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_035907",
+    "type": "WORD",
+    "content": "how pate tension",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_035909",
+    "type": "WORD",
+    "content": "How tall are you?",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "How tall are you?",
+        "zh": "你多高？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_035910",
+    "type": "WORD",
+    "content": "How tall is he?",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_035911",
+    "type": "WORD",
+    "content": "How tall is she?",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_035918",
+    "type": "WORD",
+    "content": "howl cord",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_035924",
+    "type": "WORD",
+    "content": "HR cost",
+    "theme": "TEM4",
+    "tags": [
+      "CET4",
+      "CET6",
+      "TEM4",
+      "advanced",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_035929",
+    "type": "WORD",
+    "content": "HTML",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_035930",
+    "type": "WORD",
+    "content": "HTTP",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_035932",
+    "type": "WORD",
+    "content": "Huangguoshu Waterfall",
+    "theme": "junior_high",
+    "tags": [
+      "beibei",
+      "junior",
+      "momo",
+      "primary",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_035936",
+    "type": "WORD",
+    "content": "Hubert Hudson",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_035938",
+    "type": "WORD",
+    "content": "hubris venom",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_035945",
+    "type": "WORD",
+    "content": "huddle up against",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_035946",
+    "type": "WORD",
+    "content": "huddle up to",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

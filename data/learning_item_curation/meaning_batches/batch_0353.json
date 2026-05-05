@@ -1,0 +1,270 @@
+[
+  {
+    "item_code": "w_033588",
+    "type": "WORD",
+    "content": "hartley",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033596",
+    "type": "WORD",
+    "content": "Harvey",
+    "theme": "textbook_primary",
+    "tags": [
+      "junior",
+      "momo"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_033598",
+    "type": "WORD",
+    "content": "has become a buzzword",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033599",
+    "type": "WORD",
+    "content": "has contributed mightily to",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033602",
+    "type": "WORD",
+    "content": "has not got",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_033603",
+    "type": "WORD",
+    "content": "has sided with those",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033606",
+    "type": "WORD",
+    "content": "hash function",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_033608",
+    "type": "WORD",
+    "content": "hash table",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_033609",
+    "type": "WORD",
+    "content": "hashable",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_033611",
+    "type": "WORD",
+    "content": "hasn't got",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "He hasn't got a mobile.",
+        "zh": "他沒有手機。"
+      },
+      {
+        "en": "He hasn't got a mobile phone.",
+        "zh": "他沒有手機。"
+      },
+      {
+        "en": "My mobile hasn't got a signal.",
+        "zh": "我手機没信號。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_033612",
+    "type": "WORD",
+    "content": "hassel",
+    "theme": "TEM4",
+    "tags": [
+      "BEC",
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033614",
+    "type": "WORD",
+    "content": "hassport",
+    "theme": "college_english",
+    "tags": [
+      "CET4",
+      "CET6",
+      "advanced",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033616",
+    "type": "WORD",
+    "content": "haste where",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_033620",
+    "type": "WORD",
+    "content": "hasty pural",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_033625",
+    "type": "WORD",
+    "content": "hatch laboratory",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_033667",
+    "type": "WORD",
+    "content": "have ... started",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_033668",
+    "type": "WORD",
+    "content": "have ... under control",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_033671",
+    "type": "WORD",
+    "content": "have a bad effect",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_033675",
+    "type": "WORD",
+    "content": "have a better mood",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_033676",
+    "type": "WORD",
+    "content": "have a big appetite",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

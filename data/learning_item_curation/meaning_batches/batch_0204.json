@@ -1,0 +1,308 @@
+[
+  {
+    "item_code": "w_019038",
+    "type": "WORD",
+    "content": "Dayan Pagoda",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_019043",
+    "type": "WORD",
+    "content": "dayfi",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_019045",
+    "type": "WORD",
+    "content": "daylight hours",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_019047",
+    "type": "WORD",
+    "content": "days",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "Give me five days.",
+        "zh": "给我五天时间。"
+      },
+      {
+        "en": "See you in two days.",
+        "zh": "后天见。"
+      },
+      {
+        "en": "Only two days remain.",
+        "zh": "只剩下两天了。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_019050",
+    "type": "WORD",
+    "content": "daytime phone number",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_019051",
+    "type": "WORD",
+    "content": "dayton",
+    "theme": "postgraduate",
+    "tags": [
+      "beibei",
+      "expert",
+      "kaoyan"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_019060",
+    "type": "WORD",
+    "content": "de",
+    "theme": "TEM4",
+    "tags": [
+      "GMAT",
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": [
+      {
+        "en": "Tom won the Tour de France.",
+        "zh": "汤姆赢得了环法自行车赛。"
+      },
+      {
+        "en": "My grandparents are from Lisbon, but my parents are from Rio de Janeiro.",
+        "zh": "我的祖父母来自里斯本，但是我的父母来自里约热内卢。"
+      },
+      {
+        "en": "Rio de Janeiro is perfectly safe as long as you stay out of the dangerous areas.",
+        "zh": "只要你遠離危險區域，里約熱內盧就是完全安全的。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_019071",
+    "type": "WORD",
+    "content": "dead code",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_019083",
+    "type": "WORD",
+    "content": "deadhead cab",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_019087",
+    "type": "WORD",
+    "content": "deadly dull",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_019100",
+    "type": "WORD",
+    "content": "deal with a challenge",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_019101",
+    "type": "WORD",
+    "content": "deal with adults",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_019109",
+    "type": "WORD",
+    "content": "dealt",
+    "theme": "textbook_primary",
+    "tags": [
+      "junior",
+      "momo",
+      "primary",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": [
+      {
+        "en": "Tom dealt the cards.",
+        "zh": "Tom处理了卡片。"
+      },
+      {
+        "en": "I've dealt with this store for years.",
+        "zh": "我数年来都和这家商店做生意。"
+      },
+      {
+        "en": "These problems must be dealt with carefully.",
+        "zh": "这些问题必须谨慎处理。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_019119",
+    "type": "WORD",
+    "content": "dearth of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_019138",
+    "type": "WORD",
+    "content": "debate on ... with",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_019139",
+    "type": "WORD",
+    "content": "debate over",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_019147",
+    "type": "WORD",
+    "content": "debilitate terminus",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_019166",
+    "type": "WORD",
+    "content": "debt mountain",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_019168",
+    "type": "WORD",
+    "content": "debt of thanks",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "beibei",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_019177",
+    "type": "WORD",
+    "content": "debugging",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "Most developers hate debugging; it's more fun to create bugs than to correct them.",
+        "zh": "大部分程序员讨厌调试，设置故障比纠正它们有意思多了。"
+      }
+    ]
+  }
+]

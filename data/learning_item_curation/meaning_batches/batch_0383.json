@@ -1,0 +1,273 @@
+[
+  {
+    "item_code": "w_036479",
+    "type": "WORD",
+    "content": "I will take it.",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_036483",
+    "type": "WORD",
+    "content": "I would love ...",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_036486",
+    "type": "WORD",
+    "content": "I'd like to ...",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_036487",
+    "type": "WORD",
+    "content": "I'd love to",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "I'd love to come with you.",
+        "zh": "我想和你一起去。"
+      },
+      {
+        "en": "I'd love to find out why she said so.",
+        "zh": "我很想找出她为什么这么说的原因。"
+      },
+      {
+        "en": "You're welcome, I'd love to help you.",
+        "zh": "别客气，我很愿意帮助你。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_036492",
+    "type": "WORD",
+    "content": "I'm ... metres tall.",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_036493",
+    "type": "WORD",
+    "content": "I'm ... years old.",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_036494",
+    "type": "WORD",
+    "content": "I'm doing well.",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "Hi, Roger. I'm doing well.",
+        "zh": "你好，Roger。我很好！"
+      }
+    ]
+  },
+  {
+    "item_code": "w_036495",
+    "type": "WORD",
+    "content": "I'm fine, thank you.",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "How are you? \"I'm fine, thank you.\"",
+        "zh": "“你怎么样？”“我很好，谢谢。”"
+      }
+    ]
+  },
+  {
+    "item_code": "w_036496",
+    "type": "WORD",
+    "content": "I'm fine. And you?",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "I'm fine, and you?",
+        "zh": "我很好，你呢？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_036497",
+    "type": "WORD",
+    "content": "I'm finished.",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_036499",
+    "type": "WORD",
+    "content": "I'm using cheerful optimistic",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_036514",
+    "type": "WORD",
+    "content": "Ice and Snow Festival",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_036519",
+    "type": "WORD",
+    "content": "ice cream shop",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_036523",
+    "type": "WORD",
+    "content": "ice fishing",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_036526",
+    "type": "WORD",
+    "content": "ice lantern",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_036532",
+    "type": "WORD",
+    "content": "ice shell",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_036542",
+    "type": "WORD",
+    "content": "ice-encased",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_036543",
+    "type": "WORD",
+    "content": "ice-forming",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_036545",
+    "type": "WORD",
+    "content": "ice-free corridor",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_036547",
+    "type": "WORD",
+    "content": "ice-polished",
+    "theme": "study_abroad",
+    "tags": [
+      "GMAT",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  }
+]

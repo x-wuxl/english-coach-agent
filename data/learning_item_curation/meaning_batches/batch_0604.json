@@ -1,0 +1,273 @@
+[
+  {
+    "item_code": "w_059308",
+    "type": "WORD",
+    "content": "put someone to trouble",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_059310",
+    "type": "WORD",
+    "content": "put something at stake",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_059312",
+    "type": "WORD",
+    "content": "put something to rest",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_059320",
+    "type": "WORD",
+    "content": "put sth. in perspective",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_059330",
+    "type": "WORD",
+    "content": "put sth. plainly",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_059366",
+    "type": "WORD",
+    "content": "Putonghua",
+    "theme": "textbook_primary",
+    "tags": [
+      "junior",
+      "momo"
+    ],
+    "difficulty": 2,
+    "examples": [
+      {
+        "en": "Putonghua and \"Beijinghua\" are not the same.",
+        "zh": "普通話和北京話是不同的。"
+      },
+      {
+        "en": "I can speak Standard Chinese (Putonghua), Southwestern Mandarin, Wu Chinese, and Spanish.",
+        "zh": "我會普通話、西南官話、吳語和西班牙語。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_059372",
+    "type": "WORD",
+    "content": "puts",
+    "theme": "postgraduate",
+    "tags": [
+      "beibei",
+      "expert",
+      "kaoyan"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "She puts a lot of milk in her coffee.",
+        "zh": "她喝咖啡時會加很多牛奶。"
+      },
+      {
+        "en": "Tom puts gas in his car twice a week.",
+        "zh": "湯姆每週幫車子加兩次油。"
+      },
+      {
+        "en": "He puts a lot of thought into how he thinks.",
+        "zh": "他对自己的思维方式进行着很多思考。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_059380",
+    "type": "WORD",
+    "content": "puzzle quiz",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_059404",
+    "type": "WORD",
+    "content": "PyPI",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_059405",
+    "type": "WORD",
+    "content": "PyPy",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_059409",
+    "type": "WORD",
+    "content": "pyramid-shaped dumpling",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_059436",
+    "type": "WORD",
+    "content": "pythonic",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_059439",
+    "type": "WORD",
+    "content": "q scatter",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_059446",
+    "type": "WORD",
+    "content": "QQ emoji",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_059447",
+    "type": "WORD",
+    "content": "qradon",
+    "theme": "study_abroad",
+    "tags": [
+      "GMAT",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_059449",
+    "type": "WORD",
+    "content": "qua",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_059451",
+    "type": "WORD",
+    "content": "quack rustic court",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_059457",
+    "type": "WORD",
+    "content": "quadrangle dwellings",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_059460",
+    "type": "WORD",
+    "content": "quadrant bacon solution",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_059467",
+    "type": "WORD",
+    "content": "quadrihedron",
+    "theme": "study_abroad",
+    "tags": [
+      "GMAT",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  }
+]

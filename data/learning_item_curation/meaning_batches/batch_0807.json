@@ -1,0 +1,267 @@
+[
+  {
+    "item_code": "w_079698",
+    "type": "WORD",
+    "content": "voting rate",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_079701",
+    "type": "WORD",
+    "content": "vouch dynamic military abash",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_079703",
+    "type": "WORD",
+    "content": "vouchsaf",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_079705",
+    "type": "WORD",
+    "content": "vouchsafe preservative murmur",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_079710",
+    "type": "WORD",
+    "content": "voyage laptop billiards database",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_079717",
+    "type": "WORD",
+    "content": "vsitius tumult",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_079721",
+    "type": "WORD",
+    "content": "vulgar bullet-screen comments",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_079723",
+    "type": "WORD",
+    "content": "vulgar productions",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_079732",
+    "type": "WORD",
+    "content": "vulnerable ventricle",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_079742",
+    "type": "WORD",
+    "content": "vérité",
+    "theme": "english_major",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_079744",
+    "type": "WORD",
+    "content": "wack",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_079756",
+    "type": "WORD",
+    "content": "waffle insomnia",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_079758",
+    "type": "WORD",
+    "content": "waft adversity simile",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_079761",
+    "type": "WORD",
+    "content": "wage ... against",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_079775",
+    "type": "WORD",
+    "content": "wagon compartment",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_079780",
+    "type": "WORD",
+    "content": "waist drum dance",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_079784",
+    "type": "WORD",
+    "content": "waistral",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_079794",
+    "type": "WORD",
+    "content": "wait gain",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_079795",
+    "type": "WORD",
+    "content": "wait in a queue",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_079798",
+    "type": "WORD",
+    "content": "wait to",
+    "theme": "junior_high",
+    "tags": [
+      "beibei",
+      "junior",
+      "momo"
+    ],
+    "difficulty": 2,
+    "examples": [
+      {
+        "en": "I can't wait to see you again.",
+        "zh": "我很期待能再見到您。"
+      },
+      {
+        "en": "I can't wait to go on a vacation.",
+        "zh": "我等不及要去度假。"
+      },
+      {
+        "en": "I can't wait to see you all in Boston.",
+        "zh": "我期待在波士顿见你们。"
+      }
+    ]
+  }
+]

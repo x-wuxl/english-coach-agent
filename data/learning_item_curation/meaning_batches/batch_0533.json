@@ -1,0 +1,290 @@
+[
+  {
+    "item_code": "w_051785",
+    "type": "WORD",
+    "content": "on the weaker side",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051788",
+    "type": "WORD",
+    "content": "on the winning side",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051789",
+    "type": "WORD",
+    "content": "on the wrong planet",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051799",
+    "type": "WORD",
+    "content": "on two occasions",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_051801",
+    "type": "WORD",
+    "content": "on vocation",
+    "theme": "zhongkao",
+    "tags": [
+      "junior",
+      "momo",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_051808",
+    "type": "WORD",
+    "content": "on your part",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051809",
+    "type": "WORD",
+    "content": "on your right",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "Lie on your right side.",
+        "zh": "躺在你右邊。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_051812",
+    "type": "WORD",
+    "content": "on-campus job fair",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_051814",
+    "type": "WORD",
+    "content": "on-job training course",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051819",
+    "type": "WORD",
+    "content": "on-site recruiting",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051824",
+    "type": "WORD",
+    "content": "on-the-spot broadcasting",
+    "theme": "TEM4",
+    "tags": [
+      "CET4",
+      "TEM4",
+      "TEM8",
+      "advanced",
+      "expert",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051826",
+    "type": "WORD",
+    "content": "on-trend items",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051828",
+    "type": "WORD",
+    "content": "once a day",
+    "theme": "zhongkao",
+    "tags": [
+      "junior",
+      "momo",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": [
+      {
+        "en": "I bathe once a day.",
+        "zh": "我每天洗一次澡。"
+      },
+      {
+        "en": "I feed my dog once a day.",
+        "zh": "我每天喂一次狗。"
+      },
+      {
+        "en": "I use a frying pan at least once a day.",
+        "zh": "我每天至少用一次煎鍋。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_051834",
+    "type": "WORD",
+    "content": "once every four years",
+    "theme": "zhongkao",
+    "tags": [
+      "junior",
+      "momo",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_051835",
+    "type": "WORD",
+    "content": "once every year",
+    "theme": "zhongkao",
+    "tags": [
+      "junior",
+      "momo",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_051840",
+    "type": "WORD",
+    "content": "once upon",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "Once upon a time, there was a beautiful princess.",
+        "zh": "从前有个美丽的公主。"
+      },
+      {
+        "en": "Once upon a time there was a dwarf that lived in the forest.",
+        "zh": "從前有個侏儒住在森林裡。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_051848",
+    "type": "WORD",
+    "content": "oncology corporation",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_051856",
+    "type": "WORD",
+    "content": "one behind the other",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_051857",
+    "type": "WORD",
+    "content": "one bowl of ...",
+    "theme": "junior_high",
+    "tags": [
+      "beibei",
+      "junior",
+      "momo",
+      "primary"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_051862",
+    "type": "WORD",
+    "content": "one hundred and first",
+    "theme": "vocabulary",
+    "tags": [
+      "CET4",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  }
+]

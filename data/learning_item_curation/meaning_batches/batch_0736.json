@@ -1,0 +1,267 @@
+[
+  {
+    "item_code": "w_072477",
+    "type": "WORD",
+    "content": "take the train",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "Let's take the 4:10 train.",
+        "zh": "我们去坐四点十分的火车吧。"
+      },
+      {
+        "en": "We will take the train at eight.",
+        "zh": "我们八点钟时坐火车走。"
+      },
+      {
+        "en": "I'm going to take the 10:30 train.",
+        "zh": "我要搭10:30的火車。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_072485",
+    "type": "WORD",
+    "content": "take to doing sth.",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_072486",
+    "type": "WORD",
+    "content": "take to heart",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_072492",
+    "type": "WORD",
+    "content": "take two more pills",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_072493",
+    "type": "WORD",
+    "content": "take unpaid leave",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_072497",
+    "type": "WORD",
+    "content": "take up one's abode",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_072498",
+    "type": "WORD",
+    "content": "take up one's time",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_072499",
+    "type": "WORD",
+    "content": "take up room",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_072500",
+    "type": "WORD",
+    "content": "take up space",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_072508",
+    "type": "WORD",
+    "content": "take vengeance upon",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_072509",
+    "type": "WORD",
+    "content": "take vitamins",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_072513",
+    "type": "WORD",
+    "content": "Take your time eating.",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_072515",
+    "type": "WORD",
+    "content": "take-home exam",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_072521",
+    "type": "WORD",
+    "content": "take...for granted",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_072527",
+    "type": "WORD",
+    "content": "takeoff runway",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_072531",
+    "type": "WORD",
+    "content": "takeover recommendation",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_072539",
+    "type": "WORD",
+    "content": "Tale of the Marshes",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_072542",
+    "type": "WORD",
+    "content": "talent competition program",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_072543",
+    "type": "WORD",
+    "content": "talent development scheme",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_072545",
+    "type": "WORD",
+    "content": "talent market",
+    "theme": "postgraduate",
+    "tags": [
+      "IELTS",
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

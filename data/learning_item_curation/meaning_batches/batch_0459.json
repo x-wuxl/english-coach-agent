@@ -1,0 +1,268 @@
+[
+  {
+    "item_code": "w_044098",
+    "type": "WORD",
+    "content": "look to do sth.",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_044101",
+    "type": "WORD",
+    "content": "look up from sth.",
+    "theme": "new_concept",
+    "tags": [
+      "NCE",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_044114",
+    "type": "WORD",
+    "content": "lookout points",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_044115",
+    "type": "WORD",
+    "content": "lookout post",
+    "theme": "study_abroad",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_044117",
+    "type": "WORD",
+    "content": "lookup",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_044127",
+    "type": "WORD",
+    "content": "loose chin",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_044128",
+    "type": "WORD",
+    "content": "loose conduct",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_044132",
+    "type": "WORD",
+    "content": "loose meditate",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_044137",
+    "type": "WORD",
+    "content": "loosen contend",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_044146",
+    "type": "WORD",
+    "content": "Lopez",
+    "theme": "textbook_primary",
+    "tags": [
+      "junior",
+      "momo"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_044148",
+    "type": "WORD",
+    "content": "lopsided indispensable",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_044157",
+    "type": "WORD",
+    "content": "Lord forbid that ...",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_044159",
+    "type": "WORD",
+    "content": "lord prejudice boom",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_044167",
+    "type": "WORD",
+    "content": "lorry crane",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_044168",
+    "type": "WORD",
+    "content": "lory",
+    "theme": "gaokao",
+    "tags": [
+      "beibei",
+      "gaokao",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_044171",
+    "type": "WORD",
+    "content": "lose a job",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_044182",
+    "type": "WORD",
+    "content": "lose freedom",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_044201",
+    "type": "WORD",
+    "content": "lose privacy",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_044207",
+    "type": "WORD",
+    "content": "lose some weight",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "I want to lose some weight.",
+        "zh": "我想減肥。"
+      },
+      {
+        "en": "I don't eat supper because I want to lose some weight.",
+        "zh": "我不吃晚饭因为我想减肥。"
+      },
+      {
+        "en": "If you went jogging two or three times a week, you could probably lose some weight.",
+        "zh": "如果每周你跑步两三次，你应该可以减肥。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_044225",
+    "type": "WORD",
+    "content": "Lost & Found",
+    "theme": "gaokao",
+    "tags": [
+      "IELTS",
+      "expert",
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

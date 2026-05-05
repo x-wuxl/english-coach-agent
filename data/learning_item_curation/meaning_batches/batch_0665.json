@@ -1,0 +1,274 @@
+[
+  {
+    "item_code": "w_065640",
+    "type": "WORD",
+    "content": "set a threshold for",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065649",
+    "type": "WORD",
+    "content": "set an interim goal",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065652",
+    "type": "WORD",
+    "content": "set aside for",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065653",
+    "type": "WORD",
+    "content": "set aside some money",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065655",
+    "type": "WORD",
+    "content": "set barriers",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065662",
+    "type": "WORD",
+    "content": "set foot in ...",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_065664",
+    "type": "WORD",
+    "content": "set foot on ...",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_065671",
+    "type": "WORD",
+    "content": "set limits on",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065673",
+    "type": "WORD",
+    "content": "set lunch",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065675",
+    "type": "WORD",
+    "content": "set money aside",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065676",
+    "type": "WORD",
+    "content": "set novel in",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_065679",
+    "type": "WORD",
+    "content": "set off the row",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065685",
+    "type": "WORD",
+    "content": "set one's sights towards",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_065692",
+    "type": "WORD",
+    "content": "set sail for",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "The ship set sail for Bombay.",
+        "zh": "这艘船的目的地是孟买"
+      }
+    ]
+  },
+  {
+    "item_code": "w_065695",
+    "type": "WORD",
+    "content": "set sb. doing sth.",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065699",
+    "type": "WORD",
+    "content": "set some policies",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065705",
+    "type": "WORD",
+    "content": "set the alarm clock",
+    "theme": "zhongkao",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "gaokao",
+      "junior",
+      "momo",
+      "senior",
+      "zhongkao"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "You've got to set the alarm clock before you go to bed.",
+        "zh": "在你上床睡覺之前，你必須把鬧鐘設定好。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_065707",
+    "type": "WORD",
+    "content": "set the beat",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065709",
+    "type": "WORD",
+    "content": "set the pace in",
+    "theme": "study_abroad",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065714",
+    "type": "WORD",
+    "content": "set up a record",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  }
+]

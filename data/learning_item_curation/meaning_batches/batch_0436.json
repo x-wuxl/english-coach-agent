@@ -1,0 +1,284 @@
+[
+  {
+    "item_code": "w_041710",
+    "type": "WORD",
+    "content": "knock on the window",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_041711",
+    "type": "WORD",
+    "content": "knock oneself against",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_041744",
+    "type": "WORD",
+    "content": "know better than that",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_041768",
+    "type": "WORD",
+    "content": "Kobe",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "I went to Kobe by train.",
+        "zh": "我乘火車去了神戶。"
+      },
+      {
+        "en": "Have you ever been to Kobe?",
+        "zh": "你去过神户吗？"
+      },
+      {
+        "en": "Kobe is famous for its port.",
+        "zh": "神戶是著名的港口。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_041777",
+    "type": "WORD",
+    "content": "Korean soaps",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_041786",
+    "type": "WORD",
+    "content": "Krishna",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_041791",
+    "type": "WORD",
+    "content": "ku",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_041793",
+    "type": "WORD",
+    "content": "kudos de la tante",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_041795",
+    "type": "WORD",
+    "content": "kuku",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_041796",
+    "type": "WORD",
+    "content": "Kun Opera",
+    "theme": "new_concept",
+    "tags": [
+      "NCE",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_041797",
+    "type": "WORD",
+    "content": "kung",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_041799",
+    "type": "WORD",
+    "content": "Kung Fu Panda",
+    "theme": "junior_high",
+    "tags": [
+      "beibei",
+      "junior",
+      "momo",
+      "primary"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_041803",
+    "type": "WORD",
+    "content": "kurt",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "Kurt didn't wake up yesterday because the alarm didn't ring.",
+        "zh": "昨天闹钟没响，Kurt也就没醒过来。"
+      },
+      {
+        "en": "Yesterday the alarm clock didn't go off and Kurt didn't wake up.",
+        "zh": "昨天闹钟没响，Kurt也就没醒过来。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_041804",
+    "type": "WORD",
+    "content": "kurt domineer",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_041806",
+    "type": "WORD",
+    "content": "kutari",
+    "theme": "study_abroad",
+    "tags": [
+      "GMAT",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_041809",
+    "type": "WORD",
+    "content": "kwam",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_041819",
+    "type": "WORD",
+    "content": "L-shaped trajectory",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_041820",
+    "type": "WORD",
+    "content": "L. A. Lakers",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_041824",
+    "type": "WORD",
+    "content": "La Tomatina",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_041826",
+    "type": "WORD",
+    "content": "lab report",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

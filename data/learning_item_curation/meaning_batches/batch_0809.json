@@ -1,0 +1,279 @@
+[
+  {
+    "item_code": "w_079945",
+    "type": "WORD",
+    "content": "wardrobe collapse",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_079951",
+    "type": "WORD",
+    "content": "warehousing and transportation department",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_079965",
+    "type": "WORD",
+    "content": "warm jacket",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_079970",
+    "type": "WORD",
+    "content": "warm-blooded creature",
+    "theme": "english_major",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_079976",
+    "type": "WORD",
+    "content": "warming-up practice",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_079978",
+    "type": "WORD",
+    "content": "warmly approving",
+    "theme": "study_abroad",
+    "tags": [
+      "GMAT",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_079985",
+    "type": "WORD",
+    "content": "warn against doing sth.",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_079995",
+    "type": "WORD",
+    "content": "warning against",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080011",
+    "type": "WORD",
+    "content": "warrior role",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080012",
+    "type": "WORD",
+    "content": "Warsaw",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "Is Warsaw cheaper than London?",
+        "zh": "华沙比伦敦便宜吗？"
+      },
+      {
+        "en": "The capital of Poland is Warsaw.",
+        "zh": "波蘭的首都是華沙。"
+      },
+      {
+        "en": "The ambassador was recalled from Warsaw.",
+        "zh": "大使被从华沙召回。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_080017",
+    "type": "WORD",
+    "content": "wary concern",
+    "theme": "study_abroad",
+    "tags": [
+      "GMAT",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_080020",
+    "type": "WORD",
+    "content": "was knighted in 1967",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080024",
+    "type": "WORD",
+    "content": "wash ... face",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_080029",
+    "type": "WORD",
+    "content": "wash my face",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "He told me to wash my face.",
+        "zh": "他叫我洗脸。"
+      },
+      {
+        "en": "I wash my face every morning.",
+        "zh": "我每天早上洗脸。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_080033",
+    "type": "WORD",
+    "content": "wash only",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080035",
+    "type": "WORD",
+    "content": "wash the clothes",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "We have to wash the clothes.",
+        "zh": "我們得洗衣服。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_080038",
+    "type": "WORD",
+    "content": "washable shoes",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080043",
+    "type": "WORD",
+    "content": "washed clothes",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_080049",
+    "type": "WORD",
+    "content": "washing my car",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080050",
+    "type": "WORD",
+    "content": "washing my clothes",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

@@ -1,0 +1,283 @@
+[
+  {
+    "item_code": "w_080632",
+    "type": "WORD",
+    "content": "western paintings",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080633",
+    "type": "WORD",
+    "content": "western printing press",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_080634",
+    "type": "WORD",
+    "content": "western specialties",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_080638",
+    "type": "WORD",
+    "content": "Western-style butler",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080647",
+    "type": "WORD",
+    "content": "Wet floor.",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "Caution: wet floor",
+        "zh": "小心地滑"
+      },
+      {
+        "en": "Caution! Wet floor.",
+        "zh": "小心地滑！"
+      }
+    ]
+  },
+  {
+    "item_code": "w_080649",
+    "type": "WORD",
+    "content": "wet obeisance",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_080663",
+    "type": "WORD",
+    "content": "What a nice cake!",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_080673",
+    "type": "WORD",
+    "content": "What colour ...?",
+    "theme": "textbook_primary",
+    "tags": [
+      "NCE",
+      "momo",
+      "primary",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_080674",
+    "type": "WORD",
+    "content": "What counts as ...?",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080678",
+    "type": "WORD",
+    "content": "What does it mean?",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "What does it mean?",
+        "zh": "这是什么意思？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_080686",
+    "type": "WORD",
+    "content": "What is it for?",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_080688",
+    "type": "WORD",
+    "content": "what makes sb. tick",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_080695",
+    "type": "WORD",
+    "content": "What's for breakfast?",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "What's for breakfast?",
+        "zh": "早饭吃什么？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_080699",
+    "type": "WORD",
+    "content": "What's on?",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_080701",
+    "type": "WORD",
+    "content": "What's the date?",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "What's the date today?",
+        "zh": "今天是几号？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_080705",
+    "type": "WORD",
+    "content": "What's the problem?",
+    "theme": "textbook_primary",
+    "tags": [
+      "junior",
+      "momo"
+    ],
+    "difficulty": 2,
+    "examples": [
+      {
+        "en": "What's the problem with your computer?",
+        "zh": "你的电脑有什么问题？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_080723",
+    "type": "WORD",
+    "content": "wheat yogurt yolk",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_080727",
+    "type": "WORD",
+    "content": "wheedle restive",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_080729",
+    "type": "WORD",
+    "content": "wheel gear break",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_080740",
+    "type": "WORD",
+    "content": "when data went astray",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

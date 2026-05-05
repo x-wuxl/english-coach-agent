@@ -1,0 +1,288 @@
+[
+  {
+    "item_code": "w_074223",
+    "type": "WORD",
+    "content": "therapy torment",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_074234",
+    "type": "WORD",
+    "content": "there's no denying that",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_074246",
+    "type": "WORD",
+    "content": "therma",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074247",
+    "type": "WORD",
+    "content": "therma taxes baffle",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_074252",
+    "type": "WORD",
+    "content": "thermal folk",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_074273",
+    "type": "WORD",
+    "content": "thermometer transplant",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_074289",
+    "type": "WORD",
+    "content": "theropher",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074294",
+    "type": "WORD",
+    "content": "these lean times",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074297",
+    "type": "WORD",
+    "content": "thesidious",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074299",
+    "type": "WORD",
+    "content": "thesis defence",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_074300",
+    "type": "WORD",
+    "content": "thesis oral defense",
+    "theme": "TEM4",
+    "tags": [
+      "CET4",
+      "CET6",
+      "TEM4",
+      "advanced",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_074301",
+    "type": "WORD",
+    "content": "thesis seminar",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074303",
+    "type": "WORD",
+    "content": "theta",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_074305",
+    "type": "WORD",
+    "content": "they are",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "They are busy.",
+        "zh": "他們很忙。"
+      },
+      {
+        "en": "They are dead.",
+        "zh": "他们死了。"
+      },
+      {
+        "en": "They are here.",
+        "zh": "他们在这里。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_074306",
+    "type": "WORD",
+    "content": "they are inviting pressure",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074309",
+    "type": "WORD",
+    "content": "they're",
+    "theme": "textbook_primary",
+    "tags": [
+      "gaokao",
+      "momo",
+      "primary",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "They're busy.",
+        "zh": "他們很忙。"
+      },
+      {
+        "en": "They're dead.",
+        "zh": "他们死了。"
+      },
+      {
+        "en": "They're fake.",
+        "zh": "它们是假的。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_074311",
+    "type": "WORD",
+    "content": "the past few decades",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_074320",
+    "type": "WORD",
+    "content": "thick skinned scrutable",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_074322",
+    "type": "WORD",
+    "content": "thick-tongued",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074324",
+    "type": "WORD",
+    "content": "thickened",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  }
+]

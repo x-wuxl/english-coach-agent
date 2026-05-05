@@ -1,0 +1,273 @@
+[
+  {
+    "item_code": "w_041259",
+    "type": "WORD",
+    "content": "keep good shape",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_041261",
+    "type": "WORD",
+    "content": "keep growing",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_041262",
+    "type": "WORD",
+    "content": "keep happiest moment",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_041267",
+    "type": "WORD",
+    "content": "keep in harmony with",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_041269",
+    "type": "WORD",
+    "content": "keep in mind that",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": [
+      {
+        "en": "Keep in mind that you must die.",
+        "zh": "你要想到你必须死。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_041274",
+    "type": "WORD",
+    "content": "keep it secret",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "Please keep it secret.",
+        "zh": "請保守秘密。"
+      },
+      {
+        "en": "Keep it secret, please.",
+        "zh": "请保密。"
+      },
+      {
+        "en": "I didn't mean to keep it secret.",
+        "zh": "我不是有意要保密的。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_041281",
+    "type": "WORD",
+    "content": "keep on the file",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_041282",
+    "type": "WORD",
+    "content": "keep on track",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_041285",
+    "type": "WORD",
+    "content": "keep one's attention on",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_041293",
+    "type": "WORD",
+    "content": "keep one's eye out",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_041297",
+    "type": "WORD",
+    "content": "keep one's finger crossed",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_041302",
+    "type": "WORD",
+    "content": "keep one's nerves",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "expert",
+      "kaoyan",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_041308",
+    "type": "WORD",
+    "content": "keep optimistic",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_041313",
+    "type": "WORD",
+    "content": "keep pace with times",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_041315",
+    "type": "WORD",
+    "content": "keep records",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_041317",
+    "type": "WORD",
+    "content": "keep sb. at school",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_041319",
+    "type": "WORD",
+    "content": "keep sb. busy",
+    "theme": "zhongkao",
+    "tags": [
+      "junior",
+      "momo",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_041327",
+    "type": "WORD",
+    "content": "keep sb. in stitches",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_041329",
+    "type": "WORD",
+    "content": "keep sb. informed about",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_041331",
+    "type": "WORD",
+    "content": "keep sb. on tenterhooks",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  }
+]

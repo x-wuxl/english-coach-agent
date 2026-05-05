@@ -1,0 +1,271 @@
+[
+  {
+    "item_code": "w_029681",
+    "type": "WORD",
+    "content": "from sprig to sprig",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_029690",
+    "type": "WORD",
+    "content": "from the perspective of",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_029693",
+    "type": "WORD",
+    "content": "from today on",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "From today on this ordinance is history.",
+        "zh": "從今天開始，這項規定成為了歷史。"
+      },
+      {
+        "en": "From today on this regulation is history.",
+        "zh": "從今天開始，這項規定成為了歷史。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_029700",
+    "type": "WORD",
+    "content": "front desk agent",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_029702",
+    "type": "WORD",
+    "content": "front doorbell",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "I heard the front doorbell ring.",
+        "zh": "我聽到前門的門鈴響了。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_029708",
+    "type": "WORD",
+    "content": "front row ticket",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_029712",
+    "type": "WORD",
+    "content": "front-line sciences",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_029714",
+    "type": "WORD",
+    "content": "front-page story",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_029722",
+    "type": "WORD",
+    "content": "frontier glow",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_029727",
+    "type": "WORD",
+    "content": "frost grease icing",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_029734",
+    "type": "WORD",
+    "content": "frosty fleet cream",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_029736",
+    "type": "WORD",
+    "content": "froth gassy gin hooch",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_029741",
+    "type": "WORD",
+    "content": "frown pharingascope",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_029745",
+    "type": "WORD",
+    "content": "frowsy imperative",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_029751",
+    "type": "WORD",
+    "content": "frozen food stuffs",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_029752",
+    "type": "WORD",
+    "content": "frozen fresh",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_029754",
+    "type": "WORD",
+    "content": "frozen pork reserve",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_029762",
+    "type": "WORD",
+    "content": "frudge",
+    "theme": "TEM4",
+    "tags": [
+      "BEC",
+      "GRE",
+      "TEM4",
+      "TEM8",
+      "advanced",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_029764",
+    "type": "WORD",
+    "content": "frugal apold",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_029781",
+    "type": "WORD",
+    "content": "fruitful function",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  }
+]

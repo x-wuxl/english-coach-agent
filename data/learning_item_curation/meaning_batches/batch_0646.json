@@ -1,0 +1,272 @@
+[
+  {
+    "item_code": "w_063583",
+    "type": "WORD",
+    "content": "safari guide",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_063592",
+    "type": "WORD",
+    "content": "safeguard public morals",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_063595",
+    "type": "WORD",
+    "content": "safer",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "When you're here, I feel safer.",
+        "zh": "你在這裡的時候，我感到更安全。"
+      },
+      {
+        "en": "I suggest we move to a safer location.",
+        "zh": "我建議我們去個更安全的地方。"
+      },
+      {
+        "en": "As time went on, rules were added to the game to make it safer.",
+        "zh": "随着时间的推移，比赛增加了规则以使之更安全。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_063615",
+    "type": "WORD",
+    "content": "sage grizzly don",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_063620",
+    "type": "WORD",
+    "content": "sagnant",
+    "theme": "TEM4",
+    "tags": [
+      "BEC",
+      "TEM4",
+      "TEM8",
+      "advanced",
+      "beibei",
+      "expert",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_063621",
+    "type": "WORD",
+    "content": "sagnant patient",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_063629",
+    "type": "WORD",
+    "content": "sail off the coast",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_063630",
+    "type": "WORD",
+    "content": "sail sailing",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_063641",
+    "type": "WORD",
+    "content": "Saint Basil's Cathedral",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_063647",
+    "type": "WORD",
+    "content": "sakado",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_063649",
+    "type": "WORD",
+    "content": "sake minus converge",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_063664",
+    "type": "WORD",
+    "content": "salary employee announce debit",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_063667",
+    "type": "WORD",
+    "content": "salary reform",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_063674",
+    "type": "WORD",
+    "content": "sales and discounts",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_063678",
+    "type": "WORD",
+    "content": "sales coordinator",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_063705",
+    "type": "WORD",
+    "content": "salient blatant",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_063709",
+    "type": "WORD",
+    "content": "saline ardent pedestrian",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_063722",
+    "type": "WORD",
+    "content": "salmon habitat",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_063723",
+    "type": "WORD",
+    "content": "salmon population",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_063724",
+    "type": "WORD",
+    "content": "salmon protection and restoration",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

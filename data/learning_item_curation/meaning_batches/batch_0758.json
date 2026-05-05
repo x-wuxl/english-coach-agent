@@ -1,0 +1,282 @@
+[
+  {
+    "item_code": "w_074053",
+    "type": "WORD",
+    "content": "the steep increase",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074055",
+    "type": "WORD",
+    "content": "the Stone Forest",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_074056",
+    "type": "WORD",
+    "content": "the stow radical interplay",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_074057",
+    "type": "WORD",
+    "content": "the Strait Times",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_074058",
+    "type": "WORD",
+    "content": "the Straits of Malacca",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_074059",
+    "type": "WORD",
+    "content": "the stress on",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074060",
+    "type": "WORD",
+    "content": "the student action coalition",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074061",
+    "type": "WORD",
+    "content": "the Students Union",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074062",
+    "type": "WORD",
+    "content": "the students' union",
+    "theme": "gaokao",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074064",
+    "type": "WORD",
+    "content": "the summit",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "The air is thin at the summit.",
+        "zh": "山頂上空氣稀薄。"
+      },
+      {
+        "en": "The summit of Mt. Fuji was covered in snow.",
+        "zh": "富士山顶盖满了雪。"
+      },
+      {
+        "en": "Who first reached the summit of Mt. Everest?",
+        "zh": "最先登上珠穆朗瑪峰的人是誰？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_074067",
+    "type": "WORD",
+    "content": "the symbol of",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074070",
+    "type": "WORD",
+    "content": "the Terracotta Army",
+    "theme": "junior_high",
+    "tags": [
+      "beibei",
+      "junior",
+      "momo",
+      "primary",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_074072",
+    "type": "WORD",
+    "content": "the theme of sth.",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074074",
+    "type": "WORD",
+    "content": "the third largest",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": [
+      {
+        "en": "Peru is the third largest country in South America after Brazil and Argentina.",
+        "zh": "秘鲁是排在巴西和阿根廷之后的南美第三大国家。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_074075",
+    "type": "WORD",
+    "content": "the Thousand Talents Program",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_074077",
+    "type": "WORD",
+    "content": "The Three-Body Problem",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_074078",
+    "type": "WORD",
+    "content": "the three-step development strategy",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074081",
+    "type": "WORD",
+    "content": "the tort system",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074082",
+    "type": "WORD",
+    "content": "the traditional hospitality",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_074083",
+    "type": "WORD",
+    "content": "the Transportation Security Administration",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

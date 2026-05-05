@@ -1,0 +1,271 @@
+[
+  {
+    "item_code": "w_008826",
+    "type": "WORD",
+    "content": "best wishes to ...",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_008827",
+    "type": "WORD",
+    "content": "best witnesses",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_008841",
+    "type": "WORD",
+    "content": "bestseller bibliography",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_008844",
+    "type": "WORD",
+    "content": "bet gamble",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_008851",
+    "type": "WORD",
+    "content": "beth",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "My friends call me Beth.",
+        "zh": "我朋友都叫我Beth。"
+      },
+      {
+        "en": "Beth was asked by her lazy boyfriend to do his history homework.",
+        "zh": "Beth被她懒惰的男朋友要求帮他做历史作业。"
+      },
+      {
+        "en": "Beth has a strong habit of interrupting people while they are talking.",
+        "zh": "貝絲很喜歡在別人說話的時候插嘴。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_008864",
+    "type": "WORD",
+    "content": "Betsy Trotwood",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_008868",
+    "type": "WORD",
+    "content": "better choice",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_008869",
+    "type": "WORD",
+    "content": "better disciplined",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_008870",
+    "type": "WORD",
+    "content": "better ear",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_008875",
+    "type": "WORD",
+    "content": "better watch one's step",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_008881",
+    "type": "WORD",
+    "content": "between ... and",
+    "theme": "zhongkao",
+    "tags": [
+      "expert",
+      "junior",
+      "kaoyan",
+      "momo",
+      "zhongkao"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_008882",
+    "type": "WORD",
+    "content": "between ... and ...",
+    "theme": "junior_high",
+    "tags": [
+      "beibei",
+      "junior",
+      "momo",
+      "primary",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_008885",
+    "type": "WORD",
+    "content": "between the races",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_008886",
+    "type": "WORD",
+    "content": "between through aside around",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_008888",
+    "type": "WORD",
+    "content": "between-class exercise",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_008901",
+    "type": "WORD",
+    "content": "bewind",
+    "theme": "study_abroad",
+    "tags": [
+      "GMAT",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_008909",
+    "type": "WORD",
+    "content": "beyond anyone's wildest dreams",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_008922",
+    "type": "WORD",
+    "content": "beyond one's ability",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_008923",
+    "type": "WORD",
+    "content": "beyond one's budget",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_008925",
+    "type": "WORD",
+    "content": "beyond one's expectations",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  }
+]

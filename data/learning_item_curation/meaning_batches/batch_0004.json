@@ -1,0 +1,291 @@
+[
+  {
+    "item_code": "w_000139",
+    "type": "WORD",
+    "content": "a cast list",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000141",
+    "type": "WORD",
+    "content": "a causal relationship",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000142",
+    "type": "WORD",
+    "content": "a cello solo",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000143",
+    "type": "WORD",
+    "content": "a cellphone",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "Do you have a cellphone?",
+        "zh": "您有手机吗？"
+      },
+      {
+        "en": "I don't have a cellphone anymore.",
+        "zh": "我没有手机了。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000145",
+    "type": "WORD",
+    "content": "a certain level of",
+    "theme": "business_english",
+    "tags": [
+      "BEC",
+      "advanced",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_000146",
+    "type": "WORD",
+    "content": "a certain university",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000148",
+    "type": "WORD",
+    "content": "a chance of lifetime",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000149",
+    "type": "WORD",
+    "content": "a chess set",
+    "theme": "junior_high",
+    "tags": [
+      "beibei",
+      "junior",
+      "momo"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_000151",
+    "type": "WORD",
+    "content": "a chocolate",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "Is this a chocolate chip cookie?",
+        "zh": "這是巧克力曲奇嗎？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000152",
+    "type": "WORD",
+    "content": "a chorus of",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000153",
+    "type": "WORD",
+    "content": "a chorus of protest",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000155",
+    "type": "WORD",
+    "content": "a chronic state of",
+    "theme": "TEM8",
+    "tags": [
+      "TEM8",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000156",
+    "type": "WORD",
+    "content": "a chunk of",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "That boy threw a chunk of stone.",
+        "zh": "那个男孩抛了一块石头。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000157",
+    "type": "WORD",
+    "content": "a cinema",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_000158",
+    "type": "WORD",
+    "content": "a class project",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000159",
+    "type": "WORD",
+    "content": "a claw",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_000161",
+    "type": "WORD",
+    "content": "a cluster of flower",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000162",
+    "type": "WORD",
+    "content": "a coat",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "She needs a coat.",
+        "zh": "她需要一件外套。"
+      },
+      {
+        "en": "She's trying on a coat.",
+        "zh": "她在试一件外衣。"
+      },
+      {
+        "en": "You should wear a coat.",
+        "zh": "你應該穿一件大衣。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000163",
+    "type": "WORD",
+    "content": "a code of ethics",
+    "theme": "TEM8",
+    "tags": [
+      "TEM8",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000164",
+    "type": "WORD",
+    "content": "a coherent essay",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

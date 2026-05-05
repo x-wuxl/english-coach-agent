@@ -1,0 +1,271 @@
+[
+  {
+    "item_code": "w_005075",
+    "type": "WORD",
+    "content": "asthma rash",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_005111",
+    "type": "WORD",
+    "content": "astronomical object",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005118",
+    "type": "WORD",
+    "content": "astronomy class",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005119",
+    "type": "WORD",
+    "content": "astronomy community",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005120",
+    "type": "WORD",
+    "content": "astronomy society",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005125",
+    "type": "WORD",
+    "content": "asu",
+    "theme": "college_english",
+    "tags": [
+      "CET6",
+      "advanced",
+      "beibei"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_005135",
+    "type": "WORD",
+    "content": "asynchronous context manager",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_005136",
+    "type": "WORD",
+    "content": "asynchronous generator",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_005137",
+    "type": "WORD",
+    "content": "asynchronous generator iterator",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_005138",
+    "type": "WORD",
+    "content": "asynchronous iterable",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_005139",
+    "type": "WORD",
+    "content": "asynchronous iterator",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_005144",
+    "type": "WORD",
+    "content": "at a ... speed",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005151",
+    "type": "WORD",
+    "content": "at a great depth",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_005155",
+    "type": "WORD",
+    "content": "at a low level",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005157",
+    "type": "WORD",
+    "content": "at a low speed",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_005164",
+    "type": "WORD",
+    "content": "at a reasonable cost",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005165",
+    "type": "WORD",
+    "content": "at a safe speed",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "You should drive at a safe speed.",
+        "zh": "你應該以安全速度駕駛。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_005166",
+    "type": "WORD",
+    "content": "at a significant cost",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_005167",
+    "type": "WORD",
+    "content": "at a speed",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "The train is going at a speed of 50 miles per hour.",
+        "zh": "火车以每小时50英里的速度前行。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_005175",
+    "type": "WORD",
+    "content": "at an altitude of",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": [
+      {
+        "en": "The plane flew at an altitude of 3,000 meters.",
+        "zh": "飛機在三千米的高空飛行。"
+      }
+    ]
+  }
+]

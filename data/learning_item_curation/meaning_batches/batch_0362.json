@@ -1,0 +1,265 @@
+[
+  {
+    "item_code": "w_034038",
+    "type": "WORD",
+    "content": "have sth. for lunch",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_034039",
+    "type": "WORD",
+    "content": "have sth. for supper",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_034040",
+    "type": "WORD",
+    "content": "have sth. going",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_034044",
+    "type": "WORD",
+    "content": "have sth. in stock",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_034047",
+    "type": "WORD",
+    "content": "have sth. on file",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_034049",
+    "type": "WORD",
+    "content": "have sth. over with",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_034050",
+    "type": "WORD",
+    "content": "have sth. sewed up",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_034051",
+    "type": "WORD",
+    "content": "have sth. straight",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_034053",
+    "type": "WORD",
+    "content": "have sth. to oneself",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_034054",
+    "type": "WORD",
+    "content": "have sth. to spare",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_034056",
+    "type": "WORD",
+    "content": "have strong body",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_034057",
+    "type": "WORD",
+    "content": "have strong competition",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_034058",
+    "type": "WORD",
+    "content": "have strong drive",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_034060",
+    "type": "WORD",
+    "content": "have sympathy for",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_034061",
+    "type": "WORD",
+    "content": "have taste in",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_034062",
+    "type": "WORD",
+    "content": "have tea",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "We only have tea.",
+        "zh": "我们只有茶水。"
+      },
+      {
+        "en": "Come and have tea with me.",
+        "zh": "来跟我喝茶吧。"
+      },
+      {
+        "en": "Do you usually have tea for breakfast?",
+        "zh": "你經常早餐喝茶嗎？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_034064",
+    "type": "WORD",
+    "content": "have the ball rolling",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_034068",
+    "type": "WORD",
+    "content": "have the capacity for",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_034069",
+    "type": "WORD",
+    "content": "have the creeps",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_034071",
+    "type": "WORD",
+    "content": "have the feeling",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

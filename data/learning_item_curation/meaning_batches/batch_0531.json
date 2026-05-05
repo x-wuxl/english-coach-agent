@@ -1,0 +1,295 @@
+[
+  {
+    "item_code": "w_051603",
+    "type": "WORD",
+    "content": "on memory of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051604",
+    "type": "WORD",
+    "content": "on modern lines",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051605",
+    "type": "WORD",
+    "content": "on my way",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "I'm on my way.",
+        "zh": "我这就上路。"
+      },
+      {
+        "en": "I must be on my way.",
+        "zh": "我得走了。"
+      },
+      {
+        "en": "Tell her I'm on my way.",
+        "zh": "告诉她我在路上。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_051613",
+    "type": "WORD",
+    "content": "on one level...",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_051616",
+    "type": "WORD",
+    "content": "on one's arrival",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_051618",
+    "type": "WORD",
+    "content": "on one's break",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051623",
+    "type": "WORD",
+    "content": "on one's guard against",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051630",
+    "type": "WORD",
+    "content": "on one's own behalf",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "CET6",
+      "advanced",
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051633",
+    "type": "WORD",
+    "content": "on one's side",
+    "theme": "textbook_primary",
+    "tags": [
+      "gaokao",
+      "junior",
+      "momo",
+      "primary",
+      "senior",
+      "zhongkao"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_051646",
+    "type": "WORD",
+    "content": "on sb.'s behalf",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051647",
+    "type": "WORD",
+    "content": "on sb.'s own",
+    "theme": "new_concept",
+    "tags": [
+      "NCE",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_051648",
+    "type": "WORD",
+    "content": "on sb.'s part",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051660",
+    "type": "WORD",
+    "content": "on such a scale",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051661",
+    "type": "WORD",
+    "content": "on Sundays",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "I even work on Sundays.",
+        "zh": "我甚至在週日工作。"
+      },
+      {
+        "en": "I don't work on Sundays.",
+        "zh": "我星期天不工作。"
+      },
+      {
+        "en": "Do you deliver on Sundays?",
+        "zh": "你们周日送货吗？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_051665",
+    "type": "WORD",
+    "content": "on that count",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051669",
+    "type": "WORD",
+    "content": "on the alert for",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051674",
+    "type": "WORD",
+    "content": "on the basis",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_051683",
+    "type": "WORD",
+    "content": "on the cliff",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051684",
+    "type": "WORD",
+    "content": "on the condition of",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_051697",
+    "type": "WORD",
+    "content": "on the foundation of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

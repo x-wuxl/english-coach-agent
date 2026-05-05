@@ -1,0 +1,280 @@
+[
+  {
+    "item_code": "w_073680",
+    "type": "WORD",
+    "content": "the Department of Accounting",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073681",
+    "type": "WORD",
+    "content": "the Department of Health",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_073684",
+    "type": "WORD",
+    "content": "the dimmest executive",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073686",
+    "type": "WORD",
+    "content": "the dissemination of Buddhism",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_073687",
+    "type": "WORD",
+    "content": "the dissemination of knowledge",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_073688",
+    "type": "WORD",
+    "content": "the distribution of",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073690",
+    "type": "WORD",
+    "content": "the domestic bliss",
+    "theme": "TEM8",
+    "tags": [
+      "TEM8",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073691",
+    "type": "WORD",
+    "content": "the Double Ninth Festival",
+    "theme": "textbook_primary",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo",
+      "primary"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073693",
+    "type": "WORD",
+    "content": "the Drum Tower",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_073694",
+    "type": "WORD",
+    "content": "the dust settle",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_073697",
+    "type": "WORD",
+    "content": "the earth's magnetic pole",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_073698",
+    "type": "WORD",
+    "content": "the Earth's mantle",
+    "theme": "toefl",
+    "tags": [
+      "IELTS",
+      "TOEFL",
+      "beibei",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073704",
+    "type": "WORD",
+    "content": "the emergency rescue head-quarters",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_073705",
+    "type": "WORD",
+    "content": "the emergency rescue headquarters",
+    "theme": "TEM4",
+    "tags": [
+      "CET4",
+      "CET6",
+      "TEM4",
+      "advanced",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_073706",
+    "type": "WORD",
+    "content": "the Emergency Response Department",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_073707",
+    "type": "WORD",
+    "content": "the entrance to",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "Where's the entrance to the museum?",
+        "zh": "博物馆的入口在哪？"
+      },
+      {
+        "en": "Where is the entrance to the museum?",
+        "zh": "博物馆的入口在哪？"
+      },
+      {
+        "en": "A crowd of people were standing at the entrance to the theatre.",
+        "zh": "電影院門口站了一大群人。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_073710",
+    "type": "WORD",
+    "content": "the Eroica Symphony",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073711",
+    "type": "WORD",
+    "content": "the European Renaissance",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073713",
+    "type": "WORD",
+    "content": "the Everest",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_073714",
+    "type": "WORD",
+    "content": "the examination-oriented education",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

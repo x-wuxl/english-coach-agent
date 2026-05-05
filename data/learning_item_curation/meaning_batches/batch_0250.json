@@ -1,0 +1,274 @@
+[
+  {
+    "item_code": "w_023612",
+    "type": "WORD",
+    "content": "egalitarian practice",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023625",
+    "type": "WORD",
+    "content": "egnog",
+    "theme": "study_abroad",
+    "tags": [
+      "GMAT",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_023631",
+    "type": "WORD",
+    "content": "egoistic law",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_023643",
+    "type": "WORD",
+    "content": "Egypt monster impetus",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_023645",
+    "type": "WORD",
+    "content": "Egyptian depress",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_023646",
+    "type": "WORD",
+    "content": "Egyptian writing and numerals",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023648",
+    "type": "WORD",
+    "content": "EI Nino",
+    "theme": "TEM4",
+    "tags": [
+      "IELTS",
+      "TEM4",
+      "advanced",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023649",
+    "type": "WORD",
+    "content": "EI Nino phenomenon",
+    "theme": "TEM8",
+    "tags": [
+      "TEM8",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023652",
+    "type": "WORD",
+    "content": "Eiffel",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "The Eiffel Tower is in the same city as the Louvre Museum.",
+        "zh": "埃菲尔铁塔和卢浮宫在同一座城市。"
+      },
+      {
+        "en": "They wanted a wedding picture in front of the Eiffel Tower.",
+        "zh": "他們想在艾菲爾鐵塔前面拍張結婚照。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_023653",
+    "type": "WORD",
+    "content": "Eiffel Tower",
+    "theme": "textbook_primary",
+    "tags": [
+      "junior",
+      "momo"
+    ],
+    "difficulty": 2,
+    "examples": [
+      {
+        "en": "The Eiffel Tower is in the same city as the Louvre Museum.",
+        "zh": "埃菲尔铁塔和卢浮宫在同一座城市。"
+      },
+      {
+        "en": "They wanted a wedding picture in front of the Eiffel Tower.",
+        "zh": "他們想在艾菲爾鐵塔前面拍張結婚照。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_023655",
+    "type": "WORD",
+    "content": "eight-legged essay",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_023665",
+    "type": "WORD",
+    "content": "eights",
+    "theme": "upgrade_exam",
+    "tags": [
+      "advanced",
+      "beibei"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_023671",
+    "type": "WORD",
+    "content": "Eisenhower Executive Office Building",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023682",
+    "type": "WORD",
+    "content": "eject lesson depart",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023683",
+    "type": "WORD",
+    "content": "eject presumption",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_023692",
+    "type": "WORD",
+    "content": "El Niño",
+    "theme": "toefl",
+    "tags": [
+      "IELTS",
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023695",
+    "type": "WORD",
+    "content": "elaborate consequence",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_023697",
+    "type": "WORD",
+    "content": "elaborate pension",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023698",
+    "type": "WORD",
+    "content": "elaborate system of testing",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023700",
+    "type": "WORD",
+    "content": "elaborately designed",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  }
+]

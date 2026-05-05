@@ -1,0 +1,274 @@
+[
+  {
+    "item_code": "w_011866",
+    "type": "WORD",
+    "content": "campaign donation",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_011869",
+    "type": "WORD",
+    "content": "campaigned to",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_011877",
+    "type": "WORD",
+    "content": "campground tent camper",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_011879",
+    "type": "WORD",
+    "content": "camphor prosperous reluctance",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_011884",
+    "type": "WORD",
+    "content": "camping resort",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_011890",
+    "type": "WORD",
+    "content": "campus digitalization",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_011891",
+    "type": "WORD",
+    "content": "campus employment office",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_011892",
+    "type": "WORD",
+    "content": "campus job",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_011893",
+    "type": "WORD",
+    "content": "campus loan",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_011894",
+    "type": "WORD",
+    "content": "campus love",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_011895",
+    "type": "WORD",
+    "content": "campus newspaper",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_011897",
+    "type": "WORD",
+    "content": "campus recruitment quota",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_011898",
+    "type": "WORD",
+    "content": "campus violence",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_011902",
+    "type": "WORD",
+    "content": "can be counterintuitive",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_011912",
+    "type": "WORD",
+    "content": "can't be knocked off",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_011914",
+    "type": "WORD",
+    "content": "can't hate",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_011919",
+    "type": "WORD",
+    "content": "can't resist doing",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_011922",
+    "type": "WORD",
+    "content": "can't wait to",
+    "theme": "junior_high",
+    "tags": [
+      "beibei",
+      "gaokao",
+      "junior",
+      "momo",
+      "primary",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "I can't wait to see you again.",
+        "zh": "我很期待能再見到您。"
+      },
+      {
+        "en": "I can't wait to go on a vacation.",
+        "zh": "我等不及要去度假。"
+      },
+      {
+        "en": "I can't wait to see you all in Boston.",
+        "zh": "我期待在波士顿见你们。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_011923",
+    "type": "WORD",
+    "content": "can't wait to do",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_011930",
+    "type": "WORD",
+    "content": "canard demodic",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  }
+]

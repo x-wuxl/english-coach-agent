@@ -1,0 +1,277 @@
+[
+  {
+    "item_code": "w_031716",
+    "type": "WORD",
+    "content": "go around the bend",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_031720",
+    "type": "WORD",
+    "content": "go away empty-handed",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_031732",
+    "type": "WORD",
+    "content": "go bowling",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "At night, we usually go bowling.",
+        "zh": "我們經常在夜晚打保齡球。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_031734",
+    "type": "WORD",
+    "content": "go bungee jumping",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_031739",
+    "type": "WORD",
+    "content": "go canoeing",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_031747",
+    "type": "WORD",
+    "content": "go down fighting",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_031755",
+    "type": "WORD",
+    "content": "go Dutch with sb.",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "beibei",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_031759",
+    "type": "WORD",
+    "content": "go extinct",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "Gambling site lets users bet on which species will go extinct because of the oil spill in the Gulf of Mexico.",
+        "zh": "賭博網站讓用戶投注在將滅絕的物種上，因為墨西哥灣漏油。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_031761",
+    "type": "WORD",
+    "content": "go far beyond",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_031764",
+    "type": "WORD",
+    "content": "go for a dinner",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_031767",
+    "type": "WORD",
+    "content": "go for a swim",
+    "theme": "zhongkao",
+    "tags": [
+      "junior",
+      "momo",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": [
+      {
+        "en": "I want to go for a swim.",
+        "zh": "我想去游泳。"
+      },
+      {
+        "en": "He suggested that we go for a swim.",
+        "zh": "他提议大家一起去游泳。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_031770",
+    "type": "WORD",
+    "content": "go for an interview",
+    "theme": "postgraduate",
+    "tags": [
+      "IELTS",
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_031776",
+    "type": "WORD",
+    "content": "go for the interview",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_031779",
+    "type": "WORD",
+    "content": "go full steam ahead",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "expert",
+      "kaoyan",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_031790",
+    "type": "WORD",
+    "content": "go ice-skating",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_031791",
+    "type": "WORD",
+    "content": "go in a body",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_031793",
+    "type": "WORD",
+    "content": "go in debt",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_031804",
+    "type": "WORD",
+    "content": "go into government",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_031814",
+    "type": "WORD",
+    "content": "go mad about",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_031816",
+    "type": "WORD",
+    "content": "go mountain climbing",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  }
+]

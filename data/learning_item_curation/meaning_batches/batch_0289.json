@@ -1,0 +1,283 @@
+[
+  {
+    "item_code": "w_027310",
+    "type": "WORD",
+    "content": "feel no interest in",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_027313",
+    "type": "WORD",
+    "content": "feel privileged to do",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_027314",
+    "type": "WORD",
+    "content": "feel proud",
+    "theme": "textbook_primary",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo",
+      "primary"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_027315",
+    "type": "WORD",
+    "content": "feel relaxed",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "How can I feel relaxed, with you watching me like that?",
+        "zh": "你那么看着我，我哪里放松得下来啊？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_027316",
+    "type": "WORD",
+    "content": "feel relaxed and refreshed",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_027317",
+    "type": "WORD",
+    "content": "feel satisfied",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_027319",
+    "type": "WORD",
+    "content": "feel sorry about",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_027325",
+    "type": "WORD",
+    "content": "feel tired and reluctant",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_027326",
+    "type": "WORD",
+    "content": "feel uncomfortable",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "Where do you feel uncomfortable?",
+        "zh": "你哪儿不舒服？"
+      },
+      {
+        "en": "Stop it! You're making her feel uncomfortable!",
+        "zh": "得了！你弄得她不自在了！"
+      },
+      {
+        "en": "Sami's behavior makes Layla feel uncomfortable.",
+        "zh": "萨米的行为让莱拉觉得很不舒服。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_027328",
+    "type": "WORD",
+    "content": "feel unwell",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "I feel unwell.",
+        "zh": "我感觉不舒服。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_027334",
+    "type": "WORD",
+    "content": "feeling and concern",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_027335",
+    "type": "WORD",
+    "content": "feeling of isolation",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_027339",
+    "type": "WORD",
+    "content": "fees charged",
+    "theme": "business_english",
+    "tags": [
+      "BEC",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_027347",
+    "type": "WORD",
+    "content": "felicit",
+    "theme": "college_english",
+    "tags": [
+      "CET6",
+      "advanced",
+      "beibei"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_027364",
+    "type": "WORD",
+    "content": "felony oscillate",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_027366",
+    "type": "WORD",
+    "content": "felt happy",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_027367",
+    "type": "WORD",
+    "content": "felt obviate",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_027372",
+    "type": "WORD",
+    "content": "female guard of honor",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_027373",
+    "type": "WORD",
+    "content": "female job screeners",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_027374",
+    "type": "WORD",
+    "content": "female prime minister",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

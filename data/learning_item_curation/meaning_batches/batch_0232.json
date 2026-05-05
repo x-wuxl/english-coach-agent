@@ -1,0 +1,272 @@
+[
+  {
+    "item_code": "w_021898",
+    "type": "WORD",
+    "content": "doctor food label",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021903",
+    "type": "WORD",
+    "content": "doctor-patient disputes",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021907",
+    "type": "WORD",
+    "content": "doctorette",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_021909",
+    "type": "WORD",
+    "content": "doctorial tutor",
+    "theme": "TEM8",
+    "tags": [
+      "TEM8",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021920",
+    "type": "WORD",
+    "content": "documentary commercial",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_021942",
+    "type": "WORD",
+    "content": "dog sledding",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_021943",
+    "type": "WORD",
+    "content": "dog trainer",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021950",
+    "type": "WORD",
+    "content": "dogget impertinent",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_021951",
+    "type": "WORD",
+    "content": "doggiard draft",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_021956",
+    "type": "WORD",
+    "content": "dogma aver",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_021960",
+    "type": "WORD",
+    "content": "dogorol",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021966",
+    "type": "WORD",
+    "content": "doing exercise",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "She twisted her ankle while she was doing exercise.",
+        "zh": "她锻炼时扭伤了脚踝。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_021967",
+    "type": "WORD",
+    "content": "doing her exercises",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021968",
+    "type": "WORD",
+    "content": "doing her homework",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "She is doing her homework now.",
+        "zh": "她現在正在做她的功課。"
+      },
+      {
+        "en": "She was busy doing her homework.",
+        "zh": "她忙著做她的功課。"
+      },
+      {
+        "en": "She started doing her homework right after dinner.",
+        "zh": "晚饭后，她马上开始做作业。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_021969",
+    "type": "WORD",
+    "content": "doing jigsaw puzzles",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_021970",
+    "type": "WORD",
+    "content": "doing morning exercises",
+    "theme": "primary_school",
+    "tags": [
+      "beibei",
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_021985",
+    "type": "WORD",
+    "content": "dollar trap",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_021996",
+    "type": "WORD",
+    "content": "dolorous demagogue",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_021998",
+    "type": "WORD",
+    "content": "dolphin stroke",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_022008",
+    "type": "WORD",
+    "content": "domestic airport",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

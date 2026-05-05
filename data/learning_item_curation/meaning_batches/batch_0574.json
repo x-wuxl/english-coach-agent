@@ -1,0 +1,310 @@
+[
+  {
+    "item_code": "w_056097",
+    "type": "WORD",
+    "content": "play with doll's house",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_056099",
+    "type": "WORD",
+    "content": "play with friends",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "What's your favorite game to play with friends?",
+        "zh": "你最喜歡和朋友玩什麼遊戲？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_056100",
+    "type": "WORD",
+    "content": "play with magic cubes",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_056101",
+    "type": "WORD",
+    "content": "play with plasticene",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_056102",
+    "type": "WORD",
+    "content": "play with toys",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_056103",
+    "type": "WORD",
+    "content": "play your heart out",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_056104",
+    "type": "WORD",
+    "content": "play-face",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_056111",
+    "type": "WORD",
+    "content": "played chess",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "We often played chess after school.",
+        "zh": "我們常常在放學後下棋。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_056112",
+    "type": "WORD",
+    "content": "played computer games",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_056113",
+    "type": "WORD",
+    "content": "played the piano",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "He played the piano and she sang.",
+        "zh": "他彈鋼琴，她唱歌。"
+      },
+      {
+        "en": "Dick played the piano and Lucy sang.",
+        "zh": "迪克彈鋼琴露西唱歌。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_056116",
+    "type": "WORD",
+    "content": "playful catch",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_056122",
+    "type": "WORD",
+    "content": "playground swing",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_056125",
+    "type": "WORD",
+    "content": "playing baseball",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "I'm playing baseball.",
+        "zh": "我在打棒球。"
+      },
+      {
+        "en": "I am playing baseball.",
+        "zh": "我在打棒球。"
+      },
+      {
+        "en": "I like playing baseball.",
+        "zh": "我喜歡打棒球。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_056130",
+    "type": "WORD",
+    "content": "playing the guitar",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "Who's playing the guitar?",
+        "zh": "誰在彈吉他？"
+      },
+      {
+        "en": "Who is playing the guitar?",
+        "zh": "誰在彈吉他？"
+      },
+      {
+        "en": "My hobby is playing the guitar.",
+        "zh": "我的興趣是彈吉他。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_056131",
+    "type": "WORD",
+    "content": "playing the piano",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "He was playing the piano.",
+        "zh": "他那時正在彈鋼琴。"
+      },
+      {
+        "en": "I like playing the piano.",
+        "zh": "我喜欢弹钢琴。"
+      },
+      {
+        "en": "Who is playing the piano?",
+        "zh": "谁在弹钢琴？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_056140",
+    "type": "WORD",
+    "content": "playwright chore",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_056147",
+    "type": "WORD",
+    "content": "plead against",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_056153",
+    "type": "WORD",
+    "content": "pleasant living environment",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_056154",
+    "type": "WORD",
+    "content": "pleasant surprise",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_056170",
+    "type": "WORD",
+    "content": "plebeian scrawl",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  }
+]

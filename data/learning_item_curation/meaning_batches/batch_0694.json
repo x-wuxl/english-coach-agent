@@ -1,0 +1,277 @@
+[
+  {
+    "item_code": "w_068404",
+    "type": "WORD",
+    "content": "spartan maculate",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_068411",
+    "type": "WORD",
+    "content": "spat provoke revenge",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_068416",
+    "type": "WORD",
+    "content": "spatial sphere",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_068424",
+    "type": "WORD",
+    "content": "speak at natural speed",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_068425",
+    "type": "WORD",
+    "content": "speak confidently",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_068432",
+    "type": "WORD",
+    "content": "speak loud",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_068436",
+    "type": "WORD",
+    "content": "speak Spanish",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "I can speak Spanish.",
+        "zh": "我会说西班牙语。"
+      },
+      {
+        "en": "I don't speak Spanish.",
+        "zh": "我不懂西班牙语。"
+      },
+      {
+        "en": "She can speak Spanish.",
+        "zh": "她会说西班牙语 。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_068438",
+    "type": "WORD",
+    "content": "speak to the boss",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_068439",
+    "type": "WORD",
+    "content": "speak to the landlord",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_068442",
+    "type": "WORD",
+    "content": "speak with",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "Who did you speak with?",
+        "zh": "你和谁说话呢？"
+      },
+      {
+        "en": "You should speak with Tom.",
+        "zh": "你應該和Tom說。"
+      },
+      {
+        "en": "I speak with him every day.",
+        "zh": "我每天都跟他說。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_068448",
+    "type": "WORD",
+    "content": "speaksman",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_068451",
+    "type": "WORD",
+    "content": "spear loop numb nostril",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_068456",
+    "type": "WORD",
+    "content": "spec requite",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_068458",
+    "type": "WORD",
+    "content": "special audio equipment",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_068460",
+    "type": "WORD",
+    "content": "special buses",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_068461",
+    "type": "WORD",
+    "content": "special case",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_068462",
+    "type": "WORD",
+    "content": "special circumstance",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_068463",
+    "type": "WORD",
+    "content": "special clinic",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_068470",
+    "type": "WORD",
+    "content": "special expense deductions",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_068474",
+    "type": "WORD",
+    "content": "special method",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  }
+]

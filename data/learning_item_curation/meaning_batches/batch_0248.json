@@ -1,0 +1,268 @@
+[
+  {
+    "item_code": "w_023468",
+    "type": "WORD",
+    "content": "EDI",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_023471",
+    "type": "WORD",
+    "content": "edible blouse",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_023472",
+    "type": "WORD",
+    "content": "edible disaster collaborate",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023473",
+    "type": "WORD",
+    "content": "edible grain",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023475",
+    "type": "WORD",
+    "content": "edicut",
+    "theme": "TEM4",
+    "tags": [
+      "CET6",
+      "TEM4",
+      "TEM8",
+      "advanced",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023481",
+    "type": "WORD",
+    "content": "Edison",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "Edison was not a bright student.",
+        "zh": "爱迪生不是个优秀的学生。"
+      },
+      {
+        "en": "Edison invented the electric lamp.",
+        "zh": "愛迪生發明了電燈。"
+      },
+      {
+        "en": "Edison invented many useful things.",
+        "zh": "愛迪生發明了許多有用的東西。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_023484",
+    "type": "WORD",
+    "content": "Edith Abbott",
+    "theme": "doctoral",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_023488",
+    "type": "WORD",
+    "content": "edition insurance",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_023490",
+    "type": "WORD",
+    "content": "editor proclaim",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_023493",
+    "type": "WORD",
+    "content": "editorial encyclopedia",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_023495",
+    "type": "WORD",
+    "content": "editorial page editor",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023498",
+    "type": "WORD",
+    "content": "Edmond Duranty",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_023502",
+    "type": "WORD",
+    "content": "edu",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_023506",
+    "type": "WORD",
+    "content": "educated person",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023509",
+    "type": "WORD",
+    "content": "educating psyche",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023511",
+    "type": "WORD",
+    "content": "education allocation",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_023513",
+    "type": "WORD",
+    "content": "education circle",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_023515",
+    "type": "WORD",
+    "content": "education for all-round development",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023517",
+    "type": "WORD",
+    "content": "education plan",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_023524",
+    "type": "WORD",
+    "content": "educational journal",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

@@ -1,0 +1,300 @@
+[
+  {
+    "item_code": "w_037860",
+    "type": "WORD",
+    "content": "in the behalf of",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_037865",
+    "type": "WORD",
+    "content": "in the chain of",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_037869",
+    "type": "WORD",
+    "content": "in the company",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "He holds an important position in the company.",
+        "zh": "他在公司里身兼要职。"
+      },
+      {
+        "en": "You always go there and back in the company car, don't you?",
+        "zh": "你每次来回都是公司的车子对吧？"
+      },
+      {
+        "en": "She and I hold the same position in the company, but she earns more than I do.",
+        "zh": "我和她在公司里职位相同，但她赚的钱比我多。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_037873",
+    "type": "WORD",
+    "content": "in the corporate world",
+    "theme": "TEM8",
+    "tags": [
+      "TEM8",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_037881",
+    "type": "WORD",
+    "content": "in the employer's shoes",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_037896",
+    "type": "WORD",
+    "content": "in the following years",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_037898",
+    "type": "WORD",
+    "content": "in the forthcoming decade",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_037905",
+    "type": "WORD",
+    "content": "in the hand of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_037909",
+    "type": "WORD",
+    "content": "in the history of",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_037916",
+    "type": "WORD",
+    "content": "in the internet age",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_037917",
+    "type": "WORD",
+    "content": "In the kitchen?",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "He's in the kitchen.",
+        "zh": "他在厨房。"
+      },
+      {
+        "en": "He is in the kitchen.",
+        "zh": "他在厨房。"
+      },
+      {
+        "en": "She's in the kitchen.",
+        "zh": "她在厨房。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_037918",
+    "type": "WORD",
+    "content": "in the knowledge of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_037919",
+    "type": "WORD",
+    "content": "in the last hours",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_037928",
+    "type": "WORD",
+    "content": "in the margin",
+    "theme": "toefl",
+    "tags": [
+      "IELTS",
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_037936",
+    "type": "WORD",
+    "content": "in the middle term",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_037940",
+    "type": "WORD",
+    "content": "in the mood to",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_037947",
+    "type": "WORD",
+    "content": "in the north-west of",
+    "theme": "junior_high",
+    "tags": [
+      "beibei",
+      "junior",
+      "momo",
+      "primary"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_037953",
+    "type": "WORD",
+    "content": "in the past years",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_037954",
+    "type": "WORD",
+    "content": "in the photo above",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_037961",
+    "type": "WORD",
+    "content": "in the present",
+    "theme": "junior_high",
+    "tags": [
+      "beibei",
+      "junior",
+      "momo",
+      "primary"
+    ],
+    "difficulty": 2,
+    "examples": [
+      {
+        "en": "You must live in the present, not in the past.",
+        "zh": "你一定要活在當下，不能總是留戀過去。"
+      },
+      {
+        "en": "Pleasure is always in the past or in the future, never in the present.",
+        "zh": "快乐存在于过去和未来，唯独不存在于现在。"
+      }
+    ]
+  }
+]

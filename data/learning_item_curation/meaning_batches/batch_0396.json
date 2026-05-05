@@ -1,0 +1,300 @@
+[
+  {
+    "item_code": "w_037785",
+    "type": "WORD",
+    "content": "in sb.'s possession",
+    "theme": "new_concept",
+    "tags": [
+      "NCE",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_037786",
+    "type": "WORD",
+    "content": "in sb.'s presence",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "CET6",
+      "advanced",
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_037787",
+    "type": "WORD",
+    "content": "in sb.'s shoes",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_037788",
+    "type": "WORD",
+    "content": "in sb.'s way",
+    "theme": "TEM4",
+    "tags": [
+      "CET4",
+      "CET6",
+      "TEM4",
+      "advanced",
+      "expert",
+      "kaoyan",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_037789",
+    "type": "WORD",
+    "content": "in sb.'s words",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "beibei",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_037794",
+    "type": "WORD",
+    "content": "in second place",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": [
+      {
+        "en": "Our friend finished the race in second place.",
+        "zh": "我们的朋友完成了比赛，得了第二名。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_037800",
+    "type": "WORD",
+    "content": "in several instances",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_037801",
+    "type": "WORD",
+    "content": "in sharp contrast to",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_037806",
+    "type": "WORD",
+    "content": "in significant measure",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_037809",
+    "type": "WORD",
+    "content": "in small amount",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_037817",
+    "type": "WORD",
+    "content": "in someone's honour",
+    "theme": "new_concept",
+    "tags": [
+      "NCE",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_037818",
+    "type": "WORD",
+    "content": "in sorrow",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_037822",
+    "type": "WORD",
+    "content": "in stark contrast to",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_037823",
+    "type": "WORD",
+    "content": "in state bar breas",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_037840",
+    "type": "WORD",
+    "content": "in sync with",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_037846",
+    "type": "WORD",
+    "content": "in that position",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_037848",
+    "type": "WORD",
+    "content": "in the 1860s",
+    "theme": "junior_high",
+    "tags": [
+      "beibei",
+      "junior",
+      "momo"
+    ],
+    "difficulty": 2,
+    "examples": [
+      {
+        "en": "This song was popular in the 1970s.",
+        "zh": "這首歌在七十年代很流行。"
+      },
+      {
+        "en": "This hairstyle was popular in the 1990s.",
+        "zh": "這種髮型在 20 世紀 90 年代很流行。"
+      },
+      {
+        "en": "Germany adopted a social security system in the 1880's.",
+        "zh": "德国在1880年代采取了一种社会保障制度。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_037849",
+    "type": "WORD",
+    "content": "in the 1970s",
+    "theme": "zhongkao",
+    "tags": [
+      "junior",
+      "momo",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": [
+      {
+        "en": "This song was popular in the 1970s.",
+        "zh": "這首歌在七十年代很流行。"
+      },
+      {
+        "en": "This hairstyle was popular in the 1990s.",
+        "zh": "這種髮型在 20 世紀 90 年代很流行。"
+      },
+      {
+        "en": "Germany adopted a social security system in the 1880's.",
+        "zh": "德国在1880年代采取了一种社会保障制度。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_037853",
+    "type": "WORD",
+    "content": "in the aftermath of",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_037857",
+    "type": "WORD",
+    "content": "in the array of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

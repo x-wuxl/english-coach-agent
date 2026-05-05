@@ -1,0 +1,277 @@
+[
+  {
+    "item_code": "w_037300",
+    "type": "WORD",
+    "content": "in ... faculty",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_037304",
+    "type": "WORD",
+    "content": "in ... respects",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_037306",
+    "type": "WORD",
+    "content": "in 1989",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "Count me in.",
+        "zh": "算我一个."
+      },
+      {
+        "en": "I'll get in.",
+        "zh": "我會進去。"
+      },
+      {
+        "en": "In Progress.",
+        "zh": "進行中。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_037307",
+    "type": "WORD",
+    "content": "in a  ... situation",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_037312",
+    "type": "WORD",
+    "content": "in a ... vein",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_037313",
+    "type": "WORD",
+    "content": "in a ... voice",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_037319",
+    "type": "WORD",
+    "content": "in a contemplative mood",
+    "theme": "business_english",
+    "tags": [
+      "BEC",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_037324",
+    "type": "WORD",
+    "content": "in a favorable light",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_037326",
+    "type": "WORD",
+    "content": "in a form",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "You need to hand in a few photos, fill in a form, and get a visa.",
+        "zh": "你要交几张照片，填好几张表格，办好签证。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_037327",
+    "type": "WORD",
+    "content": "in a fortnight",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_037328",
+    "type": "WORD",
+    "content": "in a furious way",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_037332",
+    "type": "WORD",
+    "content": "in a high voice",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_037336",
+    "type": "WORD",
+    "content": "in a mechanistic fashion",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_037344",
+    "type": "WORD",
+    "content": "in a reasonable way",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_037349",
+    "type": "WORD",
+    "content": "in a sequence of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_037352",
+    "type": "WORD",
+    "content": "in a slump",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_037354",
+    "type": "WORD",
+    "content": "in a span of",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "beibei",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_037358",
+    "type": "WORD",
+    "content": "in a tired voice",
+    "theme": "zhongkao",
+    "tags": [
+      "junior",
+      "momo",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_037360",
+    "type": "WORD",
+    "content": "in a valley",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_037372",
+    "type": "WORD",
+    "content": "in adherence to",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "beibei",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  }
+]

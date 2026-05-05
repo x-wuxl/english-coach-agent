@@ -1,0 +1,272 @@
+[
+  {
+    "item_code": "w_042915",
+    "type": "WORD",
+    "content": "let ... slide",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_042919",
+    "type": "WORD",
+    "content": "let imagination run wild",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_042932",
+    "type": "WORD",
+    "content": "let out a scream",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_042935",
+    "type": "WORD",
+    "content": "let sb. do sth.",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_042950",
+    "type": "WORD",
+    "content": "Let's be friends.",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "Let's be friends with birds.",
+        "zh": "让我们做鸟类的朋友。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_042955",
+    "type": "WORD",
+    "content": "lethal heat wave",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_042962",
+    "type": "WORD",
+    "content": "letter call sign",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_042972",
+    "type": "WORD",
+    "content": "letting",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "The rain is letting up.",
+        "zh": "雨变小了。"
+      },
+      {
+        "en": "I'm not letting Tom do this by himself.",
+        "zh": "我不会让汤姆独自去做。"
+      },
+      {
+        "en": "Thanks a lot for letting me play with your Xbox. \"No problem dude, knock yourself out.\"",
+        "zh": "非常感謝你讓我玩你的Xbox。 \" 沒問題，老兄，別客氣盡情地玩吧。\""
+      }
+    ]
+  },
+  {
+    "item_code": "w_042982",
+    "type": "WORD",
+    "content": "leukemia compact",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_042995",
+    "type": "WORD",
+    "content": "lev",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_043000",
+    "type": "WORD",
+    "content": "level headed circumlicution",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_043002",
+    "type": "WORD",
+    "content": "level of proficiency",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_043011",
+    "type": "WORD",
+    "content": "leven",
+    "theme": "study_abroad",
+    "tags": [
+      "GMAT",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_043014",
+    "type": "WORD",
+    "content": "lever-based",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_043020",
+    "type": "WORD",
+    "content": "levin",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_043021",
+    "type": "WORD",
+    "content": "levin petition",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_043025",
+    "type": "WORD",
+    "content": "levity discomfit epitomize",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_043037",
+    "type": "WORD",
+    "content": "lexicographic",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_043043",
+    "type": "WORD",
+    "content": "lexus",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_043048",
+    "type": "WORD",
+    "content": "liability pavilion",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  }
+]

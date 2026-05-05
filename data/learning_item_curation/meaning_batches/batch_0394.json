@@ -1,0 +1,308 @@
+[
+  {
+    "item_code": "w_037638",
+    "type": "WORD",
+    "content": "in meritocracy",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_037639",
+    "type": "WORD",
+    "content": "in Mexico",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "She was born in Mexico.",
+        "zh": "她出生在墨西哥。"
+      },
+      {
+        "en": "There are many slums in Mexico.",
+        "zh": "墨西哥有很多贫民窟。"
+      },
+      {
+        "en": "What language is spoken in Mexico?",
+        "zh": "在墨西哥人们讲什么语言？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_037641",
+    "type": "WORD",
+    "content": "in mist",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_037646",
+    "type": "WORD",
+    "content": "in mounting numbers",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_037648",
+    "type": "WORD",
+    "content": "in multiple regards",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_037649",
+    "type": "WORD",
+    "content": "in my class",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "There are 30 students in my class.",
+        "zh": "我的班上有三十名學生。"
+      },
+      {
+        "en": "Tom is one of the guys in my class.",
+        "zh": "湯姆是我們班上那夥人之一。"
+      },
+      {
+        "en": "Kate is the best singer in my class.",
+        "zh": "凯特是我们班唱歌最好的。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_037652",
+    "type": "WORD",
+    "content": "in need of help",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "She is in need of help.",
+        "zh": "她需要幫助。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_037661",
+    "type": "WORD",
+    "content": "in of sight",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_037664",
+    "type": "WORD",
+    "content": "in one hour",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "The plane will take off in one hour.",
+        "zh": "飞机将在一小时后起飞。"
+      },
+      {
+        "en": "Sorry, but I have to go now. I have an appointment in one hour. Please don't forget to call me back when I get home.",
+        "zh": "不好意思，我先走了。我一个小时后有约会。我回家后，请别忘了打回给我。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_037665",
+    "type": "WORD",
+    "content": "in one night",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "In one night, Dima added.",
+        "zh": "一個晚上, 迪馬加上。"
+      },
+      {
+        "en": "Dima slept with 25 men in one night and then killed them.",
+        "zh": "狄馬一晚和二十五個男人睡了覺，然後就把他們殺掉了。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_037669",
+    "type": "WORD",
+    "content": "in one week's time",
+    "theme": "zhongkao",
+    "tags": [
+      "junior",
+      "momo",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_037671",
+    "type": "WORD",
+    "content": "in one's contact with",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_037672",
+    "type": "WORD",
+    "content": "in one's defense",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "beibei",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_037673",
+    "type": "WORD",
+    "content": "in one's entirety",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_037677",
+    "type": "WORD",
+    "content": "in one's fifties",
+    "theme": "zhongkao",
+    "tags": [
+      "junior",
+      "momo",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_037678",
+    "type": "WORD",
+    "content": "in one's free time",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_037680",
+    "type": "WORD",
+    "content": "in one's heyday",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_037681",
+    "type": "WORD",
+    "content": "in one's honor",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "CET6",
+      "advanced",
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_037682",
+    "type": "WORD",
+    "content": "in one's interests",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_037683",
+    "type": "WORD",
+    "content": "in one's judgement",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  }
+]

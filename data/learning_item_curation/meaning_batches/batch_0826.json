@@ -1,0 +1,301 @@
+[
+  {
+    "item_code": "w_081783",
+    "type": "WORD",
+    "content": "wrapped",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert",
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "She wrapped herself in a blanket.",
+        "zh": "她用一條毯子把自己裹起來。"
+      },
+      {
+        "en": "She came out of the bathroom wrapped in a towel.",
+        "zh": "她圍著一條浴巾從浴室走了出來。"
+      },
+      {
+        "en": "She came out of the bathroom with a towel wrapped around her.",
+        "zh": "她圍著一條浴巾從浴室走了出來。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_081807",
+    "type": "WORD",
+    "content": "wrestling yacht",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_081810",
+    "type": "WORD",
+    "content": "wretched boat",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081817",
+    "type": "WORD",
+    "content": "wrinkle cabinet",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_081822",
+    "type": "WORD",
+    "content": "wristband archery",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_081831",
+    "type": "WORD",
+    "content": "write an e-mail",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_081834",
+    "type": "WORD",
+    "content": "write legibly",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081835",
+    "type": "WORD",
+    "content": "write letters",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "I write letters.",
+        "zh": "我寫字母。"
+      },
+      {
+        "en": "I don't write letters anymore.",
+        "zh": "我不再写信了。"
+      },
+      {
+        "en": "Does he write letters in English?",
+        "zh": "他用英文寫信嗎?"
+      }
+    ]
+  },
+  {
+    "item_code": "w_081836",
+    "type": "WORD",
+    "content": "write medication",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081837",
+    "type": "WORD",
+    "content": "write music",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081842",
+    "type": "WORD",
+    "content": "write test",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081843",
+    "type": "WORD",
+    "content": "write thank-you notes",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081845",
+    "type": "WORD",
+    "content": "write to Grandma",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081857",
+    "type": "WORD",
+    "content": "writing contract",
+    "theme": "business_english",
+    "tags": [
+      "BEC",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_081869",
+    "type": "WORD",
+    "content": "written literature",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081872",
+    "type": "WORD",
+    "content": "written response",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_081876",
+    "type": "WORD",
+    "content": "wrong headed outlandish",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_081887",
+    "type": "WORD",
+    "content": "wrote a letter",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "I wrote a letter.",
+        "zh": "我写了一封信。"
+      },
+      {
+        "en": "He wrote a letter.",
+        "zh": "他写了一封信。"
+      },
+      {
+        "en": "He wrote a letter yesterday.",
+        "zh": "昨天他写了一封信。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_081895",
+    "type": "WORD",
+    "content": "wu",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "I can speak Standard Chinese (Putonghua), Southwestern Mandarin, Wu Chinese, and Spanish.",
+        "zh": "我會普通話、西南官話、吳語和西班牙語。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_081903",
+    "type": "WORD",
+    "content": "x miles per hour",
+    "theme": "new_concept",
+    "tags": [
+      "NCE",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  }
+]

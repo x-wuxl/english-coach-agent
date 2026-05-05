@@ -1,0 +1,273 @@
+[
+  {
+    "item_code": "w_073608",
+    "type": "WORD",
+    "content": "the brick exterior",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073617",
+    "type": "WORD",
+    "content": "the Canadian Space Agency",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_073618",
+    "type": "WORD",
+    "content": "the capacity to",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "The cells have the capacity to convert food into energy.",
+        "zh": "細胞具有將食物轉化為能量的能力。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_073619",
+    "type": "WORD",
+    "content": "the Caribbean Islands",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_073620",
+    "type": "WORD",
+    "content": "the cascade of change",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073624",
+    "type": "WORD",
+    "content": "the chemist's",
+    "theme": "new_concept",
+    "tags": [
+      "NCE",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_073625",
+    "type": "WORD",
+    "content": "the Chinese ancestors",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_073626",
+    "type": "WORD",
+    "content": "the Chinese Dream",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073628",
+    "type": "WORD",
+    "content": "the Chinese Taoist Association",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_073632",
+    "type": "WORD",
+    "content": "the civilian drone industry",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_073633",
+    "type": "WORD",
+    "content": "the clients",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073635",
+    "type": "WORD",
+    "content": "the CN Tower",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_073636",
+    "type": "WORD",
+    "content": "the co-existence of multi-culture",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073637",
+    "type": "WORD",
+    "content": "the coastal regions",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_073638",
+    "type": "WORD",
+    "content": "the code of conduct",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073639",
+    "type": "WORD",
+    "content": "the Code of Hammurabi",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073640",
+    "type": "WORD",
+    "content": "the college expansion plan",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_073641",
+    "type": "WORD",
+    "content": "the Colorado River",
+    "theme": "textbook_primary",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073642",
+    "type": "WORD",
+    "content": "the coming year",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": [
+      {
+        "en": "I wish everyone luck in the coming year, as well as success in their work and studies.",
+        "zh": "祝各位来年好运，学习事业成功。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_073643",
+    "type": "WORD",
+    "content": "the common run of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

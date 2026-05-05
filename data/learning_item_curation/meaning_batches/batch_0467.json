@@ -1,0 +1,270 @@
+[
+  {
+    "item_code": "w_044890",
+    "type": "WORD",
+    "content": "majority garlic",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_044895",
+    "type": "WORD",
+    "content": "make ... come true",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_044896",
+    "type": "WORD",
+    "content": "make ... distinct from",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_044902",
+    "type": "WORD",
+    "content": "make ... tick",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_044910",
+    "type": "WORD",
+    "content": "make a birthday card",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_044911",
+    "type": "WORD",
+    "content": "make a boast of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_044915",
+    "type": "WORD",
+    "content": "make a cake",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "Let's make a cake.",
+        "zh": "我们做个蛋糕吧。"
+      },
+      {
+        "en": "Kate knows how to make a cake.",
+        "zh": "凱特知道如何做蛋糕。"
+      },
+      {
+        "en": "To make a cake, you need egg, butter and sugar.",
+        "zh": "要做蛋糕，你要用到鸡蛋，黄油和糖。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_044917",
+    "type": "WORD",
+    "content": "make a call to",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "I'd like to make a call to Tokyo, Japan. The number is 3202-5625.",
+        "zh": "我想要打个电话到日本东京，号码是3202－5625。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_044920",
+    "type": "WORD",
+    "content": "make a chart",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_044921",
+    "type": "WORD",
+    "content": "make a check out",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_044925",
+    "type": "WORD",
+    "content": "make a commitment to",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_044927",
+    "type": "WORD",
+    "content": "make a compromise",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_044929",
+    "type": "WORD",
+    "content": "make a conclusion",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_044933",
+    "type": "WORD",
+    "content": "make a dash for",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_044936",
+    "type": "WORD",
+    "content": "make a deep impression",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_044944",
+    "type": "WORD",
+    "content": "make a feint",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_044947",
+    "type": "WORD",
+    "content": "make a full recovery",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_044950",
+    "type": "WORD",
+    "content": "make a good effort",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_044951",
+    "type": "WORD",
+    "content": "make a good loss",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_044952",
+    "type": "WORD",
+    "content": "make a good recovery",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

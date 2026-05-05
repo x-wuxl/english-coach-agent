@@ -1,0 +1,281 @@
+[
+  {
+    "item_code": "w_066516",
+    "type": "WORD",
+    "content": "sick illness",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_066527",
+    "type": "WORD",
+    "content": "sickle pinch",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_066553",
+    "type": "WORD",
+    "content": "sided",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_066557",
+    "type": "WORD",
+    "content": "sideline ball",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_066568",
+    "type": "WORD",
+    "content": "sidestep taxes",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_066581",
+    "type": "WORD",
+    "content": "sieve simmer soak",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_066595",
+    "type": "WORD",
+    "content": "sightseeing accompany",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_066598",
+    "type": "WORD",
+    "content": "sightseeing spot",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_066600",
+    "type": "WORD",
+    "content": "sightseeing utility gym",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_066607",
+    "type": "WORD",
+    "content": "sign a contract with",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_066608",
+    "type": "WORD",
+    "content": "sign a petition",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_066614",
+    "type": "WORD",
+    "content": "sign of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "Dark clouds are a sign of rain.",
+        "zh": "乌云是下雨的征兆。"
+      },
+      {
+        "en": "The house gave no sign of life.",
+        "zh": "那房子似乎沒有人住。"
+      },
+      {
+        "en": "The rain shows no sign of stopping.",
+        "zh": "这雨没有要停的迹象。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_066619",
+    "type": "WORD",
+    "content": "sign the contract",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "They made him sign the contract.",
+        "zh": "他們讓他簽約了。"
+      },
+      {
+        "en": "Don't sign the contract in pencil.",
+        "zh": "别用铅笔签合同。"
+      },
+      {
+        "en": "They made him sign the contract against his will.",
+        "zh": "他被強迫簽了約。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_066623",
+    "type": "WORD",
+    "content": "sign up to do",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_066624",
+    "type": "WORD",
+    "content": "sign up with",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_066628",
+    "type": "WORD",
+    "content": "signage combustion dispensary",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_066639",
+    "type": "WORD",
+    "content": "signature initial",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_066640",
+    "type": "WORD",
+    "content": "signature phrase",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_066646",
+    "type": "WORD",
+    "content": "significant changes",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_066650",
+    "type": "WORD",
+    "content": "significant strategy",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

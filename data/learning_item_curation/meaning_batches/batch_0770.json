@@ -1,0 +1,273 @@
+[
+  {
+    "item_code": "w_075104",
+    "type": "WORD",
+    "content": "to part with",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_075105",
+    "type": "WORD",
+    "content": "to party with",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_075107",
+    "type": "WORD",
+    "content": "to play chess",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": [
+      {
+        "en": "Can you teach me to play chess?",
+        "zh": "您能教我下国际象棋吗？"
+      },
+      {
+        "en": "I will teach you to play chess.",
+        "zh": "我會教你下棋。"
+      },
+      {
+        "en": "No one wants to play chess with me.",
+        "zh": "沒有人想和我下象棋。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_075108",
+    "type": "WORD",
+    "content": "to promote maximal engagement",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_075109",
+    "type": "WORD",
+    "content": "to provide equal opportunities",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_075110",
+    "type": "WORD",
+    "content": "to rank the first",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_075111",
+    "type": "WORD",
+    "content": "to receive baptism",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_075112",
+    "type": "WORD",
+    "content": "to reduce pollution",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_075113",
+    "type": "WORD",
+    "content": "to remove structural barriers",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_075118",
+    "type": "WORD",
+    "content": "to sb.'s astonishment",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_075119",
+    "type": "WORD",
+    "content": "to sb.'s credit",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_075120",
+    "type": "WORD",
+    "content": "to sb.'s delight",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_075121",
+    "type": "WORD",
+    "content": "to sb.'s disappointment",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_075122",
+    "type": "WORD",
+    "content": "to sb.'s relief",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "beibei",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_075123",
+    "type": "WORD",
+    "content": "to sb.'s satisfaction",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_075124",
+    "type": "WORD",
+    "content": "to sb.'s surprise",
+    "theme": "gaokao",
+    "tags": [
+      "advanced",
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_075125",
+    "type": "WORD",
+    "content": "to sb.'s taste",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_075127",
+    "type": "WORD",
+    "content": "to scale back",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_075128",
+    "type": "WORD",
+    "content": "to seek new breakthroughs",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_075129",
+    "type": "WORD",
+    "content": "to set goals",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  }
+]

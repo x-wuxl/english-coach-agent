@@ -1,0 +1,273 @@
+[
+  {
+    "item_code": "w_064596",
+    "type": "WORD",
+    "content": "seal off the city",
+    "theme": "vocabulary",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_064597",
+    "type": "WORD",
+    "content": "seal patience",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_064598",
+    "type": "WORD",
+    "content": "seal sb.'s fate",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_064613",
+    "type": "WORD",
+    "content": "seamly",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_064614",
+    "type": "WORD",
+    "content": "seamly difference",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_064618",
+    "type": "WORD",
+    "content": "sean",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "Sleep tight, Sean.",
+        "zh": "肖恩，安穩睡啊。"
+      },
+      {
+        "en": "The resemblance between Sean and Conner is striking!",
+        "zh": "Sean 和 Conner 長得真像！"
+      }
+    ]
+  },
+  {
+    "item_code": "w_064625",
+    "type": "WORD",
+    "content": "search agent",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_064627",
+    "type": "WORD",
+    "content": "search habits",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_064636",
+    "type": "WORD",
+    "content": "seas",
+    "theme": "gaokao",
+    "tags": [
+      "CET4",
+      "CET6",
+      "TEM4",
+      "TEM8",
+      "advanced",
+      "beibei",
+      "expert",
+      "gaokao",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_064641",
+    "type": "WORD",
+    "content": "seasick side effect",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_064653",
+    "type": "WORD",
+    "content": "seasonal rate",
+    "theme": "business_english",
+    "tags": [
+      "BEC",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_064657",
+    "type": "WORD",
+    "content": "seasoned shellfish",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_064669",
+    "type": "WORD",
+    "content": "Seattle Center",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_064676",
+    "type": "WORD",
+    "content": "sebastopol",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_064678",
+    "type": "WORD",
+    "content": "sec",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert",
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_064679",
+    "type": "WORD",
+    "content": "sec setting",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_064694",
+    "type": "WORD",
+    "content": "second generation entrepreneur",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_064701",
+    "type": "WORD",
+    "content": "second page",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_064704",
+    "type": "WORD",
+    "content": "second-child economy",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_064705",
+    "type": "WORD",
+    "content": "second-child policy",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

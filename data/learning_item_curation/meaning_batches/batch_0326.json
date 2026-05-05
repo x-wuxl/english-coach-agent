@@ -1,0 +1,268 @@
+[
+  {
+    "item_code": "w_030865",
+    "type": "WORD",
+    "content": "get enough rest",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "It's very important to get enough rest.",
+        "zh": "充足的休息十分重要。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_030870",
+    "type": "WORD",
+    "content": "get exhausted",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_030871",
+    "type": "WORD",
+    "content": "get exposed to",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_030872",
+    "type": "WORD",
+    "content": "get familiar to",
+    "theme": "zhongkao",
+    "tags": [
+      "junior",
+      "momo",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_030875",
+    "type": "WORD",
+    "content": "get fed up",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_030876",
+    "type": "WORD",
+    "content": "get fed up with",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_030880",
+    "type": "WORD",
+    "content": "get gas",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_030881",
+    "type": "WORD",
+    "content": "get good from ...",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_030882",
+    "type": "WORD",
+    "content": "get goose bumps",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "When I hear the news, I get goose bumps. How could there be such a dangerous thing?",
+        "zh": "聽到這條新聞我直起雞皮疙瘩，怎麼會有這樣危險的事啊？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_030883",
+    "type": "WORD",
+    "content": "get goose pimples",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_030885",
+    "type": "WORD",
+    "content": "get gray hairs",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_030895",
+    "type": "WORD",
+    "content": "get in debt",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_030897",
+    "type": "WORD",
+    "content": "get in one's hair",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_030899",
+    "type": "WORD",
+    "content": "get in sb.'s hair",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_030904",
+    "type": "WORD",
+    "content": "get insight into",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "CET6",
+      "advanced",
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_030908",
+    "type": "WORD",
+    "content": "get into full swing",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_030913",
+    "type": "WORD",
+    "content": "get into work faster",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_030920",
+    "type": "WORD",
+    "content": "get it settled",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_030924",
+    "type": "WORD",
+    "content": "get left behind",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_030925",
+    "type": "WORD",
+    "content": "get locked out",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

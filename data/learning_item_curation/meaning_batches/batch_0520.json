@@ -1,0 +1,291 @@
+[
+  {
+    "item_code": "w_050533",
+    "type": "WORD",
+    "content": "not be far behind",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_050534",
+    "type": "WORD",
+    "content": "not believe one's eyes",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_050541",
+    "type": "WORD",
+    "content": "not far behind",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_050542",
+    "type": "WORD",
+    "content": "not feel oneself",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_050543",
+    "type": "WORD",
+    "content": "not flowing",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_050545",
+    "type": "WORD",
+    "content": "not for circulation",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_050548",
+    "type": "WORD",
+    "content": "not in all conscience",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "beibei",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_050549",
+    "type": "WORD",
+    "content": "not in good conscience",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "beibei",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_050554",
+    "type": "WORD",
+    "content": "not least of all",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_050555",
+    "type": "WORD",
+    "content": "not let rip",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_050557",
+    "type": "WORD",
+    "content": "not likely to",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "I'm not likely to kiss Tom.",
+        "zh": "我不可能亲汤姆。"
+      },
+      {
+        "en": "He is not likely to succeed.",
+        "zh": "他不可能成功。"
+      },
+      {
+        "en": "At this rate, we're not likely to be done before the end of the week.",
+        "zh": "按照这个速度，我们不会在这周结束前完成。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_050563",
+    "type": "WORD",
+    "content": "not one's type",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "expert",
+      "kaoyan",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_050564",
+    "type": "WORD",
+    "content": "not only",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "Eat not only fish, but also meat.",
+        "zh": "不只吃鱼，也吃肉。"
+      },
+      {
+        "en": "Not only you but also I was involved.",
+        "zh": "不止你， 连我也被牵连了。"
+      },
+      {
+        "en": "She is not only kind, but also honest.",
+        "zh": "她不仅友好还诚实。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_050565",
+    "type": "WORD",
+    "content": "not only ... but",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_050566",
+    "type": "WORD",
+    "content": "not qualified",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "He is not qualified for the job.",
+        "zh": "他不勝任這份工作。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_050568",
+    "type": "WORD",
+    "content": "not snail spider",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_050571",
+    "type": "WORD",
+    "content": "not surprisingly",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_050574",
+    "type": "WORD",
+    "content": "not till",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_050576",
+    "type": "WORD",
+    "content": "not to mention infuriating",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_050579",
+    "type": "WORD",
+    "content": "not usually",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "item_code": "w_046621",
+    "type": "WORD",
+    "content": "mental fitness",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_046623",
+    "type": "WORD",
+    "content": "mental illness",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_046626",
+    "type": "WORD",
+    "content": "mental orthopedics",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_046628",
+    "type": "WORD",
+    "content": "mental stress",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_046636",
+    "type": "WORD",
+    "content": "mentally sane insane",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_046640",
+    "type": "WORD",
+    "content": "mention doing sth.",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_046664",
+    "type": "WORD",
+    "content": "merchant candidate",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_046693",
+    "type": "WORD",
+    "content": "merit maintenance",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_046695",
+    "type": "WORD",
+    "content": "merital parental parenthood paternity",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_046697",
+    "type": "WORD",
+    "content": "merited substitute",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_046701",
+    "type": "WORD",
+    "content": "Merlin the Wizard",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_046704",
+    "type": "WORD",
+    "content": "merotricious",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_046730",
+    "type": "WORD",
+    "content": "mesoendemic",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_046745",
+    "type": "WORD",
+    "content": "mess supervision",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_046754",
+    "type": "WORD",
+    "content": "Messi",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "The players made a wall as Lionel Messi went to shoot.",
+        "zh": "当里奥梅西射门时，球员们筑起一道人墙。"
+      },
+      {
+        "en": "The opposition formed a line in the box to try and block Messi from scoring.",
+        "zh": "对方球员在禁区内组成一道防线，试图阻截梅西的射门。"
+      },
+      {
+        "en": "Messi was very close to scoring a goal, but the referee blew his whistle to say that he was offside.",
+        "zh": "梅西差一点就进球了，但裁判吹哨说他越位。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_046762",
+    "type": "WORD",
+    "content": "messy intercom performance",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_046765",
+    "type": "WORD",
+    "content": "meta",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_046766",
+    "type": "WORD",
+    "content": "meta path finder",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_046772",
+    "type": "WORD",
+    "content": "metabolism disorder",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_046783",
+    "type": "WORD",
+    "content": "metaclass",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  }
+]

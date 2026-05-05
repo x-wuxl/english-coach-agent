@@ -1,0 +1,277 @@
+[
+  {
+    "item_code": "w_051517",
+    "type": "WORD",
+    "content": "on a ... basis",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_051522",
+    "type": "WORD",
+    "content": "on a course",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051526",
+    "type": "WORD",
+    "content": "on a false basis",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_051536",
+    "type": "WORD",
+    "content": "on a steady rise",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051537",
+    "type": "WORD",
+    "content": "on a stem",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051538",
+    "type": "WORD",
+    "content": "on a tour of",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_051539",
+    "type": "WORD",
+    "content": "on a vacation",
+    "theme": "junior_high",
+    "tags": [
+      "beibei",
+      "junior",
+      "momo",
+      "primary"
+    ],
+    "difficulty": 2,
+    "examples": [
+      {
+        "en": "I can't wait to go on a vacation.",
+        "zh": "我等不及要去度假。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_051541",
+    "type": "WORD",
+    "content": "on a weekly basis",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_051542",
+    "type": "WORD",
+    "content": "on a yearly basis",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_051543",
+    "type": "WORD",
+    "content": "on account",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "The game was called off on account of the rain.",
+        "zh": "比賽因為下雨取消了。"
+      },
+      {
+        "en": "He was absent from school on account of illness.",
+        "zh": "他因为生病没来上课。"
+      },
+      {
+        "en": "I was late for school on account of an accident.",
+        "zh": "因为一起事故，我上学迟到了。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_051547",
+    "type": "WORD",
+    "content": "on all accounts",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051553",
+    "type": "WORD",
+    "content": "on and off stage",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051578",
+    "type": "WORD",
+    "content": "on errands",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_051579",
+    "type": "WORD",
+    "content": "on European corporate boards",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051580",
+    "type": "WORD",
+    "content": "on every account",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051585",
+    "type": "WORD",
+    "content": "on first hearing",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051587",
+    "type": "WORD",
+    "content": "on good evidence",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_051598",
+    "type": "WORD",
+    "content": "on less necessary",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051601",
+    "type": "WORD",
+    "content": "on loan from",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051602",
+    "type": "WORD",
+    "content": "on Main Street",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

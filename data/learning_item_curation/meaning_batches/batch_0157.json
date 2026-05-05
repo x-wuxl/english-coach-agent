@@ -1,0 +1,284 @@
+[
+  {
+    "item_code": "w_014346",
+    "type": "WORD",
+    "content": "clay porcelain potter",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_014347",
+    "type": "WORD",
+    "content": "clay slot wrench",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_014348",
+    "type": "WORD",
+    "content": "claycate",
+    "theme": "study_abroad",
+    "tags": [
+      "GMAT",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_014353",
+    "type": "WORD",
+    "content": "clean my room",
+    "theme": "primary_school",
+    "tags": [
+      "beibei",
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "I should clean my room.",
+        "zh": "我应该打扫我的房间。"
+      },
+      {
+        "en": "I got her to clean my room.",
+        "zh": "我讓她清掃了我的房間。"
+      },
+      {
+        "en": "I don't have to clean my room.",
+        "zh": "我不用打扫房间。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_014355",
+    "type": "WORD",
+    "content": "clean out the garage",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_014356",
+    "type": "WORD",
+    "content": "clean products",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_014357",
+    "type": "WORD",
+    "content": "clean renewable energy",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_014358",
+    "type": "WORD",
+    "content": "clean the garden",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_014360",
+    "type": "WORD",
+    "content": "clean the windows",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "When Michael is at home, his work is to clean the windows.",
+        "zh": "在家里，麦克的工作就是擦窗户。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_014361",
+    "type": "WORD",
+    "content": "clean up garbage",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_014362",
+    "type": "WORD",
+    "content": "clean wash bath",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_014367",
+    "type": "WORD",
+    "content": "cleaned the window",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "After I cleaned the window, I could see through it clearly.",
+        "zh": "清潔窗戶後，我能很清楚的從窗戶看出去。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_014369",
+    "type": "WORD",
+    "content": "cleanery",
+    "theme": "TEM4",
+    "tags": [
+      "BEC",
+      "TEM4",
+      "TEM8",
+      "advanced",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_014370",
+    "type": "WORD",
+    "content": "cleanery noble",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_014374",
+    "type": "WORD",
+    "content": "cleaning his apartment",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_014375",
+    "type": "WORD",
+    "content": "cleaning his garage",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_014376",
+    "type": "WORD",
+    "content": "cleaning his living room",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_014377",
+    "type": "WORD",
+    "content": "cleaning his room",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "He was cleaning his room.",
+        "zh": "他在打扫他的房间。"
+      },
+      {
+        "en": "He hates cleaning his room.",
+        "zh": "他讨厌打扫自己的房间。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_014378",
+    "type": "WORD",
+    "content": "cleaning his yard",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_014380",
+    "type": "WORD",
+    "content": "cleaning the room",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  }
+]

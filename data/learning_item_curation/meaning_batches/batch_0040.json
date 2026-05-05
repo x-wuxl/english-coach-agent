@@ -1,0 +1,267 @@
+[
+  {
+    "item_code": "w_002707",
+    "type": "WORD",
+    "content": "all-weather friends",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_002708",
+    "type": "WORD",
+    "content": "all-weather playground",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_002709",
+    "type": "WORD",
+    "content": "all-weather system",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_002711",
+    "type": "WORD",
+    "content": "all-win",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_002720",
+    "type": "WORD",
+    "content": "allegiance to",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "I pledge allegiance to the flag.",
+        "zh": "我向國旗宣誓效忠。"
+      },
+      {
+        "en": "The knight swore an oath of allegiance to the king.",
+        "zh": "騎士宣誓效忠於國王。"
+      },
+      {
+        "en": "The knight swears an oath of allegiance to the King.",
+        "zh": "騎士宣誓效忠於國王。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_002736",
+    "type": "WORD",
+    "content": "alleviate ache",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_002737",
+    "type": "WORD",
+    "content": "alleviate inborn pathogen",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_002738",
+    "type": "WORD",
+    "content": "alleviate interview register",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_002739",
+    "type": "WORD",
+    "content": "alleviate reflect",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_002740",
+    "type": "WORD",
+    "content": "alleviate someone's burdens",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_002748",
+    "type": "WORD",
+    "content": "allied troop",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_002758",
+    "type": "WORD",
+    "content": "allocative system",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_002778",
+    "type": "WORD",
+    "content": "allow annual concur",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_002788",
+    "type": "WORD",
+    "content": "alloy solitude",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_002802",
+    "type": "WORD",
+    "content": "almighty oppress",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_002809",
+    "type": "WORD",
+    "content": "aloft berate reticent",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_002812",
+    "type": "WORD",
+    "content": "along the lake",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_002819",
+    "type": "WORD",
+    "content": "alor",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_002824",
+    "type": "WORD",
+    "content": "alpha wolf",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_002835",
+    "type": "WORD",
+    "content": "alphainterferon",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  }
+]

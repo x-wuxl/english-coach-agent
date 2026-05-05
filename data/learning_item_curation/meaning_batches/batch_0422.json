@@ -1,0 +1,313 @@
+[
+  {
+    "item_code": "w_040402",
+    "type": "WORD",
+    "content": "ISO",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_040421",
+    "type": "WORD",
+    "content": "isolate A from B",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_040425",
+    "type": "WORD",
+    "content": "isolating",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_040427",
+    "type": "WORD",
+    "content": "isolation neglect",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_040456",
+    "type": "WORD",
+    "content": "Israeli-Palestinian",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_040460",
+    "type": "WORD",
+    "content": "issue a call",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_040461",
+    "type": "WORD",
+    "content": "issue a report",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_040463",
+    "type": "WORD",
+    "content": "issue her damning verdict",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_040471",
+    "type": "WORD",
+    "content": "it comes to",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": [
+      {
+        "en": "When it comes to sweets, I just can't control myself.",
+        "zh": "一看到甜点，我就无法自拔。"
+      },
+      {
+        "en": "Shanghai has everything under the sun when it comes to food.",
+        "zh": "上海这个地方，海内海外什么菜肴都有。"
+      },
+      {
+        "en": "When it comes to love, women are experts and men eternal novices.",
+        "zh": "當說到愛情，女人是專家而男人永遠是新手。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_040472",
+    "type": "WORD",
+    "content": "It depends.",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "It depends on the context.",
+        "zh": "这要看情况。"
+      },
+      {
+        "en": "I guess it depends on the weather.",
+        "zh": "我想這取決於天氣。"
+      },
+      {
+        "en": "It depends what you mean by \"believe\" in God.",
+        "zh": "这取决于你所说的”相信“上帝是什么意思。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_040474",
+    "type": "WORD",
+    "content": "it fosters commonness",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_040477",
+    "type": "WORD",
+    "content": "it makes sense that",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_040478",
+    "type": "WORD",
+    "content": "it seems antithetical",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_040480",
+    "type": "WORD",
+    "content": "it transpired",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_040481",
+    "type": "WORD",
+    "content": "it transpired that",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_040485",
+    "type": "WORD",
+    "content": "it's a good job",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "expert",
+      "kaoyan",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_040487",
+    "type": "WORD",
+    "content": "It's cloudy.",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "It's cloudy today.",
+        "zh": "今天多云。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_040488",
+    "type": "WORD",
+    "content": "It's cold.",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "It's cold today.",
+        "zh": "今天很冷。"
+      },
+      {
+        "en": "It's cold this morning.",
+        "zh": "今天早上冷。"
+      },
+      {
+        "en": "Come in, it's cold outside.",
+        "zh": "进来吧，外面很冷。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_040489",
+    "type": "WORD",
+    "content": "It's cool.",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "It's cool today.",
+        "zh": "今天很凉快。"
+      },
+      {
+        "en": "It's cool this morning, isn't it?",
+        "zh": "今天上午很涼爽，不是嗎？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_040491",
+    "type": "WORD",
+    "content": "It's hard to tell.",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "It's hard to tell Englishmen from Americans just by the way they look.",
+        "zh": "只凭长相的话很难区分英国人和美国人。"
+      }
+    ]
+  }
+]

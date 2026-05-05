@@ -1,0 +1,293 @@
+[
+  {
+    "item_code": "w_073533",
+    "type": "WORD",
+    "content": "That's too bad.",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "That's too bad.",
+        "zh": "太可惜了！"
+      },
+      {
+        "en": "Oh! That's too bad.",
+        "zh": "哦！那太糟糕了。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_073538",
+    "type": "WORD",
+    "content": "the 1992 Consensus",
+    "theme": "postgraduate",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073539",
+    "type": "WORD",
+    "content": "The 24 Solar Terms",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073540",
+    "type": "WORD",
+    "content": "the 3+3 Initiative",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "He takes the initiative in helping his mother do the housework.",
+        "zh": "他主动帮他妈妈做家务。"
+      },
+      {
+        "en": "The initiative measurably improved quality of life for the villagers.",
+        "zh": "計劃使村民的生活改善了不少。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_073541",
+    "type": "WORD",
+    "content": "the 60s",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "This song was popular in the 1970s.",
+        "zh": "這首歌在七十年代很流行。"
+      },
+      {
+        "en": "This hairstyle was popular in the 1990s.",
+        "zh": "這種髮型在 20 世紀 90 年代很流行。"
+      },
+      {
+        "en": "Germany adopted a social security system in the 1880's.",
+        "zh": "德国在1880年代采取了一种社会保障制度。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_073542",
+    "type": "WORD",
+    "content": "the 7th Ring Road",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073543",
+    "type": "WORD",
+    "content": "the ability for sth.",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_073544",
+    "type": "WORD",
+    "content": "the above-mentioned phenomenon",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073545",
+    "type": "WORD",
+    "content": "the academic community",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073546",
+    "type": "WORD",
+    "content": "the accuracy of scales",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073552",
+    "type": "WORD",
+    "content": "the aging process",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_073555",
+    "type": "WORD",
+    "content": "the Amazon rainforest",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_073556",
+    "type": "WORD",
+    "content": "the Amazon River",
+    "theme": "junior_high",
+    "tags": [
+      "beibei",
+      "junior",
+      "momo",
+      "primary"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_073557",
+    "type": "WORD",
+    "content": "the American Bar Association",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073561",
+    "type": "WORD",
+    "content": "the Andes mountains",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_073562",
+    "type": "WORD",
+    "content": "the annual Peony Festival",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_073565",
+    "type": "WORD",
+    "content": "the Antarctic Pole",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073566",
+    "type": "WORD",
+    "content": "the Anti-Japanese War",
+    "theme": "upgrade_exam",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_073570",
+    "type": "WORD",
+    "content": "the Arctic Pole",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_073571",
+    "type": "WORD",
+    "content": "the Arctic shipping routes",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

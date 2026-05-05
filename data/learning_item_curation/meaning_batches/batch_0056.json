@@ -1,0 +1,281 @@
+[
+  {
+    "item_code": "w_004358",
+    "type": "WORD",
+    "content": "archless",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_004360",
+    "type": "WORD",
+    "content": "archvillain",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_004371",
+    "type": "WORD",
+    "content": "ardor disciple",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_004374",
+    "type": "WORD",
+    "content": "arduous journey",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_004377",
+    "type": "WORD",
+    "content": "are born out of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_004378",
+    "type": "WORD",
+    "content": "are dumb enough to",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_004379",
+    "type": "WORD",
+    "content": "are hybrids of these",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_004380",
+    "type": "WORD",
+    "content": "are not",
+    "theme": "primary_school",
+    "tags": [
+      "beibei",
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "You are not me.",
+        "zh": "你不是我。"
+      },
+      {
+        "en": "We are not young.",
+        "zh": "我们不年轻。"
+      },
+      {
+        "en": "You are not thin.",
+        "zh": "你不瘦。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_004381",
+    "type": "WORD",
+    "content": "are still getting started",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_004382",
+    "type": "WORD",
+    "content": "are wired to",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_004387",
+    "type": "WORD",
+    "content": "area of a rectangle",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_004388",
+    "type": "WORD",
+    "content": "areas",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "More and more people are moving to urban areas.",
+        "zh": "越來越多的人遷往市區。"
+      },
+      {
+        "en": "Tom doesn't like people who smoke in no smoking areas.",
+        "zh": "汤姆讨厌在禁烟区吸烟的人。"
+      },
+      {
+        "en": "They want to talk to you about areas of mutual interest.",
+        "zh": "他们想和你互相谈谈共同的兴趣领域。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_004394",
+    "type": "WORD",
+    "content": "arena custody",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_004400",
+    "type": "WORD",
+    "content": "arg",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_004401",
+    "type": "WORD",
+    "content": "argeneme",
+    "theme": "study_abroad",
+    "tags": [
+      "GMAT",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_004411",
+    "type": "WORD",
+    "content": "arguable vehicle",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_004413",
+    "type": "WORD",
+    "content": "arguary",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_004417",
+    "type": "WORD",
+    "content": "argue argument fight",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_004420",
+    "type": "WORD",
+    "content": "argue sb. into doing",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_004424",
+    "type": "WORD",
+    "content": "argument smug calibrate",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  }
+]

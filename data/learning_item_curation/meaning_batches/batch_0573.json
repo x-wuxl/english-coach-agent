@@ -1,0 +1,276 @@
+[
+  {
+    "item_code": "w_056050",
+    "type": "WORD",
+    "content": "play hopscotch",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_056051",
+    "type": "WORD",
+    "content": "play in cooperation with",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_056052",
+    "type": "WORD",
+    "content": "play instruments",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_056053",
+    "type": "WORD",
+    "content": "play into sb.'s hands",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_056056",
+    "type": "WORD",
+    "content": "play mahjong",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "Do you know how to play mahjong?",
+        "zh": "你知道怎麼打麻將嗎？"
+      },
+      {
+        "en": "I don't know how to play mahjong.",
+        "zh": "我不會打麻將。"
+      },
+      {
+        "en": "Tom knows how to play mahjong, I think.",
+        "zh": "我覺得湯姆知道怎麼玩麻雀。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_056059",
+    "type": "WORD",
+    "content": "play notice",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_056063",
+    "type": "WORD",
+    "content": "play on a swing",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_056064",
+    "type": "WORD",
+    "content": "play on the swing",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_056066",
+    "type": "WORD",
+    "content": "play one's heart out",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_056068",
+    "type": "WORD",
+    "content": "play online games",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "I don't play online games.",
+        "zh": "我不玩网游。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_056072",
+    "type": "WORD",
+    "content": "play role in",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_056074",
+    "type": "WORD",
+    "content": "play sport",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_056076",
+    "type": "WORD",
+    "content": "play squash",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_056080",
+    "type": "WORD",
+    "content": "play the devil's advocate",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_056081",
+    "type": "WORD",
+    "content": "play the drums",
+    "theme": "junior_high",
+    "tags": [
+      "beibei",
+      "junior",
+      "momo",
+      "primary"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_056082",
+    "type": "WORD",
+    "content": "play the flute",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_056084",
+    "type": "WORD",
+    "content": "play the music",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_056087",
+    "type": "WORD",
+    "content": "play the pipa",
+    "theme": "primary_school",
+    "tags": [
+      "beibei",
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_056095",
+    "type": "WORD",
+    "content": "play water polo",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_056096",
+    "type": "WORD",
+    "content": "play with dibs",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

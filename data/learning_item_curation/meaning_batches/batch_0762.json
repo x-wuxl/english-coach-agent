@@ -1,0 +1,294 @@
+[
+  {
+    "item_code": "w_074325",
+    "type": "WORD",
+    "content": "thicker",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "Blood is thicker than water.",
+        "zh": "血濃於水。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_074333",
+    "type": "WORD",
+    "content": "thigh jealousy analysis",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_074344",
+    "type": "WORD",
+    "content": "things",
+    "theme": "college_english",
+    "tags": [
+      "CET6",
+      "advanced",
+      "beibei"
+    ],
+    "difficulty": 4,
+    "examples": [
+      {
+        "en": "She steals things.",
+        "zh": "她偷東西。"
+      },
+      {
+        "en": "Are these your things?",
+        "zh": "這些是你的東西嗎？"
+      },
+      {
+        "en": "They eat these things.",
+        "zh": "他们吃这些东西。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_074354",
+    "type": "WORD",
+    "content": "think back on",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_074359",
+    "type": "WORD",
+    "content": "think highly",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "I know you think highly of him.",
+        "zh": "我知道你对他评价很高。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_074371",
+    "type": "WORD",
+    "content": "think of somebody as",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_074372",
+    "type": "WORD",
+    "content": "think of something as",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_074378",
+    "type": "WORD",
+    "content": "think outside the box",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_074382",
+    "type": "WORD",
+    "content": "think quickly",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "Think quickly!",
+        "zh": "快想！"
+      }
+    ]
+  },
+  {
+    "item_code": "w_074383",
+    "type": "WORD",
+    "content": "think seriously about sth.",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074390",
+    "type": "WORD",
+    "content": "think twice about something",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_074399",
+    "type": "WORD",
+    "content": "thinking pattern",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_074417",
+    "type": "WORD",
+    "content": "third party payment platform",
+    "theme": "CET6",
+    "tags": [
+      "CET4",
+      "CET6",
+      "advanced",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_074421",
+    "type": "WORD",
+    "content": "third-party payment platform",
+    "theme": "TEM4",
+    "tags": [
+      "TEM4",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_074430",
+    "type": "WORD",
+    "content": "thirsty sip straw",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_074436",
+    "type": "WORD",
+    "content": "Thirty Meter Telescope",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074448",
+    "type": "WORD",
+    "content": "this animal year",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_074451",
+    "type": "WORD",
+    "content": "This is for you.",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "This is for you.",
+        "zh": "这是给你的。"
+      },
+      {
+        "en": "Here, this is for you!",
+        "zh": "给，给你！"
+      }
+    ]
+  },
+  {
+    "item_code": "w_074453",
+    "type": "WORD",
+    "content": "this slim volume",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074455",
+    "type": "WORD",
+    "content": "This way, please.",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  }
+]

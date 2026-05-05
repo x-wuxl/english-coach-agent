@@ -1,0 +1,276 @@
+[
+  {
+    "item_code": "w_000543",
+    "type": "WORD",
+    "content": "a seriously flawed understanding",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000544",
+    "type": "WORD",
+    "content": "a set number of",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_000546",
+    "type": "WORD",
+    "content": "a set of earphones",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000548",
+    "type": "WORD",
+    "content": "a share of",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": [
+      {
+        "en": "We have a 20% share of the market.",
+        "zh": "我们的市场占有率为20%。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000551",
+    "type": "WORD",
+    "content": "a shopping spree",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000552",
+    "type": "WORD",
+    "content": "a short notice",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_000553",
+    "type": "WORD",
+    "content": "a shortage of",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "There was a shortage of fuel.",
+        "zh": "燃料短缺。"
+      },
+      {
+        "en": "There is a shortage of good building wood.",
+        "zh": "现在正缺良好的建筑木材。"
+      },
+      {
+        "en": "There's a shortage of the soda I drink. None of the stores I've gone to have any.",
+        "zh": "我喝的汽水缺貨了，我去的幾家店都沒貨了。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_000554",
+    "type": "WORD",
+    "content": "a side effect",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_000555",
+    "type": "WORD",
+    "content": "a sightseeing tour",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_000556",
+    "type": "WORD",
+    "content": "a significant issue",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000557",
+    "type": "WORD",
+    "content": "a silver jubilee",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000559",
+    "type": "WORD",
+    "content": "a simple fix",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000560",
+    "type": "WORD",
+    "content": "a single lineage",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000561",
+    "type": "WORD",
+    "content": "a single-parent family",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000562",
+    "type": "WORD",
+    "content": "a single-parental family",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000567",
+    "type": "WORD",
+    "content": "a slice of lemon",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000568",
+    "type": "WORD",
+    "content": "a slightly larger group",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000570",
+    "type": "WORD",
+    "content": "a small fire",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_000571",
+    "type": "WORD",
+    "content": "a small-scale study",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_000572",
+    "type": "WORD",
+    "content": "a sober-sided classical-music critic",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

@@ -1,0 +1,278 @@
+[
+  {
+    "item_code": "w_081212",
+    "type": "WORD",
+    "content": "wise management",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081219",
+    "type": "WORD",
+    "content": "wish sb. do sth.",
+    "theme": "zhongkao",
+    "tags": [
+      "junior",
+      "momo",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_081227",
+    "type": "WORD",
+    "content": "wistful cultish",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_081238",
+    "type": "WORD",
+    "content": "with a large margin",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_081239",
+    "type": "WORD",
+    "content": "with a population of",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "IELTS",
+      "advanced",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "Taiwan is an island nation in the western Pacific Ocean with a population of roughly 23 million people.",
+        "zh": "台灣是個位於太平洋西岸的島國，人口約兩千三百萬。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_081240",
+    "type": "WORD",
+    "content": "with a small margin",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_081250",
+    "type": "WORD",
+    "content": "with an access to",
+    "theme": "CET4",
+    "tags": [
+      "CET4",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_081252",
+    "type": "WORD",
+    "content": "with an average of",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_081254",
+    "type": "WORD",
+    "content": "with an eye towards",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_081255",
+    "type": "WORD",
+    "content": "with assurance",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081258",
+    "type": "WORD",
+    "content": "with certain exceptions",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081262",
+    "type": "WORD",
+    "content": "with details of",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081264",
+    "type": "WORD",
+    "content": "with due consideration of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081266",
+    "type": "WORD",
+    "content": "with easy access to",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_081269",
+    "type": "WORD",
+    "content": "with exception of",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_081274",
+    "type": "WORD",
+    "content": "with grace",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "beibei",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_081276",
+    "type": "WORD",
+    "content": "with great passion",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081282",
+    "type": "WORD",
+    "content": "with my parents",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "I live with my parents.",
+        "zh": "我跟父母住在一起."
+      },
+      {
+        "en": "I'm living with my parents.",
+        "zh": "我跟父母住在一起."
+      },
+      {
+        "en": "Just now I was chatting with my parents.",
+        "zh": "刚才我在和我爸妈闲聊。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_081283",
+    "type": "WORD",
+    "content": "with no air of",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_081286",
+    "type": "WORD",
+    "content": "with one's consent",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

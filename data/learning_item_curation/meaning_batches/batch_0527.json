@@ -1,0 +1,282 @@
+[
+  {
+    "item_code": "w_051214",
+    "type": "WORD",
+    "content": "of the family",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "He is the baby of the family.",
+        "zh": "他是家里的宝贝。"
+      },
+      {
+        "en": "He is the odd one of the family.",
+        "zh": "他是家族中的異類。"
+      },
+      {
+        "en": "He took a photograph of the family.",
+        "zh": "他拍了張全家福的照片。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_051231",
+    "type": "WORD",
+    "content": "off one's radar",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_051232",
+    "type": "WORD",
+    "content": "off season",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_051243",
+    "type": "WORD",
+    "content": "off the starting line",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051250",
+    "type": "WORD",
+    "content": "off-campus student",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051254",
+    "type": "WORD",
+    "content": "off-hour hobby",
+    "theme": "TEM4",
+    "tags": [
+      "CET4",
+      "TEM4",
+      "advanced",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_051256",
+    "type": "WORD",
+    "content": "off-kilter",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_051259",
+    "type": "WORD",
+    "content": "off-payroll income",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051274",
+    "type": "WORD",
+    "content": "offend one's ear",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_051275",
+    "type": "WORD",
+    "content": "offend one's eye",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_051278",
+    "type": "WORD",
+    "content": "offended",
+    "theme": "computer_science",
+    "tags": [
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "I've offended you.",
+        "zh": "我冒犯到你了。"
+      },
+      {
+        "en": "Have I offended him?",
+        "zh": "我是不是得罪他了？"
+      },
+      {
+        "en": "I'm afraid I've offended you.",
+        "zh": "我怕我冒犯了你。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_051283",
+    "type": "WORD",
+    "content": "offensive bowel",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_051284",
+    "type": "WORD",
+    "content": "offensive scandal",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051287",
+    "type": "WORD",
+    "content": "offer ... a hand",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_051288",
+    "type": "WORD",
+    "content": "offer a discount",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051289",
+    "type": "WORD",
+    "content": "offer advice",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051290",
+    "type": "WORD",
+    "content": "offer advice about ...",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_051291",
+    "type": "WORD",
+    "content": "offer advice on ...",
+    "theme": "gaokao",
+    "tags": [
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_051293",
+    "type": "WORD",
+    "content": "offer financial aid",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_051294",
+    "type": "WORD",
+    "content": "offer reduction",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  }
+]

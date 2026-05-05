@@ -1,0 +1,284 @@
+[
+  {
+    "item_code": "w_074457",
+    "type": "WORD",
+    "content": "this weekend",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "See you this weekend!",
+        "zh": "週末見！"
+      },
+      {
+        "en": "Are you free this weekend?",
+        "zh": "這個週末你有時間嗎？"
+      },
+      {
+        "en": "If possible, this weekend.",
+        "zh": "如果可能的话，这周末。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_074463",
+    "type": "WORD",
+    "content": "Thomas",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary",
+      "senior",
+      "shanbay"
+    ],
+    "difficulty": 3,
+    "examples": [
+      {
+        "en": "Thomas swam.",
+        "zh": "汤姆游泳了。"
+      },
+      {
+        "en": "My name is Thomas.",
+        "zh": "我叫托馬斯。"
+      },
+      {
+        "en": "Did Thomas get sick?",
+        "zh": "汤姆生病了吗？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_074465",
+    "type": "WORD",
+    "content": "Thomas Orde-Lees",
+    "theme": "senior_high",
+    "tags": [
+      "beibei",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_074466",
+    "type": "WORD",
+    "content": "Thomas Watson",
+    "theme": "junior_high",
+    "tags": [
+      "beibei",
+      "junior",
+      "momo"
+    ],
+    "difficulty": 2,
+    "examples": []
+  },
+  {
+    "item_code": "w_074467",
+    "type": "WORD",
+    "content": "Thomson's model",
+    "theme": "study_abroad",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074474",
+    "type": "WORD",
+    "content": "thorascope",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_074476",
+    "type": "WORD",
+    "content": "thorax oscillate",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_074481",
+    "type": "WORD",
+    "content": "thorny bumps",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074482",
+    "type": "WORD",
+    "content": "thorny peruse",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_074483",
+    "type": "WORD",
+    "content": "thorny problem",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074485",
+    "type": "WORD",
+    "content": "thorough cleanup",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_074486",
+    "type": "WORD",
+    "content": "thorough inspection",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_074493",
+    "type": "WORD",
+    "content": "those in power",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "gaokao",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074517",
+    "type": "WORD",
+    "content": "threadbare wanderlust",
+    "theme": "study_abroad",
+    "tags": [
+      "GRE",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_074520",
+    "type": "WORD",
+    "content": "threat of disease",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074521",
+    "type": "WORD",
+    "content": "threat of global warming",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074524",
+    "type": "WORD",
+    "content": "threaten to",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074526",
+    "type": "WORD",
+    "content": "threatened aquatic species",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074531",
+    "type": "WORD",
+    "content": "three critical battles",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_074534",
+    "type": "WORD",
+    "content": "three dimensional undulate zigzag",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  }
+]

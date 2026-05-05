@@ -1,0 +1,349 @@
+[
+  {
+    "item_code": "w_031927",
+    "type": "WORD",
+    "content": "go to restaurants",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_031931",
+    "type": "WORD",
+    "content": "go to some lengths",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_031935",
+    "type": "WORD",
+    "content": "go to the countryside",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_031936",
+    "type": "WORD",
+    "content": "go to the dentist",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "I have to go to the dentist this afternoon.",
+        "zh": "我今天下午要看牙醫。"
+      },
+      {
+        "en": "It's best to go to the dentist at regular intervals.",
+        "zh": "最好定期去看牙医。"
+      },
+      {
+        "en": "You should go to the dentist and have that tooth pulled out.",
+        "zh": "你應該去看牙醫，把牙拔掉。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_031939",
+    "type": "WORD",
+    "content": "go to the expense",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_031940",
+    "type": "WORD",
+    "content": "go to the fair",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_031941",
+    "type": "WORD",
+    "content": "go to the gym",
+    "theme": "toefl",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_031942",
+    "type": "WORD",
+    "content": "go to the hospital",
+    "theme": "zhongkao",
+    "tags": [
+      "junior",
+      "momo",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": [
+      {
+        "en": "I have to go to the hospital.",
+        "zh": "我需要去醫院。"
+      },
+      {
+        "en": "I need to go to the hospital.",
+        "zh": "我需要去醫院。"
+      },
+      {
+        "en": "Let's go to the hospital now.",
+        "zh": "我们现在就去医院吧。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_031943",
+    "type": "WORD",
+    "content": "go to the library",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "I have to go to the library.",
+        "zh": "我得去趟圖書館。"
+      },
+      {
+        "en": "I need to go to the library.",
+        "zh": "我得去趟圖書館。"
+      },
+      {
+        "en": "I've got to go to the library.",
+        "zh": "我得去趟圖書館。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_031944",
+    "type": "WORD",
+    "content": "go to the limit",
+    "theme": "vocabulary",
+    "tags": [
+      "momo",
+      "senior"
+    ],
+    "difficulty": 3,
+    "examples": []
+  },
+  {
+    "item_code": "w_031945",
+    "type": "WORD",
+    "content": "go to the mall",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "I'd like to go to the mall.",
+        "zh": "我想去商场。"
+      },
+      {
+        "en": "Sami and Layla want to go to the mall.",
+        "zh": "萨米和莱拉想要去商场。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_031946",
+    "type": "WORD",
+    "content": "go to the mountains",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_031947",
+    "type": "WORD",
+    "content": "go to the movie",
+    "theme": "textbook_primary",
+    "tags": [
+      "junior",
+      "momo",
+      "primary",
+      "zhongkao"
+    ],
+    "difficulty": 2,
+    "examples": [
+      {
+        "en": "Do you like to go to the movie theater?",
+        "zh": "你喜歡去電影院嗎？"
+      },
+      {
+        "en": "How many times a week do you go to the movie theater to watch movies?",
+        "zh": "你一般星期幾去電影院看電影？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_031949",
+    "type": "WORD",
+    "content": "go to the park",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "Did Tom go to the park with Mary?",
+        "zh": "湯姆跟瑪麗一起去公園了嗎？"
+      },
+      {
+        "en": "I'll still go to the park even if it rains.",
+        "zh": "如果下雨的话，我还是要去公园。"
+      },
+      {
+        "en": "Eh? We said we'd go to the park? I didn't realise.",
+        "zh": "啊？我们说过要去公园吗？我没有印象。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_031950",
+    "type": "WORD",
+    "content": "go to the seaside",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "He wants to go to the seaside.",
+        "zh": "他想去海邊。"
+      },
+      {
+        "en": "In summer, we go to the seaside.",
+        "zh": "夏天，我們去海邊。"
+      },
+      {
+        "en": "I'd like to go to the seaside with you.",
+        "zh": "我想和你一起去海邊。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_031953",
+    "type": "WORD",
+    "content": "go to the zoo",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "I'd like to go to the zoo.",
+        "zh": "我想去動物園。"
+      },
+      {
+        "en": "Tom suggested that we go to the zoo.",
+        "zh": "汤姆推荐了我们去动物园。"
+      },
+      {
+        "en": "Would you like to go to the zoo this afternoon?",
+        "zh": "你今天下午想不想去动物园？"
+      }
+    ]
+  },
+  {
+    "item_code": "w_031955",
+    "type": "WORD",
+    "content": "go to war with",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_031966",
+    "type": "WORD",
+    "content": "go veggie",
+    "theme": "college_english",
+    "tags": [
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_031967",
+    "type": "WORD",
+    "content": "go water skiing",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_031968",
+    "type": "WORD",
+    "content": "go water-skiing",
+    "theme": "international",
+    "tags": [
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]

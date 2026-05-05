@@ -1,0 +1,280 @@
+[
+  {
+    "item_code": "w_065948",
+    "type": "WORD",
+    "content": "share the cake",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065949",
+    "type": "WORD",
+    "content": "share the feeling",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065950",
+    "type": "WORD",
+    "content": "share the profits",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065951",
+    "type": "WORD",
+    "content": "share the view on",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065952",
+    "type": "WORD",
+    "content": "share their experience",
+    "theme": "ielts",
+    "tags": [
+      "IELTS",
+      "expert",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065954",
+    "type": "WORD",
+    "content": "share with friends",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065956",
+    "type": "WORD",
+    "content": "shared and competing belief",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065957",
+    "type": "WORD",
+    "content": "shared bikes",
+    "theme": "CET6",
+    "tags": [
+      "CET6",
+      "advanced",
+      "momo"
+    ],
+    "difficulty": 4,
+    "examples": []
+  },
+  {
+    "item_code": "w_065958",
+    "type": "WORD",
+    "content": "shared mobility",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065960",
+    "type": "WORD",
+    "content": "shareholder debris",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_065969",
+    "type": "WORD",
+    "content": "sharp criticism",
+    "theme": "postgraduate",
+    "tags": [
+      "expert",
+      "kaoyan",
+      "momo"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065970",
+    "type": "WORD",
+    "content": "sharp fork spoon tablespoon",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_065971",
+    "type": "WORD",
+    "content": "sharp mind",
+    "theme": "gaokao",
+    "tags": [
+      "TOEFL",
+      "expert",
+      "gaokao",
+      "momo",
+      "senior"
+    ],
+    "difficulty": 5,
+    "examples": [
+      {
+        "en": "He has a sharp mind.",
+        "zh": "他很聪明。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_065982",
+    "type": "WORD",
+    "content": "shave fluid",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 6,
+    "examples": []
+  },
+  {
+    "item_code": "w_065984",
+    "type": "WORD",
+    "content": "shave shaver razor",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_065991",
+    "type": "WORD",
+    "content": "shaw",
+    "theme": "upgrade_exam",
+    "tags": [
+      "TEM4",
+      "TEM8",
+      "advanced",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065994",
+    "type": "WORD",
+    "content": "shawty",
+    "theme": "TEM4",
+    "tags": [
+      "BEC",
+      "TEM4",
+      "TEM8",
+      "advanced",
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  },
+  {
+    "item_code": "w_065996",
+    "type": "WORD",
+    "content": "she is",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "en": "She is dead.",
+        "zh": "她死了。"
+      },
+      {
+        "en": "She is sick.",
+        "zh": "她生病了。"
+      },
+      {
+        "en": "She is tall.",
+        "zh": "她高。"
+      }
+    ]
+  },
+  {
+    "item_code": "w_065997",
+    "type": "WORD",
+    "content": "She is ...",
+    "theme": "textbook_primary",
+    "tags": [
+      "momo",
+      "primary"
+    ],
+    "difficulty": 1,
+    "examples": []
+  },
+  {
+    "item_code": "w_066008",
+    "type": "WORD",
+    "content": "sheave",
+    "theme": "study_abroad",
+    "tags": [
+      "beibei",
+      "expert"
+    ],
+    "difficulty": 5,
+    "examples": []
+  }
+]
